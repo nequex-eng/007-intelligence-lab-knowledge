@@ -1,0 +1,2797 @@
+{
+  "schema_version": "1.0",
+  "generated": "2026-11-06",
+  "total_unique": 177,
+  "locations": [
+    {
+      "id": "london",
+      "name_en": "London",
+      "name_zh": "伦敦",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 7,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "role": "秘密情报局总部所在地，摄政公园附近大楼，M与S处办公地"
+        },
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "邦德住所切尔西与总部所在地，M于1月初在此面授任务"
+        },
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "role": "德拉克斯黑皮本设定的真正目标,约在白金汉宫附近,未遂"
+        },
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "M总部（摄政公园）、哈顿花园The House of Diamonds、特拉法加宫酒店、里茨酒店、萨沃伊酒店；走私链中转地，ABC藏身处"
+        },
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "邦德切尔西公寓与总部所在地；纹章院、M汇报地"
+        },
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "role": "邦德的基地，M办公室与布莱兹俱乐部所在地，讣告发表地"
+        },
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "role": "第3篇主场景，秘密情报机构总部、Sotheby's与Wartski所在地；Malinowski尾随终点为肯辛顿宫花园苏联大使馆"
+        }
+      ]
+    },
+    {
+      "id": "paris",
+      "name_en": "Paris",
+      "name_zh": "巴黎",
+      "country": "法国",
+      "fictional": false,
+      "appearance_count": 4,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "role": "马蒂斯与第二局总部所在地，薇丝朋受MWD遥控的电话打往巴黎Invalides号码"
+        },
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "The House of Diamonds在里沃利街有店；塞耶每月去巴黎一次；结尾塞耶闻风飞巴黎、再到达喀尔"
+        },
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "role": "第1篇邦德休假地与F站驻地,含Fouquet's、Harry's Bar、Terminus Nord等邦德常去地址"
+        },
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "role": "第3篇Maria Freudenstein出生地与其母白俄流亡圈所在地，Emerald Sphere由巴黎挂号寄出"
+        }
+      ]
+    },
+    {
+      "id": "new-york",
+      "name_en": "New York",
+      "name_zh": "纽约",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 3,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "故事起点：邦德抵达Idlewild机场，入住St Regis酒店，夜访哈莱姆并被Mr Big俘获"
+        },
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "爱德怀尔德机场入关、西46街The House of Diamonds纽约总部、Astor酒店、52街21俱乐部；沙迪·特里据点"
+        },
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "role": "诺博士任帮会司库、盗金、遭断手枪击与改容之地；哈妮梦想去纽约整鼻与当应召女郎"
+        }
+      ]
+    },
+    {
+      "id": "nassau",
+      "name_en": "Nassau",
+      "name_zh": "拿骚",
+      "country": "巴哈马",
+      "fictional": false,
+      "appearance_count": 3,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "邦德飞往牙买加途中经停地"
+        },
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "role": "第3篇总督府晚宴与讲故事地,邦德下榻British Colonial酒店"
+        },
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "故事主舞台，邦德与莱特调查飞碟号之地，曼塔号停靠港"
+        }
+      ]
+    },
+    {
+      "id": "kingston",
+      "name_en": "Kingston",
+      "name_zh": "金斯顿",
+      "country": "牙买加",
+      "fictional": false,
+      "appearance_count": 3,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "role": "牙买加首府，斯特兰威斯遇害地与邦德调查的起点；女王俱乐部、总督府、蓝山酒店与欢乐船夜总会均在此"
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "牙买加首都与J站所在地；邦德经金斯敦国际机场转机，在Morgan's Harbour住宿，结尾在金斯敦医院养伤"
+        },
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "role": "第1篇邦德乘出租车出发地，Foo兄弟商行与Myrtle Bank所在地"
+        }
+      ]
+    },
+    {
+      "id": "royale-les-eaux",
+      "name_en": "Royale-les-Eaux",
+      "name_zh": "皇家莱索",
+      "country": "法国",
+      "fictional": true,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "role": "故事主场景，索姆河口附近的海滨小镇，赌场与两家大酒店所在地"
+        },
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "开篇地：邦德与崔西相遇、赌场与绑架发生地"
+        }
+      ]
+    },
+    {
+      "id": "casino-royale",
+      "name_en": "Casino Royale",
+      "name_zh": "皇家赌场",
+      "country": "法国",
+      "fictional": true,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "role": "百家乐对决、爆炸与暗杀未遂的发生地，白色鎏金维多利亚式建筑"
+        },
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "邦德赢得460万法郎、崔西“耻辱一击”发生地"
+        }
+      ]
+    },
+    {
+      "id": "strasbourg",
+      "name_en": "Strasbourg",
+      "name_zh": "斯特拉斯堡",
+      "country": "法国",
+      "fictional": false,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "role": "勒·希弗的活动基地与阿尔萨斯工会中心，勒·希弗死讯在此引起轰动"
+        },
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "突袭队集结地，秘密军组织直升机藏于附近城堡谷仓"
+        }
+      ]
+    },
+    {
+      "id": "jamaica",
+      "name_en": "Jamaica",
+      "name_zh": "牙买加",
+      "country": "牙买加",
+      "fictional": false,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "role": "邦德掩护身份来源地与通讯中转地，福塞特在金斯敦《每日拾穗者报》任职"
+        },
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "故事后半段舞台：金斯敦、Shark Bay、惊奇岛、Beau Desert、Manatee Bay"
+        }
+      ]
+    },
+    {
+      "id": "havana",
+      "name_en": "Havana",
+      "name_zh": "哈瓦那",
+      "country": "古巴",
+      "fictional": false,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "Secatur号停靠地，Mr Big与索利泰尔乘包机由此前往；邦德飞往牙买加途中飞越哈瓦那上空"
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "斯卡拉曼加的大本营与DSS所在地；Hendriks的克格勃哈瓦那中心所在地；邦德原计划以信使身份前往"
+        }
+      ]
+    },
+    {
+      "id": "beau-desert",
+      "name_en": "Beau Desert",
+      "name_zh": "博德泽特",
+      "country": "牙买加",
+      "fictional": true,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "Shark Bay西岸约1000英亩种植园，Strangways租用的监视据点与邦德行动基地"
+        },
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "role": "摩根港附近的种植园与海滩别墅，邦德训练与藏身的基地；哈妮家族旧宅废墟亦在此，她住在地窖中"
+        }
+      ]
+    },
+    {
+      "id": "las-vegas",
+      "name_en": "Las Vegas",
+      "name_zh": "拉斯维加斯",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "Tiara酒店所在地，塞拉菲莫·斯班格总部；邦德在此领报酬、赢走20000美元、遭追车枪战"
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "斯卡拉曼加早年为Spangled Mob当枪手的城市；1958年在Thunderbird高尔夫球场决斗杀死Ramon Rodriguez"
+        }
+      ]
+    },
+    {
+      "id": "london-hq",
+      "name_en": "Secret Service headquarters, Regent's Park",
+      "name_zh": "秘密情报局总部",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "M办公室所在地，邦德接受任务处"
+        },
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "role": "M办公室所在地，第II章换枪与交代任务之地；无线电呼号WWW"
+        }
+      ]
+    },
+    {
+      "id": "trieste",
+      "name_en": "Trieste",
+      "name_zh": "的里雅斯特",
+      "country": "意大利",
+      "fictional": false,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "格蘭特化名纳什登车处"
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "少年斯卡拉曼加大象Max发狂、他开枪杀警的马戏团巡演地"
+        }
+      ]
+    },
+    {
+      "id": "berlin",
+      "name_en": "Berlin",
+      "name_zh": "柏林",
+      "country": "德国",
+      "fictional": false,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "格蘭特投奔苏联处；鲍姆加滕被刺处"
+        },
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "role": "第2篇主场景，东西柏林边境Zimmerstrasse越境行动之地"
+        }
+      ]
+    },
+    {
+      "id": "london-hq",
+      "name_en": "Secret Service Headquarters, London",
+      "name_zh": "伦敦秘密情报局总部",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "M办公室所在地，邦德接获霹雳弹行动命令之地"
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "邦德回国报到与刺杀M未遂的发生地；M办公室在八楼，旧房间号为12号"
+        }
+      ]
+    },
+    {
+      "id": "zurich",
+      "name_en": "Zurich",
+      "name_zh": "苏黎世",
+      "country": "瑞士",
+      "fictional": false,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "role": "薇薇安堕胎地；朱斯金德医生与布伦瑞克妇科医生经手，费用约100至150镑"
+        },
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "邦德入境地；Z站驻地；女孩们飞往英国的出发地"
+        }
+      ]
+    },
+    {
+      "id": "hotel-splendide",
+      "name_en": "Hôtel Splendide",
+      "name_zh": "Splendide酒店",
+      "country": "法国",
+      "fictional": true,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "role": "邦德下榻处，45号房被蒙茨夫妇窃听，支票藏于房门号牌之后"
+        }
+      ]
+    },
+    {
+      "id": "hotel-hermitage",
+      "name_en": "Hôtel Hermitage",
+      "name_zh": "Hermitage酒店",
+      "country": "法国",
+      "fictional": true,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "role": "邦德与薇丝朋初次见面的酒吧所在地，窗户被爆炸震碎"
+        }
+      ]
+    },
+    {
+      "id": "les-noctambules",
+      "name_en": "Les Noctambules",
+      "name_zh": "夜行者别墅",
+      "country": "法国",
+      "fictional": true,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "role": "勒·希弗租住的别墅，邦德受酷刑与勒·希弗被处决之地，位于海岸公路以南约10英里"
+        }
+      ]
+    },
+    {
+      "id": "auberge-du-fruit-defendu",
+      "name_en": "L'Auberge du Fruit Défendu",
+      "name_zh": "禁果客栈",
+      "country": "法国",
+      "fictional": true,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "role": "邦德与薇丝朋康复后同住的海边小客栈，薇丝朋在此自杀"
+        }
+      ]
+    },
+    {
+      "id": "dachau",
+      "name_en": "Dachau",
+      "name_zh": "达豪",
+      "country": "德国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "role": "勒·希弗1945年6月首次以失忆难民身份出现的难民营"
+        }
+      ]
+    },
+    {
+      "id": "monte-carlo",
+      "name_en": "Monte Carlo",
+      "name_zh": "蒙特卡洛",
+      "country": "摩纳哥",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "role": "邦德战前与马蒂斯合作破获罗马尼亚作弊团伙之地"
+        }
+      ]
+    },
+    {
+      "id": "harlem",
+      "name_en": "Harlem",
+      "name_zh": "哈莱姆",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "Mr Big的大本营，Boneyard夜总会、Sugar Ray's、Savoy Ballroom所在地，金币分销网络中心"
+        }
+      ]
+    },
+    {
+      "id": "jacksonville",
+      "name_en": "Jacksonville",
+      "name_zh": "杰克逊维尔",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "邦德与索利泰尔凌晨5时下车换乘Silver Meteor号的佛罗里达枢纽"
+        }
+      ]
+    },
+    {
+      "id": "st-petersburg",
+      "name_en": "St. Petersburg",
+      "name_zh": "圣彼得堡",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "佛罗里达西海岸城市，绰号阳光城与美国大墓地；Ourobouros仓库所在地，莱特在此遭鲨鱼袭击，索利泰尔在此被绑架"
+        }
+      ]
+    },
+    {
+      "id": "treasure-island",
+      "name_en": "Treasure Island",
+      "name_zh": "宝藏岛",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "St Petersburg外海滩岛，Everglades Cabanas旅馆所在地"
+        }
+      ]
+    },
+    {
+      "id": "tampa",
+      "name_en": "Tampa",
+      "name_zh": "坦帕",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "绑架索利泰尔的两名男子来自坦帕，Oasis酒吧后台球室为其联络点；FBI坦帕分局参与调查"
+        }
+      ]
+    },
+    {
+      "id": "tarpon-springs",
+      "name_en": "Tarpon Springs",
+      "name_zh": "塔彭斯普林斯",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "Ourobouros名义业主Papagos的家乡，希腊海绵渔民聚居地"
+        }
+      ]
+    },
+    {
+      "id": "isle-of-surprise",
+      "name_en": "Isle of Surprise",
+      "name_zh": "惊奇岛",
+      "country": "牙买加",
+      "fictional": true,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "Shark Bay中央的珊瑚石灰岩小岛，血腥摩根宝藏库所在地，Mr Big以伏都鼓声与鲨鱼守卫该岛"
+        }
+      ]
+    },
+    {
+      "id": "shark-bay",
+      "name_en": "Shark Bay",
+      "name_zh": "鲨鱼湾",
+      "country": "牙买加",
+      "fictional": true,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "牙买加北海岸小港湾，血腥摩根旧锚地，Beau Desert据点俯瞰该湾"
+        }
+      ]
+    },
+    {
+      "id": "manatee-bay",
+      "name_en": "Manatee Bay",
+      "name_zh": "海牛湾",
+      "country": "牙买加",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "牙买加西端海滩，西印度柑橘公司休养所，邦德与Quarrel训练一周之地"
+        }
+      ]
+    },
+    {
+      "id": "llanrumney",
+      "name_en": "Llanrumney",
+      "name_zh": "兰拉姆尼",
+      "country": "牙买加",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "血腥摩根在Shark Bay畔的庄园，以其威尔士出生地命名，摩根曾在此建三栋房屋"
+        }
+      ]
+    },
+    {
+      "id": "port-maria",
+      "name_en": "Port Maria",
+      "name_zh": "玛丽亚港",
+      "country": "牙买加",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "Shark Bay邻近港口，Secatur号在此清关；邦德术后送往此地医院"
+        }
+      ]
+    },
+    {
+      "id": "plum-point",
+      "name_en": "Plum Point",
+      "name_zh": "普拉姆角",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "北卡罗来纳州Beaufort县地名，1928年圣诞节前后据信有人在此挖出黑胡子部分宝藏，为金币来源的掩护说法"
+        }
+      ]
+    },
+    {
+      "id": "glen-cove",
+      "name_en": "Glen Cove",
+      "name_zh": "格伦科夫",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "长岛苏联周末休养营所在地，1951年苏联双面特工在前往此地的地铁站被推下站台身亡"
+        }
+      ]
+    },
+    {
+      "id": "hq-regents-park",
+      "name_en": "Secret Service Headquarters near Regent's Park",
+      "name_zh": "摄政公园附近秘密情报机构总部",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "role": "邦德与M的办公地,8楼为00部门,9楼为M办公室"
+        }
+      ]
+    },
+    {
+      "id": "blades",
+      "name_en": "Blades",
+      "name_zh": "布莱兹俱乐部",
+      "country": "英国",
+      "fictional": true,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "role": "伦敦圣詹姆斯区Park Street私人赌牌俱乐部,德拉克斯作弊与邦德设局之地"
+        }
+      ]
+    },
+    {
+      "id": "dover-deal-site",
+      "name_en": "Moonraker site between Dover and Deal",
+      "name_zh": "多佛尔与迪尔之间月亮牌基地",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "role": "发射井、宿舍与办公楼所在地,占地约1000英亩,核心约200英亩"
+        }
+      ]
+    },
+    {
+      "id": "world-without-want",
+      "name_en": "World Without Want",
+      "name_zh": "World Without Want酒馆",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "role": "基地附近海岸公路上的酒馆,塔隆与巴奇命案现场"
+        }
+      ]
+    },
+    {
+      "id": "ebury-street",
+      "name_en": "Ebury Street house",
+      "name_zh": "Ebury Street宅邸",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "role": "德拉克斯在伦敦的秘密据点,顶楼藏雷达引导站,盖拉被囚于此"
+        }
+      ]
+    },
+    {
+      "id": "st-margarets-bay",
+      "name_en": "St Margaret's Bay",
+      "name_zh": "圣玛格丽特湾",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "role": "邦德与盖拉崖崩脱险后步行前往并乘出租车返回基地之地"
+        }
+      ]
+    },
+    {
+      "id": "north-sea-target",
+      "name_en": "North Sea target area",
+      "name_zh": "北海目标区",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "role": "月亮牌原定目标,距基地约80英里,在弗里西亚群岛与赫尔之间,火箭最终落于此并核爆"
+        }
+      ]
+    },
+    {
+      "id": "tangier",
+      "name_en": "Tangier",
+      "name_zh": "丹吉尔",
+      "country": "摩洛哥",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "role": "德拉克斯经营Columbite与做空英镑的自由港基地"
+        }
+      ]
+    },
+    {
+      "id": "peenemunde",
+      "name_en": "Peenemunde",
+      "name_zh": "佩内明德",
+      "country": "德国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "role": "德国导弹研究地,008曾去此地,沃尔特为其导弹专家"
+        }
+      ]
+    },
+    {
+      "id": "woomera",
+      "name_en": "Woomera Range",
+      "name_zh": "伍默拉试验场",
+      "country": "澳大利亚",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "role": "供应部专家审核月亮牌设计之地"
+        }
+      ]
+    },
+    {
+      "id": "thorn-bush",
+      "name_en": "The great thorn bush, French Guinea",
+      "name_zh": "法属几内亚大荆棘丛",
+      "country": "法属几内亚（今几内亚）",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "走私链起点，位于基西杜古以南40英里、法属几内亚与利比里亚、塞拉利昂三国交界处，牙医每月满月夜在此向直升机交钻；结尾斯班格在此被击落"
+        }
+      ]
+    },
+    {
+      "id": "sefadu-mines",
+      "name_en": "Sefadu diamond mines, Sierra Leone",
+      "name_zh": "塞拉利昂塞法杜钻石矿",
+      "country": "塞拉利昂",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "钻石来源，属Sierra International（Afric International矿业帝国一部分），牙医在此从矿工口中取钻"
+        }
+      ]
+    },
+    {
+      "id": "saratoga",
+      "name_en": "Saratoga Springs",
+      "name_zh": "萨拉托加温泉市",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "8月赛马会举办地，The Perpetuities Stakes与替身马骗局发生处；邦德与莱特住Sagamore汽车旅馆"
+        }
+      ]
+    },
+    {
+      "id": "spectreville",
+      "name_en": "Spectreville",
+      "name_zh": "幽灵村",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "斯班格买下的旧银矿鬼镇，位于95号公路边、Spectre山脉旁，约1905年采银3年；邦德在此被毒打、纵火逃脱；注意：地名源于Spectre山脉，与组织SPECTRE无关"
+        }
+      ]
+    },
+    {
+      "id": "rhyolite",
+      "name_en": "Rhyolite",
+      "name_zh": "Rhyolite",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "幽灵村以东约50英里的另一鬼镇，现为旅游点，有威士忌酒瓶屋；邦德与蒂芙尼乘手摇车逃往该方向"
+        }
+      ]
+    },
+    {
+      "id": "queen-elizabeth",
+      "name_en": "RMS Queen Elizabeth",
+      "name_zh": "伊丽莎白女王号邮轮",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "邦德与蒂芙尼返英所乘邮轮，星期日早8时自纽约开船，5天航程，温特与基德在A49舱行刺、被邦德击毙"
+        }
+      ]
+    },
+    {
+      "id": "freetown",
+      "name_en": "Freetown",
+      "name_zh": "弗里敦",
+      "country": "塞拉利昂",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "邦德乘堪培拉飞机抵达，与弗里敦驻军埋伏拦截斯班格直升机"
+        }
+      ]
+    },
+    {
+      "id": "dakar",
+      "name_en": "Dakar",
+      "name_zh": "达喀尔",
+      "country": "塞内加尔",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "国际刑警报告塞耶逃往达喀尔，佐证其即ABC"
+        }
+      ]
+    },
+    {
+      "id": "crimea-villa",
+      "name_en": "Crimea villa",
+      "name_zh": "克里米亚别墅",
+      "country": "苏联",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "格蘭特的住所，位于费奥多西亚与雅尔塔之间东南海岸，官方度假别墅；故事开篇地"
+        }
+      ]
+    },
+    {
+      "id": "moscow-smersh-hq",
+      "name_en": "No. 13 Sretenka Ulitsa, Moscow",
+      "name_zh": "莫斯科斯列坚卡街13号",
+      "country": "苏联",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "SMERSH总部，G将军办公室与会议室所在地，死刑令签署地"
+        }
+      ]
+    },
+    {
+      "id": "london-chelsea-flat",
+      "name_en": "Bond's flat, Chelsea",
+      "name_zh": "邦德切尔西公寓",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "邦德住所，位于国王路广场；MGB派电视推销员监视此处"
+        }
+      ]
+    },
+    {
+      "id": "istanbul",
+      "name_en": "Istanbul",
+      "name_zh": "伊斯坦布尔",
+      "country": "土耳其",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "首次接触地；克里姆T站驻地；塔蒂亚娜与邦德会合、东方快车出发地"
+        }
+      ]
+    },
+    {
+      "id": "kristal-palas",
+      "name_en": "Kristal Palas hotel",
+      "name_zh": "克里斯特尔帕拉斯酒店",
+      "country": "土耳其",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "邦德下榻酒店，位于佩拉高地；12号蜜月套房为SMERSH偷拍布景，床头假镜后藏摄影机"
+        }
+      ]
+    },
+    {
+      "id": "galata-bridge",
+      "name_en": "Galata Bridge",
+      "name_zh": "加拉塔大桥",
+      "country": "土耳其",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "塔蒂亚娜与克里姆首次接头的渡轮出发点；克里姆办公室所在地附近"
+        }
+      ]
+    },
+    {
+      "id": "sirkeci-station",
+      "name_en": "Sirkeci Station",
+      "name_zh": "锡尔凯吉车站",
+      "country": "土耳其",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "东方快车始发站，晚9时出发"
+        }
+      ]
+    },
+    {
+      "id": "orient-express",
+      "name_en": "Orient Express",
+      "name_zh": "东方快车",
+      "country": null,
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "伊斯坦布尔至巴黎列车，每周三班，全程1400英里；克里姆之死、格蘭特刺杀与反杀均发生于车上"
+        }
+      ]
+    },
+    {
+      "id": "uzunkopru",
+      "name_en": "Uzunkopru",
+      "name_zh": "乌尊克普吕",
+      "country": "土耳其",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "土耳其边境站，两名MGB人员在此被赶下车"
+        }
+      ]
+    },
+    {
+      "id": "belgrade",
+      "name_en": "Belgrade",
+      "name_zh": "贝尔格莱德",
+      "country": "南斯拉夫",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "列车中转站，克里姆之子坦波接应邦德与塔蒂亚娜；邦德在此致电M"
+        }
+      ]
+    },
+    {
+      "id": "simplon-tunnel",
+      "name_en": "Simplon Tunnel",
+      "name_zh": "辛普朗隧道",
+      "country": "意大利与瑞士之间",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "格蘭特计划杀害邦德的地点，反被邦德杀死处"
+        }
+      ]
+    },
+    {
+      "id": "dijon",
+      "name_en": "Dijon",
+      "name_zh": "第戎",
+      "country": "法国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "邦德与塔蒂亚娜下车处，格蘭特尸体被留在车上"
+        }
+      ]
+    },
+    {
+      "id": "paris-ritz",
+      "name_en": "Ritz Hotel, Paris, Room 204",
+      "name_zh": "巴黎丽兹酒店204房",
+      "country": "法国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "克莱布与格蘭特约定的汇报地点；邦德在此制服克莱布并被毒鞋刺伤"
+        }
+      ]
+    },
+    {
+      "id": "aughmacloy",
+      "name_en": "Aughmacloy",
+      "name_zh": "奥赫马克洛伊",
+      "country": "英国（北爱尔兰边境村庄）",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "格蘭特出生与成长地，少年“月亮杀手”作案地"
+        }
+      ]
+    },
+    {
+      "id": "leningrad-school",
+      "name_en": "Intelligence School for Foreigners, Leningrad",
+      "name_zh": "列宁格勒外国人情报学校",
+      "country": "苏联",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "格蘭特受训地"
+        }
+      ]
+    },
+    {
+      "id": "kuchino-school",
+      "name_en": "School for Terror and Diversion, Kuchino",
+      "name_zh": "库奇诺恐怖破坏学校",
+      "country": "苏联",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "格蘭特在莫斯科郊外受训地，教官为福托耶夫上校与戈德洛夫斯基中校"
+        }
+      ]
+    },
+    {
+      "id": "trebizond",
+      "name_en": "Trebizond",
+      "name_zh": "特拉布宗",
+      "country": "土耳其",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "克里姆故乡，父为剑鱼渔民"
+        }
+      ]
+    },
+    {
+      "id": "crab-key",
+      "name_en": "Crab Key",
+      "name_zh": "蟹礁岛",
+      "country": "牙买加",
+      "fictional": true,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "role": "全书核心舞台：英国属地、牙买加附属岛，约50平方英里，东四分之三为沼泽浅湖，西端500英尺鸟粪山；诺博士的鸟粪矿、山体堡垒与导弹干扰站所在地；距牙买加北岸加利纳角约30英里、距古巴约60英里"
+        }
+      ]
+    },
+    {
+      "id": "richmond-road",
+      "name_en": "Richmond Road",
+      "name_zh": "里士满路",
+      "country": "牙买加",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "role": "金斯顿最高档住宅区，女王俱乐部所在地，斯特兰威斯在此街头被枪杀"
+        }
+      ]
+    },
+    {
+      "id": "queens-club",
+      "name_en": "Queen's Club",
+      "name_zh": "女王俱乐部",
+      "country": "牙买加",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "role": "金斯顿上流社交俱乐部，斯特兰威斯每晚在此打桥牌并于18时15分离席做无线电联络"
+        }
+      ]
+    },
+    {
+      "id": "kings-house",
+      "name_en": "King's House",
+      "name_zh": "总督府",
+      "country": "牙买加",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "role": "牙买加总督官邸，邦德两次拜会代理总督与殖民地秘书之地；塔罗小姐在此窃取档案"
+        }
+      ]
+    },
+    {
+      "id": "blue-hills-hotel",
+      "name_en": "Blue Hills Hotel",
+      "name_zh": "蓝山酒店",
+      "country": "牙买加",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "role": "邦德在金斯顿的下榻酒店，毒水果篮与蜈蚣暗杀均发生于此"
+        }
+      ]
+    },
+    {
+      "id": "morgans-harbour",
+      "name_en": "Morgan's Harbour",
+      "name_zh": "摩根港",
+      "country": "牙买加",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "role": "牙买加北岸港口，博德泽特所在地，邦德与哈妮乘独木舟往返蟹礁岛的出发与返回点"
+        }
+      ]
+    },
+    {
+      "id": "mona-reservoir",
+      "name_en": "Mona Reservoir",
+      "name_zh": "莫纳水库",
+      "country": "牙买加",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "role": "斯特兰威斯与特鲁布拉德的沉尸地，棺材沉入50英寻深处；结尾警方派潜水员打捞"
+        }
+      ]
+    },
+    {
+      "id": "turks-island",
+      "name_en": "Turks Island",
+      "name_zh": "特克斯岛",
+      "country": "特克斯和凯科斯群岛",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "role": "美军导弹试验中心，距蟹礁岛约300英里，是诺博士干扰行动的目标"
+        }
+      ]
+    },
+    {
+      "id": "milwaukee",
+      "name_en": "Milwaukee",
+      "name_zh": "密尔沃基",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "role": "诺博士改容后藏身读医之地，自称当地没有中国人"
+        }
+      ]
+    },
+    {
+      "id": "peking",
+      "name_en": "Peking",
+      "name_zh": "北京",
+      "country": "中国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "role": "诺博士出生地"
+        }
+      ]
+    },
+    {
+      "id": "shanghai",
+      "name_en": "Shanghai",
+      "name_zh": "上海",
+      "country": "中国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "role": "诺博士青年时混迹帮会之地"
+        }
+      ]
+    },
+    {
+      "id": "miami",
+      "name_en": "Miami, Florida",
+      "name_zh": "迈阿密",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "开篇地，邦德在机场候机厅结识杜邦，弗洛里迪亚纳酒店牌局发生地"
+        }
+      ]
+    },
+    {
+      "id": "london-hq",
+      "name_en": "Secret Service Headquarters, Regent's Park, London",
+      "name_zh": "伦敦摄政公园秘密情报局总部",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "邦德值夜班、M下达任务、档案室拼图金手指面容的地"
+        }
+      ]
+    },
+    {
+      "id": "bank-of-england",
+      "name_en": "Bank of England, Threadneedle Street",
+      "name_zh": "英格兰银行",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "史密瑟斯向邦德交代黄金走私案与金手指背景的地"
+        }
+      ]
+    },
+    {
+      "id": "royal-st-marks",
+      "name_en": "Royal St Marks Golf Club, Sandwich, Kent",
+      "name_zh": "皇家圣马克斯高尔夫俱乐部",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "邦德与金手指18洞赌局发生地"
+        }
+      ]
+    },
+    {
+      "id": "the-grange",
+      "name_en": "The Grange, Reculver, Kent",
+      "name_zh": "格兰奇别墅",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "金手指在英格兰的住所，晚宴与摄影机陷阱发生地；毗邻塔内特合金工厂"
+        }
+      ]
+    },
+    {
+      "id": "ferryfield",
+      "name_en": "Ferryfield Airport (Lydd)",
+      "name_zh": "费里菲尔德机场",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "金手指乘机载劳斯莱斯赴法国的地，邦德在此植入Homer追踪器"
+        }
+      ]
+    },
+    {
+      "id": "france-route",
+      "name_en": "Le Touquet, Abbeville, Rouen, Orleans, Moulins, Macon",
+      "name_zh": "勒图凯至梅肯一线",
+      "country": "法国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "邦德尾随劳斯莱斯穿越法国的路线，79/6号桥下藏金条，梅肯撞车蒂莉"
+        }
+      ]
+    },
+    {
+      "id": "geneva",
+      "name_en": "Geneva",
+      "name_zh": "日内瓦",
+      "country": "瑞士",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "邦德与蒂莉入住贝尔格酒店，金手指藏金与走私中转地"
+        }
+      ]
+    },
+    {
+      "id": "coppet",
+      "name_en": "Entreprises Auric, Coppet",
+      "name_zh": "科佩奥里克企业工厂",
+      "country": "瑞士",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "金手指在瑞士的工厂，拆解劳斯莱斯、改制金座椅的地，邦德与蒂莉在此被俘"
+        }
+      ]
+    },
+    {
+      "id": "fort-knox",
+      "name_en": "Fort Knox, Kentucky",
+      "name_zh": "诺克斯堡",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "大满贯行动目标，美国黄金储备库所在地；美军设伏、全城佯死、蒂莉身亡的地"
+        }
+      ]
+    },
+    {
+      "id": "louisville",
+      "name_en": "Louisville, Kentucky",
+      "name_zh": "路易斯维尔",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "红十字专列中途站，金手指在此换乘机车前部"
+        }
+      ]
+    },
+    {
+      "id": "new-york",
+      "name_en": "New York City",
+      "name_zh": "纽约",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "爱德怀尔德机场、东河仓库（黑帮会议与囚禁地）、宾夕法尼亚车站专列出发地、帕拉贡保险库"
+        }
+      ]
+    },
+    {
+      "id": "norfolk",
+      "name_en": "Norfolk, Virginia",
+      "name_zh": "诺福克",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "苏联斯维尔德洛夫斯克级巡洋舰按计划停靠并接应黄金的地（未得逞）"
+        }
+      ]
+    },
+    {
+      "id": "nassau",
+      "name_en": "Nassau, Bahamas",
+      "name_zh": "拿骚",
+      "country": "巴哈马",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "金手指护照签发地与藏金地之一"
+        }
+      ]
+    },
+    {
+      "id": "bombay",
+      "name_en": "Bombay, India",
+      "name_zh": "孟买",
+      "country": "印度",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "黄金走私目的地，金价溢价最高；Mecca航空座椅的终点"
+        }
+      ]
+    },
+    {
+      "id": "weathership-charlie",
+      "name_en": "Ocean Station Charlie (Weathership Charlie)",
+      "name_zh": "查理气象船",
+      "country": "大西洋",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "被劫航班迫降海面后救起邦德与普茜·加洛的地"
+        }
+      ]
+    },
+    {
+      "id": "st-germain-forest",
+      "name_en": "Forest of St Germain",
+      "name_zh": "圣日耳曼森林",
+      "country": "法国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "role": "第1篇谋杀与地堡所在地,D98公路与Carrefour Royal空地"
+        }
+      ]
+    },
+    {
+      "id": "shape-hq",
+      "name_en": "SHAPE Headquarters",
+      "name_zh": "欧洲盟军最高司令部总部",
+      "country": "法国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "role": "第1篇位于N184公路旁的北约总部,通讯兵出发地"
+        }
+      ]
+    },
+    {
+      "id": "content-jamaica",
+      "name_en": "Content",
+      "name_zh": "Content庄园",
+      "country": "牙买加",
+      "fictional": true,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "role": "第2篇哈夫洛克家族2万英亩庄园,位于波特兰区Candlefly Peak山麓,夫妇在此被枪杀"
+        }
+      ]
+    },
+    {
+      "id": "port-antonio",
+      "name_en": "Port Antonio",
+      "name_zh": "安东尼奥港",
+      "country": "牙买加",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "role": "第2篇凶手乘快艇逃往游艇的香蕉港"
+        }
+      ]
+    },
+    {
+      "id": "echo-lake",
+      "name_en": "Echo Lake",
+      "name_zh": "Echo Lake",
+      "country": "美国",
+      "fictional": true,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "role": "第2篇佛蒙特北部近加拿大边境的百万富翁牧场,Hammerstein藏身与被杀地"
+        }
+      ]
+    },
+    {
+      "id": "ottawa",
+      "name_en": "Ottawa",
+      "name_zh": "渥太华",
+      "country": "加拿大",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "role": "第2篇RCMP总部所在地,Johns上校在此协助邦德"
+        }
+      ]
+    },
+    {
+      "id": "bermuda",
+      "name_en": "Bermuda",
+      "name_zh": "百慕大",
+      "country": "百慕大",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "role": "第3篇Masters夫妇婚后生活地,含汉密尔顿与Mid-Ocean高尔夫俱乐部"
+        }
+      ]
+    },
+    {
+      "id": "rome",
+      "name_en": "Rome",
+      "name_zh": "罗马",
+      "country": "意大利",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "role": "第4篇邦德与Kristatos接头地,含Excelsior酒吧与Colomba d'Oro餐厅"
+        }
+      ]
+    },
+    {
+      "id": "venice",
+      "name_en": "Venice",
+      "name_zh": "威尼斯",
+      "country": "意大利",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "role": "第4篇邦德下榻Gritti Palace,在Lido的Bagni Alberoni与Lisl会面并遭追杀"
+        }
+      ]
+    },
+    {
+      "id": "santa-maria",
+      "name_en": "Santa Maria",
+      "name_zh": "Santa Maria港",
+      "country": "意大利",
+      "fictional": true,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "role": "第4篇安科纳以北小渔港,阿尔巴尼亚毒船卸货地与决战地"
+        }
+      ]
+    },
+    {
+      "id": "mahe",
+      "name_en": "Mahe",
+      "name_zh": "马埃岛",
+      "country": "塞舌尔",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "role": "第5篇邦德驻留约1个月的塞舌尔主岛,含维多利亚港与Belle Anse泻湖"
+        }
+      ]
+    },
+    {
+      "id": "chagrin-island",
+      "name_en": "Chagrin Island",
+      "name_zh": "Chagrin岛",
+      "country": "塞舌尔",
+      "fictional": true,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "role": "第5篇约20英亩珊瑚岛,Hildebrand Rarity唯一产地,Krest毒杀礁区之地"
+        }
+      ]
+    },
+    {
+      "id": "shrublands",
+      "name_en": "Shrublands",
+      "name_zh": "灌木林",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "自然疗养院，邦德疗养两周并与利普结仇之地"
+        }
+      ]
+    },
+    {
+      "id": "paris-firco",
+      "name_en": "136 bis Boulevard Haussmann, Paris",
+      "name_zh": "巴黎奥斯曼大道136号之二",
+      "country": "法国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "SPECTRE以FIRCO慈善组织为掩护的总部"
+        }
+      ]
+    },
+    {
+      "id": "palmyra",
+      "name_en": "Palmyra, Lyford Key",
+      "name_zh": "帕尔米拉，利福德岛",
+      "country": "巴哈马",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "拉戈租住的海滨别墅，多米诺居所，飞碟号锚地"
+        }
+      ]
+    },
+    {
+      "id": "grand-bahama-base",
+      "name_en": "Grand Bahama rocket base",
+      "name_zh": "大巴哈马岛导弹基地",
+      "country": "巴哈马",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "第一枚核弹的预定目标，英美联合导弹基地"
+        }
+      ]
+    },
+    {
+      "id": "dog-island",
+      "name_en": "Dog Island",
+      "name_zh": "狗岛",
+      "country": "巴哈马",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "两枚核弹藏匿处，位于狗礁，距拿骚约100英里"
+        }
+      ]
+    },
+    {
+      "id": "bimini",
+      "name_en": "Bimini",
+      "name_zh": "比米尼",
+      "country": "巴哈马",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "轰炸机迫降海域，失事飞机残骸所在地"
+        }
+      ]
+    },
+    {
+      "id": "boscombe-down",
+      "name_en": "Boscombe Down",
+      "name_zh": "博斯科姆唐",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "第5皇家空军试验中队基地，失踪轰炸机起飞地"
+        }
+      ]
+    },
+    {
+      "id": "brighton",
+      "name_en": "Brighton",
+      "name_zh": "布赖顿",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "勒索信寄出地，利普烧伤后入住布赖顿中心医院"
+        }
+      ]
+    },
+    {
+      "id": "etna",
+      "name_en": "Mount Etna, Sicily",
+      "name_zh": "埃特纳火山，西西里",
+      "country": "意大利",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "赎金金条拟空投地，西北坡海拔2000至3000米"
+        }
+      ]
+    },
+    {
+      "id": "miami",
+      "name_en": "Miami",
+      "name_zh": "迈阿密",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "第二枚核弹预定目标，拟布放于游艇港"
+        }
+      ]
+    },
+    {
+      "id": "dreamy-pines",
+      "name_en": "Dreamy Pines Motor Court",
+      "name_zh": "梦松汽车旅馆",
+      "country": "美国",
+      "fictional": true,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "role": "故事主场景；乔治湖以西10英里、梦幻水湖南岸的40间客房汽车旅馆，10月13日夜遭纵火烧毁"
+        }
+      ]
+    },
+    {
+      "id": "dreamy-waters",
+      "name_en": "Dreamy Waters",
+      "name_zh": "梦幻水湖",
+      "country": "美国",
+      "fictional": true,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "role": "旅馆后的小湖；黑色轿车坠入湖边垂钓池沉没"
+        }
+      ]
+    },
+    {
+      "id": "lake-george",
+      "name_en": "Lake George",
+      "name_zh": "乔治湖",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "role": "阿迪朗达克旅游中心；薇薇安游览后转入旅馆支路；邦德原计划在此过夜"
+        }
+      ]
+    },
+    {
+      "id": "adirondacks",
+      "name_en": "Adirondacks",
+      "name_zh": "阿迪朗达克山区",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "role": "故事发生地，纽约州北部山林湖区；薇薇安游历约两周"
+        }
+      ]
+    },
+    {
+      "id": "glens-falls",
+      "name_en": "Glens Falls",
+      "name_zh": "格伦斯福尔斯",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "role": "邦德次日清晨前往报案的城镇；斯托纳上尉驻地；薇薇安离开时前往方向"
+        }
+      ]
+    },
+    {
+      "id": "troy",
+      "name_en": "Troy",
+      "name_zh": "特洛伊",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "role": "桑吉内蒂与两名打手的基地；菲希夫妇10月13日晨前往此地"
+        }
+      ]
+    },
+    {
+      "id": "albany",
+      "name_en": "Albany",
+      "name_zh": "奥尔巴尼",
+      "country": "美国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "role": "纽约州首府，WOKO电台所在地，距旅馆约50英里；邦德谎称在此有重要朋友"
+        }
+      ]
+    },
+    {
+      "id": "sainte-famille",
+      "name_en": "Sainte Famille, Ile d'Orleans",
+      "name_zh": "圣家族，奥尔良岛",
+      "country": "加拿大",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "role": "薇薇安出生地，魁北克附近圣劳伦斯河中岛屿北岸小镇"
+        }
+      ]
+    },
+    {
+      "id": "london-chelsea",
+      "name_en": "London, Chelsea",
+      "name_zh": "伦敦切尔西",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "role": "薇薇安在英五年生活地；老教堂街公寓、切尔西号报社、V.W.Z.办事处均在此区"
+        }
+      ]
+    },
+    {
+      "id": "windsor",
+      "name_en": "Windsor",
+      "name_zh": "温莎",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "role": "德里克家乡；泰晤士河、皇家电影院包厢事件与河边树林失身均在此地"
+        }
+      ]
+    },
+    {
+      "id": "toronto",
+      "name_en": "Toronto",
+      "name_zh": "多伦多",
+      "country": "加拿大",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "role": "鲍里斯安置地；邦德冒充鲍里斯守株待兔、枪战击毙乌尔曼的地点"
+        }
+      ]
+    },
+    {
+      "id": "hamburg",
+      "name_en": "Hamburg",
+      "name_zh": "汉堡",
+      "country": "德国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "role": "V.W.Z.总部所在地；库尔特与特鲁德原计划婚后定居地"
+        }
+      ]
+    },
+    {
+      "id": "hotel-splendide",
+      "name_en": "Hotel Splendide",
+      "name_zh": "光辉酒店",
+      "country": "法国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "邦德与崔西下榻处，45号房；崔西遗书交到此处前台"
+        }
+      ]
+    },
+    {
+      "id": "college-of-arms",
+      "name_en": "College of Arms",
+      "name_zh": "纹章院",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "位于维多利亚女王街；布洛菲尔德爵位申请的受理机构，化名行动策划地"
+        }
+      ]
+    },
+    {
+      "id": "quarterdeck",
+      "name_en": "Quarterdeck",
+      "name_zh": "Quarterdeck",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "M在温莎森林边缘的庄园，圣诞节汇报与生物战会商地"
+        }
+      ]
+    },
+    {
+      "id": "piz-gloria",
+      "name_en": "Piz Gloria",
+      "name_zh": "雪山诊所",
+      "country": "瑞士",
+      "fictional": true,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "布洛菲尔德的过敏症研究所与诊所，海拔3605米；催眠、实验室与突袭发生地"
+        }
+      ]
+    },
+    {
+      "id": "davos",
+      "name_en": "Davos",
+      "name_zh": "达沃斯",
+      "country": "瑞士",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "崔西接受治疗的黎明诊所所在地"
+        }
+      ]
+    },
+    {
+      "id": "samaden",
+      "name_en": "Samaden",
+      "name_zh": "萨马登",
+      "country": "瑞士",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "邦德逃亡终点，圣诞夜溜冰舞会与崔西重逢地"
+        }
+      ]
+    },
+    {
+      "id": "pontresina",
+      "name_en": "Pontresina",
+      "name_zh": "蓬特雷西纳",
+      "country": "瑞士",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "雪山诊所缆车下站；贝尔蒂尔葬于此地"
+        }
+      ]
+    },
+    {
+      "id": "marseilles",
+      "name_en": "Marseilles",
+      "name_zh": "马赛",
+      "country": "法国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "德拉科总部（电器公司）所在地；突袭策划地"
+        }
+      ]
+    },
+    {
+      "id": "munich",
+      "name_en": "Munich",
+      "name_zh": "慕尼黑",
+      "country": "德国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "崔西等候地（四季酒店）；元旦婚礼与崔西遇害前的出发地"
+        }
+      ]
+    },
+    {
+      "id": "kitzbuhel",
+      "name_en": "Kitzbühel",
+      "name_zh": "基茨比厄尔",
+      "country": "奥地利",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "蜜月目的地，未抵达"
+        }
+      ]
+    },
+    {
+      "id": "gdynia",
+      "name_en": "Gdynia",
+      "name_zh": "格丁尼亚",
+      "country": "波兰",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "布洛菲尔德自称的出生地，出生记录页被裁掉"
+        }
+      ]
+    },
+    {
+      "id": "augsburg",
+      "name_en": "Augsburg",
+      "name_zh": "奥格斯堡",
+      "country": "德国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "布洛菲尔德家族档案所在地，邦德提议同去查档诱其出境"
+        }
+      ]
+    },
+    {
+      "id": "blonville-sur-mer",
+      "name_en": "Blonville-sur-Mer",
+      "name_zh": "滨海布隆维尔",
+      "country": "法国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "德·布勒维尔家族故地，纹章官在此发现无耳垂家族特征"
+        }
+      ]
+    },
+    {
+      "id": "tokyo",
+      "name_en": "Tokyo",
+      "name_zh": "东京",
+      "country": "日本",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "role": "邦德抵达日本后的活动中心，田中办公室与银座酒吧所在地"
+        }
+      ]
+    },
+    {
+      "id": "bureau-folkways",
+      "name_en": "Bureau of All-Asian Folkways",
+      "name_zh": "全亚细亚民俗局",
+      "country": "日本",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "role": "田中秘密情报机构的地面掩护，下方是废弃地铁站改建的办公室"
+        }
+      ]
+    },
+    {
+      "id": "yokohama-tiger-house",
+      "name_en": "Tiger Tanaka's house",
+      "name_zh": "田中虎宅",
+      "country": "日本",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "role": "田中向邦德讲述死亡收集者并提出交易的地点"
+        }
+      ]
+    },
+    {
+      "id": "kuro-island",
+      "name_en": "Kuro Island",
+      "name_zh": "黑岛",
+      "country": "日本",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "role": "阿妈族渔村所在地，邦德藏身与失忆后生活的地方，距死亡城堡半英里"
+        }
+      ]
+    },
+    {
+      "id": "castle-of-death",
+      "name_en": "Castle of Death",
+      "name_zh": "死亡城堡",
+      "country": "日本",
+      "fictional": true,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "role": "布洛菲尔德的毒花园与城堡，邦德潜入、决战并炸毁之地"
+        }
+      ]
+    },
+    {
+      "id": "fukuoka",
+      "name_en": "Fukuoka",
+      "name_zh": "福冈",
+      "country": "日本",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "role": "九州首府，安藤警视驻地，邦德出发去黑岛的起点"
+        }
+      ]
+    },
+    {
+      "id": "beppu",
+      "name_en": "Beppu",
+      "name_zh": "别府",
+      "country": "日本",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "role": "邦德与田中参观十大地狱并吃河豚宴的温泉镇"
+        }
+      ]
+    },
+    {
+      "id": "kyoto",
+      "name_en": "Kyoto",
+      "name_zh": "京都",
+      "country": "日本",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "role": "邦德与田中参观伊势神宫、神户牛肉产地与最古老妓院的中途站"
+        }
+      ]
+    },
+    {
+      "id": "toba",
+      "name_en": "Toba",
+      "name_zh": "鸟羽",
+      "country": "日本",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "role": "邦德与田中乘水翼船抵达的渔港，珍珠大王御木本的故乡"
+        }
+      ]
+    },
+    {
+      "id": "ise-shrine",
+      "name_en": "Outer Shrine of Ise",
+      "name_zh": "伊势外宫",
+      "country": "日本",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "role": "田中考验邦德化装是否过关的神道神社"
+        }
+      ]
+    },
+    {
+      "id": "kensington-cloisters",
+      "name_en": "44 Kensington Cloisters",
+      "name_zh": "肯辛顿修道院44号",
+      "country": "英国",
+      "fictional": true,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "秘密情报局甄别来访者的据点，前身为帝国噪音防治联盟总部，地下室改建为拘留室；邦德在此接受汤森少校甄别"
+        }
+      ]
+    },
+    {
+      "id": "ritz-london",
+      "name_en": "Ritz Hotel, London",
+      "name_zh": "伦敦丽兹酒店",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "克格勃指示邦德回国后的落脚点；特别支部在此搜查其伪造护照"
+        }
+      ]
+    },
+    {
+      "id": "the-park",
+      "name_en": "The Park, Kent",
+      "name_zh": "肯特郡The Park疗养院",
+      "country": "英国",
+      "fictional": true,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "伪装成疗养院的秘密医疗机构；邦德在此接受30天24次电休克治疗解除洗脑"
+        }
+      ]
+    },
+    {
+      "id": "blades",
+      "name_en": "Blades Club",
+      "name_zh": "Blades俱乐部",
+      "country": "英国",
+      "fictional": true,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "M常去的俱乐部；第3章M在此午餐后回办公室读斯卡拉曼加档案"
+        }
+      ]
+    },
+    {
+      "id": "savannah-la-mar",
+      "name_en": "Savannah La Mar",
+      "name_zh": "萨凡纳拉马",
+      "country": "牙买加",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "西海岸小镇；3-1/2 Love Lane妓院所在地，邦德在此初遇斯卡拉曼加"
+        }
+      ]
+    },
+    {
+      "id": "love-lane",
+      "name_en": "No. 3-1/2 Love Lane",
+      "name_zh": "爱情巷3-1/2号",
+      "country": "牙买加",
+      "fictional": true,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "Dreamland咖啡馆兼妓院；BWIA电报称“样品”将于明午起在此备妥；斯卡拉曼加在此射杀Tiffy的宠物鸟"
+        }
+      ]
+    },
+    {
+      "id": "frome",
+      "name_en": "Frome",
+      "name_zh": "弗罗姆",
+      "country": "牙买加",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "WISCO糖厂所在地；邦德以保险调查员身份作掩护，莱特去此地取炸桥物资"
+        }
+      ]
+    },
+    {
+      "id": "thunderbird-hotel",
+      "name_en": "Thunderbird Hotel, Bloody Bay, Negril",
+      "name_zh": "内格里尔血腥湾Thunderbird酒店",
+      "country": "牙买加",
+      "fictional": true,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "The Group股东会议举办地；半拉子工程，邦德住24号房，斯卡拉曼加住20号房，会议室在餐厅旁"
+        }
+      ]
+    },
+    {
+      "id": "green-island",
+      "name_en": "Green Island Harbour",
+      "name_zh": "绿岛港",
+      "country": "牙买加",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "小火车终点与深海钓鱼出发港；斯卡拉曼加停有40英尺Chris-Craft游艇Thunder Bird"
+        }
+      ]
+    },
+    {
+      "id": "great-morass",
+      "name_en": "The Great Morass",
+      "name_zh": "大沼泽",
+      "country": "牙买加",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "火车线路沿途的沼泽地；邦德跳车落入此处，决斗发生在沼泽边的红树林空地"
+        }
+      ]
+    },
+    {
+      "id": "orange-river",
+      "name_en": "Orange River",
+      "name_zh": "奥兰治河",
+      "country": "牙买加",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "莱特炸断其铁桥，无人驾驶的火车坠河，Binion、Garfinkel与Paradise身亡"
+        }
+      ]
+    },
+    {
+      "id": "la-brea",
+      "name_en": "La Brea pitch lake, Trinidad",
+      "name_zh": "特立尼达拉布雷亚沥青湖",
+      "country": "特立尼达",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "罗斯指挥官尸体沉没处"
+        }
+      ]
+    },
+    {
+      "id": "leningrad",
+      "name_en": "Leningrad",
+      "name_zh": "列宁格勒",
+      "country": "苏联",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "Nevsky Prospekt研究所所在地，邦德在此被洗脑"
+        }
+      ]
+    },
+    {
+      "id": "vladivostok",
+      "name_en": "Vladivostok",
+      "name_zh": "符拉迪沃斯托克",
+      "country": "苏联",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "邦德失忆后在海滨被警察捡到之地，随后转交当地克格勃（Morskaya Ulitsa大楼）"
+        }
+      ]
+    },
+    {
+      "id": "pedro-cays",
+      "name_en": "Pedro Cays",
+      "name_zh": "佩德罗礁",
+      "country": "牙买加",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "克格勃计划接收上百磅大麻的中转点"
+        }
+      ]
+    },
+    {
+      "id": "wavelets",
+      "name_en": "Wavelets, North Shore, Jamaica",
+      "name_zh": "牙买加北岸Wavelets别墅",
+      "country": "牙买加",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "role": "第1篇主场景，Smythe住所与珊瑚礁，邦德到访与Smythe溺亡之地"
+        }
+      ]
+    },
+    {
+      "id": "oberaurach",
+      "name_en": "Oberaurach",
+      "name_zh": "奥伯奥拉赫",
+      "country": "奥地利",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "role": "第1篇1945年MOB Force缴获盖世太保文件之地，Kitzbühel以东约1英里"
+        }
+      ]
+    },
+    {
+      "id": "franziskaner-halt",
+      "name_en": "Franziskaner Halt, Wilde Kaiser",
+      "name_zh": "Wilde Kaiser山Franziskaner Halt小屋",
+      "country": "奥地利",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "role": "第1篇藏金石堆与谋杀现场，海拔1万英尺以上"
+        }
+      ]
+    },
+    {
+      "id": "bisley",
+      "name_en": "Bisley Century Range",
+      "name_zh": "比斯利世纪靶场",
+      "country": "英国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "role": "第2篇邦德夜间练枪至500码之地"
+        }
+      ]
+    },
+    {
+      "id": "haus-der-ministerien",
+      "name_en": "Haus der Ministerien",
+      "name_zh": "各部大楼",
+      "country": "德国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "role": "第2篇东柏林政府大楼，Trigger藏身的四扇黑窗所在，内设文化部音乐厅"
+        }
+      ]
+    },
+    {
+      "id": "novaya-zemlya",
+      "name_en": "Novaya Zemlya",
+      "name_zh": "新地岛",
+      "country": "苏联",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "role": "第2篇272号特工自战后藏匿之地"
+        }
+      ]
+    },
+    {
+      "id": "macao",
+      "name_en": "Macao",
+      "name_zh": "澳门",
+      "country": "中国",
+      "fictional": false,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "role": "第1篇Foo兄弟分销金条的自由港，金价每盎司至少100美元，高于Bretton Woods固定价35美元"
+        }
+      ]
+    }
+  ]
+}

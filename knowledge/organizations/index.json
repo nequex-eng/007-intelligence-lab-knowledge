@@ -1,0 +1,1685 @@
+{
+  "schema_version": "1.0",
+  "generated": "2026-11-06",
+  "total_unique": 93,
+  "note": "Secret Service与Secret Intelligence Service为同一机构的不同称呼，已归并；CIA与Central Intelligence Agency为同一机构，已归并。",
+  "organizations": [
+    {
+      "id": "secret-service",
+      "name_en": "Secret Intelligence Service",
+      "name_zh": "英国秘密情报机构",
+      "kind": null,
+      "appearance_count": 12,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "role": "邦德与M所属机构，策划并执行击败勒·希弗的行动，S处负责苏联方向",
+          "first_chapter": 1
+        },
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "邦德所属机构，M为首脑；A站负责美国，C站负责加勒比地区",
+          "first_chapter": "II"
+        },
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "role": "邦德与M所属机构,总部在摄政公园附近,00部门负责暗杀任务",
+          "first_chapter": "I"
+        },
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "邦德所属机构，M任首脑；受首相授权调查钻石走私，邦德为007特工",
+          "first_chapter": 2
+        },
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "role": "邦德所属机构，总部在摄政公园；加勒比站站长斯特兰威斯失踪后派邦德调查；第三处为斯特兰威斯的主管部门",
+          "first_chapter": "I"
+        },
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "邦德的上级机构，M领导，派邦德调查金手指",
+          "first_chapter": "ONE"
+        },
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "role": "邦德所属机构;第1篇F站为其巴黎外站,第2篇M以个人名义动用其资源为友复仇,第4篇奉首相之命调查毒品案",
+          "first_chapter": 1
+        },
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "邦德所属机构，执行霹雳弹行动的英方主体",
+          "first_chapter": 1
+        },
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "role": "邦德所属机构；原文未出现全称，仅称总部与编号007，邦德称其为my outfit",
+          "first_chapter": "Eleven"
+        },
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "邦德所属机构，对外掩护为Universal Export；行动代号先为Bedlam，后为CORONA",
+          "first_chapter": 2
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "邦德所属机构；总部设于伦敦，M任局长，下设Double-O处、联络处、加勒比海与中美洲处及牙买加J站",
+          "first_chapter": 1
+        },
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "role": "第1篇邦德所属机构，称国防部为掩护，MOB Force为其与联合行动总部合办；第2篇Station WB为其柏林站；第3篇总部为Freudenstein任职与Purple Cipher行动之地",
+          "first_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "cia",
+      "name_en": "Central Intelligence Agency",
+      "name_zh": "美国中央情报局",
+      "kind": null,
+      "appearance_count": 10,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "role": "美方情报机构，派莱特协助邦德，并在邦德破产时提供3200万法郎资金",
+          "first_chapter": 2
+        },
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "莱特所属机构，与FBI联合办案，负责海外部分",
+          "first_chapter": "I"
+        },
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "莱特原雇主，因其伤残只提供文职，莱特离职",
+          "first_chapter": 8
+        },
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "莱特所属机构，与M联络后把案子上报至總統",
+          "first_chapter": "FIVE"
+        },
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "role": "第4篇罗马站与缉毒局合作,局长Alan Dulles向M推荐Kristatos为联络人",
+          "first_chapter": 4
+        },
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "与英方合作执行霹雳弹行动，莱特为其代表，调动曼塔号与战斗机中队",
+          "first_chapter": 8
+        },
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "role": "邦德嘱薇薇安向警方报出其身份时可联系的美国机构；邦德赴华盛顿即向其对应部门汇报",
+          "first_chapter": "Twelve"
+        },
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "role": "日本情报的实际控制方，不许田中把MAGIC44转交给英国，邦德的行动须瞒着它",
+          "first_chapter": 3
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "莱特与Nicholson所属；派两人卧底Thunderbird酒店调查The Group与克格勃-黑手党勾结",
+          "first_chapter": 3
+        },
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "role": "第3篇：Purple Cipher的SITREP名义收件方，华盛顿的初级职员收到后不读即销毁，莫斯科方面则敬奉KGB高官",
+          "first_chapter": 3
+        }
+      ]
+    },
+    {
+      "id": "smersh",
+      "name_en": "SMERSH",
+      "name_zh": "SMERSH",
+      "kind": null,
+      "appearance_count": 5,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "role": "苏联反间谍与复仇机构，俄语“间谍之死”缩写，处决挪用公款的勒·希弗与两名枪手，并在邦德手背刻字",
+          "first_chapter": 2
+        },
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "苏联惩罚机关，全称Smyert Spionam，意为间谍之死；Mr Big为其已知成员，邦德的私人复仇目标",
+          "first_chapter": "II"
+        },
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "苏联政府官方谋杀机构，苏联最秘密部门，1955年约4万人；策划并执行诱杀邦德行动；总部莫斯科斯列坚卡街13号",
+          "first_chapter": "One"
+        },
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "苏联锄奸机构，M推断金手指是其司库，为其海外中心提供资金",
+          "first_chapter": "SEVEN"
+        },
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "SPECTRE成员来源之一，前苏联肃反人员3名，1958年被解散",
+          "first_chapter": 5
+        }
+      ]
+    },
+    {
+      "id": "fbi",
+      "name_en": "Federal Bureau of Investigation",
+      "name_zh": "联邦调查局",
+      "kind": null,
+      "appearance_count": 4,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "Dexter所属机构，负责美国境内一端，局长为胡佛",
+          "first_chapter": "I"
+        },
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "美国方面调查斯班格帮；M下令邦德遇险即移交FBI，莱特称FBI已介入赛马案但进展有限",
+          "first_chapter": 2
+        },
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "与萊特合作设局，在诺克斯堡设伏",
+          "first_chapter": "TWENTY-TWO"
+        },
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "role": "莫罗中尉称邦德在联邦调查局有关系，案件因此惊动华盛顿",
+          "first_chapter": "Fifteen"
+        }
+      ]
+    },
+    {
+      "id": "spectre",
+      "name_en": "SPECTRE",
+      "name_zh": "幽灵党",
+      "kind": null,
+      "appearance_count": 4,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "本部反派组织，策划劫机与核勒索，全称为反情报、恐怖、报复与勒索特别执行部",
+          "first_chapter": 5
+        },
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "role": "独立间谍网络，全称反间谍、恐怖主义、报复与勒索特别机构；以10万镑接受克格勃委托刺杀鲍里斯；首领在霹雳弹行动中逃脱",
+          "first_chapter": "Eleven"
+        },
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "布洛菲尔德领导的犯罪组织，霹雳弹行动后重建；雪山诊所职员多为其旧部",
+          "first_chapter": 2
+        },
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "role": "布洛菲尔德创立的组织，全称反情报、恐怖主义、报复与勒索特别机构，本部中只在邦德回忆中提及，布洛菲尔德已脱离组织单干",
+          "first_chapter": 12
+        }
+      ]
+    },
+    {
+      "id": "mi5",
+      "name_en": "MI5",
+      "name_zh": "军情五处",
+      "kind": null,
+      "appearance_count": 3,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "role": "国内反间谍机构,曾推荐3名安全官候选人,后同意邦德任命",
+          "first_chapter": "IX"
+        },
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "英国国内安全部门，会议中被提及为优秀机构；非行动直接参与方",
+          "first_chapter": "Five"
+        },
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "role": "第3篇：将Fanshawe转介至M.，拍卖会派摄影师持Sunday Times记者证拍照并派司机尾随Malinowski",
+          "first_chapter": 3
+        }
+      ]
+    },
+    {
+      "id": "kgb",
+      "name_en": "KGB",
+      "name_zh": "克格勃",
+      "kind": null,
+      "appearance_count": 3,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "role": "苏联秘密情报机构；其巴黎站负责人出价买凶刺杀叛逃者鲍里斯",
+          "first_chapter": "Eleven"
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "洗脑邦德并派他刺杀M；通过哈瓦那中心与Hendriks遥控The Group，首脑为Semichastny；约有十万人员",
+          "first_chapter": 1
+        },
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "role": "第2篇：派Trigger执行Operation Extase射杀272；第3篇：Freudenstein的上线，Malinowski为其驻伦敦负责人",
+          "first_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "mwd",
+      "name_en": "MWD",
+      "name_zh": "MWD",
+      "kind": null,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "role": "薇丝朋效力的苏联机构，以其波兰恋人性命要挟她充当双面间谍，通过巴黎Invalides 55200号电话遥控她",
+          "first_chapter": 27
+        },
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "1951年被策反的苏联特工所属机构，该特工后被Mr Big推下地铁站台身亡",
+          "first_chapter": "III"
+        }
+      ]
+    },
+    {
+      "id": "deuxieme-bureau",
+      "name_en": "Deuxième Bureau",
+      "name_zh": "法国第二局",
+      "kind": null,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "role": "法方情报机构，与英方联合办案，提供马蒂斯与医生，负责现场掩盖与追捕",
+          "first_chapter": 2
+        },
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "法国情报机关，首脑雷尼·马蒂斯；结尾协助邦德抓捕克莱布并处理斯佩克特机",
+          "first_chapter": "Five"
+        }
+      ]
+    },
+    {
+      "id": "special-branch",
+      "name_en": "Special Branch, Scotland Yard",
+      "name_zh": "苏格兰场特别分部",
+      "kind": null,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "role": "瓦兰斯领导,安插盖拉潜伏并负责基地外围调查",
+          "first_chapter": "IX"
+        },
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "瓦兰斯任助理警务处长，掌握弗兰克斯线报并逮捕其人，安排邦德顶替",
+          "first_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "raf",
+      "name_en": "Royal Air Force",
+      "name_zh": "英国皇家空军",
+      "kind": null,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "role": "负责基地外围警戒与发射当日雷达操作",
+          "first_chapter": "IX"
+        },
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "失踪轰炸机所属军种，第5试验中队驻博斯科姆唐",
+          "first_chapter": 7
+        }
+      ]
+    },
+    {
+      "id": "spangled-mob",
+      "name_en": "The Spangled Mob",
+      "name_zh": "斯班格帮",
+      "kind": null,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "本部反派组织，杰克与塞拉菲莫·斯班格共管，经营钻石走私、赌博、赛马骗局、毒品与卖淫，在纽约、拉斯维加斯、迈阿密、底特律、芝加哥有分支",
+          "first_chapter": 6
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "斯卡拉曼加在美国当全职枪手的老东家，以拉斯维加斯Tiara酒店赌场记分员为掩护",
+          "first_chapter": 3
+        }
+      ]
+    },
+    {
+      "id": "pinkerton",
+      "name_en": "Pinkerton's",
+      "name_zh": "平克顿侦探公司",
+      "kind": null,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "莱特的雇主，绰号The Eye that Never Sleeps；为莱特订女王号船票、接邦德行李并协助蒂芙尼办护照",
+          "first_chapter": 8
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "莱特的正式雇主；他同时为中情局预备役",
+          "first_chapter": 9
+        }
+      ]
+    },
+    {
+      "id": "gru",
+      "name_en": "G.R.U.",
+      "name_zh": "格鲁乌",
+      "kind": null,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "苏联陆军总参谋部情报部门，首脑斯拉文将军；参与定目标会议",
+          "first_chapter": "Four"
+        },
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "role": "第1篇邦德推测地堡小组的上级控制机关,原文仅为推测未证实",
+          "first_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "british-secret-service",
+      "name_en": "British Secret Service",
+      "name_zh": "英国秘密情报局",
+      "kind": null,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "邦德所属机构，首脑为M；为SMERSH诱杀行动的打击目标",
+          "first_chapter": "Four"
+        },
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "role": "邦德所属机构，以国防部为掩护，M为首脑",
+          "first_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "universal-export",
+      "name_en": "Universal Export",
+      "name_zh": "环球出口公司",
+      "kind": null,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "role": "秘密情报局的掩护公司；邦德护照职业为进出口商人，供职于此；邦德登记时称M为该公司董事总经理",
+          "first_chapter": "IV"
+        },
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "秘密情报局的掩护公司，邦德对外身份的雇主",
+          "first_chapter": "ONE"
+        }
+      ]
+    },
+    {
+      "id": "unione-siciliano",
+      "name_en": "Unione Siciliano",
+      "name_zh": "西西里联盟",
+      "kind": null,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "美国黑手党，首脑索洛先生参会并加入大满贯行动",
+          "first_chapter": "SEVENTEEN"
+        },
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "SPECTRE成员来源之一，提供3名成员",
+          "first_chapter": 5
+        }
+      ]
+    },
+    {
+      "id": "rcmp",
+      "name_en": "Royal Canadian Mounted Police",
+      "name_zh": "加拿大皇家骑警",
+      "kind": null,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "role": "第2篇协助邦德越境,提供武器、证件、地图与走私路线,并以侦察机航拍Echo Lake",
+          "first_chapter": 2
+        },
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "role": "渥太华方面通报乌尔曼行踪；其特别支部与邦德合作，在多伦多鲍里斯公寓设伏，行动中两死一伤",
+          "first_chapter": "Eleven"
+        }
+      ]
+    },
+    {
+      "id": "scotland-yard",
+      "name_en": "Scotland Yard",
+      "name_zh": "苏格兰场",
+      "kind": null,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "role": "第4篇其缉毒人员与内政部、卫生部向M施压要求派邦德查毒品案",
+          "first_chapter": 4
+        },
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "role": "第1篇：邦德称案件将经苏格兰场移交检察机关；第3篇：邦德冒充CID联络人时称须直接向Ronald Vallance爵士核实身份",
+          "first_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "union-corse",
+      "name_en": "Union Corse",
+      "name_zh": "科西嘉联合会",
+      "kind": null,
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "SPECTRE成员来源之一，提供3名成员",
+          "first_chapter": 5
+        },
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "德拉科领导的科西嘉犯罪组织；绑架邦德父女相见，后出动七人突袭雪山诊所",
+          "first_chapter": 4
+        }
+      ]
+    },
+    {
+      "id": "station-s",
+      "name_en": "Station S",
+      "name_zh": "S处",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "role": "负责苏联事务的处室，制定摧毁勒·希弗计划，薇丝朋为其处长私人助理",
+          "first_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "soda",
+      "name_en": "Syndicat des Ouvriers d'Alsace",
+      "name_zh": "阿尔萨斯工人工会",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "role": "共产党控制的重工业与运输业工会，勒·希弗任司库，拥有5万名会员，战时可控制法国北部边境广大地区",
+          "first_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "cordon-jaune",
+      "name_en": "Cordon Jaune",
+      "name_zh": "黄带妓院连锁",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "role": "勒·希弗用挪用的5000万法郎买下的诺曼底与布列塔尼妓院连锁，1946年禁娼法后破产",
+          "first_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "mahomet-ali-syndicate",
+      "name_en": "Mahomet Ali Syndicate",
+      "name_zh": "穆罕默德·阿里辛迪加",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "role": "流亡埃及银行家与商人集团，租下皇家莱索赌场百家乐与两张顶级chemindefer赌台，勒·希弗向其买下庄家",
+          "first_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "societe-des-bains-de-mer",
+      "name_en": "Société des Bains de Mers de Royale",
+      "name_zh": "皇家莱索海滨公司",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "role": "皇家莱索赌场经营方，试图以高额赌局夺回多维尔与勒图凯的市场",
+          "first_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "nato",
+      "name_en": "North Atlantic Treaty Organization",
+      "name_zh": "北大西洋公约组织",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "role": "行动的政治背景，击败勒·希弗符合北约国家利益，莱特任职于北约联合情报部门",
+          "first_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "oss",
+      "name_en": "Office of Strategic Services",
+      "name_zh": "战略情报局",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "美国战时特工部门，1943年因Mr Big法语流利将其派往马赛",
+          "first_chapter": "III"
+        }
+      ]
+    },
+    {
+      "id": "black-widow-voodoo",
+      "name_en": "Black Widow Voodoo cult",
+      "name_zh": "黑寡妇伏都教",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "Mr Big领导的伏都教派，信徒相信他是Baron Samedi本人，为其权力基础",
+          "first_chapter": "II"
+        }
+      ]
+    },
+    {
+      "id": "ourobouros",
+      "name_en": "Ourobouros Worm and Bait Shippers Inc.",
+      "name_zh": "衔尾蛇蠕虫与鱼饵运输公司",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "St Petersburg仓库企业，名义上售卖活饵、贝壳与热带鱼，实为金币走私中转站，毒鱼缸底藏金币，地板下有鲨鱼池",
+          "first_chapter": "IV"
+        }
+      ]
+    },
+    {
+      "id": "us-treasury",
+      "name_en": "United States Treasury",
+      "name_zh": "美国财政部",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "其特别支部追踪金币流入，请求英方协助",
+          "first_chapter": "II"
+        }
+      ]
+    },
+    {
+      "id": "us-coastguard",
+      "name_en": "United States Coastguard Service",
+      "name_zh": "美国海岸警卫队",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "提供Secatur号进出港报告，St Petersburg有大型海岸警卫站",
+          "first_chapter": "IV"
+        }
+      ]
+    },
+    {
+      "id": "nypd",
+      "name_en": "New York Police Department",
+      "name_zh": "纽约警察局",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "role": "局长Monahan下令全面配合，凶杀组中尉Binswanger提供Mr Big档案",
+          "first_chapter": "IV"
+        }
+      ]
+    },
+    {
+      "id": "ministry-of-supply",
+      "name_en": "Ministry of Supply",
+      "name_zh": "供应部",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "role": "月亮牌项目主管部,派驻塔隆为安全官,审核火箭设计",
+          "first_chapter": "IX"
+        }
+      ]
+    },
+    {
+      "id": "drax-metals",
+      "name_en": "Drax Metals Ltd.",
+      "name_zh": "德拉克斯金属公司",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "role": "德拉克斯在丹吉尔的贸易公司,垄断Columbite并做空英镑2000万英镑",
+          "first_chapter": "X"
+        }
+      ]
+    },
+    {
+      "id": "rsha",
+      "name_en": "RSHA, SS Foreign Intelligence Service",
+      "name_zh": "党卫军国外情报处",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "role": "德拉克斯战时所属机构,在Skorzeny手下从事恐怖与破坏活动",
+          "first_chapter": "XXII"
+        }
+      ]
+    },
+    {
+      "id": "brandenburg",
+      "name_en": "Brandenburg Division",
+      "name_zh": "勃兰登堡师",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "role": "德拉克斯曾受训的特种部队,计划穿英军制服登陆英国",
+          "first_chapter": "XXII"
+        }
+      ]
+    },
+    {
+      "id": "house-of-diamonds",
+      "name_en": "The House of Diamonds",
+      "name_zh": "钻石之家",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "斯班格兄弟5年前买下的珠宝商，伦敦（哈顿花园）、纽约（西46街）、巴黎（里沃利街）三地经营，走私钻石经此切割销售",
+          "first_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "diamond-corporation",
+      "name_en": "Diamond Corporation",
+      "name_zh": "钻石公司",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "伦敦钻石销售垄断机构，每年贸易5000万英镑；其负责人雅各比向M展示钻石，董事长年报称矿场每年因走私损失200万英镑以上",
+          "first_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "de-beers",
+      "name_en": "De Beers",
+      "name_zh": "戴比尔斯",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "聘用前军情五处人员西利托整顿非洲钻石矿",
+          "first_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "sure-fire-wire-service",
+      "name_en": "Sure Fire Wire Service",
+      "name_zh": "Sure Fire电讯服务",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "斯班格兄弟拥有的非法赌马电讯服务，为内华达与加州场外投注商服务",
+          "first_chapter": 6
+        }
+      ]
+    },
+    {
+      "id": "detroit-purple-gang",
+      "name_en": "Detroit Purple Gang",
+      "name_zh": "底特律紫帮",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "与斯班格帮、克利夫兰帮并列最高级别的美国帮派；弗拉索与麦戈尼格尔出自该帮",
+          "first_chapter": 6
+        }
+      ]
+    },
+    {
+      "id": "smersh-otdyel-ii",
+      "name_en": "SMERSH Otdyel II",
+      "name_zh": "SMERSH第二部",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "行动与处决部，首脑为罗莎·克莱布；格蘭特隶属该部；诱杀行动的执行部门",
+          "first_chapter": "Three"
+        }
+      ]
+    },
+    {
+      "id": "mgb",
+      "name_en": "M.G.B.",
+      "name_zh": "国家安全部",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "苏联秘密情报机关；塔蒂亚娜隶属该部中央索引处；尼基京为其情报首脑；格蘭特最初投奔的部门",
+          "first_chapter": "One"
+        }
+      ]
+    },
+    {
+      "id": "rumid",
+      "name_en": "R.U.M.I.D.",
+      "name_zh": "外交部情报局",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "苏联外交部情报部门，首脑沃兹德维申斯基将军；参与定目标会议并评估西方情报机关",
+          "first_chapter": "Four"
+        }
+      ]
+    },
+    {
+      "id": "audubon-society",
+      "name_en": "Audubon Society",
+      "name_zh": "奥杜邦协会",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "role": "美国鸟类保护组织，租赁蟹礁岛一角作玫瑰琵鹭保护区，派两名看守员驻岛；因看守员遇害与调查员坠机而不断向美国大使与殖民地部施压，最终把案子推给秘密情报局",
+          "first_chapter": "III"
+        }
+      ]
+    },
+    {
+      "id": "colonial-office",
+      "name_en": "Colonial Office",
+      "name_zh": "英国殖民地部",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "role": "将奥杜邦协会的投诉转交给秘密情报局；邦德赴牙买加的安排经其与总督协调",
+          "first_chapter": "III"
+        }
+      ]
+    },
+    {
+      "id": "hip-sings",
+      "name_en": "Hip Sings",
+      "name_zh": "协胜堂",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "role": "纽约两大帮会之一，诺博士青年时任其司库并盗走100万美元黄金，后遭其追杀断手",
+          "first_chapter": "XV"
+        }
+      ]
+    },
+    {
+      "id": "on-lee-ongs",
+      "name_en": "On Lee Ongs",
+      "name_zh": "安良堂",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "role": "纽约另一大帮会，20世纪20年代末与协胜堂爆发帮会战争，双方数百人被杀",
+          "first_chapter": "XV"
+        }
+      ]
+    },
+    {
+      "id": "royal-zoological-society",
+      "name_en": "Royal Zoological Society",
+      "name_zh": "皇家动物学会",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "role": "邦德在蟹礁岛被俘后虚构的供职单位与永久地址，化名约翰·布莱斯自称鸟类学家",
+          "first_chapter": "XIII"
+        }
+      ]
+    },
+    {
+      "id": "jamaica-constabulary",
+      "name_en": "Jamaica Constabulary",
+      "name_zh": "牙买加警察",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "role": "调查斯特兰威斯失踪案，采信私奔说；结尾警长主张立即逮捕涉案的牙买加人并打捞莫纳水库",
+          "first_chapter": "III"
+        }
+      ]
+    },
+    {
+      "id": "bank-of-england",
+      "name_en": "Bank of England",
+      "name_zh": "英格兰银行",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "发现黄金外流并委托情报局调查，史密瑟斯的研究部实为银行的情报系统",
+          "first_chapter": "SIX"
+        }
+      ]
+    },
+    {
+      "id": "pinkertons",
+      "name_en": "Pinkerton's Detective Agency",
+      "name_zh": "平克顿侦探社",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "莱特的工作单位，邦德密信的收件地址",
+          "first_chapter": "TWENTY"
+        }
+      ]
+    },
+    {
+      "id": "purple-gang",
+      "name_en": "The Purple Gang, Detroit",
+      "name_zh": "底特律紫帮",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "首脑斯普林格拒绝加入后被灭口",
+          "first_chapter": "SEVENTEEN"
+        }
+      ]
+    },
+    {
+      "id": "shadow-syndicate",
+      "name_en": "Shadow Syndicate, Miami and Havana",
+      "name_zh": "影子辛迪加",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "首脑杰德·午夜首个加入大满贯行动",
+          "first_chapter": "SEVENTEEN"
+        }
+      ]
+    },
+    {
+      "id": "the-machine",
+      "name_en": "The Machine, Chicago",
+      "name_zh": "芝加哥机器帮",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "首脑比利·林加入大满贯行动",
+          "first_chapter": "SEVENTEEN"
+        }
+      ]
+    },
+    {
+      "id": "spangled-mob",
+      "name_en": "The Spangled Mob, Las Vegas",
+      "name_zh": "花斑帮",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "首脑杰克·斯特拉普加入大满贯行动",
+          "first_chapter": "SEVENTEEN"
+        }
+      ]
+    },
+    {
+      "id": "cement-mixers",
+      "name_en": "The Cement Mixers, Harlem",
+      "name_zh": "水泥搅拌机帮",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "普茜·加洛率领的全女性帮派，为行动提供护士人手",
+          "first_chapter": "SEVENTEEN"
+        }
+      ]
+    },
+    {
+      "id": "mecca-airline",
+      "name_en": "Mecca (charter airline to India)",
+      "name_zh": "Mecca包机航空公司",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "金手指参股的印度包机公司，其星座式客机座椅由金改制后运往印度",
+          "first_chapter": "THIRTEEN"
+        }
+      ]
+    },
+    {
+      "id": "entreprises-auric",
+      "name_en": "Entreprises Auric A.G.",
+      "name_zh": "奥里克企业公司",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "金手指在瑞士科佩的工厂，拆解劳斯莱斯并改制金座椅",
+          "first_chapter": "THIRTEEN"
+        }
+      ]
+    },
+    {
+      "id": "thanet-alloys",
+      "name_en": "Thanet Alloys",
+      "name_zh": "塔内特合金公司",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "金手指在雷卡尔弗的工厂，名义为合金冶炼，实为黄金加工",
+          "first_chapter": "SEVEN"
+        }
+      ]
+    },
+    {
+      "id": "shape",
+      "name_en": "Supreme Headquarters Allied Powers Europe",
+      "name_zh": "欧洲盟军最高司令部",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "role": "第1篇案发地,每周三清晨向F站运送最高机密情报的出发地,其安全处由Schreiber上校负责",
+          "first_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "us-narcotics-bureau",
+      "name_en": "United States Narcotics Bureau",
+      "name_zh": "美国缉毒局",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "role": "第4篇隶属财政部的缉毒机构,在意大利有行动队,Kristatos为其头号线人",
+          "first_chapter": 4
+        }
+      ]
+    },
+    {
+      "id": "krest-foundation",
+      "name_en": "Krest Foundation",
+      "name_zh": "克雷斯特基金会",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "role": "第5篇Krest注资1000万美元的避税基金会,游艇即以基金会资金建造并以科学考察名义出航",
+          "first_chapter": 5
+        }
+      ]
+    },
+    {
+      "id": "smithsonian",
+      "name_en": "Smithsonian Institution",
+      "name_zh": "史密森学会",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "role": "第5篇Krest自称受其委托采集标本的美国自然历史机构,Hildebrand Rarity原定寄往该机构",
+          "first_chapter": 5
+        }
+      ]
+    },
+    {
+      "id": "firco",
+      "name_en": "FIRCO",
+      "name_zh": "国际反压迫抵抗兄弟会",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "SPECTRE的公开掩护组织，设于巴黎奥斯曼大道136号之二",
+          "first_chapter": 5
+        }
+      ]
+    },
+    {
+      "id": "red-lightning-tong",
+      "name_en": "Red Lightning Tong",
+      "name_zh": "红闪电帮会",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "澳门犯罪帮会，利普为其成员，SPECTRE次级特工的来源之一",
+          "first_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "nato",
+      "name_en": "NATO",
+      "name_zh": "北约",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "失踪飞机执行北约训练飞行任务，佩塔基为北约借调观察员",
+          "first_chapter": 7
+        }
+      ]
+    },
+    {
+      "id": "gestapo",
+      "name_en": "Sonderdienst of the Gestapo",
+      "name_zh": "盖世太保特别勤务处",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "SPECTRE成员来源之一，提供3名前成员",
+          "first_chapter": 5
+        }
+      ]
+    },
+    {
+      "id": "rahir",
+      "name_en": "RAHIR",
+      "name_zh": "拉希尔",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "布洛菲尔德二战时在土耳其建立的情报网，后转为SPECTRE土耳其组",
+          "first_chapter": 5
+        }
+      ]
+    },
+    {
+      "id": "krystal",
+      "name_en": "KRYSTAL",
+      "name_zh": "克里斯特尔",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "SPECTRE土耳其组经营的中东海洛因通道，出口在贝鲁特",
+          "first_chapter": 5
+        }
+      ]
+    },
+    {
+      "id": "metro-accident-and-home",
+      "name_en": "Metro Accident and Home",
+      "name_zh": "都会事故与家庭保险公司",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "role": "霍勒谎称的保险公司名；梦松旅馆纵火骗保的目标保险公司，旅馆估值约50万美元",
+          "first_chapter": "Twelve"
+        }
+      ]
+    },
+    {
+      "id": "vwz",
+      "name_en": "Verband Westdeutscher Zeitungen",
+      "name_zh": "西德报纸协会通讯社",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "role": "西德报业合作社出资的独立通讯社；薇薇安任伦敦办事处二号职员，周薪30镑",
+          "first_chapter": "Four"
+        }
+      ]
+    },
+    {
+      "id": "chelsea-clarion",
+      "name_en": "Chelsea Clarion",
+      "name_zh": "切尔西号",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "role": "切尔西地方周报；薇薇安任编辑助理后升署名记者，周薪20畿尼",
+          "first_chapter": "Four"
+        }
+      ]
+    },
+    {
+      "id": "mechanics-gang",
+      "name_en": "The Mechanics",
+      "name_zh": "机械帮",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "role": "多伦多最凶悍的帮派，与芝加哥、底特律帮派有关联；受雇刺杀鲍里斯，枪战中一死两重伤",
+          "first_chapter": "Eleven"
+        }
+      ]
+    },
+    {
+      "id": "college-of-arms",
+      "name_en": "College of Arms",
+      "name_zh": "纹章院",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "受理布洛菲尔德爵位申请的机构；黑貂·蛇怪策划化名行动，邦德冒充其纹章官",
+          "first_chapter": 6
+        }
+      ]
+    },
+    {
+      "id": "station-z",
+      "name_en": "Station Z",
+      "name_zh": "Z站",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "苏黎世站，站长亚历山大·缪尔；二号人物坎贝尔在雪山诊所被捕身亡",
+          "first_chapter": 6
+        }
+      ]
+    },
+    {
+      "id": "ministry-agriculture",
+      "name_en": "Ministry of Agriculture and Fisheries",
+      "name_zh": "农业渔业部",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "富兰克林所在部门，提供禽瘟疫情与生物战分析，协调扣留女孩",
+          "first_chapter": 21
+        }
+      ]
+    },
+    {
+      "id": "oas",
+      "name_en": "OAS",
+      "name_zh": "秘密军组织",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "向德拉科出借军用直升机与飞行员",
+          "first_chapter": 24
+        }
+      ]
+    },
+    {
+      "id": "swiss-securite",
+      "name_en": "Swiss Securite",
+      "name_zh": "瑞士安全局",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "拒绝向英国提供布洛菲尔德行踪与银行户头信息；艾玛·布朗特持其通行证通关",
+          "first_chapter": 6
+        }
+      ]
+    },
+    {
+      "id": "koan-chosa-kyoku",
+      "name_en": "Koan-Chosa-Kyoku",
+      "name_zh": "公安调查局",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "role": "田中虎领导的日本秘密情报机构，掌控MAGIC44并负责对付死亡城堡",
+          "first_chapter": 5
+        }
+      ]
+    },
+    {
+      "id": "australian-intelligence",
+      "name_en": "Australian Intelligence",
+      "name_zh": "澳大利亚情报机构",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "role": "迪科·亨德森领导的驻东京机构，为邦德提供外交掩护与通讯渠道",
+          "first_chapter": 4
+        }
+      ]
+    },
+    {
+      "id": "black-dragon-society",
+      "name_en": "Black Dragon Society",
+      "name_zh": "黑龙会",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "role": "战前已解散的日本极端秘密会社，其余党约20人受雇为死亡城堡守卫，并派特工跟踪田中",
+          "first_chapter": 7
+        }
+      ]
+    },
+    {
+      "id": "dss",
+      "name_en": "D.S.S.",
+      "name_zh": "古巴国家安全局",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "斯卡拉曼加的直接雇主；1959年后他以DSS“执法者”身份执行暗杀",
+          "first_chapter": 3
+        }
+      ]
+    },
+    {
+      "id": "the-group",
+      "name_en": "The Group",
+      "name_zh": "集团",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "斯卡拉曼加任主席的跨国犯罪投资集团，七名股东（Hendriks、Binion、Gengerella、Rotkopf、Garfinkel、Paradise与斯卡拉曼加），从事食糖期货操纵、甘蔗纵火、毒品与赌场阴谋",
+          "first_chapter": 9
+        }
+      ]
+    },
+    {
+      "id": "mafia",
+      "name_en": "Mafia",
+      "name_zh": "黑手党",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "通过Gengerella首次与克格勃结盟；斯卡拉曼加与Hendriks均认为其只认钱",
+          "first_chapter": 9
+        }
+      ]
+    },
+    {
+      "id": "wisco",
+      "name_en": "West Indian Sugar Company",
+      "name_zh": "西印度制糖公司",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "牙买加Frome糖厂业主，产量约占牙买加食糖四分之一；其甘蔗田屡遭纵火",
+          "first_chapter": 4
+        }
+      ]
+    },
+    {
+      "id": "rastafari",
+      "name_en": "Rastafari",
+      "name_zh": "拉斯塔法里教派",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "牙买加留须、吸大麻的教派，聚居金斯敦外Dungle；斯卡拉曼加以大麻供应换取其成员纵火烧甘蔗田",
+          "first_chapter": 6
+        }
+      ]
+    },
+    {
+      "id": "mob-force",
+      "name_en": "Miscellaneous Objectives Bureau",
+      "name_zh": "杂项目标局",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "role": "第1篇：秘密情报机构与联合行动总部合办，战后清理盖世太保与Abwehr藏匿点；下辖六支分队，Smythe任A Force二号人物",
+          "first_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "royal-marines",
+      "name_en": "Royal Marines",
+      "name_zh": "皇家海军陆战队",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "role": "第1篇：Smythe所属军种，战后将接手其军事法庭审判",
+          "first_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "station-wb",
+      "name_en": "Station WB",
+      "name_zh": "WB站",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "role": "第2篇：秘密情报机构柏林站，站长Tanqueray，二号人物Sender，负责接应272与安排狙击阵地",
+          "first_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "section-100",
+      "name_en": "Section 100",
+      "name_zh": "100处",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "role": "第3篇：负责运作双面特工，编造Purple Cipher的SITREP内容并设局让Freudenstein盗走密码本钥匙",
+          "first_chapter": 3
+        }
+      ]
+    },
+    {
+      "id": "sothebys",
+      "name_en": "Sotheby's",
+      "name_zh": "苏富比",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "role": "第3篇：拍卖Emerald Sphere的拍卖行，Lot 42以15.5万英镑成交",
+          "first_chapter": 3
+        }
+      ]
+    },
+    {
+      "id": "wartski",
+      "name_en": "Wartski",
+      "name_zh": "沃茨基",
+      "kind": null,
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "role": "第3篇：世界最大Fabergé经销商，受客户委托竞拍Emerald Sphere并最终以15.5万英镑拍得",
+          "first_chapter": 3
+        }
+      ]
+    }
+  ]
+}

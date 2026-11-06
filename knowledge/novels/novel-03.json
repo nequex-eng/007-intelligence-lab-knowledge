@@ -1,0 +1,1712 @@
+{
+  "adaptation_differences": [
+    "原著中没有太空情节,月亮牌是单级原子导弹,目标是伦敦,这一点由原文第XXII章与第XXIV章确认",
+    "本部未系统核对电影差异,此处不展开电影对比"
+  ],
+  "canon_vs_inference": [
+    {
+      "note": "故事发生在5月下旬,星期一至星期五,原文未写明年份,1955年为出版年份推断",
+      "status": "inference",
+      "topic": "故事年份"
+    },
+    {
+      "note": "邦德说离45岁自动调离00名单还有8年,据此推断其年龄约37岁",
+      "status": "inference",
+      "topic": "邦德年龄"
+    },
+    {
+      "note": "德拉克斯在公开场合约40岁出头,原文称不能much over forty,具体年龄未写",
+      "status": "inference",
+      "topic": "德拉克斯年龄"
+    },
+    {
+      "note": "巴兹尔登的搭档被称为Tommy,同桌另一人为Dangerfield,两人是否为同一人原文未明确写明",
+      "status": "inference",
+      "topic": "Tommy是否为Dangerfield"
+    },
+    {
+      "note": "南古德温灯船脚注称1954年11月26日星期五失事,与故事内5月星期五发射的时间线存在张力,原文脚注本身即指出邦德说法有误",
+      "status": "canon",
+      "topic": "灯船脚注"
+    },
+    {
+      "note": "盖拉的未婚夫只以Detective-Inspector Vivian出现,名字未写",
+      "status": "canon",
+      "topic": "Vivian全名未知"
+    }
+  ],
+  "chapters": [
+    {
+      "no": "I",
+      "start_line": 3,
+      "summary": "星期一,邦德在总部地下射击场练枪,后处理文件,得知008在柏林休养、0011在新加坡失踪,自己年薪与生活状况交代。",
+      "title": "SECRET PAPER-WORK"
+    },
+    {
+      "no": "II",
+      "start_line": 75,
+      "summary": "M召见邦德,复述德拉克斯公开经历:阿登遇袭失忆、被认定为利物浦孤儿Hugo Drax、靠Columbite发家、捐1000万英镑造月亮牌导弹获封爵士,最后M说德拉克斯打牌作弊。",
+      "title": "THE COLUMBITE KING"
+    },
+    {
+      "no": "III",
+      "start_line": 128,
+      "summary": "M与巴兹尔登说明德拉克斯桥牌从未输过,邦德回忆战前跟Steffi Esposito学的作弊手法,准备当晚去Blades观察。",
+      "title": "'BELLY STRIPPERS', ETC."
+    },
+    {
+      "no": "IV",
+      "start_line": 182,
+      "summary": "邦德到Blades观察德拉克斯打牌,细写其外貌与举止,发现其用抛光银烟盒作反光镜偷看牌,即Shiner。",
+      "title": "THE 'SHINER'"
+    },
+    {
+      "no": "V",
+      "start_line": 274,
+      "summary": "邦德与M在Blades晚餐,邦德服Benzedrine提神,商定赌注One and One,邦德以白手帕为信号约定给M发Yarborough。",
+      "title": "DINNER AT BLADES"
+    },
+    {
+      "no": "VI",
+      "start_line": 336,
+      "summary": "邦德与M对德拉克斯与迈耶打桥牌,赌注抬至Five and Five,邦德装醉诱敌加注。",
+      "title": "CARDS WITH A STRANGER"
+    },
+    {
+      "no": "VII",
+      "start_line": 415,
+      "summary": "邦德用预先叠好的Culbertson名局发给德拉克斯好牌、自己大满贯,赢约15000英镑,德拉克斯威胁要他快花掉这笔钱。",
+      "title": "THE QUICKNESS OF THE HAND"
+    },
+    {
+      "no": "VIII",
+      "start_line": 497,
+      "summary": "星期二,邦德反思德拉克斯的偏执,列花钱清单,红电话再召,他得知基地发生双重命案。",
+      "title": "THE RED TELEPHONE"
+    },
+    {
+      "no": "IX",
+      "start_line": 548,
+      "summary": "M说明基地情况:塔隆与巴奇死于World Without Want酒馆,月亮牌星期五中午试射,邦德被任命为新任安全官当晚赴任。",
+      "title": "TAKE IT FROM HERE"
+    },
+    {
+      "no": "X",
+      "start_line": 590,
+      "summary": "邦德见瓦兰斯与供应部,特雷恩教授讲解月亮牌:氟与氢燃料、Columbite发动机、射程约4000英里,邦德驱车赴多佛尔基地,途中在酒馆核实命案细节。",
+      "title": "SPECIAL BRANCH AGENT"
+    },
+    {
+      "no": "XI",
+      "start_line": 651,
+      "summary": "邦德抵达基地,见德拉克斯、盖拉、沃尔特与克雷布斯,晚餐后参观发射井与火箭,德拉克斯解释基地布局。",
+      "title": "POLICEWOMAN BRAND"
+    },
+    {
+      "no": "XII",
+      "start_line": 701,
+      "summary": "邦德近看月亮牌火箭:50英尺抛光铬钢弹体、Columbite尾鳍、燃料与涡轮结构,注意到全员剃头留胡子的怪异现象。",
+      "title": "THE MOONRAKER"
+    },
+    {
+      "no": "XIII",
+      "start_line": 744,
+      "summary": "星期三凌晨,邦德搜查塔隆房间,发现海图上的交叉方位与克雷布斯的指纹,推断塔隆因看到海上异物而死,次日清晨致电瓦兰斯。",
+      "title": "DEAD RECKONING"
+    },
+    {
+      "no": "XIV",
+      "start_line": 790,
+      "summary": "盖拉视角:她每日做飞行计划却被德拉克斯与沃尔特另算一遍记入黑皮本,她对邦德由轻视转为愿合作,邦德发现她钻孔监视。",
+      "title": "ITCHING FINGERS"
+    },
+    {
+      "no": "XV",
+      "start_line": 834,
+      "summary": "德拉克斯称克雷布斯不可信,邦德在房中抓到克雷布斯撬其皮箱并将其打伤,瓦兰斯来电称塔隆电话来自屋内、灯船未见异物。",
+      "title": "ROUGH JUSTICE"
+    },
+    {
+      "no": "XVI",
+      "start_line": 882,
+      "summary": "邦德与盖拉沿海滩散步游泳,邦德吻了盖拉,考察排气洞与海面水深,确认潜艇可靠近。",
+      "title": "A GOLDEN DAY"
+    },
+    {
+      "no": "XVII",
+      "start_line": 962,
+      "summary": "悬崖被炸塌,邦德扑在盖拉身上救了两人,两人脱险后认定有人蓄意谋杀,决定自行查明真相,晚餐时德拉克斯等人震惊。",
+      "title": "WILD SURMISES"
+    },
+    {
+      "no": "XVIII",
+      "start_line": 1026,
+      "summary": "星期四,盖拉随德拉克斯乘车去伦敦,途中偷出黑皮本,发现其陀螺仪数字与自己相差约90度,指向伦敦,被克雷布斯抓获并打晕,囚于Ebury Street的雷达引导站。",
+      "title": "BENEATH THE FLAT STONE"
+    },
+    {
+      "no": "XIX",
+      "start_line": 1111,
+      "summary": "邦德在伦敦等盖拉赴约未至,得知Drax Metals当日做空英镑2000万英镑,瓦兰斯请邦德寻人,邦德跟踪德拉克斯到Ebury Street。",
+      "title": "MISSING PERSON"
+    },
+    {
+      "no": "XX",
+      "start_line": 1161,
+      "summary": "邦德驾宾利追赶德拉克斯的白色奔驰,德拉克斯撞翻一辆Alfa Romeo致其司机死亡,又令克雷布斯割断运纸车绳索致邦德撞车被俘。",
+      "title": "DRAX'S GAMBIT"
+    },
+    {
+      "no": "XXI",
+      "start_line": 1223,
+      "summary": "邦德与盖拉被绑回基地,盖拉向邦德讲清黑皮本与伦敦雷达引导站的真相,邦德企图跳车求救被克雷布斯制止。",
+      "title": "'THE PERSUADER'"
+    },
+    {
+      "no": "XXII",
+      "start_line": 1295,
+      "summary": "德拉克斯自白真实身份Graf Hugo von der Drache、纳粹旧部、冒名经过、莫斯科交易与原子弹头调包计划,邦德激怒他后被打晕,两人被绑在办公室内。",
+      "title": "PANDORA'S BOX"
+    },
+    {
+      "no": "XXIII",
+      "start_line": 1332,
+      "summary": "邦德用牙齿点燃喷灯烧断盖拉腕上绳索脱困,两人决定藏身通风井,待德拉克斯设定陀螺仪后再改回正确设定,忍受蒸汽烫伤而未被发现。",
+      "title": "ZERO MINUS"
+    },
+    {
+      "no": "XXIV",
+      "start_line": 1436,
+      "summary": "星期五中午,邦德在发射前4分钟改回陀螺仪设定,两人躲进淋浴间,德拉克斯在BBC直播中发表复仇演说后按下发射钮,火箭升空后落入北海,原子弹爆炸击沉俄国潜艇。",
+      "title": "ZERO"
+    },
+    {
+      "no": "XXV",
+      "start_line": 1502,
+      "summary": "次日,M向邦德说明掩盖方案与伤亡,盖拉获乔治十字勋章,两人被令出国一个月,邦德获赠新贝雷塔与1953年Mark VI,盖拉告之次日将与维维安结婚,两人告别。",
+      "title": "ZERO PLUS"
+    }
+  ],
+  "characters": [
+    {
+      "age_clues": "离45岁还有8年,约37岁",
+      "aliases": [
+        "007",
+        "Commander Bond"
+      ],
+      "appearance": "黑发垂在右眉上,灰蓝色眼睛,右颊有疤,身材瘦削结实",
+      "background": "秘密情报机构00部门高级特工,年薪1500英镑,另有1000英镑免税收入,住国王路附近小公寓,管家May,1930年4.5升机械增压宾利",
+      "first_appearance_chapter": "I",
+      "habits": "抽Morlands特制马其顿香烟,喝伏特加干马提尼配大片柠檬皮,打桥牌与高尔夫,随身带贝雷塔手枪",
+      "id": "bond",
+      "last_appearance_chapter": "XXV",
+      "name_en": "James Bond",
+      "name_zh": "詹姆斯·邦德",
+      "personality": "冷静、好赌、直觉敏锐、行事果断,危急时能以言语激怒对手制造机会",
+      "relationships": [
+        {
+          "change": "由M的下属受命调查牌局,到并肩阻止导弹袭击伦敦的搭档,最后互相告别",
+          "type": "搭档",
+          "with": "gala-brand"
+        },
+        {
+          "change": "由受命查牌的棋子变为识破其真实身份并挫败其计划的对手",
+          "type": "对手",
+          "with": "drax"
+        },
+        {
+          "change": "上下级,邦德执行M的个人委托与正式任务",
+          "type": "上下级",
+          "with": "m"
+        }
+      ],
+      "role": "主要人物"
+    },
+    {
+      "age_clues": "公开身份约40岁出头",
+      "aliases": [
+        "Sir Hugo Drax",
+        "Hugger Drax",
+        "Graf Hugo von der Drache"
+      ],
+      "appearance": "约6英尺高,肩宽,红发中分,右半脸为烧伤后植皮,右眼偏大充血,红胡子,上牙前突有缝,指甲咬到肉,拇指异常长,常出汗",
+      "background": "自称利物浦码头孤儿Hugo Drax,实为德裔伯爵Graf Hugo von der Drache,母亲为英国人,12岁前在英国受教育,后在柏林与莱比锡受教育,曾在Rheinmetall Borsig子公司工作,加入纳粹党,任第140装甲团中尉,后入勃兰登堡师与党卫军国外情报处, Skorzeny手下,1944年12月阿登战役任Kommando Drache的Oberleutnant",
+      "first_appearance_chapter": "II",
+      "habits": "桥牌中用抛光银烟盒作反光镜偷看牌,咬指甲,大汗,抽软木嘴弗吉尼亚香烟,言语粗暴",
+      "id": "drax",
+      "last_appearance_chapter": "XXIV",
+      "name_en": "Hugo Drax",
+      "name_zh": "雨果·德拉克斯",
+      "personality": "偏执、仇英、报复心强、好胜、专横、自认超人,邦德判断其为偏执狂",
+      "relationships": [
+        {
+          "change": "由被调查的牌友变为邦德的死敌,最后随潜艇葬身北海",
+          "type": "对手",
+          "with": "bond"
+        },
+        {
+          "change": "表面为雇主与秘书,实为囚禁与迫害者,盖拉识破其黑皮本后将其计划暴露",
+          "type": "雇主与受害者",
+          "with": "gala-brand"
+        },
+        {
+          "change": "德拉克斯的副手与同谋,同乘潜艇逃亡",
+          "type": "同谋",
+          "with": "walter"
+        },
+        {
+          "change": "德拉克斯的副手、打手与旧部,称其为mein Kapitän",
+          "type": "同谋与下属",
+          "with": "krebs"
+        }
+      ],
+      "role": "主要反派"
+    },
+    {
+      "age_clues": "未写明,曾在Wrens服役,后入警察系统",
+      "aliases": [
+        "Miss Brand",
+        "Galatea Brand",
+        "Gala"
+      ],
+      "appearance": "深棕发,蓝眼睛,高颧骨,身高5英尺7英寸,体重9英石,三围38-26-38,右乳上有痣,左耳后在被袭时受伤",
+      "background": "本名Galatea,父亲服役的巡洋舰Galatea得名,曾在Wrens服役,现为苏格兰场特别分部女警,双语通德语,被派为德拉克斯私人秘书潜伏一年多,未婚夫为Detective-Inspector Vivian",
+      "first_appearance_chapter": "IX",
+      "habits": "精于扒窃与观察,能心算陀螺仪设定,每日制作飞行计划,在办公室墙上钻孔监视德拉克斯",
+      "id": "gala-brand",
+      "last_appearance_chapter": "XXV",
+      "name_en": "Gala Brand",
+      "name_zh": "盖拉·布兰德",
+      "personality": "冷静、专业、勇敢、执着,初见邦德时冷淡戒备,后成为可靠搭档",
+      "relationships": [
+        {
+          "change": "由互不信任的同事变为生死搭档,最后她选择与未婚夫结婚,与邦德告别",
+          "type": "搭档",
+          "with": "bond"
+        },
+        {
+          "change": "由雇主与秘书变为囚禁者与逃脱者",
+          "type": "受害者与加害者",
+          "with": "drax"
+        }
+      ],
+      "role": "主要人物"
+    },
+    {
+      "age_clues": "年长,海军出身",
+      "aliases": [
+        "Admiral",
+        "M."
+      ],
+      "appearance": "水手面孔,灰眼睛,常抽烟斗,戴无框眼镜读菜单,右太阳穴有紧张时跳动的脉搏",
+      "background": "秘密情报机构首长,办公室在总部9楼,本部中未写全名",
+      "first_appearance_chapter": "I",
+      "habits": "打匹克牌,抽烟斗,坚持在恶劣光线下练枪",
+      "id": "m",
+      "last_appearance_chapter": "XXV",
+      "name_en": "M",
+      "name_zh": "M",
+      "personality": "严厉、克制、忠诚,重视下属,愿为老友处理私人委托",
+      "relationships": [
+        {
+          "change": "始终为上下级,M最后安排邦德与盖拉出国避风头一个月",
+          "type": "上下级",
+          "with": "bond"
+        }
+      ],
+      "role": "主要人物"
+    },
+    {
+      "age_clues": "未写明",
+      "aliases": [
+        "Penny"
+      ],
+      "appearance": "与Loelia Ponsonby同款衬衫,蓝色条纹",
+      "background": "M的私人秘书",
+      "first_appearance_chapter": "II",
+      "habits": "打字,协助M处理事务",
+      "id": "moneypenny",
+      "last_appearance_chapter": "II",
+      "name_en": "Miss Moneypenny",
+      "name_zh": "钱彭妮",
+      "personality": "干练、与邦德互相欣赏",
+      "relationships": [
+        {
+          "change": "无变化",
+          "type": "同事",
+          "with": "bond"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "未写明,战后在机构工作5年",
+      "aliases": [
+        "Lil",
+        "Loelia"
+      ],
+      "appearance": "高个、黑发、灰眼睛,气质冷峻",
+      "background": "00部门首席秘书,能接触机构核心机密,被称为珍珠与双排扣毛衣圈子成员",
+      "first_appearance_chapter": "I",
+      "habits": "称邦德为Lil的反感,传递粉红藤蔓小道消息",
+      "id": "loelia-ponsonby",
+      "last_appearance_chapter": "XXV",
+      "name_en": "Loelia Ponsonby",
+      "name_zh": "洛利娅·庞森比",
+      "personality": "冷静、克制、忠诚,担心特工安危但不愿卷入感情",
+      "relationships": [
+        {
+          "change": "无变化",
+          "type": "同事",
+          "with": "bond"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "与邦德同龄",
+      "aliases": [],
+      "appearance": "脸色苍白,神情讥讽,工作过度",
+      "background": "M的参谋长",
+      "first_appearance_chapter": "II",
+      "habits": "传达M的召见",
+      "id": "chief-of-staff",
+      "last_appearance_chapter": "IX",
+      "name_en": "Chief of Staff",
+      "name_zh": "参谋长",
+      "personality": "干练、讥讽",
+      "relationships": [
+        {
+          "change": "无变化",
+          "type": "同事",
+          "with": "bond"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "未写明",
+      "aliases": [],
+      "appearance": "未详写,Blades俱乐部主席",
+      "background": "Blades俱乐部主席,发现德拉克斯作弊后求助M",
+      "first_appearance_chapter": "III",
+      "habits": "打桥牌",
+      "id": "basildon",
+      "last_appearance_chapter": "VII",
+      "name_en": "Lord Basildon",
+      "name_zh": "巴兹尔登勋爵",
+      "personality": "重视俱乐部声誉,怕丑闻,欣赏德拉克斯",
+      "relationships": [
+        {
+          "change": "由敬佩德拉克斯到请邦德出手制止其作弊",
+          "type": "俱乐部主席与会员",
+          "with": "drax"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "中年,面色红润",
+      "aliases": [
+        "Max"
+      ],
+      "appearance": "中年,面色红润",
+      "background": "德拉克斯的桥牌搭档,住Albany,收藏Battersea鼻烟盒",
+      "first_appearance_chapter": "IV",
+      "habits": "打桥牌,搭德拉克斯便车赢钱",
+      "id": "meyer",
+      "last_appearance_chapter": "VII",
+      "name_en": "Max Meyer",
+      "name_zh": "马克斯·迈耶",
+      "personality": "胆小、顺从,被德拉克斯呼喝",
+      "relationships": [
+        {
+          "change": "无变化,始终为德拉克斯搭档",
+          "type": "牌搭档",
+          "with": "drax"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "未写明",
+      "aliases": [
+        "Tommy"
+      ],
+      "appearance": "未详写",
+      "background": "Blades桥牌玩家,巴兹尔登的搭档",
+      "first_appearance_chapter": "IV",
+      "habits": "打桥牌",
+      "id": "dangerfield",
+      "last_appearance_chapter": "VII",
+      "name_en": "Dangerfield",
+      "name_zh": "丹杰菲尔德",
+      "personality": "未详写",
+      "relationships": [
+        {
+          "change": "无变化",
+          "type": "牌友",
+          "with": "basildon"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "年长,瘦",
+      "aliases": [
+        "Valter",
+        "Doctor Walter"
+      ],
+      "appearance": "瘦长,黑发,黑帝国式胡子,怒目",
+      "background": "德拉克斯的右手,来自佩内明德的导弹专家,由苏联方面提供,负责月亮牌技术",
+      "first_appearance_chapter": "XI",
+      "habits": "不饮酒不吸烟,只想火箭,担忧鳍片前缘与石墨板",
+      "id": "walter",
+      "last_appearance_chapter": "XXIV",
+      "name_en": "Dr Walter",
+      "name_zh": "沃尔特博士",
+      "personality": "神经质、执着于技术细节",
+      "relationships": [
+        {
+          "change": "始终为德拉克斯副手,同乘潜艇逃亡",
+          "type": "同谋",
+          "with": "drax"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "年轻",
+      "aliases": [
+        "Willy"
+      ],
+      "appearance": "圆脸苍白,淡黄小胡子,眼睛如黑纽扣,脖子像白蛞蝓",
+      "background": "德拉克斯的副官与打手,阿登时期即为其旧部,曾任行刑者与劝说者",
+      "first_appearance_chapter": "XI",
+      "habits": "偷窥、搜查他人房间,用弹簧刀与皮cosh,称德拉克斯为mein Kapitän",
+      "id": "krebs",
+      "last_appearance_chapter": "XXIV",
+      "name_en": "Willy Krebs",
+      "name_zh": "威利·克雷布斯",
+      "personality": "谄媚、阴险、残忍、窥探成性",
+      "relationships": [
+        {
+          "change": "始终为德拉克斯心腹,最后同乘潜艇",
+          "type": "下属与同谋",
+          "with": "drax"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "年长,已婚,4个孩子",
+      "aliases": [],
+      "appearance": "未详写",
+      "background": "供应部派驻基地的安全官,陆军情报与野战安全出身",
+      "first_appearance_chapter": "IX",
+      "habits": "夜观海面并在海图上标记方位",
+      "id": "tallon",
+      "last_appearance_chapter": "XIII",
+      "name_en": "Major Tallon",
+      "name_zh": "塔隆少校",
+      "personality": "谨慎、尽责,死前察觉基地有问题",
+      "relationships": [
+        {
+          "change": "死后由邦德接任其安全官职位",
+          "type": "前任与继任",
+          "with": "bond"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "未写明",
+      "aliases": [],
+      "appearance": "未详写",
+      "background": "德国电子专家,月亮牌团队成员",
+      "first_appearance_chapter": "IX",
+      "habits": "暗恋盖拉,情绪低落",
+      "id": "bartsch",
+      "last_appearance_chapter": "IX",
+      "name_en": "Egon Bartsch",
+      "name_zh": "埃贡·巴奇",
+      "personality": "高度紧张、偏执",
+      "relationships": [
+        {
+          "change": "被抽签选出枪杀塔隆后自杀",
+          "type": "凶手与受害者",
+          "with": "tallon"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "中年,从事特别分部工作20年",
+      "aliases": [
+        "Ronnie"
+      ],
+      "appearance": "中年,圆滑",
+      "background": "苏格兰场特别分部助理总监,盖拉的上司",
+      "first_appearance_chapter": "IX",
+      "habits": "善于处理部门关系,保护线人",
+      "id": "vallance",
+      "last_appearance_chapter": "XXV",
+      "name_en": "Ronnie Vallance",
+      "name_zh": "罗尼·瓦兰斯",
+      "personality": "机智、谨慎、重情义",
+      "relationships": [
+        {
+          "change": "由盖拉上司变为邦德的后援",
+          "type": "合作",
+          "with": "bond"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "中年,肥胖邋遢",
+      "aliases": [],
+      "appearance": "肥胖、邋遢、不起眼",
+      "background": "导弹专家,上年诺贝尔物理学奖分区亚军,向邦德讲解月亮牌原理",
+      "first_appearance_chapter": "X",
+      "habits": "讲解技术",
+      "id": "professor-train",
+      "last_appearance_chapter": "X",
+      "name_en": "Professor Train",
+      "name_zh": "特雷恩教授",
+      "personality": "直率、专业",
+      "relationships": [
+        {
+          "change": "无变化",
+          "type": "讲解者",
+          "with": "bond"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "未写明",
+      "aliases": [],
+      "appearance": "未详写",
+      "background": "Blades俱乐部守门人,家族任此职百年",
+      "first_appearance_chapter": "IV",
+      "habits": "守门、认人",
+      "id": "brevett",
+      "last_appearance_chapter": "XIX",
+      "name_en": "Brevett",
+      "name_zh": "布雷维特",
+      "personality": "忠诚、受会员敬重",
+      "relationships": [
+        {
+          "change": "无变化",
+          "type": "俱乐部职员",
+          "with": "bond"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "年长,苏格兰人",
+      "aliases": [],
+      "appearance": "未详写",
+      "background": "邦德的管家",
+      "first_appearance_chapter": "I",
+      "habits": "打理公寓",
+      "id": "may",
+      "last_appearance_chapter": "I",
+      "name_en": "May",
+      "name_zh": "梅",
+      "personality": "可靠、珍贵",
+      "relationships": [
+        {
+          "change": "无变化",
+          "type": "雇主与管家",
+          "with": "bond"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "年轻,金发短发",
+      "aliases": [],
+      "appearance": "高个、金发短发",
+      "background": "侦缉督察,盖拉的未婚夫",
+      "first_appearance_chapter": "XXV",
+      "habits": "未详写",
+      "id": "vivian",
+      "last_appearance_chapter": "XXV",
+      "name_en": "Detective-Inspector Vivian",
+      "name_zh": "侦缉督察维维安",
+      "personality": "未详写",
+      "relationships": [
+        {
+          "change": "最后盖拉决定次日下午与他结婚",
+          "type": "未婚夫",
+          "with": "gala-brand"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "未写明",
+      "aliases": [],
+      "appearance": "未详写",
+      "background": "射击场教官,称邦德为机构最佳射手",
+      "first_appearance_chapter": "I",
+      "habits": "与邦德赌射击",
+      "id": "instructor",
+      "last_appearance_chapter": "I",
+      "name_en": "Shooting Instructor",
+      "name_zh": "射击教官",
+      "personality": "专业",
+      "relationships": [
+        {
+          "change": "无变化",
+          "type": "教官",
+          "with": "bond"
+        }
+      ],
+      "role": "次要人物"
+    }
+  ],
+  "communications": [
+    {
+      "name": "红电话",
+      "note": "邦德办公桌上直通M与参谋长的红色电话"
+    },
+    {
+      "name": "电话与电报",
+      "note": "邦德经苏格兰场总机致电瓦兰斯,瓦兰斯以Baxter署名发电报,塔隆曾从屋内致电供应部"
+    },
+    {
+      "name": "空军部电传",
+      "note": "盖拉每日接收空军部电传天气数据制作飞行计划"
+    },
+    {
+      "name": "BBC直播",
+      "note": "发射当日BBC在发射点做直播,首相发表广播讲话,发射后由HMS Merganzer上的记者继续播报"
+    },
+    {
+      "name": "雷达与遥测",
+      "note": "发射点有Doppler速度雷达与飞行路径雷达,火箭鼻部有20个遥测通道,另有电视监视发射井内情况"
+    }
+  ],
+  "equipment": [
+    {
+      "id": "beretta-418",
+      "kind": "武器",
+      "name_en": "Beretta 418",
+      "name_zh": "贝雷塔手枪",
+      "note": "邦德配枪,0.25口径,骨架握把,肩套携带,结尾M赠送一把新枪"
+    },
+    {
+      "id": "colt-detective-special",
+      "kind": "武器",
+      "name_en": "Colt Detective Special",
+      "name_zh": "柯尔特侦探特种左轮",
+      "note": "第I章射击场用枪,0.38口径"
+    },
+    {
+      "id": "colt-army-special-45",
+      "kind": "武器",
+      "name_en": "Colt Army Special .45",
+      "name_zh": "柯尔特陆军特种0.45左轮",
+      "note": "邦德在追车时从仪表板下取出,后在撞车残骸中被发现"
+    },
+    {
+      "id": "luger",
+      "kind": "武器",
+      "name_en": "Luger",
+      "name_zh": "鲁格手枪",
+      "note": "巴奇用无编号鲁格枪杀塔隆后自杀,德拉克斯在第XXII章亦持鲁格指着邦德与盖拉"
+    },
+    {
+      "id": "ronson-lighter",
+      "kind": "工具",
+      "name_en": "Ronson lighter",
+      "name_zh": "朗森打火机",
+      "note": "邦德黑色氧化打火机,第XXIII章用牙齿点燃喷灯的关键工具"
+    },
+    {
+      "id": "leica-camera",
+      "kind": "工具",
+      "name_en": "Leica camera",
+      "name_zh": "徕卡相机",
+      "note": "邦德用闪光灯附件拍摄海图上的指纹"
+    },
+    {
+      "id": "night-glasses-7x50",
+      "kind": "工具",
+      "name_en": "Night glasses 7x50",
+      "name_zh": "7x50夜视望远镜",
+      "note": "塔隆遗留的德国望远镜,邦德推断其用于夜间观察海面"
+    },
+    {
+      "id": "blowtorch",
+      "kind": "工具",
+      "name_en": "Blowtorch",
+      "name_zh": "喷灯",
+      "note": "德拉克斯办公室桌上的喷灯,邦德用它烧断绑绳脱困"
+    },
+    {
+      "id": "silver-cigarette-case",
+      "kind": "作弊工具",
+      "name_en": "Polished silver cigarette-case",
+      "name_zh": "抛光银烟盒",
+      "note": "德拉克斯用作Shiner反光镜偷看牌面"
+    },
+    {
+      "id": "fingerprint-powder",
+      "kind": "工具",
+      "name_en": "Fingerprint powder spray",
+      "name_zh": "指纹粉喷剂",
+      "note": "邦德用以显现海图上的指纹"
+    }
+  ],
+  "events": [
+    {
+      "cause": "M受巴兹尔登之托,派邦德查德拉克斯桥牌作弊",
+      "chapter": "IV",
+      "effect": "邦德发现银烟盒反光镜作弊手法",
+      "id": "blades-cheating-exposed",
+      "title": "Blades牌局揭穿作弊"
+    },
+    {
+      "cause": "邦德以预叠Culbertson名局设局,装醉诱德拉克斯加注至150英镑每100分与1500英镑橡皮局",
+      "chapter": "VII",
+      "effect": "德拉克斯输约15000英镑并威胁邦德快花掉这笔钱",
+      "id": "culbertson-grand-slam",
+      "title": "大满贯设局赢15000英镑"
+    },
+    {
+      "cause": "塔隆致电供应部称基地有问题,要求次日见部长,又在屋顶夜观海面",
+      "chapter": "IX",
+      "effect": "巴奇枪杀塔隆后自杀,验尸结论为谋杀与精神失常下自杀",
+      "id": "tallon-bartsch-killing",
+      "title": "塔隆与巴奇双重命案"
+    },
+    {
+      "cause": "邦德搜查塔隆房间,发现海图交叉方位与克雷布斯指纹",
+      "chapter": "XIII",
+      "effect": "邦德怀疑克雷布斯与德拉克斯另有图谋,致电瓦兰斯求证",
+      "id": "chart-clue",
+      "title": "海图线索"
+    },
+    {
+      "cause": "邦德与盖拉在海滩调查排气洞与水深,引起对方警觉",
+      "chapter": "XVII",
+      "effect": "两人险被炸塌的悬崖活埋,邦德救出盖拉,确认有人蓄意谋杀",
+      "id": "cliff-avalanche",
+      "title": "悬崖炸塌谋杀"
+    },
+    {
+      "cause": "盖拉偷看德拉克斯黑皮本,发现陀螺仪数字与自己相差约90度",
+      "chapter": "XVIII",
+      "effect": "盖拉被克雷布斯抓获打晕,囚于Ebury Street雷达引导站,推断目标为伦敦",
+      "id": "notebook-theft",
+      "title": "黑皮本被盗看与盖拉被囚"
+    },
+    {
+      "cause": "德拉克斯做空英镑2000万英镑,盖拉失踪,邦德跟踪至Ebury Street",
+      "chapter": "XX",
+      "effect": "德拉克斯撞死Alfa Romeo司机,又以运纸车设陷阱撞毁邦德宾利并俘虏邦德",
+      "id": "car-chase-maidstone",
+      "title": "伦敦至多佛尔追车与撞车"
+    },
+    {
+      "cause": "德拉克斯向被俘的邦德与盖拉自白全部计划",
+      "chapter": "XXII",
+      "effect": "邦德得知原子弹头、伦敦目标、雷达引导与潜艇接应全貌,激怒德拉克斯后被打晕绑缚",
+      "id": "drax-confession",
+      "title": "德拉克斯自白"
+    },
+    {
+      "cause": "邦德用牙齿操作喷灯与打火机烧断绑绳",
+      "chapter": "XXIII",
+      "effect": "两人脱困并藏身通风井,忍受蒸汽烫伤未被发现",
+      "id": "blowtorch-escape",
+      "title": "喷灯脱困与通风井藏身"
+    },
+    {
+      "cause": "德拉克斯按虚假设定发射月亮牌",
+      "chapter": "XXIV",
+      "effect": "邦德在发射前4分钟改回正确陀螺仪设定,火箭落入北海而非伦敦",
+      "id": "gyro-reset",
+      "title": "发射前改回陀螺仪"
+    },
+    {
+      "cause": "改回设定的火箭按原定目标落入北海,原子弹头爆炸",
+      "chapter": "XXIV",
+      "effect": "俄国潜艇被掀翻沉没,巡逻舰Merganzer倾覆,200人死亡、约200人失踪,荷兰海防被冲破",
+      "id": "moonraker-launch",
+      "title": "月亮牌发射与北海核爆"
+    },
+    {
+      "cause": "真相涉及德国纳粹余孽与苏联,公开将引发外交危机",
+      "chapter": "XXV",
+      "effect": "内阁决定大规模掩盖,称燃料事故与英军潜艇误会,盖拉获乔治十字勋章,邦德与盖拉被令出国一个月",
+      "id": "cover-up",
+      "title": "事后掩盖与嘉奖"
+    }
+  ],
+  "facts": [
+    {
+      "canon_or_inference": "canon",
+      "chapter": "I",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "邦德在总部地下射击场用柯尔特侦探特种0.38左轮练枪,教官称其为机构最佳射手。",
+      "quote": "best shot in the Service",
+      "quote_source": "第I章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期一"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "I",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "邦德年薪1500英镑,另有1000英镑免税收入,住国王路附近公寓,管家为苏格兰人May,座驾为1930年4.5升机械增压宾利。",
+      "quote": "1930 4 1/2-litre Bentley coupe, supercharged",
+      "quote_source": "第I章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期一"
+    },
+    {
+      "canon_or_inference": "inference",
+      "chapter": "I",
+      "confidence": "medium",
+      "entity": "bond",
+      "fact": "邦德离45岁自动调离00名单还有8年,据此推断其年龄约37岁。",
+      "quote": "before the statutory age of forty-five",
+      "quote_source": "第I章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期一"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "I",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "008在柏林休养,曾去佩内明德,0011在新加坡肮脏半英里失踪已两个月。",
+      "quote": "008's got out. He's in Berlin, resting",
+      "quote_source": "第I章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期一"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "I",
+      "confidence": "high",
+      "entity": "loelia-ponsonby",
+      "fact": "洛利娅·庞森比是00部门首席秘书,邦德称其Lil令她反感,她通过粉红藤蔓获知008消息。",
+      "quote": "Miss Loelia Ponsonby, Principal Secretary",
+      "quote_source": "第I章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期一"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "II",
+      "confidence": "high",
+      "entity": "drax",
+      "fact": "德拉克斯公开经历称其在1944年冬季阿登德军突破中遇袭,半边脸被炸毁并失忆一年,后被认定为利物浦孤儿Hugo Drax。",
+      "quote": "Total amnesia that lasted a year",
+      "quote_source": "第II章",
+      "source_novel": "moonraker",
+      "timeline_position": "1944年至1945年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "II",
+      "confidence": "high",
+      "entity": "drax",
+      "fact": "德拉克斯靠买卖Columbite发家,1946年以约每吨3000英镑买入3吨,后在丹吉尔经营,至1950年成为千万富翁。",
+      "quote": "cornered a very valuable ore called Columbite",
+      "quote_source": "第II章",
+      "source_novel": "moonraker",
+      "timeline_position": "1946年至1950年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "II",
+      "confidence": "high",
+      "entity": "drax",
+      "fact": "德拉克斯致信女王捐出全部Columbite holdings并出资1000万英镑建造原子火箭,获首相批准与爵士头衔。",
+      "quote": "10,000,000 he was going to put up",
+      "quote_source": "第II章",
+      "source_novel": "moonraker",
+      "timeline_position": "1954年约一年前"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "II",
+      "confidence": "high",
+      "entity": "m",
+      "fact": "M告诉邦德德拉克斯打牌作弊,这是邦德受命调查的起点。",
+      "quote": "Sir Hugo Drax cheats at cards",
+      "quote_source": "第II章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期一"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "III",
+      "confidence": "high",
+      "entity": "basildon",
+      "fact": "巴兹尔登为Blades俱乐部主席,因怕作弊丑闻泄露求助M,称德拉克斯加入一年来每周结算从未输过。",
+      "quote": "hasn't lost on a weekly settlement since he joined",
+      "quote_source": "第III章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期一"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "III",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "邦德战前跟Steffi Esposito学过作弊手法,包括Riffle Stack、发第二张与底牌、Belly Strippers与Shiners。",
+      "quote": "learning a thing called the Riffle Stack",
+      "quote_source": "第III章",
+      "source_novel": "moonraker",
+      "timeline_position": "战前"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "IV",
+      "confidence": "high",
+      "entity": "drax",
+      "fact": "德拉克斯约6英尺高,红发,右脸植皮,右眼偏大充血,红胡子,上牙前突有缝,指甲咬到肉,拇指异常长,常出汗。",
+      "quote": "about six foot tall, Bond guessed",
+      "quote_source": "第IV章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期一"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "IV",
+      "confidence": "high",
+      "entity": "drax",
+      "fact": "德拉克斯用抛光银烟盒作反光镜偷看牌,仅在自己发牌时作弊,借此赢得桥牌。",
+      "quote": "Every card is reflected in the top",
+      "quote_source": "第IV章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期一"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "V",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "邦德在Blades晚餐时服Benzedrine以保持清醒,并与M约定以白手帕为信号发Yarborough。",
+      "quote": "Benzedrine",
+      "quote_source": "第V章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期一"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "VI",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "桥牌赌注从One and One抬至Five and Five,即每100分50英镑、每橡皮局500英镑。",
+      "quote": "Five and Five it is",
+      "quote_source": "第VI章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期一"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "VII",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "邦德用预叠的Culbertson名局设局,以梅花大满贯击败德拉克斯,德拉克斯欠约15000英镑。",
+      "quote": "I owe about 15,000",
+      "quote_source": "第VII章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期一"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "IX",
+      "confidence": "high",
+      "entity": "tallon",
+      "fact": "塔隆少校与德国电子专家巴奇在World Without Want酒馆死亡,巴奇称我爱盖拉·布兰德、你不能拥有她后枪杀塔隆再自杀。",
+      "quote": "I love Gala Brand. You shall not have her",
+      "quote_source": "第IX章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期一晚"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "IX",
+      "confidence": "high",
+      "entity": "gala-brand",
+      "fact": "盖拉·布兰德是特别分部女警,通德语,被安插为德拉克斯私人秘书,在基地工作已逾一年。",
+      "quote": "She's an agent of the Special Branch",
+      "quote_source": "第IX章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期二"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "IX",
+      "confidence": "high",
+      "entity": "tallon",
+      "fact": "塔隆死前一日下午致电供应部称基地有可疑情况,要求次日上午10时亲自见部长,数小时后被杀。",
+      "quote": "something fishy was going on at the site",
+      "quote_source": "第IX章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期一"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "IX",
+      "confidence": "high",
+      "entity": "moonraker",
+      "fact": "月亮牌定于星期五中午试射,使用假弹头与四分之三燃料箱,垂直发射,目标为北海海域。",
+      "quote": "firing her vertically with only three-quarter tanks",
+      "quote_source": "第IX章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期五"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "IX",
+      "confidence": "high",
+      "entity": "drax",
+      "fact": "基地位于多佛尔与迪尔之间悬崖边,占地约1000英亩,核心约200英亩,德拉克斯与52人留守,其中50人为德国人。",
+      "quote": "fifty of these are Germans",
+      "quote_source": "第IX章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期二"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "X",
+      "confidence": "high",
+      "entity": "moonraker",
+      "fact": "月亮牌为单级火箭,用氟与氢作燃料,因Columbite熔点约3500摄氏度发动机才不被烧毁,设计时速约1500英里,垂直射程约1000英里,作战射程约4000英里。",
+      "quote": "we are using fluorine and hydrogen",
+      "quote_source": "第X章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期二"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "X",
+      "confidence": "high",
+      "entity": "bartsch",
+      "fact": "巴奇在开枪后立正并高喊Heil后将枪口放入口中自杀,酒馆老板与邦德均证实只听到Heil一词。",
+      "quote": "Heil",
+      "quote_source": "第X章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期一晚"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XI",
+      "confidence": "high",
+      "entity": "krebs",
+      "fact": "克雷布斯为德拉克斯的副官,外号其ADC,苍白圆脸,淡黄小胡子,眼神躲闪。",
+      "quote": "my dogsbody. What you might call my ADC",
+      "quote_source": "第XI章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期二"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XI",
+      "confidence": "high",
+      "entity": "walter",
+      "fact": "沃尔特博士为德拉克斯右手,不饮酒不吸烟,只关心火箭,担忧尾鳍前缘会熔化。",
+      "quote": "Doesn't drink or smoke",
+      "quote_source": "第XI章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期二"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XII",
+      "confidence": "high",
+      "entity": "moonraker",
+      "fact": "月亮牌弹体长50英尺,为抛光铬钢,竖立于深约40英尺的发射井内,鼻部装实验弹头与陀螺仪,尾部有Columbite合金尾鳍。",
+      "quote": "fifty feet of polished chrome steel",
+      "quote_source": "第XII章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期二"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XII",
+      "confidence": "high",
+      "entity": "drax",
+      "fact": "基地全体德国技术人员均剃光头并留胡子,德拉克斯称此举为便于辨认,邦德注意到档案照片中无人留胡子。",
+      "quote": "I told them all to grow moustaches",
+      "quote_source": "第XII章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期二"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XIII",
+      "confidence": "high",
+      "entity": "tallon",
+      "fact": "塔隆在海图上用尖笔划出两条交叉方位线,交点在12英寻水深处、距悬崖约50码,正对南古德温灯船方向,并留有问号。",
+      "quote": "trace of a question mark",
+      "quote_source": "第XIII章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期三"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XIII",
+      "confidence": "high",
+      "entity": "krebs",
+      "fact": "邦德用指纹粉比对确认海图上的指纹属于克雷布斯,且其指纹覆盖在塔隆指纹之上。",
+      "quote": "They were his prints on the chart",
+      "quote_source": "第XIII章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期三"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XIV",
+      "confidence": "high",
+      "entity": "gala-brand",
+      "fact": "盖拉每日根据空军部数据计算陀螺仪设定,德拉克斯与沃尔特每日另算一遍记入其随身黑皮本,她通过墙洞监视此过程。",
+      "quote": "transfer the results to the thin black notebook",
+      "quote_source": "第XIV章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期三"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XV",
+      "confidence": "high",
+      "entity": "krebs",
+      "fact": "邦德在房中抓到克雷布斯撬其密码皮箱,将其踢伤,搜出万能钥匙、弹簧刀与皮cosh,德拉克斯称克雷布斯曾翻其私人文件。",
+      "quote": "skeleton keys, a spring knife",
+      "quote_source": "第XV章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期三"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XVI",
+      "confidence": "high",
+      "entity": "gala-brand",
+      "fact": "盖拉本名Galatea,因父亲服役的巡洋舰Galatea得名,曾在Wrens服役,后入伦敦警察系统。",
+      "quote": "My real name's even worse. It's Galatea",
+      "quote_source": "第XVI章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期三"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XVI",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "邦德与盖拉在海滩游泳时吻了盖拉,邦德确认海面水深足够潜艇靠近排气洞。",
+      "quote": "plenty of water, even at low tide, for a submarine",
+      "quote_source": "第XVI章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期三"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XVII",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "悬崖被炸塌,邦德扑在盖拉身上救了两人,两人被埋后自行挖出,邦德认定这是蓄意谋杀而非自然塌方。",
+      "quote": "someone pushed the cliff down on us",
+      "quote_source": "第XVII章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期三"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XVIII",
+      "confidence": "high",
+      "entity": "gala-brand",
+      "fact": "盖拉在梅德斯通交通堵塞时偷出德拉克斯黑皮本,发现其陀螺仪数字与自己相差近90度,若按她的计划发射火箭将落入法国。",
+      "quote": "wrong by nearly ninety degrees",
+      "quote_source": "第XVIII章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期四"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XVIII",
+      "confidence": "high",
+      "entity": "gala-brand",
+      "fact": "盖拉被克雷布斯抓获,德拉克斯用皮手套抽打其面部,两人将其打晕后囚于Ebury Street顶楼雷达引导站。",
+      "quote": "Beneath the flat stone",
+      "quote_source": "第XVIII章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期四"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XVIII",
+      "confidence": "high",
+      "entity": "gala-brand",
+      "fact": "盖拉推断黑皮本的设定会使月亮牌落入伦敦市中心,约在白金汉宫附近,引导站的雷达可将其引至100码内。",
+      "quote": "drop the Moonraker just about in the middle of London",
+      "quote_source": "第XVIII章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期四"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XIX",
+      "confidence": "high",
+      "entity": "drax",
+      "fact": "Drax Metals当日自丹吉尔开始做空英镑,至收市卖出2000万英镑,英镑当日下跌3美分,英格兰银行被迫入市干预。",
+      "quote": "sell British currency short to the tune of twenty million",
+      "quote_source": "第XIX章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期四"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XIX",
+      "confidence": "high",
+      "entity": "gala-brand",
+      "fact": "盖拉应于星期四18时到瓦兰斯处报到却未出现,邦德19时45分在餐厅等她赴约亦未见人。",
+      "quote": "She's half an hour late for dinner",
+      "quote_source": "第XIX章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期四"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XX",
+      "confidence": "high",
+      "entity": "drax",
+      "fact": "德拉克斯在追车中将一辆红色Alfa Romeo逼出路面,司机被抛出车外死亡,车名Attaboy II。",
+      "quote": "Double somersault. Jumped the hedge upside down",
+      "quote_source": "第XX章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期四晚"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XX",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "邦德的宾利在查令山弯道被滚落的新闻纸卷撞出路面,邦德受伤被俘,德拉克斯取走其贝雷塔并拆下车牌。",
+      "quote": "Bond was lying face downwards at the bottom",
+      "quote_source": "第XX章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期四晚"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XXII",
+      "confidence": "high",
+      "entity": "drax",
+      "fact": "德拉克斯真实身份为Graf Hugo von der Drache,母亲为英国人,12岁前在英国受教育,后在柏林与莱比锡受教育。",
+      "quote": "My real name is Graf Hugo von der Drache",
+      "quote_source": "第XXII章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期四晚"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XXII",
+      "confidence": "high",
+      "entity": "drax",
+      "fact": "德拉克斯曾任第140装甲团中尉,后入勃兰登堡师与党卫军国外情报处,在Skorzeny手下工作,1944年12月任Kommando Drache的Oberleutnant参加阿登战役。",
+      "quote": "at the head of Kommando 'Drache'",
+      "quote_source": "第XXII章",
+      "source_novel": "moonraker",
+      "timeline_position": "1944年12月"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XXII",
+      "confidence": "high",
+      "entity": "drax",
+      "fact": "德拉克斯小队炸毁盟军后方联络总部食堂,造成逾百人死伤,他本人被己方飞机炸伤后冒充英国伤员,借Hugo Drax身份出院。",
+      "quote": "Killed or wounded over a hundred",
+      "quote_source": "第XXII章",
+      "source_novel": "moonraker",
+      "timeline_position": "1944年至1945年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XXII",
+      "confidence": "high",
+      "entity": "drax",
+      "fact": "德拉克斯称其在伦敦抢劫一名犹太放贷人得15000英镑,后去丹吉尔经营Columbite发家。",
+      "quote": "15,000 in the safe",
+      "quote_source": "第XXII章",
+      "source_novel": "moonraker",
+      "timeline_position": "1945年后"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XXII",
+      "confidence": "high",
+      "entity": "drax",
+      "fact": "德拉克斯称其在莫斯科与苏方交易,苏方提供沃尔特并建造原子弹头,原实验弹头已被调包运往斯德丁。",
+      "quote": "the Russians started to build the atomic warhead",
+      "quote_source": "第XXII章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期四晚"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XXII",
+      "confidence": "high",
+      "entity": "drax",
+      "fact": "德拉克斯称俄国潜艇将于星期五中午12时01分接走其团队,补给由海路于星期一晚送达,塔隆因听到动静而被抽签杀害,巴奇中签执行。",
+      "quote": "Lots are drawn and Bartsch dies a hero's death",
+      "quote_source": "第XXII章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期四晚"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XXII",
+      "confidence": "high",
+      "entity": "drax",
+      "fact": "德拉克斯称全体人员剃头留胡子是为改变面貌,登上潜艇后将剃掉胡子。",
+      "quote": "shave off those famous moustaches",
+      "quote_source": "第XXII章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期四晚"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XXIII",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "邦德用牙齿操作喷灯与朗森打火机烧断盖拉腕上绳索,两人脱困后藏身通风井,忍受蒸汽烫伤未被发现。",
+      "quote": "Melted by the fierce heat, the copper strands parted",
+      "quote_source": "第XXIII章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期五凌晨"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XXIV",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "邦德在发射前约4分钟爬进陀螺仪舱,将德拉克斯的虚假设定改回盖拉的正确设定,使火箭飞向北海而非伦敦。",
+      "quote": "Four minutes to go",
+      "quote_source": "第XXIV章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期五"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XXIV",
+      "confidence": "high",
+      "entity": "drax",
+      "fact": "德拉克斯在BBC直播中公开宣称要改变英国历史、向伦敦发射复仇之箭,随后按下发射钮。",
+      "quote": "change the course of England's history",
+      "quote_source": "第XXIV章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期五中午"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XXIV",
+      "confidence": "high",
+      "entity": "moonraker",
+      "fact": "月亮牌发射后落入北海目标区,原子弹爆炸掀翻俄国潜艇,HMS Merganzer倾覆,爆炸引发巨浪。",
+      "quote": "There's a tidal wave coming at us",
+      "quote_source": "第XXIV章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期五中午"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XXV",
+      "confidence": "high",
+      "entity": "moonraker",
+      "fact": "北海核爆造成200人死亡、约200人失踪,荷兰海防被冲破数英里,两艘巡逻舰倾覆,南古德温灯船脱锚。",
+      "quote": "TWO HUNDRED dead so far",
+      "quote_source": "第XXV章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期六"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XXV",
+      "confidence": "high",
+      "entity": "drax",
+      "fact": "官方掩盖方案称月亮牌燃料事故爆炸、德拉克斯为爱国者殉职、俄国潜艇实为英军实验潜艇误会,辐射云称随风北漂。",
+      "quote": "biggest cover-up job in history",
+      "quote_source": "第XXV章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期六"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XXV",
+      "confidence": "high",
+      "entity": "gala-brand",
+      "fact": "盖拉将于次日上午11时在白金汉宫获颁乔治十字勋章,授勋令至次年元旦才公布,首相令邦德与盖拉次日下午前离境一个月。",
+      "quote": "Immediate award of the George Cross",
+      "quote_source": "第XXV章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期六"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XXV",
+      "confidence": "high",
+      "entity": "gala-brand",
+      "fact": "盖拉在结尾告诉邦德次日下午将与侦缉督察维维安结婚,拒绝了邦德的法国之行邀请。",
+      "quote": "I'm going to marry that man",
+      "quote_source": "第XXV章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期六"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "XXV",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "邦德获M赠送一把新贝雷塔作纪念,另购1953年Mark VI宾利,定于次日傍晚运往加莱,自己赴法国休假一个月。",
+      "quote": "You may be needing these",
+      "quote_source": "第XXV章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期六"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "X",
+      "confidence": "high",
+      "entity": "vallance",
+      "fact": "瓦兰斯为苏格兰场特别分部助理总监,人称Ronnie,从事该工作20年,负责盖拉的潜伏行动。",
+      "quote": "twenty years of avoiding the corns of MI5",
+      "quote_source": "第X章",
+      "source_novel": "moonraker",
+      "timeline_position": "1955年5月星期二"
+    }
+  ],
+  "kind": "长篇",
+  "lines": 1586,
+  "mission": {
+    "investigation": "先在Blades观察并设局揭穿德拉克斯作弊;后任基地安全官,搜查塔隆房间、核查海图指纹、考察海滩与排气洞、与盖拉合作,最后在发射前改回陀螺仪设定",
+    "key_clues": [
+      "德拉克斯用抛光银烟盒作反光镜偷看牌",
+      "塔隆海图上的交叉方位与克雷布斯指纹",
+      "全员剃头留胡子以改变面貌",
+      "盖拉发现黑皮本陀螺仪数字相差约90度",
+      "Ebury Street顶楼的雷达引导装置",
+      "Drax Metals做空英镑2000万英镑"
+    ],
+    "objective": "先查清德拉克斯在Blades作弊一事,后接任基地安全官保护月亮牌至星期五中午试射,最终阻止其袭击伦敦",
+    "outcome": "邦德与盖拉改回陀螺仪设定,火箭落入北海,原子弹头爆炸击沉接应潜艇,伦敦得救,德拉克斯及其团队死亡,官方以燃料事故掩盖真相"
+  },
+  "novel_id": "moonraker",
+  "novel_no": 3,
+  "publication_year": 1955,
+  "reading": {
+    "chapters_read": 25,
+    "chapters_total": 25,
+    "coverage": "100%",
+    "method": "按章节sed分段读"
+  },
+  "source_file": "source/txt/moonraker.txt",
+  "source_sha256": "d79a517e0614d574f7b196cb22b0c09489795f7212da0beeebd42b845d90e5e9",
+  "story_timeline": "星期一:邦德在总部练枪,M委托其调查德拉克斯牌局,当晚在Blades设局赢15000英镑。星期二:基地发生塔隆与巴奇命案,M任命邦德为新任安全官,邦德当晚抵达多佛尔附近基地。星期三:邦德搜查塔隆房间发现海图线索,下午与盖拉海滩遇崖崩谋杀未遂。星期四:盖拉偷看黑皮本被囚Ebury Street,邦德追车被俘,德拉克斯自白,两人喷灯脱困藏身通风井。星期五中午:邦德改回陀螺仪,月亮牌发射后落入北海核爆,德拉克斯潜艇沉没。次日:邦德回总部见M,得知掩盖方案,盖拉次日获乔治十字勋章并结婚,邦德赴法国休假一个月。",
+  "title_en": "Moonraker",
+  "title_zh": "月亮牌",
+  "vehicles": [
+    {
+      "name_en": "1930 4.5-litre Bentley coupe, supercharged",
+      "name_zh": "1930年4.5升机械增压宾利轿跑",
+      "note": "邦德座驾,可达100英里时速,在追车中被运纸卷撞毁"
+    },
+    {
+      "name_en": "Mercedes-Benz 300S, white",
+      "name_zh": "白色奔驰300S",
+      "note": "德拉克斯座驾,左舵,全英仅6辆之一,红皮内饰"
+    },
+    {
+      "name_en": "Alfa Romeo supercharged straight-eight, Attaboy II",
+      "name_zh": "阿尔法·罗密欧增压直列八缸Attaboy II",
+      "note": "无名青年司机超车时被德拉克斯撞翻,司机死亡"
+    },
+    {
+      "name_en": "AEC Diesel carrier, Bowaters",
+      "name_zh": "Bowaters八轮柴油运纸车",
+      "note": "载14吨新闻纸,克雷布斯割断绳索致纸卷滚落设陷阱"
+    },
+    {
+      "name_en": "Russian submarine",
+      "name_zh": "俄国潜艇",
+      "note": "接应德拉克斯团队,在北海目标区被原子弹爆炸掀翻沉没"
+    },
+    {
+      "name_en": "HMS Merganzer",
+      "name_zh": "HMS Merganzer号",
+      "note": "海军巡逻舰,在北海核爆中倾覆,舰长失踪"
+    },
+    {
+      "name_en": "South Goodwin Lightship",
+      "name_zh": "南古德温灯船",
+      "note": "北海目标区参照物,核爆中脱锚"
+    },
+    {
+      "name_en": "1953 Mark VI Bentley, battleship grey",
+      "name_zh": "1953年Mark VI宾利,战列舰灰",
+      "note": "邦德在结尾购买的新车,敞篷旅行车身,次日运往加莱"
+    }
+  ],
+  "words": 73299,
+  "organizations": [
+    {
+      "first_chapter": "I",
+      "id": "sis",
+      "name_en": "Secret Intelligence Service",
+      "name_zh": "英国秘密情报机构",
+      "role": "邦德与M所属机构,总部在摄政公园附近,00部门负责暗杀任务"
+    },
+    {
+      "first_chapter": "IX",
+      "id": "mi5",
+      "name_en": "MI5",
+      "name_zh": "军情五处",
+      "role": "国内反间谍机构,曾推荐3名安全官候选人,后同意邦德任命"
+    },
+    {
+      "first_chapter": "IX",
+      "id": "special-branch",
+      "name_en": "Special Branch, Scotland Yard",
+      "name_zh": "苏格兰场特别分部",
+      "role": "瓦兰斯领导,安插盖拉潜伏并负责基地外围调查"
+    },
+    {
+      "first_chapter": "IX",
+      "id": "ministry-of-supply",
+      "name_en": "Ministry of Supply",
+      "name_zh": "供应部",
+      "role": "月亮牌项目主管部,派驻塔隆为安全官,审核火箭设计"
+    },
+    {
+      "first_chapter": "IX",
+      "id": "raf",
+      "name_en": "Royal Air Force",
+      "name_zh": "英国皇家空军",
+      "role": "负责基地外围警戒与发射当日雷达操作"
+    },
+    {
+      "first_chapter": "X",
+      "id": "drax-metals",
+      "name_en": "Drax Metals Ltd.",
+      "name_zh": "德拉克斯金属公司",
+      "role": "德拉克斯在丹吉尔的贸易公司,垄断Columbite并做空英镑2000万英镑"
+    },
+    {
+      "first_chapter": "XXII",
+      "id": "rsha",
+      "name_en": "RSHA, SS Foreign Intelligence Service",
+      "name_zh": "党卫军国外情报处",
+      "role": "德拉克斯战时所属机构,在Skorzeny手下从事恐怖与破坏活动"
+    },
+    {
+      "first_chapter": "XXII",
+      "id": "brandenburg",
+      "name_en": "Brandenburg Division",
+      "name_zh": "勃兰登堡师",
+      "role": "德拉克斯曾受训的特种部队,计划穿英军制服登陆英国"
+    }
+  ],
+  "locations": [
+    {
+      "country": "英国",
+      "fictional": false,
+      "id": "hq-regents-park",
+      "name_en": "Secret Service Headquarters near Regent's Park",
+      "name_zh": "摄政公园附近秘密情报机构总部",
+      "role": "邦德与M的办公地,8楼为00部门,9楼为M办公室"
+    },
+    {
+      "country": "英国",
+      "fictional": true,
+      "id": "blades",
+      "name_en": "Blades",
+      "name_zh": "布莱兹俱乐部",
+      "role": "伦敦圣詹姆斯区Park Street私人赌牌俱乐部,德拉克斯作弊与邦德设局之地"
+    },
+    {
+      "country": "英国",
+      "fictional": false,
+      "id": "dover-deal-site",
+      "name_en": "Moonraker site between Dover and Deal",
+      "name_zh": "多佛尔与迪尔之间月亮牌基地",
+      "role": "发射井、宿舍与办公楼所在地,占地约1000英亩,核心约200英亩"
+    },
+    {
+      "country": "英国",
+      "fictional": false,
+      "id": "world-without-want",
+      "name_en": "World Without Want",
+      "name_zh": "World Without Want酒馆",
+      "role": "基地附近海岸公路上的酒馆,塔隆与巴奇命案现场"
+    },
+    {
+      "country": "英国",
+      "fictional": false,
+      "id": "ebury-street",
+      "name_en": "Ebury Street house",
+      "name_zh": "Ebury Street宅邸",
+      "role": "德拉克斯在伦敦的秘密据点,顶楼藏雷达引导站,盖拉被囚于此"
+    },
+    {
+      "country": "英国",
+      "fictional": false,
+      "id": "st-margarets-bay",
+      "name_en": "St Margaret's Bay",
+      "name_zh": "圣玛格丽特湾",
+      "role": "邦德与盖拉崖崩脱险后步行前往并乘出租车返回基地之地"
+    },
+    {
+      "country": "英国",
+      "fictional": false,
+      "id": "north-sea-target",
+      "name_en": "North Sea target area",
+      "name_zh": "北海目标区",
+      "role": "月亮牌原定目标,距基地约80英里,在弗里西亚群岛与赫尔之间,火箭最终落于此并核爆"
+    },
+    {
+      "country": "英国",
+      "fictional": false,
+      "id": "london-target",
+      "name_en": "London",
+      "name_zh": "伦敦",
+      "role": "德拉克斯黑皮本设定的真正目标,约在白金汉宫附近,未遂"
+    },
+    {
+      "country": "摩洛哥",
+      "fictional": false,
+      "id": "tangier",
+      "name_en": "Tangier",
+      "name_zh": "丹吉尔",
+      "role": "德拉克斯经营Columbite与做空英镑的自由港基地"
+    },
+    {
+      "country": "德国",
+      "fictional": false,
+      "id": "peenemunde",
+      "name_en": "Peenemunde",
+      "name_zh": "佩内明德",
+      "role": "德国导弹研究地,008曾去此地,沃尔特为其导弹专家"
+    },
+    {
+      "country": "澳大利亚",
+      "fictional": false,
+      "id": "woomera",
+      "name_en": "Woomera Range",
+      "name_zh": "伍默拉试验场",
+      "role": "供应部专家审核月亮牌设计之地"
+    }
+  ]
+}

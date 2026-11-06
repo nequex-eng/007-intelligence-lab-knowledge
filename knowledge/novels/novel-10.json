@@ -1,0 +1,572 @@
+{
+  "novel_id": "spy-who-loved-me",
+  "novel_no": 10,
+  "title_en": "The Spy Who Loved Me",
+  "title_zh": "爱我的间谍",
+  "publication_year": 1962,
+  "kind": "长篇",
+  "source_file": "source/txt/spy-who-loved-me.txt",
+  "source_sha256": "466b56905551760aefe7e0e290221644a9b9eceabc2ebe7901536af01eac84f3",
+  "words": 49227,
+  "lines": 615,
+  "reading": {
+    "chapters_read": 15,
+    "chapters_total": 15,
+    "coverage": "100%",
+    "method": "按章节sed分段读"
+  },
+  "story_timeline": "故事主线为10月13日(星期五)傍晚至次日10月14日中午，地点为美国纽约州阿迪朗达克山区梦松汽车旅馆。薇薇安·米歇尔于9月1日离开伦敦，9月1日飞抵蒙特利尔，9月15日离开魁北克南下，约两周后到达乔治湖，10月13日独自留守旅馆当夜遭遇两名打手，邦德于当夜约11点后到达，次日清晨离去，中午薇薇安骑车离开。第一部为薇薇安自述生平(约五年前夏天至当年8月底)，第二部为打手到访与施暴，第三部为邦德登场、纵火夜战与次日警方收尾。故事内年份原文未明示，1962年为出版年，时间线按出版年标注。",
+  "chapters": [
+    {
+      "no": "One",
+      "title": "Scaredy Cat",
+      "start_line": 10,
+      "summary": "薇薇安·米歇尔独自留守梦松汽车旅馆，10月13日星期五傍晚，暴风雨将至。经理夫妇菲希一家当早已离开，她误触霓虹灯开关被电击晕。交代旅馆位置(乔治湖以西10英里)、规模(40间客房)与经营困境。"
+    },
+    {
+      "no": "Two",
+      "title": "Dear Dead Days",
+      "start_line": 26,
+      "summary": "薇薇安醒后自述身世：23岁，法裔加拿大人，生于魁北克圣家族，8岁时父母死于蒙特利尔空难，由姨妈弗洛伦斯·图桑抚养，乌尔苏拉修道院读到15岁，16岁赴英进阿斯托学校，结识苏珊·达夫，17岁半在派对上认识德里克·马拉比。"
+    },
+    {
+      "no": "Three",
+      "title": "Spring's Awakening",
+      "start_line": 46,
+      "summary": "与德里克的夏天恋情：泰晤士河泛舟、黑色MG跑车、温莎皇家电影院包厢调情。9月最后一个星期六，经理撞破两人在包厢内企图发生关系，两人报假名脱身；当夜河边树林中薇薇安失身。两周后德里克来信分手，称已半订婚、父母反对外国人，附赠12瓶粉红香槟被退回。"
+    },
+    {
+      "no": "Four",
+      "title": "\"Dear Viv\"",
+      "start_line": 73,
+      "summary": "德里克分手信全文大意；薇薇安在切尔西号报社工作，编辑伦·霍尔布鲁克提携，升至署名记者、周薪20畿尼；后在慕尼黑巴洛克节新闻发布会上认识西德通讯社V.W.Z.驻伦敦代表库尔特·雷纳。"
+    },
+    {
+      "no": "Five",
+      "title": "A Bird With a Wing Down",
+      "start_line": 117,
+      "summary": "库尔特·雷纳30岁，奥格斯堡人，父母为医生、曾被美军从集中营救出。薇薇安入职V.W.Z.周薪30镑，同住一楼。库尔特未婚妻特鲁德移情别恋后两人成为情人；薇薇安怀孕，库尔特冷漠拒绝结婚，以混血为由，解雇她并给120镑遣散费加50镑，安排她去苏黎世堕胎。"
+    },
+    {
+      "no": "Six",
+      "title": "Go West, Young Woman",
+      "start_line": 140,
+      "summary": "苏黎世堕胎经过(朱斯金德医生、布伦瑞克妇科医生)；薇薇安买150cc伟士牌Gran Sport摩托车(190镑)，9月1日飞蒙特利尔，9月15日携1000美元旅行支票南下，沿2号公路与9号公路游历阿迪朗达克约两周，抵达乔治湖后转入梦松汽车旅馆。"
+    },
+    {
+      "no": "Seven",
+      "title": "\"Come into My Parlor...\"",
+      "start_line": 161,
+      "summary": "两周前薇薇安入住旅馆，被菲希夫妇雇为接待员(周薪30美元包食宿)。交代旅馆业主为特洛伊的桑吉内蒂，汽车旅馆盗窃团伙手法，10月15日为停业日；菲希夫妇10月13日晨离去，留她一人看守，桑吉内蒂定于14日中午来收钥匙。"
+    },
+    {
+      "no": "Eight",
+      "title": "Dynamite from Nightmare-Land",
+      "start_line": 182,
+      "summary": "当晚9点后两名男子冒充桑吉内蒂保险公司的人进门：瘦长灰脸的索尔·霍洛维茨(绰号霍勒)与无毛矮胖青年斯拉格西·莫兰特。斯拉格西开枪打穿咖啡罐示威，两人自称来盘点，薇薇安藏冰锥与餐刀、为两人做炒蛋。"
+    },
+    {
+      "no": "Nine",
+      "title": "Then I Began to Scream",
+      "start_line": 230,
+      "summary": "薇薇安趁机从后门逃入树林，遭枪击追捕，被斯拉格西在树下抓获；回大堂后霍勒毒打她致昏迷，她在自己小屋淋浴间醒来；被迫再做夜宵，遭斯拉格西以短棍威胁并以刀叉还击，正当斯拉格西撕扯她衣服时前门蜂鸣器响起。"
+    },
+    {
+      "no": "Ten",
+      "title": "Whassat?",
+      "start_line": 276,
+      "summary": "邦德驾租来的灰色双座雷鸟车因爆胎求宿，薇薇安以手势暗示他进门。邦德自称警察，两名打手谎称是保险评估员、指控薇薇安偷钱并以冰锥伤人。邦德从行李箱取出手枪与弹匣，薇薇安简述遭遇，邦德答应追究两人。"
+    },
+    {
+      "no": "Eleven",
+      "title": "Bedtime Story",
+      "start_line": 354,
+      "summary": "邦德讲述多伦多任务：苏联叛逃者鲍里斯(克朗施塔特核潜艇高级造船专家)遭克格勃巴黎站买凶，SPECTRE以10万镑接单，前盖世太保霍斯特·乌尔曼出面，雇多伦多机械帮行刺；邦德冒充鲍里斯守株待兔，枪战中击伤乌尔曼，乌尔曼打死一名骑警后被击毙；邦德驾车南下赴华盛顿汇报，服苯丙胺提神，午夜钟声响起。"
+    },
+    {
+      "no": "Twelve",
+      "title": "To Sleep—Perchance to Die!",
+      "start_line": 382,
+      "summary": "午夜断电改用油灯，邦德给薇薇安一把史密斯-韦斯手枪并教她堵门设防，自己在40号房设假人诱饵。斯拉格西从衣柜后墙洞潜入薇薇安小屋将其打晕；邦德将她拖出着火的小屋，揭示纵火骗保计划：薇薇安原定被烧死、伪装成打翻油灯失火；邦德说出自己的编号007。"
+    },
+    {
+      "no": "Thirteen",
+      "title": "The Crash of Guns",
+      "start_line": 439,
+      "summary": "两名打手趁火打劫搬电视机，邦德持枪拦截；霍勒劫持薇薇安作盾，邦德击伤其脚，斯拉格西掷电视机砸伤邦德头部后两人逃入1号房；机枪对射，邦德击落斯拉格西的冲锋枪，两人驾车逃跑，邦德击中司机霍勒，黑色轿车冲入湖中沉没；凌晨3点半两人入住3号房。"
+    },
+    {
+      "no": "Fourteen",
+      "title": "Bimbo",
+      "start_line": 497,
+      "summary": "3号房淋浴与同床；薇薇安反思自己对邦德的感情。深夜斯拉格西从沉没汽车的气穴中逃生，砸碎窗玻璃企图行刺，邦德开枪将其击毙于屋后；邦德解释bimbo为黑话妓女，两人相拥入睡。"
+    },
+    {
+      "no": "Fifteen",
+      "title": "The Writing on My Heart",
+      "start_line": 554,
+      "summary": "次日清晨邦德已离去，留信：已向格伦斯福尔斯警方报案，桑吉内蒂疑逃往墨西哥，保险公司与通缉悬赏将归薇薇安，联系地址为伦敦国防部。州警莫罗中尉与奥唐纳到场，斯托纳上尉录口供两小时，菲希夫妇被控共谋诈骗，桑吉内蒂面临死罪指控；斯托纳警告邦德与斯拉格西同属冷血杀手世界(鹰与鸽)；中午薇薇安骑车离开。"
+    }
+  ],
+  "characters": [
+    {
+      "id": "vivienne-michel",
+      "name_en": "Vivienne Michel",
+      "name_zh": "薇薇安·米歇尔",
+      "aliases": ["Viv"],
+      "role": "主要人物（叙述者）",
+      "appearance": "23岁，身高5英尺6英寸，蓝眼睛，深棕色自然卷发，高颧骨，鼻子偏小，嘴偏大；肤色经户外生活晒成健康色，不再涂口红与指甲油",
+      "age_clues": "自述23岁；8岁丧父母；15岁离开修道院；16岁赴英；17岁半认识德里克",
+      "personality": "独立任性，喜爱独处与户外生活；自认多愁善感又固执；两次感情受挫后决心不再付出、只索取；危难中机智反抗(藏冰锥、逃跑、求救手势)",
+      "habits": "吸烟(Parliament牌)、喝波本威士忌、听收音机；爱游泳、钓鱼、露营",
+      "background": "法裔加拿大人，生于魁北克圣家族(奥尔良岛北岸)；父母在她8岁时死于蒙特利尔空难；姨妈弗洛伦斯·图桑抚养；乌尔苏拉修道院读到15岁；阿斯托学校结业；切尔西号记者、V.W.Z.伦敦办事处职员；9月1日骑伟士牌摩托车横穿北美南下",
+      "first_appearance_chapter": "One",
+      "last_appearance_chapter": "Fifteen",
+      "relationships": [
+        {"with": "bond", "type": "被救者与救命者", "change": "初见时以为他是第三名打手，继而信任依赖，当夜同床后爱上他；次日他不辞而别，她决定不追寻，只把他记在心里"},
+        {"with": "derek-mallaby", "type": "初恋情人", "change": "由热恋到被抛弃，分手信后断绝往来"},
+        {"with": "kurt-rainer", "type": "情人兼上司", "change": "由同志式友谊发展为情人，怀孕后被冷漠抛弃解雇"},
+        {"with": "sol-horowitz", "type": "施暴者与受害者", "change": "遭其毒打与死亡威胁，次日得知其死于湖中沉车"},
+        {"with": "sluggsy-morant", "type": "施暴者与受害者", "change": "遭其追捕、调戏与威胁，最终被邦德击毙"},
+        {"with": "susan-duff", "type": "挚友", "change": "结业学校好友，苏珊结婚后薇薇安搬出合租房"}
+      ]
+    },
+    {
+      "id": "james-bond",
+      "name_en": "James Bond",
+      "name_zh": "詹姆斯·邦德",
+      "aliases": ["Bond", "Commander Bond", "007"],
+      "role": "主要人物（第10章登场）",
+      "appearance": "约6英尺高，瘦削健壮，晒黑的瘦脸，灰蓝色眼睛，左颊有一道白色疤痕；深色单排扣西装、白丝衬衫、黑针织领带；深蓝色腰带雨衣、黑色软帽",
+      "age_clues": "与鲍里斯年龄相仿，原文未给具体年龄",
+      "personality": "冷静、果断、独来独往；自称偏好单独行动；不愿冷血处决俘虏；对薇薇安温柔体贴但拒绝卷入感情",
+      "habits": "抽Senior Service香烟，用枪金属打火机(Ronson)；服苯丙胺提神；睡觉时枪压在枕下；驾车南下赴华盛顿",
+      "background": "英国政府特工，编号007，军衔海军中校(Commander)；刚在多伦多执行保护叛逃者鲍里斯任务，击毙SPECTRE杀手乌尔曼；受命驾车南下向华盛顿方面汇报美国一端机械帮事宜",
+      "first_appearance_chapter": "Ten",
+      "last_appearance_chapter": "Fifteen",
+      "relationships": [
+        {"with": "vivienne-michel", "type": "救命者与被救者", "change": "由陌生求宿者变为保护者与情人，次日清晨不辞而别，仅留一封事务性信件"},
+        {"with": "sol-horowitz", "type": "对手", "change": "当夜对峙并击伤其脚，次日确认其死于沉车"},
+        {"with": "sluggsy-morant", "type": "对手", "change": "当夜枪战，次日凌晨将其击毙于3号房窗外"},
+        {"with": "boris", "type": "保护对象与替身", "change": "邦德冒充鲍里斯引出刺客，任务完成后鲍里斯获救"}
+      ]
+    },
+    {
+      "id": "sol-horowitz",
+      "name_en": "Sol Horowitz",
+      "name_zh": "索尔·霍洛维茨",
+      "aliases": ["Horror"],
+      "role": "反派（打手头目）",
+      "appearance": "瘦长近乎骨架，灰色死人般皮肤，黑眼睛，薄紫唇，前牙镶钢，耳贴头，灰黑色短发；黑单排扣大衣、窄管裤、灰衬衫无领带、灰色麂皮尖头鞋",
+      "age_clues": "原文未给年龄；邦德判断其刚服完长期徒刑",
+      "personality": "冷漠无情，行动老练，虐待女性时讲究残忍克制；对薇薇安施暴后仍面无表情",
+      "habits": "不饮酒、不吸烟；说话轻声缓慢",
+      "background": "特洛伊桑吉内蒂手下打手，刚出狱不久；与斯拉格西奉命看守梦松旅馆、实施纵火骗保",
+      "first_appearance_chapter": "Eight",
+      "last_appearance_chapter": "Thirteen",
+      "relationships": [
+        {"with": "sluggsy-morant", "type": "同伙（头目与手下）", "change": "全程指挥斯拉格西，两人一同死于当夜"},
+        {"with": "sanguinetti", "type": "雇主与打手", "change": "受雇执行纵火，雇主事后逃亡"},
+        {"with": "vivienne-michel", "type": "施暴者与受害者", "change": "毒打并计划烧死她，最终被邦德击中、驾车坠湖溺亡"}
+      ]
+    },
+    {
+      "id": "sluggsy-morant",
+      "name_en": "Sluggsy Morant",
+      "name_zh": "斯拉格西·莫兰特",
+      "aliases": ["Sluggsy"],
+      "role": "反派（打手）",
+      "appearance": "矮胖月亮脸，极淡蓝眼睛，厚湿唇，皮肤极白，全身无毛(眉毛、睫毛、头发全无)，患全身性脱发症；黑皮夹克、脏裤子、墨西哥马鞍皮靴",
+      "age_clues": "原文称青年，称其为young monster，未给具体年龄",
+      "personality": "好色、残忍、易怒，因外貌自卑而仇视女性；枪法极准，以枪技自豪",
+      "habits": "患感冒不断擤鼻涕、嚼木牙签；随身带短棍(cosh)",
+      "background": "曾在圣昆廷监狱单独监禁服刑；特洛伊一带受雇打手(enforcer)，在桑吉内蒂手下做事",
+      "first_appearance_chapter": "Eight",
+      "last_appearance_chapter": "Fourteen",
+      "relationships": [
+        {"with": "sol-horowitz", "type": "同伙（手下与头目）", "change": "服从霍勒指挥，一同纵火后逃跑"},
+        {"with": "vivienne-michel", "type": "施暴者与受害者", "change": "追捕、调戏并企图侵犯她，最终被邦德击毙"}
+      ]
+    },
+    {
+      "id": "jed-phancey",
+      "name_en": "Jed Phancey",
+      "name_zh": "杰德·菲希",
+      "aliases": ["Mr. Phancey"],
+      "role": "次要人物（旅馆经理）",
+      "appearance": "约45岁，原文未详述外貌",
+      "age_clues": "约45岁",
+      "personality": "好色、粗俗，借职务之便骚扰薇薇安；最后一天态度转为粗暴轻蔑",
+      "habits": "兼任杂工与快餐厨师；临走前对薇薇安动手动脚",
+      "background": "梦松汽车旅馆经理，受雇于桑吉内蒂；与妻子共谋纵火骗保，事后被警方以共谋诈骗初步指控",
+      "first_appearance_chapter": "One",
+      "last_appearance_chapter": "Fifteen",
+      "relationships": [
+        {"with": "millicent-phancey", "type": "夫妻", "change": "共同经营旅馆并参与纵火阴谋"},
+        {"with": "vivienne-michel", "type": "雇主与雇员", "change": "由雇佣转为利用后抛弃，扣发工资推给桑吉内蒂"},
+        {"with": "sanguinetti", "type": "雇员与业主", "change": "同谋纵火骗保"}
+      ]
+    },
+    {
+      "id": "millicent-phancey",
+      "name_en": "Millicent Phancey",
+      "name_zh": "米莉森特·菲希",
+      "aliases": ["Mrs. Phancey"],
+      "role": "次要人物（旅馆经理夫人）",
+      "appearance": "铁灰色头发，苦涩多疑的眼睛，嘴唇紧抿如刀缝",
+      "age_clues": "原文未给年龄",
+      "personality": "精明多疑，表面慈母，实则冷酷；最后一天对薇薇安颐指气使",
+      "habits": "掌管前台登记，教薇薇安识别盗窃团伙",
+      "background": "梦松汽车旅馆经理夫人，与丈夫共谋纵火骗保，事后被警方以共谋诈骗初步指控",
+      "first_appearance_chapter": "One",
+      "last_appearance_chapter": "Fifteen",
+      "relationships": [
+        {"with": "jed-phancey", "type": "夫妻", "change": "共同经营旅馆并参与纵火阴谋"},
+        {"with": "vivienne-michel", "type": "雇主与雇员", "change": "由雇佣转为利用后抛弃"}
+      ]
+    },
+    {
+      "id": "sanguinetti",
+      "name_en": "Mr. Sanguinetti",
+      "name_zh": "桑吉内蒂先生",
+      "aliases": [],
+      "role": "幕后反派（未出场）",
+      "appearance": "原文未出场、未描述外貌",
+      "age_clues": "未知",
+      "personality": "未知，原文仅称其为特洛伊大人物",
+      "habits": "未知",
+      "background": "特洛伊地产商，拥有梦松汽车旅馆及9号公路旁特洛伊木马路边店等产业；策划纵火骗保，事发后逃往南方、疑似赴墨西哥，面临死罪指控",
+      "first_appearance_chapter": "Seven",
+      "last_appearance_chapter": "Fifteen",
+      "relationships": [
+        {"with": "sol-horowitz", "type": "雇主与打手", "change": "雇两人纵火，事后独自逃亡"},
+        {"with": "jed-phancey", "type": "业主与经理", "change": "同谋纵火骗保"}
+      ]
+    },
+    {
+      "id": "derek-mallaby",
+      "name_en": "Derek Mallaby",
+      "name_zh": "德里克·马拉比",
+      "aliases": [],
+      "role": "次要人物（薇薇安初恋）",
+      "appearance": "高大，深色头发，眉际发线好看，手好看；近18岁",
+      "age_clues": "相识时近18岁，在校板球队",
+      "personality": "风流轻浮，事后冷漠，以运动精神为借口推卸责任",
+      "habits": "开黑色MG跑车，爱去400夜总会",
+      "background": "温莎附近人家的儿子，暑假后升牛津；与邻家女儿半订婚，父母反对他与外国姑娘交往；分手后寄12瓶粉红香槟被退回",
+      "first_appearance_chapter": "Two",
+      "last_appearance_chapter": "Four",
+      "relationships": [
+        {"with": "vivienne-michel", "type": "初恋情人", "change": "由热恋到写信分手，断绝往来"}
+      ]
+    },
+    {
+      "id": "kurt-rainer",
+      "name_en": "Kurt Rainer",
+      "name_zh": "库尔特·雷纳",
+      "aliases": [],
+      "role": "次要人物（薇薇安第二任情人）",
+      "appearance": "30岁，身材健壮户外型，金发碧眼，看似比实际年轻",
+      "age_clues": "30岁",
+      "personality": "刻板、讲究秩序与科学，视性为技术操作；冷酷自私，怀孕后立即切割关系",
+      "habits": "不喜爵士乐，禁烟酒口红；性生活按星期三与星期六排期",
+      "background": "西德通讯社V.W.Z.驻伦敦首任代表，奥格斯堡人，父母为医生、曾被美军从集中营救出；慕尼黑中学与大学毕业，曾供职世界报；未婚妻特鲁德移情后与薇薇安同居约两年",
+      "first_appearance_chapter": "Four",
+      "last_appearance_chapter": "Six",
+      "relationships": [
+        {"with": "vivienne-michel", "type": "情人兼上司", "change": "由同志友谊发展为情人，怀孕后解雇并安排堕胎，断绝关系"},
+        {"with": "trude", "type": "前未婚妻", "change": "特鲁德在泰格恩湖结识慕尼黑医生后解除婚约"}
+      ]
+    },
+    {
+      "id": "trude",
+      "name_en": "Trude",
+      "name_zh": "特鲁德",
+      "aliases": [],
+      "role": "次要人物（仅在回忆中出现）",
+      "appearance": "编发、穿民族服装，照片中眼神平静",
+      "age_clues": "未知",
+      "personality": "原文称其性冷淡、善变",
+      "habits": "未知",
+      "background": "海德堡哲学教授之女，库尔特青梅竹马的未婚妻，后在泰格恩湖结识一名慕尼黑鳏夫医生并与之订婚",
+      "first_appearance_chapter": "Five",
+      "last_appearance_chapter": "Five",
+      "relationships": [
+        {"with": "kurt-rainer", "type": "前未婚夫妻", "change": "解除婚约"}
+      ]
+    },
+    {
+      "id": "susan-duff",
+      "name_en": "Susan Duff",
+      "name_zh": "苏珊·达夫",
+      "aliases": [],
+      "role": "次要人物（薇薇安挚友）",
+      "appearance": "原文未描述",
+      "age_clues": "与薇薇安同龄",
+      "personality": "喜爱户外活动",
+      "habits": "未知",
+      "background": "苏格兰姑娘，阿斯托学校同学，与薇薇安合租老教堂街小公寓；后入外交部通讯部门工作并结婚",
+      "first_appearance_chapter": "Two",
+      "last_appearance_chapter": "Five",
+      "relationships": [
+        {"with": "vivienne-michel", "type": "挚友与室友", "change": "苏珊结婚后两人分开居住"}
+      ]
+    },
+    {
+      "id": "len-holbrook",
+      "name_en": "Len Holbrook",
+      "name_zh": "伦·霍尔布鲁克",
+      "aliases": [],
+      "role": "次要人物（薇薇安上司）",
+      "appearance": "原文未描述",
+      "age_clues": "未知",
+      "personality": "威尔士人，理想主义，前比弗布鲁克报系记者",
+      "habits": "教薇薇安写以人物开头的新闻",
+      "background": "切尔西号周报编辑兼业主，聘薇薇安为编辑助理，提拔她至署名记者、周薪20畿尼",
+      "first_appearance_chapter": "Four",
+      "last_appearance_chapter": "Four",
+      "relationships": [
+        {"with": "vivienne-michel", "type": "上司与下属", "change": "由雇佣转为赏识提拔"}
+      ]
+    },
+    {
+      "id": "florence-toussaint",
+      "name_en": "Florence Toussaint",
+      "name_zh": "弗洛伦斯·图桑",
+      "aliases": ["Aunt Florence"],
+      "role": "次要人物（薇薇安姨妈）",
+      "appearance": "原文未描述",
+      "age_clues": "寡妇，原文未给年龄",
+      "personality": "新教徒，关心薇薇安但思想保守",
+      "habits": "未知",
+      "background": "薇薇安父母去世后成为其监护人，搬入圣家族旧宅抚养她；资助薇薇安赴英结业与办舞会；薇薇安9月返乡探望后南下",
+      "first_appearance_chapter": "Two",
+      "last_appearance_chapter": "Six",
+      "relationships": [
+        {"with": "vivienne-michel", "type": "姨妈与监护人", "change": "由抚养到目送其南下远行"}
+      ]
+    },
+    {
+      "id": "boris",
+      "name_en": "Boris",
+      "name_zh": "鲍里斯",
+      "aliases": [],
+      "role": "次要人物（仅在邦德讲述中出现）",
+      "appearance": "与邦德外貌有表面相似：年龄相仿，高大，深色头发，剃须干净",
+      "age_clues": "与邦德年龄相仿",
+      "personality": "未知",
+      "habits": "未知",
+      "background": "苏联叛逃者，原克朗施塔特核潜艇团队高级造船专家，经芬兰、斯德哥尔摩逃至英国，后安置于多伦多；克格勃悬赏取其性命，SPECTRE以10万镑接单",
+      "first_appearance_chapter": "Eleven",
+      "last_appearance_chapter": "Eleven",
+      "relationships": [
+        {"with": "james-bond", "type": "保护对象与替身", "change": "邦德冒充其引出刺客，任务完成后鲍里斯获救"}
+      ]
+    },
+    {
+      "id": "horst-uhlmann",
+      "name_en": "Horst Uhlmann",
+      "name_zh": "霍斯特·乌尔曼",
+      "aliases": [],
+      "role": "次要人物（仅在邦德讲述中出现）",
+      "appearance": "原文未描述",
+      "age_clues": "未知",
+      "personality": "顽固，受伤被俘后拒绝开口",
+      "habits": "未知",
+      "background": "前盖世太保人员，SPECTRE成员，受命在多伦多雇凶刺杀鲍里斯，出价5万美元；枪战中被邦德击伤左肩与右髋，次日清晨死于医院",
+      "first_appearance_chapter": "Eleven",
+      "last_appearance_chapter": "Eleven",
+      "relationships": [
+        {"with": "james-bond", "type": "对手", "change": "枪战中被邦德击伤，次日死亡"}
+      ]
+    },
+    {
+      "id": "captain-stonor",
+      "name_en": "Captain Stonor",
+      "name_zh": "斯托纳上尉",
+      "aliases": [],
+      "role": "次要人物（警方负责人）",
+      "appearance": "身材魁梧，面容和善，行动缓慢而有目的，像电影中的侦探队长",
+      "age_clues": "中年以上",
+      "personality": "和蔼而敏锐，办案后以父亲口吻告诫薇薇安远离杀手世界",
+      "habits": "办案时脱帽表示休战姿态",
+      "background": "格伦斯福尔斯警局侦探队长，负责梦松旅馆案，录口供两小时；为薇薇安申请悬赏并告诫她邦德与斯拉格西同属鹰与鸽之外的冷血杀手世界",
+      "first_appearance_chapter": "Fifteen",
+      "last_appearance_chapter": "Fifteen",
+      "relationships": [
+        {"with": "vivienne-michel", "type": "警方与证人", "change": "由录口供转为父辈式告诫后放行"}
+      ]
+    },
+    {
+      "id": "lieutenant-morrow",
+      "name_en": "Lieutenant Morrow",
+      "name_zh": "莫罗中尉",
+      "aliases": [],
+      "role": "次要人物（州警）",
+      "appearance": "年轻英俊，制服笔挺",
+      "age_clues": "年轻",
+      "personality": "礼貌好奇",
+      "habits": "骑摩托巡逻，用无线电与总部联络",
+      "background": "纽约州州警中尉，首批抵达现场，带来邦德托付的咖啡与甜甜圈早餐",
+      "first_appearance_chapter": "Fifteen",
+      "last_appearance_chapter": "Fifteen",
+      "relationships": [
+        {"with": "vivienne-michel", "type": "警方与证人", "change": "初见即协助，后帮她绑好行李、推出摩托车"}
+      ]
+    },
+    {
+      "id": "odonnell",
+      "name_en": "O'Donnell",
+      "name_zh": "奥唐纳",
+      "aliases": [],
+      "role": "次要人物（州警）",
+      "appearance": "原文未描述",
+      "age_clues": "未知",
+      "personality": "未知",
+      "habits": "未知",
+      "background": "莫罗中尉的搭档州警，负责现场勘查",
+      "first_appearance_chapter": "Fifteen",
+      "last_appearance_chapter": "Fifteen",
+      "relationships": [
+        {"with": "lieutenant-morrow", "type": "同事", "change": "无变化"}
+      ]
+    }
+  ],
+  "organizations": [
+    {"id": "sis", "name_en": "Secret Intelligence Service", "name_zh": "英国秘密情报机构", "role": "邦德所属机构；原文未出现全称，仅称总部与编号007，邦德称其为my outfit", "first_chapter": "Eleven"},
+    {"id": "spectre", "name_en": "SPECTRE", "name_zh": "幽灵党", "role": "独立间谍网络，全称反间谍、恐怖主义、报复与勒索特别机构；以10万镑接受克格勃委托刺杀鲍里斯；首领在霹雳弹行动中逃脱", "first_chapter": "Eleven"},
+    {"id": "kgb", "name_en": "KGB", "name_zh": "克格勃", "role": "苏联秘密情报机构；其巴黎站负责人出价买凶刺杀叛逃者鲍里斯", "first_chapter": "Eleven"},
+    {"id": "cia", "name_en": "Central Intelligence Agency", "name_zh": "中央情报局", "role": "邦德嘱薇薇安向警方报出其身份时可联系的美国机构；邦德赴华盛顿即向其对应部门汇报", "first_chapter": "Twelve"},
+    {"id": "fbi", "name_en": "Federal Bureau of Investigation", "name_zh": "联邦调查局", "role": "莫罗中尉称邦德在联邦调查局有关系，案件因此惊动华盛顿", "first_chapter": "Fifteen"},
+    {"id": "rcmp", "name_en": "Royal Canadian Mounted Police", "name_zh": "加拿大皇家骑警", "role": "渥太华方面通报乌尔曼行踪；其特别支部与邦德合作，在多伦多鲍里斯公寓设伏，行动中两死一伤", "first_chapter": "Eleven"},
+    {"id": "metro-accident-and-home", "name_en": "Metro Accident and Home", "name_zh": "都会事故与家庭保险公司", "role": "霍勒谎称的保险公司名；梦松旅馆纵火骗保的目标保险公司，旅馆估值约50万美元", "first_chapter": "Twelve"},
+    {"id": "vwz", "name_en": "Verband Westdeutscher Zeitungen", "name_zh": "西德报纸协会通讯社", "role": "西德报业合作社出资的独立通讯社；薇薇安任伦敦办事处二号职员，周薪30镑", "first_chapter": "Four"},
+    {"id": "chelsea-clarion", "name_en": "Chelsea Clarion", "name_zh": "切尔西号", "role": "切尔西地方周报；薇薇安任编辑助理后升署名记者，周薪20畿尼", "first_chapter": "Four"},
+    {"id": "mechanics-gang", "name_en": "The Mechanics", "name_zh": "机械帮", "role": "多伦多最凶悍的帮派，与芝加哥、底特律帮派有关联；受雇刺杀鲍里斯，枪战中一死两重伤", "first_chapter": "Eleven"}
+  ],
+  "locations": [
+    {"id": "dreamy-pines", "name_en": "Dreamy Pines Motor Court", "name_zh": "梦松汽车旅馆", "country": "美国", "fictional": true, "role": "故事主场景；乔治湖以西10英里、梦幻水湖南岸的40间客房汽车旅馆，10月13日夜遭纵火烧毁"},
+    {"id": "dreamy-waters", "name_en": "Dreamy Waters", "name_zh": "梦幻水湖", "country": "美国", "fictional": true, "role": "旅馆后的小湖；黑色轿车坠入湖边垂钓池沉没"},
+    {"id": "lake-george", "name_en": "Lake George", "name_zh": "乔治湖", "country": "美国", "fictional": false, "role": "阿迪朗达克旅游中心；薇薇安游览后转入旅馆支路；邦德原计划在此过夜"},
+    {"id": "adirondacks", "name_en": "Adirondacks", "name_zh": "阿迪朗达克山区", "country": "美国", "fictional": false, "role": "故事发生地，纽约州北部山林湖区；薇薇安游历约两周"},
+    {"id": "glens-falls", "name_en": "Glens Falls", "name_zh": "格伦斯福尔斯", "country": "美国", "fictional": false, "role": "邦德次日清晨前往报案的城镇；斯托纳上尉驻地；薇薇安离开时前往方向"},
+    {"id": "troy", "name_en": "Troy", "name_zh": "特洛伊", "country": "美国", "fictional": false, "role": "桑吉内蒂与两名打手的基地；菲希夫妇10月13日晨前往此地"},
+    {"id": "albany", "name_en": "Albany", "name_zh": "奥尔巴尼", "country": "美国", "fictional": false, "role": "纽约州首府，WOKO电台所在地，距旅馆约50英里；邦德谎称在此有重要朋友"},
+    {"id": "sainte-famille", "name_en": "Sainte Famille, Ile d'Orleans", "name_zh": "圣家族，奥尔良岛", "country": "加拿大", "fictional": false, "role": "薇薇安出生地，魁北克附近圣劳伦斯河中岛屿北岸小镇"},
+    {"id": "london-chelsea", "name_en": "London, Chelsea", "name_zh": "伦敦切尔西", "country": "英国", "fictional": false, "role": "薇薇安在英五年生活地；老教堂街公寓、切尔西号报社、V.W.Z.办事处均在此区"},
+    {"id": "windsor", "name_en": "Windsor", "name_zh": "温莎", "country": "英国", "fictional": false, "role": "德里克家乡；泰晤士河、皇家电影院包厢事件与河边树林失身均在此地"},
+    {"id": "toronto", "name_en": "Toronto", "name_zh": "多伦多", "country": "加拿大", "fictional": false, "role": "鲍里斯安置地；邦德冒充鲍里斯守株待兔、枪战击毙乌尔曼的地点"},
+    {"id": "zurich", "name_en": "Zurich", "name_zh": "苏黎世", "country": "瑞士", "fictional": false, "role": "薇薇安堕胎地；朱斯金德医生与布伦瑞克妇科医生经手，费用约100至150镑"},
+    {"id": "hamburg", "name_en": "Hamburg", "name_zh": "汉堡", "country": "德国", "fictional": false, "role": "V.W.Z.总部所在地；库尔特与特鲁德原计划婚后定居地"}
+  ],
+  "equipment": [
+    {"id": "smith-wesson-police-positive", "name_en": "Smith & Wesson Police Positive", "name_zh": "史密斯-韦森警用型左轮手枪", "kind": "武器", "note": "邦德交给薇薇安防身的短管左轮，邦德称其为真正的制止者，教她瞄低、直臂、缓扣扳机"},
+    {"id": "bond-automatic", "name_en": "Heavy automatic pistol", "name_zh": "邦德重型自动手枪", "kind": "武器", "note": "邦德腋下枪套所佩自动手枪，夜战主力武器；另有一把备用枪曾压在薇薇安枕下"},
+    {"id": "sluggsy-gun", "name_en": "Sluggsy Morant's pistol", "name_zh": "斯拉格西的手枪", "kind": "武器", "note": "斯拉格西枪法极准，20英尺外连发击中空中咖啡罐；追捕薇薇安时多次开枪"},
+    {"id": "sub-machine-gun", "name_en": "Sub-machine-gun", "name_zh": "冲锋枪", "kind": "武器", "note": "多伦多枪战与旅馆夜战均出现；斯拉格西的冲锋枪被邦德击中后卡壳、空转扫射"},
+    {"id": "silencer", "name_en": "Silencer", "name_zh": "消音器", "kind": "武器附件", "note": "打手射击邦德40号房假人时使用消音器，发出一连串闷响"},
+    {"id": "thermite-bombs", "name_en": "Thermite bombs", "name_zh": "铝热剂燃烧弹", "kind": "纵火工具", "note": "打手在每间小屋各放一枚，体积小、无汽油痕迹、不留保险调查线索；另沿有盖通道撒铝热剂粉末引火至大堂"},
+    {"id": "ice-pick", "name_en": "Ice-pick", "name_zh": "冰锥", "kind": "武器", "note": "薇薇安藏在裤腰内的防身武器，曾划伤霍勒右太阳穴"},
+    {"id": "carving-knife", "name_en": "Carving knife", "name_zh": "餐刀", "kind": "武器", "note": "薇薇安藏在餐巾下的长利餐刀，夜战中挥砍未果后被打落"},
+    {"id": "benzedrine", "name_en": "Benzedrine", "name_zh": "苯丙胺", "kind": "药品", "note": "邦德服用的白色提神药片，一次两片，可保持整夜清醒"},
+    {"id": "ronson-lighter", "name_en": "Ronson lighter", "name_zh": "朗森打火机", "kind": "日用品", "note": "邦德的枪金属打火机，与其烟盒同款；为薇薇安点烟时两人手相触"}
+  ],
+  "vehicles": [
+    {"name_en": "Vespa 150 Gran Sport", "name_zh": "伟士牌150 Gran Sport摩托车", "note": "薇薇安座驾，银色车身，190镑购入，配豹纹座套、白色边袋、风挡与白盔；夜战中邦德将其与行李抢救至树林，未被烧毁"},
+    {"name_en": "Thunderbird two-seater", "name_zh": "雷鸟双座敞篷车", "note": "邦德租来的深灰色双座车，奶油色软顶；距旅馆1英里处爆胎，邦德因此求宿"},
+    {"name_en": "Black sedan", "name_zh": "黑色轿车", "note": "两名打手的座驾；夜战后冲入湖中沉没，车内霍勒溺亡，斯拉格西由气穴逃生"},
+    {"name_en": "Phanceys' station-wagon", "name_zh": "菲希夫妇旅行车", "note": "菲希夫妇10月13日晨驾车离去，装走现金、登记簿与食品库存"},
+    {"name_en": "State trooper motorcycles", "name_zh": "州警摩托车", "note": "莫罗中尉与奥唐纳次日清晨骑摩托抵达现场"},
+    {"name_en": "Police cars, ambulance and recovery truck", "name_zh": "警车、救护车与拖车", "note": "次日中午斯托纳上尉率车队抵达，拖车将沉没轿车拖出湖面"}
+  ],
+  "communications": [
+    {"name": "电话(已断线)", "note": "旅馆电话已被菲希夫妇停机，薇薇安无法求救；多伦多枪战前刺客以查号电话确认鲍里斯在家"},
+    {"name": "收音机WOKO", "note": "奥尔巴尼电台，全书多次播报风暴消息与音乐节目，是薇薇安当夜唯一外界联系"},
+    {"name": "电传机Telex", "note": "V.W.Z.伦敦办事处与汉堡总部之间的通讯工具，薇薇安日常操作"},
+    {"name": "信件与电报", "note": "德里克分手信、邦德留给薇薇安的信；邦德留联系地址为伦敦国防部，可写信或发电报，不可打电话"}
+  ],
+  "mission": {
+    "objective": "保护苏联叛逃者鲍里斯免遭刺杀，并抓获SPECTRE杀手霍斯特·乌尔曼；事后邦德受命驾车南下向华盛顿方面汇报美国一端机械帮事宜",
+    "investigation": "渥太华骑警通报多伦多出现前盖世太保乌尔曼，愿出5万美元买凶；英方安插在机械帮的线人获悉行刺定于上周四午夜前；邦德冒充鲍里斯守在其公寓，骑警埋伏对面，刺客破门时枪战爆发",
+    "key_clues": ["乌尔曼在多伦多接触黑帮并出价5万美元", "机械帮定于上周四午夜前强攻鲍里斯公寓", "刺客行刺前以查号电话确认目标在家", "邦德与鲍里斯外貌表面相似，可冒充引敌"],
+    "outcome": "乌尔曼被邦德击伤后打死一名骑警，随即被邦德击毙于门后，次日清晨死于医院；机械帮一死两重伤；英方两死一伤；鲍里斯获救；邦德驾车南下途中偶遇梦松旅馆事件"
+  },
+  "events": [
+    {"id": "storm-knockout", "chapter": "One", "title": "暴风雨中触电晕倒", "cause": "薇薇安误将霓虹灯开关拨至空房状态时恰逢闪电", "effect": "她晕倒约十分钟，头部撞出肿包，由此发现空房灯成为打手到访的诱因"},
+    {"id": "derek-breakup", "chapter": "Three", "title": "德里克分手", "cause": "德里克父母反对外国姑娘，且他早已与邻家女儿半订婚", "effect": "薇薇安失恋半年才恢复，立志靠头脑与毅力在伦敦立足"},
+    {"id": "kurt-abandonment", "chapter": "Five", "title": "库尔特抛弃怀孕的薇薇安", "cause": "薇薇安怀孕，库尔特以混血观念为由拒绝结婚", "effect": "薇薇安被解雇并赴苏黎世堕胎，决心离开启程南下北美"},
+    {"id": "toronto-shootout", "chapter": "Eleven", "title": "多伦多枪战", "cause": "SPECTRE受克格勃委托刺杀鲍里斯，邦德冒充目标守株待兔", "effect": "乌尔曼被击毙，一名骑警牺牲，鲍里斯获救，邦德南下赴华盛顿"},
+    {"id": "hoodlums-arrive", "chapter": "Eight", "title": "两名打手到访", "cause": "空房灯亮着，两人冒充保险公司人员进门", "effect": "薇薇安被困旅馆，遭威胁与监视"},
+    {"id": "escape-attempt", "chapter": "Nine", "title": "薇薇安逃入树林被抓回", "cause": "趁打手吃饭时从未锁的后门逃跑", "effect": "遭枪击追捕后被抓回，霍勒毒打她致昏迷"},
+    {"id": "bond-arrival", "chapter": "Ten", "title": "邦德到访", "cause": "租车爆胎，见空房灯求宿", "effect": "薇薇安以手势暗示邦德进门，打手暂缓动手，邦德获知内情"},
+    {"id": "arson", "chapter": "Twelve", "title": "旅馆纵火", "cause": "桑吉内蒂策划骗保，打手以铝热剂逐屋纵火，计划将薇薇安烧死伪装成打翻油灯失火", "effect": "邦德救出薇薇安，旅馆大部烧毁，邦德识破骗保计划"},
+    {"id": "night-battle", "chapter": "Thirteen", "title": "午夜枪战与沉车", "cause": "打手搬电视机销赃时被邦德拦截，双方开火", "effect": "霍勒被击中后驾车坠湖溺亡，斯拉格西一度逃脱"},
+    {"id": "sluggsy-returns", "chapter": "Fourteen", "title": "斯拉格西夜袭3号房", "cause": "斯拉格西由沉车气穴逃生，潜回行刺", "effect": "邦德开枪将其击毙于窗外，两人相拥入睡"},
+    {"id": "police-arrival", "chapter": "Fifteen", "title": "警方接手与薇薇安离开", "cause": "邦德清晨赴格伦斯福尔斯报案并通知华盛顿", "effect": "菲希夫妇被控共谋诈骗，桑吉内蒂在逃面临死罪指控，薇薇安中午骑车离开"}
+  ],
+  "facts": [
+    {"source_novel": "spy-who-loved-me", "chapter": "One", "entity": "vivienne-michel", "fact": "薇薇安·米歇尔23岁，10月13日星期五独自留守梦松汽车旅馆", "timeline_position": "1962年10月13日", "confidence": "high", "canon_or_inference": "canon", "quote": "I WAS running away.", "quote_source": "第One章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "One", "entity": "dreamy-pines", "fact": "梦松汽车旅馆位于乔治湖以西10英里，梦幻水湖南岸，有40间客房", "timeline_position": "1962年10月13日", "confidence": "high", "canon_or_inference": "canon", "quote": "ten miles west of Lake George", "quote_source": "第One章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "One", "entity": "jed-phancey", "fact": "菲希夫妇于10月13日清晨6点驾车离开，留薇薇安一人看守旅馆", "timeline_position": "1962年10月13日", "confidence": "high", "canon_or_inference": "canon", "quote": "Happy dreams tonight.", "quote_source": "第One章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Two", "entity": "vivienne-michel", "fact": "薇薇安为法裔加拿大人，生于魁北克圣家族，奥尔良岛北岸", "timeline_position": "约1939年", "confidence": "high", "canon_or_inference": "canon", "quote": "I am French-Canadian. I was born just outside Quebec", "quote_source": "第Two章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Two", "entity": "vivienne-michel", "fact": "薇薇安8岁时父母死于前往蒙特利尔的战时空难，由姨妈弗洛伦斯·图桑抚养", "timeline_position": "约1947年", "confidence": "high", "canon_or_inference": "canon", "quote": "when I was eight they were both killed in a wartime air crash", "quote_source": "第Two章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Two", "entity": "vivienne-michel", "fact": "薇薇安在乌尔苏拉修道院受教育至15岁，16岁赴英进阿斯托学校结业", "timeline_position": "约1954至1955年", "confidence": "high", "canon_or_inference": "canon", "quote": "I was educated in the Ursuline Convent until I was fifteen", "quote_source": "第Two章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Two", "entity": "derek-mallaby", "fact": "薇薇安17岁半时在自办派对上认识德里克·马拉比", "timeline_position": "约1957年", "confidence": "high", "canon_or_inference": "canon", "quote": "His name was Derek Mallaby", "quote_source": "第Two章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Three", "entity": "derek-mallaby", "fact": "德里克开黑色MG跑车，红皮座椅、红钢丝轮，带赛车装备", "timeline_position": "约1957年夏", "confidence": "high", "canon_or_inference": "canon", "quote": "second-hand MG his parents were going to give him", "quote_source": "第Three章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Three", "entity": "vivienne-michel", "fact": "9月最后一个星期六，两人在温莎皇家电影院包厢内被经理撞破企图发生关系，报假名脱身", "timeline_position": "约1957年9月", "confidence": "high", "canon_or_inference": "canon", "quote": "What the hell do you think you're doing in my cinema?", "quote_source": "第Three章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Three", "entity": "vivienne-michel", "fact": "当夜两人在温莎河边树林中发生关系，薇薇安失身", "timeline_position": "约1957年9月", "confidence": "high", "canon_or_inference": "canon", "quote": "So that was it! The great moment.", "quote_source": "第Three章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Four", "entity": "derek-mallaby", "fact": "德里克两周后来信分手，称已与邻家女儿半订婚，父母反对他与外国姑娘交往", "timeline_position": "约1957年10月", "confidence": "high", "canon_or_inference": "canon", "quote": "we're sort of semi-engaged", "quote_source": "第Four章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Four", "entity": "vivienne-michel", "fact": "薇薇安在切尔西号周报任编辑助理，后升署名记者，周薪20畿尼", "timeline_position": "约1958至1960年", "confidence": "high", "canon_or_inference": "canon", "quote": "Vivienne Michel became a public person", "quote_source": "第Four章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Four", "entity": "kurt-rainer", "fact": "库尔特·雷纳为西德通讯社V.W.Z.驻伦敦首任代表，30岁，奥格斯堡人", "timeline_position": "约1960年", "confidence": "high", "canon_or_inference": "canon", "quote": "Kurt Rainer of the V.W.Z.", "quote_source": "第Four章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Five", "entity": "kurt-rainer", "fact": "库尔特未婚妻特鲁德在泰格恩湖移情慕尼黑医生，解除婚约", "timeline_position": "约1961年", "confidence": "high", "canon_or_inference": "canon", "quote": "She had met another man, at the Tegernsee of course", "quote_source": "第Five章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Five", "entity": "vivienne-michel", "fact": "薇薇安怀孕后，库尔特以混血观念为由拒绝结婚，解雇她并给120镑遣散费加50镑路费", "timeline_position": "1962年8月底", "confidence": "high", "canon_or_inference": "canon", "quote": "one month's salary in lieu of notice. That was one hundred and twenty pounds", "quote_source": "第Five章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Six", "entity": "vivienne-michel", "fact": "薇薇安在苏黎世堕胎，经手医生为朱斯金德与布伦瑞克妇科医生", "timeline_position": "1962年8月底", "confidence": "high", "canon_or_inference": "canon", "quote": "The business of my abortion, not to mince words", "quote_source": "第Six章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Six", "entity": "vivienne-michel", "fact": "薇薇安购买150cc伟士牌Gran Sport摩托车，售价190镑", "timeline_position": "1962年8月底", "confidence": "high", "canon_or_inference": "canon", "quote": "the sturdier, faster 150-c.c. Gran Sport", "quote_source": "第Six章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Six", "entity": "vivienne-michel", "fact": "薇薇安9月1日飞抵蒙特利尔，9月15日携1000美元旅行支票从魁北克南下", "timeline_position": "1962年9月15日", "confidence": "high", "canon_or_inference": "canon", "quote": "I drew a thousand dollars in American Express travelers' checks", "quote_source": "第Six章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Seven", "entity": "sanguinetti", "fact": "梦松旅馆业主为特洛伊的桑吉内蒂，拥有河滨地产与特洛伊木马路边店", "timeline_position": "1962年10月", "confidence": "high", "canon_or_inference": "canon", "quote": "He lived in Troy. A Mr. Sanguinetti.", "quote_source": "第Seven章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Seven", "entity": "vivienne-michel", "fact": "薇薇安受雇为旅馆接待员，周薪30美元包食宿，任期最后两周", "timeline_position": "1962年9月底", "confidence": "high", "canon_or_inference": "canon", "quote": "full board and thirty dollars a week", "quote_source": "第Seven章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Seven", "entity": "dreamy-pines", "fact": "旅馆单人房10美元、双人房16美元，旺季为7月1日至10月初", "timeline_position": "1962年10月", "confidence": "high", "canon_or_inference": "canon", "quote": "ten dollars single and sixteen double", "quote_source": "第Seven章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Eight", "entity": "sol-horowitz", "fact": "索尔·霍洛维茨与斯拉格西·莫兰特冒充桑吉内蒂保险公司人员，于当晚9点后到访旅馆", "timeline_position": "1962年10月13日", "confidence": "high", "canon_or_inference": "canon", "quote": "We're from Mr. Sanguinetti. From his insurance company.", "quote_source": "第Eight章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Eight", "entity": "sluggsy-morant", "fact": "斯拉格西开枪打穿咖啡罐示威，以此作为身份证明", "timeline_position": "1962年10月13日", "confidence": "high", "canon_or_inference": "canon", "quote": "How's them for credentials, baby?", "quote_source": "第Eight章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Eight", "entity": "sluggsy-morant", "fact": "斯拉格西患全身性脱发症，全身无毛，曾在圣昆廷监狱单独监禁服刑", "timeline_position": "1962年10月13日", "confidence": "high", "canon_or_inference": "canon", "quote": "Alopecia totalis. That means no hair, see?", "quote_source": "第Eight章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Eight", "entity": "sol-horowitz", "fact": "瘦长打手本名为索尔·霍洛维茨，绰号霍勒", "timeline_position": "1962年10月13日", "confidence": "high", "canon_or_inference": "canon", "quote": "Me, I'm Sol Horowitz. They call me 'Horror.'", "quote_source": "第Eight章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Nine", "entity": "vivienne-michel", "fact": "薇薇安趁打手吃饭时从后门逃入树林，遭枪击追捕后被斯拉格西抓获", "timeline_position": "1962年10月13日", "confidence": "high", "canon_or_inference": "canon", "quote": "Hold it, or you're cold turkey!", "quote_source": "第Nine章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Nine", "entity": "sol-horowitz", "fact": "霍勒毒打薇薇安致其昏迷，她在自己小屋淋浴间醒来", "timeline_position": "1962年10月13日", "confidence": "high", "canon_or_inference": "canon", "quote": "he began to hit me, now with his open hand, now with the fist", "quote_source": "第Nine章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Ten", "entity": "james-bond", "fact": "邦德驾租来的灰色双座雷鸟车因爆胎求宿，约当晚11点前到达旅馆", "timeline_position": "1962年10月13日", "confidence": "high", "canon_or_inference": "canon", "quote": "I've got a puncture", "quote_source": "第Ten章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Ten", "entity": "james-bond", "fact": "邦德自称警察，实为英国政府特工，称其工作与警察类似", "timeline_position": "1962年10月13日", "confidence": "high", "canon_or_inference": "canon", "quote": "Not quite. But I'm in that sort of business.", "quote_source": "第Ten章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Ten", "entity": "james-bond", "fact": "邦德从行李箱取出手枪与备用弹匣随身携带", "timeline_position": "1962年10月13日", "confidence": "high", "canon_or_inference": "canon", "quote": "Better have plenty of artillery", "quote_source": "第Ten章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Eleven", "entity": "boris", "fact": "鲍里斯为克朗施塔特核潜艇团队高级造船专家，叛逃后安置于多伦多", "timeline_position": "1962年10月前", "confidence": "high", "canon_or_inference": "canon", "quote": "a top naval constructor in Kronstadt", "quote_source": "第Eleven章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Eleven", "entity": "spectre", "fact": "SPECTRE以10万镑接受克格勃委托刺杀鲍里斯", "timeline_position": "1962年10月前", "confidence": "high", "canon_or_inference": "canon", "quote": "they'd do the job for one hundred thousand pounds", "quote_source": "第Eleven章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Eleven", "entity": "horst-uhlmann", "fact": "前盖世太保乌尔曼在多伦多出价5万美元雇凶刺杀鲍里斯", "timeline_position": "1962年10月前", "confidence": "high", "canon_or_inference": "canon", "quote": "prepared to pay fifty thousand dollars for the job", "quote_source": "第Eleven章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Eleven", "entity": "james-bond", "fact": "邦德冒充鲍里斯守在其公寓，枪战中击落乌尔曼的冲锋枪并击伤其左肩与右髋", "timeline_position": "1962年10月上旬", "confidence": "high", "canon_or_inference": "canon", "quote": "I shot at his gun and blasted it out of his hands", "quote_source": "第Eleven章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Eleven", "entity": "horst-uhlmann", "fact": "乌尔曼枪战中打死一名骑警，随即被邦德击毙，次日清晨死于医院", "timeline_position": "1962年10月上旬", "confidence": "high", "canon_or_inference": "canon", "quote": "he died the next morning", "quote_source": "第Eleven章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Eleven", "entity": "spectre", "fact": "霹雳弹行动( stolen atomic bombs)发生在不到一年前，SPECTRE首领逃脱", "timeline_position": "1961至1962年", "confidence": "high", "canon_or_inference": "canon", "quote": "Less than a year ago there was this business of the stolen atomic bombs", "quote_source": "第Eleven章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Twelve", "entity": "james-bond", "fact": "邦德将一把史密斯-韦斯警用型左轮交给薇薇安防身，并教她堵门设防", "timeline_position": "1962年10月14日凌晨", "confidence": "high", "canon_or_inference": "canon", "quote": "this is a Smith and Wesson Police Positive. A real stopper.", "quote_source": "第Twelve章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Twelve", "entity": "james-bond", "fact": "邦德在40号房床上设假人诱饵，以松针伪装头发、衬衫搭椅背", "timeline_position": "1962年10月14日凌晨", "confidence": "high", "canon_or_inference": "canon", "quote": "I rigged up a dummy in my bed", "quote_source": "第Twelve章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Twelve", "entity": "sanguinetti", "fact": "纵火骗保计划为烧死薇薇安，伪装成她打翻油灯失火，旅馆估值约50万美元", "timeline_position": "1962年10月14日凌晨", "confidence": "high", "canon_or_inference": "canon", "quote": "You had gone to sleep with the light on and somehow upset it", "quote_source": "第Twelve章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Twelve", "entity": "james-bond", "fact": "邦德向薇薇安说出自己的识别编号007", "timeline_position": "1962年10月14日凌晨", "confidence": "high", "canon_or_inference": "canon", "quote": "I've got a number in my outfit—sort of recognition number. It's 007.", "quote_source": "第Twelve章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Thirteen", "entity": "sol-horowitz", "fact": "邦德在对峙中开枪击伤霍勒的脚，霍勒仍能行动", "timeline_position": "1962年10月14日凌晨", "confidence": "high", "canon_or_inference": "canon", "quote": "I ought to have been able to blast that man's foot off", "quote_source": "第Thirteen章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Thirteen", "entity": "sluggsy-morant", "fact": "斯拉格西将电视机掷向邦德，砸中其头部致其受伤流血", "timeline_position": "1962年10月14日凌晨", "confidence": "high", "canon_or_inference": "canon", "quote": "Sluggsy had hurled the television set over his head at James Bond", "quote_source": "第Thirteen章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Thirteen", "entity": "sol-horowitz", "fact": "黑色轿车在邦德枪击下失控冲入湖中沉没，霍勒溺亡", "timeline_position": "1962年10月14日凌晨3点半前", "confidence": "high", "canon_or_inference": "canon", "quote": "it took off over the edge and landed flat on the water", "quote_source": "第Thirteen章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Fourteen", "entity": "sluggsy-morant", "fact": "斯拉格西由沉车后部气穴逃生，潜回3号房窗外行刺，被邦德开枪击毙", "timeline_position": "1962年10月14日凌晨", "confidence": "high", "canon_or_inference": "canon", "quote": "there was obviously plenty of air trapped in that corner", "quote_source": "第Fourteen章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Fourteen", "entity": "james-bond", "fact": "邦德解释bimbo为黑帮黑话，意为妓女", "timeline_position": "1962年10月14日凌晨", "confidence": "high", "canon_or_inference": "canon", "quote": "It's gangster language for a whore.", "quote_source": "第Fourteen章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Fifteen", "entity": "james-bond", "fact": "邦德清晨约6点不辞而别，留信称已赴格伦斯福尔斯报案，联系地址为伦敦国防部", "timeline_position": "1962年10月14日清晨", "confidence": "high", "canon_or_inference": "canon", "quote": "c/o Ministry of Defence, Storey's Gate, London, S.W. 1.", "quote_source": "第Fifteen章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Fifteen", "entity": "sanguinetti", "fact": "邦德推测桑吉内蒂闻讯后逃往南方、乘首班飞机赴墨西哥", "timeline_position": "1962年10月14日", "confidence": "medium", "canon_or_inference": "inference", "quote": "got on the first plane for the south on his way out to Mexico", "quote_source": "第Fifteen章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Fifteen", "entity": "captain-stonor", "fact": "菲希夫妇被警方以共谋诈骗初步指控，桑吉内蒂在逃，面临死罪指控", "timeline_position": "1962年10月14日中午", "confidence": "high", "canon_or_inference": "canon", "quote": "We've booked those Phanceys on a preliminary charge of conspiracy to defraud", "quote_source": "第Fifteen章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Fifteen", "entity": "vivienne-michel", "fact": "薇薇安于10月14日中午12点骑伟士牌摩托车离开梦松旅馆", "timeline_position": "1962年10月14日中午", "confidence": "high", "canon_or_inference": "canon", "quote": "It was twelve noon by the time I got away", "quote_source": "第Fifteen章"},
+    {"source_novel": "spy-who-loved-me", "chapter": "Fifteen", "entity": "james-bond", "fact": "斯托纳上尉称邦德为海军中校(Commander Bond)", "timeline_position": "1962年10月14日中午", "confidence": "high", "canon_or_inference": "canon", "quote": "your English friend, Commander Bond", "quote_source": "第Fifteen章"}
+  ],
+  "canon_vs_inference": [
+    {"topic": "故事内年份", "status": "inference", "note": "原文从未写明故事发生的年份，1962年为出版年；时间线按出版年标注年份，月份与日期(9月1日、9月15日、10月13日至14日)为原文明确给出"},
+    {"topic": "邦德所属机构全称", "status": "inference", "note": "原文未出现Secret Intelligence Service全称，仅称总部、my outfit与编号007；机构名按系列惯例标注，原文依据仅为邦德自述为英国政府特工"},
+    {"topic": "梦松汽车旅馆是否真实存在", "status": "inference", "note": "原文未说明旅馆虚实，按虚构地点处理；乔治湖、格伦斯福尔斯、特洛伊、奥尔巴尼均为真实地名"},
+    {"topic": "霍勒刚服完长期徒刑", "status": "inference", "note": "原文为邦德的判断：瘦子刚服完长期徒刑，否则他愿吃掉帽子；非叙述者证实的事实"},
+    {"topic": "桑吉内蒂逃往墨西哥", "status": "inference", "note": "邦德信中明确称此为自己的猜测，警方随后证实其在逃，但目的地墨西哥未经证实"},
+    {"topic": "霍勒死于邦德枪击", "status": "inference", "note": "邦德称一定打中了司机、其尸体卡住油门；原文确认的事实仅为轿车坠湖、霍勒溺亡，死因细节为邦德推断"},
+    {"topic": "薇薇安生于约1939年、父母死于约1947年", "status": "inference", "note": "原文仅给年龄(23岁、8岁丧父母)，年份由1962年倒推得出"}
+  ],
+  "adaptation_differences": [
+    "本部未核对电影差异；仅确认原著事实：全书无潜艇、无莲花跑车，邦德乘租来的灰色雷鸟双座车因爆胎到访旅馆；反派为策划纵火骗保的地产商桑吉内蒂及其两名打手，非电影中的其他设定",
+    "原著为薇薇安·米歇尔第一人称叙述，邦德至第10章才登场；电影版同名影片与原著情节几乎无关，以上差异以原著文本为准"
+  ]
+}

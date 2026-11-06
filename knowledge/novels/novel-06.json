@@ -1,0 +1,1857 @@
+{
+  "novel_id": "dr-no",
+  "novel_no": 6,
+  "title_en": "Dr No",
+  "title_zh": "诺博士",
+  "publication_year": 1958,
+  "kind": "长篇",
+  "source_file": "source/txt/dr-no.txt",
+  "source_sha256": "42d69c218cb4bd8eb6271f69c624e86d5965a203b61ff42417b64cb3ab9e4be2",
+  "words": 78288,
+  "lines": 1344,
+  "reading": {
+    "chapters_read": 20,
+    "chapters_total": 20,
+    "coverage": "100%",
+    "method": "按章节sed分段读"
+  },
+  "story_timeline": "故事当年3月1日伦敦开场，邦德此前在医院休养约3个月；斯特兰威斯与特鲁布拉德约3周前在牙买加遇害；邦德3月初抵达牙买加，训练1周后乘独木舟夜渡约30英里登上蟹礁岛，在岛上约3天后逃出并返回牙买加，向总督汇报后安排军方清岛；全书主线约3周。诺博士背景时间线：生于北京，上海帮会时期后赴纽约，20世纪20年代末帮会战争期间盗走帮会金库100万美元黄金并遭断手枪击，改容后在密尔沃基读医，1943年以1万英镑购下蟹礁岛，在岛上经营14年；书中另有两处时间表述与此不完全一致，见canon_vs_inference。",
+  "chapters": [
+    {
+      "no": "I",
+      "title": "I HEAR YOU LOUD AND CLEAR",
+      "start_line": 2,
+      "summary": "牙买加金斯顿里士满路，女王俱乐部桥牌局中，地区负责人约翰·斯特兰威斯按惯例于18时15分离席去做每日18时30分与伦敦的无线电定时联络；三名伪装成盲乞丐的中非混血杀手在街头用带消音器的左轮将其射杀，装入棺材运走；其助手玛丽·特鲁布拉德在斯特兰威斯住所的电台前也被杀手枪杀，住所纵火，密码本与文件被焚，尸体与斯特兰威斯同装一棺沉入莫纳水库。"
+    },
+    {
+      "no": "II",
+      "title": "CHOICE OF WEAPONS",
+      "start_line": 51,
+      "summary": "3周后伦敦3月1日，M在办公室先与神经科医生詹姆斯·莫洛尼爵士通话，确认邦德腿伤痊愈但承受巨大压力，毒物为河豚毒素四氨基吡啶类毒药Tetrodotoxin，是俄国女特工所下，幸得一名法国人人工呼吸抢救；随后M以调查委员会结论为由收缴邦德用了15年的贝雷塔0.25口径手枪，军械官布思罗伊德少校改配瓦尔特PPK7.65毫米手枪与史密斯-韦森Centennial Airweight0.38口径无击锤转轮手枪，配伯恩斯-马丁三联快拔枪套，限1周内练熟。"
+    },
+    {
+      "no": "III",
+      "title": "HOLIDAY TASK",
+      "start_line": 133,
+      "summary": "M与参谋长向邦德交代斯特兰威斯案：两人失踪3周，官方认定为私奔，总督与警方均持此说，但定时联络中断与桥牌局中途离席等细节不合私奔逻辑；唯一线索是斯特兰威斯生前最后任务——奥杜邦协会关于蟹礁岛玫瑰琵鹭保护区的投诉，岛主为德中混血的诺博士，1943年以1万英镑购岛经营鸟粪；圣诞节前一名看守员全身烧伤逃回牙买加后死亡，称营地遭喷火巨龙袭击，随后两名奥杜邦调查员乘比奇飞机在岛上坠毁身亡；邦德获命赴牙买加任代理站长调查。"
+    },
+    {
+      "no": "IV",
+      "title": "RECEPTION COMMITTEE",
+      "start_line": 179,
+      "summary": "邦德乘超级星座号抵达金斯顿，化名进出口商人，雇员夸雷尔在机场接应；一名自称《每日拾穗者报》摄影记者的中国姑娘安娜贝尔·钟两次为其拍照；邦德发现接应的车竟是斯特兰威斯的黑色太阳光Alpine，意识到行踪已暴露，甩掉一辆跟踪的空出租车后入住蓝山酒店；当晚与夸雷尔在欢乐船夜总会吃饭，夸雷尔讲述蟹礁岛的可怕传闻，钟姑娘再次出现拍照，夸雷尔用扭臂逼问未果，姑娘用闪光灯泡砸伤夸雷尔面颊后逃走，扬言有人会收拾他们。"
+    },
+    {
+      "no": "V",
+      "title": "FACTS AND FIGURES",
+      "start_line": 289,
+      "summary": "邦德认定斯特兰威斯夫妇已被谋杀，诺博士为唯一嫌疑人；上午拜会代理总督，对方坚持私奔结论并急于结案；殖民地秘书普莱德尔-史密斯详细介绍鸟粪生意：蟹礁岛鸟粪硝酸盐含量低，诺博士以每吨50美元售往安特卫普，近年跌至38至40美元，岛上约10万只鸬鹚价值约150万美元；但蟹礁岛档案的封皮仍在、内文已被取空，最后经手人正是斯特兰威斯，而秘书塔罗小姐也是中国人，邦德确认总督府内有诺博士的眼线。"
+    },
+    {
+      "no": "VI",
+      "title": "THE FINGER ON THE TRIGGER",
+      "start_line": 361,
+      "summary": "邦德在牙买加学院查阅1910年蟹礁岛测绘图：全岛约50平方英里，东四分之三为沼泽浅湖，西端500英尺高山，鸟粪矿最后开采于1880年，距牙买加北岸加利纳角约30英里、距古巴约60英里；回酒店发现总督府送来的水果篮，细查发现每颗水果都有针孔，行李箱锁有被撬痕迹，确认有人下毒；他将水果寄交公共化验师，并决定暂不向M汇报，夜里一条约5至6英寸长的蜈蚣爬上他的身体，他屏息不动直至其爬离才将其打死。"
+    },
+    {
+      "no": "VII",
+      "title": "NIGHT PASSAGE",
+      "start_line": 410,
+      "summary": "邦德安排两名替身驾驶太阳光车前往蒙特哥贝制造假行踪，自己与夸雷尔租下北岸摩根港的博德泽特别墅进行1周体能训练，并为夸雷尔购买5000英镑人寿保险；报纸称替身所驾太阳光车在魔鬼跑道遭失控卡车撞下深谷，两名替身本·吉本斯与约西亚·史密斯死亡；化验电报称每件水果所含氰化物足可毒死一匹马；训练结束后两人于黑夜乘独木舟横渡约30英里海面，黎明前在蟹礁岛南海岸河口附近的黑沙滩登陆并藏好独木舟。"
+    },
+    {
+      "no": "VIII",
+      "title": "THE ELEGANT VENUS",
+      "start_line": 479,
+      "summary": "邦德在海滩醒来，遇见裸体采集贝壳的金发姑娘哈妮·莱德，她采集的紫粉色贝壳名为优雅维纳斯蛤，在迈阿密每枚完美标本可卖5美元；她自述来岛约1年，圣诞节前夜曾在看守员营地附近亲眼看见喷火巨龙：黑金色、双眼发光、长鼻、短翼、尖尾，烧毁鸟巢与树林；她不知邦德身份，两人互通姓名，远处传来搜捕艇的柴油机声。"
+    },
+    {
+      "no": "IX",
+      "title": "CLOSE SHAVES",
+      "start_line": 553,
+      "summary": "诺博士的搜捕艇发现哈妮独木舟的藏匿处，用斯潘道机枪向海滩扫射，邦德与哈妮伏沙躲过；哈妮的独木舟被打成两截；三人沿河向上游涉水前进，途中以竹管呼吸潜水躲过带杜宾犬的搜捕队；邦德从河边望见西端鸟粪山、昆西特棚屋与德科维尔轨道，确认岛上确有工业设施；一行人向湖边看守员营地进发。"
+    },
+    {
+      "no": "X",
+      "title": "DRAGON SPOOR",
+      "start_line": 622,
+      "summary": "搜捕队过后，一名落单的守卫悄悄折返，用靴子踩到潜伏的邦德，邦德近距离开枪将其击毙，缴获一支美国雷明顿0.300口径卡宾枪；三人继续沿河前进，发现巨龙留下的车辙：两道约2英尺宽的平滑轮印加一道约3英寸宽的中央轮印，呈直线穿越沼泽并没入湖水，沿途灌木被烧焦；抵达湖边沙洲上的看守员营地废墟，找到未开封的罐头、睡袋与一个装有5美元与3牙买加镑的小钱包，确认看守员是仓促逃离或被杀。"
+    },
+    {
+      "no": "XI",
+      "title": "AMIDST THE ALIEN CANE",
+      "start_line": 683,
+      "summary": "夜宿营地，邦德向哈妮坦承自己是伦敦派来的调查人员；哈妮讲述身世：5岁时父母死于博德泽特大宅火灾，自幼与黑人保姆住在废墟地窖，15岁保姆去世后遭白人监工曼德强暴并打断鼻梁，后用黑寡妇蜘蛛毒死对方；靠采集贝壳卖给迈阿密商人攒钱，目标是攒500英镑去纽约做鼻子整形手术，之后想当应召女郎赚钱买回博德泽特；她读旧百科全书自学至T字母开头，熟悉动植物；两人约定回到牙买加后再见，哈妮称邦德欠她奴隶时间。"
+    },
+    {
+      "no": "XII",
+      "title": "THE THING",
+      "start_line": 767,
+      "summary": "午夜巨龙渡湖而来，邦德认出它是伪装成龙的装甲沼泽车，配火焰喷射器与柴油发动机，轮胎为巨大实心橡胶轮；夸雷尔开枪无效，邦德打碎其车灯仍无法阻止，巨龙喷火将夸雷尔活活烧死；邦德与哈妮被迫投降交出史密斯-韦森手枪，被押上沼泽车，穿过湖面与山路进入西端棚屋区，经岩石通道进入山体内部。"
+    },
+    {
+      "no": "XIII",
+      "title": "MINK-LINED PRISON",
+      "start_line": 841,
+      "summary": "山体内部竟是豪华疗养院式接待处，接待员罗斯修女与莉莉修女以病人礼遇接待两人，邦德化名鸟类学家约翰·布莱斯，称代表奥杜邦协会，妻子为哈妮，以M的真名作紧急联系人并称其为叔叔；两人被安置在14号与15号奶油套房，房间无窗、无内侧门把手，早餐中被下药昏睡；上午10时诺博士悄悄进入房间，用胸前电筒与钢钳手检查熟睡的两人。"
+    },
+    {
+      "no": "XIV",
+      "title": "COME INTO MY PARLOUR",
+      "start_line": 932,
+      "summary": "下午4时30分醒来，邦德与哈妮被带去与诺博士共进晚餐；诺博士的书房一整面墙为深入海底20英尺的装甲玻璃水族窗，造价100万美元；诺博士身高至少比邦德高6英寸，秃头、黄皮肤、无手，以钢钳义肢代替，眼睛为隐形眼镜下无表情的黑色眼窝，自称能看穿谎言；他点破邦德的秘密情报局身份，邦德点了伏特加干马提尼并要求摇匀不搅拌；保镖萨姆-萨姆随身携带对讲机待命。"
+    },
+    {
+      "no": "XV",
+      "title": "PANDORA'S BOX",
+      "start_line": 992,
+      "summary": "诺博士讲述生平：德国传教士与中国良家女子之私生子，生于北京，上海帮会出身，30岁任纽约Hip Sings帮会司库，20年代末帮会战争中盗走100万美元黄金，遭酷刑、断手、枪击心脏，因心脏长在右侧而幸存，靠珍邮变卖黄金并改容，在密尔沃基读医后以医生身份环游世界，1943年购下蟹礁岛经营鸟粪14年；为驱赶玳瑁琵鹭保护区，他用沼泽车烧毁看守员营地并制造飞机坠毁事故；他承认斯特兰威斯夫妇沉尸莫纳水库，并透露岛上真正的生意是为俄国人干扰特克斯岛美军导弹试验。"
+    },
+    {
+      "no": "XVI",
+      "title": "HORIZONS OF AGONY",
+      "start_line": 1031,
+      "summary": "晚餐时邦德偷藏一把餐刀与一只打火机；诺博士拒绝邦德以放两人回牙买加换取1周逃亡时间的交易，称其所谓已留后手报告是谎言；他详述导弹干扰行动：岛上有价值100万美元的设备与6名莫斯科培训的技术员，可干扰特克斯岛发射的斯纳克等多型导弹的制导信号，下一步计划捕获导弹样机卖给俄国，开价1000万至2000万美元；随后宣布处刑：哈妮将被裸体绑在蟹群迁徙路上任螃蟹啃食，邦德则要跑一趟死亡障碍赛供其记录人体耐力数据。"
+    },
+    {
+      "no": "XVII",
+      "title": "THE LONG SCREAM",
+      "start_line": 1084,
+      "summary": "邦德被押入Q号石室，唯一出口是带电的通风栅，他触电后拆下栅网制成约4英尺长的铁丝矛；爬通风管，先在约50码垂直金属管中以肩脚撑壁攀爬，再穿越高温管段，全身多处烫伤与水泡，接着以打火机火光驱赶并击碎一笼约20只巨型狼蛛；最后从斜管高速滑落，坠入山脚海湾，险些溺水。"
+    },
+    {
+      "no": "XVIII",
+      "title": "KILLING GROUND",
+      "start_line": 1146,
+      "summary": "邦德坠入被铁丝网围住的深水湾，网内饲养着巨型鱿鱼；他攀上铁丝网，鱿鱼以触手缠住其腿部与腹部，他以餐刀割断触手，又以铁丝矛刺瞎其一只眼睛，鱿鱼喷出墨汁遁走；邦德沿铁丝网爬上岸，洗去血污与墨汁，沿工人小径绕过悬崖，望见码头、起重机与安特卫普油轮布兰奇号，诺博士正在监装鸟粪。"
+    },
+    {
+      "no": "XIX",
+      "title": "A SHOWER OF DEATH",
+      "start_line": 1189,
+      "summary": "邦德潜入起重机驾驶室，一刀割断沼泽车司机的颈部动脉夺取起重机，将传送带鸟粪出口对准诺博士，用每分钟数吨的鸟粪将其活埋；随后沿传送带隧道逃入山体，途中与以为他已死的哈妮相撞——哈妮并未被螃蟹吃掉，因螃蟹不吃活人肉且她全身无伤口，她挣脱木桩后潜入机修间换上工装，正要去刺杀诺博士；两人又在隧道内枪杀3名持枪守卫，夺取沼泽车逃出，邦德在湖中开枪射杀追来的杜宾犬群，驾车驶向河口。"
+    },
+    {
+      "no": "XX",
+      "title": "SLAVE-TIME",
+      "start_line": 1290,
+      "summary": "两人乘独木舟夜航返回摩根港，邦德在医院处理烧伤与咬伤后向总督汇报，总督起初想压下消息，准将与警长坚持立即行动，决定派纳维克号军舰与一排士兵清岛并打捞莫纳水库；邦德发密电给M请病假并讽刺史密斯-韦森转轮枪对付不了火焰喷射器；邦德回博德泽特，哈妮在地窖旧居设烛光晚餐，两人履行奴隶时间的约定，共度一夜，全书结束。"
+    }
+  ],
+  "characters": [
+    {
+      "id": "bond",
+      "name_en": "James Bond",
+      "name_zh": "詹姆斯·邦德",
+      "aliases": ["007", "John Bryce", "约翰·布莱斯", "Import and Export Merchant"],
+      "role": "主要人物",
+      "appearance": "深色皮肤、晒黑、灰蓝色眼睛，书中未详述面部特征；诺博士检查时称其面容冷峻、肌肉结实、腹部扁平有力",
+      "age_clues": "未明示年龄；贝雷塔用了15年，战前已在服役，莫洛尼称其自战前起长期高强度消耗勇气",
+      "personality": "冷静、顽强、好胜，不服管教但服从命令；对夸雷尔之死深感内疚；对哈妮有保护欲与欲望并存",
+      "habits": "抽皇家混合香烟，爱喝金汤力与伏特加干马提尼，要求摇匀不搅拌；随身带枪，睡觉时枪压枕下",
+      "background": "秘密情报局00号特工，持杀人执照；上一案在《来自俄罗斯的爱情》结尾遭俄国女特工下河豚毒，住院约3个月后复出；5年前曾在牙买加执行寻宝任务并结识夸雷尔",
+      "first_appearance_chapter": "II",
+      "last_appearance_chapter": "XX",
+      "relationships": [
+        {
+          "with": "honeychile-rider",
+          "type": "同伴与恋人",
+          "change": "海滩初遇互不信任，邦德起初只当她是累赘；共患难后互相依赖，邦德承诺带她去纽约做鼻子手术并为她找工作；结尾两人履行奴隶时间约定成为恋人"
+        },
+        {
+          "with": "quarrel",
+          "type": "战友与向导",
+          "change": "5年前寻宝任务的老搭档重逢，邦德完全信任其航海与丛林本领并为其买5000英镑保险；夸雷尔被巨龙烧死后邦德深感自责，视其为自己害死的朋友"
+        },
+        {
+          "with": "m",
+          "type": "上下级",
+          "change": "因上一案失误受M冷遇与惩罚性派遣，邦德一度痛恨M；结尾邦德发密电请病假并讽刺配枪无用，关系仍紧张"
+        },
+        {
+          "with": "dr-no",
+          "type": "敌对",
+          "change": "从素未谋面的嫌疑人到面对面谈判的死敌；邦德以鸟粪活埋诺博士报仇"
+        },
+        {
+          "with": "strangways",
+          "type": "朋友与前任",
+          "change": "5年前共事的朋友；邦德不相信其私奔，坚持调查其失踪真相，最终证实其被诺博士谋杀"
+        }
+      ]
+    },
+    {
+      "id": "honeychile-rider",
+      "name_en": "Honeychile Rider",
+      "name_zh": "哈妮·莱德",
+      "aliases": ["Honey", "Mrs John Bryce"],
+      "role": "主要人物",
+      "appearance": "浅金色长发，深蓝色大眼睛，皮肤为均匀的浅咖啡牛奶色，身材健美如男孩般结实；鼻梁被打断歪斜，是她最大的羞耻；右髋佩猎刀的宽皮带是其标志装束",
+      "age_clues": "约20岁：保姆在她15岁时去世，此后独居5年",
+      "personality": "独立、倔强、戒备心强，熟悉动植物而不谙人情世故；敢爱敢恨，行事果断，曾亲手毒死强暴者",
+      "habits": "独居地窖，与蛇、蜘蛛、猫鼬等动物为伴；采集贝壳卖给迈阿密商人；游泳与潜水技术高超",
+      "background": "牙买加古老家族莱德家后人，祖先因签署查理一世死刑令获克伦威尔赐地；5岁时父母死于博德泽特大宅火灾，由黑人保姆抚养长大，住在废墟地窖；靠卖贝壳攒钱，目标是攒500英镑去纽约整鼻，之后想当应召女郎赚钱买回博德泽特",
+      "first_appearance_chapter": "VIII",
+      "last_appearance_chapter": "XX",
+      "relationships": [
+        {
+          "with": "bond",
+          "type": "同伴与恋人",
+          "change": "初遇时以为邦德来偷贝壳并持刀戒备；得知邦德身份后主动追随，多次救邦德于危难；结尾以奴隶时间约定与邦德共度一夜"
+        },
+        {
+          "with": "quarrel",
+          "type": "同伴",
+          "change": "初见时夸雷尔想甩掉她，认为她是累赘；同行后夸雷尔认可她的野外本领，夸雷尔死后她与邦德共同哀悼"
+        },
+        {
+          "with": "mander",
+          "type": "仇人",
+          "change": "曼德强暴她并打断其鼻梁，她以黑寡妇蜘蛛将其毒死，耗时1周"
+        }
+      ]
+    },
+    {
+      "id": "dr-no",
+      "name_en": "Dr Julius No",
+      "name_zh": "诺博士",
+      "aliases": ["Julius No", "Doctor No"],
+      "role": "主要人物",
+      "appearance": "身高约6英尺6英寸，至少比邦德高6英寸，极瘦、秃头、皮肤深黄近乎透明；无手，双臂末端为钢钳义肢；眼睛为隐形眼镜下的黑色无表情眼窝，敲击会发出金属声；下巴内收，头部几乎不动；穿枪灰色金属光泽和服，行走如滑行",
+      "age_clues": "30岁任帮会司库，帮会战争在20世纪20年代末，故事当年在岛上已14年，推算约60岁上下；原文未明示具体年龄",
+      "personality": "权力狂，自认天才与疯子一体；冷静、傲慢、讲究秩序与隐私；痴迷于疼痛与人体耐力实验；对自己的计划极度自信",
+      "habits": "以钢钳进食，用对讲机召唤保镖；喜欢向俘虏长篇讲述自己的生平与计划",
+      "background": "德国传教士与中国良家女子之私生子，生于北京，由姨母抚养；上海帮会出身，后赴纽约任Hip Sings帮会司库，盗走100万美元黄金后遭断手与枪击，因心脏长在右侧幸存；靠买卖珍邮转移黄金并改容，在密尔沃基读医，1943年购下蟹礁岛；表面经营鸟粪，实为俄国人干扰美军导弹试验",
+      "first_appearance_chapter": "III",
+      "last_appearance_chapter": "XIX",
+      "relationships": [
+        {
+          "with": "bond",
+          "type": "敌对",
+          "change": "起初只把邦德当作又一个入侵者加以监视与暗杀；见面后视其为值得对话的对手与实验对象，最终被邦德以鸟粪活埋"
+        },
+        {
+          "with": "honeychile-rider",
+          "type": "敌对",
+          "change": "起初只当她是误闯的采贝姑娘，后决定用她做白种女性耐痛实验的对照样本；她挣脱木桩逃生并反过来要去刺杀他"
+        },
+        {
+          "with": "strangways",
+          "type": "敌对",
+          "change": "斯特兰威斯调查鸟粪岛后被其派人谋杀沉尸莫纳水库"
+        }
+      ]
+    },
+    {
+      "id": "m",
+      "name_en": "M",
+      "name_zh": "M",
+      "aliases": [],
+      "role": "主要人物",
+      "appearance": "年长、身形挺拔，灰色锐利眼睛；坐黑色银魅劳斯莱斯，司机为退役水兵史密斯",
+      "age_clues": "未明示；经历过二战护航船队时期",
+      "personality": "冷峻、强硬、不近人情，对下属严厉，视特工为可消耗品；对浪费情报局资源的行为极易发怒",
+      "habits": "抽烟斗，烟斗座由14磅炮弹底座制成；用蓝色丝绸大手帕擦脸",
+      "background": "秘密情报局局长，办公室在摄政公园总部8楼；邦德的上司",
+      "first_appearance_chapter": "II",
+      "last_appearance_chapter": "XX",
+      "relationships": [
+        {
+          "with": "bond",
+          "type": "上下级",
+          "change": "因邦德上一案失误而对其进行惩罚性派遣与换枪，邦德心怀怨恨；结尾邦德仍以密电顶撞，关系未缓和"
+        },
+        {
+          "with": "strangways",
+          "type": "上下级",
+          "change": "斯特兰威斯失踪后M倾向于接受私奔说法，派邦德去只是为给其休假借口并了结人事问题"
+        }
+      ]
+    },
+    {
+      "id": "moneypenny",
+      "name_en": "Miss Moneypenny",
+      "name_zh": "钱彭妮小姐",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "未描写",
+      "age_clues": "未知",
+      "personality": "未描写",
+      "habits": "未描写",
+      "background": "M的秘书，第II章中仅以对讲机应答出现，M命其取信号文件并约见莫洛尼与军械官",
+      "first_appearance_chapter": "II",
+      "last_appearance_chapter": "II",
+      "relationships": []
+    },
+    {
+      "id": "boothroyd",
+      "name_en": "Major Boothroyd",
+      "name_zh": "布思罗伊德少校",
+      "aliases": ["the Armourer", "军械官"],
+      "role": "次要人物",
+      "appearance": "身材矮小瘦削，沙色头发，两眼间距很宽的清澈灰眼睛，从不闪烁",
+      "age_clues": "未知",
+      "personality": "平淡、不动声色、临床式冷静，权威自信",
+      "habits": "未描写",
+      "background": "秘密情报局军械官，M口中世界最伟大的轻武器专家；每种小型自动手枪各试射5000发后推荐瓦尔特PPK；本书中未被称为Q",
+      "first_appearance_chapter": "II",
+      "last_appearance_chapter": "XX",
+      "relationships": [
+        {
+          "with": "bond",
+          "type": "同事",
+          "change": "初见即否定邦德的贝雷塔为女士枪，两人互无好感；邦德结尾在密电中讽刺其配枪对付不了火焰喷射器"
+        }
+      ]
+    },
+    {
+      "id": "molony",
+      "name_en": "Sir James Molony",
+      "name_zh": "詹姆斯·莫洛尼爵士",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "未描写",
+      "age_clues": "未知",
+      "personality": "专业、审慎，敢于直言提醒M不要过度消耗特工",
+      "habits": "未描写",
+      "background": "著名神经科医生，圣玛丽医院任职；治疗邦德约3个月，查明毒物为河豚毒素Tetrodotoxin；引用莫兰关于勇气是资本的论述警告M",
+      "first_appearance_chapter": "II",
+      "last_appearance_chapter": "II",
+      "relationships": []
+    },
+    {
+      "id": "chief-of-staff",
+      "name_en": "Chief of Staff",
+      "name_zh": "参谋长",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "与邦德年纪相仿，工兵上校，两鬓过早灰白",
+      "age_clues": "与邦德相仿",
+      "personality": "幽默、坚韧，是邦德在总部最好的朋友",
+      "habits": "未描写",
+      "background": "M的参谋长，工兵上校；对斯特兰威斯私奔说持怀疑态度，指出定时联络中断无法解释",
+      "first_appearance_chapter": "III",
+      "last_appearance_chapter": "III",
+      "relationships": [
+        {
+          "with": "bond",
+          "type": "朋友",
+          "change": "始终是邦德在总部的密友，本书中无变化"
+        }
+      ]
+    },
+    {
+      "id": "strangways",
+      "name_en": "Commander John Strangways",
+      "name_zh": "约翰·斯特兰威斯",
+      "aliases": ["WXN"],
+      "role": "次要人物",
+      "appearance": "高瘦，右眼戴黑色眼罩，鹰钩鼻，具有驱逐舰舰桥军官式的好相貌",
+      "age_clues": "未知",
+      "personality": "铁一般的作息，高度紧张，恪守规程",
+      "habits": "每晚18时15分离开女王俱乐部桥牌局，18时30分准时与伦敦做无线电联络，从无蓝色呼叫记录",
+      "background": "退役皇家海军中校，加勒比地区负责人，兼任牙买加护照检查官；5年前与邦德共事寻宝案；在任5年；调查蟹礁岛鸟粪案时被诺博士派人谋杀",
+      "first_appearance_chapter": "I",
+      "last_appearance_chapter": "XV",
+      "relationships": [
+        {
+          "with": "trueblood",
+          "type": "上下级",
+          "change": "特鲁布拉德是其二号助手；官方误认两人私奔，实为同日被杀"
+        },
+        {
+          "with": "bond",
+          "type": "朋友",
+          "change": "5年前共事的朋友；邦德为其复仇"
+        }
+      ]
+    },
+    {
+      "id": "trueblood",
+      "name_en": "Mary Trueblood",
+      "name_zh": "玛丽·特鲁布拉德",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "金发，照片上看是美人",
+      "age_clues": "未知",
+      "personality": "未详述；档案记录良好",
+      "habits": "未描写",
+      "background": "前皇家海军女子服务队首席军官，后加入秘密情报局任斯特兰威斯的二号助手，在牙买加工作5年；与斯特兰威斯同日被杀，尸体沉入莫纳水库",
+      "first_appearance_chapter": "I",
+      "last_appearance_chapter": "XV",
+      "relationships": []
+    },
+    {
+      "id": "quarrel",
+      "name_en": "Quarrel",
+      "name_zh": "夸雷尔",
+      "aliases": [],
+      "role": "主要人物",
+      "appearance": "开曼群岛人，棕色皮肤，深灰色眼睛，体格强壮；左颊被哈妮用闪光灯泡砸伤后贴十字胶布",
+      "age_clues": "未知；在家乡有家人",
+      "personality": "忠诚、勇敢、迷信但讲义气，对邦德绝对服从；害怕蟹礁岛与诺博士",
+      "habits": "称邦德为船长；早餐吃咸鱼配阿开木果加朗姆酒；精通航海、捕龟与野外生存",
+      "background": "开曼群岛渔民与捕龟人，5年前协助邦德寻宝案；邦德以每周10英镑雇其协助调查，并为其购买5000英镑人寿保险；在蟹礁岛被诺博士的火焰喷射器活活烧死",
+      "first_appearance_chapter": "IV",
+      "last_appearance_chapter": "XII",
+      "relationships": [
+        {
+          "with": "bond",
+          "type": "战友",
+          "change": "5年前老搭档重逢，夸雷尔明知危险仍跟随邦德登岛，最终为邦德而死"
+        },
+        {
+          "with": "honeychile-rider",
+          "type": "同伴",
+          "change": "初见想甩掉她，后认可其本领并承诺邦德会赔她新独木舟"
+        }
+      ]
+    },
+    {
+      "id": "pleydell-smith",
+      "name_en": "Pleydell-Smith",
+      "name_zh": "普莱德尔-史密斯",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "年轻、蓬乱头发、明亮少年般的眼睛，紧张的烟斗烟民",
+      "age_clues": "年轻",
+      "personality": "热情、健谈、聪明，是邦德在牙买加的盟友",
+      "habits": "不停摆弄烟斗、找火柴、敲烟灰",
+      "background": "牙买加殖民地秘书，曾在秘鲁领事馆任职，熟悉鸟粪贸易；向邦德提供蟹礁岛与鸟粪的全部背景；结尾协助邦德安排清岛与哈妮的工作",
+      "first_appearance_chapter": "V",
+      "last_appearance_chapter": "XX",
+      "relationships": [
+        {
+          "with": "bond",
+          "type": "盟友",
+          "change": "初见即成为邦德的盟友，全程协助调查与收尾"
+        }
+      ]
+    },
+    {
+      "id": "governor",
+      "name_en": "Acting Governor of Jamaica",
+      "name_zh": "牙买加代理总督",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "60岁上下，红色易怒面孔，明亮苦涩的蓝眼睛，穿奶油色塔索尔西装配翼领与斑点领结",
+      "age_clues": "60岁上下，临近退休",
+      "personality": "官僚、怕事，只想平稳退休谋求伦敦董事职位，急于结案",
+      "habits": "未描写",
+      "background": "牙买加代理总督，前任休·富特爵士升任后临时接任；坚持斯特兰威斯私奔说并试图压下此案；结尾被准将与警长说服，批准派纳维克号清岛",
+      "first_appearance_chapter": "V",
+      "last_appearance_chapter": "XX",
+      "relationships": []
+    },
+    {
+      "id": "miss-taro",
+      "name_en": "Miss Taro",
+      "name_zh": "塔罗小姐",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "中国血统，戴角质框眼镜，端庄能干",
+      "age_clues": "未知",
+      "personality": "高效、冷静、无表情",
+      "habits": "未描写",
+      "background": "殖民地秘书的秘书，任职约6个月；实为诺博士安插在总督府的眼线，负责窃取蟹礁岛档案与邦德的档案并传递情报",
+      "first_appearance_chapter": "V",
+      "last_appearance_chapter": "XV",
+      "relationships": [
+        {
+          "with": "dr-no",
+          "type": "上下级",
+          "change": "诺博士的特工，全程未暴露，邦德仅向诺博士点破其身份"
+        }
+      ]
+    },
+    {
+      "id": "annabel-chung",
+      "name_en": "Annabel Chung",
+      "name_zh": "安娜贝尔·钟",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "漂亮的中国姑娘，杏仁形淡色面孔，黑眼睛",
+      "age_clues": "未知",
+      "personality": "坚韧、忠诚，宁断臂也不出卖雇主",
+      "habits": "使用徕卡相机配闪光灯",
+      "background": "《每日拾穗者报》自由摄影记者，实为诺博士的眼线，受命拍摄邦德照片并确认其下榻酒店；被夸雷尔逼问时以闪光灯泡砸伤其面颊",
+      "first_appearance_chapter": "IV",
+      "last_appearance_chapter": "XV",
+      "relationships": [
+        {
+          "with": "dr-no",
+          "type": "上下级",
+          "change": "诺博士的眼线，任务完成后未再出现"
+        }
+      ]
+    },
+    {
+      "id": "pus-feller",
+      "name_en": "Pus-Feller",
+      "name_zh": "脓疮佬",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "极胖的黑人，穿白色晚礼服",
+      "age_clues": "未知",
+      "personality": "热情好客",
+      "habits": "未描写",
+      "background": "金斯顿海滨夜总会欢乐船的老板，夸雷尔的老友，来自开曼群岛；战前在蟹礁岛采鸟蛋时与大章鱼搏斗，肺部破裂一条，遂卖船来金斯顿开夜总会",
+      "first_appearance_chapter": "IV",
+      "last_appearance_chapter": "IV",
+      "relationships": [
+        {
+          "with": "quarrel",
+          "type": "朋友",
+          "change": "老友，无变化"
+        }
+      ]
+    },
+    {
+      "id": "sister-rose",
+      "name_en": "Sister Rose",
+      "name_zh": "罗斯修女",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "中国姑娘，戴角质框眼镜，黑色齐刘海短发",
+      "age_clues": "未知",
+      "personality": "高效、礼貌、职业化",
+      "habits": "未描写",
+      "background": "诺博士山体疗养院的接待员，负责登记俘虏资料；对俘虏的真实处境似乎并不知情",
+      "first_appearance_chapter": "XIII",
+      "last_appearance_chapter": "XIII",
+      "relationships": []
+    },
+    {
+      "id": "sister-lily",
+      "name_en": "Sister Lily",
+      "name_zh": "莉莉修女",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "约45岁，体态丰满和蔼，戴方形夹鼻眼镜",
+      "age_clues": "约45岁",
+      "personality": "过分殷勤、唠叨、母性十足",
+      "habits": "未描写",
+      "background": "诺博士山体疗养院的女管家式人物，负责接待俘虏并安排住宿与晚餐",
+      "first_appearance_chapter": "XIII",
+      "last_appearance_chapter": "XIII",
+      "relationships": []
+    },
+    {
+      "id": "may",
+      "name_en": "May",
+      "name_zh": "阿梅",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "漂亮的中国姑娘，穿紫白花和服",
+      "age_clues": "未知",
+      "personality": "温柔、殷勤",
+      "habits": "未描写",
+      "background": "诺博士山体疗养院的女仆，负责照料邦德与哈妮的套房",
+      "first_appearance_chapter": "XIII",
+      "last_appearance_chapter": "XIV",
+      "relationships": []
+    },
+    {
+      "id": "sam-sam",
+      "name_en": "Sam-sam",
+      "name_zh": "萨姆-萨姆",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "矮壮如摔跤手，中国黑人，宽月亮脸，黑杏仁眼",
+      "age_clues": "未知",
+      "personality": "沉默、冷漠",
+      "habits": "未描写",
+      "background": "诺博士的保镖，精通多种技能，诺博士以对讲机召唤他；晚餐时与另一名保镖共同侍候",
+      "first_appearance_chapter": "XIV",
+      "last_appearance_chapter": "XVI",
+      "relationships": []
+    },
+    {
+      "id": "agent-258",
+      "name_en": "Agent 258",
+      "name_zh": "258号特工",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "未描写",
+      "age_clues": "未知",
+      "personality": "未描写",
+      "habits": "未描写",
+      "background": "第三处特工，斯特兰威斯失踪次日由华盛顿派往牙买加调查1周，未发现反证后返回华盛顿",
+      "first_appearance_chapter": "III",
+      "last_appearance_chapter": "III",
+      "relationships": []
+    },
+    {
+      "id": "bill-templar",
+      "name_en": "Bill Templar",
+      "name_zh": "比尔·坦普勒",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "未描写",
+      "age_clues": "未知",
+      "personality": "未描写",
+      "habits": "未描写",
+      "background": "加勒比防卫军准将，女王俱乐部桥牌局成员之一；结尾另有一位35岁的现代派准将主张立即派兵清岛，两人是否为同一人原文未明示",
+      "first_appearance_chapter": "I",
+      "last_appearance_chapter": "XX",
+      "relationships": []
+    },
+    {
+      "id": "mander",
+      "name_en": "Mander",
+      "name_zh": "曼德",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "未描写",
+      "age_clues": "未知",
+      "personality": "残暴、好色",
+      "habits": "未描写",
+      "background": "博德泽特种植园的白人监工，强暴哈妮并打断其鼻梁，后被哈妮以黑寡妇蜘蛛毒死，死时耗时1周",
+      "first_appearance_chapter": "XI",
+      "last_appearance_chapter": "XI",
+      "relationships": []
+    },
+    {
+      "id": "solitaire",
+      "name_en": "Solitaire",
+      "name_zh": "索利泰尔",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "未描写",
+      "age_clues": "未知",
+      "personality": "未描写",
+      "habits": "未描写",
+      "background": "仅在第VII章邦德回忆中出现一次：5年前寻宝案中邦德从海中救回、浑身是血的姑娘；本书中无实际出场",
+      "first_appearance_chapter": "VII",
+      "last_appearance_chapter": "VII",
+      "relationships": [
+        {
+          "with": "bond",
+          "type": "旧识",
+          "change": "仅为回忆，无变化"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "id": "sis",
+      "name_en": "Secret Intelligence Service",
+      "name_zh": "英国秘密情报局",
+      "role": "邦德所属机构，总部在摄政公园；加勒比站站长斯特兰威斯失踪后派邦德调查；第三处为斯特兰威斯的主管部门",
+      "first_chapter": "I"
+    },
+    {
+      "id": "audubon-society",
+      "name_en": "Audubon Society",
+      "name_zh": "奥杜邦协会",
+      "role": "美国鸟类保护组织，租赁蟹礁岛一角作玫瑰琵鹭保护区，派两名看守员驻岛；因看守员遇害与调查员坠机而不断向美国大使与殖民地部施压，最终把案子推给秘密情报局",
+      "first_chapter": "III"
+    },
+    {
+      "id": "colonial-office",
+      "name_en": "Colonial Office",
+      "name_zh": "英国殖民地部",
+      "role": "将奥杜邦协会的投诉转交给秘密情报局；邦德赴牙买加的安排经其与总督协调",
+      "first_chapter": "III"
+    },
+    {
+      "id": "hip-sings",
+      "name_en": "Hip Sings",
+      "name_zh": "协胜堂",
+      "role": "纽约两大帮会之一，诺博士青年时任其司库并盗走100万美元黄金，后遭其追杀断手",
+      "first_chapter": "XV"
+    },
+    {
+      "id": "on-lee-ongs",
+      "name_en": "On Lee Ongs",
+      "name_zh": "安良堂",
+      "role": "纽约另一大帮会，20世纪20年代末与协胜堂爆发帮会战争，双方数百人被杀",
+      "first_chapter": "XV"
+    },
+    {
+      "id": "universal-export",
+      "name_en": "Universal Export",
+      "name_zh": "环球出口公司",
+      "role": "秘密情报局的掩护公司；邦德护照职业为进出口商人，供职于此；邦德登记时称M为该公司董事总经理",
+      "first_chapter": "IV"
+    },
+    {
+      "id": "royal-zoological-society",
+      "name_en": "Royal Zoological Society",
+      "name_zh": "皇家动物学会",
+      "role": "邦德在蟹礁岛被俘后虚构的供职单位与永久地址，化名约翰·布莱斯自称鸟类学家",
+      "first_chapter": "XIII"
+    },
+    {
+      "id": "jamaica-constabulary",
+      "name_en": "Jamaica Constabulary",
+      "name_zh": "牙买加警察",
+      "role": "调查斯特兰威斯失踪案，采信私奔说；结尾警长主张立即逮捕涉案的牙买加人并打捞莫纳水库",
+      "first_chapter": "III"
+    }
+  ],
+  "locations": [
+    {
+      "id": "crab-key",
+      "name_en": "Crab Key",
+      "name_zh": "蟹礁岛",
+      "country": "牙买加",
+      "fictional": true,
+      "role": "全书核心舞台：英国属地、牙买加附属岛，约50平方英里，东四分之三为沼泽浅湖，西端500英尺鸟粪山；诺博士的鸟粪矿、山体堡垒与导弹干扰站所在地；距牙买加北岸加利纳角约30英里、距古巴约60英里"
+    },
+    {
+      "id": "kingston",
+      "name_en": "Kingston",
+      "name_zh": "金斯顿",
+      "country": "牙买加",
+      "fictional": false,
+      "role": "牙买加首府，斯特兰威斯遇害地与邦德调查的起点；女王俱乐部、总督府、蓝山酒店与欢乐船夜总会均在此"
+    },
+    {
+      "id": "richmond-road",
+      "name_en": "Richmond Road",
+      "name_zh": "里士满路",
+      "country": "牙买加",
+      "fictional": false,
+      "role": "金斯顿最高档住宅区，女王俱乐部所在地，斯特兰威斯在此街头被枪杀"
+    },
+    {
+      "id": "queens-club",
+      "name_en": "Queen's Club",
+      "name_zh": "女王俱乐部",
+      "country": "牙买加",
+      "fictional": false,
+      "role": "金斯顿上流社交俱乐部，斯特兰威斯每晚在此打桥牌并于18时15分离席做无线电联络"
+    },
+    {
+      "id": "kings-house",
+      "name_en": "King's House",
+      "name_zh": "总督府",
+      "country": "牙买加",
+      "fictional": false,
+      "role": "牙买加总督官邸，邦德两次拜会代理总督与殖民地秘书之地；塔罗小姐在此窃取档案"
+    },
+    {
+      "id": "blue-hills-hotel",
+      "name_en": "Blue Hills Hotel",
+      "name_zh": "蓝山酒店",
+      "country": "牙买加",
+      "fictional": false,
+      "role": "邦德在金斯顿的下榻酒店，毒水果篮与蜈蚣暗杀均发生于此"
+    },
+    {
+      "id": "beau-desert",
+      "name_en": "Beau Desert",
+      "name_zh": "博德泽特",
+      "country": "牙买加",
+      "fictional": true,
+      "role": "摩根港附近的种植园与海滩别墅，邦德训练与藏身的基地；哈妮家族旧宅废墟亦在此，她住在地窖中"
+    },
+    {
+      "id": "morgans-harbour",
+      "name_en": "Morgan's Harbour",
+      "name_zh": "摩根港",
+      "country": "牙买加",
+      "fictional": false,
+      "role": "牙买加北岸港口，博德泽特所在地，邦德与哈妮乘独木舟往返蟹礁岛的出发与返回点"
+    },
+    {
+      "id": "mona-reservoir",
+      "name_en": "Mona Reservoir",
+      "name_zh": "莫纳水库",
+      "country": "牙买加",
+      "fictional": false,
+      "role": "斯特兰威斯与特鲁布拉德的沉尸地，棺材沉入50英寻深处；结尾警方派潜水员打捞"
+    },
+    {
+      "id": "london-hq",
+      "name_en": "Secret Service headquarters, Regent's Park",
+      "name_zh": "摄政公园秘密情报局总部",
+      "country": "英国",
+      "fictional": false,
+      "role": "M办公室所在地，第II章换枪与交代任务之地；无线电呼号WWW"
+    },
+    {
+      "id": "turks-island",
+      "name_en": "Turks Island",
+      "name_zh": "特克斯岛",
+      "country": "特克斯和凯科斯群岛",
+      "fictional": false,
+      "role": "美军导弹试验中心，距蟹礁岛约300英里，是诺博士干扰行动的目标"
+    },
+    {
+      "id": "milwaukee",
+      "name_en": "Milwaukee",
+      "name_zh": "密尔沃基",
+      "country": "美国",
+      "fictional": false,
+      "role": "诺博士改容后藏身读医之地，自称当地没有中国人"
+    },
+    {
+      "id": "peking",
+      "name_en": "Peking",
+      "name_zh": "北京",
+      "country": "中国",
+      "fictional": false,
+      "role": "诺博士出生地"
+    },
+    {
+      "id": "shanghai",
+      "name_en": "Shanghai",
+      "name_zh": "上海",
+      "country": "中国",
+      "fictional": false,
+      "role": "诺博士青年时混迹帮会之地"
+    },
+    {
+      "id": "new-york",
+      "name_en": "New York",
+      "name_zh": "纽约",
+      "country": "美国",
+      "fictional": false,
+      "role": "诺博士任帮会司库、盗金、遭断手枪击与改容之地；哈妮梦想去纽约整鼻与当应召女郎"
+    }
+  ],
+  "equipment": [
+    {
+      "id": "walther-ppk",
+      "name_en": "Walther PPK",
+      "name_zh": "瓦尔特PPK手枪",
+      "kind": "武器",
+      "note": "本部起成为邦德配枪：第II章布思罗伊德推荐，7.65毫米口径，在25码试射5000发中综合排名第四，因扳机轻、弹匣延伸底座握感好且弹药易得而胜出；配伯恩斯-马丁三联快拔枪套，邦德携其赴牙买加"
+    },
+    {
+      "id": "beretta-25",
+      "name_en": "Beretta .25 with silencer",
+      "name_zh": "贝雷塔0.25口径消音手枪",
+      "kind": "武器",
+      "note": "邦德用了15年的旧配枪，枪管锯短、缠胶带；上一案中消音器导致卡壳，调查委员会裁定更换；第II章被M收缴留在办公桌上，布思罗伊德称其为女士枪、制止力不足"
+    },
+    {
+      "id": "smith-wesson-centennial",
+      "name_en": "Smith & Wesson Centennial Airweight",
+      "name_zh": "史密斯-韦森Centennial Airweight转轮手枪",
+      "kind": "武器",
+      "note": "第II章布思罗伊德推荐的重型配枪，0.38口径无击锤转轮手枪，全长6.5英寸、重13盎司、弹仓5发，发射0.38史密斯-韦森特种弹；邦德登岛时携带此枪，在红树林近距离击毙一名守卫，后在第XII章被迫交出"
+    },
+    {
+      "id": "berns-martin-holster",
+      "name_en": "Berns Martin Triple-draw holster",
+      "name_zh": "伯恩斯-马丁三联快拔枪套",
+      "kind": "装备",
+      "note": "布思罗伊德指定配瓦尔特PPK的硬鞍皮弹簧枪套，可20英尺外0.6秒出枪命中"
+    },
+    {
+      "id": "remington-carbine",
+      "name_en": "U.S. Army Remington Carbine .300",
+      "name_zh": "雷明顿0.300口径卡宾枪",
+      "kind": "武器",
+      "note": "第X章邦德击毙守卫后由夸雷尔缴获；第XII章夸雷尔以其射击巨龙的装甲驾驶舱无效；第XIX章邦德在车库武器架上又取一支射杀追来的杜宾犬群"
+    },
+    {
+      "id": "spandau",
+      "name_en": "Spandau machine gun",
+      "name_zh": "斯潘道机枪",
+      "kind": "武器",
+      "note": "第IX章诺博士搜捕艇上的三脚架机枪，向海滩与红树林扫射"
+    },
+    {
+      "id": "dragon-marsh-buggy",
+      "name_en": "Marsh buggy disguised as a dragon",
+      "name_zh": "伪装成巨龙的沼泽车",
+      "kind": "载具与武器",
+      "note": "诺博士从佛罗里达购入的沼泽车改装：装甲圆顶驾驶舱、巨大实心橡胶轮、黑金涂装龙头、短翼与尖尾，配火焰喷射器；可穿越沼泽、红树林与浅湖；第XII章烧死夸雷尔，第XIX章被邦德夺取用作逃生工具"
+    },
+    {
+      "id": "radar",
+      "name_en": "Radar",
+      "name_zh": "雷达",
+      "kind": "装备",
+      "note": "诺博士岛上的雷达发现了哈妮独木舟的帆，邦德一行登岛时降帆划桨以避开雷达探测"
+    },
+    {
+      "id": "cipher-machine",
+      "name_en": "Russian cipher machine",
+      "name_zh": "俄国密码机",
+      "kind": "装备",
+      "note": "莫斯科提供给诺博士的密码机与专用频率，诺博士另设一名秘密监听员持有副本监视其余6名技术员"
+    },
+    {
+      "id": "walkie-talkie",
+      "name_en": "Walkie-talkie",
+      "name_zh": "步话机",
+      "kind": "装备",
+      "note": "诺博士藏于和服胸前，用以召唤保镖萨姆-萨姆"
+    },
+    {
+      "id": "steel-pincers",
+      "name_en": "Articulated steel pincers",
+      "name_zh": "钢钳义肢",
+      "kind": "装备",
+      "note": "诺博士失去双手后安装的机械手，金属杆末端为可开合钢钳，藏于黑色丝绸袖中；第XIII章夜里他以钢钳掀开熟睡者的被单检查身体"
+    },
+    {
+      "id": "wire-spear",
+      "name_en": "Wire spear",
+      "name_zh": "铁丝矛",
+      "kind": "武器",
+      "note": "第XVII章邦德拆下带电通风栅的铁丝网制成的约4英尺长矛，一端弯成钩；第XVIII章以其刺瞎巨型鱿鱼的眼睛"
+    }
+  ],
+  "vehicles": [
+    {
+      "name_en": "Super-Constellation",
+      "name_zh": "超级星座号客机",
+      "note": "邦德乘其由伦敦经古巴上空抵达金斯顿；68吨级，单条南北跑道降落"
+    },
+    {
+      "name_en": "Black Sunbeam Alpine",
+      "name_zh": "黑色太阳光Alpine跑车",
+      "note": "斯特兰威斯的座车，邦德抵达后被误配此车，暴露身份；替身驾驶此车前往蒙特哥贝途中被卡车撞下深谷，两名替身死亡"
+    },
+    {
+      "name_en": "Austin A30",
+      "name_zh": "奥斯汀A30小轿车",
+      "note": "夸雷尔租来的替换车，邦德驾其由金斯顿经Junction Road前往北岸"
+    },
+    {
+      "name_en": "Hillman Minx",
+      "name_zh": "希尔曼Minx轿车",
+      "note": "第XX章邦德在总督府会议后驾驶离开的汽车"
+    },
+    {
+      "name_en": "Dugout canoe",
+      "name_zh": "独木舟",
+      "note": "整根巨棉木挖成的独木舟，邦德与夸雷尔乘其夜渡约30英里登岛；哈妮亦独自乘轻型独木舟往返蟹礁岛采贝，其舟在第IX章被机枪打断"
+    },
+    {
+      "name_en": "Converted MTB launch",
+      "name_zh": "改装鱼雷艇搜捕船",
+      "note": "诺博士的双柴油机搜捕艇，配斯潘道机枪与扩音器，第IX章沿海岸搜捕邦德一行"
+    },
+    {
+      "name_en": "Grumman Amphibian",
+      "name_zh": "格鲁曼水陆两栖飞机",
+      "note": "诺博士用于向岛上运送补给的飞机，停于岛上简易机场"
+    },
+    {
+      "name_en": "Beechcraft",
+      "name_zh": "比奇飞机",
+      "note": "奥杜邦协会两名调查员由迈阿密乘此机赴岛，降落时坠毁，3人死亡；诺博士称系其安排卡车失控所致"
+    },
+    {
+      "name_en": "SS Blanche",
+      "name_zh": "布兰奇号油轮",
+      "note": "安特卫普籍约1万吨老油轮，每月来岛装运鸟粪；第XIX章邦德在其装货时杀死诺博士"
+    },
+    {
+      "name_en": "HMS Narvik",
+      "name_zh": "纳维克号军舰",
+      "country": "英国",
+      "note": "第XX章停泊金斯顿的英国军舰，总督批准派其运载一排士兵清剿蟹礁岛"
+    },
+    {
+      "name_en": "Motor hearse",
+      "name_zh": "灵车",
+      "note": "第I章杀手用其运走斯特兰威斯的尸体，车顶四角插黑色羽饰"
+    }
+  ],
+  "communications": [
+    {
+      "name": "无线电定时联络",
+      "note": "斯特兰威斯每晚18时30分牙买加时间以呼号WXN在14兆赫联络伦敦WWW，错过则19时蓝色呼叫、19时30分红色呼叫，之后为紧急状态；无线电安全部门可凭发报手法识别操作员身份"
+    },
+    {
+      "name": "电报",
+      "note": "普莱德尔-史密斯发电报告诉邦德每件水果含氰化物足可毒死一匹马；邦德结尾发密电给M请病假"
+    },
+    {
+      "name": "电话",
+      "note": "M与莫洛尼通话；邦德致电总督府请化验水果；诺博士在码头用电话向山体另一侧求援"
+    },
+    {
+      "name": "对讲机",
+      "note": "诺博士藏于和服内的步话机，用以召唤保镖"
+    },
+    {
+      "name": "扩音器",
+      "note": "搜捕艇与沼泽车均用扩音器喊话劝降"
+    },
+    {
+      "name": "密码机",
+      "note": "莫斯科提供给诺博士的密码机与专用频率，用于导弹干扰行动的联络"
+    }
+  ],
+  "mission": {
+    "objective": "调查加勒比站站长斯特兰威斯与其助手特鲁布拉德失踪案，邦德任代理站长；M本意是让刚出院的邦德度假休养，邦德则认定两人系被谋杀并追查凶手",
+    "investigation": "邦德先在伦敦听取案情，锁定斯特兰威斯最后经手的蟹礁岛鸟粪案；抵达牙买加后拜会总督与殖民地秘书了解鸟粪生意与蟹礁岛档案失窃情况，查阅1910年测绘图；遭遇毒水果与蜈蚣暗杀后确认诺博士为凶手；以替身车制造假行踪，训练1周后与夸雷尔夜渡登岛，途中结识哈妮，实地勘查看守员营地与巨龙车辙；被俘后从诺博士口中套出全部真相",
+    "key_clues": [
+      "定时联络中断且无人应答蓝色与红色呼叫，与私奔说矛盾",
+      "斯特兰威斯桥牌局中途离席并订酒，与计划出逃的行为不符",
+      "奥杜邦协会的投诉是斯特兰威斯最后经手的案件，文件于1月20日转交后即无回音",
+      "蟹礁岛档案封皮仍在、内文被取空，最后经手人为斯特兰威斯",
+      "塔罗小姐为中国人且邦德旧档案恰被翻出，总督府内有眼线",
+      "毒水果每颗均有针孔，化验含氰化物足可毒死一匹马",
+      "蜈蚣不会出现在干净的现代住宅床上，必为人故意放入",
+      "替身驾驶的太阳光车遭卡车撞下深谷，两名替身死亡，证明有人要灭口",
+      "巨龙车辙与烧焦的鸟巢证明所谓巨龙是人造机器",
+      "诺博士亲口承认斯特兰威斯夫妇沉尸莫纳水库"
+    ],
+    "outcome": "诺博士被邦德以鸟粪活埋致死；邦德与哈妮夺取沼泽车逃出并乘独木舟返回牙买加；总督批准派纳维克号军舰与一排士兵清剿蟹礁岛，警方打捞莫纳水库并追捕诺博士在牙买加的同伙；邦德与哈妮生还，夸雷尔死亡"
+  },
+  "events": [
+    {
+      "id": "strangways-murder",
+      "chapter": "I",
+      "title": "斯特兰威斯与特鲁布拉德被杀",
+      "cause": "斯特兰威斯调查蟹礁岛鸟粪案并掌握诺博士的秘密，诺博士派3名杀手按其每日作息定时行刺",
+      "effect": "加勒比站人员与档案被毁，尸体沉入莫纳水库；伦敦派邦德调查，官方误认两人私奔"
+    },
+    {
+      "id": "gun-change",
+      "chapter": "II",
+      "title": "换枪",
+      "cause": "邦德上一案中贝雷塔消音手枪卡壳，险些丧命，调查委员会裁定更换配枪",
+      "effect": "M收缴贝雷塔，布思罗伊德改配瓦尔特PPK与史密斯-韦森Centennial Airweight转轮手枪，瓦尔特PPK自此成为邦德配枪"
+    },
+    {
+      "id": "poisoned-fruit",
+      "chapter": "VI",
+      "title": "毒水果暗杀",
+      "cause": "塔罗小姐泄露邦德行踪，诺博士以总督名义送来水果篮",
+      "effect": "邦德以放大镜发现针孔，化验确认每件水果含氰化物足可毒死一匹马，邦德确认诺博士为凶手并决定暂不向M汇报"
+    },
+    {
+      "id": "centipede",
+      "chapter": "VI",
+      "title": "蜈蚣夜袭",
+      "cause": "诺博士派人将约5至6英寸长的剧毒蜈蚣放入邦德床上",
+      "effect": "邦德屏息不动直至蜈蚣爬离才将其打死，未受伤；进一步确认暗杀仍在继续"
+    },
+    {
+      "id": "decoy-crash",
+      "chapter": "VII",
+      "title": "替身车祸",
+      "cause": "邦德安排两名替身驾驶斯特兰威斯的太阳光车前往蒙特哥贝制造假行踪",
+      "effect": "替身车在魔鬼跑道遭失控卡车撞下深谷，本·吉本斯与约西亚·史密斯死亡，证明诺博士在追杀邦德"
+    },
+    {
+      "id": "landing-crab-key",
+      "chapter": "VII",
+      "title": "夜渡登岛",
+      "cause": "邦德要实地勘查蟹礁岛看守员营地，确认诺博士的罪行",
+      "effect": "邦德与夸雷尔乘独木舟横渡约30英里，在南海岸河口黑沙滩登陆；次日遇见哈妮"
+    },
+    {
+      "id": "meeting-honey",
+      "chapter": "VIII",
+      "title": "遇见哈妮",
+      "cause": "哈妮独自乘独木舟来岛采集优雅维纳斯蛤贝壳",
+      "effect": "哈妮成为邦德的向导与同伴，提供巨龙目击证词；她的独木舟帆被雷达发现，招来搜捕"
+    },
+    {
+      "id": "launch-strafing",
+      "chapter": "IX",
+      "title": "搜捕艇扫射",
+      "cause": "诺博士的雷达发现哈妮独木舟，派搜捕艇沿海岸搜索",
+      "effect": "哈妮独木舟被机枪打断，三人被迫带哈妮同行并沿河向上游躲避搜捕队与杜宾犬群"
+    },
+    {
+      "id": "guard-killed",
+      "chapter": "X",
+      "title": "邦德击毙守卫",
+      "cause": "一名守卫悄悄折返搜查红树林，靴子踩到潜伏的邦德",
+      "effect": "邦德近距离开枪击毙守卫，缴获雷明顿卡宾枪；守卫失踪使搜捕方次日必会再派人，时间紧迫"
+    },
+    {
+      "id": "quarrel-death",
+      "chapter": "XII",
+      "title": "夸雷尔之死",
+      "cause": "诺博士派伪装成巨龙的装甲沼泽车携火焰喷射器夜袭湖边营地",
+      "effect": "夸雷尔被火焰喷射器活活烧死，邦德与哈妮被迫投降被俘，邦德失去配枪"
+    },
+    {
+      "id": "capture",
+      "chapter": "XIII",
+      "title": "被俘与疗养院囚禁",
+      "cause": "邦德与哈妮无力对抗装甲沼泽车，投降后被押入山体内部",
+      "effect": "两人被当作病人登记入住豪华套房，早餐中被下药昏睡，诺博士夜里检查两人身体；邦德化名约翰·布莱斯"
+    },
+    {
+      "id": "dr-no-confession",
+      "chapter": "XV",
+      "title": "诺博士自述生平与罪行",
+      "cause": "诺博士确信邦德与哈妮必死，首次向外人讲述自己的生平与计划",
+      "effect": "邦德获知诺博士全部背景、斯特兰威斯沉尸莫纳水库的真相与导弹干扰行动的存在"
+    },
+    {
+      "id": "death-sentence",
+      "chapter": "XVI",
+      "title": "死刑宣判",
+      "cause": "诺博士拒绝邦德的交易，决定以两人做人体耐力实验",
+      "effect": "哈妮被定为螃蟹啃食之刑，邦德被定为死亡障碍赛；邦德偷藏餐刀与打火机为逃生做准备"
+    },
+    {
+      "id": "obstacle-course",
+      "chapter": "XVII",
+      "title": "死亡障碍赛",
+      "cause": "诺博士要以邦德为首个实验对象，记录人体耐力数据",
+      "effect": "邦德闯过带电栅网、50码垂直攀爬、高温管道与狼蛛笼，从高空坠入海湾"
+    },
+    {
+      "id": "squid-fight",
+      "chapter": "XVIII",
+      "title": "巨型鱿鱼之战",
+      "cause": "海湾铁丝网内饲养巨型鱿鱼作为障碍赛最后一关",
+      "effect": "邦德割断鱿鱼触手并以铁丝矛刺瞎其眼，鱿鱼喷墨遁走，邦德逃上岸抵达码头"
+    },
+    {
+      "id": "dr-no-death",
+      "chapter": "XIX",
+      "title": "诺博士之死",
+      "cause": "邦德夺取起重机，将传送带鸟粪出口对准正在监装的诺博士",
+      "effect": "诺博士被每分钟数吨的鸟粪活埋致死；邦德与逃生的哈妮会合，枪杀3名守卫后夺取沼泽车逃离"
+    },
+    {
+      "id": "escape-and-report",
+      "chapter": "XX",
+      "title": "逃回牙买加与清岛",
+      "cause": "诺博士已死，岛上守卫群龙无首，邦德与哈妮乘独木舟夜航返回摩根港",
+      "effect": "总督批准派纳维克号与一排士兵清剿蟹礁岛，警方打捞莫纳水库并追捕诺博士同伙；邦德请病假，哈妮获安排赴纽约整鼻"
+    }
+  ],
+  "facts": [
+    {
+      "source_novel": "dr-no",
+      "chapter": "I",
+      "entity": "strangways",
+      "fact": "约翰·斯特兰威斯为退役皇家海军中校，加勒比地区负责人，兼任牙买加护照检查官，每晚18时30分与伦敦做无线电定时联络，呼号WXN",
+      "timeline_position": "1958年2月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "Regional Control Officer for the Caribbean",
+      "quote_source": "第I章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "I",
+      "entity": "strangways",
+      "fact": "斯特兰威斯在金斯顿里士满路女王俱乐部外被3名伪装成盲乞丐的杀手以带消音器的左轮射杀，尸体装入棺材运走",
+      "timeline_position": "1958年2月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "Three revolvers, ungainly with their sausage-shaped silencers",
+      "quote_source": "第I章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "I",
+      "entity": "trueblood",
+      "fact": "玛丽·特鲁布拉德为前皇家海军女子服务队首席军官，任斯特兰威斯的二号助手，在电台前被杀手连开3枪击中左胸，住所被纵火焚毁",
+      "timeline_position": "1958年2月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "shot her three times in and around the left breast",
+      "quote_source": "第I章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "I",
+      "entity": "strangways",
+      "fact": "斯特兰威斯与特鲁布拉德的尸体被装入同一棺材，沉入莫纳水库50英寻深处，整个灭口行动仅用45分钟",
+      "timeline_position": "1958年2月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "the weighted coffin would slip down into its fifty-fathom grave",
+      "quote_source": "第I章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "II",
+      "entity": "bond",
+      "fact": "邦德上一案遭俄国女特工下河豚毒，毒物为Tetrodotoxin，住院约3个月后由莫洛尼确认痊愈，毒发时由一名法国人以人工呼吸抢救",
+      "timeline_position": "1958年3月1日之前",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "The drug was fugu poison",
+      "quote_source": "第II章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "II",
+      "entity": "bond",
+      "fact": "M以调查委员会结论为由收缴邦德用了15年的贝雷塔0.25口径消音手枪，原因是上一案中枪支卡壳",
+      "timeline_position": "1958年3月1日",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "Your gun got stuck, if I recall. This Beretta of yours",
+      "quote_source": "第II章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "II",
+      "entity": "boothroyd",
+      "fact": "军械官布思罗伊德少校称贝雷塔0.25口径为女士枪，制止力不足，消音器笨重易挂住衣服",
+      "timeline_position": "1958年3月1日",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "Ladies' gun, sir",
+      "quote_source": "第II章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "II",
+      "entity": "bond",
+      "fact": "邦德改配瓦尔特PPK7.65毫米手枪，布思罗伊德在25码各试射5000发后推荐此枪，配伯恩斯-马丁三联快拔枪套",
+      "timeline_position": "1958年3月1日",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "I'd choose the Walther PPK 7.65 mm",
+      "quote_source": "第II章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "II",
+      "entity": "bond",
+      "fact": "邦德同时获配史密斯-韦森Centennial Airweight0.38口径无击锤转轮手枪，全长6.5英寸、重13盎司、弹仓5发",
+      "timeline_position": "1958年3月1日",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "Smith & Wesson Centennial Airweight. Revolver. .38 calibre",
+      "quote_source": "第II章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "II",
+      "entity": "molony",
+      "fact": "莫洛尼爵士引用莫兰的论述警告M，勇气是靠消耗而减少的资本，邦德自战前起消耗甚巨，尚未透支但已接近极限",
+      "timeline_position": "1958年3月1日",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "courage is a capital sum reduced by expenditure",
+      "quote_source": "第II章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "III",
+      "entity": "strangways",
+      "fact": "斯特兰威斯与特鲁布拉德失踪约3周，官方与总督均认定两人私奔，258号特工调查1周未发现反证",
+      "timeline_position": "1958年3月1日",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "They've gone, vanished into thin air",
+      "quote_source": "第III章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "III",
+      "entity": "dr-no",
+      "fact": "诺博士为德中混血，全名朱利叶斯·诺，1943年以1万英镑从牙买加政府购下蟹礁岛，条件是不打扰鸟类保护区的租约",
+      "timeline_position": "1943年",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "bought the place for ten thousand pounds",
+      "quote_source": "第III章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "III",
+      "entity": "crab-key",
+      "fact": "蟹礁岛为牙买加附属的英国领土，战前无人居住约50年，奥杜邦协会租赁一角作玫瑰琵鹭保护区，派两名看守员驻岛，岛上琵鹭最多时约5000只",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "there were about five thousand of them on the island",
+      "quote_source": "第III章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "III",
+      "entity": "dr-no",
+      "fact": "圣诞节前一名奥杜邦看守员全身烧伤逃回牙买加北岸后死亡，称营地遭喷火巨龙袭击，另一名看守员被杀；随后两名奥杜邦调查员乘比奇飞机在岛上坠毁身亡",
+      "timeline_position": "1957年12月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "attacked by a dragon with flames coming out of its mouth",
+      "quote_source": "第III章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "III",
+      "entity": "bond",
+      "fact": "邦德获命赴牙买加任代理站长，1周内出发，名义上是休假式调查，实为追查斯特兰威斯失踪真相",
+      "timeline_position": "1958年3月1日",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "007 can be acting Head of Station in the meantime",
+      "quote_source": "第III章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "IV",
+      "entity": "quarrel",
+      "fact": "夸雷尔为开曼群岛渔民与捕龟人，5年前协助邦德寻宝案，邦德以每周10英镑雇其协助调查",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "Quarrel had been with Bond on his last adventure in Jamaica",
+      "quote_source": "第IV章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "IV",
+      "entity": "annabel-chung",
+      "fact": "安娜贝尔·钟自称《每日拾穗者报》自由摄影记者，实为诺博士眼线，在机场与欢乐船夜总会两次为邦德拍照以确认其身份与住处",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "Annabel Chung. One of their freelance girls",
+      "quote_source": "第IV章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "IV",
+      "entity": "bond",
+      "fact": "邦德护照职业为进出口商人，供职于环球出口公司，入境时称此行是度假，下榻蓝山酒店",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "Bond's passport described him as 'Import and Export Merchant'",
+      "quote_source": "第IV章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "V",
+      "entity": "pleydell-smith",
+      "fact": "普莱德尔-史密斯称蟹礁岛鸟粪每吨售价约50美元，近年跌至38至40美元到岸价安特卫普，岛上约10万只鸬鹚价值约150万美元，设备另值约100万美元",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "about thirty-eight to forty dollars a ton c.i.f. Antwerp",
+      "quote_source": "第V章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "V",
+      "entity": "miss-taro",
+      "fact": "蟹礁岛档案封皮仍在、内文已被取空，最后经手人为斯特兰威斯；殖民地秘书塔罗小姐为中国人，是诺博士安插在总督府的眼线",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "The covers are there but there's nothing inside them",
+      "quote_source": "第V章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "VI",
+      "entity": "crab-key",
+      "fact": "1910年测绘图显示蟹礁岛约50平方英里，东四分之三为沼泽浅湖，西端500英尺高山，鸟粪矿最后开采于1880年，距加利纳角约30英里、距古巴约60英里",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "about thirty miles due north of Galina Point",
+      "quote_source": "第VI章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "VI",
+      "entity": "bond",
+      "fact": "邦德发现总督府送来的水果篮中每颗水果均有针孔，化验确认每件水果含氰化物足可毒死一匹马",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "EACH OBJECT CONTAINED ENOUGH CYANIDE TO KILL A HORSE",
+      "quote_source": "第VII章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "VI",
+      "entity": "bond",
+      "fact": "一条约5至6英寸长的蜈蚣半夜爬上邦德身体，邦德屏息不动直至其爬离才将其打死；夸雷尔称蜈蚣绝不会出现在干净的现代住宅中，必为人故意放入",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "Not hunless dem put dere a purpose",
+      "quote_source": "第VII章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "VII",
+      "entity": "bond",
+      "fact": "邦德安排两名替身驾驶太阳光车前往蒙特哥贝，替身车在魔鬼跑道遭失控卡车撞下深谷，本·吉本斯与约西亚·史密斯死亡",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "A runaway lorry, whose driver was being traced, had crashed into the Sunbeam",
+      "quote_source": "第VII章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "VII",
+      "entity": "quarrel",
+      "fact": "邦德为夸雷尔购买5000英镑人寿保险，夸雷尔登岛前已预感自己会死",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "We'll make it big, say five thousand pounds",
+      "quote_source": "第VII章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "VII",
+      "entity": "bond",
+      "fact": "邦德与夸雷尔乘独木舟夜渡约30英里海面，黎明前在蟹礁岛南海岸河口附近的黑沙滩登陆并藏好独木舟",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "Seven, eight hours, cap'n",
+      "quote_source": "第VII章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "VIII",
+      "entity": "honeychile-rider",
+      "fact": "哈妮·莱德采集的紫粉色贝壳名为优雅维纳斯蛤，完美标本在迈阿密每枚可卖5美元，她来岛约1年，约1个月前发现贝壳栖息地",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "You can get five dollars for a perfect specimen. In Miami",
+      "quote_source": "第VIII章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "VIII",
+      "entity": "honeychile-rider",
+      "fact": "哈妮在圣诞节前夜于看守员营地附近亲眼看见巨龙：黑金色、双眼发光、长鼻、短翼、尖尾，口中喷火烧毁鸟巢与树林",
+      "timeline_position": "1957年12月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "It had two great glaring eyes and a long snout",
+      "quote_source": "第VIII章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "IX",
+      "entity": "dr-no",
+      "fact": "诺博士的搜捕艇为改装鱼雷艇，配斯潘道机枪与扩音器，发现哈妮独木舟后向海滩扫射，将其独木舟打成两截",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "Converted MTB, British Government surplus?",
+      "quote_source": "第IX章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "IX",
+      "entity": "bond",
+      "fact": "三人以竹管呼吸潜水躲过带杜宾犬的搜捕队，搜捕队由两名持枪的中非混血守卫带领，犬群据称有20只以上",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "Dose is police-houns—Pinschers dey's called",
+      "quote_source": "第IX章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "X",
+      "entity": "bond",
+      "fact": "邦德在红树林中近距离开枪击毙一名折返搜查的守卫，缴获一支美国雷明顿0.300口径卡宾枪",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "It was a U.S. Army Remington Carbine, .300",
+      "quote_source": "第X章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "X",
+      "entity": "dr-no",
+      "fact": "巨龙留下的车辙为两道约2英尺宽的平滑轮印加一道约3英寸宽的中央轮印，呈直线穿越沼泽并没入湖水，沿途灌木被烧焦",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "at least two feet across",
+      "quote_source": "第X章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "X",
+      "entity": "bond",
+      "fact": "看守员营地废墟中留有未开封的罐头、睡袋与一个装有5美元与3牙买加镑的小钱包，证明看守员仓促逃离或被杀",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "five one-dollar notes, three Jamaica pounds and some silver",
+      "quote_source": "第X章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XI",
+      "entity": "honeychile-rider",
+      "fact": "哈妮5岁时父母死于博德泽特大宅火灾，此后与黑人保姆住在废墟地窖，15岁保姆去世后独居5年",
+      "timeline_position": "约1938年至1958年",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "I've lived there since I was five",
+      "quote_source": "第XI章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XI",
+      "entity": "honeychile-rider",
+      "fact": "哈妮遭白人监工曼德强暴并打断鼻梁，后以黑寡妇蜘蛛毒死对方，曼德耗时1周才死",
+      "timeline_position": "约1953年",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "He took a week to die",
+      "quote_source": "第XI章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XI",
+      "entity": "honeychile-rider",
+      "fact": "哈妮靠读旧百科全书自学至T字母开头，卖贝壳已攒15英镑，目标是攒500英镑去纽约做鼻子整形手术",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "I've got about fifteen pounds under a stone in my cellar",
+      "quote_source": "第XI章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XII",
+      "entity": "dr-no",
+      "fact": "所谓巨龙是诺博士从佛罗里达购入的沼泽车改装而成：装甲圆顶驾驶舱、巨大实心橡胶轮、黑金涂装，配火焰喷射器与柴油发动机",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "Some sort of tractor affair dressed up to frighten",
+      "quote_source": "第XII章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XII",
+      "entity": "quarrel",
+      "fact": "夸雷尔被沼泽车的火焰喷射器活活烧死，邦德亲眼确认其遗体并以沙覆盖其眼部",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "one unearthly scream, immediately choked",
+      "quote_source": "第XII章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XIII",
+      "entity": "bond",
+      "fact": "被俘后邦德化名鸟类学家约翰·布莱斯，自称奥杜邦协会代表，妻子为哈妮，以M的真名作紧急联系人并称其为叔叔",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "Bryce, John Bryce",
+      "quote_source": "第XIII章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XIII",
+      "entity": "dr-no",
+      "fact": "诺博士身高约6英尺6英寸，夜里10时潜入套房，以胸前电筒与钢钳手检查熟睡的邦德与哈妮的身体",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "He must have been six feet six tall",
+      "quote_source": "第XIII章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XIV",
+      "entity": "dr-no",
+      "fact": "诺博士书房一整面墙为深入海底20英尺的装甲玻璃水族窗，造价100万美元，可观赏鲨鱼、鳐鱼与葡萄牙僧帽水母",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "One million dollars",
+      "quote_source": "第XIV章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XIV",
+      "entity": "dr-no",
+      "fact": "诺博士双手已失，以钢钳义肢代替，眼睛为隐形眼镜下的黑色眼窝，自称能看穿谎言；邦德点破其所谓钢眼只是隐形眼镜",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "I have no hands",
+      "quote_source": "第XIV章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XIV",
+      "entity": "bond",
+      "fact": "邦德在诺博士书房点了一杯伏特加干马提尼，要求摇匀不搅拌，配柠檬皮，首选俄国或波兰伏特加",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "Shaken-and not stirred, please",
+      "quote_source": "第XIV章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XV",
+      "entity": "dr-no",
+      "fact": "诺博士为德国传教士与中国良家女子之私生子，生于北京，由姨母抚养长大，后在上海混迹帮会",
+      "timeline_position": "约20世纪初",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "I was born in Pekin, but on what is known as 'the wrong side of the blanket'",
+      "quote_source": "第XV章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XV",
+      "entity": "dr-no",
+      "fact": "诺博士30岁任纽约Hip Sings帮会司库，20世纪20年代末帮会战争中盗走100万美元黄金，遭酷刑、断手与枪击心脏，因心脏长在右侧而幸存",
+      "timeline_position": "20世纪20年代末",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "I am the one man in a million who has his heart on the right side",
+      "quote_source": "第XV章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XV",
+      "entity": "dr-no",
+      "fact": "诺博士靠买卖珍邮转移黄金并改容：拔除头发、削薄鼻子、加宽嘴唇、穿增高鞋、脊柱牵引增高，在密尔沃基读医，改名朱利叶斯·诺",
+      "timeline_position": "约1930年代",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "I changed my name to Julius No",
+      "quote_source": "第XV章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XV",
+      "entity": "dr-no",
+      "fact": "诺博士亲口承认斯特兰威斯与特鲁布拉德沉尸莫纳水库，系其派3名手下按其作息定时谋杀",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "They are at the bottom of the Mona Reservoir",
+      "quote_source": "第XV章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XV",
+      "entity": "dr-no",
+      "fact": "诺博士用沼泽车烧毁看守员营地，并安排卡车在比奇飞机降落时失控撞毁飞机，造成3人死亡以阻止调查",
+      "timeline_position": "1957年12月至1958年1月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "An accident is arranged. A lorry goes out of control",
+      "quote_source": "第XV章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XVI",
+      "entity": "dr-no",
+      "fact": "诺博士为俄国人干扰特克斯岛美军导弹试验，岛上有价值100万美元的设备与6名莫斯科培训的技术员，可干扰斯纳克、祖尼、斗牛士、佩特雷尔、摄政王、波马克等多型导弹的制导信号",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "the vast majority of those failures have been caused from Crab Key",
+      "quote_source": "第XVI章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XVI",
+      "entity": "dr-no",
+      "fact": "诺博士下一步计划捕获美军导弹样机卖给俄国，开价1000万至2000万美元，并威胁以失控导弹袭击哈瓦那、金斯顿与迈阿密",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "Shall we say ten million dollars for the whole operation?",
+      "quote_source": "第XVI章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XVI",
+      "entity": "honeychile-rider",
+      "fact": "诺博士判处哈妮裸体绑在黑蟹迁徙路上任螃蟹啃食，称此前一名黑人女子以此方式坚持3小时后死于恐惧，他想要一名白种女子作对照",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "She lasted three hours. She died of terror",
+      "quote_source": "第XVI章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XVI",
+      "entity": "bond",
+      "fact": "邦德晚餐时偷藏一把餐刀与一只打火机，餐刀后被磨出尖头，打火机在障碍赛中多次用于照明与驱赶狼蛛",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "his left hand flicked the knife into the deep sleeve of his kimono",
+      "quote_source": "第XVI章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XVII",
+      "entity": "bond",
+      "fact": "邦德闯过死亡障碍赛：带电通风栅、约50码垂直金属管攀爬、高温管道烫伤、约20只巨型狼蛛笼，最后从斜管坠入海湾",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "They were spiders, giant tarantulas, three or four inches long",
+      "quote_source": "第XVII章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XVIII",
+      "entity": "bond",
+      "fact": "邦德在铁丝网围住的海湾中与巨型鱿鱼搏斗，割断其触手并以铁丝矛刺瞎其一只眼睛，鱿鱼喷墨遁走",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "the tip of his spear lancing into the centre of a black eyeball",
+      "quote_source": "第XVIII章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XIX",
+      "entity": "dr-no",
+      "fact": "诺博士在码头监装布兰奇号油轮时被邦德夺取起重机操控传送带，以每分钟数吨的鸟粪活埋致死，鸟粪堆高达20英尺",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "Now the yellow mountain was twenty feet high",
+      "quote_source": "第XIX章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XIX",
+      "entity": "honeychile-rider",
+      "fact": "哈妮并未被螃蟹吃掉：黑蟹不吃活人肉且她全身无伤口，她在蟹群过后挣脱木桩，潜入机修间换上工装，正要沿传送带隧道去刺杀诺博士时与邦德相遇",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "those crabs wouldn't think of even nipping someone",
+      "quote_source": "第XIX章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XIX",
+      "entity": "bond",
+      "fact": "邦德在传送带隧道内枪杀3名持枪守卫，夺取沼泽车逃出，在湖中开枪射杀追来的杜宾犬群",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "Bond shot the rear man in the head",
+      "quote_source": "第XIX章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XX",
+      "entity": "bond",
+      "fact": "邦德与哈妮乘独木舟夜航返回摩根港，总督批准派纳维克号军舰与一排士兵清剿蟹礁岛，警方打捞莫纳水库并追捕诺博士在牙买加的同伙",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "I can provide a platoon ready to embark by this evening",
+      "quote_source": "第XX章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "XX",
+      "entity": "bond",
+      "fact": "邦德发密电给M请病假，结尾讽刺史密斯-韦森转轮枪对付不了火焰喷射器；他承诺带哈妮去纽约做鼻子手术并为她在牙买加学院谋职",
+      "timeline_position": "1958年3月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "KINDLY INFORM ARMOURER SMITH AND WESSON INEFFECTIVE AGAINST FLAME-THROWER",
+      "quote_source": "第XX章"
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "II",
+      "entity": "bond",
+      "fact": "全文以grep检索SPECTRE一词出现0次，原著中诺博士与任何名为幽灵党的组织无关，其导弹干扰行动的合作方为俄国人",
+      "timeline_position": "1958年",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": null,
+      "quote_source": null
+    },
+    {
+      "source_novel": "dr-no",
+      "chapter": "II",
+      "entity": "boothroyd",
+      "fact": "全文检索未见军械官被称为Q，本书中他始终被称为军械官或布思罗伊德少校；费利克斯·莱特全文出现0次，未在本部登场",
+      "timeline_position": "1958年",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": null,
+      "quote_source": null
+    }
+  ],
+  "canon_vs_inference": [
+    {
+      "topic": "故事年份",
+      "status": "inference",
+      "note": "原文只写3月1日等月份日期，未明示年份；本书事实条目的1958年按出版年份标注，事件月份与相对顺序均为原文canon"
+    },
+    {
+      "topic": "诺博士购岛年份",
+      "status": "canon",
+      "note": "第III章殖民地部档案称1943年以1万英镑购岛；第XV章诺博士自述称1942年已开始雇工并称在岛上14年，两处表述不一致，原文如此，未做调和"
+    },
+    {
+      "topic": "哈妮年龄约20岁",
+      "status": "inference",
+      "note": "原文只写保姆在她15岁时去世、此后独居5年，推算约20岁；原文未直接给出年龄"
+    },
+    {
+      "topic": "诺博士约60岁",
+      "status": "inference",
+      "note": "原文只写其30岁任帮会司库、帮会战争在20世纪20年代末、在岛上14年，推算约60岁上下；原文未直接给出年龄"
+    },
+    {
+      "topic": "邦德年龄",
+      "status": "inference",
+      "note": "原文未明示邦德年龄，只写贝雷塔用了15年、战前已服役、参谋长与其年纪相仿；未写具体数字"
+    },
+    {
+      "topic": "看守员遇害年份为1957年12月",
+      "status": "inference",
+      "note": "原文只写圣诞节前，按故事当年3月推算为上一年12月；月份为canon，年份为推算"
+    },
+    {
+      "topic": "结尾准将是否为比尔·坦普勒",
+      "status": "inference",
+      "note": "第I章桥牌局成员为准将比尔·坦普勒，第XX章主张派兵的为准将，未写姓名；原文未明示两人是否为同一人"
+    },
+    {
+      "topic": "SPECTRE一词全文0次",
+      "status": "canon",
+      "note": "以grep对原文全文检索SPECTRE与spectre均为0次；诺博士的合作方为俄国人，与幽灵党无关，电影将其归入幽灵党是改编"
+    },
+    {
+      "topic": "费利克斯·莱特未登场",
+      "status": "canon",
+      "note": "以grep检索leiter与felix均为0次；任务简报中提到的费利克斯·莱特并未在本部出现，不得写入本部人物关系"
+    },
+    {
+      "topic": "邦德所谓已留后手报告",
+      "status": "canon",
+      "note": "第XV章邦德向诺博士声称已留报告、3日内未归即公开，诺博士当场识破为谎言；第XVI章诺博士明确拒绝交易，邦德的说法是虚张声势，非事实"
+    },
+    {
+      "topic": "M的真名",
+      "status": "canon",
+      "note": "第XIII章邦德登记时称以M的真名作紧急联系人，但原文未写出该名字，故本JSON不写M的真名"
+    }
+  ],
+  "adaptation_differences": [
+    "本部未核对电影差异：本次任务只读原文，未逐项对照电影，故不写具体电影差异；仅确认一点：原著全文无SPECTRE一词，诺博士的合作方为俄国人，电影把诺博士归入幽灵党是改编，原著无此设定"
+  ]
+}

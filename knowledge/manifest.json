@@ -1,0 +1,1717 @@
+{
+  "schema_version": "1.0",
+  "generated": "2026-11-06",
+  "project": "007-intelligence-lab",
+  "source_zip": "~/workspace/user/files/007_0_64b6.zip",
+  "source_zip_bytes": 15878935,
+  "source_pages_dir": "source/pages/",
+  "convert": "soffice --headless --convert-to txt:\"Text (encoded):UTF8\"",
+  "total_bytes": 5081257,
+  "total_chars": 5073306,
+  "total_words": 926290,
+  "total_lines": 18849,
+  "novel_count": 14,
+  "integrity": {
+    "encoding": "全部UTF-8带BOM",
+    "replacement_chars_total": 0,
+    "sha256_unique": true,
+    "truncation_found": false,
+    "duplicate_files": false,
+    "note": "14个txt的sha256全部不同，无重复文件；全文无替换字符；各本结尾经核对完整，未见截断"
+  },
+  "known_gaps": [
+    {
+      "book_id": "octopussy",
+      "issue": "本版只含3篇故事，第4篇007 in New York全文0次出现，是否缺篇待换版核对，绝不编造",
+      "status": "待换版核对"
+    }
+  ],
+  "novels": [
+    {
+      "novel_no": 1,
+      "book_id": "casino-royale",
+      "title_en": "Casino Royale",
+      "title_zh": "皇家赌场",
+      "publication_year": 1953,
+      "txt_file": "source/txt/casino-royale.txt",
+      "bytes": 270937,
+      "lines": 1360,
+      "words": 50035,
+      "chars": 270717,
+      "encoding": "UTF-8带BOM",
+      "sha256": "d2bc3b4a3c071f50556caeec69b77a353d01e2b5750fe1df58e40b1c1044fe06",
+      "chapters": 27,
+      "chapter_status": "ok",
+      "status": "ok",
+      "chapter_list": [
+        {
+          "n": "1",
+          "title": "THE SECRET AGENT",
+          "line": 1
+        },
+        {
+          "n": "2",
+          "title": "DOSSIER FOR M",
+          "line": 48
+        },
+        {
+          "n": "3",
+          "title": "NUMBER 007",
+          "line": 118
+        },
+        {
+          "n": "4",
+          "title": "L'ENNEMI ÉCOUTE",
+          "line": 158
+        },
+        {
+          "n": "5",
+          "title": "THE GIRL FROM HEADQUARTERS",
+          "line": 205
+        },
+        {
+          "n": "6",
+          "title": "TWO MEN IN STRAW HATS",
+          "line": 249
+        },
+        {
+          "n": "7",
+          "title": "ROUGE ET NOIR",
+          "line": 281
+        },
+        {
+          "n": "8",
+          "title": "PINK LIGHTS AND CHAMPAGNE",
+          "line": 333
+        },
+        {
+          "n": "9",
+          "title": "THE GAME IS BACCARAT",
+          "line": 383
+        },
+        {
+          "n": "10",
+          "title": "THE HIGH TABLE",
+          "line": 430
+        },
+        {
+          "n": "11",
+          "title": "MOMENT OF TRUTH",
+          "line": 479
+        },
+        {
+          "n": "12",
+          "title": "THE DEADLY TUBE",
+          "line": 537
+        },
+        {
+          "n": "13",
+          "title": "'A WHISPER OF LOVE, A WHISPER OF HATE'",
+          "line": 598
+        },
+        {
+          "n": "14",
+          "title": "'LA VIE EN ROSE?'",
+          "line": 673
+        },
+        {
+          "n": "15",
+          "title": "BLACK HARE AND GREY HOUND",
+          "line": 708
+        },
+        {
+          "n": "16",
+          "title": "THE CRAWLING OF THE SKIN",
+          "line": 740
+        },
+        {
+          "n": "17",
+          "title": "'MY DEAR BOY'",
+          "line": 789
+        },
+        {
+          "n": "18",
+          "title": "A CRAGLIKE FACE",
+          "line": 876
+        },
+        {
+          "n": "19",
+          "title": "THE WHITE TENT",
+          "line": 909
+        },
+        {
+          "n": "20",
+          "title": "THE NATURE OF EVIL",
+          "line": 961
+        },
+        {
+          "n": "21",
+          "title": "VESPER",
+          "line": 1013
+        },
+        {
+          "n": "22",
+          "title": "THE HASTENING SALOON",
+          "line": 1072
+        },
+        {
+          "n": "23",
+          "title": "TIDE OF PASSION",
+          "line": 1121
+        },
+        {
+          "n": "24",
+          "title": "FRUIT DÉFENDU",
+          "line": 1157
+        },
+        {
+          "n": "25",
+          "title": "'BLACKPATCH'",
+          "line": 1209
+        },
+        {
+          "n": "26",
+          "title": "'SLEEP WELL, MY DARLING'",
+          "line": 1259
+        },
+        {
+          "n": "27",
+          "title": "THE BLEEDING HEART",
+          "line": 1309
+        }
+      ]
+    },
+    {
+      "novel_no": 2,
+      "book_id": "live-and-let-die",
+      "title_en": "Live and Let Die",
+      "title_zh": "生死关头",
+      "publication_year": 1954,
+      "txt_file": "source/txt/live-and-let-die.txt",
+      "bytes": 372632,
+      "lines": 1780,
+      "words": 67850,
+      "chars": 372437,
+      "encoding": "UTF-8带BOM",
+      "sha256": "c4a7150b7861e8f1e90a69641c90acf025a103e7bf20417e210f2c5938313531",
+      "chapters": 23,
+      "chapter_status": "ok",
+      "status": "ok",
+      "chapter_list": [
+        {
+          "n": "I",
+          "title": "THE RED CARPET",
+          "line": 1
+        },
+        {
+          "n": "II",
+          "title": "INTERVIEW WITH M",
+          "line": 72
+        },
+        {
+          "n": "III",
+          "title": "A VISITING-CARD",
+          "line": 130
+        },
+        {
+          "n": "IV",
+          "title": "THE BIG SWITCHBOARD",
+          "line": 210
+        },
+        {
+          "n": "V",
+          "title": "NIGGER HEAVEN",
+          "line": 282
+        },
+        {
+          "n": "VI",
+          "title": "TABLE Z",
+          "line": 369
+        },
+        {
+          "n": "VII",
+          "title": "MISTER BIG",
+          "line": 453
+        },
+        {
+          "n": "VIII",
+          "title": "NO SENSAYUMA",
+          "line": 538
+        },
+        {
+          "n": "IX",
+          "title": "TRUE OR FALSE?",
+          "line": 634
+        },
+        {
+          "n": "X",
+          "title": "THE SILVER PHANTOM",
+          "line": 718
+        },
+        {
+          "n": "XI",
+          "title": "ALLUMEUSE",
+          "line": 807
+        },
+        {
+          "n": "XII",
+          "title": "THE EVERGLADES",
+          "line": 915
+        },
+        {
+          "n": "XIII",
+          "title": "DEATH OF A PELICAN",
+          "line": 997
+        },
+        {
+          "n": "XIV",
+          "title": "'HE DISAGREED WITH SOMETHING THAT ATE HIM'",
+          "line": 1085
+        },
+        {
+          "n": "XV",
+          "title": "MIDNIGHT AMONG THE WORMS",
+          "line": 1162
+        },
+        {
+          "n": "XVI",
+          "title": "THE JAMAICA VERSION",
+          "line": 1247
+        },
+        {
+          "n": "XVII",
+          "title": "THE UNDERTAKER'S WIND",
+          "line": 1310
+        },
+        {
+          "n": "XVIII",
+          "title": "BEAU DESERT",
+          "line": 1382
+        },
+        {
+          "n": "XIX",
+          "title": "VALLEY OF SHADOWS",
+          "line": 1433
+        },
+        {
+          "n": "XX",
+          "title": "BLOODY MORGAN'S CAVE",
+          "line": 1475
+        },
+        {
+          "n": "XXI",
+          "title": "'GOOD NIGHT TO YOU BOTH'",
+          "line": 1538
+        },
+        {
+          "n": "XXII",
+          "title": "TERROR BY SEA",
+          "line": 1616
+        },
+        {
+          "n": "XXIII",
+          "title": "PASSIONATE LEAVE",
+          "line": 1742
+        }
+      ]
+    },
+    {
+      "novel_no": 3,
+      "book_id": "moonraker",
+      "title_en": "Moonraker",
+      "title_zh": "月亮牌",
+      "publication_year": 1955,
+      "txt_file": "source/txt/moonraker.txt",
+      "bytes": 401702,
+      "lines": 1587,
+      "words": 73299,
+      "chars": 401334,
+      "encoding": "UTF-8带BOM",
+      "sha256": "d79a517e0614d574f7b196cb22b0c09489795f7212da0beeebd42b845d90e5e9",
+      "chapters": 25,
+      "chapter_status": "ok",
+      "status": "ok",
+      "chapter_list": [
+        {
+          "n": "I",
+          "title": "SECRET PAPER-WORK",
+          "line": 3
+        },
+        {
+          "n": "II",
+          "title": "THE COLUMBITE KING",
+          "line": 75
+        },
+        {
+          "n": "III",
+          "title": "'BELLY STRIPPERS', ETC.",
+          "line": 128
+        },
+        {
+          "n": "IV",
+          "title": "THE 'SHINER'",
+          "line": 182
+        },
+        {
+          "n": "V",
+          "title": "DINNER AT BLADES",
+          "line": 274
+        },
+        {
+          "n": "VI",
+          "title": "CARDS WITH A STRANGER",
+          "line": 336
+        },
+        {
+          "n": "VII",
+          "title": "THE QUICKNESS OF THE HAND",
+          "line": 415
+        },
+        {
+          "n": "VIII",
+          "title": "THE RED TELEPHONE",
+          "line": 497
+        },
+        {
+          "n": "IX",
+          "title": "TAKE IT FROM HERE",
+          "line": 548
+        },
+        {
+          "n": "X",
+          "title": "SPECIAL BRANCH AGENT",
+          "line": 590
+        },
+        {
+          "n": "XI",
+          "title": "POLICEWOMAN BRAND",
+          "line": 651
+        },
+        {
+          "n": "XII",
+          "title": "THE MOONRAKER",
+          "line": 701
+        },
+        {
+          "n": "XIII",
+          "title": "DEAD RECKONING",
+          "line": 744
+        },
+        {
+          "n": "XIV",
+          "title": "ITCHING FINGERS",
+          "line": 790
+        },
+        {
+          "n": "XV",
+          "title": "ROUGH JUSTICE",
+          "line": 834
+        },
+        {
+          "n": "XVI",
+          "title": "A GOLDEN DAY",
+          "line": 882
+        },
+        {
+          "n": "XVII",
+          "title": "WILD SURMISES",
+          "line": 962
+        },
+        {
+          "n": "XVIII",
+          "title": "BENEATH THE FLAT STONE",
+          "line": 1026
+        },
+        {
+          "n": "XIX",
+          "title": "MISSING PERSON",
+          "line": 1111
+        },
+        {
+          "n": "XX",
+          "title": "DRAX'S GAMBIT",
+          "line": 1161
+        },
+        {
+          "n": "XXI",
+          "title": "'THE PERSUADER'",
+          "line": 1223
+        },
+        {
+          "n": "XXII",
+          "title": "PANDORA'S BOX",
+          "line": 1295
+        },
+        {
+          "n": "XXIII",
+          "title": "ZERO MINUS",
+          "line": 1332
+        },
+        {
+          "n": "XXIV",
+          "title": "ZERO",
+          "line": 1436
+        },
+        {
+          "n": "XXV",
+          "title": "ZERO PLUS",
+          "line": 1502
+        }
+      ]
+    },
+    {
+      "novel_no": 4,
+      "book_id": "diamonds-are-forever",
+      "title_en": "Diamonds Are Forever",
+      "title_zh": "金刚钻",
+      "publication_year": 1956,
+      "txt_file": "source/txt/diamonds-are-forever.txt",
+      "bytes": 385280,
+      "lines": 1614,
+      "words": 70742,
+      "chars": 384990,
+      "encoding": "UTF-8带BOM",
+      "sha256": "e43158b8e7bda21c6b8a5715644d798ec13271f1654e1faac27441d6ac961ed3",
+      "chapters": 25,
+      "chapter_status": "ok",
+      "status": "ok",
+      "chapter_list": [
+        {
+          "n": "1",
+          "title": "THE PIPELINE OPENS",
+          "line": 7
+        },
+        {
+          "n": "2",
+          "title": "GEM QUALITY",
+          "line": 61
+        },
+        {
+          "n": "3",
+          "title": "HOT ICE",
+          "line": 115
+        },
+        {
+          "n": "4",
+          "title": "\"WHAT GOES ON AROUND HERE?\"",
+          "line": 170
+        },
+        {
+          "n": "5",
+          "title": "\"FEUILLES MORTES\"",
+          "line": 201
+        },
+        {
+          "n": "6",
+          "title": "IN TRANSIT",
+          "line": 281
+        },
+        {
+          "n": "7",
+          "title": "'SHADY' TREE",
+          "line": 344
+        },
+        {
+          "n": "8",
+          "title": "THE EYE THAT NEVER SLEEPS",
+          "line": 433
+        },
+        {
+          "n": "9",
+          "title": "BITTER CHAMPAGNE",
+          "line": 493
+        },
+        {
+          "n": "10",
+          "title": "STUDILLAC TO SARATOGA",
+          "line": 557
+        },
+        {
+          "n": "11",
+          "title": "SHY SMILE",
+          "line": 609
+        },
+        {
+          "n": "12",
+          "title": "THE PERPETUITIES",
+          "line": 647
+        },
+        {
+          "n": "13",
+          "title": "ACME MUD AND SULPHUR",
+          "line": 682
+        },
+        {
+          "n": "14",
+          "title": "\"WE DON'T LIKE MISTAKES\"",
+          "line": 785
+        },
+        {
+          "n": "15",
+          "title": "RUE DE LA PAY",
+          "line": 860
+        },
+        {
+          "n": "16",
+          "title": "THE TIARA",
+          "line": 905
+        },
+        {
+          "n": "17",
+          "title": "THANKS FOR THE RIDE",
+          "line": 939
+        },
+        {
+          "n": "18",
+          "title": "NIGHT FALLS IN THE PASSION PIT",
+          "line": 1002
+        },
+        {
+          "n": "19",
+          "title": "SPECTREVILLE",
+          "line": 1069
+        },
+        {
+          "n": "20",
+          "title": "FLAMES COMING OUT OF THE TOP",
+          "line": 1153
+        },
+        {
+          "n": "21",
+          "title": "\"NOTHING PROPINKS LIKE PROPINQUITY\"",
+          "line": 1242
+        },
+        {
+          "n": "22",
+          "title": "LOVE AND SAUCE BEARNAISE",
+          "line": 1279
+        },
+        {
+          "n": "23",
+          "title": "THE JOB COMES SECOND",
+          "line": 1360
+        },
+        {
+          "n": "24",
+          "title": "DEATH IS SO PERMANENT",
+          "line": 1424
+        },
+        {
+          "n": "25",
+          "title": "THE PIPELINE CLOSES",
+          "line": 1520
+        }
+      ]
+    },
+    {
+      "novel_no": 5,
+      "book_id": "from-russia-with-love",
+      "title_en": "From Russia with Love",
+      "title_zh": "来自俄罗斯的爱情",
+      "publication_year": 1957,
+      "txt_file": "source/txt/from-russia-with-love.txt",
+      "bytes": 441820,
+      "lines": 2972,
+      "words": 80305,
+      "chars": 441341,
+      "encoding": "UTF-8带BOM",
+      "sha256": "25fee1defe4150da7c1184dec3c0b0446b32bca85cb1cd8e50cef75f0ded96ee",
+      "chapters": 28,
+      "chapter_status": "ok",
+      "status": "ok",
+      "chapter_list": [
+        {
+          "n": "One",
+          "title": "Roseland",
+          "line": 18
+        },
+        {
+          "n": "Two",
+          "title": "The Slaughterer",
+          "line": 78
+        },
+        {
+          "n": "Three",
+          "title": "Post-Graduate Studies",
+          "line": 172
+        },
+        {
+          "n": "Four",
+          "title": "The Moguls of Death",
+          "line": 272
+        },
+        {
+          "n": "Five",
+          "title": "Konspiratsia",
+          "line": 353
+        },
+        {
+          "n": "Six",
+          "title": "Death Warrant",
+          "line": 437
+        },
+        {
+          "n": "Seven",
+          "title": "The Wizard of Ice",
+          "line": 543
+        },
+        {
+          "n": "Eight",
+          "title": "The Beautiful Lure",
+          "line": 637
+        },
+        {
+          "n": "Nine",
+          "title": "A Labour of Love",
+          "line": 711
+        },
+        {
+          "n": "Ten",
+          "title": "The Fuse Burns",
+          "line": 885
+        },
+        {
+          "n": "Eleven",
+          "title": "The Soft Life",
+          "line": 984
+        },
+        {
+          "n": "Twelve",
+          "title": "A Piece of Cake",
+          "line": 1064
+        },
+        {
+          "n": "Thirteen",
+          "title": "`B.E.A. Takes You There ...'",
+          "line": 1175
+        },
+        {
+          "n": "Fourteen",
+          "title": "Darko Kerim",
+          "line": 1249
+        },
+        {
+          "n": "Fifteen",
+          "title": "Background to a Spy",
+          "line": 1343
+        },
+        {
+          "n": "Sixteen",
+          "title": "The Tunnel of Rats",
+          "line": 1437
+        },
+        {
+          "n": "Seventeen",
+          "title": "Killing Time",
+          "line": 1517
+        },
+        {
+          "n": "Eighteen",
+          "title": "Strong Sensations",
+          "line": 1613
+        },
+        {
+          "n": "Nineteen",
+          "title": "The Mouth of Marilyn Monroe",
+          "line": 1729
+        },
+        {
+          "n": "Twenty",
+          "title": "Black on Pink",
+          "line": 1827
+        },
+        {
+          "n": "Twenty-One",
+          "title": "Orient Express",
+          "line": 1969
+        },
+        {
+          "n": "Twenty-Two",
+          "title": "Out of Turkey",
+          "line": 2101
+        },
+        {
+          "n": "Twenty-Three",
+          "title": "Out of Greece",
+          "line": 2179
+        },
+        {
+          "n": "Twenty-Four",
+          "title": "Out of Danger?",
+          "line": 2279
+        },
+        {
+          "n": "Twenty-Five",
+          "title": "A Tie with a Windsor Knot",
+          "line": 2375
+        },
+        {
+          "n": "Twenty-Six",
+          "title": "The Killing Bottle",
+          "line": 2581
+        },
+        {
+          "n": "Twenty-Seven",
+          "title": "Ten Pints of Blood",
+          "line": 2729
+        },
+        {
+          "n": "Twenty-Eight",
+          "title": "La Tricoteuse",
+          "line": 2825
+        }
+      ]
+    },
+    {
+      "novel_no": 6,
+      "book_id": "dr-no",
+      "title_en": "Dr No",
+      "title_zh": "诺博士",
+      "publication_year": 1958,
+      "txt_file": "source/txt/dr-no.txt",
+      "bytes": 424706,
+      "lines": 1345,
+      "words": 78288,
+      "chars": 424069,
+      "encoding": "UTF-8带BOM",
+      "sha256": "42d69c218cb4bd8eb6271f69c624e86d5965a203b61ff42417b64cb3ab9e4be2",
+      "chapters": 20,
+      "chapter_status": "ok",
+      "status": "ok",
+      "chapter_list": [
+        {
+          "n": "I",
+          "title": "I HEAR YOU LOUD AND CLEAR",
+          "line": 2
+        },
+        {
+          "n": "II",
+          "title": "CHOICE OF WEAPONS",
+          "line": 51
+        },
+        {
+          "n": "III",
+          "title": "HOLIDAY TASK",
+          "line": 133
+        },
+        {
+          "n": "IV",
+          "title": "RECEPTION COMMITTEE",
+          "line": 179
+        },
+        {
+          "n": "V",
+          "title": "FACTS AND FIGURES",
+          "line": 289
+        },
+        {
+          "n": "VI",
+          "title": "THE FINGER ON THE TRIGGER",
+          "line": 361
+        },
+        {
+          "n": "VII",
+          "title": "NIGHT PASSAGE",
+          "line": 410
+        },
+        {
+          "n": "VIII",
+          "title": "THE ELEGANT VENUS",
+          "line": 479
+        },
+        {
+          "n": "IX",
+          "title": "CLOSE SHAVES",
+          "line": 553
+        },
+        {
+          "n": "X",
+          "title": "DRAGON SPOOR",
+          "line": 622
+        },
+        {
+          "n": "XI",
+          "title": "AMIDST THE ALIEN CANE",
+          "line": 683
+        },
+        {
+          "n": "XII",
+          "title": "THE THING",
+          "line": 767
+        },
+        {
+          "n": "XIII",
+          "title": "MINK-LINED PRISON",
+          "line": 841
+        },
+        {
+          "n": "XIV",
+          "title": "COME INTO MY PARLOUR",
+          "line": 932
+        },
+        {
+          "n": "XV",
+          "title": "PANDORA'S BOX",
+          "line": 992
+        },
+        {
+          "n": "XVI",
+          "title": "HORIZONS OF AGONY",
+          "line": 1031
+        },
+        {
+          "n": "XVII",
+          "title": "THE LONG SCREAM",
+          "line": 1084
+        },
+        {
+          "n": "XVIII",
+          "title": "KILLING GROUND",
+          "line": 1146
+        },
+        {
+          "n": "XIX",
+          "title": "A SHOWER OF DEATH",
+          "line": 1189
+        },
+        {
+          "n": "XX",
+          "title": "SLAVE-TIME",
+          "line": 1290
+        }
+      ]
+    },
+    {
+      "novel_no": 7,
+      "book_id": "goldfinger",
+      "title_en": "Goldfinger",
+      "title_zh": "金手指",
+      "publication_year": 1959,
+      "txt_file": "source/txt/goldfinger.txt",
+      "bytes": 472854,
+      "lines": 1507,
+      "words": 85981,
+      "chars": 472532,
+      "encoding": "UTF-8带BOM",
+      "sha256": "18e4f2e888965a49d3535af93042a4d822bfc7a83efe6829001ad7212b76cfc5",
+      "chapters": 23,
+      "chapter_status": "ok",
+      "status": "ok",
+      "chapter_list": [
+        {
+          "n": "ONE",
+          "title": "REFLECTIONS IN A DOUBLE BOURBON",
+          "line": 8
+        },
+        {
+          "n": "TWO",
+          "title": "LIVING IT UP",
+          "line": 49
+        },
+        {
+          "n": "THREE",
+          "title": "THE MAN WITH AGORAPHOBIA",
+          "line": 129
+        },
+        {
+          "n": "FOUR",
+          "title": "OVER THE BARREL",
+          "line": 200
+        },
+        {
+          "n": "FIVE",
+          "title": "NIGHT DUTY",
+          "line": 278
+        },
+        {
+          "n": "SIX",
+          "title": "TALK OF GOLD",
+          "line": 369
+        },
+        {
+          "n": "SEVEN",
+          "title": "THOUGHTS IN A DB III",
+          "line": 411
+        },
+        {
+          "n": "EIGHT",
+          "title": "ALL TO PLAY FOR",
+          "line": 475
+        },
+        {
+          "n": "NINE",
+          "title": "THE CUP AND THE LIP",
+          "line": 551
+        },
+        {
+          "n": "TEN",
+          "title": "UP AT THE GRANGE",
+          "line": 683
+        },
+        {
+          "n": "ELEVEN",
+          "title": "THE ODD-JOB MAN",
+          "line": 723
+        },
+        {
+          "n": "TWELVE",
+          "title": "LONG TAIL ON A GHOST",
+          "line": 820
+        },
+        {
+          "n": "THIRTEEN",
+          "title": "'IF YOU TOUCH ME THERE…'",
+          "line": 865
+        },
+        {
+          "n": "FOURTEEN",
+          "title": "THINGS THAT GO THUMP IN THE NIGHT",
+          "line": 946
+        },
+        {
+          "n": "FIFTEEN",
+          "title": "THE PRESSURE ROOM",
+          "line": 1012
+        },
+        {
+          "n": "SIXTEEN",
+          "title": "THE LAST AND THE BIGGEST",
+          "line": 1047
+        },
+        {
+          "n": "SEVENTEEN",
+          "title": "HOODS' CONGRESS",
+          "line": 1094
+        },
+        {
+          "n": "EIGHTEEN",
+          "title": "CRIME DE LA CRIME",
+          "line": 1179
+        },
+        {
+          "n": "NINETEEN",
+          "title": "SECRET APPENDIX",
+          "line": 1236
+        },
+        {
+          "n": "TWENTY",
+          "title": "JOURNEY INTO HOLOCAUST",
+          "line": 1295
+        },
+        {
+          "n": "TWENTY-ONE",
+          "title": "THE RICHEST MAN IN HISTORY",
+          "line": 1332
+        },
+        {
+          "n": "TWENTY-TWO",
+          "title": "THE LAST TRICK",
+          "line": 1396
+        },
+        {
+          "n": "TWENTY-THREE",
+          "title": "T.L.C. TREATMENT",
+          "line": 1444
+        }
+      ]
+    },
+    {
+      "novel_no": 8,
+      "book_id": "for-your-eyes-only",
+      "title_en": "For Your Eyes Only",
+      "title_zh": "只为你的双眼",
+      "publication_year": 1960,
+      "txt_file": "source/txt/for-your-eyes-only.txt",
+      "bytes": 338594,
+      "lines": 769,
+      "words": 62511,
+      "chars": 337890,
+      "encoding": "UTF-8带BOM",
+      "sha256": "33293d8fdd2ac9e3b73c913c5865adc6cb4cb2adaa6c0fd57c280da1500db235",
+      "chapters": 5,
+      "chapter_status": "ok",
+      "status": "ok",
+      "chapter_list": [
+        {
+          "n": "1",
+          "title": "FROM A VIEW TO A KILL",
+          "line": 1
+        },
+        {
+          "n": "2",
+          "title": "FOR YOUR EYES ONLY",
+          "line": 130
+        },
+        {
+          "n": "3",
+          "title": "QUANTUM OF SOLACE",
+          "line": 313
+        },
+        {
+          "n": "4",
+          "title": "RISICO",
+          "line": 383
+        },
+        {
+          "n": "5",
+          "title": "THE HILDEBRAND RARITY",
+          "line": 577
+        }
+      ]
+    },
+    {
+      "novel_no": 9,
+      "book_id": "thunderball",
+      "title_en": "Thunderball",
+      "title_zh": "霹雳弹",
+      "publication_year": 1961,
+      "txt_file": "source/txt/thunderball.txt",
+      "bytes": 465165,
+      "lines": 1867,
+      "words": 83612,
+      "chars": 462127,
+      "encoding": "UTF-8带BOM",
+      "sha256": "b991189da8405abbf0ee394e04155fda5180123705584d7315c2108864ae3d23",
+      "chapters": 24,
+      "chapter_status": "ok",
+      "status": "ok",
+      "chapter_list": [
+        {
+          "n": "1",
+          "title": "«Take It Easy, Mr. Bond»",
+          "line": 5
+        },
+        {
+          "n": "2",
+          "title": "Shrublands",
+          "line": 83
+        },
+        {
+          "n": "3",
+          "title": "The Rack",
+          "line": 193
+        },
+        {
+          "n": "4",
+          "title": "Tea and Animosity",
+          "line": 257
+        },
+        {
+          "n": "5",
+          "title": "S.P.E.C.T.R.E.",
+          "line": 351
+        },
+        {
+          "n": "6",
+          "title": "Violet-Scented Breath",
+          "line": 377
+        },
+        {
+          "n": "7",
+          "title": "«Fasten Your Lap-Strap»",
+          "line": 439
+        },
+        {
+          "n": "8",
+          "title": "«Big Fleas Have Little Fleas . . .»",
+          "line": 533
+        },
+        {
+          "n": "9",
+          "title": "Multiple Requiem",
+          "line": 603
+        },
+        {
+          "n": "10",
+          "title": "The Disco Volante",
+          "line": 667
+        },
+        {
+          "n": "11",
+          "title": "Domino",
+          "line": 785
+        },
+        {
+          "n": "12",
+          "title": "The Man from the C.I.A.",
+          "line": 915
+        },
+        {
+          "n": "13",
+          "title": "«My Name Is Emilio Largo»",
+          "line": 1009
+        },
+        {
+          "n": "14",
+          "title": "Sour Martinis",
+          "line": 1121
+        },
+        {
+          "n": "15",
+          "title": "Cardboard Hero",
+          "line": 1188
+        },
+        {
+          "n": "16",
+          "title": "Swimming the Gantlet",
+          "line": 1302
+        },
+        {
+          "n": "17",
+          "title": "The Red-Eye Catacomb",
+          "line": 1354
+        },
+        {
+          "n": "18",
+          "title": "How to Eat a Girl",
+          "line": 1444
+        },
+        {
+          "n": "19",
+          "title": "When the Kissing Stopped",
+          "line": 1512
+        },
+        {
+          "n": "20",
+          "title": "Time for Decision",
+          "line": 1592
+        },
+        {
+          "n": "21",
+          "title": "Very Softly, Very Slowly",
+          "line": 1656
+        },
+        {
+          "n": "22",
+          "title": "The Shadower",
+          "line": 1700
+        },
+        {
+          "n": "23",
+          "title": "Naked Warfare",
+          "line": 1774
+        },
+        {
+          "n": "24",
+          "title": "«Take It Easy, Mr. Bond»",
+          "line": 1834
+        }
+      ]
+    },
+    {
+      "novel_no": 10,
+      "book_id": "spy-who-loved-me",
+      "title_en": "The Spy Who Loved Me",
+      "title_zh": "爱我的间谍",
+      "publication_year": 1962,
+      "txt_file": "source/txt/spy-who-loved-me.txt",
+      "bytes": 262896,
+      "lines": 616,
+      "words": 49227,
+      "chars": 262420,
+      "encoding": "UTF-8带BOM",
+      "sha256": "466b56905551760aefe7e0e290221644a9b9eceabc2ebe7901536af01eac84f3",
+      "chapters": 15,
+      "chapter_status": "ok",
+      "status": "ok",
+      "chapter_list": [
+        {
+          "n": "One",
+          "title": "Scaredy Cat",
+          "line": 10
+        },
+        {
+          "n": "Two",
+          "title": "Dear Dead Days",
+          "line": 26
+        },
+        {
+          "n": "Three",
+          "title": "Spring's Awakening",
+          "line": 46
+        },
+        {
+          "n": "Four",
+          "title": "\"Dear Viv\"",
+          "line": 73
+        },
+        {
+          "n": "Five",
+          "title": "A Bird With a Wing Down",
+          "line": 117
+        },
+        {
+          "n": "Six",
+          "title": "Go West, Young Woman",
+          "line": 140
+        },
+        {
+          "n": "Seven",
+          "title": "\"Come into My Parlor...\"",
+          "line": 161
+        },
+        {
+          "n": "Eight",
+          "title": "Dynamite from Nightmare-Land",
+          "line": 182
+        },
+        {
+          "n": "Nine",
+          "title": "Then I Began to Scream",
+          "line": 230
+        },
+        {
+          "n": "Ten",
+          "title": "Whassat?",
+          "line": 276
+        },
+        {
+          "n": "Eleven",
+          "title": "Bedtime Story",
+          "line": 354
+        },
+        {
+          "n": "Twelve",
+          "title": "To Sleep—Perchance to Die!",
+          "line": 382
+        },
+        {
+          "n": "Thirteen",
+          "title": "The Crash of Guns",
+          "line": 439
+        },
+        {
+          "n": "Fourteen",
+          "title": "Bimbo",
+          "line": 497
+        },
+        {
+          "n": "Fifteen",
+          "title": "The Writing on My Heart",
+          "line": 554
+        }
+      ]
+    },
+    {
+      "novel_no": 11,
+      "book_id": "on-her-majestys-secret-service",
+      "title_en": "On Her Majesty's Secret Service",
+      "title_zh": "女王密使",
+      "publication_year": 1963,
+      "txt_file": "source/txt/on-her-majestys-secret-service.txt",
+      "bytes": 444856,
+      "lines": 1275,
+      "words": 80727,
+      "chars": 444550,
+      "encoding": "UTF-8带BOM",
+      "sha256": "ab995a54ae4d5bb75111e54677d5a44a458730cf7c42db365dd092086836ef02",
+      "chapters": 27,
+      "chapter_status": "ok",
+      "status": "ok",
+      "chapter_list": [
+        {
+          "n": "1",
+          "title": "Seascape with Figures",
+          "line": 6
+        },
+        {
+          "n": "2",
+          "title": "Gran Turismo",
+          "line": 40
+        },
+        {
+          "n": "3",
+          "title": "The Gambit of Shame",
+          "line": 82
+        },
+        {
+          "n": "4",
+          "title": "All Cats are Grey",
+          "line": 129
+        },
+        {
+          "n": "5",
+          "title": "The Capu",
+          "line": 172
+        },
+        {
+          "n": "6",
+          "title": "Bond of Bond Street?",
+          "line": 220
+        },
+        {
+          "n": "7",
+          "title": "The Hairy Heel of Achilles",
+          "line": 254
+        },
+        {
+          "n": "8",
+          "title": "Fancy Cover",
+          "line": 293
+        },
+        {
+          "n": "9",
+          "title": "Irma La Not So Douce",
+          "line": 325
+        },
+        {
+          "n": "10",
+          "title": "Ten Gorgeous Girls",
+          "line": 382
+        },
+        {
+          "n": "11",
+          "title": "Death for Breakfast",
+          "line": 431
+        },
+        {
+          "n": "12",
+          "title": "Two Near Misses",
+          "line": 515
+        },
+        {
+          "n": "13",
+          "title": "Princess Ruby?",
+          "line": 567
+        },
+        {
+          "n": "14",
+          "title": "Sweet Dreams-Sweet Nightmare!",
+          "line": 645
+        },
+        {
+          "n": "15",
+          "title": "The Heat Increases",
+          "line": 713
+        },
+        {
+          "n": "16",
+          "title": "Downhill Only",
+          "line": 778
+        },
+        {
+          "n": "17",
+          "title": "Bloody Snow",
+          "line": 812
+        },
+        {
+          "n": "18",
+          "title": "Fork Left for Hell!",
+          "line": 845
+        },
+        {
+          "n": "19",
+          "title": "Love for Breakfast",
+          "line": 902
+        },
+        {
+          "n": "20",
+          "title": "Men Pantoufles",
+          "line": 934
+        },
+        {
+          "n": "21",
+          "title": "The Man from Ag, and Fish.",
+          "line": 988
+        },
+        {
+          "n": "22",
+          "title": "Something Called 'BW'",
+          "line": 1027
+        },
+        {
+          "n": "23",
+          "title": "Gauloises and Garlic",
+          "line": 1070
+        },
+        {
+          "n": "24",
+          "title": "Blood-Lift",
+          "line": 1130
+        },
+        {
+          "n": "25",
+          "title": "Hell's Delight, etc.",
+          "line": 1153
+        },
+        {
+          "n": "26",
+          "title": "Happiness Without a Shadow?",
+          "line": 1187
+        },
+        {
+          "n": "27",
+          "title": "All the Time in the World",
+          "line": 1242
+        }
+      ]
+    },
+    {
+      "novel_no": 12,
+      "book_id": "you-only-live-twice",
+      "title_en": "You Only Live Twice",
+      "title_zh": "雷霆谷",
+      "publication_year": 1964,
+      "txt_file": "source/txt/you-only-live-twice.txt",
+      "bytes": 367364,
+      "lines": 999,
+      "words": 66354,
+      "chars": 367285,
+      "encoding": "UTF-8带BOM",
+      "sha256": "6fce87ba2bf21a0de07723ccf4bb4e357d92376d60e8b0ec0a054826c615832a",
+      "chapters": 22,
+      "chapter_status": "ok",
+      "status": "ok",
+      "chapter_list": [
+        {
+          "n": "1",
+          "title": "SCISSORS CUT PAPER",
+          "line": 20
+        },
+        {
+          "n": "2",
+          "title": "CURTAINS FOR BOND?",
+          "line": 60
+        },
+        {
+          "n": "3",
+          "title": "THE IMPOSSIBLE MISSION",
+          "line": 117
+        },
+        {
+          "n": "4",
+          "title": "DIKKO ON THE GINZA",
+          "line": 165
+        },
+        {
+          "n": "5",
+          "title": "MAGIC 44",
+          "line": 210
+        },
+        {
+          "n": "6",
+          "title": "TIGER, TIGER!",
+          "line": 265
+        },
+        {
+          "n": "7",
+          "title": "THE DEATH COLLECTOR",
+          "line": 301
+        },
+        {
+          "n": "8",
+          "title": "SLAY IT WITH FLOWERS",
+          "line": 359
+        },
+        {
+          "n": "9",
+          "title": "INSTANT JAPAN",
+          "line": 407
+        },
+        {
+          "n": "10",
+          "title": "ADVANCED STUDIES",
+          "line": 476
+        },
+        {
+          "n": "11",
+          "title": "ANATOMY CLASS",
+          "line": 513
+        },
+        {
+          "n": "12",
+          "title": "APPOINTMENT IN SAMARA",
+          "line": 599
+        },
+        {
+          "n": "13",
+          "title": "KISSY SUZUKI",
+          "line": 651
+        },
+        {
+          "n": "14",
+          "title": "ONE GOLDEN DAY",
+          "line": 694
+        },
+        {
+          "n": "15",
+          "title": "THE SIX GUARDIANS",
+          "line": 732
+        },
+        {
+          "n": "16",
+          "title": "THE LOVESOME SPOT",
+          "line": 777
+        },
+        {
+          "n": "17",
+          "title": "SOMETHING EVIL COMES THIS WAY",
+          "line": 802
+        },
+        {
+          "n": "18",
+          "title": "OUBLIETTE",
+          "line": 837
+        },
+        {
+          "n": "19",
+          "title": "THE QUESTION ROOM",
+          "line": 870
+        },
+        {
+          "n": "20",
+          "title": "BLOOD AND THUNDER",
+          "line": 907
+        },
+        {
+          "n": "21",
+          "title": "OBIT:",
+          "line": 924
+        },
+        {
+          "n": "22",
+          "title": "SPARROWS' TEARS",
+          "line": 939
+        }
+      ]
+    },
+    {
+      "novel_no": 13,
+      "book_id": "man-with-golden-gun",
+      "title_en": "The Man with the Golden Gun",
+      "title_zh": "金枪人",
+      "publication_year": 1965,
+      "txt_file": "source/txt/man-with-golden-gun.txt",
+      "bytes": 276386,
+      "lines": 739,
+      "words": 49604,
+      "chars": 275987,
+      "encoding": "UTF-8带BOM",
+      "sha256": "5f398633ccb1e5ae886a56d4cd0788c75b57c9c3facbded8fe066f9c4fb0301f",
+      "chapters": 17,
+      "chapter_status": "ok",
+      "status": "ok",
+      "chapter_list": [
+        {
+          "n": "1",
+          "title": "\"Can I Help You?\"",
+          "line": 1
+        },
+        {
+          "n": "2",
+          "title": "Attentat!",
+          "line": 56
+        },
+        {
+          "n": "3",
+          "title": "\"Pistols\" Scaramanga",
+          "line": 96
+        },
+        {
+          "n": "4",
+          "title": "The Stars Foretell",
+          "line": 135
+        },
+        {
+          "n": "5",
+          "title": "No. 3 -1/2 Love Lane",
+          "line": 208
+        },
+        {
+          "n": "6",
+          "title": "The Easy Grand",
+          "line": 265
+        },
+        {
+          "n": "7",
+          "title": "Un-real Estate",
+          "line": 321
+        },
+        {
+          "n": "8",
+          "title": "Pass the Canapes!",
+          "line": 355
+        },
+        {
+          "n": "9",
+          "title": "Minutes of the Meeting",
+          "line": 409
+        },
+        {
+          "n": "10",
+          "title": "Belly-Lick, etc.",
+          "line": 446
+        },
+        {
+          "n": "11",
+          "title": "Ballcock, and Other, Trouble",
+          "line": 481
+        },
+        {
+          "n": "12",
+          "title": "In a Glass, Very Darkly",
+          "line": 521
+        },
+        {
+          "n": "13",
+          "title": "Hear the Train Blow!",
+          "line": 552
+        },
+        {
+          "n": "14",
+          "title": "The Great Morass",
+          "line": 591
+        },
+        {
+          "n": "15",
+          "title": "Crab-meat",
+          "line": 621
+        },
+        {
+          "n": "16",
+          "title": "The Wrapup",
+          "line": 663
+        },
+        {
+          "n": "17",
+          "title": "Endit",
+          "line": 698
+        }
+      ]
+    },
+    {
+      "novel_no": 14,
+      "book_id": "octopussy",
+      "title_en": "Octopussy and The Living Daylights",
+      "title_zh": "八爪女与黎明生死线",
+      "publication_year": 1966,
+      "txt_file": "source/txt/octopussy.txt",
+      "bytes": 156065,
+      "lines": 433,
+      "words": 27755,
+      "chars": 155627,
+      "encoding": "UTF-8带BOM",
+      "sha256": "e56df8a2c6c62c3fdae8277df75d7e820f8c240900d949bd8f2ad0656c747b51",
+      "chapters": 3,
+      "chapter_status": "needs-review",
+      "status": "needs-review",
+      "chapter_list": [
+        {
+          "n": "1",
+          "title": "OCTOPUSSY",
+          "line": 1
+        },
+        {
+          "n": "2",
+          "title": "THE LIVING DAYLIGHTS",
+          "line": 160
+        },
+        {
+          "n": "3",
+          "title": "THE PROPERTY OF A LADY",
+          "line": 279
+        }
+      ]
+    }
+  ]
+}

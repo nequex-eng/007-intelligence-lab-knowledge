@@ -1,0 +1,1953 @@
+{
+  "schema_version": "1.0",
+  "generated": "2026-11-06",
+  "total_unique": 134,
+  "equipment": [
+    {
+      "id": "walther-ppk",
+      "name_en": "Walther PPK",
+      "name_zh": "瓦尔特PPK手枪",
+      "kind": "武器",
+      "appearance_count": 6,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "note": "本部起成为邦德配枪：第II章布思罗伊德推荐，7.65毫米口径，在25码试射5000发中综合排名第四，因扳机轻、弹匣延伸底座握感好且弹药易得而胜出；配伯恩斯-马丁三联快拔枪套，邦德携其赴牙买加"
+        },
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "note": "邦德配枪，藏于《当文学读的圣经》书中，以Berns Martin枪套佩于腰间；夜探科佩工厂时未带"
+        },
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "note": "邦德配枪,第2篇在渥太华补办持枪证,第4篇在威尼斯追杀中被夺、后由Colombo归还"
+        },
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "note": "邦德配枪，第17章以其射杀锤头鲨"
+        },
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "note": "邦德配枪；第1章在海滩被搜走；第23章起重新佩戴，突袭时用以射击布洛菲尔德"
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "note": "邦德的配枪，7.65毫米口径；第15章决斗中邦德以此枪五发击毙斯卡拉曼加"
+        }
+      ]
+    },
+    {
+      "id": "beretta-418",
+      "name_en": "Beretta 418",
+      "name_zh": "贝雷塔418手枪",
+      "kind": "武器",
+      "appearance_count": 4,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "note": "邦德配枪，点25口径扁平自动手枪，镂空握把，左肩皮套携带；被俘时被勒·希弗收走"
+        },
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "note": "邦德配枪，0.25口径，镂空握把，配麂皮肩套；在Boneyard被Tee-Hee缴去，Mr Big退出子弹后归还"
+        },
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "note": "邦德配枪,0.25口径,骨架握把,肩套携带,结尾M赠送一把新枪"
+        },
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "note": "邦德配枪，.25口径半自动，弹匣8发，左腋枪套；结尾被邦德交给纳什，后用于伪造自杀现场的计划"
+        }
+      ]
+    },
+    {
+      "id": "colt-army-special",
+      "name_en": "Colt Army Special .45",
+      "name_zh": "柯尔特陆军特种转轮手枪",
+      "kind": "武器",
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "note": "长枪管点45口径，藏于宾利仪表板下暗置枪套，邦德追车时取出"
+        },
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "note": "邦德在追车时从仪表板下取出,后在撞车残骸中被发现"
+        }
+      ]
+    },
+    {
+      "id": "wire-recorder",
+      "name_en": "Wire recorder",
+      "name_zh": "线录机",
+      "kind": "监听设备",
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "note": "蒙茨夫妇用无线拾音器经烟囱连接放大器与线录机监听邦德房间"
+        },
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "note": "ABC通过录音电话向蒂芙尼发令；Tiara酒店床头柜底亦藏线录机监听邦德房间"
+        }
+      ]
+    },
+    {
+      "id": "champion-harpoon",
+      "name_en": "Champion harpoon gun",
+      "name_zh": "Champion鱼叉枪",
+      "kind": "武器",
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "note": "法国产水下鱼叉枪，邦德用以击退章鱼与咬伤其肩的梭鱼"
+        },
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "note": "第5篇邦德猎魔鬼鱼用双橡筋鱼叉枪,配三叉针尖"
+        }
+      ]
+    },
+    {
+      "id": "luger",
+      "name_en": "Luger",
+      "name_zh": "鲁格手枪",
+      "kind": "武器",
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "note": "巴奇用无编号鲁格枪杀塔隆后自杀,德拉克斯在第XXII章亦持鲁格指着邦德与盖拉"
+        },
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "note": "邦德从被摔死的德国守卫肩套中取走，劫机时双枪之一"
+        }
+      ]
+    },
+    {
+      "id": "ronson-lighter",
+      "name_en": "Ronson lighter",
+      "name_zh": "朗森打火机",
+      "kind": "工具",
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "note": "邦德黑色氧化打火机,第XXIII章用牙齿点燃喷灯的关键工具"
+        },
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "note": "邦德的枪金属打火机，与其烟盒同款；为薇薇安点烟时两人手相触"
+        }
+      ]
+    },
+    {
+      "id": "shoe-knife",
+      "name_en": "Heel knife",
+      "name_zh": "鞋跟匕首",
+      "kind": "武器",
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "note": "邦德鞋跟暗藏的双刃匕首，诺克斯堡行动与劫机时均使用；劫机时以此刺破机窗"
+        },
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "note": "第1章邦德藏在鞋跟，登船时转移到裤袋，在德拉科面前掷向日历"
+        }
+      ]
+    },
+    {
+      "id": "colt-police-positive",
+      "name_en": "Colt Police Positive .38",
+      "name_zh": "柯尔特警用转轮手枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "note": "点38口径锯短枪管，邦德睡前藏于枕下"
+        }
+      ]
+    },
+    {
+      "id": "cane-gun",
+      "name_en": "Malacca cane gun",
+      "name_zh": "马六甲拐杖枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "note": "科西嘉枪手的拐杖实为消音手枪，枪管由软橡胶隔板组成，子弹为达姆弹，牌桌暗杀时被邦德撞断"
+        }
+      ]
+    },
+    {
+      "id": "smersh-pistol",
+      "name_en": "Silenced pistol (.35)",
+      "name_zh": "SMERSH消音手枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "note": "SMERSH特工所用，枪声仅如牙膏管冒泡，两名枪手各中一发点35子弹死于后脑，勒·希弗眉心中弹"
+        }
+      ]
+    },
+    {
+      "id": "carpet-beater",
+      "name_en": "Carpet beater",
+      "name_zh": "藤地毯拍",
+      "kind": "刑具",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "note": "三英尺长藤制地毯拍，勒·希弗用以抽打邦德下体逼供"
+        }
+      ]
+    },
+    {
+      "id": "stiletto",
+      "name_en": "Stiletto",
+      "name_zh": "细匕首",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "note": "SMERSH特工用以在邦德右手背刻下俄文字母Ш"
+        }
+      ]
+    },
+    {
+      "id": "vesper-martini",
+      "name_en": "Vesper Martini",
+      "name_zh": "薇丝朋马提尼",
+      "kind": "饮品",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "note": "邦德发明：3份戈登金酒、1份伏特加、半份Kina Lillet，摇至冰冷，加大片薄柠檬皮，以薇丝朋之名命名"
+        }
+      ]
+    },
+    {
+      "id": "colt-38",
+      "name_en": "Colt .38 Detective Special",
+      "name_zh": "柯尔特38侦探特型左轮手枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "note": "锯短枪管，邦德由Tee-Hee尸体上夺得，用以在车库击毙两名男子"
+        }
+      ]
+    },
+    {
+      "id": "remington-30",
+      "name_en": "Remington 30 rifle",
+      "name_zh": "雷明顿30步枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "note": "The Robber在Ourobouros仓库门口擦拭的步枪，用以射杀鹈鹕示威，后在仓库内与邦德交火"
+        }
+      ]
+    },
+    {
+      "id": "desk-gun",
+      "name_en": "Desk drawer gun",
+      "name_zh": "书桌暗枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "note": "Mr Big书桌抽屉内的暗枪，枪口为面向邦德座椅的0.45厘米钥匙孔，由桌下脚踏开关击发"
+        }
+      ]
+    },
+    {
+      "id": "alarm-clock-bomb",
+      "name_en": "Alarm clock bomb",
+      "name_zh": "闹钟炸弹",
+      "kind": "爆炸物",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "note": "半分钟酸液胶囊腐蚀铜线后触发4口径象枪空包弹，仅炸碎玻璃器皿，为Mr Big的警告名片"
+        }
+      ]
+    },
+    {
+      "id": "frogman-suit",
+      "name_en": "Frogman suit",
+      "name_zh": "潜水服",
+      "kind": "潜水装备",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "note": "黑色薄橡胶潜水服，由Q部门提供，配双气瓶各1000升自由空气、200大气压，水下可用近两小时"
+        }
+      ]
+    },
+    {
+      "id": "commando-dagger",
+      "name_en": "Commando dagger",
+      "name_zh": "突击队匕首",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "note": "Wilkinson战时设计款，邦德水下随身携带"
+        }
+      ]
+    },
+    {
+      "id": "limpet-mine",
+      "name_en": "Limpet mine",
+      "name_zh": "水雷",
+      "kind": "爆炸物",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "note": "扁锥形磁性水雷，配10分钟至8小时引信，邦德选用7小时引信装于Secatur号龙骨，约6时爆炸沉船"
+        }
+      ]
+    },
+    {
+      "id": "shark-repellent",
+      "name_en": "Shark repellent",
+      "name_zh": "驱鲨剂",
+      "kind": "防护用品",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "note": "醋酸铜加黑色苯胺染料混合物，美国海军实验室研制，邦德行动时尚未运到，未能使用"
+        }
+      ]
+    },
+    {
+      "id": "rolex",
+      "name_en": "Rolex watch",
+      "name_zh": "劳力士手表",
+      "kind": "计时器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "note": "邦德水下计时用，装水雷时显示23时03分"
+        }
+      ]
+    },
+    {
+      "id": "colt-detective-special",
+      "name_en": "Colt Detective Special",
+      "name_zh": "柯尔特侦探特种左轮",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "note": "第I章射击场用枪,0.38口径"
+        }
+      ]
+    },
+    {
+      "id": "leica-camera",
+      "name_en": "Leica camera",
+      "name_zh": "徕卡相机",
+      "kind": "工具",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "note": "邦德用闪光灯附件拍摄海图上的指纹"
+        }
+      ]
+    },
+    {
+      "id": "night-glasses-7x50",
+      "name_en": "Night glasses 7x50",
+      "name_zh": "7x50夜视望远镜",
+      "kind": "工具",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "note": "塔隆遗留的德国望远镜,邦德推断其用于夜间观察海面"
+        }
+      ]
+    },
+    {
+      "id": "blowtorch",
+      "name_en": "Blowtorch",
+      "name_zh": "喷灯",
+      "kind": "工具",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "note": "德拉克斯办公室桌上的喷灯,邦德用它烧断绑绳脱困"
+        }
+      ]
+    },
+    {
+      "id": "silver-cigarette-case",
+      "name_en": "Polished silver cigarette-case",
+      "name_zh": "抛光银烟盒",
+      "kind": "作弊工具",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "note": "德拉克斯用作Shiner反光镜偷看牌面"
+        }
+      ]
+    },
+    {
+      "id": "fingerprint-powder",
+      "name_en": "Fingerprint powder spray",
+      "name_zh": "指纹粉喷剂",
+      "kind": "工具",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "note": "邦德用以显现海图上的指纹"
+        }
+      ]
+    },
+    {
+      "id": "beretta-25",
+      "name_en": ".25 Beretta automatic",
+      "name_zh": "点25贝雷塔自动手枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "note": "邦德配枪，骨架式握把，M在上次任务后所赠；邦德亲手把撞针锉尖、锯掉准星；配消音器与30发点25子弹，藏于公文箱暗格；女王号上装消音器击毙温特与基德，对火车射出最后4发子弹"
+        }
+      ]
+    },
+    {
+      "id": "throwing-knife",
+      "name_en": "Throwing knife",
+      "name_zh": "飞刀",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "note": "沙迪·特里袖中藏双刃飞刀（胶布缠柄）；温特在女王号上向邦德掷出飞刀，划伤其肋部"
+        }
+      ]
+    },
+    {
+      "id": "police-positive-38",
+      "name_en": ".38 Police Positive",
+      "name_zh": "点38警用左轮手枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "note": "温特在泥浴场与幽灵村所用手枪"
+        }
+      ]
+    },
+    {
+      "id": "colt-45",
+      "name_en": ".45 Colt",
+      "name_zh": "点45柯尔特手枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "note": "邦德判断基德在泥浴场所持手枪可能为点45柯尔特"
+        }
+      ]
+    },
+    {
+      "id": "bofors",
+      "name_en": "Bofors gun",
+      "name_zh": "博福斯炮",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "note": "结尾邦德在卡车上操作博福斯炮，以曳光弹击落斯班格的直升机"
+        }
+      ]
+    },
+    {
+      "id": "jewellers-glass",
+      "name_en": "Jeweller's glass",
+      "name_zh": "珠宝商放大镜",
+      "kind": "工具",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "note": "M教邦德辨钻所用，邦德初以石英当钻石"
+        }
+      ]
+    },
+    {
+      "id": "sound-locator",
+      "name_en": "Sound detector / locator",
+      "name_zh": "声音定位仪",
+      "kind": "工具",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "note": "结尾弗里敦驻军用其监听直升机接近，报出距离30英里、时速120、高度900英尺"
+        }
+      ]
+    },
+    {
+      "id": "beretta-silencer",
+      "name_en": "Beretta silencer",
+      "name_zh": "贝雷塔消音器",
+      "kind": "武器配件",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "note": "藏于棕榄牌剃须膏管中，由Q处提供"
+        }
+      ]
+    },
+    {
+      "id": "q-attach-case",
+      "name_en": "Q Branch attaché case",
+      "name_zh": "Q处手提箱",
+      "kind": "装备",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "note": "斯韦恩与阿德尼制，夹层藏50发.25子弹、两把威尔金森飞刀、氰化物药片暗格与50枚金镑"
+        }
+      ]
+    },
+    {
+      "id": "throwing-knives",
+      "name_en": "Wilkinson throwing knives",
+      "name_zh": "威尔金森飞刀",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "note": "藏于手提箱两侧，邦德以其中一把刺中格蘭特腹股沟动脉反杀"
+        }
+      ]
+    },
+    {
+      "id": "book-gun",
+      "name_en": "Book-gun (War and Peace)",
+      "name_zh": "书枪（《战争与和平》）",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "note": "格蘭特的武器，书脊藏枪管，电池击发，10发.25达姆弹；邦德夺枪后以其射杀格蘭特"
+        }
+      ]
+    },
+    {
+      "id": "spektor",
+      "name_en": "Spektor cipher machine",
+      "name_zh": "斯佩克特密码机",
+      "kind": "密码设备",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "note": "苏联全新密码机，诱饵核心；格蘭特透露机内装有炸弹，待英国密码专家拆解时爆炸；结尾由法国第二局拆弹组取走"
+        }
+      ]
+    },
+    {
+      "id": "poison-needles",
+      "name_en": "Poisoned knitting needles",
+      "name_zh": "淬毒毛衣针",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "note": "克莱布在丽兹酒店所用，针尖烧灼变色，疑为德国神经毒剂，划破即致命"
+        }
+      ]
+    },
+    {
+      "id": "telephone-gun",
+      "name_en": "Telephone-gun",
+      "name_zh": "电话枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "note": "克莱布在丽兹酒店204房的伪装电话，可发射子弹"
+        }
+      ]
+    },
+    {
+      "id": "poison-shoe",
+      "name_en": "Poison shoe blade",
+      "name_zh": "毒鞋刃",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "note": "克莱布靴尖弹出的半英寸毒刃，划伤邦德右小腿致其毒发倒地"
+        }
+      ]
+    },
+    {
+      "id": "sniperscope",
+      "name_en": "Sniperscope",
+      "name_zh": "红外瞄准镜",
+      "kind": "光学设备",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "note": "德国造红外镜，克里姆用于夜间瞄准克里连库"
+        }
+      ]
+    },
+    {
+      "id": "winchester-88",
+      "name_en": "Winchester 88 rifle",
+      "name_zh": "温彻斯特88型步枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "note": "克里姆伪装成手杖的消音步枪，.308短弹3发，安卡拉改装；射杀克里连库"
+        }
+      ]
+    },
+    {
+      "id": "limpet-bomb",
+      "name_en": "Limpet bomb",
+      "name_zh": "粘性炸弹",
+      "kind": "爆炸物",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "note": "克里连库装于克里姆办公室外墙，定时引爆未遂"
+        }
+      ]
+    },
+    {
+      "id": "tunnel-bomb",
+      "name_en": "Tunnel bomb",
+      "name_zh": "地道炸弹",
+      "kind": "爆炸物",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "note": "克里姆埋于俄国中心办公室下方的巨型炸弹，由办公室抽屉内无线电遥控引爆；克里姆死后其手下引爆，炸毁苏联办事处"
+        }
+      ]
+    },
+    {
+      "id": "periscope",
+      "name_en": "Submarine periscope",
+      "name_zh": "潜艇潜望镜",
+      "kind": "侦察设备",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "note": "土耳其海军剩余物资，克里姆装于地道中窥视俄国中心办公室"
+        }
+      ]
+    },
+    {
+      "id": "beretta-25",
+      "name_en": "Beretta .25 with silencer",
+      "name_zh": "贝雷塔0.25口径消音手枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "note": "邦德用了15年的旧配枪，枪管锯短、缠胶带；上一案中消音器导致卡壳，调查委员会裁定更换；第II章被M收缴留在办公桌上，布思罗伊德称其为女士枪、制止力不足"
+        }
+      ]
+    },
+    {
+      "id": "smith-wesson-centennial",
+      "name_en": "Smith & Wesson Centennial Airweight",
+      "name_zh": "史密斯-韦森Centennial Airweight转轮手枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "note": "第II章布思罗伊德推荐的重型配枪，0.38口径无击锤转轮手枪，全长6.5英寸、重13盎司、弹仓5发，发射0.38史密斯-韦森特种弹；邦德登岛时携带此枪，在红树林近距离击毙一名守卫，后在第XII章被迫交出"
+        }
+      ]
+    },
+    {
+      "id": "berns-martin-holster",
+      "name_en": "Berns Martin Triple-draw holster",
+      "name_zh": "伯恩斯-马丁三联快拔枪套",
+      "kind": "装备",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "note": "布思罗伊德指定配瓦尔特PPK的硬鞍皮弹簧枪套，可20英尺外0.6秒出枪命中"
+        }
+      ]
+    },
+    {
+      "id": "remington-carbine",
+      "name_en": "U.S. Army Remington Carbine .300",
+      "name_zh": "雷明顿0.300口径卡宾枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "note": "第X章邦德击毙守卫后由夸雷尔缴获；第XII章夸雷尔以其射击巨龙的装甲驾驶舱无效；第XIX章邦德在车库武器架上又取一支射杀追来的杜宾犬群"
+        }
+      ]
+    },
+    {
+      "id": "spandau",
+      "name_en": "Spandau machine gun",
+      "name_zh": "斯潘道机枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "note": "第IX章诺博士搜捕艇上的三脚架机枪，向海滩与红树林扫射"
+        }
+      ]
+    },
+    {
+      "id": "dragon-marsh-buggy",
+      "name_en": "Marsh buggy disguised as a dragon",
+      "name_zh": "伪装成巨龙的沼泽车",
+      "kind": "载具与武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "note": "诺博士从佛罗里达购入的沼泽车改装：装甲圆顶驾驶舱、巨大实心橡胶轮、黑金涂装龙头、短翼与尖尾，配火焰喷射器；可穿越沼泽、红树林与浅湖；第XII章烧死夸雷尔，第XIX章被邦德夺取用作逃生工具"
+        }
+      ]
+    },
+    {
+      "id": "radar",
+      "name_en": "Radar",
+      "name_zh": "雷达",
+      "kind": "装备",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "note": "诺博士岛上的雷达发现了哈妮独木舟的帆，邦德一行登岛时降帆划桨以避开雷达探测"
+        }
+      ]
+    },
+    {
+      "id": "cipher-machine",
+      "name_en": "Russian cipher machine",
+      "name_zh": "俄国密码机",
+      "kind": "装备",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "note": "莫斯科提供给诺博士的密码机与专用频率，诺博士另设一名秘密监听员持有副本监视其余6名技术员"
+        }
+      ]
+    },
+    {
+      "id": "walkie-talkie",
+      "name_en": "Walkie-talkie",
+      "name_zh": "步话机",
+      "kind": "装备",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "note": "诺博士藏于和服胸前，用以召唤保镖萨姆-萨姆"
+        }
+      ]
+    },
+    {
+      "id": "steel-pincers",
+      "name_en": "Articulated steel pincers",
+      "name_zh": "钢钳义肢",
+      "kind": "装备",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "note": "诺博士失去双手后安装的机械手，金属杆末端为可开合钢钳，藏于黑色丝绸袖中；第XIII章夜里他以钢钳掀开熟睡者的被单检查身体"
+        }
+      ]
+    },
+    {
+      "id": "wire-spear",
+      "name_en": "Wire spear",
+      "name_zh": "铁丝矛",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "note": "第XVII章邦德拆下带电通风栅的铁丝网制成的约4英尺长矛，一端弯成钩；第XVIII章以其刺瞎巨型鱿鱼的眼睛"
+        }
+      ]
+    },
+    {
+      "id": "colt-45",
+      "name_en": "Colt .45 long-barrel",
+      "name_zh": "柯尔特.45长枪管手枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "note": "藏于DB III驾驶座下暗格"
+        }
+      ]
+    },
+    {
+      "id": "colt-25",
+      "name_en": "Colt .25 automatic",
+      "name_zh": "柯尔特.25自动手枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "note": "金手指的配枪，自称射右眼从不失手；飞机上被邦德夺走，弹仓剩三发、膛内一发"
+        }
+      ]
+    },
+    {
+      "id": "bazooka",
+      "name_en": "Bazooka",
+      "name_zh": "火箭筒",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "note": "莱特携带的一人火箭筒，邦德用它射击逃逸的柴油机车，未命中要害"
+        }
+      ]
+    },
+    {
+      "id": "oddjob-hat",
+      "name_en": "Oddjob's steel-rimmed bowler hat",
+      "name_zh": "奥德·约伯的钢边圆顶礼帽",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "note": "轻而坚固的合金帽沿，可嵌入木板一英寸深；在诺克斯堡割断蒂莉颈部致其死亡"
+        }
+      ]
+    },
+    {
+      "id": "oddjob-bow",
+      "name_en": "Oddjob's bow and arrow",
+      "name_zh": "奥德·约伯的弓箭",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "note": "在科佩树林中一箭射中邦德身旁树干，箭羽颤动，迫使两人就范"
+        }
+      ]
+    },
+    {
+      "id": "circular-saw",
+      "name_en": "Circular saw",
+      "name_zh": "圆锯",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "note": "压力室刑具，沿钢桌中缝以每分钟约一英寸逼近邦德；原著中没有激光"
+        }
+      ]
+    },
+    {
+      "id": "atomic-warhead",
+      "name_en": "Atomic warhead for Corporal missile",
+      "name_zh": "Corporal导弹原子弹头",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "note": "金手指花1,000,000美元自德国某盟军基地购得，用于炸开诺克斯堡金库；自称“清洁”原子弹，放射性沉降极小"
+        }
+      ]
+    },
+    {
+      "id": "gb-nerve-agent",
+      "name_en": "GB nerve agent",
+      "name_zh": "GB神经毒剂",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "note": "德国1943年完善的三酮类神经毒剂，苏军在迪伦福特缴获全部库存；金手指计划以三品脱经供水系统毒杀诺克斯堡居民，毒剂由两名日本人以杜松子酒名义携带，行动前被截获"
+        }
+      ]
+    },
+    {
+      "id": "leica-m3",
+      "name_en": "Leica M3 camera",
+      "name_zh": "徕卡M3相机",
+      "kind": "器材",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "note": "邦德用其配MC测光表、K2滤镜与闪光灯拍下吉尔报牌现场"
+        }
+      ]
+    },
+    {
+      "id": "homer",
+      "name_en": "Homer transmitter and receiver",
+      "name_zh": "Homer追踪器",
+      "kind": "器材",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "note": "邦德植入劳斯莱斯工具箱的发射器与DB III车内接收器，百英里内可测向尾随"
+        }
+      ]
+    },
+    {
+      "id": "identicast",
+      "name_en": "Identicast",
+      "name_zh": "Identicast面部拼图仪",
+      "kind": "器材",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "note": "总部档案室设备，邦德据此拼出金手指面部特征并送CID核查"
+        }
+      ]
+    },
+    {
+      "id": "gold-paint",
+      "name_en": "Gold paint",
+      "name_zh": "金漆",
+      "kind": "器材",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "note": "金手指每月将一名女子全身涂金漆取乐，脊柱留空以防窒息；吉尔被全身涂满后死亡"
+        }
+      ]
+    },
+    {
+      "id": "sonic-detector",
+      "name_en": "Sonic detector",
+      "name_zh": "声波探测器",
+      "kind": "器材",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "note": "科佩工厂烟囱顶形似雷达扫描器的装置，实为声波探测器，发现了树林中的邦德与蒂莉"
+        }
+      ]
+    },
+    {
+      "id": "hidden-cameras",
+      "name_en": "Hidden cine-cameras",
+      "name_zh": "隐藏电影摄影机",
+      "kind": "器材",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "note": "格兰奇别墅内三台隐藏摄影机，胶片收入卧室衣柜，邦德曝光胶片并嫁祸于猫"
+        }
+      ]
+    },
+    {
+      "id": "luger",
+      "name_en": "Luger pistol",
+      "name_zh": "鲁格手枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "note": "第1篇杀手与地堡小组首领配枪;第4篇Colombo手下人人配Luger"
+        }
+      ]
+    },
+    {
+      "id": "colt-45",
+      "name_en": "Long-barrel .45 Colt",
+      "name_zh": ".45长管柯尔特手枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "note": "第1篇邦德冒充通讯兵时藏在上衣内的手枪,一枪击毙杀手"
+        }
+      ]
+    },
+    {
+      "id": "savage-99f",
+      "name_en": "Savage 99F rifle",
+      "name_zh": "Savage 99F步枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "note": "第2篇Johns上校借给邦德的轻型大口径杠杆步枪,配Weatherby 6x62瞄准镜,5发装、.250-3000高速弹,有效射程500码"
+        }
+      ]
+    },
+    {
+      "id": "judy-bow",
+      "name_en": "Bow and steel arrows",
+      "name_zh": "弓与钢箭",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "note": "第2篇Judy的武器,铝羽钢箭,射杀Hammerstein"
+        }
+      ]
+    },
+    {
+      "id": "grundig-recorder",
+      "name_en": "Grundig tape recorder",
+      "name_zh": "Grundig录音机",
+      "kind": "窃听设备",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "note": "第4篇Colombo藏在邦德座椅垫中窃听其与Kristatos谈话的录音机"
+        }
+      ]
+    },
+    {
+      "id": "rotenone",
+      "name_en": "Rotenone",
+      "name_zh": "鱼藤酮",
+      "kind": "毒剂",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "note": "第5篇Krest用5加仑鱼藤酮毒杀Chagrin岛礁区以捕捉Hildebrand Rarity"
+        }
+      ]
+    },
+    {
+      "id": "corrector",
+      "name_en": "Sting-ray tail whip",
+      "name_zh": "魔鬼鱼尾鞭",
+      "kind": "刑具",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "note": "第5篇Krest床头所挂的Corrector,购自巴林,用于鞭打妻子Liz"
+        }
+      ]
+    },
+    {
+      "id": "co2-gun",
+      "name_en": "CO2 spear gun",
+      "name_zh": "二氧化碳鱼枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "note": "SPECTRE潜水队标配，射程约20英尺，矛头涂有箭毒"
+        }
+      ]
+    },
+    {
+      "id": "geiger-counter",
+      "name_en": "Geiger counter",
+      "name_zh": "盖革计数器",
+      "kind": "探测设备",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "note": "莱特带来两台，一台伪装成禄莱照相机，一台水下型号；多米诺携带伪装型号登船"
+        }
+      ]
+    },
+    {
+      "id": "aqualung",
+      "name_en": "Aqualung",
+      "name_zh": "水肺",
+      "kind": "潜水装备",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "underwater-chariot",
+      "name_en": "Underwater chariot",
+      "name_zh": "水下摩托艇",
+      "kind": "潜水装备",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "note": "仿意大利二战载人鱼雷，由安萨尔多公司改进型"
+        }
+      ]
+    },
+    {
+      "id": "underwater-sled",
+      "name_en": "Underwater sled",
+      "name_zh": "水下雪橇",
+      "kind": "潜水装备",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "note": "用于水下运输重物，载运核弹"
+        }
+      ]
+    },
+    {
+      "id": "speed-pack",
+      "name_en": "Compressed-air speed pack",
+      "name_zh": "压缩空气加速包",
+      "kind": "潜水装备",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "note": "SPECTRE潜水员背负，螺旋桨推进，速度翻倍"
+        }
+      ]
+    },
+    {
+      "id": "cipher-machine",
+      "name_en": "Cipher machine",
+      "name_zh": "密码机",
+      "kind": "通讯设备",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "note": "邦德携带Triple X密码机与莱特的中情局密码机"
+        }
+      ]
+    },
+    {
+      "id": "dexedrine",
+      "name_en": "Dexedrine pills",
+      "name_zh": "右旋安非他命药片",
+      "kind": "药品",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "note": "拉戈发给水下布放小队提神增力"
+        }
+      ]
+    },
+    {
+      "id": "spear-lance",
+      "name_en": "Barbed spear lance",
+      "name_zh": "带倒钩长矛",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "note": "曼塔号水下战斗队以缴获的弹簧刀改制，绑在扫帚柄上"
+        }
+      ]
+    },
+    {
+      "id": "smith-wesson-police-positive",
+      "name_en": "Smith & Wesson Police Positive",
+      "name_zh": "史密斯-韦森警用型左轮手枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "note": "邦德交给薇薇安防身的短管左轮，邦德称其为真正的制止者，教她瞄低、直臂、缓扣扳机"
+        }
+      ]
+    },
+    {
+      "id": "bond-automatic",
+      "name_en": "Heavy automatic pistol",
+      "name_zh": "邦德重型自动手枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "note": "邦德腋下枪套所佩自动手枪，夜战主力武器；另有一把备用枪曾压在薇薇安枕下"
+        }
+      ]
+    },
+    {
+      "id": "sluggsy-gun",
+      "name_en": "Sluggsy Morant's pistol",
+      "name_zh": "斯拉格西的手枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "note": "斯拉格西枪法极准，20英尺外连发击中空中咖啡罐；追捕薇薇安时多次开枪"
+        }
+      ]
+    },
+    {
+      "id": "sub-machine-gun",
+      "name_en": "Sub-machine-gun",
+      "name_zh": "冲锋枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "note": "多伦多枪战与旅馆夜战均出现；斯拉格西的冲锋枪被邦德击中后卡壳、空转扫射"
+        }
+      ]
+    },
+    {
+      "id": "silencer",
+      "name_en": "Silencer",
+      "name_zh": "消音器",
+      "kind": "武器附件",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "note": "打手射击邦德40号房假人时使用消音器，发出一连串闷响"
+        }
+      ]
+    },
+    {
+      "id": "thermite-bombs",
+      "name_en": "Thermite bombs",
+      "name_zh": "铝热剂燃烧弹",
+      "kind": "纵火工具",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "note": "打手在每间小屋各放一枚，体积小、无汽油痕迹、不留保险调查线索；另沿有盖通道撒铝热剂粉末引火至大堂"
+        }
+      ]
+    },
+    {
+      "id": "ice-pick",
+      "name_en": "Ice-pick",
+      "name_zh": "冰锥",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "note": "薇薇安藏在裤腰内的防身武器，曾划伤霍勒右太阳穴"
+        }
+      ]
+    },
+    {
+      "id": "carving-knife",
+      "name_en": "Carving knife",
+      "name_zh": "餐刀",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "note": "薇薇安藏在餐巾下的长利餐刀，夜战中挥砍未果后被打落"
+        }
+      ]
+    },
+    {
+      "id": "benzedrine",
+      "name_en": "Benzedrine",
+      "name_zh": "苯丙胺",
+      "kind": "药品",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "note": "邦德服用的白色提神药片，一次两片，可保持整夜清醒"
+        }
+      ]
+    },
+    {
+      "id": "gillette-razor",
+      "name_en": "Gillette razor",
+      "name_zh": "吉列剃须刀片",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "note": "第15章邦德将刀片夹于左手指间作指节武器；第16章打死守卫时改用砍刀手与劳力士表"
+        }
+      ]
+    },
+    {
+      "id": "rolex-oyster",
+      "name_en": "Rolex Oyster Perpetual",
+      "name_zh": "劳力士蚝式恒动表",
+      "kind": "装备",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "note": "邦德的手表；第16章用作指节铜套打死守卫，表盘碎裂；第23章从Q部门领到新表"
+        }
+      ]
+    },
+    {
+      "id": "plastic-strip",
+      "name_en": "Plastic strip",
+      "name_zh": "塑料片",
+      "kind": "工具",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "note": "第12章邦德从滑雪车间偷来作开锁片，谎称借作尺子；第13章分给鲁比一片"
+        }
+      ]
+    },
+    {
+      "id": "schmeisser",
+      "name_en": "Schmeisser sub-machine gun",
+      "name_zh": "施迈瑟冲锋枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "note": "第24章突袭队装备"
+        }
+      ]
+    },
+    {
+      "id": "plastique",
+      "name_en": "Plastique explosive",
+      "name_zh": "塑胶炸药",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "note": "第23至24章图桑负责，炸毁诊所、实验室与缆车站"
+        }
+      ]
+    },
+    {
+      "id": "grenade",
+      "name_en": "Grenade",
+      "name_zh": "手榴弹",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "note": "第16章缆车上向邦德投掷；第25章布洛菲尔德在雪橇道上投掷，炸翻邦德"
+        }
+      ]
+    },
+    {
+      "id": "hypnosis-tape",
+      "name_en": "Hypnosis apparatus",
+      "name_zh": "催眠装置",
+      "kind": "装备",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "note": "第14章：午夜电铃、节拍器、嗡鸣声与布洛菲尔德录音，实施深度催眠"
+        }
+      ]
+    },
+    {
+      "id": "heraldic-books",
+      "name_en": "Heraldic reference books",
+      "name_zh": "纹章学参考书",
+      "kind": "文件",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "note": "第8章邦德携带的掩护道具，包括伯克纹章总录、已绝嗣从男爵名录等"
+        }
+      ]
+    },
+    {
+      "id": "pocket-knife",
+      "name_en": "Pocket knife",
+      "name_zh": "两英寸小刀",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "note": "邦德按日本法律携带的刀片不超过两英寸的折刀，用于锉断城堡小门的锁链"
+        }
+      ]
+    },
+    {
+      "id": "ninja-chain",
+      "name_en": "Ninja chain",
+      "name_zh": "忍者细链",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "note": "邦德腰间缠绕的细钢链，原计划用于勒死布洛菲尔德"
+        }
+      ]
+    },
+    {
+      "id": "ninja-suit",
+      "name_en": "Ninja suit",
+      "name_zh": "忍者服",
+      "kind": "服装与防护",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "note": "黑棉忍者服配头罩与游泳镜，潜水与夜间潜入时穿着，另有日间迷彩服"
+        }
+      ]
+    },
+    {
+      "id": "stave",
+      "name_en": "Bojutsu stave",
+      "name_zh": "长棍",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "note": "邦德在城堡图书馆夺取守卫留下的约两码长棍，用以对付布洛菲尔德的武士刀"
+        }
+      ]
+    },
+    {
+      "id": "samurai-sword",
+      "name_en": "Samurai sword",
+      "name_zh": "武士刀",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "note": "布洛菲尔德的宽刃武士刀，他企图用此刀按切舍御免斩首邦德，最后被邦德夺下劈开阀门木箱"
+        }
+      ]
+    },
+    {
+      "id": "pitons-rope",
+      "name_en": "Pitons and rope",
+      "name_zh": "岩钉与绳索",
+      "kind": "攀登工具",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "note": "邦德攀爬200英尺城墙时使用，绳端带铁钩"
+        }
+      ]
+    },
+    {
+      "id": "flippers-goggles",
+      "name_en": "Flippers and goggles",
+      "name_zh": "脚蹼与潜水镜",
+      "kind": "潜水装备",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "note": "邦德游过半英里海峡时使用，潜水镜属于喜悦子的父亲"
+        }
+      ]
+    },
+    {
+      "id": "suicide-pill",
+      "name_en": "Suicide pill",
+      "name_zh": "自杀药丸",
+      "kind": "毒药",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "note": "田中虎赠给邦德的棕色长药丸，以防任务失败被俘，邦德拒绝接受并归还"
+        }
+      ]
+    },
+    {
+      "id": "benzedrine",
+      "name_en": "Benzedrine tablets",
+      "name_zh": "苯丙胺药片",
+      "kind": "药品",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "note": "邦德潜入装备中的提神药片"
+        }
+      ]
+    },
+    {
+      "id": "pemmican",
+      "name_en": "Pemmican",
+      "name_zh": "肉干",
+      "kind": "食品",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "note": "邦德藏身园丁棚期间的食物，共三块"
+        }
+      ]
+    },
+    {
+      "id": "shinsei-cigarettes",
+      "name_en": "Shinsei cigarettes",
+      "name_zh": "新生牌香烟",
+      "kind": "日用品",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "note": "日本本地香烟，邦德在日本期间抽用"
+        }
+      ]
+    },
+    {
+      "id": "golden-gun",
+      "name_en": "Golden Gun",
+      "name_zh": "金枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "note": "镀金长枪管单动式Colt.45左轮，斯卡拉曼加的标志性武器；子弹为自制：24克拉软金弹芯包银、尖端十字切割的达姆弹，追求最大杀伤；另有一支微型金色Derringer藏于脑后"
+        }
+      ]
+    },
+    {
+      "id": "golden-derringer",
+      "name_en": "Golden Derringer",
+      "name_zh": "金色袖珍Derringer",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "note": "斯卡拉曼加藏于脑后（耳后）的微型金色手枪；第15章他假装祈祷时掏出此枪射中邦德右腹，子弹涂有蛇毒"
+        }
+      ]
+    },
+    {
+      "id": "cyanide-pistol",
+      "name_en": "Cyanide bulb-butted pistol",
+      "name_zh": "氰化物球形枪托手枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "note": "克格勃给邦德的刺杀武器：短鼻、球形枪托、无正常枪托外形，喷出黏稠棕色氰化物液体；被M办公室天花板落下的防弹玻璃挡住，邦德吸入毒气昏倒"
+        }
+      ]
+    },
+    {
+      "id": "silver-greyhound",
+      "name_en": "Silver Greyhound",
+      "name_zh": "银灰狗徽章",
+      "kind": "证件与徽章",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "note": "英国信使沿用三百年的徽章；邦德持外交护照以“Courier Bond”身份活动时的掩护标志"
+        }
+      ]
+    },
+    {
+      "id": "triple-x-machine",
+      "name_en": "Triple-X deciphering machine",
+      "name_zh": "Triple-X译码机",
+      "kind": "通讯设备",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "note": "形似打字机的密码机；第17章古德奈特用它译出M的Eyes Only亲电"
+        }
+      ]
+    },
+    {
+      "id": "bug-recorder",
+      "name_en": "Telephone bug and tape recorder",
+      "name_zh": "电话窃听器与录音机",
+      "kind": "窃听设备",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "note": "斯卡拉曼加在邦德房内电话与会议室电话下装窃听器；Nicholson把线路分流到自己文件柜里的录音机，全程录下股东会议"
+        }
+      ]
+    },
+    {
+      "id": "hoffritz-razor",
+      "name_en": "Hoffritz safety razor",
+      "name_zh": "Hoffritz安全剃须刀",
+      "kind": "间谍工具与日用品",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "note": "邦德的剃须刀，刀柄可藏微缩胶卷等小物；邦德以刀柄刻痕移位一毫米发现房间被人专业搜查"
+        }
+      ]
+    },
+    {
+      "id": "armour-glass",
+      "name_en": "Armour-plate glass shield",
+      "name_zh": "防弹玻璃盾",
+      "kind": "防护装置",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "note": "M办公室天花板暗藏的防弹玻璃，按钮在M座椅扶手下；挡住邦德的氰化物喷射，M的前任曾在同一张椅子上被枪杀"
+        }
+      ]
+    },
+    {
+      "id": "webley-scott-45",
+      "name_en": "Webley-Scott .45",
+      "name_zh": "韦伯利-斯科特.45左轮手枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "note": "第1篇Smythe战时配枪，编号8967362，两发子弹射杀Oberhauser；邦德称其笨重，希望换Luger或重型Beretta"
+        }
+      ]
+    },
+    {
+      "id": "winchester-308",
+      "name_en": "Winchester .308 International Experimental Target rifle",
+      "name_zh": "温彻斯特.308国际试验靶枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "note": "第2篇邦德狙击步枪，军械员改装五发弹匣，配红外狙击镜，木材与金属件涂成哑黑；Bisley试射500码命中，柏林实战时被流弹击毁"
+        }
+      ]
+    },
+    {
+      "id": "kalashnikov",
+      "name_en": "Kalashnikov submachine gun",
+      "name_zh": "卡拉什尼科夫冲锋枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "note": "第2篇Trigger的武器，气动式，7.62毫米，30发弹匣，藏于大提琴盒中；被邦德一枪击碎并抛出窗外"
+        }
+      ]
+    },
+    {
+      "id": "sniperscope",
+      "name_en": "Infrared sniperscope",
+      "name_zh": "红外狙击镜",
+      "kind": "光学器材",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "note": "第2篇装于Winchester步枪上方，夜间可看清500码靶面颜色与6英寸靶心"
+        }
+      ]
+    },
+    {
+      "id": "spear",
+      "name_en": "Three-pronged spear",
+      "name_zh": "三叉鱼矛",
+      "kind": "工具",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "note": "第1篇Smythe捕鱼工具，用以捕蝎子鱼喂章鱼；死后两名牙买加青年用其矛刺死章鱼"
+        }
+      ]
+    },
+    {
+      "id": "pirelli-mask",
+      "name_en": "Pirelli diving mask",
+      "name_zh": "倍耐力潜水面罩",
+      "kind": "潜水装备",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "note": "第1篇Smythe的潜水面罩，软木阀下沉不到两英尺即自动关闭，可致窒息"
+        }
+      ]
+    },
+    {
+      "id": "cyanide-pistol",
+      "name_en": "Cyanide gas water pistol",
+      "name_zh": "氰化物气水枪",
+      "kind": "武器",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "note": "第3篇开篇科研站论文所述暗杀工具：廉价球柄儿童水枪喷射氰化物气，喷向面部即刻致命，适用于25岁以上目标，死因多判为心脏衰竭；邦德联想Freudenstein日后可能遭此灭口"
+        }
+      ]
+    },
+    {
+      "id": "emerald-sphere",
+      "name_en": "Emerald Sphere (Terrestrial Globe)",
+      "name_zh": "绿宝石地球仪",
+      "kind": "物品",
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "note": "第3篇Fabergé 1917年作品，约1300克拉西伯利亚绿宝石球体，高7.5英寸，工匠Henrik Wigström，内置G. Moser钟表机芯，拍出15.5万英镑"
+        }
+      ]
+    }
+  ]
+}

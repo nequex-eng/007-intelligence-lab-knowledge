@@ -1,0 +1,6550 @@
+{
+  "schema_version": "1.0",
+  "generated": "2026-11-06",
+  "total_unique": 283,
+  "note": "按英文名归并；M与海军上将迈尔斯·梅瑟维爵士为同一人（金枪人第1章邦德亲口报出全名），崔西·迪·维琴佐与特蕾莎·邦德为同一人（女王密使结婚、雷霆谷称特蕾莎·邦德）；同一人物在不同小说的状态见各appearances条目，不得把所有经历简单合并。",
+  "characters": [
+    {
+      "id": "bond",
+      "name_en": "James Bond",
+      "name_zh": "詹姆斯·邦德",
+      "aliases": [
+        "007",
+        "Bond",
+        "Bondo-san",
+        "Commander Bond",
+        "David Somerset",
+        "Frank Westmacott",
+        "Import and Export Merchant",
+        "Jim",
+        "John Bryce",
+        "Mark Hazard",
+        "Mr Bomb（金手指初见时误读）",
+        "Mr Bond",
+        "Mr Bryce",
+        "Mr James",
+        "Peter Franks（冒充身份）",
+        "Sergeant James（化装身份）",
+        "Sir Hilary Bray",
+        "Taro Todoroki",
+        "塔罗·托多罗基",
+        "大卫·萨默塞特",
+        "希拉里·布雷爵士",
+        "牙买加百万富翁（掩护身份）",
+        "约翰·布莱斯"
+      ],
+      "roles": [
+        "主要人物",
+        "主要人物（第10章登场）",
+        "主要人物，三篇皆为主角"
+      ],
+      "appearance_count": 14,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "title_zh": "皇家赌场",
+          "role": "主要人物",
+          "first_chapter": 1,
+          "last_chapter": 27
+        },
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "主要人物",
+          "first_chapter": "I",
+          "last_chapter": "XXIII"
+        },
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "title_zh": "月亮牌",
+          "role": "主要人物",
+          "first_chapter": "I",
+          "last_chapter": "XXV"
+        },
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "主要人物",
+          "first_chapter": 2,
+          "last_chapter": 25
+        },
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "主要人物",
+          "first_chapter": "Four",
+          "last_chapter": "Twenty-Eight"
+        },
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "主要人物",
+          "first_chapter": "II",
+          "last_chapter": "XX"
+        },
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "主要人物",
+          "first_chapter": "ONE",
+          "last_chapter": "TWENTY-THREE"
+        },
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "主要人物",
+          "first_chapter": 1,
+          "last_chapter": 5
+        },
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "主要人物",
+          "first_chapter": 1,
+          "last_chapter": 24
+        },
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "title_zh": "爱我的间谍",
+          "role": "主要人物（第10章登场）",
+          "first_chapter": "Ten",
+          "last_chapter": "Fifteen"
+        },
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "主要人物",
+          "first_chapter": 1,
+          "last_chapter": 27
+        },
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "主要人物",
+          "first_chapter": 1,
+          "last_chapter": 22
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "主要人物",
+          "first_chapter": 1,
+          "last_chapter": 17
+        },
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "主要人物，三篇皆为主角",
+          "first_chapter": 1,
+          "last_chapter": 3
+        }
+      ]
+    },
+    {
+      "id": "m",
+      "name_en": "M",
+      "name_zh": "M",
+      "aliases": [
+        "Admiral",
+        "Admiral Sir Miles Messervy",
+        "M.",
+        "Mailed-Fist",
+        "Sir Miles"
+      ],
+      "roles": [
+        "主要人物",
+        "主要人物，第2、3篇出现",
+        "次要人物"
+      ],
+      "appearance_count": 13,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "title_zh": "皇家赌场",
+          "role": "主要人物",
+          "first_chapter": 2,
+          "last_chapter": 27
+        },
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "主要人物",
+          "first_chapter": "II",
+          "last_chapter": "XXIII"
+        },
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "title_zh": "月亮牌",
+          "role": "主要人物",
+          "first_chapter": "I",
+          "last_chapter": "XXV"
+        },
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "主要人物",
+          "first_chapter": 2,
+          "last_chapter": 25
+        },
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "主要人物",
+          "first_chapter": "Four",
+          "last_chapter": "Twenty-Four"
+        },
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "主要人物",
+          "first_chapter": "II",
+          "last_chapter": "XX"
+        },
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "主要人物",
+          "first_chapter": "FIVE",
+          "last_chapter": "TWENTY-TWO"
+        },
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "次要人物",
+          "first_chapter": 2,
+          "last_chapter": 4
+        },
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "主要人物",
+          "first_chapter": 1,
+          "last_chapter": 8
+        },
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "主要人物",
+          "first_chapter": 8,
+          "last_chapter": 22
+        },
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "次要人物",
+          "first_chapter": 2,
+          "last_chapter": 21
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "主要人物",
+          "first_chapter": 1,
+          "last_chapter": 17
+        },
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "主要人物，第2、3篇出现",
+          "first_chapter": 2,
+          "last_chapter": 3
+        }
+      ]
+    },
+    {
+      "id": "moneypenny",
+      "name_en": "Miss Moneypenny",
+      "name_zh": "钱彭妮小姐",
+      "aliases": [
+        "Lil（第2章邦德对其称呼）",
+        "Penny"
+      ],
+      "roles": [
+        "次要人物",
+        "次要人物，第3篇"
+      ],
+      "appearance_count": 12,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "title_zh": "皇家赌场",
+          "role": "次要人物",
+          "first_chapter": 3,
+          "last_chapter": 3
+        },
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "次要人物",
+          "first_chapter": "II",
+          "last_chapter": "IX"
+        },
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "title_zh": "月亮牌",
+          "role": "次要人物",
+          "first_chapter": "II",
+          "last_chapter": "II"
+        },
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "次要人物",
+          "first_chapter": 3,
+          "last_chapter": 3
+        },
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "次要人物",
+          "first_chapter": "Twelve",
+          "last_chapter": "Twelve"
+        },
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "次要人物",
+          "first_chapter": "II",
+          "last_chapter": "II"
+        },
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "次要人物",
+          "first_chapter": "FIVE",
+          "last_chapter": "FIVE"
+        },
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 1,
+          "last_chapter": 8
+        },
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 8,
+          "last_chapter": 8
+        },
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "次要人物",
+          "first_chapter": 2,
+          "last_chapter": 3
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 1,
+          "last_chapter": 17
+        },
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "次要人物，第3篇",
+          "first_chapter": 3,
+          "last_chapter": 3
+        }
+      ]
+    },
+    {
+      "id": "felix-leiter",
+      "name_en": "Felix Leiter",
+      "name_zh": "费利克斯·莱特",
+      "aliases": [
+        "Cap'n",
+        "F. Larkin",
+        "Mr. Travis",
+        "No. 000"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 6,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "title_zh": "皇家赌场",
+          "role": "主要人物",
+          "first_chapter": 4,
+          "last_chapter": 13
+        },
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "主要人物",
+          "first_chapter": "I",
+          "last_chapter": "XVII"
+        },
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "主要人物",
+          "first_chapter": 8,
+          "last_chapter": 21
+        },
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "主要人物",
+          "first_chapter": "TWENTY-ONE",
+          "last_chapter": "TWENTY-TWO"
+        },
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "主要人物",
+          "first_chapter": 12,
+          "last_chapter": 24
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "主要人物",
+          "first_chapter": 8,
+          "last_chapter": 16
+        }
+      ]
+    },
+    {
+      "id": "may",
+      "name_en": "May",
+      "name_zh": "梅",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 6,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "title_zh": "月亮牌",
+          "role": "次要人物",
+          "first_chapter": "I",
+          "last_chapter": "I"
+        },
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "次要人物",
+          "first_chapter": "Eleven",
+          "last_chapter": "Eleven"
+        },
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "次要人物",
+          "first_chapter": "XIII",
+          "last_chapter": "XIV"
+        },
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 7,
+          "last_chapter": 8
+        },
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 20,
+          "last_chapter": 20
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 2,
+          "last_chapter": 17
+        }
+      ]
+    },
+    {
+      "id": "chief-of-staff",
+      "name_en": "Chief of Staff",
+      "name_zh": "参谋长",
+      "aliases": [],
+      "roles": [
+        "次要人物",
+        "次要人物，第2篇"
+      ],
+      "appearance_count": 4,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "title_zh": "月亮牌",
+          "role": "次要人物",
+          "first_chapter": "II",
+          "last_chapter": "IX"
+        },
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "次要人物",
+          "first_chapter": "III",
+          "last_chapter": "III"
+        },
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "次要人物",
+          "first_chapter": "TWELVE",
+          "last_chapter": "TWELVE"
+        },
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "次要人物，第2篇",
+          "first_chapter": 2,
+          "last_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "mary-goodnight",
+      "name_en": "Mary Goodnight",
+      "name_zh": "玛丽·古德奈特",
+      "aliases": [
+        "Goodnight",
+        "M.G."
+      ],
+      "roles": [
+        "主要人物",
+        "次要人物",
+        "次要人物，第3篇"
+      ],
+      "appearance_count": 4,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 6,
+          "last_chapter": 23
+        },
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "次要人物",
+          "first_chapter": 2,
+          "last_chapter": 21
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "主要人物",
+          "first_chapter": 1,
+          "last_chapter": 17
+        },
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "次要人物，第3篇",
+          "first_chapter": 3,
+          "last_chapter": 3
+        }
+      ]
+    },
+    {
+      "id": "loelia-ponsonby",
+      "name_en": "Loelia Ponsonby",
+      "name_zh": "洛利娅·庞森比",
+      "aliases": [
+        "Lil",
+        "Loelia"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 3,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "title_zh": "月亮牌",
+          "role": "次要人物",
+          "first_chapter": "I",
+          "last_chapter": "XXV"
+        },
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "次要人物",
+          "first_chapter": "Thirteen",
+          "last_chapter": "Thirteen"
+        },
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 7,
+          "last_chapter": 7
+        }
+      ]
+    },
+    {
+      "id": "molony",
+      "name_en": "Sir James Molony",
+      "name_zh": "詹姆斯·莫洛尼爵士",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 3,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "次要人物",
+          "first_chapter": "II",
+          "last_chapter": "II"
+        },
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "次要人物",
+          "first_chapter": 2,
+          "last_chapter": 2
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 2,
+          "last_chapter": 4
+        }
+      ]
+    },
+    {
+      "id": "blofeld",
+      "name_en": "Ernst Stavro Blofeld",
+      "name_zh": "恩斯特·斯塔夫罗·布洛菲尔德",
+      "aliases": [
+        "Comte Balthazar de Bleuville",
+        "Comte de Bleuville",
+        "Doctor Guntram Shatterhand",
+        "No. 2",
+        "the Count",
+        "布勒维尔伯爵",
+        "萨特汉博士"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 3,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "主要人物",
+          "first_chapter": 5,
+          "last_chapter": 24
+        },
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "主要人物",
+          "first_chapter": 2,
+          "last_chapter": 27
+        },
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "主要人物",
+          "first_chapter": 7,
+          "last_chapter": 20
+        }
+      ]
+    },
+    {
+      "id": "mathis",
+      "name_en": "René Mathis",
+      "name_zh": "雷内·马蒂斯",
+      "aliases": [],
+      "roles": [
+        "主要人物",
+        "次要人物"
+      ],
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "title_zh": "皇家赌场",
+          "role": "主要人物",
+          "first_chapter": 4,
+          "last_chapter": 26
+        },
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "次要人物",
+          "first_chapter": "Four",
+          "last_chapter": "Twenty-Eight"
+        }
+      ]
+    },
+    {
+      "id": "chief-of-staff",
+      "name_en": "Bill",
+      "name_zh": "比尔",
+      "aliases": [
+        "Chief of Staff"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "title_zh": "皇家赌场",
+          "role": "次要人物",
+          "first_chapter": 3,
+          "last_chapter": 3
+        },
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "次要人物",
+          "first_chapter": 3,
+          "last_chapter": 24
+        }
+      ]
+    },
+    {
+      "id": "quarrel",
+      "name_en": "Quarrel",
+      "name_zh": "夸雷尔",
+      "aliases": [],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "主要人物",
+          "first_chapter": "XVI",
+          "last_chapter": "XXIII"
+        },
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "主要人物",
+          "first_chapter": "IV",
+          "last_chapter": "XII"
+        }
+      ]
+    },
+    {
+      "id": "vallance",
+      "name_en": "Ronnie Vallance",
+      "name_zh": "罗尼·瓦兰斯",
+      "aliases": [
+        "Assistant Commissioner Vallance",
+        "Ronnie"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "title_zh": "月亮牌",
+          "role": "次要人物",
+          "first_chapter": "IX",
+          "last_chapter": "XXV"
+        },
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "次要人物",
+          "first_chapter": 2,
+          "last_chapter": 3
+        }
+      ]
+    },
+    {
+      "id": "colonel-boris",
+      "name_en": "Colonel Boris",
+      "name_zh": "鲍里斯上校",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "次要人物",
+          "first_chapter": "Three",
+          "last_chapter": "Three"
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 1,
+          "last_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "tracy",
+      "name_en": "Tracy di Vicenzo",
+      "name_zh": "崔西·迪·维琴佐",
+      "aliases": [
+        "Comtesse Teresa di Vicenzo",
+        "Teresa",
+        "Teresa Bond",
+        "Teresa Draco",
+        "Teresa di Vicenzo"
+      ],
+      "roles": [
+        "主要人物",
+        "次要人物（已故，仅在回忆与讣告中出现）"
+      ],
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "主要人物",
+          "first_chapter": 1,
+          "last_chapter": 27
+        },
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "次要人物（已故，仅在回忆与讣告中出现）",
+          "first_chapter": 2,
+          "last_chapter": 21
+        }
+      ]
+    },
+    {
+      "id": "irma-bunt",
+      "name_en": "Irma Bunt",
+      "name_zh": "艾玛·布朗特",
+      "aliases": [
+        "Frau Emmy Shatterhand",
+        "Fraulein Bunt",
+        "Irma la not so Douce",
+        "艾玛·萨特汉"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "主要人物",
+          "first_chapter": 9,
+          "last_chapter": 26
+        },
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "主要人物",
+          "first_chapter": 7,
+          "last_chapter": 20
+        }
+      ]
+    },
+    {
+      "id": "bill-tanner",
+      "name_en": "Bill Tanner",
+      "name_zh": "比尔·坦纳",
+      "aliases": [
+        "Bill",
+        "C.O.S.",
+        "Chief of Staff"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 2,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "次要人物",
+          "first_chapter": 3,
+          "last_chapter": 3
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 2,
+          "last_chapter": 3
+        }
+      ]
+    },
+    {
+      "id": "vesper-lynd",
+      "name_en": "Vesper Lynd",
+      "name_zh": "薇丝朋·琳德",
+      "aliases": [
+        "3030",
+        "Mademoiselle Lynd",
+        "Miss Lynd"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "title_zh": "皇家赌场",
+          "role": "主要人物",
+          "first_chapter": 4,
+          "last_chapter": 27
+        }
+      ]
+    },
+    {
+      "id": "le-chiffre",
+      "name_en": "Le Chiffre",
+      "name_zh": "勒·希弗",
+      "aliases": [
+        "Herr Nummer",
+        "Herr Ziffer",
+        "The Number"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "title_zh": "皇家赌场",
+          "role": "主要人物",
+          "first_chapter": 1,
+          "last_chapter": 18
+        }
+      ]
+    },
+    {
+      "id": "head-of-s",
+      "name_en": "Head of S",
+      "name_zh": "S处处长",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "title_zh": "皇家赌场",
+          "role": "次要人物",
+          "first_chapter": 2,
+          "last_chapter": 21
+        }
+      ]
+    },
+    {
+      "id": "q",
+      "name_en": "Q",
+      "name_zh": "Q",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "title_zh": "皇家赌场",
+          "role": "次要人物",
+          "first_chapter": null,
+          "last_chapter": null
+        }
+      ]
+    },
+    {
+      "id": "smersh-agent",
+      "name_en": "SMERSH agent",
+      "name_zh": "SMERSH特工（无名）",
+      "aliases": [
+        "the man with the craglike face"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "title_zh": "皇家赌场",
+          "role": "主要人物",
+          "first_chapter": 18,
+          "last_chapter": 18
+        }
+      ]
+    },
+    {
+      "id": "muntz",
+      "name_en": "Monsieur Muntz",
+      "name_zh": "蒙茨先生",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "title_zh": "皇家赌场",
+          "role": "次要人物",
+          "first_chapter": 4,
+          "last_chapter": 19
+        }
+      ]
+    },
+    {
+      "id": "mrs-muntz",
+      "name_en": "Madame Muntz",
+      "name_zh": "蒙茨夫人",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "title_zh": "皇家赌场",
+          "role": "次要人物",
+          "first_chapter": 4,
+          "last_chapter": 19
+        }
+      ]
+    },
+    {
+      "id": "gettler",
+      "name_en": "Adolph Gettler",
+      "name_zh": "阿道夫·盖特勒",
+      "aliases": [
+        "Blackpatch",
+        "the man with the black patch"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "title_zh": "皇家赌场",
+          "role": "次要人物",
+          "first_chapter": 22,
+          "last_chapter": 26
+        }
+      ]
+    },
+    {
+      "id": "nurse-gibson",
+      "name_en": "Nurse Gibson",
+      "name_zh": "吉布森护士",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "title_zh": "皇家赌场",
+          "role": "次要人物",
+          "first_chapter": 19,
+          "last_chapter": 19
+        }
+      ]
+    },
+    {
+      "id": "doctor-royale",
+      "name_en": "Doctor (Deuxième Bureau)",
+      "name_zh": "法籍医生（第二局派驻）",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "title_zh": "皇家赌场",
+          "role": "次要人物",
+          "first_chapter": 19,
+          "last_chapter": 19
+        }
+      ]
+    },
+    {
+      "id": "versoix",
+      "name_en": "Monsieur Versoix",
+      "name_zh": "维索瓦先生",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "title_zh": "皇家赌场",
+          "role": "次要人物",
+          "first_chapter": 22,
+          "last_chapter": 27
+        }
+      ]
+    },
+    {
+      "id": "madame-versoix",
+      "name_en": "Madame Versoix",
+      "name_zh": "维索瓦夫人",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "title_zh": "皇家赌场",
+          "role": "次要人物",
+          "first_chapter": 22,
+          "last_chapter": 26
+        }
+      ]
+    },
+    {
+      "id": "fawcett",
+      "name_en": "Fawcett",
+      "name_zh": "福塞特",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "title_zh": "皇家赌场",
+          "role": "次要人物",
+          "first_chapter": 1,
+          "last_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "corsican-gunman",
+      "name_en": "The Corsican",
+      "name_zh": "科西嘉枪手",
+      "aliases": [
+        "the man with the stick",
+        "the squat man"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "title_zh": "皇家赌场",
+          "role": "次要人物",
+          "first_chapter": 11,
+          "last_chapter": 19
+        }
+      ]
+    },
+    {
+      "id": "basil",
+      "name_en": "Basil",
+      "name_zh": "巴兹尔",
+      "aliases": [
+        "the tall gunman",
+        "the thin man"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "title_zh": "皇家赌场",
+          "role": "次要人物",
+          "first_chapter": 11,
+          "last_chapter": 19
+        }
+      ]
+    },
+    {
+      "id": "mr-big",
+      "name_en": "Buonaparte Ignace Gallia",
+      "name_zh": "布奥纳帕特·伊尼亚斯·加利亚",
+      "aliases": [
+        "Big Boy",
+        "Mr Big",
+        "The Big Man"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "主要人物",
+          "first_chapter": "I",
+          "last_chapter": "XXII"
+        }
+      ]
+    },
+    {
+      "id": "solitaire",
+      "name_en": "Simone Latrelle",
+      "name_zh": "西蒙娜·拉特雷尔",
+      "aliases": [
+        "Mrs Bryce",
+        "Solitaire"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "主要人物",
+          "first_chapter": "VII",
+          "last_chapter": "XXIII"
+        }
+      ]
+    },
+    {
+      "id": "dexter",
+      "name_en": "Captain Dexter",
+      "name_zh": "德克斯特队长",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "次要人物",
+          "first_chapter": "I",
+          "last_chapter": "IV"
+        }
+      ]
+    },
+    {
+      "id": "halloran",
+      "name_en": "Halloran",
+      "name_zh": "哈洛伦",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "次要人物",
+          "first_chapter": "I",
+          "last_chapter": "I"
+        }
+      ]
+    },
+    {
+      "id": "strangways",
+      "name_en": "Strangways",
+      "name_zh": "斯特兰威斯",
+      "aliases": [],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "主要人物",
+          "first_chapter": "XVI",
+          "last_chapter": "XXIII"
+        }
+      ]
+    },
+    {
+      "id": "tee-hee-johnson",
+      "name_en": "Tee-Hee Johnson",
+      "name_zh": "蒂希·约翰逊",
+      "aliases": [
+        "Tee-Hee"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "次要人物",
+          "first_chapter": "VI",
+          "last_chapter": "IX"
+        }
+      ]
+    },
+    {
+      "id": "blabbermouth-foley",
+      "name_en": "Blabbermouth Foley",
+      "name_zh": "布拉伯茅斯·福利",
+      "aliases": [
+        "Blabbermouth"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "次要人物",
+          "first_chapter": "V",
+          "last_chapter": "IX"
+        }
+      ]
+    },
+    {
+      "id": "sam-miami",
+      "name_en": "Sam Miami",
+      "name_zh": "萨姆·迈阿密",
+      "aliases": [
+        "Miami"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "次要人物",
+          "first_chapter": "V",
+          "last_chapter": "IX"
+        }
+      ]
+    },
+    {
+      "id": "mcthing",
+      "name_en": "McThing",
+      "name_zh": "麦克辛",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "次要人物",
+          "first_chapter": "V",
+          "last_chapter": "IX"
+        }
+      ]
+    },
+    {
+      "id": "the-whisper",
+      "name_en": "The Whisper",
+      "name_zh": "耳语者",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "次要人物",
+          "first_chapter": "IV",
+          "last_chapter": "IX"
+        }
+      ]
+    },
+    {
+      "id": "the-robber",
+      "name_en": "The Robber",
+      "name_zh": "强盗",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "次要人物",
+          "first_chapter": "X",
+          "last_chapter": "XV"
+        }
+      ]
+    },
+    {
+      "id": "the-flannel",
+      "name_en": "The Flannel",
+      "name_zh": "法兰绒",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "次要人物",
+          "first_chapter": "V",
+          "last_chapter": "IX"
+        }
+      ]
+    },
+    {
+      "id": "samuel-baldwin",
+      "name_en": "Samuel D. Baldwin",
+      "name_zh": "塞缪尔·D·鲍德温",
+      "aliases": [
+        "Baldwin"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "次要人物",
+          "first_chapter": "X",
+          "last_chapter": "XIII"
+        }
+      ]
+    },
+    {
+      "id": "g-g-sumatra",
+      "name_en": "G-G Sumatra",
+      "name_zh": "G-G·苏门答腊",
+      "aliases": [
+        "G-G"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "次要人物",
+          "first_chapter": "V",
+          "last_chapter": "VI"
+        }
+      ]
+    },
+    {
+      "id": "papagos",
+      "name_en": "Papagos",
+      "name_zh": "帕帕戈斯",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "次要人物",
+          "first_chapter": "IV",
+          "last_chapter": "XIII"
+        }
+      ]
+    },
+    {
+      "id": "poxy",
+      "name_en": "Poxy",
+      "name_zh": "波克西",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "次要人物",
+          "first_chapter": "XII",
+          "last_chapter": "XII"
+        }
+      ]
+    },
+    {
+      "id": "binswanger",
+      "name_en": "Lieutenant Binswanger",
+      "name_zh": "宾斯旺格中尉",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "次要人物",
+          "first_chapter": "IV",
+          "last_chapter": "IV"
+        }
+      ]
+    },
+    {
+      "id": "damon",
+      "name_en": "Commander Damon",
+      "name_zh": "达蒙指挥官",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "次要人物",
+          "first_chapter": "II",
+          "last_chapter": "II"
+        }
+      ]
+    },
+    {
+      "id": "bloody-morgan",
+      "name_en": "Henry Morgan",
+      "name_zh": "亨利·摩根",
+      "aliases": [
+        "Bloody Morgan"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "live-and-let-die",
+          "novel_no": 2,
+          "title_zh": "生死关头",
+          "role": "次要人物",
+          "first_chapter": "II",
+          "last_chapter": "XXII"
+        }
+      ]
+    },
+    {
+      "id": "drax",
+      "name_en": "Hugo Drax",
+      "name_zh": "雨果·德拉克斯",
+      "aliases": [
+        "Graf Hugo von der Drache",
+        "Hugger Drax",
+        "Sir Hugo Drax"
+      ],
+      "roles": [
+        "主要反派"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "title_zh": "月亮牌",
+          "role": "主要反派",
+          "first_chapter": "II",
+          "last_chapter": "XXIV"
+        }
+      ]
+    },
+    {
+      "id": "gala-brand",
+      "name_en": "Gala Brand",
+      "name_zh": "盖拉·布兰德",
+      "aliases": [
+        "Gala",
+        "Galatea Brand",
+        "Miss Brand"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "title_zh": "月亮牌",
+          "role": "主要人物",
+          "first_chapter": "IX",
+          "last_chapter": "XXV"
+        }
+      ]
+    },
+    {
+      "id": "basildon",
+      "name_en": "Lord Basildon",
+      "name_zh": "巴兹尔登勋爵",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "title_zh": "月亮牌",
+          "role": "次要人物",
+          "first_chapter": "III",
+          "last_chapter": "VII"
+        }
+      ]
+    },
+    {
+      "id": "meyer",
+      "name_en": "Max Meyer",
+      "name_zh": "马克斯·迈耶",
+      "aliases": [
+        "Max"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "title_zh": "月亮牌",
+          "role": "次要人物",
+          "first_chapter": "IV",
+          "last_chapter": "VII"
+        }
+      ]
+    },
+    {
+      "id": "dangerfield",
+      "name_en": "Dangerfield",
+      "name_zh": "丹杰菲尔德",
+      "aliases": [
+        "Tommy"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "title_zh": "月亮牌",
+          "role": "次要人物",
+          "first_chapter": "IV",
+          "last_chapter": "VII"
+        }
+      ]
+    },
+    {
+      "id": "walter",
+      "name_en": "Dr Walter",
+      "name_zh": "沃尔特博士",
+      "aliases": [
+        "Doctor Walter",
+        "Valter"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "title_zh": "月亮牌",
+          "role": "次要人物",
+          "first_chapter": "XI",
+          "last_chapter": "XXIV"
+        }
+      ]
+    },
+    {
+      "id": "krebs",
+      "name_en": "Willy Krebs",
+      "name_zh": "威利·克雷布斯",
+      "aliases": [
+        "Willy"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "title_zh": "月亮牌",
+          "role": "次要人物",
+          "first_chapter": "XI",
+          "last_chapter": "XXIV"
+        }
+      ]
+    },
+    {
+      "id": "tallon",
+      "name_en": "Major Tallon",
+      "name_zh": "塔隆少校",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "title_zh": "月亮牌",
+          "role": "次要人物",
+          "first_chapter": "IX",
+          "last_chapter": "XIII"
+        }
+      ]
+    },
+    {
+      "id": "bartsch",
+      "name_en": "Egon Bartsch",
+      "name_zh": "埃贡·巴奇",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "title_zh": "月亮牌",
+          "role": "次要人物",
+          "first_chapter": "IX",
+          "last_chapter": "IX"
+        }
+      ]
+    },
+    {
+      "id": "professor-train",
+      "name_en": "Professor Train",
+      "name_zh": "特雷恩教授",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "title_zh": "月亮牌",
+          "role": "次要人物",
+          "first_chapter": "X",
+          "last_chapter": "X"
+        }
+      ]
+    },
+    {
+      "id": "brevett",
+      "name_en": "Brevett",
+      "name_zh": "布雷维特",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "title_zh": "月亮牌",
+          "role": "次要人物",
+          "first_chapter": "IV",
+          "last_chapter": "XIX"
+        }
+      ]
+    },
+    {
+      "id": "vivian",
+      "name_en": "Detective-Inspector Vivian",
+      "name_zh": "侦缉督察维维安",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "title_zh": "月亮牌",
+          "role": "次要人物",
+          "first_chapter": "XXV",
+          "last_chapter": "XXV"
+        }
+      ]
+    },
+    {
+      "id": "instructor",
+      "name_en": "Shooting Instructor",
+      "name_zh": "射击教官",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "moonraker",
+          "novel_no": 3,
+          "title_zh": "月亮牌",
+          "role": "次要人物",
+          "first_chapter": "I",
+          "last_chapter": "I"
+        }
+      ]
+    },
+    {
+      "id": "tiffany-case",
+      "name_en": "Tiffany Case",
+      "name_zh": "蒂芙尼·凯斯",
+      "aliases": [
+        "Miss Case",
+        "Miss T. Case"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "主要人物",
+          "first_chapter": 3,
+          "last_chapter": 25
+        }
+      ]
+    },
+    {
+      "id": "jack-spang",
+      "name_en": "Jack Spang",
+      "name_zh": "杰克·斯班格",
+      "aliases": [
+        "ABC",
+        "Rufus B. Saye"
+      ],
+      "roles": [
+        "主要反派"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "主要反派",
+          "first_chapter": 2,
+          "last_chapter": 25
+        }
+      ]
+    },
+    {
+      "id": "seraffimo-spang",
+      "name_en": "Seraffimo Spang",
+      "name_zh": "塞拉菲莫·斯班格",
+      "aliases": [
+        "Mr Spang"
+      ],
+      "roles": [
+        "主要反派"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "主要反派",
+          "first_chapter": 6,
+          "last_chapter": 20
+        }
+      ]
+    },
+    {
+      "id": "shady-tree",
+      "name_en": "Michael Tree",
+      "name_zh": "迈克尔·特里",
+      "aliases": [
+        "Shady",
+        "Shady Tree"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "次要人物",
+          "first_chapter": 5,
+          "last_chapter": 14
+        }
+      ]
+    },
+    {
+      "id": "wint",
+      "name_en": "Wint",
+      "name_zh": "温特",
+      "aliases": [
+        "Mr W. Winter",
+        "Windy"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "次要人物",
+          "first_chapter": 6,
+          "last_chapter": 24
+        }
+      ]
+    },
+    {
+      "id": "kidd",
+      "name_en": "Kidd",
+      "name_zh": "基德",
+      "aliases": [
+        "B. Kitteridge",
+        "Booful（第22章温特对其称呼）"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "次要人物",
+          "first_chapter": 6,
+          "last_chapter": 24
+        }
+      ]
+    },
+    {
+      "id": "peter-franks",
+      "name_en": "Peter Franks",
+      "name_zh": "彼得·弗兰克斯",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "次要人物",
+          "first_chapter": 3,
+          "last_chapter": 19
+        }
+      ]
+    },
+    {
+      "id": "ernie-cureo",
+      "name_en": "Ernest Cureo",
+      "name_zh": "欧内斯特·库雷奥",
+      "aliases": [
+        "Ernie Cureo"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "次要人物",
+          "first_chapter": 15,
+          "last_chapter": 21
+        }
+      ]
+    },
+    {
+      "id": "tingaling-bell",
+      "name_en": "Tingaling Bell",
+      "name_zh": "廷加林·贝尔",
+      "aliases": [
+        "T. Bell"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "次要人物",
+          "first_chapter": 11,
+          "last_chapter": 13
+        }
+      ]
+    },
+    {
+      "id": "pissaro",
+      "name_en": "Pissaro",
+      "name_zh": "皮萨罗",
+      "aliases": [
+        "Lame-brain Pissaro"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "次要人物",
+          "first_chapter": 11,
+          "last_chapter": 12
+        }
+      ]
+    },
+    {
+      "id": "rosy-budd",
+      "name_en": "Rosy Budd",
+      "name_zh": "罗西·巴德",
+      "aliases": [
+        "R. Budd"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "次要人物",
+          "first_chapter": 12,
+          "last_chapter": 12
+        }
+      ]
+    },
+    {
+      "id": "frasso",
+      "name_en": "Frasso",
+      "name_zh": "弗拉索",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "次要人物",
+          "first_chapter": 18,
+          "last_chapter": 19
+        }
+      ]
+    },
+    {
+      "id": "mcgonigle",
+      "name_en": "McGonigle",
+      "name_zh": "麦戈尼格尔",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "次要人物",
+          "first_chapter": 18,
+          "last_chapter": 19
+        }
+      ]
+    },
+    {
+      "id": "sillitoe",
+      "name_en": "Sillitoe",
+      "name_zh": "西利托",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "次要人物",
+          "first_chapter": 1,
+          "last_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "dankwaerts",
+      "name_en": "Sergeant Dankwaerts",
+      "name_zh": "丹克沃茨警佐",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "次要人物",
+          "first_chapter": 3,
+          "last_chapter": 4
+        }
+      ]
+    },
+    {
+      "id": "lobiniere",
+      "name_en": "Sergeant Lobiniere",
+      "name_zh": "洛比尼埃警佐",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "次要人物",
+          "first_chapter": 3,
+          "last_chapter": 3
+        }
+      ]
+    },
+    {
+      "id": "dentist-smuggler",
+      "name_en": "The dentist",
+      "name_zh": "牙医走私者",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "次要人物",
+          "first_chapter": 1,
+          "last_chapter": 25
+        }
+      ]
+    },
+    {
+      "id": "german-pilot",
+      "name_en": "The German pilot",
+      "name_zh": "德国飞行员",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "次要人物",
+          "first_chapter": 1,
+          "last_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "tatiana-romanov",
+      "name_en": "Tatiana Romanova",
+      "name_zh": "塔蒂亚娜·罗曼诺娃",
+      "aliases": [
+        "Caroline Somerset",
+        "Tania",
+        "卡罗琳·萨默塞特",
+        "塔尼娅"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "主要人物",
+          "first_chapter": "Eight",
+          "last_chapter": "Twenty-Eight"
+        }
+      ]
+    },
+    {
+      "id": "rosa-klebb",
+      "name_en": "Rosa Klebb",
+      "name_zh": "罗莎·克莱布",
+      "aliases": [
+        "Comtesse Metterstein",
+        "梅特施泰因伯爵夫人"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "主要人物",
+          "first_chapter": "Four",
+          "last_chapter": "Twenty-Eight"
+        }
+      ]
+    },
+    {
+      "id": "red-grant",
+      "name_en": "Donovan Grant",
+      "name_zh": "多诺万·格蘭特",
+      "aliases": [
+        "Captain Norman Nash",
+        "Granit",
+        "Krassno Granitski",
+        "Red Grant",
+        "克拉斯诺·格拉尼茨基",
+        "格拉尼特",
+        "红格蘭特",
+        "诺曼·纳什上尉"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "主要人物",
+          "first_chapter": "One",
+          "last_chapter": "Twenty-Seven"
+        }
+      ]
+    },
+    {
+      "id": "kronsteen",
+      "name_en": "Kronsteen",
+      "name_zh": "克朗斯汀",
+      "aliases": [
+        "The Wizard of Ice",
+        "冰之巫师"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "主要人物",
+          "first_chapter": "Four",
+          "last_chapter": "Ten"
+        }
+      ]
+    },
+    {
+      "id": "grubozaboyschikov",
+      "name_en": "General Grubozaboyschikov",
+      "name_zh": "格鲁博扎博伊希科夫将军",
+      "aliases": [
+        "G.",
+        "G将军"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "主要人物",
+          "first_chapter": "Four",
+          "last_chapter": "Seven"
+        }
+      ]
+    },
+    {
+      "id": "darko-kerim",
+      "name_en": "Darko Kerim",
+      "name_zh": "达科·克里姆",
+      "aliases": [
+        "Kerim Bey",
+        "克里姆贝伊"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "主要人物",
+          "first_chapter": "Twelve",
+          "last_chapter": "Twenty-Three"
+        }
+      ]
+    },
+    {
+      "id": "serov",
+      "name_en": "Ivan Aleksandrovitch Serov",
+      "name_zh": "伊万·亚历山德罗维奇·谢罗夫",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "次要人物",
+          "first_chapter": "Four",
+          "last_chapter": "Six"
+        }
+      ]
+    },
+    {
+      "id": "nikitin",
+      "name_en": "Colonel Nikitin",
+      "name_zh": "尼基京上校",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "次要人物",
+          "first_chapter": "Four",
+          "last_chapter": "Six"
+        }
+      ]
+    },
+    {
+      "id": "slavin",
+      "name_en": "Lieutenant-General Slavin",
+      "name_zh": "斯拉文将军",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "次要人物",
+          "first_chapter": "Four",
+          "last_chapter": "Six"
+        }
+      ]
+    },
+    {
+      "id": "vozdvishensky",
+      "name_en": "Lieutenant-General Vozdvishensky",
+      "name_zh": "沃兹德维申斯基将军",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "次要人物",
+          "first_chapter": "Four",
+          "last_chapter": "Six"
+        }
+      ]
+    },
+    {
+      "id": "troop",
+      "name_en": "Paymaster Captain Troop",
+      "name_zh": "特鲁普上校",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "次要人物",
+          "first_chapter": "Eleven",
+          "last_chapter": "Eleven"
+        }
+      ]
+    },
+    {
+      "id": "stefan-trempo",
+      "name_en": "Stefan Trempo",
+      "name_zh": "斯特凡·特伦波",
+      "aliases": [
+        "Tempo",
+        "坦波"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "次要人物",
+          "first_chapter": "Twenty-Four",
+          "last_chapter": "Twenty-Four"
+        }
+      ]
+    },
+    {
+      "id": "vavra",
+      "name_en": "Vavra",
+      "name_zh": "瓦夫拉",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "次要人物",
+          "first_chapter": "Seventeen",
+          "last_chapter": "Eighteen"
+        }
+      ]
+    },
+    {
+      "id": "krilencu",
+      "name_en": "Krilencu",
+      "name_zh": "克里连库",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "次要人物",
+          "first_chapter": "Seventeen",
+          "last_chapter": "Nineteen"
+        }
+      ]
+    },
+    {
+      "id": "zora",
+      "name_en": "Zora",
+      "name_zh": "佐拉",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "次要人物",
+          "first_chapter": "Eighteen",
+          "last_chapter": "Eighteen"
+        }
+      ]
+    },
+    {
+      "id": "vida",
+      "name_en": "Vida",
+      "name_zh": "维达",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "次要人物",
+          "first_chapter": "Eighteen",
+          "last_chapter": "Eighteen"
+        }
+      ]
+    },
+    {
+      "id": "benz",
+      "name_en": "Melchior Benz",
+      "name_zh": "梅尔基奥尔·本茨",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "次要人物",
+          "first_chapter": "Sixteen",
+          "last_chapter": "Twenty-Three"
+        }
+      ]
+    },
+    {
+      "id": "goldfarb",
+      "name_en": "Kurt Goldfarb",
+      "name_zh": "库尔特·戈德法布",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "次要人物",
+          "first_chapter": "Sixteen",
+          "last_chapter": "Twenty-Two"
+        }
+      ]
+    },
+    {
+      "id": "denikin",
+      "name_en": "Professor Denikin",
+      "name_zh": "杰尼金教授",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "次要人物",
+          "first_chapter": "Eight",
+          "last_chapter": "Eight"
+        }
+      ]
+    },
+    {
+      "id": "makharov",
+      "name_en": "Makharov",
+      "name_zh": "马卡罗夫",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "title_zh": "来自俄罗斯的爱情",
+          "role": "次要人物",
+          "first_chapter": "Seven",
+          "last_chapter": "Seven"
+        }
+      ]
+    },
+    {
+      "id": "honeychile-rider",
+      "name_en": "Honeychile Rider",
+      "name_zh": "哈妮·莱德",
+      "aliases": [
+        "Honey",
+        "Mrs John Bryce"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "主要人物",
+          "first_chapter": "VIII",
+          "last_chapter": "XX"
+        }
+      ]
+    },
+    {
+      "id": "dr-no",
+      "name_en": "Dr Julius No",
+      "name_zh": "诺博士",
+      "aliases": [
+        "Doctor No",
+        "Julius No"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "主要人物",
+          "first_chapter": "III",
+          "last_chapter": "XIX"
+        }
+      ]
+    },
+    {
+      "id": "boothroyd",
+      "name_en": "Major Boothroyd",
+      "name_zh": "布思罗伊德少校",
+      "aliases": [
+        "the Armourer",
+        "军械官"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "次要人物",
+          "first_chapter": "II",
+          "last_chapter": "XX"
+        }
+      ]
+    },
+    {
+      "id": "strangways",
+      "name_en": "Commander John Strangways",
+      "name_zh": "约翰·斯特兰威斯",
+      "aliases": [
+        "WXN"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "次要人物",
+          "first_chapter": "I",
+          "last_chapter": "XV"
+        }
+      ]
+    },
+    {
+      "id": "trueblood",
+      "name_en": "Mary Trueblood",
+      "name_zh": "玛丽·特鲁布拉德",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "次要人物",
+          "first_chapter": "I",
+          "last_chapter": "XV"
+        }
+      ]
+    },
+    {
+      "id": "pleydell-smith",
+      "name_en": "Pleydell-Smith",
+      "name_zh": "普莱德尔-史密斯",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "次要人物",
+          "first_chapter": "V",
+          "last_chapter": "XX"
+        }
+      ]
+    },
+    {
+      "id": "governor",
+      "name_en": "Acting Governor of Jamaica",
+      "name_zh": "牙买加代理总督",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "次要人物",
+          "first_chapter": "V",
+          "last_chapter": "XX"
+        }
+      ]
+    },
+    {
+      "id": "miss-taro",
+      "name_en": "Miss Taro",
+      "name_zh": "塔罗小姐",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "次要人物",
+          "first_chapter": "V",
+          "last_chapter": "XV"
+        }
+      ]
+    },
+    {
+      "id": "annabel-chung",
+      "name_en": "Annabel Chung",
+      "name_zh": "安娜贝尔·钟",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "次要人物",
+          "first_chapter": "IV",
+          "last_chapter": "XV"
+        }
+      ]
+    },
+    {
+      "id": "pus-feller",
+      "name_en": "Pus-Feller",
+      "name_zh": "脓疮佬",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "次要人物",
+          "first_chapter": "IV",
+          "last_chapter": "IV"
+        }
+      ]
+    },
+    {
+      "id": "sister-rose",
+      "name_en": "Sister Rose",
+      "name_zh": "罗斯修女",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "次要人物",
+          "first_chapter": "XIII",
+          "last_chapter": "XIII"
+        }
+      ]
+    },
+    {
+      "id": "sister-lily",
+      "name_en": "Sister Lily",
+      "name_zh": "莉莉修女",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "次要人物",
+          "first_chapter": "XIII",
+          "last_chapter": "XIII"
+        }
+      ]
+    },
+    {
+      "id": "sam-sam",
+      "name_en": "Sam-sam",
+      "name_zh": "萨姆-萨姆",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "次要人物",
+          "first_chapter": "XIV",
+          "last_chapter": "XVI"
+        }
+      ]
+    },
+    {
+      "id": "agent-258",
+      "name_en": "Agent 258",
+      "name_zh": "258号特工",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "次要人物",
+          "first_chapter": "III",
+          "last_chapter": "III"
+        }
+      ]
+    },
+    {
+      "id": "bill-templar",
+      "name_en": "Bill Templar",
+      "name_zh": "比尔·坦普勒",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "次要人物",
+          "first_chapter": "I",
+          "last_chapter": "XX"
+        }
+      ]
+    },
+    {
+      "id": "mander",
+      "name_en": "Mander",
+      "name_zh": "曼德",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "次要人物",
+          "first_chapter": "XI",
+          "last_chapter": "XI"
+        }
+      ]
+    },
+    {
+      "id": "solitaire",
+      "name_en": "Solitaire",
+      "name_zh": "索利泰尔",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "次要人物",
+          "first_chapter": "VII",
+          "last_chapter": "VII"
+        }
+      ]
+    },
+    {
+      "id": "auric-goldfinger",
+      "name_en": "Auric Goldfinger",
+      "name_zh": "奥里克·金手指",
+      "aliases": [
+        "Gold",
+        "Mr Gold"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "主要人物",
+          "first_chapter": "TWO",
+          "last_chapter": "TWENTY-THREE"
+        }
+      ]
+    },
+    {
+      "id": "oddjob",
+      "name_en": "Oddjob",
+      "name_zh": "奥德·约伯",
+      "aliases": [
+        "the Korean",
+        "the chauffeur",
+        "the handy man"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "主要人物",
+          "first_chapter": "SEVEN",
+          "last_chapter": "TWENTY-THREE"
+        }
+      ]
+    },
+    {
+      "id": "jill-masterton",
+      "name_en": "Jill Masterton",
+      "name_zh": "吉尔·马斯特顿",
+      "aliases": [],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "主要人物",
+          "first_chapter": "FOUR",
+          "last_chapter": "FOURTEEN"
+        }
+      ]
+    },
+    {
+      "id": "tilly-masterton",
+      "name_en": "Tilly Masterton",
+      "name_zh": "蒂莉·马斯特顿",
+      "aliases": [
+        "Miss Soames",
+        "Miss Tilly Soames"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "主要人物",
+          "first_chapter": "TWELVE",
+          "last_chapter": "TWENTY-ONE"
+        }
+      ]
+    },
+    {
+      "id": "pussy-galore",
+      "name_en": "Pussy Galore",
+      "name_zh": "普茜·加洛",
+      "aliases": [
+        "Miss Galore",
+        "Pussy"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "主要人物",
+          "first_chapter": "SEVENTEEN",
+          "last_chapter": "TWENTY-THREE"
+        }
+      ]
+    },
+    {
+      "id": "junius-du-pont",
+      "name_en": "Junius Du Pont",
+      "name_zh": "朱尼厄斯·杜邦",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "次要人物",
+          "first_chapter": "ONE",
+          "last_chapter": "TWELVE"
+        }
+      ]
+    },
+    {
+      "id": "colonel-smithers",
+      "name_en": "Colonel Smithers",
+      "name_zh": "史密瑟斯上校",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "次要人物",
+          "first_chapter": "SIX",
+          "last_chapter": "SEVEN"
+        }
+      ]
+    },
+    {
+      "id": "alfred-blacking",
+      "name_en": "Alfred Blacking",
+      "name_zh": "阿尔弗雷德·布莱金",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "次要人物",
+          "first_chapter": "SEVEN",
+          "last_chapter": "NINE"
+        }
+      ]
+    },
+    {
+      "id": "hawker",
+      "name_en": "Hawker",
+      "name_zh": "霍克",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "次要人物",
+          "first_chapter": "EIGHT",
+          "last_chapter": "NINE"
+        }
+      ]
+    },
+    {
+      "id": "foulks",
+      "name_en": "Foulks",
+      "name_zh": "福克斯",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "次要人物",
+          "first_chapter": "EIGHT",
+          "last_chapter": "NINE"
+        }
+      ]
+    },
+    {
+      "id": "helmut-springer",
+      "name_en": "Helmut M. Springer",
+      "name_zh": "赫尔穆特·M·斯普林格",
+      "aliases": [
+        "Hell",
+        "The Duke"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "次要人物",
+          "first_chapter": "SEVENTEEN",
+          "last_chapter": "NINETEEN"
+        }
+      ]
+    },
+    {
+      "id": "jed-midnight",
+      "name_en": "Jed Midnight",
+      "name_zh": "杰德·午夜",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "次要人物",
+          "first_chapter": "SEVENTEEN",
+          "last_chapter": "TWENTY-ONE"
+        }
+      ]
+    },
+    {
+      "id": "billy-ring",
+      "name_en": "Billy (The Grinner) Ring",
+      "name_zh": "比利·（笑面）·林",
+      "aliases": [
+        "The Grinner"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "次要人物",
+          "first_chapter": "SEVENTEEN",
+          "last_chapter": "TWENTY-ONE"
+        }
+      ]
+    },
+    {
+      "id": "jack-strap",
+      "name_en": "Jack Strap",
+      "name_zh": "杰克·斯特拉普",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "次要人物",
+          "first_chapter": "SEVENTEEN",
+          "last_chapter": "TWENTY-ONE"
+        }
+      ]
+    },
+    {
+      "id": "mr-solo",
+      "name_en": "Mr Solo",
+      "name_zh": "索洛先生",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "次要人物",
+          "first_chapter": "SEVENTEEN",
+          "last_chapter": "TWENTY-ONE"
+        }
+      ]
+    },
+    {
+      "id": "slappy-hapgood",
+      "name_en": "Slappy Hapgood",
+      "name_zh": "斯拉皮·哈普古德",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "次要人物",
+          "first_chapter": "NINETEEN",
+          "last_chapter": "NINETEEN"
+        }
+      ]
+    },
+    {
+      "id": "miss-ponsonby",
+      "name_en": "Miss Ponsonby",
+      "name_zh": "庞森比小姐",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "次要人物",
+          "first_chapter": "TWELVE",
+          "last_chapter": "TWELVE"
+        }
+      ]
+    },
+    {
+      "id": "blackwell",
+      "name_en": "Blackwell",
+      "name_zh": "布莱克威尔",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "次要人物",
+          "first_chapter": "ONE",
+          "last_chapter": "ONE"
+        }
+      ]
+    },
+    {
+      "id": "schwab",
+      "name_en": "Schwab",
+      "name_zh": "施瓦布",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "次要人物",
+          "first_chapter": "ONE",
+          "last_chapter": "ONE"
+        }
+      ]
+    },
+    {
+      "id": "agent-279",
+      "name_en": "279 (Dickson)",
+      "name_zh": "279号（迪克森）",
+      "aliases": [
+        "Dickson"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "title_zh": "金手指",
+          "role": "次要人物",
+          "first_chapter": "FIVE",
+          "last_chapter": "FIVE"
+        }
+      ]
+    },
+    {
+      "id": "mary-ann-russell",
+      "name_en": "Mary Ann Russell",
+      "name_zh": "玛丽·安·拉塞尔",
+      "aliases": [
+        "Number 765"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "次要人物",
+          "first_chapter": 1,
+          "last_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "rattray",
+      "name_en": "Wing Commander Rattray",
+      "name_zh": "拉特雷空军中校",
+      "aliases": [
+        "Head of Station F"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "次要人物",
+          "first_chapter": 1,
+          "last_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "schreiber",
+      "name_en": "Colonel G. A. Schreiber",
+      "name_zh": "G.A.施赖伯上校",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "次要人物",
+          "first_chapter": 1,
+          "last_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "bates",
+      "name_en": "Corporal Bates",
+      "name_zh": "贝茨下士",
+      "aliases": [],
+      "roles": [
+        "次要人物(受害者)"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "次要人物(受害者)",
+          "first_chapter": 1,
+          "last_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "shapes-killer",
+      "name_en": "Unnamed leader of the stay-behind unit",
+      "name_zh": "未具名的留守小组首领",
+      "aliases": [],
+      "roles": [
+        "反派"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "反派",
+          "first_chapter": 1,
+          "last_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "timothy-havelock",
+      "name_en": "Colonel Timothy Havelock",
+      "name_zh": "蒂莫西·哈夫洛克上校",
+      "aliases": [
+        "Tim",
+        "Timmy"
+      ],
+      "roles": [
+        "次要人物(受害者)"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "次要人物(受害者)",
+          "first_chapter": 2,
+          "last_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "mrs-havelock",
+      "name_en": "Mrs Havelock",
+      "name_zh": "哈夫洛克夫人",
+      "aliases": [],
+      "roles": [
+        "次要人物(受害者)"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "次要人物(受害者)",
+          "first_chapter": 2,
+          "last_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "judy-havelock",
+      "name_en": "Judy Havelock",
+      "name_zh": "朱迪·哈夫洛克",
+      "aliases": [
+        "Robina Hood(邦德戏称)"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "主要人物",
+          "first_chapter": 2,
+          "last_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "von-hammerstein",
+      "name_en": "von Hammerstein",
+      "name_zh": "冯·哈默施泰因",
+      "aliases": [
+        "Hammerstein"
+      ],
+      "roles": [
+        "反派"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "反派",
+          "first_chapter": 2,
+          "last_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "gonzales",
+      "name_en": "Major Gonzales",
+      "name_zh": "冈萨雷斯少校",
+      "aliases": [],
+      "roles": [
+        "反派"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "反派",
+          "first_chapter": 2,
+          "last_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "colonel-johns",
+      "name_en": "Colonel Johns",
+      "name_zh": "约翰斯上校",
+      "aliases": [
+        "Johns(化名,真名未透露)"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "次要人物",
+          "first_chapter": 2,
+          "last_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "governor-nassau",
+      "name_en": "The Governor of Nassau",
+      "name_zh": "拿骚总督",
+      "aliases": [],
+      "roles": [
+        "次要人物(讲述者)"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "次要人物(讲述者)",
+          "first_chapter": 3,
+          "last_chapter": 3
+        }
+      ]
+    },
+    {
+      "id": "philip-masters",
+      "name_en": "Philip Masters",
+      "name_zh": "菲利普·马斯特斯",
+      "aliases": [
+        "Masters"
+      ],
+      "roles": [
+        "主要人物(第3篇主角)"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "主要人物(第3篇主角)",
+          "first_chapter": 3,
+          "last_chapter": 3
+        }
+      ]
+    },
+    {
+      "id": "rhoda-masters",
+      "name_en": "Rhoda Masters",
+      "name_zh": "罗达·马斯特斯",
+      "aliases": [
+        "Mrs Harvey Miller(再婚后)",
+        "Rhoda Llewellyn(娘家姓)"
+      ],
+      "roles": [
+        "主要人物(第3篇主角)"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "主要人物(第3篇主角)",
+          "first_chapter": 3,
+          "last_chapter": 3
+        }
+      ]
+    },
+    {
+      "id": "tattersall",
+      "name_en": "Tattersall",
+      "name_zh": "塔特索尔",
+      "aliases": [
+        "the oldest Tattersall boy"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "次要人物",
+          "first_chapter": 3,
+          "last_chapter": 3
+        }
+      ]
+    },
+    {
+      "id": "harvey-miller",
+      "name_en": "Harvey Miller",
+      "name_zh": "哈维·米勒",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "次要人物",
+          "first_chapter": 3,
+          "last_chapter": 3
+        }
+      ]
+    },
+    {
+      "id": "kristatos",
+      "name_en": "Kristatos",
+      "name_zh": "克里斯塔托斯",
+      "aliases": [
+        "Signor Kristatos"
+      ],
+      "roles": [
+        "反派"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "反派",
+          "first_chapter": 4,
+          "last_chapter": 4
+        }
+      ]
+    },
+    {
+      "id": "enrico-colombo",
+      "name_en": "Enrico Colombo",
+      "name_zh": "恩里科·科伦坡",
+      "aliases": [
+        "The Dove",
+        "padrone"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "主要人物",
+          "first_chapter": 4,
+          "last_chapter": 4
+        }
+      ]
+    },
+    {
+      "id": "lisl-baum",
+      "name_en": "Lisl Baum",
+      "name_zh": "莉斯尔·鲍姆",
+      "aliases": [
+        "Fraulein Lisl Baum"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "次要人物",
+          "first_chapter": 4,
+          "last_chapter": 4
+        }
+      ]
+    },
+    {
+      "id": "milton-krest",
+      "name_en": "Milton Krest",
+      "name_zh": "米尔顿·克雷斯特",
+      "aliases": [
+        "Milt",
+        "Mr Krest"
+      ],
+      "roles": [
+        "反派"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "反派",
+          "first_chapter": 5,
+          "last_chapter": 5
+        }
+      ]
+    },
+    {
+      "id": "liz-krest",
+      "name_en": "Elizabeth Krest",
+      "name_zh": "伊丽莎白·克雷斯特",
+      "aliases": [
+        "Liz",
+        "Mrs Krest",
+        "the fifth Mrs Krest",
+        "treasure"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "主要人物",
+          "first_chapter": 5,
+          "last_chapter": 5
+        }
+      ]
+    },
+    {
+      "id": "fidele-barbey",
+      "name_en": "Fidele Barbey",
+      "name_zh": "菲德尔·巴贝",
+      "aliases": [
+        "Fido",
+        "Old Faithful(克雷斯特戏称)"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "次要人物",
+          "first_chapter": 5,
+          "last_chapter": 5
+        }
+      ]
+    },
+    {
+      "id": "hildebrand",
+      "name_en": "Professor Hildebrand",
+      "name_zh": "希尔德布兰德教授",
+      "aliases": [],
+      "roles": [
+        "次要人物(仅提及)"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "title_zh": "只为你的双眼",
+          "role": "次要人物(仅提及)",
+          "first_chapter": 5,
+          "last_chapter": 5
+        }
+      ]
+    },
+    {
+      "id": "wain",
+      "name_en": "Joshua Wain",
+      "name_zh": "约书亚·韦恩",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 2,
+          "last_chapter": 4
+        }
+      ]
+    },
+    {
+      "id": "patricia-fearing",
+      "name_en": "Patricia Fearing",
+      "name_zh": "帕特里夏·费林",
+      "aliases": [
+        "Miss Fearing",
+        "Pat"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 2,
+          "last_chapter": 4
+        }
+      ]
+    },
+    {
+      "id": "lippe",
+      "name_en": "Count Lippe",
+      "name_zh": "利普伯爵",
+      "aliases": [
+        "Sub-operator G"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "主要人物",
+          "first_chapter": 2,
+          "last_chapter": 8
+        }
+      ]
+    },
+    {
+      "id": "largo",
+      "name_en": "Emilio Largo",
+      "name_zh": "埃米利奥·拉戈",
+      "aliases": [
+        "No. 1"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "主要人物",
+          "first_chapter": 10,
+          "last_chapter": 23
+        }
+      ]
+    },
+    {
+      "id": "domino",
+      "name_en": "Dominetta Vitali",
+      "name_zh": "多米内塔·维塔利",
+      "aliases": [
+        "Domino"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "主要人物",
+          "first_chapter": 11,
+          "last_chapter": 24
+        }
+      ]
+    },
+    {
+      "id": "petacchi",
+      "name_en": "Giuseppe Petacchi",
+      "name_zh": "朱塞佩·佩塔基",
+      "aliases": [
+        "Giuseppi Petacchi"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 8,
+          "last_chapter": 17
+        }
+      ]
+    },
+    {
+      "id": "harling",
+      "name_en": "Commissioner Harling",
+      "name_zh": "哈林总监",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 11,
+          "last_chapter": 20
+        }
+      ]
+    },
+    {
+      "id": "pitman",
+      "name_en": "Pitman",
+      "name_zh": "皮特曼",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 11,
+          "last_chapter": 12
+        }
+      ]
+    },
+    {
+      "id": "roddick",
+      "name_en": "Roddick",
+      "name_zh": "罗迪克",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 12,
+          "last_chapter": 12
+        }
+      ]
+    },
+    {
+      "id": "santos",
+      "name_en": "Constable Santos",
+      "name_zh": "桑托斯警员",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 16,
+          "last_chapter": 17
+        }
+      ]
+    },
+    {
+      "id": "kotze",
+      "name_en": "Kotze",
+      "name_zh": "科策",
+      "aliases": [
+        "Emil Traut",
+        "No. 5"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 5,
+          "last_chapter": 24
+        }
+      ]
+    },
+    {
+      "id": "maslov",
+      "name_en": "Maslov",
+      "name_zh": "马斯洛夫",
+      "aliases": [
+        "Kandinsky",
+        "No. 18"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 5,
+          "last_chapter": 6
+        }
+      ]
+    },
+    {
+      "id": "domingue",
+      "name_en": "Marius Domingue",
+      "name_zh": "马里于斯·多明格",
+      "aliases": [
+        "No. 7"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 6,
+          "last_chapter": 6
+        }
+      ]
+    },
+    {
+      "id": "borraud",
+      "name_en": "Pierre Borraud",
+      "name_zh": "皮埃尔·博罗",
+      "aliases": [
+        "No. 12"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 6,
+          "last_chapter": 6
+        }
+      ]
+    },
+    {
+      "id": "strelik",
+      "name_en": "Strelik",
+      "name_zh": "斯特雷利克",
+      "aliases": [
+        "No. 10"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 21,
+          "last_chapter": 21
+        }
+      ]
+    },
+    {
+      "id": "bayer",
+      "name_en": "Bruno Bayer",
+      "name_zh": "布鲁诺·拜尔",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 6,
+          "last_chapter": 6
+        }
+      ]
+    },
+    {
+      "id": "sciacca",
+      "name_en": "Fidelio Sciacca",
+      "name_zh": "菲德利奥·夏卡",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 6,
+          "last_chapter": 6
+        }
+      ]
+    },
+    {
+      "id": "fonda",
+      "name_en": "Fonda",
+      "name_zh": "丰达",
+      "aliases": [
+        "No. 4"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 9,
+          "last_chapter": 9
+        }
+      ]
+    },
+    {
+      "id": "vargas",
+      "name_en": "Vargas",
+      "name_zh": "瓦尔加斯",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 9,
+          "last_chapter": 10
+        }
+      ]
+    },
+    {
+      "id": "pedersen",
+      "name_en": "Commander P. Pedersen",
+      "name_zh": "P·佩德森舰长",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 20,
+          "last_chapter": 22
+        }
+      ]
+    },
+    {
+      "id": "fallon",
+      "name_en": "Petty Officer Fallon",
+      "name_zh": "法伦军士长",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 22,
+          "last_chapter": 23
+        }
+      ]
+    },
+    {
+      "id": "stengel",
+      "name_en": "Dr. Stengel",
+      "name_zh": "施滕格尔医生",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 24,
+          "last_chapter": 24
+        }
+      ]
+    },
+    {
+      "id": "molony",
+      "name_en": "Sergeant Molony",
+      "name_zh": "莫洛尼军士",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 14,
+          "last_chapter": 14
+        }
+      ]
+    },
+    {
+      "id": "snow",
+      "name_en": "Mr. Snow",
+      "name_zh": "斯诺先生",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "title_zh": "霹雳弹",
+          "role": "次要人物",
+          "first_chapter": 15,
+          "last_chapter": 15
+        }
+      ]
+    },
+    {
+      "id": "vivienne-michel",
+      "name_en": "Vivienne Michel",
+      "name_zh": "薇薇安·米歇尔",
+      "aliases": [
+        "Viv"
+      ],
+      "roles": [
+        "主要人物（叙述者）"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "title_zh": "爱我的间谍",
+          "role": "主要人物（叙述者）",
+          "first_chapter": "One",
+          "last_chapter": "Fifteen"
+        }
+      ]
+    },
+    {
+      "id": "sol-horowitz",
+      "name_en": "Sol Horowitz",
+      "name_zh": "索尔·霍洛维茨",
+      "aliases": [
+        "Horror"
+      ],
+      "roles": [
+        "反派（打手头目）"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "title_zh": "爱我的间谍",
+          "role": "反派（打手头目）",
+          "first_chapter": "Eight",
+          "last_chapter": "Thirteen"
+        }
+      ]
+    },
+    {
+      "id": "sluggsy-morant",
+      "name_en": "Sluggsy Morant",
+      "name_zh": "斯拉格西·莫兰特",
+      "aliases": [
+        "Sluggsy"
+      ],
+      "roles": [
+        "反派（打手）"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "title_zh": "爱我的间谍",
+          "role": "反派（打手）",
+          "first_chapter": "Eight",
+          "last_chapter": "Fourteen"
+        }
+      ]
+    },
+    {
+      "id": "jed-phancey",
+      "name_en": "Jed Phancey",
+      "name_zh": "杰德·菲希",
+      "aliases": [
+        "Mr. Phancey"
+      ],
+      "roles": [
+        "次要人物（旅馆经理）"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "title_zh": "爱我的间谍",
+          "role": "次要人物（旅馆经理）",
+          "first_chapter": "One",
+          "last_chapter": "Fifteen"
+        }
+      ]
+    },
+    {
+      "id": "millicent-phancey",
+      "name_en": "Millicent Phancey",
+      "name_zh": "米莉森特·菲希",
+      "aliases": [
+        "Mrs. Phancey"
+      ],
+      "roles": [
+        "次要人物（旅馆经理夫人）"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "title_zh": "爱我的间谍",
+          "role": "次要人物（旅馆经理夫人）",
+          "first_chapter": "One",
+          "last_chapter": "Fifteen"
+        }
+      ]
+    },
+    {
+      "id": "sanguinetti",
+      "name_en": "Mr. Sanguinetti",
+      "name_zh": "桑吉内蒂先生",
+      "aliases": [],
+      "roles": [
+        "幕后反派（未出场）"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "title_zh": "爱我的间谍",
+          "role": "幕后反派（未出场）",
+          "first_chapter": "Seven",
+          "last_chapter": "Fifteen"
+        }
+      ]
+    },
+    {
+      "id": "derek-mallaby",
+      "name_en": "Derek Mallaby",
+      "name_zh": "德里克·马拉比",
+      "aliases": [],
+      "roles": [
+        "次要人物（薇薇安初恋）"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "title_zh": "爱我的间谍",
+          "role": "次要人物（薇薇安初恋）",
+          "first_chapter": "Two",
+          "last_chapter": "Four"
+        }
+      ]
+    },
+    {
+      "id": "kurt-rainer",
+      "name_en": "Kurt Rainer",
+      "name_zh": "库尔特·雷纳",
+      "aliases": [],
+      "roles": [
+        "次要人物（薇薇安第二任情人）"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "title_zh": "爱我的间谍",
+          "role": "次要人物（薇薇安第二任情人）",
+          "first_chapter": "Four",
+          "last_chapter": "Six"
+        }
+      ]
+    },
+    {
+      "id": "trude",
+      "name_en": "Trude",
+      "name_zh": "特鲁德",
+      "aliases": [],
+      "roles": [
+        "次要人物（仅在回忆中出现）"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "title_zh": "爱我的间谍",
+          "role": "次要人物（仅在回忆中出现）",
+          "first_chapter": "Five",
+          "last_chapter": "Five"
+        }
+      ]
+    },
+    {
+      "id": "susan-duff",
+      "name_en": "Susan Duff",
+      "name_zh": "苏珊·达夫",
+      "aliases": [],
+      "roles": [
+        "次要人物（薇薇安挚友）"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "title_zh": "爱我的间谍",
+          "role": "次要人物（薇薇安挚友）",
+          "first_chapter": "Two",
+          "last_chapter": "Five"
+        }
+      ]
+    },
+    {
+      "id": "len-holbrook",
+      "name_en": "Len Holbrook",
+      "name_zh": "伦·霍尔布鲁克",
+      "aliases": [],
+      "roles": [
+        "次要人物（薇薇安上司）"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "title_zh": "爱我的间谍",
+          "role": "次要人物（薇薇安上司）",
+          "first_chapter": "Four",
+          "last_chapter": "Four"
+        }
+      ]
+    },
+    {
+      "id": "florence-toussaint",
+      "name_en": "Florence Toussaint",
+      "name_zh": "弗洛伦斯·图桑",
+      "aliases": [
+        "Aunt Florence"
+      ],
+      "roles": [
+        "次要人物（薇薇安姨妈）"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "title_zh": "爱我的间谍",
+          "role": "次要人物（薇薇安姨妈）",
+          "first_chapter": "Two",
+          "last_chapter": "Six"
+        }
+      ]
+    },
+    {
+      "id": "boris",
+      "name_en": "Boris",
+      "name_zh": "鲍里斯",
+      "aliases": [],
+      "roles": [
+        "次要人物（仅在邦德讲述中出现）"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "title_zh": "爱我的间谍",
+          "role": "次要人物（仅在邦德讲述中出现）",
+          "first_chapter": "Eleven",
+          "last_chapter": "Eleven"
+        }
+      ]
+    },
+    {
+      "id": "horst-uhlmann",
+      "name_en": "Horst Uhlmann",
+      "name_zh": "霍斯特·乌尔曼",
+      "aliases": [],
+      "roles": [
+        "次要人物（仅在邦德讲述中出现）"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "title_zh": "爱我的间谍",
+          "role": "次要人物（仅在邦德讲述中出现）",
+          "first_chapter": "Eleven",
+          "last_chapter": "Eleven"
+        }
+      ]
+    },
+    {
+      "id": "captain-stonor",
+      "name_en": "Captain Stonor",
+      "name_zh": "斯托纳上尉",
+      "aliases": [],
+      "roles": [
+        "次要人物（警方负责人）"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "title_zh": "爱我的间谍",
+          "role": "次要人物（警方负责人）",
+          "first_chapter": "Fifteen",
+          "last_chapter": "Fifteen"
+        }
+      ]
+    },
+    {
+      "id": "lieutenant-morrow",
+      "name_en": "Lieutenant Morrow",
+      "name_zh": "莫罗中尉",
+      "aliases": [],
+      "roles": [
+        "次要人物（州警）"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "title_zh": "爱我的间谍",
+          "role": "次要人物（州警）",
+          "first_chapter": "Fifteen",
+          "last_chapter": "Fifteen"
+        }
+      ]
+    },
+    {
+      "id": "odonnell",
+      "name_en": "O'Donnell",
+      "name_zh": "奥唐纳",
+      "aliases": [],
+      "roles": [
+        "次要人物（州警）"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "spy-who-loved-me",
+          "novel_no": 10,
+          "title_zh": "爱我的间谍",
+          "role": "次要人物（州警）",
+          "first_chapter": "Fifteen",
+          "last_chapter": "Fifteen"
+        }
+      ]
+    },
+    {
+      "id": "draco",
+      "name_en": "Marc-Ange Draco",
+      "name_zh": "马克-安吉·德拉科",
+      "aliases": [
+        "Capu",
+        "the Capu"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "主要人物",
+          "first_chapter": 4,
+          "last_chapter": 27
+        }
+      ]
+    },
+    {
+      "id": "sable-basilisk",
+      "name_en": "Hilary Bray",
+      "name_zh": "希拉里·布雷（纹章官）",
+      "aliases": [
+        "Sable Basilisk Pursuivant"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 7,
+          "last_chapter": 23
+        }
+      ]
+    },
+    {
+      "id": "griffon-or",
+      "name_en": "Griffon Or",
+      "name_zh": "格里芬·奥尔",
+      "aliases": [
+        "Griffon Or Pursuivant"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 6,
+          "last_chapter": 7
+        }
+      ]
+    },
+    {
+      "id": "ruby",
+      "name_en": "Ruby Windsor",
+      "name_zh": "鲁比·温莎",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 10,
+          "last_chapter": 15
+        }
+      ]
+    },
+    {
+      "id": "violet",
+      "name_en": "Violet O'Neill",
+      "name_zh": "薇奥莱特·奥尼尔",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 10,
+          "last_chapter": 26
+        }
+      ]
+    },
+    {
+      "id": "elizabeth-mackinnon",
+      "name_en": "Elizabeth Mackinnon",
+      "name_zh": "伊丽莎白·麦金农",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 10,
+          "last_chapter": 15
+        }
+      ]
+    },
+    {
+      "id": "beryl-morgan",
+      "name_en": "Beryl Morgan",
+      "name_zh": "贝丽尔·摩根",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 10,
+          "last_chapter": 15
+        }
+      ]
+    },
+    {
+      "id": "pearl-tampion",
+      "name_en": "Pearl Tampion",
+      "name_zh": "珀尔·坦皮恩",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 10,
+          "last_chapter": 15
+        }
+      ]
+    },
+    {
+      "id": "anne-charter",
+      "name_en": "Anne Charter",
+      "name_zh": "安妮·查特",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 10,
+          "last_chapter": 15
+        }
+      ]
+    },
+    {
+      "id": "caresse-ventnor",
+      "name_en": "Caresse Ventnor",
+      "name_zh": "卡雷斯·文特诺",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 15,
+          "last_chapter": 15
+        }
+      ]
+    },
+    {
+      "id": "denise-robertson",
+      "name_en": "Denise Robertson",
+      "name_zh": "丹尼斯·罗伯逊",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 15,
+          "last_chapter": 15
+        }
+      ]
+    },
+    {
+      "id": "sarah",
+      "name_en": "Sarah",
+      "name_zh": "莎拉",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 11,
+          "last_chapter": 11
+        }
+      ]
+    },
+    {
+      "id": "polly-tasker",
+      "name_en": "Polly Tasker",
+      "name_zh": "宝莉·塔斯克",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 13,
+          "last_chapter": 22
+        }
+      ]
+    },
+    {
+      "id": "shaun-campbell",
+      "name_en": "Shaun Campbell",
+      "name_zh": "肖恩·坎贝尔",
+      "aliases": [
+        "Number 2 from Station Z"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 14,
+          "last_chapter": 19
+        }
+      ]
+    },
+    {
+      "id": "alexander-muir",
+      "name_en": "Alexander Muir",
+      "name_zh": "亚历山大·缪尔",
+      "aliases": [
+        "410",
+        "Head of Station Z"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 19,
+          "last_chapter": 25
+        }
+      ]
+    },
+    {
+      "id": "leathers",
+      "name_en": "Leathers",
+      "name_zh": "莱瑟斯",
+      "aliases": [
+        "501",
+        "Mr Leathers"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 21,
+          "last_chapter": 21
+        }
+      ]
+    },
+    {
+      "id": "franklin",
+      "name_en": "Franklin",
+      "name_zh": "富兰克林",
+      "aliases": [
+        "Mr Franklin"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 21,
+          "last_chapter": 22
+        }
+      ]
+    },
+    {
+      "id": "che-che",
+      "name_en": "Che-Che",
+      "name_zh": "切-切",
+      "aliases": [
+        "Che-Che le Persuadeur"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 23,
+          "last_chapter": 26
+        }
+      ]
+    },
+    {
+      "id": "toussaint",
+      "name_en": "Toussaint",
+      "name_zh": "图桑",
+      "aliases": [
+        "Le Pouff"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 23,
+          "last_chapter": 24
+        }
+      ]
+    },
+    {
+      "id": "georges",
+      "name_en": "Georges",
+      "name_zh": "乔治",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 24,
+          "last_chapter": 24
+        }
+      ]
+    },
+    {
+      "id": "marius",
+      "name_en": "Marius",
+      "name_zh": "马里于斯",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 23,
+          "last_chapter": 23
+        }
+      ]
+    },
+    {
+      "id": "savage",
+      "name_en": "Savage",
+      "name_zh": "萨维奇",
+      "aliases": [
+        "Head of Station M",
+        "Lieutenant-Commander Savage"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 26,
+          "last_chapter": 27
+        }
+      ]
+    },
+    {
+      "id": "bertil",
+      "name_en": "Bertil",
+      "name_zh": "贝尔蒂尔",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 11,
+          "last_chapter": 11
+        }
+      ]
+    },
+    {
+      "id": "captain-boris",
+      "name_en": "Captain Boris",
+      "name_zh": "鲍里斯上尉",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "title_zh": "女王密使",
+          "role": "次要人物",
+          "first_chapter": 15,
+          "last_chapter": 21
+        }
+      ]
+    },
+    {
+      "id": "tiger-tanaka",
+      "name_en": "Tiger Tanaka",
+      "name_zh": "田中虎",
+      "aliases": [],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "主要人物",
+          "first_chapter": 1,
+          "last_chapter": 22
+        }
+      ]
+    },
+    {
+      "id": "dikko-henderson",
+      "name_en": "Richard Lovelace Henderson",
+      "name_zh": "理查德·洛夫莱斯·亨德森",
+      "aliases": [
+        "Dikko"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "主要人物",
+          "first_chapter": 1,
+          "last_chapter": 22
+        }
+      ]
+    },
+    {
+      "id": "kissy-suzuki",
+      "name_en": "Kissy Suzuki",
+      "name_zh": "岸喜悦子",
+      "aliases": [
+        "The Japanese Garbo"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "主要人物",
+          "first_chapter": 12,
+          "last_chapter": 22
+        }
+      ]
+    },
+    {
+      "id": "trembling-leaf",
+      "name_en": "Trembling Leaf",
+      "name_zh": "颤叶",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "次要人物",
+          "first_chapter": 1,
+          "last_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "grey-pearl",
+      "name_en": "Grey Pearl",
+      "name_zh": "灰珍珠",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "次要人物",
+          "first_chapter": 1,
+          "last_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "mariko-ichiban",
+      "name_en": "Mariko Ichiban",
+      "name_zh": "真理一号",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "次要人物",
+          "first_chapter": 9,
+          "last_chapter": 9
+        }
+      ]
+    },
+    {
+      "id": "kono",
+      "name_en": "Kono",
+      "name_zh": "河野",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "次要人物",
+          "first_chapter": 18,
+          "last_chapter": 19
+        }
+      ]
+    },
+    {
+      "id": "kazama",
+      "name_en": "Kazama",
+      "name_zh": "风间",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "次要人物",
+          "first_chapter": 19,
+          "last_chapter": 19
+        }
+      ]
+    },
+    {
+      "id": "kannushi",
+      "name_en": "Shinto Priest of Kuro",
+      "name_zh": "黑岛神道神父",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "次要人物",
+          "first_chapter": 13,
+          "last_chapter": 22
+        }
+      ]
+    },
+    {
+      "id": "ando",
+      "name_en": "Superintendent Ando",
+      "name_zh": "安藤警视",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "次要人物",
+          "first_chapter": 12,
+          "last_chapter": 13
+        }
+      ]
+    },
+    {
+      "id": "suzuki-father",
+      "name_en": "Suzuki Father",
+      "name_zh": "铃木父亲",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "次要人物",
+          "first_chapter": 13,
+          "last_chapter": 22
+        }
+      ]
+    },
+    {
+      "id": "suzuki-mother",
+      "name_en": "Suzuki Mother",
+      "name_zh": "铃木母亲",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "次要人物",
+          "first_chapter": 13,
+          "last_chapter": 22
+        }
+      ]
+    },
+    {
+      "id": "kuro-doctor",
+      "name_en": "Doctor of Kuro",
+      "name_zh": "黑岛医生",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "次要人物",
+          "first_chapter": 22,
+          "last_chapter": 22
+        }
+      ]
+    },
+    {
+      "id": "david",
+      "name_en": "David",
+      "name_zh": "大卫",
+      "aliases": [],
+      "roles": [
+        "动物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "动物",
+          "first_chapter": 14,
+          "last_chapter": 22
+        }
+      ]
+    },
+    {
+      "id": "porterfield",
+      "name_en": "Porterfield",
+      "name_zh": "波特菲尔德",
+      "aliases": [],
+      "roles": [
+        "次要人物（仅提及）"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "次要人物（仅提及）",
+          "first_chapter": 2,
+          "last_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "scaramanga",
+      "name_en": "Francisco Scaramanga",
+      "name_zh": "弗朗西斯科·斯卡拉曼加",
+      "aliases": [
+        "\"Pistols\" Scaramanga",
+        "Mr. S.",
+        "Paco",
+        "Pistol",
+        "The Man with the Golden Gun"
+      ],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "主要人物",
+          "first_chapter": 3,
+          "last_chapter": 15
+        }
+      ]
+    },
+    {
+      "id": "hendriks",
+      "name_en": "Mr. Hendriks",
+      "name_zh": "亨德里克斯先生",
+      "aliases": [],
+      "roles": [
+        "主要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "主要人物",
+          "first_chapter": 7,
+          "last_chapter": 14
+        }
+      ]
+    },
+    {
+      "id": "ross",
+      "name_en": "Commander Ross",
+      "name_zh": "罗斯指挥官",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 4,
+          "last_chapter": 9
+        }
+      ]
+    },
+    {
+      "id": "nicholson",
+      "name_en": "Nick Nicholson",
+      "name_zh": "尼克·尼科尔森",
+      "aliases": [
+        "Stanley Jones"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 8,
+          "last_chapter": 16
+        }
+      ]
+    },
+    {
+      "id": "tiffy",
+      "name_en": "Tiffy",
+      "name_zh": "蒂菲",
+      "aliases": [
+        "Artificial"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 5,
+          "last_chapter": 6
+        }
+      ]
+    },
+    {
+      "id": "hugill",
+      "name_en": "Tony Hugill",
+      "name_zh": "托尼·胡吉尔",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 4,
+          "last_chapter": 11
+        }
+      ]
+    },
+    {
+      "id": "gengerella",
+      "name_en": "Leroy Gengerella",
+      "name_zh": "勒罗伊·金格雷拉",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 7,
+          "last_chapter": 14
+        }
+      ]
+    },
+    {
+      "id": "binion",
+      "name_en": "Sam Binion",
+      "name_zh": "萨姆·比尼恩",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 7,
+          "last_chapter": 14
+        }
+      ]
+    },
+    {
+      "id": "rotkopf",
+      "name_en": "Ruby Rotkopf",
+      "name_zh": "鲁比·罗特科普夫",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 7,
+          "last_chapter": 9
+        }
+      ]
+    },
+    {
+      "id": "garfinkel",
+      "name_en": "Hal Garfinkel",
+      "name_zh": "哈尔·加芬克尔",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 7,
+          "last_chapter": 14
+        }
+      ]
+    },
+    {
+      "id": "paradise",
+      "name_en": "Louis Paradise",
+      "name_zh": "路易斯·帕拉戴斯",
+      "aliases": [
+        "Louie"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 7,
+          "last_chapter": 14
+        }
+      ]
+    },
+    {
+      "id": "margesson",
+      "name_en": "Margesson",
+      "name_zh": "马格森",
+      "aliases": [
+        "098"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 3,
+          "last_chapter": 15
+        }
+      ]
+    },
+    {
+      "id": "townsend",
+      "name_en": "Major Townsend",
+      "name_zh": "汤森少校",
+      "aliases": [
+        "Soft Man"
+      ],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 1,
+          "last_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "walker",
+      "name_en": "Captain Walker",
+      "name_zh": "沃克上尉",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 1,
+          "last_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "mother-edna",
+      "name_en": "Mother Edna",
+      "name_zh": "艾德娜妈妈",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 6,
+          "last_chapter": 6
+        }
+      ]
+    },
+    {
+      "id": "lister-smith",
+      "name_en": "Dr. Lister Smith",
+      "name_zh": "利斯特·史密斯医生",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 16,
+          "last_chapter": 16
+        }
+      ]
+    },
+    {
+      "id": "sampson",
+      "name_en": "Constable Percival Sampson",
+      "name_zh": "珀西瓦尔·桑普森警员",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 16,
+          "last_chapter": 16
+        }
+      ]
+    },
+    {
+      "id": "cargill",
+      "name_en": "Justice Morris Cargill",
+      "name_zh": "莫里斯·卡吉尔法官",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 16,
+          "last_chapter": 16
+        }
+      ]
+    },
+    {
+      "id": "cc",
+      "name_en": "C.C.",
+      "name_zh": "C.C.",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 3,
+          "last_chapter": 3
+        }
+      ]
+    },
+    {
+      "id": "semichastny",
+      "name_en": "Semichastny",
+      "name_zh": "谢米恰斯内",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 2,
+          "last_chapter": 11
+        }
+      ]
+    },
+    {
+      "id": "freudenstadt",
+      "name_en": "Maria Freudenstadt",
+      "name_zh": "玛丽亚·弗洛伊登施塔特",
+      "aliases": [],
+      "roles": [
+        "次要人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 1,
+          "last_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "dexter-smythe",
+      "name_en": "Major Dexter Smythe",
+      "name_zh": "德克斯特·斯迈思少校",
+      "aliases": [
+        "Dexter Smythe",
+        "Major Smythe"
+      ],
+      "roles": [
+        "主要人物，第1篇中心人物"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "主要人物，第1篇中心人物",
+          "first_chapter": 1,
+          "last_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "hannes-oberhauser",
+      "name_en": "Hannes Oberhauser",
+      "name_zh": "汉内斯·奥伯豪泽",
+      "aliases": [],
+      "roles": [
+        "主要人物，第1篇被害人"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "主要人物，第1篇被害人",
+          "first_chapter": 1,
+          "last_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "mary-parnell",
+      "name_en": "Mary Parnell Smythe",
+      "name_zh": "玛丽·帕内尔·斯迈思",
+      "aliases": [
+        "Mary Smythe"
+      ],
+      "roles": [
+        "次要人物，第1篇亡妻"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "次要人物，第1篇亡妻",
+          "first_chapter": 1,
+          "last_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "luna",
+      "name_en": "Luna",
+      "name_zh": "卢娜",
+      "aliases": [],
+      "roles": [
+        "次要人物，第1篇"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "次要人物，第1篇",
+          "first_chapter": 1,
+          "last_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "professor-bengry",
+      "name_en": "Professor Bengry",
+      "name_zh": "本格里教授",
+      "aliases": [],
+      "roles": [
+        "次要人物，第1篇"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "次要人物，第1篇",
+          "first_chapter": 1,
+          "last_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "foo-brothers",
+      "name_en": "Foo brothers",
+      "name_zh": "傅氏兄弟",
+      "aliases": [
+        "Messrs. Foo"
+      ],
+      "roles": [
+        "次要人物，第1篇"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "次要人物，第1篇",
+          "first_chapter": 1,
+          "last_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "colonel-king",
+      "name_en": "Colonel King",
+      "name_zh": "金上校",
+      "aliases": [],
+      "roles": [
+        "次要人物，第1篇，仅回忆中出现"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "次要人物，第1篇，仅回忆中出现",
+          "first_chapter": 1,
+          "last_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "dr-cahusac",
+      "name_en": "Dr. Cahusac",
+      "name_zh": "卡于萨克医生",
+      "aliases": [],
+      "roles": [
+        "次要人物，第1篇，仅笔记中出现"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "次要人物，第1篇，仅笔记中出现",
+          "first_chapter": 1,
+          "last_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "jimmy-greaves",
+      "name_en": "Dr. Jimmy Greaves",
+      "name_zh": "吉米·格里夫斯医生",
+      "aliases": [],
+      "roles": [
+        "次要人物，第1篇，仅提及"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "次要人物，第1篇，仅提及",
+          "first_chapter": 1,
+          "last_chapter": 1
+        }
+      ]
+    },
+    {
+      "id": "trigger",
+      "name_en": "Trigger",
+      "name_zh": "扳机",
+      "aliases": [
+        "the cello girl"
+      ],
+      "roles": [
+        "主要人物，第2篇敌方狙击手"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "主要人物，第2篇敌方狙击手",
+          "first_chapter": 2,
+          "last_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "agent-272",
+      "name_en": "Number 272",
+      "name_zh": "272号",
+      "aliases": [],
+      "roles": [
+        "主要人物，第2篇被营救对象"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "主要人物，第2篇被营救对象",
+          "first_chapter": 2,
+          "last_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "paul-sender",
+      "name_en": "Captain Paul Sender",
+      "name_zh": "保罗·森德上尉",
+      "aliases": [],
+      "roles": [
+        "主要人物，第2篇邦德搭档"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "主要人物，第2篇邦德搭档",
+          "first_chapter": 2,
+          "last_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "tanqueray",
+      "name_en": "Tanqueray",
+      "name_zh": "坦奎雷",
+      "aliases": [],
+      "roles": [
+        "次要人物，第2篇，仅提及"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "次要人物，第2篇，仅提及",
+          "first_chapter": 2,
+          "last_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "corporal-menzies",
+      "name_en": "Corporal Menzies",
+      "name_zh": "门齐斯下士",
+      "aliases": [],
+      "roles": [
+        "次要人物，第2篇"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "次要人物，第2篇",
+          "first_chapter": 2,
+          "last_chapter": 2
+        }
+      ]
+    },
+    {
+      "id": "maria-freudenstein",
+      "name_en": "Maria Freudenstein",
+      "name_zh": "玛丽亚·弗洛伊登施泰因",
+      "aliases": [
+        "Miss Freudenstein"
+      ],
+      "roles": [
+        "主要人物，第3篇"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "主要人物，第3篇",
+          "first_chapter": 3,
+          "last_chapter": 3
+        }
+      ]
+    },
+    {
+      "id": "piotr-malinowski",
+      "name_en": "Piotr Malinowski",
+      "name_zh": "彼得·马利诺夫斯基",
+      "aliases": [],
+      "roles": [
+        "主要人物，第3篇被识别对象"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "主要人物，第3篇被识别对象",
+          "first_chapter": 3,
+          "last_chapter": 3
+        }
+      ]
+    },
+    {
+      "id": "kenneth-snowman",
+      "name_en": "Kenneth Snowman",
+      "name_zh": "肯尼思·斯诺曼",
+      "aliases": [
+        "Mr. Snowman"
+      ],
+      "roles": [
+        "主要人物，第3篇"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "主要人物，第3篇",
+          "first_chapter": 3,
+          "last_chapter": 3
+        }
+      ]
+    },
+    {
+      "id": "dr-fanshawe",
+      "name_en": "Dr. Fanshawe",
+      "name_zh": "范肖博士",
+      "aliases": [],
+      "roles": [
+        "主要人物，第3篇揭发者"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "主要人物，第3篇揭发者",
+          "first_chapter": 3,
+          "last_chapter": 3
+        }
+      ]
+    },
+    {
+      "id": "peter-wilson",
+      "name_en": "Peter Wilson",
+      "name_zh": "彼得·威尔逊",
+      "aliases": [],
+      "roles": [
+        "次要人物，第3篇"
+      ],
+      "appearance_count": 1,
+      "appearances": [
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "title_zh": "八爪女与黎明生死线",
+          "role": "次要人物，第3篇",
+          "first_chapter": 3,
+          "last_chapter": 3
+        }
+      ]
+    }
+  ]
+}

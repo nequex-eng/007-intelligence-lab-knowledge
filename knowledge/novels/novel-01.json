@@ -1,0 +1,1764 @@
+{
+  "novel_id": "casino-royale",
+  "novel_no": 1,
+  "title_en": "Casino Royale",
+  "title_zh": "皇家赌场",
+  "publication_year": 1953,
+  "kind": "长篇",
+  "source_file": "source/txt/casino-royale.txt",
+  "source_sha256": "d2bc3b4a3c071f50556caeec69b77a353d01e2b5750fe1df58e40b1c1044fe06",
+  "words": 50035,
+  "lines": 1359,
+  "reading": {
+    "chapters_read": 27,
+    "chapters_total": 27,
+    "coverage": "100%",
+    "method": "按章节sed分段读"
+  },
+  "story_timeline": "备忘录写于行动前两周；勒·希弗计划6月15日或之后在皇家莱索赌场赢5000万法郎补亏空；邦德提前数日抵达，抵达后第二天上午马蒂斯登门，同一天中午结识薇丝朋，下午遭遇保加利亚人炸弹袭击，当晚与勒·希弗进行百家乐对决至次日凌晨约2时30分；凌晨约4时薇丝朋被绑架，邦德驾车追赶约5时在钉刺路障处翻车被俘，上午约7时起在别墅受酷刑约1小时，随后SMERSH特工枪杀勒·希弗；邦德昏迷约两天，第3天上午苏醒，第8天首次见薇丝朋，约3周后痊愈，7月与薇丝朋同住海边客栈约一周，某周日夜薇丝朋服安眠药自杀，次日清晨邦德读遗书并向伦敦报告。原文未明示故事年份，1953年为出版年，时间线按原文月份与前后关系整理。",
+  "chapters": [
+    {
+      "no": 1,
+      "title": "THE SECRET AGENT",
+      "start_line": 1,
+      "summary": "凌晨3时邦德在皇家莱索赌场观察勒·希弗赢钱，自己两日赢300万法郎；回Splendide酒店45号房，收到牙买加发来的电报，确认1000万法郎资金在途；检查房间防窃听布置（头发、滑石粉、抽水马桶水位），枕下藏锯短枪管的点38柯尔特警用转轮手枪。"
+    },
+    {
+      "no": 2,
+      "title": "DOSSIER FOR M",
+      "start_line": 48,
+      "summary": "S处备忘录：勒·希弗挪用苏联列宁格勒第三处拨给阿尔萨斯工会的5000万法郎买下诺曼底与布列塔尼妓院连锁Cordon Jaune，1946年4月13日法国第46685号法律关闭妓院致其血本无归；附录A为勒·希弗档案（约45岁、达豪难民营出身、失忆后取此名），附录B介绍SMERSH（俄语“间谍之死”，首脑贝利亚，下辖五个处）。"
+    },
+    {
+      "no": 3,
+      "title": "NUMBER 007",
+      "start_line": 118,
+      "summary": "M批准以赌桌击败勒·希弗的计划，选中007邦德，资金上限2500万法郎，先给1000万；邦德战前曾在蒙特卡洛赌场蹲守两个月破获罗马尼亚人作弊团伙；M说会派人负责邦德的通讯，邦德希望是马蒂斯。"
+    },
+    {
+      "no": 4,
+      "title": "L'ENNEMI ÉCOUTE",
+      "start_line": 158,
+      "summary": "邦德抵达两天后，马蒂斯扮作Radio Stentor无线电推销员登门，用收音机高音量干扰楼上蒙茨夫妇的窃听器，告知邦德已被监听，助手是无线电专家薇丝朋·琳德，另有美国人费利克斯·莱特在场，勒·希弗住在海岸公路约10英里外的别墅。"
+    },
+    {
+      "no": 5,
+      "title": "THE GIRL FROM HEADQUARTERS",
+      "start_line": 205,
+      "summary": "介绍皇家莱索历史（渔村、第二帝国度假地、硫磺泉、1950年巴黎财团复兴赌场）；邦德驾4.5升机械增压宾利侦察勒·希弗别墅；中午在Hermitage酒吧经马蒂斯介绍认识薇丝朋，约其共进晚餐；酒吧窗户被爆炸震碎。"
+    },
+    {
+      "no": 6,
+      "title": "TWO MEN IN STRAW HATS",
+      "start_line": 249,
+      "summary": "邦德回酒店途中，两名戴草帽、提红蓝相机包的保加利亚人引爆炸弹，炸弹提前爆炸，两人当场炸死，邦德仅受惊；马蒂斯令警方对外称保加利亚共产党人内讧，并全力抓捕第三人。"
+    },
+    {
+      "no": 7,
+      "title": "ROUGE ET NOIR",
+      "start_line": 281,
+      "summary": "邦德按摩、睡眠恢复后晚间玩轮盘，用压两个打（dozen）的方法赢100万法郎；结识美国人费利克斯·莱特，邦德发明以3份戈登金酒、1份伏特加、半份Kina Lillet调制的马提尼，后以薇丝朋命名。"
+    },
+    {
+      "no": 8,
+      "title": "PINK LIGHTS AND CHAMPAGNE",
+      "start_line": 333,
+      "summary": "邦德佩带点25贝雷塔手枪赴约；晚餐时薇丝朋说出自己的名字源于出生在暴风雨之夜，邦德借用Vesper为鸡尾酒命名；两人吃鱼子酱、牛腰肉、草莓，喝1943年Taittinger香槟。"
+    },
+    {
+      "no": 9,
+      "title": "THE GAME IS BACCARAT",
+      "start_line": 383,
+      "summary": "薇丝朋转述第三名保加利亚人被捕后招供：红蓝两包皆为烈性炸弹，所谓烟雾弹是骗局，两人本就注定与邦德同归于尽；邦德向薇丝朋讲解百家乐规则与计划：勒·希弗花100万法郎买下庄家，资本约2400万法郎，邦德要正面击垮其赌本。"
+    },
+    {
+      "no": 10,
+      "title": "THE HIGH TABLE",
+      "start_line": 430,
+      "summary": "百家乐开局，介绍同桌赌客（希腊船主、丹弗斯勋爵夫妇、杜邦夫妇、卡梅尔·德莱恩、印度土王、托梅利等）；勒·希弗坐庄，邦德坐6号位，开局500万法郎赌注，邦德首注200万法郎以天生9点获胜。"
+    },
+    {
+      "no": 11,
+      "title": "MOMENT OF TRUTH",
+      "start_line": 479,
+      "summary": "牌局持续约两小时，邦德一度赢400万法郎、资本达2800万法郎；随后连输，1200万法郎在两手内输光，最后一注1600万法郎以6点对庄家9点落败，邦德被清空。"
+    },
+    {
+      "no": 12,
+      "title": "THE DEADLY TUBE",
+      "start_line": 537,
+      "summary": "莱特以“马歇尔援助”名义送来3200万法郎匿名信封，邦德得以继续；勒·希弗只需再赢800万法郎即达目标；决胜局前持拐杖的枪手用消音手枪顶住邦德脊柱逼其撤注，邦德猛然后仰撞断拐杖枪脱身，枪被马蒂斯取走，子弹为达姆弹。"
+    },
+    {
+      "no": 13,
+      "title": "'A WHISPER OF LOVE, A WHISPER OF HATE'",
+      "start_line": 598,
+      "summary": "凌晨2时决胜局：邦德两张Q为0点，补一张红桃9，勒·希弗持3点补牌得5成8点，邦德以9点获胜；勒·希弗追加1000万法郎最后一注，邦德再以天生9点对庄家两张K获胜，赢走全部赌注共7000多万法郎，勒·希弗离席。"
+    },
+    {
+      "no": 14,
+      "title": "'LA VIE EN ROSE?'",
+      "start_line": 673,
+      "summary": "邦德与薇丝朋到Roi Galant夜总会庆祝，薇丝朋心不在焉；一封伪造的马蒂斯字条把薇丝朋骗出大厅，邦德追出时只见一辆雪铁龙载着挣扎的薇丝朋驶向海岸公路，薇丝朋的晚装包被抛出车外，内有伪造字条。"
+    },
+    {
+      "no": 15,
+      "title": "BLACK HARE AND GREY HOUND",
+      "start_line": 708,
+      "summary": "邦德驾宾利以约120英里时速追赶雪铁龙，车上勒·希弗驾车、两名枪手与被裙子蒙头的薇丝朋同车；勒·希弗在岔路口命人撒下钉刺链毯后拐入小路埋伏，邦德未及刹车。"
+    },
+    {
+      "no": 16,
+      "title": "THE CRAWLING OF THE SKIN",
+      "start_line": 740,
+      "summary": "宾利压上钉刺后翻车，邦德被拖出并绑缚，凌晨约5时被押至勒·希弗租住的别墅Les Noctambules；邦德试图冲向薇丝朋被两名枪手轻易制服，勒·希弗命人将其剥光绑在挖去藤面的椅子上。"
+    },
+    {
+      "no": 17,
+      "title": "'MY DEAR BOY'",
+      "start_line": 789,
+      "summary": "勒·希弗用三尺藤地毯拍反复抽打邦德下体逼问4000万法郎支票藏处；邦德始终不说；勒·希弗称已搜查邦德房间并编好说辞（邦德输光后自愿赠票离境），威胁下一步对薇丝朋下手；邦德昏厥约10分钟后被弄醒。"
+    },
+    {
+      "no": 18,
+      "title": "A CRAGLIKE FACE",
+      "start_line": 876,
+      "summary": "勒·希弗正要以刻刀阉割邦德时，一名戴黑面罩、着浅黄雨衣的SMERSH特工出现，宣布勒·希弗为叛徒与窃贼，以消音手枪一枪击毙勒·希弗；特工在邦德右手背刻下俄文字母Ш（倒M形），称邦德先后两次靠运气与失误获救，随后离去。"
+    },
+    {
+      "no": 19,
+      "title": "THE WHITE TENT",
+      "start_line": 909,
+      "summary": "邦德昏迷两天后在皇家莱索疗养院苏醒，护士吉布森与法籍医生照料；马蒂斯告知：两名枪手各中一发点35子弹死于后脑，薇丝朋未受侵犯；对外宣称勒·希弗枪杀同伙后自杀；邦德说出支票藏在房门号牌之后。"
+    },
+    {
+      "no": 20,
+      "title": "THE NATURE OF EVIL",
+      "start_line": 961,
+      "summary": "邦德与马蒂斯长谈善恶：邦德讲述在纽约与斯德哥尔摩执行两次杀人任务获颁双0编号的往事，称想辞职；马蒂斯反驳，称世上确有真正的恶人，邦德终将继续追捕他们；邦德认出右手刻痕为俄文字母Ш，意为间谍。"
+    },
+    {
+      "no": 21,
+      "title": "VESPER",
+      "start_line": 1013,
+      "summary": "第8天邦德首次见薇丝朋；薇丝朋讲述被绑经过（裙子蒙头、扔包求救、在别墅未受侵犯、听到一声遥远的尖叫），邦德为她开脱并在报告中为她遮掩；两人约定康复后去海边，薇丝朋暗示以身相许。"
+    },
+    {
+      "no": 22,
+      "title": "THE HASTENING SALOON",
+      "start_line": 1072,
+      "summary": "邦德迅速康复，写报告时为薇丝朋粉饰绑架经过；约3周后医生宣布痊愈，正值7月；两人乘车去海边客栈，途中薇丝朋疑心被一辆黑色轿车跟踪，邦德认为是错觉，客栈名为L'Auberge du Fruit Défendu，店主为独臂的维索瓦夫妇。"
+    },
+    {
+      "no": 23,
+      "title": "TIDE OF PASSION",
+      "start_line": 1121,
+      "summary": "抵达客栈当晚两人在薇丝朋房中热吻，邦德下海游泳冷静，决心求婚；邦德发现薇丝朋浴室里有安眠药Nembutal，起初只当她神经受惊。"
+    },
+    {
+      "no": 24,
+      "title": "FRUIT DÉFENDU",
+      "start_line": 1157,
+      "summary": "两人共进龙虾晚餐，薇丝朋忽而感伤，说“人是岛屿”，又说自己不配被宠爱；当晚两人同床，次日清晨邦德独自下海游泳，回来时决心当天求婚。"
+    },
+    {
+      "no": 25,
+      "title": "'BLACKPATCH'",
+      "start_line": 1209,
+      "summary": "清晨邦德撞见薇丝朋在电话间打电话，她谎称打给马蒂斯要借裙子；午餐时戴黑眼罩的独眼男子出现，薇丝朋认出他就是跟踪者，惊恐万分；店主称该男子为瑞士钟表推销员；邦德查出电话实际打往巴黎Invalides号码且无人接听，薇丝朋的说法是谎言。"
+    },
+    {
+      "no": 26,
+      "title": "'SLEEP WELL, MY DARLING'",
+      "start_line": 1259,
+      "summary": "此后数日两人关系破裂又修补；马蒂斯查出跟踪者名叫阿道夫·盖特勒，瑞士人，租用黑色标致车，苏黎世银行有其账户；周日盖特勒再次出现，薇丝朋崩溃后求邦德给她时间思考，当晚两人重归于好，薇丝朋说明早会坦白一切，邦德道晚安离去。"
+    },
+    {
+      "no": 27,
+      "title": "THE BLEEDING HEART",
+      "start_line": 1309,
+      "summary": "次日清晨薇丝朋服安眠药自杀，留下一封致邦德的遗书：她是MWD双面间谍，因波兰籍空军恋人被苏联扣为人质而被迫合作，泄露了邦德的身份与任务，策划了绑架，后因爱上邦德而拒绝继续合作，知SMERSH将至而自杀；邦德致电伦敦报告“3030曾是双面间谍，现已死亡”，决心追捕SMERSH。"
+    }
+  ],
+  "characters": [
+    {
+      "id": "bond",
+      "name_en": "James Bond",
+      "name_zh": "詹姆斯·邦德",
+      "aliases": [
+        "007",
+        "Mr Bond",
+        "牙买加百万富翁（掩护身份）"
+      ],
+      "role": "主要人物",
+      "appearance": "灰蓝色眼睛，黑色头发有一绺总垂在右眉上方形成逗号状，右脸颊有一道细长竖疤，面容略带海盗气，薇丝朋称其像霍奇·卡迈克尔但更冷酷无情",
+      "age_clues": "原文未给具体年龄；战前已在蒙特卡洛执行任务，战后执行过纽约与斯德哥尔摩暗杀任务",
+      "personality": "冷静、精确、注重细节、嗜赌、自负；对女性起初只视为消遣，后对薇丝朋动真情；酷刑后一度怀疑善恶与辞职",
+      "habits": "每天抽约70支莫兰定制巴尔干与土耳其混合烟，爱喝马提尼与香槟，讲究饮食，冷水浴，睡前检查房间防窃听布置，枕下藏枪",
+      "background": "英国秘密情报局双0特工；曾在牙买加工作；掩护身份为牙买加种植园主之子，父亲靠烟草与食糖发家；曾在蒙特卡洛与马蒂斯合作破获罗马尼亚作弊团伙",
+      "first_appearance_chapter": 1,
+      "last_appearance_chapter": 27,
+      "relationships": [
+        {
+          "with": "vesper-lynd",
+          "type": "恋人",
+          "change": "从总部派来的助手到共进晚餐的搭档，再到恋人与求婚对象，最后因遗书揭露其为双面间谍而决裂"
+        },
+        {
+          "with": "le-chiffre",
+          "type": "对手",
+          "change": "从牌桌对手到酷刑施加者，勒·希弗死后邦德转而以SMERSH为追捕目标"
+        },
+        {
+          "with": "m",
+          "type": "上下级",
+          "change": "M下达任务并派薇丝朋协助，邦德起初不满被派助手，结尾直接向伦敦报告薇丝朋之死"
+        },
+        {
+          "with": "mathis",
+          "type": "盟友",
+          "change": "战前蒙特卡洛旧识，本部中为邦德提供掩护与救援，结尾关于善恶的长谈影响邦德的抉择"
+        },
+        {
+          "with": "felix-leiter",
+          "type": "盟友",
+          "change": "牌桌相识，莱特在邦德破产时送来3200万法郎救场，此后并肩作战"
+        }
+      ]
+    },
+    {
+      "id": "vesper-lynd",
+      "name_en": "Vesper Lynd",
+      "name_zh": "薇丝朋·琳德",
+      "aliases": [
+        "3030",
+        "Miss Lynd",
+        "Mademoiselle Lynd"
+      ],
+      "role": "主要人物",
+      "appearance": "黑发齐颈剪裁，宽阔深蓝眼睛，皮肤微晒，嘴唇宽而感性，不涂指甲油，戴金链与右手无名指宽托帕石戒指；初见穿灰色野蚕丝裙，晚餐穿黑色天鹅绒裙配钻石项链",
+      "age_clues": "原文未给具体年龄；战后一年加入MWD前曾在英国皇家海军女子服务队（WRNS）任职",
+      "personality": "冷静、克制、 ironical式疏离，工作认真；内心因双面身份与恋人被扣为人质而长期恐惧，末段情绪崩溃",
+      "habits": "深吸烟，抽邦德的烟；服用安眠药Nembutal；每天去海滩游泳",
+      "background": "S处处长私人助理，后转为MWD双面间谍；恋人为波兰籍皇家空军军官，有两枚优异服务勋章，战后被M派回波兰后被捕，苏联以其性命要挟薇丝朋合作；每月15日收到恋人来信",
+      "first_appearance_chapter": 4,
+      "last_appearance_chapter": 27,
+      "relationships": [
+        {
+          "with": "bond",
+          "type": "恋人",
+          "change": "从工作搭档到恋人，邦德准备求婚；遗书揭露她泄露邦德身份、策划绑架，最终自杀"
+        },
+        {
+          "with": "head-of-s",
+          "type": "上下级",
+          "change": "其上司，派她参加行动并在邦德住院期间探望她"
+        },
+        {
+          "with": "le-chiffre",
+          "type": "被利用的合作者",
+          "change": "受MWD指使配合勒·希弗方面，泄露情报并策划绑架，后拒绝继续合作"
+        }
+      ]
+    },
+    {
+      "id": "le-chiffre",
+      "name_en": "Le Chiffre",
+      "name_zh": "勒·希弗",
+      "aliases": [
+        "The Number",
+        "Herr Nummer",
+        "Herr Ziffer"
+      ],
+      "role": "主要人物",
+      "appearance": "约45岁，身高5英尺8英寸，体重18英石，面色极苍白，红棕色短发，眼极深棕色、眼白环绕虹膜，嘴小而女性化，假牙昂贵，耳小耳垂大，双手小而多毛；常穿深色双排扣西装，用去尼古丁烟嘴抽Caporal香烟，频繁吸入苯丙胺吸入剂",
+      "age_clues": "约45岁；1945年6月首次以失忆难民身份出现于达豪难民营",
+      "personality": "冷静、精于算计、嗜赌、性欲旺盛、施虐倾向（鞭笞癖），从不笑，极少微笑",
+      "habits": "赌博、抽烟、吸入苯丙胺、随身带三片Eversharp剃须刀片（帽带、左鞋跟、烟盒各一），总有两名武装保镖随行",
+      "background": "出身不明，1945年9月持无国籍护照304596号转移至斯特拉斯堡，自称“勒·希弗”（意为“我只是护照上的一个数字”）；苏联列宁格勒第三处控制的特工，阿尔萨斯工会司库与出纳；1946年挪用5000万法郎投资妓院失败",
+      "first_appearance_chapter": 1,
+      "last_appearance_chapter": 18,
+      "relationships": [
+        {
+          "with": "bond",
+          "type": "对手",
+          "change": "牌桌上被邦德击垮赌本，随后绑架并酷刑逼问支票，最终被SMERSH处决"
+        },
+        {
+          "with": "smersh-agent",
+          "type": "被处决者与处决者",
+          "change": "勒·希弗因挪用公款与叛变嫌疑被SMERSH派人枪杀"
+        },
+        {
+          "with": "vesper-lynd",
+          "type": "利用关系",
+          "change": "通过MWD方面利用薇丝朋获取邦德情报并策划绑架"
+        }
+      ]
+    },
+    {
+      "id": "m",
+      "name_en": "M",
+      "name_zh": "M",
+      "aliases": [],
+      "role": "主要人物",
+      "appearance": "原文未详述外貌，仅称其目光锐利冷静",
+      "age_clues": "未知",
+      "personality": "冷峻、务实、精于算概率与识人，称击败勒·希弗的计划“疯狂但值得一试”",
+      "habits": "在摄政公园附近阴沉大楼顶层办公；对下属直呼其名下达任务",
+      "background": "英国秘密情报局首脑，国防部下属机构负责人；批准赌桌行动并向财政部争取资金，安排薇丝朋协助邦德，亲自致电马蒂斯嘉奖邦德",
+      "first_appearance_chapter": 2,
+      "last_appearance_chapter": 27,
+      "relationships": [
+        {
+          "with": "bond",
+          "type": "上下级",
+          "change": "下达任务，结尾邦德通过联络官向其报告薇丝朋为双面间谍"
+        },
+        {
+          "with": "head-of-s",
+          "type": "上下级",
+          "change": "接受S处长的计划并批准薇丝朋随行"
+        }
+      ]
+    },
+    {
+      "id": "mathis",
+      "name_en": "René Mathis",
+      "name_zh": "雷内·马蒂斯",
+      "aliases": [
+        "René Mathis"
+      ],
+      "role": "主要人物",
+      "appearance": "原文未详述外貌，举止热情、幽默",
+      "age_clues": "未知",
+      "personality": "机智、忠诚、富有幽默感，善用伪装与反监听手段",
+      "habits": "抽Caporal香烟",
+      "background": "法国第二局特工，邦德在蒙特卡洛旧识；以Radio Stentor无线电推销员为掩护在皇家莱索协助邦德，发现楼上窃听器，组织警方掩盖爆炸真相，率队在别墅找到邦德",
+      "first_appearance_chapter": 4,
+      "last_appearance_chapter": 26,
+      "relationships": [
+        {
+          "with": "bond",
+          "type": "盟友",
+          "change": "从战前合作者到本部行动中的法方联络人，结尾以善恶之辩劝阻邦德辞职"
+        },
+        {
+          "with": "vesper-lynd",
+          "type": "同事",
+          "change": "介绍薇丝朋与邦德相识，薇丝朋曾谎称打电话给他"
+        }
+      ]
+    },
+    {
+      "id": "felix-leiter",
+      "name_en": "Felix Leiter",
+      "name_zh": "费利克斯·莱特",
+      "aliases": [
+        "Felix Leiter"
+      ],
+      "role": "主要人物",
+      "appearance": "约35岁，高瘦骨感，浅黄头发，灰色眼睛略斜，下巴与颧骨锋利，嘴宽而歪斜，穿浅褐色轻便西装",
+      "age_clues": "约35岁",
+      "personality": "沉稳、坦率、忠诚，抽烟成链",
+      "habits": "抽Chesterfield香烟，喝Haig and Haig威士忌加冰",
+      "background": "美国中央情报局特工，驻枫丹白露北约联合情报部门；得克萨斯人，加入情报界前为美国海军陆战队队员；受命听从邦德指挥",
+      "first_appearance_chapter": 4,
+      "last_appearance_chapter": 13,
+      "relationships": [
+        {
+          "with": "bond",
+          "type": "盟友",
+          "change": "牌桌相识，邦德破产时送来3200万法郎“马歇尔援助”，并在枪击未遂后取走拐杖枪"
+        }
+      ]
+    },
+    {
+      "id": "moneypenny",
+      "name_en": "Miss Moneypenny",
+      "name_zh": "钱彭妮小姐",
+      "aliases": [
+        "Penny"
+      ],
+      "role": "次要人物",
+      "appearance": "本可称美丽，只因双眼冷静、直接而带审视意味",
+      "age_clues": "未知",
+      "personality": "机敏、友善",
+      "habits": "未知",
+      "background": "M的私人秘书，与参谋长比尔同室办公；告知S处长M此时心情不错可以晋见",
+      "first_appearance_chapter": 3,
+      "last_appearance_chapter": 3,
+      "relationships": [
+        {
+          "with": "m",
+          "type": "上下级",
+          "change": "无变化"
+        },
+        {
+          "with": "head-of-s",
+          "type": "同事",
+          "change": "无变化"
+        }
+      ]
+    },
+    {
+      "id": "chief-of-staff",
+      "name_en": "Bill",
+      "name_zh": "比尔",
+      "aliases": [
+        "Chief of Staff"
+      ],
+      "role": "次要人物",
+      "appearance": "年轻工兵军官",
+      "age_clues": "未知",
+      "personality": "幽默，经历过1944年破坏行动负伤",
+      "habits": "未知",
+      "background": "M的参谋长，曾任参谋长委员会秘书处成员，1944年破坏行动中负伤",
+      "first_appearance_chapter": 3,
+      "last_appearance_chapter": 3,
+      "relationships": [
+        {
+          "with": "m",
+          "type": "上下级",
+          "change": "无变化"
+        }
+      ]
+    },
+    {
+      "id": "head-of-s",
+      "name_en": "Head of S",
+      "name_zh": "S处处长",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "高瘦独臂男子（第19章马蒂斯描述自伦敦来者）",
+      "age_clues": "未知",
+      "personality": "热衷于自己的计划，行事果断",
+      "habits": "未知",
+      "background": "秘密情报局S处（负责苏联）处长，摧毁勒·希弗计划的制定者，薇丝朋的上司；邦德住院期间曾来皇家莱索探望薇丝朋并安排护士",
+      "first_appearance_chapter": 2,
+      "last_appearance_chapter": 21,
+      "relationships": [
+        {
+          "with": "vesper-lynd",
+          "type": "上下级",
+          "change": "派薇丝朋参加行动，警告她不要爱上邦德"
+        },
+        {
+          "with": "m",
+          "type": "上下级",
+          "change": "向M递交计划并获批准"
+        }
+      ]
+    },
+    {
+      "id": "q",
+      "name_en": "Q",
+      "name_zh": "Q",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "未知",
+      "age_clues": "未知",
+      "personality": "未知",
+      "habits": "未知",
+      "background": "仅在第3章被M提及，邦德出发前应找Q安排房间、火车与装备；本部中未出场、无台词",
+      "first_appearance_chapter": null,
+      "last_appearance_chapter": null,
+      "relationships": []
+    },
+    {
+      "id": "smersh-agent",
+      "name_en": "SMERSH agent",
+      "name_zh": "SMERSH特工（无名）",
+      "aliases": [
+        "the man with the craglike face"
+      ],
+      "role": "主要人物",
+      "appearance": "戴窄黑面罩，帽檐下露出峭壁般的脸，穿浅黄雨衣，灰衣袖、脏白衬衫袖口，宽大多毛的手",
+      "age_clues": "未知",
+      "personality": "冷酷、寡言、行动精确",
+      "habits": "使用消音手枪与细匕首",
+      "background": "受苏联派遣处决勒·希弗的SMERSH特工；先枪杀两名枪手（各一发点35子弹击中后脑），再一枪击毙勒·希弗，在邦德右手背刻下俄文字母Ш后离去，无人追踪到其行踪",
+      "first_appearance_chapter": 18,
+      "last_appearance_chapter": 18,
+      "relationships": [
+        {
+          "with": "le-chiffre",
+          "type": "处决者与被处决者",
+          "change": "奉命处决叛徒勒·希弗"
+        },
+        {
+          "with": "bond",
+          "type": "加害者与受害者",
+          "change": "未奉命杀邦德，仅刻字标记其为间谍后放过他"
+        }
+      ]
+    },
+    {
+      "id": "muntz",
+      "name_en": "Monsieur Muntz",
+      "name_zh": "蒙茨先生",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "德国人",
+      "age_clues": "未知",
+      "personality": "未知",
+      "habits": "未知",
+      "background": "住在邦德楼上房间的监听者，与妻子配合用无线拾音器与线录机监听邦德房间；事后被捕，原文称只是受雇的小角色",
+      "first_appearance_chapter": 4,
+      "last_appearance_chapter": 19,
+      "relationships": [
+        {
+          "with": "bond",
+          "type": "监听者与被监听者",
+          "change": "被马蒂斯以高音量收音机干扰后暴露并被捕"
+        }
+      ]
+    },
+    {
+      "id": "mrs-muntz",
+      "name_en": "Madame Muntz",
+      "name_zh": "蒙茨夫人",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "来自中欧，可能是捷克人",
+      "age_clues": "未知",
+      "personality": "未知",
+      "habits": "未知",
+      "background": "蒙茨之妻，假装卧病在床以便轮流戴耳机监听邦德；事后与丈夫一同被捕",
+      "first_appearance_chapter": 4,
+      "last_appearance_chapter": 19,
+      "relationships": [
+        {
+          "with": "muntz",
+          "type": "夫妻",
+          "change": "无变化"
+        }
+      ]
+    },
+    {
+      "id": "gettler",
+      "name_en": "Adolph Gettler",
+      "name_zh": "阿道夫·盖特勒",
+      "aliases": [
+        "the man with the black patch",
+        "Blackpatch"
+      ],
+      "role": "次要人物",
+      "appearance": "中年男子，深棕色头发后梳，牙齿大而白，右眼戴黑色眼罩，以单片镜方式固定",
+      "age_clues": "未知",
+      "personality": "沉静、从容",
+      "habits": "未知",
+      "background": "瑞士钟表推销员（自称），租用黑色标致车，苏黎世银行有其名下少用的账户；实为监视薇丝朋的苏联方面人员，在客栈两次出现令薇丝朋惊恐",
+      "first_appearance_chapter": 22,
+      "last_appearance_chapter": 26,
+      "relationships": [
+        {
+          "with": "vesper-lynd",
+          "type": "监视者与被监视者",
+          "change": "持续跟踪薇丝朋至海边客栈，薇丝朋自杀前夜他已现身"
+        }
+      ]
+    },
+    {
+      "id": "nurse-gibson",
+      "name_en": "Nurse Gibson",
+      "name_zh": "吉布森护士",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "漂亮",
+      "age_clues": "未知",
+      "personality": "温柔、尽责",
+      "habits": "未知",
+      "background": "自英国派至皇家莱索疗养院照顾邦德的护士之一，邦德苏醒时首先与她交谈",
+      "first_appearance_chapter": 19,
+      "last_appearance_chapter": 19,
+      "relationships": [
+        {
+          "with": "bond",
+          "type": "护士与病人",
+          "change": "无变化"
+        }
+      ]
+    },
+    {
+      "id": "doctor-royale",
+      "name_en": "Doctor (Deuxième Bureau)",
+      "name_zh": "法籍医生（第二局派驻）",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "年轻、面容聪慧",
+      "age_clues": "未知",
+      "personality": "直率、专业",
+      "habits": "未知",
+      "background": "第二局抽调的医生，在皇家莱索疗养院治疗邦德，告知其伤势可完全康复但需长期忍痛",
+      "first_appearance_chapter": 19,
+      "last_appearance_chapter": 19,
+      "relationships": [
+        {
+          "with": "bond",
+          "type": "医生与病人",
+          "change": "无变化"
+        }
+      ]
+    },
+    {
+      "id": "versoix",
+      "name_en": "Monsieur Versoix",
+      "name_zh": "维索瓦先生",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "中年男子，独臂",
+      "age_clues": "未知",
+      "personality": "热情好客",
+      "habits": "未知",
+      "background": "海边客栈L'Auberge du Fruit Défendu店主，自由法国老兵，在马达加斯加作战失去一臂，皇家莱索警察局长之友",
+      "first_appearance_chapter": 22,
+      "last_appearance_chapter": 27,
+      "relationships": [
+        {
+          "with": "bond",
+          "type": "店主与住客",
+          "change": "无变化"
+        },
+        {
+          "with": "vesper-lynd",
+          "type": "店主与住客",
+          "change": "发现薇丝朋死讯后将遗书交给邦德"
+        }
+      ]
+    },
+    {
+      "id": "madame-versoix",
+      "name_en": "Madame Versoix",
+      "name_zh": "维索瓦夫人",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "比丈夫年轻，矮胖、美丽、目光温暖",
+      "age_clues": "未知",
+      "personality": "热情、体贴",
+      "habits": "未知",
+      "background": "客栈女主人，擅长烹饪龙虾与法式菜肴，与丈夫无子女",
+      "first_appearance_chapter": 22,
+      "last_appearance_chapter": 26,
+      "relationships": [
+        {
+          "with": "versoix",
+          "type": "夫妻",
+          "change": "无变化"
+        }
+      ]
+    },
+    {
+      "id": "fawcett",
+      "name_en": "Fawcett",
+      "name_zh": "福塞特",
+      "aliases": [],
+      "role": "次要人物",
+      "appearance": "未知",
+      "age_clues": "未知",
+      "personality": "谨慎、守口如瓶",
+      "habits": "未知",
+      "background": "牙买加《每日拾穗者报》图片部主任，原开曼群岛渔民与海军情报文员，受秘密情报局训练后负责中转邦德与伦敦之间的电报，月薪20英镑另加10英镑通讯补贴",
+      "first_appearance_chapter": 1,
+      "last_appearance_chapter": 1,
+      "relationships": [
+        {
+          "with": "bond",
+          "type": "通讯中转人",
+          "change": "无变化"
+        }
+      ]
+    },
+    {
+      "id": "corsican-gunman",
+      "name_en": "The Corsican",
+      "name_zh": "科西嘉枪手",
+      "aliases": [
+        "the squat man",
+        "the man with the stick"
+      ],
+      "role": "次要人物",
+      "appearance": "矮壮、肤色深、扁头、头发厚而油腻，留浓黑八字胡，牙齿极差，手背多毛，拄一根粗马六甲拐杖",
+      "age_clues": "未知",
+      "personality": "残忍、精于近身格斗",
+      "habits": "未知",
+      "background": "勒·希弗的两名保镖之一，拐杖实为消音手枪，在牌桌上企图枪杀邦德未遂，后在别墅看守薇丝朋，被SMERSH特工一枪击毙",
+      "first_appearance_chapter": 11,
+      "last_appearance_chapter": 19,
+      "relationships": [
+        {
+          "with": "le-chiffre",
+          "type": "保镖与雇主",
+          "change": "随勒·希弗行动至死"
+        },
+        {
+          "with": "bond",
+          "type": "加害者与受害者",
+          "change": "牌桌暗杀失败，别墅中制服邦德"
+        }
+      ]
+    },
+    {
+      "id": "basil",
+      "name_en": "Basil",
+      "name_zh": "巴兹尔",
+      "aliases": [
+        "the thin man",
+        "the tall gunman"
+      ],
+      "role": "次要人物",
+      "appearance": "高瘦、面色木然灰暗、眼神闪烁，动作不安",
+      "age_clues": "未知",
+      "personality": "冷酷、精准、缺乏感情，邦德推测其吸食大麻",
+      "habits": "未知",
+      "background": "勒·希弗的两名保镖之一，勒·希弗称其为巴兹尔；负责将邦德剥光绑椅并协助酷刑，后在别墅被SMERSH特工一枪击毙",
+      "first_appearance_chapter": 11,
+      "last_appearance_chapter": 19,
+      "relationships": [
+        {
+          "with": "le-chiffre",
+          "type": "保镖与雇主",
+          "change": "随勒·希弗行动至死"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "id": "secret-service",
+      "name_en": "Secret Service",
+      "name_zh": "英国秘密情报局",
+      "role": "邦德与M所属机构，策划并执行击败勒·希弗的行动，S处负责苏联方向",
+      "first_chapter": 1
+    },
+    {
+      "id": "station-s",
+      "name_en": "Station S",
+      "name_zh": "S处",
+      "role": "负责苏联事务的处室，制定摧毁勒·希弗计划，薇丝朋为其处长私人助理",
+      "first_chapter": 2
+    },
+    {
+      "id": "smersh",
+      "name_en": "SMERSH",
+      "name_zh": "SMERSH",
+      "role": "苏联反间谍与复仇机构，俄语“间谍之死”缩写，处决挪用公款的勒·希弗与两名枪手，并在邦德手背刻字",
+      "first_chapter": 2
+    },
+    {
+      "id": "mwd",
+      "name_en": "MWD",
+      "name_zh": "MWD",
+      "role": "薇丝朋效力的苏联机构，以其波兰恋人性命要挟她充当双面间谍，通过巴黎Invalides 55200号电话遥控她",
+      "first_chapter": 27
+    },
+    {
+      "id": "deuxieme-bureau",
+      "name_en": "Deuxième Bureau",
+      "name_zh": "法国第二局",
+      "role": "法方情报机构，与英方联合办案，提供马蒂斯与医生，负责现场掩盖与追捕",
+      "first_chapter": 2
+    },
+    {
+      "id": "cia",
+      "name_en": "Central Intelligence Agency",
+      "name_zh": "美国中央情报局",
+      "role": "美方情报机构，派莱特协助邦德，并在邦德破产时提供3200万法郎资金",
+      "first_chapter": 2
+    },
+    {
+      "id": "soda",
+      "name_en": "Syndicat des Ouvriers d'Alsace",
+      "name_zh": "阿尔萨斯工人工会",
+      "role": "共产党控制的重工业与运输业工会，勒·希弗任司库，拥有5万名会员，战时可控制法国北部边境广大地区",
+      "first_chapter": 2
+    },
+    {
+      "id": "cordon-jaune",
+      "name_en": "Cordon Jaune",
+      "name_zh": "黄带妓院连锁",
+      "role": "勒·希弗用挪用的5000万法郎买下的诺曼底与布列塔尼妓院连锁，1946年禁娼法后破产",
+      "first_chapter": 2
+    },
+    {
+      "id": "mahomet-ali-syndicate",
+      "name_en": "Mahomet Ali Syndicate",
+      "name_zh": "穆罕默德·阿里辛迪加",
+      "role": "流亡埃及银行家与商人集团，租下皇家莱索赌场百家乐与两张顶级chemindefer赌台，勒·希弗向其买下庄家",
+      "first_chapter": 2
+    },
+    {
+      "id": "societe-des-bains-de-mer",
+      "name_en": "Société des Bains de Mers de Royale",
+      "name_zh": "皇家莱索海滨公司",
+      "role": "皇家莱索赌场经营方，试图以高额赌局夺回多维尔与勒图凯的市场",
+      "first_chapter": 2
+    },
+    {
+      "id": "nato",
+      "name_en": "North Atlantic Treaty Organization",
+      "name_zh": "北大西洋公约组织",
+      "role": "行动的政治背景，击败勒·希弗符合北约国家利益，莱特任职于北约联合情报部门",
+      "first_chapter": 2
+    }
+  ],
+  "locations": [
+    {
+      "id": "royale-les-eaux",
+      "name_en": "Royale-les-Eaux",
+      "name_zh": "皇家莱索",
+      "country": "法国",
+      "fictional": true,
+      "role": "故事主场景，索姆河口附近的海滨小镇，赌场与两家大酒店所在地"
+    },
+    {
+      "id": "casino-royale",
+      "name_en": "Casino Royale",
+      "name_zh": "皇家赌场",
+      "country": "法国",
+      "fictional": true,
+      "role": "百家乐对决、爆炸与暗杀未遂的发生地，白色鎏金维多利亚式建筑"
+    },
+    {
+      "id": "hotel-splendide",
+      "name_en": "Hôtel Splendide",
+      "name_zh": "Splendide酒店",
+      "country": "法国",
+      "fictional": true,
+      "role": "邦德下榻处，45号房被蒙茨夫妇窃听，支票藏于房门号牌之后"
+    },
+    {
+      "id": "hotel-hermitage",
+      "name_en": "Hôtel Hermitage",
+      "name_zh": "Hermitage酒店",
+      "country": "法国",
+      "fictional": true,
+      "role": "邦德与薇丝朋初次见面的酒吧所在地，窗户被爆炸震碎"
+    },
+    {
+      "id": "les-noctambules",
+      "name_en": "Les Noctambules",
+      "name_zh": "夜行者别墅",
+      "country": "法国",
+      "fictional": true,
+      "role": "勒·希弗租住的别墅，邦德受酷刑与勒·希弗被处决之地，位于海岸公路以南约10英里"
+    },
+    {
+      "id": "auberge-du-fruit-defendu",
+      "name_en": "L'Auberge du Fruit Défendu",
+      "name_zh": "禁果客栈",
+      "country": "法国",
+      "fictional": true,
+      "role": "邦德与薇丝朋康复后同住的海边小客栈，薇丝朋在此自杀"
+    },
+    {
+      "id": "london",
+      "name_en": "London",
+      "name_zh": "伦敦",
+      "country": "英国",
+      "fictional": false,
+      "role": "秘密情报局总部所在地，摄政公园附近大楼，M与S处办公地"
+    },
+    {
+      "id": "paris",
+      "name_en": "Paris",
+      "name_zh": "巴黎",
+      "country": "法国",
+      "fictional": false,
+      "role": "马蒂斯与第二局总部所在地，薇丝朋受MWD遥控的电话打往巴黎Invalides号码"
+    },
+    {
+      "id": "strasbourg",
+      "name_en": "Strasbourg",
+      "name_zh": "斯特拉斯堡",
+      "country": "法国",
+      "fictional": false,
+      "role": "勒·希弗的活动基地与阿尔萨斯工会中心，勒·希弗死讯在此引起轰动"
+    },
+    {
+      "id": "dachau",
+      "name_en": "Dachau",
+      "name_zh": "达豪",
+      "country": "德国",
+      "fictional": false,
+      "role": "勒·希弗1945年6月首次以失忆难民身份出现的难民营"
+    },
+    {
+      "id": "jamaica",
+      "name_en": "Jamaica",
+      "name_zh": "牙买加",
+      "country": "牙买加",
+      "fictional": false,
+      "role": "邦德掩护身份来源地与通讯中转地，福塞特在金斯敦《每日拾穗者报》任职"
+    },
+    {
+      "id": "monte-carlo",
+      "name_en": "Monte Carlo",
+      "name_zh": "蒙特卡洛",
+      "country": "摩纳哥",
+      "fictional": false,
+      "role": "邦德战前与马蒂斯合作破获罗马尼亚作弊团伙之地"
+    }
+  ],
+  "equipment": [
+    {
+      "id": "beretta-418",
+      "name_en": "Beretta 418",
+      "name_zh": "贝雷塔418手枪",
+      "kind": "武器",
+      "note": "邦德配枪，点25口径扁平自动手枪，镂空握把，左肩皮套携带；被俘时被勒·希弗收走"
+    },
+    {
+      "id": "colt-police-positive",
+      "name_en": "Colt Police Positive .38",
+      "name_zh": "柯尔特警用转轮手枪",
+      "kind": "武器",
+      "note": "点38口径锯短枪管，邦德睡前藏于枕下"
+    },
+    {
+      "id": "colt-army-special",
+      "name_en": "Colt Army Special .45",
+      "name_zh": "柯尔特陆军特种转轮手枪",
+      "kind": "武器",
+      "note": "长枪管点45口径，藏于宾利仪表板下暗置枪套，邦德追车时取出"
+    },
+    {
+      "id": "cane-gun",
+      "name_en": "Malacca cane gun",
+      "name_zh": "马六甲拐杖枪",
+      "kind": "武器",
+      "note": "科西嘉枪手的拐杖实为消音手枪，枪管由软橡胶隔板组成，子弹为达姆弹，牌桌暗杀时被邦德撞断"
+    },
+    {
+      "id": "smersh-pistol",
+      "name_en": "Silenced pistol (.35)",
+      "name_zh": "SMERSH消音手枪",
+      "kind": "武器",
+      "note": "SMERSH特工所用，枪声仅如牙膏管冒泡，两名枪手各中一发点35子弹死于后脑，勒·希弗眉心中弹"
+    },
+    {
+      "id": "carpet-beater",
+      "name_en": "Carpet beater",
+      "name_zh": "藤地毯拍",
+      "kind": "刑具",
+      "note": "三英尺长藤制地毯拍，勒·希弗用以抽打邦德下体逼供"
+    },
+    {
+      "id": "stiletto",
+      "name_en": "Stiletto",
+      "name_zh": "细匕首",
+      "kind": "武器",
+      "note": "SMERSH特工用以在邦德右手背刻下俄文字母Ш"
+    },
+    {
+      "id": "wire-recorder",
+      "name_en": "Wire recorder",
+      "name_zh": "线录机",
+      "kind": "监听设备",
+      "note": "蒙茨夫妇用无线拾音器经烟囱连接放大器与线录机监听邦德房间"
+    },
+    {
+      "id": "vesper-martini",
+      "name_en": "Vesper Martini",
+      "name_zh": "薇丝朋马提尼",
+      "kind": "饮品",
+      "note": "邦德发明：3份戈登金酒、1份伏特加、半份Kina Lillet，摇至冰冷，加大片薄柠檬皮，以薇丝朋之名命名"
+    }
+  ],
+  "vehicles": [
+    {
+      "name_en": "Bentley 4.5 litre",
+      "name_zh": "宾利4.5升",
+      "note": "邦德座驾，1933年近新时购入，Amherst Villiers机械增压，战时封存，战舰灰敞篷双门跑车，巡航90英里时速，追车时达120英里时速，后翻车损毁送鲁昂修理"
+    },
+    {
+      "name_en": "Citroën",
+      "name_zh": "雪铁龙",
+      "note": "勒·希弗绑架薇丝朋所用轿车，前轮驱动，载三名男子与薇丝朋逃往别墅"
+    },
+    {
+      "name_en": "Peugeot",
+      "name_zh": "标致",
+      "note": "盖特勒租用的黑色轿车，巴黎牌照，跟踪邦德与薇丝朋至海边客栈"
+    }
+  ],
+  "communications": [
+    {
+      "name": "电报",
+      "note": "邦德与伦敦之间经牙买加中转的电报，以雪茄产量为暗语传递资金数额，如“哈瓦那雪茄产量1000万”表示1000万法郎在途"
+    },
+    {
+      "name": "电话",
+      "note": "薇丝朋按MWD指令每天两次打往巴黎Invalides 55200号；邦德结尾用明线致电伦敦联络官报告薇丝朋之死"
+    },
+    {
+      "name": "窃听",
+      "note": "蒙茨夫妇在邦德房间电暖器后安装无线拾音器，经烟囱连至楼上放大器与线录机监听"
+    },
+    {
+      "name": "书信",
+      "note": "薇丝朋每月15日收到波兰恋人来信，以此确认其仍活着；薇丝朋遗书以“Pour Lui”封缄留给邦德"
+    }
+  ],
+  "mission": {
+    "objective": "在百家乐赌桌上击败勒·希弗，令其无法补足挪用的5000万法郎工会资金，从而摧毁其名誉、破产其控制的阿尔萨斯共产党工会并动摇法国北部潜在第五纵队",
+    "investigation": "S处通过被第二局控制的欧亚情妇1860号发现勒·希弗变卖首饰与别墅，查出其1946年挪用公款投资妓院失败；邦德提前抵达皇家莱索以轮盘练手并观察勒·希弗，马蒂斯与莱特从旁协助",
+    "key_clues": [
+      "勒·希弗变卖首饰与昂蒂布别墅",
+      "Cordon Jaune妓院投资因1946年4月13日禁娼法破产",
+      "勒·希弗提取工会最后2500万法郎并租下皇家莱索附近别墅",
+      "勒·希弗计划6月15日或之后以2500万法郎赢5000万法郎",
+      "SMERSH高级官员自华沙经柏林东区前往斯特拉斯堡的情报"
+    ],
+    "outcome": "邦德在百家乐决胜局以9点击败勒·希弗，赢走7000多万法郎；勒·希弗绑架薇丝朋并酷刑逼问邦德未果，随后被SMERSH特工枪杀；工会丑闻公开，法国共产党阵脚大乱；薇丝朋被揭为双面间谍后自杀；邦德决心追捕SMERSH"
+  },
+  "events": [
+    {
+      "id": "bomb-attack",
+      "chapter": 6,
+      "title": "保加利亚人炸弹袭击",
+      "cause": "勒·希弗方面雇佣三名保加利亚人刺杀邦德，两人各持一包炸弹，误以为蓝包是烟雾弹",
+      "effect": "两包皆为烈性炸弹，蓝包被引爆时两人同归于尽，邦德毫发无损，第三人被捕后招供"
+    },
+    {
+      "id": "baccarat-duel",
+      "chapter": 10,
+      "title": "百家乐对决",
+      "cause": "邦德奉命以赌桌击败勒·希弗，勒·希弗买下庄家，邦德坐6号位正面迎战",
+      "effect": "邦德一度赢400万法郎又连输1200万法郎被清空，莱特送来3200万法郎后邦德在决胜局以9点获胜"
+    },
+    {
+      "id": "cane-gun-attempt",
+      "chapter": 12,
+      "title": "拐杖枪暗杀未遂",
+      "cause": "勒·希弗不甘失败，命枪手在决胜局前以消音手枪顶住邦德脊柱逼其撤注",
+      "effect": "邦德猛然后仰撞断拐杖枪脱身，枪手逃走，邦德得以继续决胜局"
+    },
+    {
+      "id": "vesper-kidnapping",
+      "chapter": 14,
+      "title": "薇丝朋被绑架",
+      "cause": "薇丝朋受MWD指使，以伪造的马蒂斯字条将自己骗出夜总会，实为诱捕邦德的圈套",
+      "effect": "邦德驾宾利追赶，压上钉刺路障翻车被俘"
+    },
+    {
+      "id": "bentley-crash",
+      "chapter": 16,
+      "title": "宾利翻车被俘",
+      "cause": "勒·希弗在岔路口撒下钉刺链毯，邦德高速驶过时轮胎被撕裂翻车",
+      "effect": "邦德与薇丝朋一同被押至Les Noctambules别墅，邦德被剥光绑椅受刑"
+    },
+    {
+      "id": "torture",
+      "chapter": 17,
+      "title": "酷刑逼供",
+      "cause": "勒·希弗要逼问邦德藏匿的4000万法郎支票下落",
+      "effect": "邦德受藤地毯拍抽打约1小时始终不说，昏厥后被弄醒，勒·希弗正要以刻刀阉割时被打断"
+    },
+    {
+      "id": "smersh-execution",
+      "chapter": 18,
+      "title": "SMERSH处决勒·希弗",
+      "cause": "勒·希弗挪用苏联资金且行动失败，SMERSH派特工清理门户",
+      "effect": "勒·希弗与两名枪手被枪杀，邦德右手背被刻上俄文字母Ш，邦德获救"
+    },
+    {
+      "id": "bond-recovery",
+      "chapter": 19,
+      "title": "邦德苏醒与康复",
+      "cause": "农民发现翻覆的宾利报警，马蒂斯率队在别墅找到邦德",
+      "effect": "邦德昏迷两天后苏醒，对外宣称勒·希弗杀同伙后自杀，邦德说出支票藏于房门号牌之后，约3周后痊愈"
+    },
+    {
+      "id": "moral-debate",
+      "chapter": 20,
+      "title": "善恶之辩",
+      "cause": "酷刑经历使邦德怀疑英雄与恶棍之分，表示想辞职",
+      "effect": "马蒂斯以亲身经历劝说邦德，邦德暂被说服，但结尾薇丝朋之死使其决心转而追捕SMERSH"
+    },
+    {
+      "id": "romance",
+      "chapter": 23,
+      "title": "海边热恋",
+      "cause": "康复后两人同住禁果客栈，邦德决心求婚",
+      "effect": "两人同床，邦德确认身体已恢复，但薇丝朋因双面身份日渐恐惧疏远"
+    },
+    {
+      "id": "gettler-surveillance",
+      "chapter": 25,
+      "title": "盖特勒监视",
+      "cause": "MWD方面派盖特勒跟踪监视薇丝朋，薇丝朋每天两次打往巴黎的电话无人接听",
+      "effect": "薇丝朋确认无法逃脱，精神崩溃，决定在坦白前夜与邦德重归于好"
+    },
+    {
+      "id": "vesper-suicide",
+      "chapter": 27,
+      "title": "薇丝朋之死与遗书",
+      "cause": "薇丝朋因双面身份暴露在即、恋人将被处死、SMERSH威胁将至而绝望",
+      "effect": "薇丝朋服安眠药自杀，遗书揭露其为MWD双面间谍及全部经过，邦德向伦敦报告并决心追捕SMERSH"
+    }
+  ],
+  "facts": [
+    {
+      "source_novel": "casino-royale",
+      "chapter": 1,
+      "entity": "bond",
+      "fact": "邦德在皇家莱索赌场两日赢300万法郎，玩红黑轮盘渐进投注法",
+      "timeline_position": "6月中旬",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "he was up exactly three million francs",
+      "quote_source": "第1章"
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 1,
+      "entity": "bond",
+      "fact": "邦德住Splendide酒店45号房，枕下藏锯短枪管的点38柯尔特警用转轮手枪",
+      "timeline_position": "6月中旬",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 1,
+      "entity": "bond",
+      "fact": "邦德每天抽约70支烟，睡前抽第70支",
+      "timeline_position": "6月中旬",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "his seventieth cigarette of the day",
+      "quote_source": "第1章"
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 1,
+      "entity": "fawcett",
+      "fact": "邦德与伦敦的通讯经牙买加福塞特中转，福塞特为《每日拾穗者报》图片部主任",
+      "timeline_position": "6月中旬",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 2,
+      "entity": "le-chiffre",
+      "fact": "勒·希弗1946年1月挪用列宁格勒第三处拨给工会的5000万法郎买下妓院连锁Cordon Jaune",
+      "timeline_position": "1946年1月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 2,
+      "entity": "le-chiffre",
+      "fact": "1946年4月13日法国第46685号禁娼法令关闭妓院，勒·希弗投资血本无归",
+      "timeline_position": "1946年4月13日",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 2,
+      "entity": "le-chiffre",
+      "fact": "勒·希弗约45岁，1945年6月以失忆难民身份出现于达豪难民营，9月持无国籍护照304596号转移至斯特拉斯堡",
+      "timeline_position": "1945年",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 2,
+      "entity": "le-chiffre",
+      "fact": "勒·希弗身高5英尺8英寸，体重18英石，红棕色短发，眼白环绕虹膜，随身带三片剃须刀片",
+      "timeline_position": "1946年前",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 2,
+      "entity": "smersh",
+      "fact": "SMERSH为俄语“间谍之死”缩写，受贝利亚直接领导，总部在列宁格勒，下辖五个处",
+      "timeline_position": "1953年前",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "Smyert Shpionam",
+      "quote_source": "第2章"
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 2,
+      "entity": "soda",
+      "fact": "阿尔萨斯工会有5万名会员，战时可控制法国北部边境广大地区",
+      "timeline_position": "1953年前",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 2,
+      "entity": "le-chiffre",
+      "fact": "勒·希弗计划6月15日或之后以2500万法郎本金在百家乐赢5000万法郎",
+      "timeline_position": "6月15日",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 3,
+      "entity": "bond",
+      "fact": "邦德获颁双0编号的原因是执行过两次冷血杀人任务：纽约日本密码专家与斯德哥尔摩挪威双面间谍",
+      "timeline_position": "战后",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 3,
+      "entity": "m",
+      "fact": "M批准赌桌行动，邦德资金上限2500万法郎，先给1000万，另1000万随后汇至",
+      "timeline_position": "行动前两周",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 3,
+      "entity": "bond",
+      "fact": "邦德战前曾在蒙特卡洛赌场蹲守两个月破获罗马尼亚人用隐形墨水与墨镜作弊的团伙",
+      "timeline_position": "战前",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 4,
+      "entity": "muntz",
+      "fact": "蒙茨夫妇在邦德房间电暖器后安装无线拾音器，经烟囱连至楼上放大器与线录机监听",
+      "timeline_position": "6月中旬",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 4,
+      "entity": "mathis",
+      "fact": "马蒂斯以Radio Stentor无线电推销员为掩护登门，用收音机高音量干扰窃听器",
+      "timeline_position": "6月中旬",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 4,
+      "entity": "vesper-lynd",
+      "fact": "薇丝朋为无线电专家，是M派给邦德的助手与通讯员",
+      "timeline_position": "6月中旬",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 5,
+      "entity": "bond",
+      "fact": "邦德座驾为1933年购入的4.5升机械增压宾利，战舰灰敞篷跑车，巡航90英里时速",
+      "timeline_position": "1933年购入",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 5,
+      "entity": "vesper-lynd",
+      "fact": "薇丝朋黑发齐颈，深蓝眼睛，初见穿灰色野蚕丝裙，戴金链与托帕石戒指",
+      "timeline_position": "6月中旬",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 6,
+      "entity": "bond",
+      "fact": "两名保加利亚刺客的炸弹提前爆炸，两人当场炸死，邦德未受伤，第三人随后被捕",
+      "timeline_position": "6月中旬",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 7,
+      "entity": "bond",
+      "fact": "邦德发明的马提尼配方为3份戈登金酒、1份伏特加、半份Kina Lillet，加柠檬皮",
+      "timeline_position": "6月中旬",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "Three measures of Gordon's, one of vodka, half a measure of Kina Lillet",
+      "quote_source": "第7章"
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 7,
+      "entity": "felix-leiter",
+      "fact": "费利克斯·莱特约35岁，得克萨斯人，前美国海军陆战队队员，任职于北约联合情报部门",
+      "timeline_position": "6月中旬",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 8,
+      "entity": "vesper-lynd",
+      "fact": "薇丝朋之名源于她出生在暴风雨之夜，邦德借用Vesper为鸡尾酒命名",
+      "timeline_position": "6月中旬",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "I was born in the evening, on a very stormy evening",
+      "quote_source": "第8章"
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 8,
+      "entity": "bond",
+      "fact": "邦德佩带点25贝雷塔自动手枪赴晚餐，枪藏于左肩皮套",
+      "timeline_position": "6月中旬",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 9,
+      "entity": "vesper-lynd",
+      "fact": "薇丝朋为S处处长私人助理，因处长想让本处参与行动而被派来",
+      "timeline_position": "6月中旬",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 9,
+      "entity": "le-chiffre",
+      "fact": "勒·希弗花100万法郎向埃及辛迪加买下百家乐庄家，资本约2400万法郎",
+      "timeline_position": "6月中旬",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 10,
+      "entity": "bond",
+      "fact": "百家乐开局赌注50万法郎，邦德坐6号位，首注200万法郎以天生9点击败庄家",
+      "timeline_position": "6月中旬深夜",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 11,
+      "entity": "bond",
+      "fact": "邦德在两手牌内输掉1200万法郎，最后一注1600万法郎以6点对庄家9点落败被清空",
+      "timeline_position": "凌晨约1时",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 12,
+      "entity": "felix-leiter",
+      "fact": "莱特以“马歇尔援助”名义送来3200万法郎，使邦德得以继续对决",
+      "timeline_position": "凌晨约1时",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "Marshall Aid. Thirtytwo million francs. With the compliments of the USA.",
+      "quote_source": "第12章"
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 12,
+      "entity": "bond",
+      "fact": "邦德猛然后仰撞断拐杖枪，躲过枪手以消音手枪顶住脊柱的暗杀，子弹为达姆弹",
+      "timeline_position": "凌晨约2时",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 13,
+      "entity": "bond",
+      "fact": "决胜局邦德两张Q为0点，补一张红桃9成9点，勒·希弗持3点补牌得5成8点，邦德获胜",
+      "timeline_position": "凌晨2时",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "a whisper of love, a whisper of hate",
+      "quote_source": "第13章"
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 13,
+      "entity": "bond",
+      "fact": "邦德最终赢走7000多万法郎，其中4000多万法郎以支票形式兑付",
+      "timeline_position": "凌晨约2时30分",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 14,
+      "entity": "vesper-lynd",
+      "fact": "薇丝朋被伪造的马蒂斯字条骗出夜总会后遭绑架，晚装包被抛出车外",
+      "timeline_position": "凌晨约4时",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 15,
+      "entity": "bond",
+      "fact": "邦德驾宾利以约120英里时速追赶雪铁龙，车上备有长枪管点45柯尔特手枪",
+      "timeline_position": "凌晨约4时",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 16,
+      "entity": "bond",
+      "fact": "宾利压上钉刺链毯后翻车，邦德被俘并押至Les Noctambules别墅，时约凌晨5时",
+      "timeline_position": "凌晨约5时",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 17,
+      "entity": "le-chiffre",
+      "fact": "勒·希弗用藤地毯拍抽打邦德下体约1小时逼问4000万法郎支票下落，邦德始终不说",
+      "timeline_position": "上午约6时至7时",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 17,
+      "entity": "le-chiffre",
+      "fact": "勒·希弗派人搜查邦德房间，拆毁家具与衣物仍未找到支票",
+      "timeline_position": "上午约6时",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 18,
+      "entity": "smersh-agent",
+      "fact": "SMERSH特工一枪击毙勒·希弗，子弹命中眉心，两名枪手各中一发点35子弹死于后脑",
+      "timeline_position": "上午约7时",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "SMERSH.",
+      "quote_source": "第18章"
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 18,
+      "entity": "bond",
+      "fact": "SMERSH特工在邦德右手背刻下俄文字母Ш，形如倒M带尾，意为间谍标记",
+      "timeline_position": "上午约7时",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 19,
+      "entity": "bond",
+      "fact": "邦德昏迷约两天后在皇家莱索疗养院苏醒，由吉布森护士照料",
+      "timeline_position": "酷刑后第3天",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 19,
+      "entity": "bond",
+      "fact": "邦德将4000万法郎支票藏于房门号牌之后，勒·希弗与马蒂斯搜查房间均未发现",
+      "timeline_position": "牌局当夜",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 19,
+      "entity": "le-chiffre",
+      "fact": "对外宣称勒·希弗枪杀两名同伙后自杀，以掩盖SMERSH处决真相",
+      "timeline_position": "酷刑后数日",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 20,
+      "entity": "bond",
+      "fact": "邦德在纽约以300码距离射杀日本密码专家，在斯德哥尔摩以刀杀死挪威双面间谍，由此获颁双0编号",
+      "timeline_position": "战后",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 21,
+      "entity": "vesper-lynd",
+      "fact": "薇丝朋称绑架时裙子被蒙过头顶、自己扔包求救，在别墅未受侵犯，仅听到一声遥远的尖叫",
+      "timeline_position": "酷刑后第8天",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 22,
+      "entity": "bond",
+      "fact": "邦德约3周后痊愈，时值7月，与薇丝朋同往海边客栈度假",
+      "timeline_position": "7月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 22,
+      "entity": "versoix",
+      "fact": "客栈店主维索瓦为独臂自由法国老兵，在马达加斯加作战失去一臂",
+      "timeline_position": "7月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 24,
+      "entity": "vesper-lynd",
+      "fact": "薇丝朋浴室里放有安眠药Nembutal，邦德初见时只当她神经受惊",
+      "timeline_position": "7月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 25,
+      "entity": "gettler",
+      "fact": "跟踪者名叫阿道夫·盖特勒，瑞士人，租用黑色标致车，苏黎世银行有其账户，自称钟表推销员",
+      "timeline_position": "7月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 25,
+      "entity": "vesper-lynd",
+      "fact": "薇丝朋清晨打往巴黎的电话实际为Invalides号码且无人接听，其称打给马蒂斯借裙子的说法是谎言",
+      "timeline_position": "7月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 27,
+      "entity": "vesper-lynd",
+      "fact": "薇丝朋为MWD双面间谍，战后一年被招募，因波兰籍空军恋人被扣为人质而被迫合作，每月15日收到恋人来信",
+      "timeline_position": "战后至1953年",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 27,
+      "entity": "vesper-lynd",
+      "fact": "薇丝朋泄露邦德身份与掩护，致使对方提前在邦德房间安装窃听器，并策划绑架",
+      "timeline_position": "6月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 27,
+      "entity": "vesper-lynd",
+      "fact": "薇丝朋受MWD遥控的巴黎电话为Invalides 55200，伦敦联络点为查令十字街450号报刊亭",
+      "timeline_position": "1953年",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "The Paris number was Invalides 55200.",
+      "quote_source": "第27章"
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 27,
+      "entity": "vesper-lynd",
+      "fact": "薇丝朋服安眠药自杀，遗书以“Pour Lui”封缄留给邦德",
+      "timeline_position": "7月某周日夜",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 27,
+      "entity": "bond",
+      "fact": "邦德致电伦敦报告“3030曾是双面间谍，现已死亡”，并决心追捕SMERSH",
+      "timeline_position": "7月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "3030 was a double, working for Redland.",
+      "quote_source": "第27章"
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 27,
+      "entity": "bond",
+      "fact": "邦德在遗书后认定SMERSH是苏联机器的鞭子，决定以追捕SMERSH为新目标",
+      "timeline_position": "7月",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    },
+    {
+      "source_novel": "casino-royale",
+      "chapter": 5,
+      "entity": "royale-les-eaux",
+      "fact": "皇家莱索位于索姆河口附近，1950年巴黎财团复兴赌场与两家酒店",
+      "timeline_position": "1950年",
+      "confidence": "high",
+      "canon_or_inference": "canon",
+      "quote": "",
+      "quote_source": ""
+    }
+  ],
+  "canon_vs_inference": [
+    {
+      "topic": "故事年份",
+      "status": "inference",
+      "note": "原文未明示故事年份，仅给出1945年、1946年、1950年等历史节点；1953年为出版年，本文件时间线以1953年夏表述为推断"
+    },
+    {
+      "topic": "Q的身份与职责",
+      "status": "inference",
+      "note": "原文第3章仅提及邦德出发前应找Q安排房间、火车与装备，未出场、无外貌与台词，其具体职务为推断"
+    },
+    {
+      "topic": "S处处长为独臂男子",
+      "status": "canon",
+      "note": "第19章马蒂斯称自伦敦来者为高瘦独臂男子并指其为薇丝朋的上司，结合第21章薇丝朋称S处处长曾探望她，可确认此人即S处处长"
+    },
+    {
+      "topic": "薇丝朋代号3030",
+      "status": "inference",
+      "note": "邦德结尾电话称“3030曾是双面间谍”，结合上下文指薇丝朋，但原文未在别处明言3030即薇丝朋的代号"
+    },
+    {
+      "topic": "蒙茨夫妇被捕",
+      "status": "canon",
+      "note": "第19章马蒂斯称已将蒙茨夫妇抓获，只是受雇的小角色"
+    },
+    {
+      "topic": "盖特勒为苏联方面人员",
+      "status": "inference",
+      "note": "原文仅证实其跟踪薇丝朋、瑞士身份与银行账户，薇丝朋遗书称SMERSH将至，未明言盖特勒隶属MWD或SMERSH，故其隶属为推断"
+    },
+    {
+      "topic": "邦德年龄",
+      "status": "inference",
+      "note": "原文未给邦德具体年龄，本文件未写具体数字，仅记录其战前已执行任务的线索"
+    },
+    {
+      "topic": "勒·希弗死因对外说法",
+      "status": "canon",
+      "note": "马蒂斯称对外宣称勒·希弗枪杀同伙后自杀，真实死因为SMERSH枪杀，两者均在原文中明确"
+    }
+  ],
+  "adaptation_differences": [
+    "本部未核对电影差异"
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "schema_version": "1.0",
+  "generated": "2026-11-06",
+  "source": "knowledge/novels/novel-01.json至novel-14.json与knowledge/characters/index.json",
+  "rule": "每位人物固定身份、性格、经历、语言风格、行为边界；状态按小说时间点分别记录，不得把所有经历简单合并。",
+  "characters": [
+    {
+      "id": "bond",
+      "name_en": "James Bond",
+      "name_zh": "詹姆斯·邦德",
+      "role": "英国秘密情报机构行动人员·代号007",
+      "first_appearance": {
+        "novel": "casino-royale",
+        "novel_no": 1,
+        "title_zh": "皇家赌场",
+        "role": "主要人物",
+        "first_chapter": 1,
+        "last_chapter": 27
+      },
+      "appearance_count": 14,
+      "appearance_novels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "appearance": null,
+      "age_clues": null,
+      "personality": null,
+      "habits": null,
+      "background": null,
+      "relationships": null,
+      "timeline_cutoff": "金枪人（1965年）",
+      "boundaries": "只知道金枪人之前经历的事；不知道电影版独有情节；不知道其他小说里自己不在场的内情，只能按听闻转述并注明。"
+    },
+    {
+      "id": "m",
+      "name_en": "M",
+      "name_zh": "M",
+      "role": "英国秘密情报机构首长",
+      "first_appearance": {
+        "novel": "casino-royale",
+        "novel_no": 1,
+        "title_zh": "皇家赌场",
+        "role": "主要人物",
+        "first_chapter": 2,
+        "last_chapter": 27
+      },
+      "appearance_count": 13,
+      "appearance_novels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14
+      ],
+      "appearance": "原文未详述外貌，仅称其目光锐利冷静",
+      "age_clues": "未知",
+      "personality": "冷峻、务实、精于算概率与识人，称击败勒·希弗的计划“疯狂但值得一试”",
+      "habits": "在摄政公园附近阴沉大楼顶层办公；对下属直呼其名下达任务",
+      "background": "英国秘密情报局首脑，国防部下属机构负责人；批准赌桌行动并向财政部争取资金，安排薇丝朋协助邦德，亲自致电马蒂斯嘉奖邦德",
+      "relationships": [
+        {
+          "with": "bond",
+          "type": "上下级",
+          "change": "下达任务，结尾邦德通过联络官向其报告薇丝朋为双面间谍"
+        },
+        {
+          "with": "head-of-s",
+          "type": "上下级",
+          "change": "接受S处长的计划并批准薇丝朋随行"
+        }
+      ],
+      "timeline_cutoff": "金枪人（1965年）",
+      "boundaries": "只知道金枪人之前的事；全名Admiral Sir Miles Messervy仅在金枪人第1章出现，此前小说中人物不得自报该全名；不知道电影版情节。"
+    },
+    {
+      "id": "moneypenny",
+      "name_en": "Miss Moneypenny",
+      "name_zh": "钱彭妮小姐",
+      "role": "M的秘书",
+      "first_appearance": {
+        "novel": "casino-royale",
+        "novel_no": 1,
+        "title_zh": "皇家赌场",
+        "role": "次要人物",
+        "first_chapter": 3,
+        "last_chapter": 3
+      },
+      "appearance_count": 12,
+      "appearance_novels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        11,
+        12,
+        13,
+        14
+      ],
+      "appearance": null,
+      "age_clues": null,
+      "personality": null,
+      "habits": null,
+      "background": null,
+      "relationships": null,
+      "timeline_cutoff": "八爪女（1966年）",
+      "boundaries": "只知道自己在场或经手的事务；不知道外勤行动内情；不知道电影版情节。"
+    },
+    {
+      "id": "q",
+      "name_en": "Q",
+      "name_zh": "Q",
+      "role": "军械与装备负责人",
+      "first_appearance": {
+        "novel": "casino-royale",
+        "novel_no": 1,
+        "title_zh": "皇家赌场",
+        "role": "次要人物",
+        "first_chapter": null,
+        "last_chapter": null
+      },
+      "appearance_count": 1,
+      "appearance_novels": [
+        1
+      ],
+      "appearance": "未知",
+      "age_clues": "未知",
+      "personality": "未知",
+      "habits": "未知",
+      "background": "仅在第3章被M提及，邦德出发前应找Q安排房间、火车与装备；本部中未出场、无台词",
+      "relationships": [],
+      "timeline_cutoff": "金枪人（1965年）",
+      "boundaries": "原著中Q本人几乎不出场：诺博士中军械官为布思罗伊德少校，从未被称为Q；女王密使仅一句Q Branch提及。对话时只能按布思罗伊德的职能行事，不得编造Q的出场情节；不知道电影版Q的发明。"
+    },
+    {
+      "id": "felix-leiter",
+      "name_en": "Felix Leiter",
+      "name_zh": "费利克斯·莱特",
+      "role": "美国中央情报局特工，邦德盟友",
+      "first_appearance": {
+        "novel": "casino-royale",
+        "novel_no": 1,
+        "title_zh": "皇家赌场",
+        "role": "主要人物",
+        "first_chapter": 4,
+        "last_chapter": 13
+      },
+      "appearance_count": 6,
+      "appearance_novels": [
+        1,
+        2,
+        4,
+        7,
+        9,
+        13
+      ],
+      "appearance": null,
+      "age_clues": null,
+      "personality": null,
+      "habits": null,
+      "background": null,
+      "relationships": null,
+      "timeline_cutoff": "金枪人（1965年）",
+      "boundaries": "只出现在皇家赌场、生死关头、金刚钻、金手指、霹雳弹、金枪人共6本；生死关头鲨鱼袭击后截肢，此后状态以各部原文为准；不知道自己未参与小说的内情。"
+    },
+    {
+      "id": "le-chiffre",
+      "name_en": "Le Chiffre",
+      "name_zh": "勒·希弗",
+      "role": "苏联反间谍机构出纳，皇家赌场反派",
+      "first_appearance": {
+        "novel": "casino-royale",
+        "novel_no": 1,
+        "title_zh": "皇家赌场",
+        "role": "主要人物",
+        "first_chapter": 1,
+        "last_chapter": 18
+      },
+      "appearance_count": 1,
+      "appearance_novels": [
+        1
+      ],
+      "appearance": null,
+      "age_clues": null,
+      "personality": null,
+      "habits": null,
+      "background": null,
+      "relationships": null,
+      "timeline_cutoff": "皇家赌场（1953年）",
+      "boundaries": "死于皇家赌场第17章末（SMERSH处决）；此后任何时间点均已死亡，不得在后续小说时间线中复活或对话。"
+    },
+    {
+      "id": "dr-no",
+      "name_en": "Dr Julius No",
+      "name_zh": "诺博士",
+      "role": "蟹礁岛主人，诺博士反派",
+      "first_appearance": {
+        "novel": "dr-no",
+        "novel_no": 6,
+        "title_zh": "诺博士",
+        "role": "主要人物",
+        "first_chapter": "III",
+        "last_chapter": "XIX"
+      },
+      "appearance_count": 1,
+      "appearance_novels": [
+        6
+      ],
+      "appearance": null,
+      "age_clues": null,
+      "personality": null,
+      "habits": null,
+      "background": null,
+      "relationships": null,
+      "timeline_cutoff": "诺博士（1958年）",
+      "boundaries": "死于诺博士（被传送带鸟粪活埋）；与幽灵党无关，原著诺博士全文无SPECTRE一词；不得按电影设定将其归入幽灵党。"
+    },
+    {
+      "id": "auric-goldfinger",
+      "name_en": "Auric Goldfinger",
+      "name_zh": "奥里克·金手指",
+      "role": "黄金走私巨头，金手指反派",
+      "first_appearance": {
+        "novel": "goldfinger",
+        "novel_no": 7,
+        "title_zh": "金手指",
+        "role": "主要人物",
+        "first_chapter": "TWO",
+        "last_chapter": "TWENTY-THREE"
+      },
+      "appearance_count": 1,
+      "appearance_novels": [
+        7
+      ],
+      "appearance": null,
+      "age_clues": null,
+      "personality": null,
+      "habits": null,
+      "background": null,
+      "relationships": null,
+      "timeline_cutoff": "金手指（1959年）",
+      "boundaries": "死于金手指结尾；不知道电影版激光桌等情节；座驾与装备以原著为准。"
+    },
+    {
+      "id": "blofeld",
+      "name_en": "Ernst Stavro Blofeld",
+      "name_zh": "恩斯特·斯塔夫罗·布洛菲尔德",
+      "role": "幽灵党首脑",
+      "first_appearance": {
+        "novel": "thunderball",
+        "novel_no": 9,
+        "title_zh": "霹雳弹",
+        "role": "主要人物",
+        "first_chapter": 5,
+        "last_chapter": 24
+      },
+      "appearance_count": 3,
+      "appearance_novels": [
+        9,
+        11,
+        12
+      ],
+      "appearance": null,
+      "age_clues": null,
+      "personality": null,
+      "habits": null,
+      "background": null,
+      "relationships": null,
+      "timeline_cutoff": "雷霆谷（1964年）",
+      "boundaries": "首次登场霹雳弹，此前小说中不得出现；死于雷霆谷（被邦德徒手扼死）；雷霆谷中化名萨特汉博士；金枪人中仅被提及1次，不得编造其在金枪人中的出场。"
+    },
+    {
+      "id": "vesper-lynd",
+      "name_en": "Vesper Lynd",
+      "name_zh": "薇丝朋·琳德",
+      "role": "皇家赌场邦德恋人，苏联方面双面间谍",
+      "first_appearance": {
+        "novel": "casino-royale",
+        "novel_no": 1,
+        "title_zh": "皇家赌场",
+        "role": "主要人物",
+        "first_chapter": 4,
+        "last_chapter": 27
+      },
+      "appearance_count": 1,
+      "appearance_novels": [
+        1
+      ],
+      "appearance": null,
+      "age_clues": null,
+      "personality": null,
+      "habits": null,
+      "background": null,
+      "relationships": null,
+      "timeline_cutoff": "皇家赌场（1953年）",
+      "boundaries": "死于皇家赌场结尾（自杀，遗书自承双面间谍）；此后任何时间点均已死亡，不得在后续小说时间线中复活或对话。"
+    },
+    {
+      "id": "tatiana-romanov",
+      "name_en": "Tatiana Romanova",
+      "name_zh": "塔蒂亚娜·罗曼诺娃",
+      "role": "苏联密码员，来自俄罗斯的爱情诱饵转恋人",
+      "first_appearance": {
+        "novel": "from-russia-with-love",
+        "novel_no": 5,
+        "title_zh": "来自俄罗斯的爱情",
+        "role": "主要人物",
+        "first_chapter": "Eight",
+        "last_chapter": "Twenty-Eight"
+      },
+      "appearance_count": 1,
+      "appearance_novels": [
+        5
+      ],
+      "appearance": null,
+      "age_clues": null,
+      "personality": null,
+      "habits": null,
+      "background": null,
+      "relationships": null,
+      "timeline_cutoff": "来自俄罗斯的爱情（1957年）",
+      "boundaries": "只知道来自俄罗斯的爱情中的事；不知道后续小说情节；不得按电影设定改写其结局。"
+    },
+    {
+      "id": "tracy",
+      "name_en": "Tracy di Vicenzo",
+      "name_zh": "崔西·迪·维琴佐",
+      "role": "邦德妻子",
+      "first_appearance": {
+        "novel": "on-her-majestys-secret-service",
+        "novel_no": 11,
+        "title_zh": "女王密使",
+        "role": "主要人物",
+        "first_chapter": 1,
+        "last_chapter": 27
+      },
+      "appearance_count": 2,
+      "appearance_novels": [
+        11,
+        12
+      ],
+      "appearance": "原文未在本部中直接描写外貌",
+      "age_clues": "讣告写1962年结婚，婚后不到一天遇害；第13章写邦德回忆妻子死去刚九个月",
+      "personality": "原文通过邦德与莫洛尼的回忆侧写：需要帮助的受伤女子，邦德因此爱上她",
+      "habits": null,
+      "background": "马赛人马克-安热·德拉科的独生女",
+      "relationships": [
+        {
+          "change": "婚后数小时即被枪杀，死亡导致邦德精神崩溃并最终引向复仇",
+          "type": "夫妻",
+          "with": "bond"
+        }
+      ],
+      "timeline_cutoff": "雷霆谷（1964年）",
+      "boundaries": "女王密使结婚当日遇害身亡；雷霆谷中邦德仍在哀悼她，称特蕾莎·邦德；此后任何时间点均已死亡，不得复活或对话。"
+    }
+  ]
+}
