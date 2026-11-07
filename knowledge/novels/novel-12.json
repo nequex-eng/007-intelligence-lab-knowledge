@@ -153,7 +153,7 @@
     {
       "no": 20,
       "start_line": 907,
-      "summary": "邦德夺棍击昏艾玛·布朗特，与布洛菲尔德展开长棍对武士刀的搏斗，最终徒手扼死布洛菲尔德，关闭间歇泉阀门后城堡爆炸，邦德乘氢气球逃生、中弹坠海",
+      "summary": "邦德夺棍击昏艾玛·布朗特，与布洛菲尔德展开长棍对武士刀的搏斗，最终徒手扼死布洛菲尔德，关闭间歇泉阀门后城堡爆炸，邦德乘氦气球逃生、中弹坠海",
       "title": "BLOOD AND THUNDER",
       "summary_en": "Bond knocks Irma Bunt out with a stave, fights Blofeld - staff against samurai sword - and strangles him with his bare hands; shutting the geyser valve sets off the explosion that destroys the castle, and Bond escapes on a helium balloon, is shot and falls into the sea."
     },
@@ -1113,7 +1113,7 @@
       "effect_en": "Bond knocks Irma Bunt out with his stave and strangles Blofeld with his bare hands, then shuts the geyser valve and the castle explodes."
     },
     {
-      "cause": "邦德乘氢气球逃生时中弹坠海，伦敦方面失去他的消息",
+      "cause": "邦德乘氦气球逃生时中弹坠海，伦敦方面失去他的消息",
       "chapter": 21,
       "effect": "M发表讣告，宣布邦德失踪、推定死亡，任务百分之百成功",
       "id": "obituary",
@@ -1655,7 +1655,7 @@
       "chapter": 20,
       "confidence": "high",
       "entity": "bond",
-      "fact": "邦德关闭间歇泉阀门后城堡爆炸，他抓住氢气球系绳逃生，升空后中弹坠海",
+      "fact": "邦德关闭间歇泉阀门后城堡爆炸，他抓住氦气球系绳逃生，升空后中弹坠海",
       "quote": "a huge jet of orange fire shot up from hell towards the moon",
       "quote_source": "第20章",
       "source_novel": "you-only-live-twice",
