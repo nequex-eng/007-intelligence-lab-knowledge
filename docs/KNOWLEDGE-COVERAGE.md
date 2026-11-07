@@ -28,16 +28,16 @@
 
 | 类别 | 去重后总数 | 各部合计（人次） | 说明 |
 |---|---|---|---|
-| 人物 | 283人 | 349人次 | 含仅提及人物与无名配角；邦德14部全勤，M 13部，钱彭妮12部，莱特6部 |
-| 组织 | 93个 | 140 | Secret Service与Secret Intelligence Service已归并；CIA与Central Intelligence Agency已归并 |
-| 地点 | 177处 | 204 | 按英文名精确归并，虚构地点已标fictional，不标假坐标 |
-| 装备 | 134项 | 148 | 按英文名精确归并 |
+| 人物 | 279人 | 349人次 | 含仅提及人物与无名配角；邦德14部全勤，M 13部，钱彭妮12部，莱特6部；2026-11-06验证期bill-tanner并入chief-of-staff |
+| 组织 | 89个 | 142 | Secret Service、Secret Intelligence Service与British Secret Service已归并；CIA与Central Intelligence Agency已归并；Detroit Purple Gang已并入Purple Gang（2026-11-06验证期，补记霹雳弹与金枪人出场） |
+| 地点 | 170处 | 204 | 按英文名精确归并，虚构地点已标fictional，不标假坐标 |
+| 装备 | 128项 | 148 | 按英文名精确归并 |
 | 事件 | 189件 | 189件 | 各部事件不跨部合并 |
 
 ## 三、抽查：20条事实（总协调独立抽查）
 
 - 抽查方法：分层随机抽样，随机种子20261106，每部抽1条，另从6部补抽6条，共20条；抽查人（总协调）独立于14部撰写人；核对方法为在原文所引章节行号范围内检索引用短句原文，逐字比对。
-- 结果：20/20通过。其中18条引用短句在所引章节内逐字命中；第1条（皇家赌场第19章，勒·希弗枪杀两名同伙后自杀的对外说法）无引用短句，经全文grep在第19章第948行找到原文We have announced that Le Chiffre shot his two accomplices and then committed suicide because he could not face an inquiry into the union funds，通过；第14条（八爪女第1篇，斯迈思两次冠状动脉血栓）引用短句为节略转述（原文中间有括号插句），实质内容逐字核对无误，通过并已注明。
+- 结果：20/20通过。其中18条引用短句在所引章节内逐字命中；第1条（皇家赌场第19章，勒·希弗枪杀两名同伙后自杀的对外说法）无引用短句，经全文grep在第19章第948行找到原文We have announced that Le Chiffre shot his two accomplices and then committed suicide because he could not face an inquiry into the union funds，通过；2026-11-06检索与验收负责人已将该句补录为novel-01.json第41条事实的quote（逐字，25词）；第14条（八爪女第1篇，斯迈思两次冠状动脉血栓）引用短句为节略转述（原文中间有括号插句），实质内容逐字核对无误，通过并已注明。
 - 抽查清单：见本报告附录（20条事实、章节出处、核对结果）。
 
 ## 四、抽查：5组跨小说人物经历（总协调独立抽查）
@@ -50,16 +50,17 @@
 
 ## 五、已知局限（不得隐瞒）
 
-- 去重只按英文名精确归并加少量已确认别名（M、崔西、SIS、CIA）；组织、地点、装备中其余别名变体可能仍有拆分，去重总数为下限口径。
+- 去重只按英文名精确归并加少量已确认别名（M、崔西、SIS、CIA）；组织、地点、装备中其余别名变体可能仍有拆分，去重总数为下限口径。2026-11-06验证期以同名扫描又发现3组漏并并已合并（bill-tanner、british-secret-service、detroit-purple-gang），其余近义名未系统排查。
 - 人物总数含仅提及人物与无名配角（如SMERSH特工），不是有名有姓的主要人物数。
 - 7部小说的电影差异未系统核对，adaptation-boundaries.json只收已核验的10条。
-- 行数与词数存在统计口径差异（wc与import-report.json差1行、差数词），各部JSON已注明采用值，不影响内容完整性。
+- 行数口径已解决（2026-11-06）：manifest.json各本lines字段原各多1行，已修正为与wc -l实测一致，总计18849行；词数口径差异见各部JSON注明，不影响内容完整性。
 - 八爪女第4篇缺失待换版核对。
 - 两名下属曾报备novel-01.json JSON非法（行号各不相同），总协调当场三次复核（python3 -m json.tool与json.load双重校验）均通过，14部JSON最终全量校验全部通过，该报备不成立，应为检查时文件正在写入。
+- 检索与验证（2026-11-06）：新建knowledge/resolution/（aliases.json 258条别名、relationships.json 311对关系、timeline.json 14部时间线）；`npm run validate`12/12项通过，检索测试15/15通过；quote与quote_source覆盖率771/773（99.7%），仅诺博士#59/#60两条全书级事实留空；尚未解决问题见docs/VALIDATION-REPORT.md。
 
 ## 附录：20条抽查事实清单
 
-1. 皇家赌场第19章，le-chiffre：对外宣称勒·希弗枪杀两名同伙后自杀，以掩盖SMERSH处决真相。通过（第19章第948行原文）。
+1. 皇家赌场第19章，le-chiffre：对外宣称勒·希弗枪杀两名同伙后自杀，以掩盖SMERSH处决真相。通过（第19章第948行原文；2026-11-06已补录为该事实quote）。
 2. 生死关头第II章，smersh：SMERSH为Smyert Spionam的缩写，意为间谍之死。通过（引用逐字命中）。
 3. 月亮牌第II章，drax：德拉克斯公开经历称其在1944年冬季阿登德军突破中遇袭，半边脸被炸毁并失忆一年。通过。
 4. 金刚钻第4章，jack-spang：塞耶身材魁梧，丹克沃茨报出不存在的Yellow Premier与Cape Unions，塞耶一口否认。通过。

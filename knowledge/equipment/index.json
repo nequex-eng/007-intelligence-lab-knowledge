@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "generated": "2026-11-06",
-  "total_unique": 134,
+  "total_unique": 128,
   "equipment": [
     {
       "id": "walther-ppk",
@@ -133,7 +133,7 @@
       "name_en": "Luger",
       "name_zh": "鲁格手枪",
       "kind": "武器",
-      "appearance_count": 2,
+      "appearance_count": 3,
       "appearances": [
         {
           "novel": "moonraker",
@@ -144,6 +144,11 @@
           "novel": "goldfinger",
           "novel_no": 7,
           "note": "邦德从被摔死的德国守卫肩套中取走，劫机时双枪之一"
+        },
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "note": "第1篇杀手与地堡小组首领配枪;第4篇Colombo手下人人配Luger"
         }
       ]
     },
@@ -484,12 +489,17 @@
       "name_en": ".25 Beretta automatic",
       "name_zh": "点25贝雷塔自动手枪",
       "kind": "武器",
-      "appearance_count": 1,
+      "appearance_count": 2,
       "appearances": [
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
           "note": "邦德配枪，骨架式握把，M在上次任务后所赠；邦德亲手把撞针锉尖、锯掉准星；配消音器与30发点25子弹，藏于公文箱暗格；女王号上装消音器击毙温特与基德，对火车射出最后4发子弹"
+        },
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "note": "邦德用了15年的旧配枪，枪管锯短、缠胶带；上一案中消音器导致卡壳，调查委员会裁定更换；第II章被M收缴留在办公桌上，布思罗伊德称其为女士枪、制止力不足"
         }
       ]
     },
@@ -526,12 +536,22 @@
       "name_en": ".45 Colt",
       "name_zh": "点45柯尔特手枪",
       "kind": "武器",
-      "appearance_count": 1,
+      "appearance_count": 3,
       "appearances": [
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
           "note": "邦德判断基德在泥浴场所持手枪可能为点45柯尔特"
+        },
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "note": "藏于DB III驾驶座下暗格"
+        },
+        {
+          "novel": "for-your-eyes-only",
+          "novel_no": 8,
+          "note": "第1篇邦德冒充通讯兵时藏在上衣内的手枪,一枪击毙杀手"
         }
       ]
     },
@@ -694,12 +714,17 @@
       "name_en": "Sniperscope",
       "name_zh": "红外瞄准镜",
       "kind": "光学设备",
-      "appearance_count": 1,
+      "appearance_count": 2,
       "appearances": [
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
           "note": "德国造红外镜，克里姆用于夜间瞄准克里连库"
+        },
+        {
+          "novel": "octopussy",
+          "novel_no": 14,
+          "note": "第2篇装于Winchester步枪上方，夜间可看清500码靶面颜色与6英寸靶心"
         }
       ]
     },
@@ -756,20 +781,6 @@
           "novel": "from-russia-with-love",
           "novel_no": 5,
           "note": "土耳其海军剩余物资，克里姆装于地道中窥视俄国中心办公室"
-        }
-      ]
-    },
-    {
-      "id": "beretta-25",
-      "name_en": "Beretta .25 with silencer",
-      "name_zh": "贝雷塔0.25口径消音手枪",
-      "kind": "武器",
-      "appearance_count": 1,
-      "appearances": [
-        {
-          "novel": "dr-no",
-          "novel_no": 6,
-          "note": "邦德用了15年的旧配枪，枪管锯短、缠胶带；上一案中消音器导致卡壳，调查委员会裁定更换；第II章被M收缴留在办公桌上，布思罗伊德称其为女士枪、制止力不足"
         }
       ]
     },
@@ -858,7 +869,7 @@
       ]
     },
     {
-      "id": "cipher-machine",
+      "id": "russian-cipher-machine",
       "name_en": "Russian cipher machine",
       "name_zh": "俄国密码机",
       "kind": "装备",
@@ -910,20 +921,6 @@
           "novel": "dr-no",
           "novel_no": 6,
           "note": "第XVII章邦德拆下带电通风栅的铁丝网制成的约4英尺长矛，一端弯成钩；第XVIII章以其刺瞎巨型鱿鱼的眼睛"
-        }
-      ]
-    },
-    {
-      "id": "colt-45",
-      "name_en": "Colt .45 long-barrel",
-      "name_zh": "柯尔特.45长枪管手枪",
-      "kind": "武器",
-      "appearance_count": 1,
-      "appearances": [
-        {
-          "novel": "goldfinger",
-          "novel_no": 7,
-          "note": "藏于DB III驾驶座下暗格"
         }
       ]
     },
@@ -1106,34 +1103,6 @@
           "novel": "goldfinger",
           "novel_no": 7,
           "note": "格兰奇别墅内三台隐藏摄影机，胶片收入卧室衣柜，邦德曝光胶片并嫁祸于猫"
-        }
-      ]
-    },
-    {
-      "id": "luger",
-      "name_en": "Luger pistol",
-      "name_zh": "鲁格手枪",
-      "kind": "武器",
-      "appearance_count": 1,
-      "appearances": [
-        {
-          "novel": "for-your-eyes-only",
-          "novel_no": 8,
-          "note": "第1篇杀手与地堡小组首领配枪;第4篇Colombo手下人人配Luger"
-        }
-      ]
-    },
-    {
-      "id": "colt-45",
-      "name_en": "Long-barrel .45 Colt",
-      "name_zh": ".45长管柯尔特手枪",
-      "kind": "武器",
-      "appearance_count": 1,
-      "appearances": [
-        {
-          "novel": "for-your-eyes-only",
-          "novel_no": 8,
-          "note": "第1篇邦德冒充通讯兵时藏在上衣内的手枪,一枪击毙杀手"
         }
       ]
     },
@@ -1450,12 +1419,17 @@
       "name_en": "Benzedrine",
       "name_zh": "苯丙胺",
       "kind": "药品",
-      "appearance_count": 1,
+      "appearance_count": 2,
       "appearances": [
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
           "note": "邦德服用的白色提神药片，一次两片，可保持整夜清醒"
+        },
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "note": "邦德潜入装备中的提神药片"
         }
       ]
     },
@@ -1684,20 +1658,6 @@
       ]
     },
     {
-      "id": "benzedrine",
-      "name_en": "Benzedrine tablets",
-      "name_zh": "苯丙胺药片",
-      "kind": "药品",
-      "appearance_count": 1,
-      "appearances": [
-        {
-          "novel": "you-only-live-twice",
-          "novel_no": 12,
-          "note": "邦德潜入装备中的提神药片"
-        }
-      ]
-    },
-    {
       "id": "pemmican",
       "name_en": "Pemmican",
       "name_zh": "肉干",
@@ -1880,20 +1840,6 @@
       ]
     },
     {
-      "id": "sniperscope",
-      "name_en": "Infrared sniperscope",
-      "name_zh": "红外狙击镜",
-      "kind": "光学器材",
-      "appearance_count": 1,
-      "appearances": [
-        {
-          "novel": "octopussy",
-          "novel_no": 14,
-          "note": "第2篇装于Winchester步枪上方，夜间可看清500码靶面颜色与6英寸靶心"
-        }
-      ]
-    },
-    {
       "id": "spear",
       "name_en": "Three-pronged spear",
       "name_zh": "三叉鱼矛",
@@ -1922,7 +1868,7 @@
       ]
     },
     {
-      "id": "cyanide-pistol",
+      "id": "cyanide-water-pistol",
       "name_en": "Cyanide gas water pistol",
       "name_zh": "氰化物气水枪",
       "kind": "武器",

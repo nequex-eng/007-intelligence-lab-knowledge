@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "generated": "2026-11-06",
-  "total_unique": 283,
+  "total_unique": 279,
   "note": "按英文名归并；M与海军上将迈尔斯·梅瑟维爵士为同一人（金枪人第1章邦德亲口报出全名），崔西·迪·维琴佐与特蕾莎·邦德为同一人（女王密使结婚、雷霆谷称特蕾莎·邦德）；同一人物在不同小说的状态见各appearances条目，不得把所有经历简单合并。",
   "characters": [
     {
@@ -517,15 +517,27 @@
     },
     {
       "id": "chief-of-staff",
-      "name_en": "Chief of Staff",
-      "name_zh": "参谋长",
-      "aliases": [],
+      "name_en": "Bill Tanner",
+      "name_zh": "比尔·坦纳",
+      "aliases": [
+        "Bill",
+        "C.O.S.",
+        "Chief of Staff"
+      ],
       "roles": [
         "次要人物",
         "次要人物，第2篇"
       ],
-      "appearance_count": 4,
+      "appearance_count": 8,
       "appearances": [
+        {
+          "novel": "casino-royale",
+          "novel_no": 1,
+          "title_zh": "皇家赌场",
+          "role": "次要人物",
+          "first_chapter": 3,
+          "last_chapter": 3
+        },
         {
           "novel": "moonraker",
           "novel_no": 3,
@@ -533,6 +545,14 @@
           "role": "次要人物",
           "first_chapter": "II",
           "last_chapter": "IX"
+        },
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "title_zh": "金刚钻",
+          "role": "次要人物",
+          "first_chapter": 3,
+          "last_chapter": 24
         },
         {
           "novel": "dr-no",
@@ -549,6 +569,22 @@
           "role": "次要人物",
           "first_chapter": "TWELVE",
           "last_chapter": "TWELVE"
+        },
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "title_zh": "雷霆谷",
+          "role": "次要人物",
+          "first_chapter": 3,
+          "last_chapter": 3
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "title_zh": "金枪人",
+          "role": "次要人物",
+          "first_chapter": 2,
+          "last_chapter": 3
         },
         {
           "novel": "octopussy",
@@ -758,36 +794,6 @@
       ]
     },
     {
-      "id": "chief-of-staff",
-      "name_en": "Bill",
-      "name_zh": "比尔",
-      "aliases": [
-        "Chief of Staff"
-      ],
-      "roles": [
-        "次要人物"
-      ],
-      "appearance_count": 2,
-      "appearances": [
-        {
-          "novel": "casino-royale",
-          "novel_no": 1,
-          "title_zh": "皇家赌场",
-          "role": "次要人物",
-          "first_chapter": 3,
-          "last_chapter": 3
-        },
-        {
-          "novel": "diamonds-are-forever",
-          "novel_no": 4,
-          "title_zh": "金刚钻",
-          "role": "次要人物",
-          "first_chapter": 3,
-          "last_chapter": 24
-        }
-      ]
-    },
-    {
       "id": "quarrel",
       "name_en": "Quarrel",
       "name_zh": "夸雷尔",
@@ -939,38 +945,6 @@
           "role": "主要人物",
           "first_chapter": 7,
           "last_chapter": 20
-        }
-      ]
-    },
-    {
-      "id": "bill-tanner",
-      "name_en": "Bill Tanner",
-      "name_zh": "比尔·坦纳",
-      "aliases": [
-        "Bill",
-        "C.O.S.",
-        "Chief of Staff"
-      ],
-      "roles": [
-        "次要人物"
-      ],
-      "appearance_count": 2,
-      "appearances": [
-        {
-          "novel": "you-only-live-twice",
-          "novel_no": 12,
-          "title_zh": "雷霆谷",
-          "role": "次要人物",
-          "first_chapter": 3,
-          "last_chapter": 3
-        },
-        {
-          "novel": "man-with-golden-gun",
-          "novel_no": 13,
-          "title_zh": "金枪人",
-          "role": "次要人物",
-          "first_chapter": 2,
-          "last_chapter": 3
         }
       ]
     },
@@ -1326,9 +1300,10 @@
         "Solitaire"
       ],
       "roles": [
-        "主要人物"
+        "主要人物",
+        "次要人物"
       ],
-      "appearance_count": 1,
+      "appearance_count": 2,
       "appearances": [
         {
           "novel": "live-and-let-die",
@@ -1337,6 +1312,14 @@
           "role": "主要人物",
           "first_chapter": "VII",
           "last_chapter": "XXIII"
+        },
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "次要人物",
+          "first_chapter": "VII",
+          "last_chapter": "VII"
         }
       ]
     },
@@ -1382,13 +1365,16 @@
     },
     {
       "id": "strangways",
-      "name_en": "Strangways",
-      "name_zh": "斯特兰威斯",
-      "aliases": [],
-      "roles": [
-        "主要人物"
+      "name_en": "Commander John Strangways",
+      "name_zh": "约翰·斯特兰威斯",
+      "aliases": [
+        "WXN"
       ],
-      "appearance_count": 1,
+      "roles": [
+        "主要人物",
+        "次要人物"
+      ],
+      "appearance_count": 2,
       "appearances": [
         {
           "novel": "live-and-let-die",
@@ -1397,6 +1383,14 @@
           "role": "主要人物",
           "first_chapter": "XVI",
           "last_chapter": "XXIII"
+        },
+        {
+          "novel": "dr-no",
+          "novel_no": 6,
+          "title_zh": "诺博士",
+          "role": "次要人物",
+          "first_chapter": "I",
+          "last_chapter": "XV"
         }
       ]
     },
@@ -2853,28 +2847,6 @@
       ]
     },
     {
-      "id": "strangways",
-      "name_en": "Commander John Strangways",
-      "name_zh": "约翰·斯特兰威斯",
-      "aliases": [
-        "WXN"
-      ],
-      "roles": [
-        "次要人物"
-      ],
-      "appearance_count": 1,
-      "appearances": [
-        {
-          "novel": "dr-no",
-          "novel_no": 6,
-          "title_zh": "诺博士",
-          "role": "次要人物",
-          "first_chapter": "I",
-          "last_chapter": "XV"
-        }
-      ]
-    },
-    {
       "id": "trueblood",
       "name_en": "Mary Trueblood",
       "name_zh": "玛丽·特鲁布拉德",
@@ -3111,26 +3083,6 @@
           "role": "次要人物",
           "first_chapter": "XI",
           "last_chapter": "XI"
-        }
-      ]
-    },
-    {
-      "id": "solitaire",
-      "name_en": "Solitaire",
-      "name_zh": "索利泰尔",
-      "aliases": [],
-      "roles": [
-        "次要人物"
-      ],
-      "appearance_count": 1,
-      "appearances": [
-        {
-          "novel": "dr-no",
-          "novel_no": 6,
-          "title_zh": "诺博士",
-          "role": "次要人物",
-          "first_chapter": "VII",
-          "last_chapter": "VII"
         }
       ]
     },
@@ -4518,7 +4470,7 @@
       ]
     },
     {
-      "id": "molony",
+      "id": "sergeant-molony",
       "name_en": "Sergeant Molony",
       "name_zh": "莫洛尼军士",
       "aliases": [],

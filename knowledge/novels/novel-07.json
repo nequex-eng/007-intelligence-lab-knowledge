@@ -1,1 +1,2003 @@
-{"adaptation_differences":["本部未核对电影差异。原著事实中没有激光、没有DB5、没有金漆桌刑具：压力室的刑具是沿桌缝逼近的圆锯；邦德座驾是阿斯顿·马丁DB III而非DB5；金手指的计划是用GB神经毒剂毒杀诺克斯堡居民后以原子弹头炸开金库、再把黄金运上苏联巡洋舰，而非仅炸金库；普茜·加洛在原著中是黑帮首脑、最后在劫机航班上倒向邦德；蒂莉·马斯特顿在原著中死于诺克斯堡。以上均为原文内容，不是电影对比结论，电影一版未逐项核对，故不展开。"],"canon_vs_inference":[{"note":"M的推断：缴获的20根Z刻痕金条全部出自SMERSH特工之手，因此金手指是SMERSH的司库。原文中这是M的明确推论，邦德也据此推演了整套传递机制，但金手指本人从未亲口承认受雇于SMERSH。","status":"inference","topic":"金手指是SMERSH司库"},{"note":"邦德在桥下挖出金条后推断桥是金手指的死信箱，原文写明这是邦德的联想（“Was Bond romancing again, or was the bridge a post box?”），随后挖出的金条证实桥下确有藏金，但无人证实该金条的接收方。","status":"inference","topic":"79/6号桥是SMERSH死信箱"},{"note":"邦德推断金手指是波罗的海人（“Probably got away to escape the Russians”），史密瑟斯则证实其1937年自里加来英、祖辈为法贝热炼金匠。里加出身是canon，邦德关于其逃亡动机的猜测是inference。","status":"inference","topic":"金手指的波罗的海出身与逃亡动机"},{"note":"邦德推断奥德·约伯驾驶的天蓝色福特Popular后备箱里装的是当周从各珠宝店收来的旧金。原文明确写这是邦德的猜想（“Bond thought the answer was yes”），无实证。","status":"inference","topic":"福特Popular运送旧金"},{"note":"邦德推断蒂莉跟踪金手指是为勒索或投怀送抱，原文随后证实她是为替姐姐复仇而来杀金手指，邦德的最初猜想错误。","status":"inference","topic":"蒂莉跟踪金手指的动机（邦德初猜）"},{"note":"邦德推断诺克斯堡的“死尸”是莱特设局的假扮，原文第22章由莱特证实：全城居民参与了这场佯装，GB毒剂在投放前已被截获。","status":"canon","topic":"诺克斯堡全城佯死是美方设局"},{"note":"史密瑟斯称金手指是“全英格兰现金最富有的人”，并称其在苏黎世、拿骚、巴拿马、纽约藏有2,000万英镑金条；这是书中人物的说法，原文未提供独立账目佐证，记为canon（书中陈述）而非外部事实。","status":"canon","topic":"金手指2,000万英镑黄金储备"},{"note":"故事内年份：原文未写明年份。出版年为1959年，书中提到1954年渔船失事、1955年印度缴获43,000盎司、1957年波斯客机事故、1937年金手指来英时20岁；主线时间按出版年记为1959年，属按原文线索的推定。","status":"inference","topic":"主线故事年份为1959年"}],"chapters":[{"no":"ONE","start_line":8,"summary":"迈阿密机场，邦德刚在墨西哥城完成海洛因渠道任务，徒手杀死前来行刺的墨西哥杀手，回想整件任务经过：化肥商布莱克威尔提炼海洛因、经外交信使桑托斯运往伦敦、经施瓦布分销，邦德炸毁仓库后遭报复。航班延误，杜邦在候机厅认出他。","title":"REFLECTIONS IN A DOUBLE BOURBON"},{"no":"TWO","start_line":49,"summary":"杜邦是1951年皇家莱索牌局的旧识，现为弗洛里迪亚纳酒店老板。他一周内与金手指玩双人卡纳斯塔输掉25,000美元，认定对方作弊，出价10,000美元请邦德查明手法。金手指42岁，拿骚居民，红发，巨富，财产以金条形式持有。","title":"LIVING IT UP"},{"no":"THREE","start_line":129,"summary":"邦德以谈加拿大天然气股份为掩护，在卡巴纳俱乐部顶层看牌。金手指以广场恐惧症为由坚持面朝酒店而坐，邦德推断其二楼夏威夷套房内有人用望远镜偷看杜邦的牌并以无线电报牌。","title":"THE MAN WITH AGORAPHOBIA"},{"no":"FOUR","start_line":200,"summary":"邦德用通行钥匙潜入200号套房，拍下吉尔·马斯特顿用望远镜加麦克风报牌的现场。吉尔透露金手指随身携带价值百万美元的黄金、行李箱夹层即金板。邦德通过耳机迫使金手指开出50,000美元支票认错，并带吉尔乘银色流星号列车去纽约。","title":"OVER THE BARREL"},{"no":"FIVE","start_line":278,"summary":"一周后伦敦，邦德值夜班，处理香港H站索要水雷的来电。M召见：英格兰银行行长转来黄金外流案，邦德当天下午去见银行研究部史密瑟斯上校；M点明金手指正是银行要查的人。","title":"NIGHT DUTY"},{"no":"SIX","start_line":369,"summary":"史密瑟斯讲解黄金走私：金条切成薄板缝入腰带偷运印度可获利70%。金手指1937年20岁自里加来英，祖辈为法贝热炼金匠，经营20家“金手指”当铺，1954年拖网渔船在古德温沙洲搁浅暴露金粉走私，全球藏金约2,000万英镑，金条带Z刻痕。","title":"TALK OF GOLD"},{"no":"SEVEN","start_line":411,"summary":"M透露缴获的20根Z刻痕金条全部出自SMERSH特工之手，推断金手指是SMERSH的司库。邦德驾驶阿斯顿·马丁DB III前往三明治，途经雷卡尔弗的塔内特合金工厂，到皇家圣马克斯高尔夫俱乐部与金手指赴约。","title":"THOUGHTS IN A DB III"},{"no":"EIGHT","start_line":475,"summary":"俱乐部重逢，金手指提议以10,000美元双倍或赔清为赌注打一场18洞比杆赛，邦德应战。双方差点均为9。","title":"ALL TO PLAY FOR"},{"no":"NINE","start_line":551,"summary":"18洞激战：金手指多次作弊（压平草叶、掉落球杆干扰、口袋里摇钱币、沙坑跳跃压球、球童福克斯掉球），邦德在第17洞识破球童掉球后将错就错，换给金手指一颗7号球，金手指在第18洞用错球，按规则输洞输局。","title":"THE CUP AND THE LIP"},{"no":"TEN","start_line":683,"summary":"金手指请邦德到雷卡尔弗的格兰奇别墅晚宴，借故离家半小时设局考验。邦德搜查别墅，发现卧室衣柜里三台隐藏摄影机冲洗出的胶片，毁掉胶片并嫁祸于猫。","title":"UP AT THE GRANGE"},{"no":"ELEVEN","start_line":723,"summary":"金手指回府，命奥德·约伯展示空手道：劈断楼梯扶手、飞脚踢碎壁炉架，钢边礼帽可嵌入木板一英寸。晚宴上金手指称奥德·约伯是世界仅有的三名空手道黑带之一，透露次日乘飞机去法国。","title":"THE ODD-JOB MAN"},{"no":"TWELVE","start_line":820,"summary":"金手指举报邦德持有未申报美元。邦德在费里菲尔德海关给劳斯莱斯装上Homer追踪器，驾车尾随穿越法国，途中发现蒂莉·索姆斯驾驶TR3也在跟踪，并在79/6号桥下挖出金手指藏匿的一根金条。","title":"LONG TAIL ON A GHOST"},{"no":"THIRTEEN","start_line":865,"summary":"梅肯撞车迫使蒂莉同行至日内瓦。邦德发现金手指在科佩的奥里克企业工厂拆解劳斯莱斯：车身实为两吨18K白金，将改制成Mecca航空座椅运往印度。蒂莉自称来参加瑞士女子高尔夫公开赛，邦德电话核实为假。","title":"'IF YOU TOUCH ME THERE…'"},{"no":"FOURTEEN","start_line":946,"summary":"邦德夜探科佩工厂，遇见持枪埋伏的蒂莉。蒂莉坦言自己是吉尔的妹妹，吉尔被金手指全身涂金漆谋杀，她来复仇。奥德·约伯以弓箭俘获两人，金手指说出“一次是偶然，两次是巧合，第三次就是敌对行动”，将两人送入压力室。","title":"THINGS THAT GO THUMP IN THE NIGHT"},{"no":"FIFTEEN","start_line":1012,"summary":"压力室中邦德被绑在钢桌上，桌缝尽头一台圆锯以每分钟约一英寸逼近，奥德·约伯分级施刑。邦德提出愿为金手指工作，金手指停手保下两人性命。","title":"THE PRESSURE ROOM"},{"no":"SIXTEEN","start_line":1047,"summary":"两人被迷晕运抵纽约爱德怀尔德机场，金手指谎称两人是其患神经衰弱的雇员。邦德醒来发现自己被囚于东河仓库。金手指开价100万英镑（蒂莉50万）雇佣两人，目标是抢劫诺克斯堡150亿美元黄金，约占世界已开采黄金的一半。","title":"THE LAST AND THE BIGGEST"},{"no":"SEVENTEEN","start_line":1094,"summary":"六大黑帮首脑会议：底特律紫帮斯普林格、迈阿密影子辛迪加午夜、芝加哥机器比利·林、拉斯维加斯花斑帮斯特拉普、西西里联盟索洛、哈莱姆水泥搅拌机帮普茜·加洛。金手指每人赠15,000美元金条，承诺每人10亿美元，自留50亿。","title":"HOODS' CONGRESS"},{"no":"EIGHTEEN","start_line":1179,"summary":"金手指讲解诺克斯堡金库结构与守军（约20,000名战斗人员），计划以红十字专列潜入，普茜·加洛提供护士，用花1,000,000美元购得的Corporal导弹原子弹头炸开金库，代号大满贯行动。","title":"CRIME DE LA CRIME"},{"no":"NINETEEN","start_line":1236,"summary":"除斯普林格外五人加入，斯普林格与打手哈普古德当晚“失足坠楼”被灭口。金手指私下向邦德透露：将在供水系统投放GB神经毒剂毒杀诺克斯堡6万人，黄金经停靠诺福克的苏联斯维尔德洛夫斯克级巡洋舰运往喀琅施塔得。","title":"SECRET APPENDIX"},{"no":"TWENTY","start_line":1295,"summary":"金手指包机空中勘察诺克斯堡，假称派拉蒙影业勘景。邦德把写给莱特的求救密信藏在飞机厕所座椅下。当晚一行人化装成红十字医疗队，乘午夜专列自宾夕法尼亚车站南下。","title":"JOURNEY INTO HOLOCAUST"},{"no":"TWENTY-ONE","start_line":1332,"summary":"列车抵达诺克斯堡，满城“死尸”横陈。金手指的爆破组进入金库区时信号弹升起，美军伏兵反击。蒂莉被奥德·约伯的礼帽割断颈部身亡，金手指乘柴油机车逃走，邦德用火箭筒射击未命中，莱特率队现身。","title":"THE RICHEST MAN IN HISTORY"},{"no":"TWENTY-TWO","start_line":1396,"summary":"两天后莱特交代：清洁工在飞机保养时发现密信，總統亲自指挥设局，GB毒剂在投放前被截获，全城佯死。金手指与同伙下落不明，黄金已从帕拉贡保险库提走。邦德登机回伦敦，途中被假借伤寒防疫诱入圈套。","title":"THE LAST TRICK"},{"no":"TWENTY-THREE","start_line":1444,"summary":"金手指劫持BOAC 510航班，普茜·加洛在机上暗助邦德。邦德用鞋跟匕首刺破机窗，奥德·约伯被吸出机外，随后邦德徒手勒死金手指。飞机在查理气象船附近迫降海面，机组随三吨黄金沉没，邦德与普茜·加洛获救。","title":"T.L.C. TREATMENT"}],"characters":[{"age_clues":"未写明年龄；差点9；自述在双O部门六年；十几岁时在圣马克斯每天打两轮球","aliases":["007","Commander Bond","Mr Bomb（金手指初见时误读）"],"appearance":"灰蓝眼睛，黑色额发垂至右眉；瘦削结实；右手掌缘曾因徒手杀人红肿","background":"秘密情报局双O部门特工，持杀人执照；曾在皇家莱索赢下勒·希弗；掩护身份为环球出口公司（Universal Export）职员，负责轻武器出口","first_appearance_chapter":"ONE","habits":"喝双份波本威士忌与伏特加马提尼；抽Morland香烟与Chesterfields；写《Stay Alive!》徒手格斗手册；打高尔夫差点9","id":"bond","last_appearance_chapter":"TWENTY-THREE","name_en":"James Bond","name_zh":"詹姆斯·邦德","personality":"冷静、好赌、记仇；高压下反而放松；对吉尔之死怀有负罪感","relationships":[{"change":"从迈阿密牌局对手到高尔夫赌局对手，再到阶下囚与雇员，最后邦德在飞机上勒死他","type":"对手","with":"auric-goldfinger"},{"change":"从互不信任到并肩潜入、邦德为救她而死战，蒂莉最终死于奥德·约伯之手","type":"被迫同盟","with":"tilly-masterton"},{"change":"从会议桌上的怀疑到劫机航班上暗助邦德传递纸条、最后相拥获救","type":"对手转盟友","with":"pussy-galore"},{"change":"多年战友，莱特凭邦德密信调动FBI与總統设局，在诺克斯堡救下邦德","type":"盟友","with":"felix-leiter"}],"role":"主要人物"},{"age_clues":"护照年龄42岁；1937年20岁抵达英国，推算生于1917年前后","aliases":["Mr Gold","Gold"],"appearance":"身高不足五英尺，体格粗壮，头巨大而圆，胡萝卜色平头，淡蓝眼睛，肤色晒成红棕色，左耳戴肉色助听器，实为无线电接收器","background":"里加出生，祖辈为法贝热炼金匠；1937年来英，经营20家“金手指”当铺连锁，收购旧金；拥有塔内特合金与奥里克企业工厂；被M推断为SMERSH司库","first_appearance_chapter":"TWO","habits":"不抽烟不喝酒；痴迷黄金，嗜好格言；打高尔夫与双人卡纳斯塔；每月以金漆涂人取乐","id":"auric-goldfinger","last_appearance_chapter":"TWENTY-THREE","name_en":"Auric Goldfinger","name_zh":"奥里克·金手指","personality":"极度自律、冷静、贪婪；信奉“赔率合适就下注，不合适就制造赔率”；视人命如草芥","relationships":[{"change":"从雇主与女伴到吉尔背叛后将其谋杀","type":"雇主与受害者","with":"jill-masterton"},{"change":"从主仆到共谋，金手指劫机后仍带奥德·约伯同行直至其死亡","type":"主仆","with":"oddjob"},{"change":"从牌桌对手到阶下囚、雇员，最终被邦德杀死","type":"对手","with":"bond"}],"role":"主要人物"},{"age_clues":"未写明年龄；外貌为成年壮汉","aliases":["the Korean","the chauffeur","the handy man"],"appearance":"矮壮、扁平黄脸、斜眼、兔唇；双手与双足边缘生有黄色角质硬脊，无指甲；常戴黑色圆顶礼帽、黑手套与漆皮鞋","background":"朝鲜人，金手指的司机、保镖与刽子手；世界仅有的三名空手道黑带之一；只听得懂金手指的话","first_appearance_chapter":"SEVEN","habits":"每天一小时击打糙米袋与缠绳木桩练手，一小时体能训练；嗜食猫肉","id":"oddjob","last_appearance_chapter":"TWENTY-THREE","name_en":"Oddjob","name_zh":"奥德·约伯","personality":"沉默、绝对服从、毫无怜悯；被金手指称为“最危险的动物”","relationships":[{"change":"始终为主仆，奥德·约伯为金手指杀人、行刑、劫机，直至被吸出机窗身亡","type":"主仆","with":"auric-goldfinger"},{"change":"从追捕者到在诺克斯堡杀死蒂莉、在飞机上与邦德死斗","type":"对手","with":"bond"}],"role":"主要人物"},{"age_clues":"未写明年龄；蒂莉24岁，姐姐吉尔年长若干","aliases":[],"appearance":"极淡的金发及肩，深蓝眼睛，身高约五英尺十英寸，体格结实如游泳选手；左手戴克拉达戒指（两只金手托金心）","background":"金手指的女伴，每周100英镑，负责在牌局中用望远镜报牌；后与邦德乘火车去纽约并返回金手指处","first_appearance_chapter":"FOUR","habits":"涂指甲油；随身携带望远镜与麦克风报牌","id":"jill-masterton","last_appearance_chapter":"FOURTEEN","name_en":"Jill Masterton","name_zh":"吉尔·马斯特顿","personality":"轻信、爱慕虚荣但心地不坏；对邦德动情","relationships":[{"change":"从女伴到因与邦德同行而遭金手指全身涂金漆谋杀","type":"雇主与受害者","with":"auric-goldfinger"},{"change":"一夜情后邦德将杜邦的10,000美元酬金送给她，吉尔死前嘱托妹妹将戒指转交邦德","type":"情人","with":"bond"},{"change":"姐妹，吉尔死前发电报召蒂莉来迈阿密见最后一面","type":"姐妹","with":"tilly-masterton"}],"role":"主要人物"},{"age_clues":"24岁","aliases":["Miss Tilly Soames","Miss Soames"],"appearance":"黑发、深蓝眼睛、高颧骨，白色男式真丝衬衫、黑色宽皮带、炭灰色百褶短裙、黑凉鞋；左手无名指戴金戒指","background":"吉尔的妹妹；曾在联合利华任秘书、业余花样滑冰选手、射击俱乐部成员；住伦敦厄尔斯考特；主场球会坦普尔","first_appearance_chapter":"TWELVE","habits":"不抽烟；室内手枪与步枪射击；驾驶浅灰色TR3","id":"tilly-masterton","last_appearance_chapter":"TWENTY-ONE","name_en":"Tilly Masterton","name_zh":"蒂莉·马斯特顿","personality":"独立、冷峻、执拗；对男性怀有敌意，崇拜普茜·加洛；为姐姐复仇而来","relationships":[{"change":"从姐妹到蒂莉为吉尔复仇而追踪金手指至日内瓦","type":"姐妹","with":"jill-masterton"},{"change":"从互相猜疑、邦德撞坏她的车，到被迫同囚、共赴诺克斯堡，蒂莉死于奥德·约伯之手","type":"被迫同盟","with":"bond"},{"change":"从会议上的仰慕到诺克斯堡危急时蒂莉想投靠普茜·加洛求庇护，未果","type":"仰慕者","with":"pussy-galore"}],"role":"主要人物"},{"age_clues":"三十岁出头","aliases":["Miss Galore","Pussy"],"appearance":"黑短发，紫罗兰色眼睛，高颧骨，深红嘴唇；穿黑色男式西装配咖啡色花边领饰；银色长指甲","background":"前空中飞人，“普茜·加洛与空中猫”马戏团失败后改行入室盗窃，组建全女性帮派“水泥搅拌机”，总部哈莱姆；曾为金手指提供护士人手","first_appearance_chapter":"SEVENTEEN","habits":"言辞刻薄；对邦德始终保持怀疑，直至劫机时倒戈","id":"pussy-galore","last_appearance_chapter":"TWENTY-THREE","name_en":"Pussy Galore","name_zh":"普茜·加洛","personality":"强硬、独立、洞察力强；自述从未遇到过真正的男人；幼年遭叔父侵犯","relationships":[{"change":"从金手指的合作方到在劫机航班上暗助邦德、最后与邦德相拥获救","type":"合作者转盟友","with":"auric-goldfinger"},{"change":"从会议桌上的怀疑到劫机航班上暗助邦德传递纸条、最后相拥获救","type":"对手转盟友","with":"bond"},{"change":"蒂莉仰慕普茜·加洛，危急时想投靠她","type":"被仰慕者","with":"tilly-masterton"}],"role":"主要人物"},{"age_clues":"未写明年龄；二战海军陆战队老兵","aliases":["Cap'n"],"appearance":"稻草色头发，鹰钩鼻，灰眼睛；右手为钢钩","background":"美国中央情报局特工，现为平克顿侦探社工作；与邦德多次共事；住址平克顿纽约拿骚街154号","first_appearance_chapter":"TWENTY-ONE","habits":"驾驶黑色Studillac；爱开快车","id":"felix-leiter","last_appearance_chapter":"TWENTY-TWO","name_en":"Felix Leiter","name_zh":"费利克斯·莱特","personality":"忠诚、幽默、行动力强；凭邦德密信在一小时内把案子上报至總統","relationships":[{"change":"多年战友，莱特凭邦德密信调动FBI与總統设局，在诺克斯堡救下邦德","type":"盟友","with":"bond"}],"role":"主要人物"},{"age_clues":"年长者；海军出身","aliases":[],"appearance":"面容如水手，硬朗；常叼烟斗、打蝴蝶领结","background":"秘密情报局首长；曾在布莱兹俱乐部见过金手指打桥牌","first_appearance_chapter":"FIVE","habits":"清晨即到办公室；对邦德的女人缘颇有微词","id":"m","last_appearance_chapter":"TWENTY-TWO","name_en":"M","name_zh":"M","personality":"严厉、务实；力主保住双O部门","relationships":[{"change":"上下级，M派邦德调查金手指并在事后通过越洋保密电话指示其回国","type":"上下级","with":"bond"}],"role":"主要人物"},{"age_clues":"未写明年龄","aliases":[],"appearance":"未细写；仅在M办公室外被提及","background":"M的秘书；邦德值夜班结束时她尚未到岗","first_appearance_chapter":"FIVE","habits":null,"id":"moneypenny","last_appearance_chapter":"FIVE","name_en":"Miss Moneypenny","name_zh":"钱彭妮","personality":null,"relationships":[],"role":"次要人物"},{"age_clues":"约50岁","aliases":[],"appearance":"粉红面孔、身材发福，穿布鲁克斯兄弟深色热带西装，衬衫袖口露出水晶袖扣（内含微型钓蝇）","background":"美国富豪，弗洛里迪亚纳酒店股东；1951年在皇家莱索与邦德同桌玩百家乐，目睹邦德击败勒·希弗","first_appearance_chapter":"ONE","habits":"打桥牌，雷金西俱乐部成员；与查理·戈伦等人打牌","id":"junius-du-pont","last_appearance_chapter":"TWELVE","name_en":"Junius Du Pont","name_zh":"朱尼厄斯·杜邦","personality":"精明、好面子；输钱后不甘心，愿出高价查明作弊手法","relationships":[{"change":"从牌桌旧识到雇佣邦德查金手指作弊，事后将10,000美元酬金塞给邦德","type":"雇主","with":"bond"},{"change":"从牌友到被骗25,000美元的受害者，金手指被迫退款50,000美元","type":"牌友与受害者","with":"auric-goldfinger"}],"role":"次要人物"},{"age_clues":"未写明年龄；曾任上校参谋","aliases":[],"appearance":"戴角质框眼镜，面容光洁严肃","background":"英格兰银行研究部负责人，负责监控黄金与外汇非法流动；追查金手指五年","first_appearance_chapter":"SIX","habits":"抽烟斗；负责银行女子曲棍球队等杂务","id":"colonel-smithers","last_appearance_chapter":"SEVEN","name_en":"Colonel Smithers","name_zh":"史密瑟斯上校","personality":"博学、啰嗦但专业；对黄金如数家珍","relationships":[{"change":"向邦德交代案情并请求情报局将金手指绳之以法、追回黄金","type":"情报提供者","with":"bond"}],"role":"次要人物"},{"age_clues":"未写明年龄；邦德少年时代的教练","aliases":[],"appearance":"晒黑的皮革般面孔","background":"皇家圣马克斯俱乐部职业教练；儿子塞西尔为肯特锦标赛亚军","first_appearance_chapter":"SEVEN","habits":"说话温和，从不用粗话","id":"alfred-blacking","last_appearance_chapter":"NINE","name_en":"Alfred Blacking","name_zh":"阿尔弗雷德·布莱金","personality":"忠厚、谨慎；向邦德透露金手指打球爱作弊的传闻","relationships":[{"change":"旧识，布莱金安排邦德与金手指对局并暗中提醒","type":"旧识","with":"bond"}],"role":"次要人物"},{"age_clues":"年长；跛行","aliases":[],"appearance":"瘦削、讥诮的偷猎者面孔","background":"皇家圣马克斯球童；二十年前就为邦德背包","first_appearance_chapter":"EIGHT","habits":"眼观六路，识破金手指沙坑作弊与球童掉球","id":"hawker","last_appearance_chapter":"NINE","name_en":"Hawker","name_zh":"霍克","personality":"机敏、忠心；为帮邦德赢球藏起金手指的真球","relationships":[{"change":"球童与雇主，霍克两次向邦德揭发金手指作弊并配合换球计","type":"球童","with":"bond"}],"role":"次要人物"},{"age_clues":"未写明年龄","aliases":[],"appearance":"谄媚、多话","background":"金手指的球童；在第17洞受贿掉下一颗新球冒充金手指的球","first_appearance_chapter":"EIGHT","habits":null,"id":"foulks","last_appearance_chapter":"NINE","name_en":"Foulks","name_zh":"福克斯","personality":"贪财、谄媚","relationships":[{"change":"金手指的球童，收钱掉球助其作弊","type":"球童","with":"auric-goldfinger"}],"role":"次要人物"},{"age_clues":"未写明年龄","aliases":["The Duke","Hell"],"appearance":"眼神呆滞如玻璃弹珠，衣着考究，戴单片眼镜；女儿在瓦萨学院读书","background":"底特律紫帮首领；虔诚到自称受上帝指引；唯一拒绝加入大满贯行动的黑帮首脑","first_appearance_chapter":"SEVENTEEN","habits":"遇事拖延、祈祷","id":"helmut-springer","last_appearance_chapter":"NINETEEN","name_en":"Helmut M. Springer","name_zh":"赫尔穆特·M·斯普林格","personality":"自命清高、优柔寡断","relationships":[{"change":"拒绝合作后当晚与打手哈普古德一同“失足坠楼”被灭口","type":"被灭口者","with":"auric-goldfinger"}],"role":"次要人物"},{"age_clues":"未写明年龄","aliases":[],"appearance":"高大、面色红润，穿浅蓝热带西装配棕榈树图案衬衫，戴重约半磅的金表","background":"迈阿密与哈瓦那影子辛迪加首领","first_appearance_chapter":"SEVENTEEN","habits":null,"id":"jed-midnight","last_appearance_chapter":"TWENTY-ONE","name_en":"Jed Midnight","name_zh":"杰德·午夜","personality":"豪爽、贪婪；第一个表态加入","relationships":[{"change":"从被邀者到首个加入大满贯行动的黑帮首脑，事后下落不明，莱特怀疑其安排金手指逃往古巴","type":"合作者","with":"auric-goldfinger"}],"role":"次要人物"},{"age_clues":"约40岁","aliases":["The Grinner"],"appearance":"苍白梨形娃娃脸，稻草色头发，黄褐色眼睛，下唇被人割掉，露出永久假笑；右眼睑抽搐","background":"芝加哥“机器”帮首领；自称五十年代起已“合法化”，靠女人、大麻与赛马赚钱","first_appearance_chapter":"SEVENTEEN","habits":"说话时齿音嘶嘶作响；双手常藏桌下","id":"billy-ring","last_appearance_chapter":"TWENTY-ONE","name_en":"Billy (The Grinner) Ring","name_zh":"比利·（笑面）·林","personality":"残忍、话痨；长篇大论后才表态加入","relationships":[{"change":"从被邀者到加入大满贯行动，事后下落不明","type":"合作者","with":"auric-goldfinger"}],"role":"次要人物"},{"age_clues":"约50岁","aliases":[],"appearance":"衣着浮夸，爱抽雪茄，常把烟头嚼碎吐掉","background":"拉斯维加斯花斑帮首领，继承斯潘兄弟的赌场生意","first_appearance_chapter":"SEVENTEEN","habits":"抽雪茄成瘾","id":"jack-strap","last_appearance_chapter":"TWENTY-ONE","name_en":"Jack Strap","name_zh":"杰克·斯特拉普","personality":"圆滑、紧张；表态加入","relationships":[{"change":"从被邀者到加入大满贯行动，事后下落不明","type":"合作者","with":"auric-goldfinger"}],"role":"次要人物"},{"age_clues":"未写明年龄","aliases":[],"appearance":"面色阴沉，戴厚角质框眼镜，体格粗壮，半拳击手半领班模样；胡须浓密，需每三四小时剃须一次","background":"西西里联盟（美国黑手党）首领；随身携带电动剃须刀","first_appearance_chapter":"SEVENTEEN","habits":"开会时剃须；以死亡威胁金手指","id":"mr-solo","last_appearance_chapter":"TWENTY-ONE","name_en":"Mr Solo","name_zh":"索洛先生","personality":"阴沉、威严；以“拿不到十亿就杀你”为条件加入","relationships":[{"change":"从被邀者到有条件加入大满贯行动，事后下落不明","type":"合作者","with":"auric-goldfinger"}],"role":"次要人物"},{"age_clues":"未写明年龄","aliases":["Slappy Hapgood"],"appearance":"未细写","background":"斯普林格的打手","first_appearance_chapter":"NINETEEN","habits":null,"id":"slappy-hapgood","last_appearance_chapter":"NINETEEN","name_en":"Slappy Hapgood","name_zh":"斯拉皮·哈普古德","personality":null,"relationships":[{"change":"与斯普林格一同“失足坠楼”被灭口","type":"同僚","with":"helmut-springer"}],"role":"次要人物"},{"age_clues":"未写明年龄","aliases":[],"appearance":"未细写","background":"秘密情报局参谋长；邦德向其电话汇报金手指案进展","first_appearance_chapter":"TWELVE","habits":null,"id":"chief-of-staff","last_appearance_chapter":"TWELVE","name_en":"Chief of Staff","name_zh":"参谋长","personality":null,"relationships":[],"role":"次要人物"},{"age_clues":"未写明年龄","aliases":[],"appearance":"未细写","background":"邦德的秘书；邦德让参谋长请她订机票","first_appearance_chapter":"TWELVE","habits":null,"id":"miss-ponsonby","last_appearance_chapter":"TWELVE","name_en":"Miss Ponsonby","name_zh":"庞森比小姐","personality":null,"relationships":[],"role":"次要人物"},{"age_clues":"未写明年龄","aliases":[],"appearance":"未细写","background":"墨西哥城化肥商；因妹妹在英国染上毒瘾而介入海洛因贸易，雇邦德炸毁其仓库的是邦德本人（邦德假扮买家接近他）","first_appearance_chapter":"ONE","habits":null,"id":"blackwell","last_appearance_chapter":"ONE","name_en":"Blackwell","name_zh":"布莱克威尔","personality":"业余、理想主义；相信制毒能“造福人类”","relationships":[],"role":"次要人物"},{"age_clues":"未写明年龄","aliases":[],"appearance":"未细写","background":"伦敦海洛因分销商，在皮姆利科将海洛因掺胃药卖给青少年；被CID幽灵小队盯上","first_appearance_chapter":"ONE","habits":null,"id":"schwab","last_appearance_chapter":"ONE","name_en":"Schwab","name_zh":"施瓦布","personality":"贪婪、无良","relationships":[],"role":"次要人物"},{"age_clues":"未写明年龄；代号279","aliases":["Dickson"],"appearance":"未细写","background":"香港H站特工；向伦敦索要水雷对付三艘中共间谍帆船","first_appearance_chapter":"FIVE","habits":null,"id":"agent-279","last_appearance_chapter":"FIVE","name_en":"279 (Dickson)","name_zh":"279号（迪克森）","personality":null,"relationships":[],"role":"次要人物"}],"communications":[{"name":"电话","note":"邦德在总部值夜班接听香港H站来电；金手指以电话安排假警情调开自己；莱特与华盛顿的联络"},{"name":"电报与电传","note":"金手指以邦德名义发电报给环球出口公司谎称其赴加拿大就职；美方截获GB投毒者后逼其发出“一切正常”的电报给金手指"},{"name":"无线电与Homer追踪器","note":"邦德在劳斯莱斯工具箱植入Homer发射器，车内接收器以音调强弱测距尾随；金手指套房内吉尔用约170兆周无线电向其助听器报牌"},{"name":"越洋保密电话","note":"邦德在华盛顿与M通越洋保密电话汇报欧洲端进展"},{"name":"对讲机","note":"诺克斯堡行动中金手指以胸前麦克风与各小队通话"},{"name":"航空无线电","note":"被劫航班以Speedbird 510呼号与甘德管制及查理气象船通话，邦德自报007身份"}],"equipment":[{"id":"walther-ppk","kind":"武器","name_en":"Walther PPK","name_zh":"瓦尔特PPK手枪","note":"邦德配枪，藏于《当文学读的圣经》书中，以Berns Martin枪套佩于腰间；夜探科佩工厂时未带"},{"id":"colt-45","kind":"武器","name_en":"Colt .45 long-barrel","name_zh":"柯尔特.45长枪管手枪","note":"藏于DB III驾驶座下暗格"},{"id":"colt-25","kind":"武器","name_en":"Colt .25 automatic","name_zh":"柯尔特.25自动手枪","note":"金手指的配枪，自称射右眼从不失手；飞机上被邦德夺走，弹仓剩三发、膛内一发"},{"id":"bazooka","kind":"武器","name_en":"Bazooka","name_zh":"火箭筒","note":"莱特携带的一人火箭筒，邦德用它射击逃逸的柴油机车，未命中要害"},{"id":"luger","kind":"武器","name_en":"Luger","name_zh":"鲁格手枪","note":"邦德从被摔死的德国守卫肩套中取走，劫机时双枪之一"},{"id":"oddjob-hat","kind":"武器","name_en":"Oddjob's steel-rimmed bowler hat","name_zh":"奥德·约伯的钢边圆顶礼帽","note":"轻而坚固的合金帽沿，可嵌入木板一英寸深；在诺克斯堡割断蒂莉颈部致其死亡"},{"id":"oddjob-bow","kind":"武器","name_en":"Oddjob's bow and arrow","name_zh":"奥德·约伯的弓箭","note":"在科佩树林中一箭射中邦德身旁树干，箭羽颤动，迫使两人就范"},{"id":"circular-saw","kind":"武器","name_en":"Circular saw","name_zh":"圆锯","note":"压力室刑具，沿钢桌中缝以每分钟约一英寸逼近邦德；原著中没有激光"},{"id":"atomic-warhead","kind":"武器","name_en":"Atomic warhead for Corporal missile","name_zh":"Corporal导弹原子弹头","note":"金手指花1,000,000美元自德国某盟军基地购得，用于炸开诺克斯堡金库；自称“清洁”原子弹，放射性沉降极小"},{"id":"gb-nerve-agent","kind":"武器","name_en":"GB nerve agent","name_zh":"GB神经毒剂","note":"德国1943年完善的三酮类神经毒剂，苏军在迪伦福特缴获全部库存；金手指计划以三品脱经供水系统毒杀诺克斯堡居民，毒剂由两名日本人以杜松子酒名义携带，行动前被截获"},{"id":"shoe-knife","kind":"武器","name_en":"Heel knife","name_zh":"鞋跟匕首","note":"邦德鞋跟暗藏的双刃匕首，诺克斯堡行动与劫机时均使用；劫机时以此刺破机窗"},{"id":"leica-m3","kind":"器材","name_en":"Leica M3 camera","name_zh":"徕卡M3相机","note":"邦德用其配MC测光表、K2滤镜与闪光灯拍下吉尔报牌现场"},{"id":"homer","kind":"器材","name_en":"Homer transmitter and receiver","name_zh":"Homer追踪器","note":"邦德植入劳斯莱斯工具箱的发射器与DB III车内接收器，百英里内可测向尾随"},{"id":"identicast","kind":"器材","name_en":"Identicast","name_zh":"Identicast面部拼图仪","note":"总部档案室设备，邦德据此拼出金手指面部特征并送CID核查"},{"id":"gold-paint","kind":"器材","name_en":"Gold paint","name_zh":"金漆","note":"金手指每月将一名女子全身涂金漆取乐，脊柱留空以防窒息；吉尔被全身涂满后死亡"},{"id":"sonic-detector","kind":"器材","name_en":"Sonic detector","name_zh":"声波探测器","note":"科佩工厂烟囱顶形似雷达扫描器的装置，实为声波探测器，发现了树林中的邦德与蒂莉"},{"id":"hidden-cameras","kind":"器材","name_en":"Hidden cine-cameras","name_zh":"隐藏电影摄影机","note":"格兰奇别墅内三台隐藏摄影机，胶片收入卧室衣柜，邦德曝光胶片并嫁祸于猫"}],"events":[{"cause":"邦德在墨西哥城炸毁布莱克威尔的海洛因提炼仓库，墨西哥大毒枭派杀手报复","chapter":"ONE","effect":"邦德徒手杀死杀手，滞留迈阿密，由此结识杜邦并卷入金手指案","id":"mexico-heroin-assignment","title":"墨西哥海洛因任务"},{"cause":"杜邦一周内与金手指玩双人卡纳斯塔输掉25,000美元，认定对方作弊，出价10,000美元请邦德调查","chapter":"FOUR","effect":"邦德发现吉尔在套房用望远镜报牌，迫使金手指退款50,000美元并带走吉尔","id":"canasta-cheat-exposed","title":"卡纳斯塔作弊被揭穿"},{"cause":"M奉英格兰银行行长之请派邦德调查黄金外流，史密瑟斯交代金手指背景","chapter":"SIX","effect":"邦德以高尔夫为接近手段，与金手指在三明治对局","id":"bank-briefing","title":"银行简报与M派任务"},{"cause":"金手指以10,000美元双倍或赔清下注，邦德为赢得其信任必须取胜","chapter":"NINE","effect":"邦德识破金手指多次作弊并以换球计在第18洞获胜，金手指当晚邀其赴宴","id":"golf-match-sandwich","title":"三明治高尔夫赌局"},{"cause":"金手指设局考验邦德，借故离家半小时并开启隐藏摄影机","chapter":"TEN","effect":"邦德搜查无果反被拍下，毁掉胶片嫁祸于猫，金手指以奥德·约伯示威警告","id":"grange-camera-trap","title":"格兰奇别墅摄影机陷阱"},{"cause":"金手指次日乘飞机去法国，邦德在费里菲尔德海关给劳斯莱斯装上Homer追踪器","chapter":"TWELVE","effect":"邦德驾车尾随穿越法国，途中发现蒂莉也在跟踪，并在79/6号桥下挖出金手指藏匿的金条","id":"long-tail-france","title":"穿越法国的长线尾随"},{"cause":"邦德在梅肯撞坏蒂莉的TR3，蒂莉要求搭车去日内瓦；邦德跟踪劳斯莱斯至科佩","chapter":"THIRTEEN","effect":"邦德目睹工人拆解劳斯莱斯，识破车身为两吨18K白金、将改制成Mecca航空座椅运往印度的走私手法","id":"golden-ghost-revealed","title":"金色幽灵真相揭开"},{"cause":"蒂莉为替姐姐吉尔复仇持枪埋伏，邦德夜探工厂与她相遇","chapter":"FOURTEEN","effect":"邦德得知吉尔被全身涂金漆谋杀，两人被奥德·约伯俘获，金手指将两人送入压力室","id":"jill-murder-revealed","title":"吉尔被谋杀真相揭开"},{"cause":"金手指要从邦德口中逼问真相，以圆锯与奥德·约伯施刑","chapter":"FIFTEEN","effect":"邦德提出为金手指工作，金手指改主意保下两人性命，将其迷晕运往纽约","id":"pressure-room","title":"压力室酷刑"},{"cause":"金手指需要人手处理大满贯行动的文书工作","chapter":"SIXTEEN","effect":"邦德与蒂莉被迫担任行动秘书，得知目标是抢劫诺克斯堡150亿美元黄金","id":"fort-knox-target","title":"诺克斯堡目标揭晓"},{"cause":"金手指以每人15,000美元金条与10亿美元分成为诱饵召集六大黑帮","chapter":"SEVENTEEN","effect":"除斯普林格外五人加入；斯普林格当晚被灭口；邦德记录各人态度","id":"hoods-congress","title":"黑帮首脑会议"},{"cause":"金手指讲解金库结构与守军，提出以原子弹头炸开金库、红十字专列潜入的计划","chapter":"EIGHTEEN","effect":"各帮开始筹备运输车队与人手，行动代号大满贯行动","id":"grand-slam-plan","title":"大满贯行动计划"},{"cause":"金手指私下向邦德透露GB毒剂与苏联巡洋舰接应计划","chapter":"NINETEEN","effect":"邦德确认行动将毒杀6万人并把黄金运往苏联，决心设法破坏","id":"gb-revelation","title":"GB毒剂与苏联巡洋舰"},{"cause":"邦德随金手指包机勘察诺克斯堡，途中无人看守","chapter":"TWENTY","effect":"邦德把求救密信藏在飞机厕所座椅下，清洁工两天后发现并送交莱特","id":"leiter-message","title":"莱特求救密信"},{"cause":"D-1午夜，红十字专列自宾夕法尼亚车站出发，金手指在路易斯维尔换乘机车前部","chapter":"TWENTY-ONE","effect":"专列抵达诺克斯堡，美军伏兵以信号弹为号反击，蒂莉身亡，金手指乘柴油机车逃走","id":"fort-knox-ambush","title":"诺克斯堡伏击"},{"cause":"金手指在爱德怀尔德机场以假伤寒防疫为名劫持BOAC 510航班，普茜·加洛在机上暗助邦德","chapter":"TWENTY-THREE","effect":"邦德刺破机窗使奥德·约伯被吸出机外，勒死金手指，飞机在查理气象船附近迫降，机组随三吨黄金沉没","id":"hijack-and-killing","title":"劫机与金手指之死"}],"facts":[{"canon_or_inference":"canon","chapter":"ONE","confidence":"high","entity":"bond","fact":"邦德在墨西哥城执行任务期间徒手杀死一名墨西哥杀手，所用手法为手掌缘劈击喉结。","quote":"deadly hand-edge blow to the Adam's apple","quote_source":"第ONE章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"ONE","confidence":"high","entity":"bond","fact":"邦德炸毁布莱克威尔在墨西哥城的海洛因提炼仓库，该仓库以化肥厂为掩护。","quote":"left a thermite bomb","quote_source":"第ONE章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"ONE","confidence":"high","entity":"blackwell","fact":"布莱克威尔因妹妹在英国染上毒瘾而介入海洛因贸易，提炼的海洛因经外交信使运往伦敦。","quote":"a pleasant-spoken Import and Export merchant called Black-well","quote_source":"第ONE章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"ONE","confidence":"high","entity":"bond","fact":"邦德持有双O执照，是秘密情报局中罕见的杀人执照持有者。","quote":"the rare double-O prefix - the licence to kill","quote_source":"第ONE章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"TWO","confidence":"high","entity":"junius-du-pont","fact":"杜邦与邦德1951年在皇家莱索牌桌相识，当时邦德击败了勒·希弗。","quote":"Trance, '51, Royale les Eaux","quote_source":"第TWO章","source_novel":"goldfinger","timeline_position":"1951年"},{"canon_or_inference":"canon","chapter":"TWO","confidence":"high","entity":"auric-goldfinger","fact":"金手指护照年龄42岁，拿骚居民，未婚，职业登记为经纪人，红发。","quote":"Nassavian passport. Age forty-two. Unmarried. Profession, broker","quote_source":"第TWO章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"TWO","confidence":"high","entity":"auric-goldfinger","fact":"金手指一周内与杜邦玩双人卡纳斯塔赢走25,000美元，杜邦认定其作弊。","quote":"lost twenty-five thousand dollars in a week playing two-handed Canasta","quote_source":"第TWO章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"TWO","confidence":"high","entity":"junius-du-pont","fact":"杜邦出价10,000美元请邦德查明金手指的作弊手法，邦德接受并约定次日两场牌局内查明。","quote":"I will pay you ten thousand dollars","quote_source":"第TWO章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"THREE","confidence":"high","entity":"auric-goldfinger","fact":"金手指以患广场恐惧症为由坚持在牌桌上面朝酒店而坐，实为让套房内的人偷看杜邦的牌。","quote":"I suffer from an obscure complaint - agoraphobia","quote_source":"第THREE章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"THREE","confidence":"high","entity":"auric-goldfinger","fact":"金手指住在弗洛里迪亚纳酒店200号夏威夷套房，左耳戴助听器，实为无线电报牌接收器。","quote":"No 200, the Hawaii Suite","quote_source":"第THREE章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"FOUR","confidence":"high","entity":"jill-masterton","fact":"吉尔·马斯特顿在套房内仅穿黑色胸衣与内裤，用望远镜偷看杜邦的牌并以麦克风向金手指报牌。","quote":"Drew five and four. Completed canasta in fives","quote_source":"第FOUR章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"FOUR","confidence":"high","entity":"auric-goldfinger","fact":"金手指被迫开出50,000美元支票：35,000为骗走杜邦的钱，10,000为邦德酬金，5,000为赔偿。","quote":"write a cheque to cash for fifty thousand dollars","quote_source":"第FOUR章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"FOUR","confidence":"high","entity":"jill-masterton","fact":"吉尔每周从金手指处领取100英镑，攒够钱就打算离开。","quote":"A hundred pounds a week","quote_source":"第FOUR章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"FOUR","confidence":"high","entity":"auric-goldfinger","fact":"金手指随身携带价值百万美元的黄金，行李箱夹层即金板，过海关时则把金币腰带缠在腰间。","quote":"He always carries a million dollars' worth of gold","quote_source":"第FOUR章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"FIVE","confidence":"high","entity":"bond","fact":"邦德在总部值夜班期间接到香港H站来电，对方索要水雷对付三艘中共间谍帆船。","quote":"Station H, sir","quote_source":"第FIVE章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"FIVE","confidence":"high","entity":"bond","fact":"邦德正在编写一本名为《Stay Alive!》的徒手格斗手册，参考了SMERSH的《Defence》手册。","quote":"a handbook of all secret methods of unarmed combat","quote_source":"第FIVE章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"FIVE","confidence":"high","entity":"m","fact":"M告诉邦德，财政部认为双O部门已经过时，但M回绝了这一说法。","quote":"Their liaison man thinks the double-O section is redundant","quote_source":"第FIVE章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"SIX","confidence":"high","entity":"auric-goldfinger","fact":"金手指1937年20岁时自里加抵达英国，祖辈三代为法贝热炼金匠。","quote":"came over to England in 1937. He was a refugee from Riga","quote_source":"第SIX章","source_novel":"goldfinger","timeline_position":"1937年"},{"canon_or_inference":"canon","chapter":"SIX","confidence":"high","entity":"auric-goldfinger","fact":"金手指收购20家小当铺改名“金手指”，专收旧金，二战时全连锁申报黄金存量仅50盎司。","quote":"It was fifty ounces for the whole chain!","quote_source":"第SIX章","source_novel":"goldfinger","timeline_position":"1937年至1954年"},{"canon_or_inference":"canon","chapter":"SIX","confidence":"high","entity":"auric-goldfinger","fact":"1954年夏，金手指的拖网渔船自印度返航途中在古德温沙洲搁浅，船木中检出金粉，暴露其以化肥名义向印度走私黄金。","quote":"went ashore on the Goodwins","quote_source":"第SIX章","source_novel":"goldfinger","timeline_position":"1954年"},{"canon_or_inference":"canon","chapter":"SIX","confidence":"high","entity":"auric-goldfinger","fact":"金手指在苏黎世、拿骚、巴拿马、纽约藏有约2,000万英镑金条，每根金条上都刻有一个微小的字母Z。","quote":"twenty million pounds' worth of gold bars","quote_source":"第SIX章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"SIX","confidence":"high","entity":"colonel-smithers","fact":"史密瑟斯上校是英格兰银行研究部负责人，追查金手指五年，请求情报局将其绳之以法并追回黄金。","quote":"It took me five years, Mr Bond, to find out","quote_source":"第SIX章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"inference","chapter":"SEVEN","confidence":"medium","entity":"auric-goldfinger","fact":"M推断金手指是SMERSH的司库，依据是缴获的20根Z刻痕金条全部出自SMERSH特工之手。","quote":"the foreign banker, the treasurer so to speak, of SMERSH","quote_source":"第SEVEN章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"SEVEN","confidence":"high","entity":"bond","fact":"邦德的座驾是阿斯顿·马丁DB III，战舰灰色，配有变光开关、加固保险杠、驾驶座下暗格里的长枪管柯尔特.45与Homer接收器。","quote":"He had taken the DBIII","quote_source":"第SEVEN章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"SEVEN","confidence":"high","entity":"auric-goldfinger","fact":"金手指的座驾是约1925年产的淡黄色劳斯莱斯银色幽灵，配有装甲钢板与防弹玻璃。","quote":"old Silver Ghost sweep majestically up the drive","quote_source":"第SEVEN章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"EIGHT","confidence":"high","entity":"bond","fact":"邦德与金手指的高尔夫赌局赌注为10,000美元双倍或赔清，双方差点均为9。","quote":"I will play you double or quits for that","quote_source":"第EIGHT章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"NINE","confidence":"high","entity":"auric-goldfinger","fact":"金手指在高尔夫球局中多次作弊，包括压平球后草叶、在邦德挥杆时掉落球杆、沙坑内跳跃压球、球童掉球。","quote":"flattening the tuft","quote_source":"第NINE章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"NINE","confidence":"high","entity":"bond","fact":"邦德在第17洞将一颗7号邓禄普球换给金手指，金手指在第18洞用错球，按规则输洞输局。","quote":"playing with the wrong ball","quote_source":"第NINE章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"TEN","confidence":"high","entity":"auric-goldfinger","fact":"金手指在格兰奇别墅安装三台隐藏电影摄影机，胶片收入卧室衣柜，邦德曝光胶片并嫁祸于猫。","quote":"three of them, their lenses concealed God knows where","quote_source":"第TEN章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"ELEVEN","confidence":"high","entity":"oddjob","fact":"奥德·约伯是世界仅有的三名空手道黑带之一，能徒手劈断六英寸厚的楼梯扶手、飞脚踢碎壁炉架。","quote":"one of the three in the world who have achieved the Black Belt in Karate","quote_source":"第ELEVEN章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"ELEVEN","confidence":"high","entity":"oddjob","fact":"奥德·约伯的圆顶礼帽帽沿为轻质坚固合金，可嵌入木板一英寸深，足以砸碎人头。","quote":"A light but very strong alloy, Mr Bond","quote_source":"第ELEVEN章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"ELEVEN","confidence":"high","entity":"oddjob","fact":"奥德·约伯患兔唇，除金手指外几乎无人能听懂他说话。","quote":"Poor chap's got a cleft palate","quote_source":"第ELEVEN章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"TWELVE","confidence":"high","entity":"bond","fact":"邦德在费里菲尔德海关将Homer发射器藏入劳斯莱斯备用工具箱，驾车尾随金手指穿越法国。","quote":"slipped the battery and tube into the back of it","quote_source":"第TWELVE章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"TWELVE","confidence":"high","entity":"bond","fact":"邦德在N79公路79/6号桥下挖出金手指藏匿的一根金条。","quote":"survey number set in the arch - 79/6","quote_source":"第TWELVE章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"THIRTEEN","confidence":"high","entity":"tilly-masterton","fact":"蒂莉·马斯特顿驾驶浅灰色TR3跟踪金手指，自称来参加瑞士女子高尔夫公开赛，邦德电话核实为假。","quote":"The Swiss Women's Open Championship at Divonne","quote_source":"第THIRTEEN章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"THIRTEEN","confidence":"high","entity":"auric-goldfinger","fact":"劳斯莱斯车身实为两吨18K白金，工人在科佩工厂将其拆解后将改制成Mecca航空座椅运往印度。","quote":"Solid, eighteen-carat, white gold","quote_source":"第THIRTEEN章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"FOURTEEN","confidence":"high","entity":"jill-masterton","fact":"吉尔·马斯特顿被金手指全身涂满金漆后死亡，死于迈阿密一家医院急诊室，死前发电报召妹妹蒂莉前来。","quote":"He had had her painted all over. He had murdered her","quote_source":"第FOURTEEN章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"FOURTEEN","confidence":"high","entity":"auric-goldfinger","fact":"金手指每月将一名女子全身涂金漆取乐，脊柱留空以防窒息，事后付1,000美元打发。","quote":"He has a woman once a month","quote_source":"第FOURTEEN章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"FOURTEEN","confidence":"high","entity":"auric-goldfinger","fact":"金手指说出全书关键台词：一次是偶然，两次是巧合，第三次就是敌对行动。","quote":"Once is happenstance. Twice is coincidence. The third time it's enemy action","quote_source":"第FOURTEEN章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"FIFTEEN","confidence":"high","entity":"bond","fact":"压力室中圆锯沿钢桌中缝以每分钟约一英寸逼近邦德，奥德·约伯分级施刑，邦德提出为金手指工作才保命。","quote":"The saw is now approaching your body at about an inch every minute","quote_source":"第FIFTEEN章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"SIXTEEN","confidence":"high","entity":"auric-goldfinger","fact":"金手指的目标是抢劫诺克斯堡150亿美元黄金，约占世界已开采黄金的一半。","quote":"fifteen billion dollars' worth of gold bullion","quote_source":"第SIXTEEN章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"SIXTEEN","confidence":"high","entity":"auric-goldfinger","fact":"金手指开价100万英镑雇佣邦德、50万英镑雇佣蒂莉，担任大满贯行动的文书工作。","quote":"you will receive one million pounds in gold","quote_source":"第SIXTEEN章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"SEVENTEEN","confidence":"high","entity":"pussy-galore","fact":"普茜·加洛是美国唯一女性黑帮首领，率领全女性帮派“水泥搅拌机”，前空中飞人，帮派原名“普茜·加洛与空中猫”。","quote":"She is the only woman who runs a gang in America","quote_source":"第SEVENTEEN章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"SEVENTEEN","confidence":"high","entity":"auric-goldfinger","fact":"金手指在黑帮会议上向每位首脑赠送一根价值15,000美元的24K金条作为出席酬劳。","quote":"one twenty-four-carat gold bar, value fifteen thousand dollars","quote_source":"第SEVENTEEN章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"SEVENTEEN","confidence":"high","entity":"auric-goldfinger","fact":"金手指自称身家6,000万美元，承诺每家黑帮分得10亿美元，自己分得50亿。","quote":"That sum now stands at sixty million dollars","quote_source":"第SEVENTEEN章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"EIGHTEEN","confidence":"high","entity":"auric-goldfinger","fact":"金手指花1,000,000美元自德国某盟军基地购得一枚Corporal导弹原子弹头，用于炸开诺克斯堡金库。","quote":"It cost me exactly one million dollars","quote_source":"第EIGHTEEN章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"EIGHTEEN","confidence":"high","entity":"auric-goldfinger","fact":"诺克斯堡金库外形105乘121英尺、高42英尺，金库门重逾20吨，守军约20,000名战斗人员。","quote":"The vault door weighs more than twenty tons","quote_source":"第EIGHTEEN章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"NINETEEN","confidence":"high","entity":"helmut-springer","fact":"斯普林格拒绝加入大满贯行动后，当晚与打手哈普古德一同“失足坠楼”被灭口。","quote":"Mr Helmut Springer has met with an accident. He fell down the stairs","quote_source":"第NINETEEN章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"NINETEEN","confidence":"high","entity":"auric-goldfinger","fact":"金手指计划在诺克斯堡供水系统投放GB神经毒剂，于D-1午夜前毒死或致残全城约6万人。","quote":"the entire population of Fort Knox will be dead or incapacitated by midnight on D-l","quote_source":"第NINETEEN章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"NINETEEN","confidence":"high","entity":"auric-goldfinger","fact":"金手指计划将抢得的黄金经停靠诺福克的苏联斯维尔德洛夫斯克级巡洋舰运往喀琅施塔得，该舰于D+1启航。","quote":"a Soviet cruiser of the Sverdlovsk class will be visiting Norfolk, Virginia","quote_source":"第NINETEEN章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"TWENTY","confidence":"high","entity":"bond","fact":"邦德把求救密信藏在勘察飞机厕所座椅下，收件人为平克顿侦探社的费利克斯·莱特，悬赏5,000美元。","quote":"FELIX LEITER CARE PINKERTON'S DETECTIVE AGENCY, 154 NASSAU STREET","quote_source":"第TWENTY章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"TWENTY-ONE","confidence":"high","entity":"tilly-masterton","fact":"蒂莉·马斯特顿在诺克斯堡被奥德·约伯掷出的钢边礼帽割断颈部身亡。","quote":"Its edge caught the girl exactly at the nape of the neck","quote_source":"第TWENTY-ONE章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"TWENTY-TWO","confidence":"high","entity":"felix-leiter","fact":"莱特凭邦德密信在一小时内把案子上报至總統，美方设局让诺克斯堡全城佯死，GB毒剂在投放前被截获。","quote":"the whole case up to the President within an hour","quote_source":"第TWENTY-TWO章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"TWENTY-TWO","confidence":"high","entity":"auric-goldfinger","fact":"金手指在D-1从纽约帕拉贡保险库提走全部黄金，装上篷布卡车运走；英格兰银行已备好枢密院令准备扣押。","quote":"withdrawn it on D-l. He and his men had driven it away in a covered truck","quote_source":"第TWENTY-TWO章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"TWENTY-THREE","confidence":"high","entity":"auric-goldfinger","fact":"金手指在爱德怀尔德机场以假伤寒防疫为名劫持BOAC 510航班，飞机呼号Speedbird，注册号G-ALGY。","quote":"Speedbird 510. G-ALGY calling C for Charlie","quote_source":"第TWENTY-THREE章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"TWENTY-THREE","confidence":"high","entity":"oddjob","fact":"邦德用鞋跟匕首刺破机窗，机舱失压将奥德·约伯吸出机外身亡。","quote":"sucked with a terrible whistling noise through the aperture","quote_source":"第TWENTY-THREE章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"TWENTY-THREE","confidence":"high","entity":"auric-goldfinger","fact":"邦德在飞机上徒手勒死金手指，随后命令机组飞往查理气象船附近迫降海面。","quote":"Bond sat astride the silent chest","quote_source":"第TWENTY-THREE章","source_novel":"goldfinger","timeline_position":"1959年"},{"canon_or_inference":"canon","chapter":"TWENTY-THREE","confidence":"high","entity":"pussy-galore","fact":"普茜·加洛在劫机航班上倒向邦德，飞机迫降后与邦德一同被查理气象船救起；机组随三吨黄金沉入大西洋。","quote":"the crew, with three tons of gold round their necks, were on their way down","quote_source":"第TWENTY-THREE章","source_novel":"goldfinger","timeline_position":"1959年"}],"kind":"长篇","lines":1506,"locations":[{"country":"美国","fictional":false,"id":"miami","name_en":"Miami, Florida","name_zh":"迈阿密","role":"开篇地，邦德在机场候机厅结识杜邦，弗洛里迪亚纳酒店牌局发生地"},{"country":"英国","fictional":false,"id":"london-hq","name_en":"Secret Service Headquarters, Regent's Park, London","name_zh":"伦敦摄政公园秘密情报局总部","role":"邦德值夜班、M下达任务、档案室拼图金手指面容的地"},{"country":"英国","fictional":false,"id":"bank-of-england","name_en":"Bank of England, Threadneedle Street","name_zh":"英格兰银行","role":"史密瑟斯向邦德交代黄金走私案与金手指背景的地"},{"country":"英国","fictional":false,"id":"royal-st-marks","name_en":"Royal St Marks Golf Club, Sandwich, Kent","name_zh":"皇家圣马克斯高尔夫俱乐部","role":"邦德与金手指18洞赌局发生地"},{"country":"英国","fictional":false,"id":"the-grange","name_en":"The Grange, Reculver, Kent","name_zh":"格兰奇别墅","role":"金手指在英格兰的住所，晚宴与摄影机陷阱发生地；毗邻塔内特合金工厂"},{"country":"英国","fictional":false,"id":"ferryfield","name_en":"Ferryfield Airport (Lydd)","name_zh":"费里菲尔德机场","role":"金手指乘机载劳斯莱斯赴法国的地，邦德在此植入Homer追踪器"},{"country":"法国","fictional":false,"id":"france-route","name_en":"Le Touquet, Abbeville, Rouen, Orleans, Moulins, Macon","name_zh":"勒图凯至梅肯一线","role":"邦德尾随劳斯莱斯穿越法国的路线，79/6号桥下藏金条，梅肯撞车蒂莉"},{"country":"瑞士","fictional":false,"id":"geneva","name_en":"Geneva","name_zh":"日内瓦","role":"邦德与蒂莉入住贝尔格酒店，金手指藏金与走私中转地"},{"country":"瑞士","fictional":false,"id":"coppet","name_en":"Entreprises Auric, Coppet","name_zh":"科佩奥里克企业工厂","role":"金手指在瑞士的工厂，拆解劳斯莱斯、改制金座椅的地，邦德与蒂莉在此被俘"},{"country":"美国","fictional":false,"id":"fort-knox","name_en":"Fort Knox, Kentucky","name_zh":"诺克斯堡","role":"大满贯行动目标，美国黄金储备库所在地；美军设伏、全城佯死、蒂莉身亡的地"},{"country":"美国","fictional":false,"id":"louisville","name_en":"Louisville, Kentucky","name_zh":"路易斯维尔","role":"红十字专列中途站，金手指在此换乘机车前部"},{"country":"美国","fictional":false,"id":"new-york","name_en":"New York City","name_zh":"纽约","role":"爱德怀尔德机场、东河仓库（黑帮会议与囚禁地）、宾夕法尼亚车站专列出发地、帕拉贡保险库"},{"country":"美国","fictional":false,"id":"norfolk","name_en":"Norfolk, Virginia","name_zh":"诺福克","role":"苏联斯维尔德洛夫斯克级巡洋舰按计划停靠并接应黄金的地（未得逞）"},{"country":"巴哈马","fictional":false,"id":"nassau","name_en":"Nassau, Bahamas","name_zh":"拿骚","role":"金手指护照签发地与藏金地之一"},{"country":"印度","fictional":false,"id":"bombay","name_en":"Bombay, India","name_zh":"孟买","role":"黄金走私目的地，金价溢价最高；Mecca航空座椅的终点"},{"country":"大西洋","fictional":false,"id":"weathership-charlie","name_en":"Ocean Station Charlie (Weathership Charlie)","name_zh":"查理气象船","role":"被劫航班迫降海面后救起邦德与普茜·加洛的地"}],"mission":{"investigation":"迈阿密牌局揭穿作弊→伦敦受M与英格兰银行委托调查黄金外流→三明治高尔夫赌局接近金手指→格兰奇晚宴搜查→费里菲尔德植入Homer尾随至法国→桥下挖出金条→日内瓦科佩工厂识破金色幽灵→被俘后假意受雇→黑帮会议记录→空中勘察时发出求救密信→诺克斯堡现场待机→劫机航班上杀死金手指","key_clues":["吉尔在套房用望远镜报牌的照片","金条上的Z刻痕与缴获的20根SMERSH金条吻合","79/6号桥下挖出的金条","科佩工厂拆解劳斯莱斯，车身为18K白金","金手指亲口透露GB毒剂与苏联巡洋舰接应计划","藏在勘察飞机厕所座椅下的莱特求救密信"],"objective":"调查英格兰银行发现的黄金外流案，将金手指绳之以法并追回黄金；后演变为阻止大满贯行动、保住诺克斯堡黄金储备","outcome":"大满贯行动被美方设局粉碎，诺克斯堡居民无一伤亡；蒂莉与吉尔身亡；金手指与奥德·约伯死于被劫航班，机组随三吨黄金沉入大西洋；金手指与其同伙的其余黄金下落不明，邦德未能完成追回黄金的任务"},"novel_id":"goldfinger","novel_no":7,"organizations":[{"first_chapter":"ONE","id":"sis","name_en":"Secret Intelligence Service","name_zh":"英国秘密情报机构","role":"邦德的上级机构，M领导，派邦德调查金手指"},{"first_chapter":"SIX","id":"bank-of-england","name_en":"Bank of England","name_zh":"英格兰银行","role":"发现黄金外流并委托情报局调查，史密瑟斯的研究部实为银行的情报系统"},{"first_chapter":"SEVEN","id":"smersh","name_en":"SMERSH","name_zh":"SMERSH","role":"苏联锄奸机构，M推断金手指是其司库，为其海外中心提供资金"},{"first_chapter":"FIVE","id":"cia","name_en":"Central Intelligence Agency","name_zh":"美国中央情报局","role":"莱特所属机构，与M联络后把案子上报至總統"},{"first_chapter":"TWENTY-TWO","id":"fbi","name_en":"Federal Bureau of Investigation","name_zh":"美国联邦调查局","role":"与萊特合作设局，在诺克斯堡设伏"},{"first_chapter":"TWENTY","id":"pinkertons","name_en":"Pinkerton's Detective Agency","name_zh":"平克顿侦探社","role":"莱特的工作单位，邦德密信的收件地址"},{"first_chapter":"SEVENTEEN","id":"unione-siciliano","name_en":"Unione Siciliano","name_zh":"西西里联盟","role":"美国黑手党，首脑索洛先生参会并加入大满贯行动"},{"first_chapter":"SEVENTEEN","id":"purple-gang","name_en":"The Purple Gang, Detroit","name_zh":"底特律紫帮","role":"首脑斯普林格拒绝加入后被灭口"},{"first_chapter":"SEVENTEEN","id":"shadow-syndicate","name_en":"Shadow Syndicate, Miami and Havana","name_zh":"影子辛迪加","role":"首脑杰德·午夜首个加入大满贯行动"},{"first_chapter":"SEVENTEEN","id":"the-machine","name_en":"The Machine, Chicago","name_zh":"芝加哥机器帮","role":"首脑比利·林加入大满贯行动"},{"first_chapter":"SEVENTEEN","id":"spangled-mob","name_en":"The Spangled Mob, Las Vegas","name_zh":"花斑帮","role":"首脑杰克·斯特拉普加入大满贯行动"},{"first_chapter":"SEVENTEEN","id":"cement-mixers","name_en":"The Cement Mixers, Harlem","name_zh":"水泥搅拌机帮","role":"普茜·加洛率领的全女性帮派，为行动提供护士人手"},{"first_chapter":"THIRTEEN","id":"mecca-airline","name_en":"Mecca (charter airline to India)","name_zh":"Mecca包机航空公司","role":"金手指参股的印度包机公司，其星座式客机座椅由金改制后运往印度"},{"first_chapter":"THIRTEEN","id":"entreprises-auric","name_en":"Entreprises Auric A.G.","name_zh":"奥里克企业公司","role":"金手指在瑞士科佩的工厂，拆解劳斯莱斯并改制金座椅"},{"first_chapter":"SEVEN","id":"thanet-alloys","name_en":"Thanet Alloys","name_zh":"塔内特合金公司","role":"金手指在雷卡尔弗的工厂，名义为合金冶炼，实为黄金加工"},{"first_chapter":"ONE","id":"universal-export","name_en":"Universal Export","name_zh":"环球出口公司","role":"秘密情报局的掩护公司，邦德对外身份的雇主"}],"publication_year":1959,"reading":{"chapters_read":23,"chapters_total":23,"coverage":"100%","method":"按章节sed分段读"},"source_file":"source/txt/goldfinger.txt","source_sha256":"18e4f2e888965a49d3535af93042a4d822bfc7a83efe6829001ad7212b76cfc5","story_timeline":"主线约在1959年：邦德在墨西哥城完成海洛因任务后滞留迈阿密，结识杜邦并揭穿金手指牌局作弊；一周后回伦敦受命调查黄金外流；次日在三明治与金手指打高尔夫赌局并获胜，当晚赴格兰奇晚宴；翌日尾随金手指穿越法国至日内瓦，夜探科佩工厂被俘；被迷晕运往纽约后被迫参与大满贯行动筹备约一周；D-1午夜乘红十字专列南下，次日清晨抵达诺克斯堡，行动被美军粉碎；两天后邦德登机回伦敦途中被劫机，当夜在飞机上杀死金手指与奥德·约伯，次日清晨迫降于查理气象船附近获救。背景线：金手指1937年20岁自里加来英，1954年渔船失事暴露金粉走私。","title_en":"Goldfinger","title_zh":"金手指","vehicles":[{"name_en":"Aston Martin DB Mark III","name_zh":"阿斯顿·马丁DB Mark III","note":"邦德座驾，原文称DB III，战舰灰色，情报局车队配车，配有变光开关、加固保险杠、驾驶座下暗格柯尔特.45与Homer接收器；不是电影中的DB5"},{"name_en":"Rolls-Royce Silver Ghost (c.1925)","name_zh":"劳斯莱斯银色幽灵（约1925年产）","note":"金手指座驾，淡黄色，车身实为两吨18K白金，外覆装甲钢板，重约三吨，配有金漆行李箱与特殊弹簧"},{"name_en":"Triumph TR3","name_zh":"凯旋TR3","note":"蒂莉·马斯特顿的浅灰色双座敞篷车，在梅肯被邦德撞坏风扇"},{"name_en":"Chrysler Imperial","name_zh":"克莱斯勒帝国","note":"杜邦在迈阿密的座驾"},{"name_en":"Ford Popular","name_zh":"福特Popular","note":"奥德·约伯驾驶的天蓝色小车，邦德怀疑其运送当铺旧金（未证实）"},{"name_en":"Bristol Freighter","name_zh":"布里斯托货机","note":"金手指乘机载劳斯莱斯飞越英吉利海峡的货机"},{"name_en":"Beechcraft Executive (10-seater)","name_zh":"比奇行政机（10座）","note":"金手指包租的勘察机，邦德将求救密信藏于其厕所座椅下"},{"name_en":"BOAC Stratocruiser, Speedbird 510, G-ALGY","name_zh":"英国海外航空公司同温层巡洋舰，Speedbird 510航班，注册号G-ALGY","note":"邦德回伦敦的航班，在爱德怀尔德被金手指劫持，迫降于查理气象船附近海面，机组随三吨黄金沉没"},{"name_en":"Silver Meteor","name_zh":"银色流星号","note":"邦德与吉尔自迈阿密赴纽约的列车"},{"name_en":"Special train (Red Cross)","name_zh":"红十字专列","note":"大满贯行动D-1午夜自宾夕法尼亚车站出发，约一百名帮众化装成红十字医疗队"},{"name_en":"Studillac","name_zh":"Studillac","note":"莱特驾驶的黑色改装车，300马力，配三重喇叭"}],"words":85981}
+{
+  "adaptation_differences": [
+    "本部未核对电影差异。原著事实中没有激光、没有DB5、没有金漆桌刑具：压力室的刑具是沿桌缝逼近的圆锯；邦德座驾是阿斯顿·马丁DB III而非DB5；金手指的计划是用GB神经毒剂毒杀诺克斯堡居民后以原子弹头炸开金库、再把黄金运上苏联巡洋舰，而非仅炸金库；普茜·加洛在原著中是黑帮首脑、最后在劫机航班上倒向邦德；蒂莉·马斯特顿在原著中死于诺克斯堡。以上均为原文内容，不是电影对比结论，电影一版未逐项核对，故不展开。"
+  ],
+  "canon_vs_inference": [
+    {
+      "note": "M的推断：缴获的20根Z刻痕金条全部出自SMERSH特工之手，因此金手指是SMERSH的司库。原文中这是M的明确推论，邦德也据此推演了整套传递机制，但金手指本人从未亲口承认受雇于SMERSH。",
+      "status": "inference",
+      "topic": "金手指是SMERSH司库"
+    },
+    {
+      "note": "邦德在桥下挖出金条后推断桥是金手指的死信箱，原文写明这是邦德的联想（“Was Bond romancing again, or was the bridge a post box?”），随后挖出的金条证实桥下确有藏金，但无人证实该金条的接收方。",
+      "status": "inference",
+      "topic": "79/6号桥是SMERSH死信箱"
+    },
+    {
+      "note": "邦德推断金手指是波罗的海人（“Probably got away to escape the Russians”），史密瑟斯则证实其1937年自里加来英、祖辈为法贝热炼金匠。里加出身是canon，邦德关于其逃亡动机的猜测是inference。",
+      "status": "inference",
+      "topic": "金手指的波罗的海出身与逃亡动机"
+    },
+    {
+      "note": "邦德推断奥德·约伯驾驶的天蓝色福特Popular后备箱里装的是当周从各珠宝店收来的旧金。原文明确写这是邦德的猜想（“Bond thought the answer was yes”），无实证。",
+      "status": "inference",
+      "topic": "福特Popular运送旧金"
+    },
+    {
+      "note": "邦德推断蒂莉跟踪金手指是为勒索或投怀送抱，原文随后证实她是为替姐姐复仇而来杀金手指，邦德的最初猜想错误。",
+      "status": "inference",
+      "topic": "蒂莉跟踪金手指的动机（邦德初猜）"
+    },
+    {
+      "note": "邦德推断诺克斯堡的“死尸”是莱特设局的假扮，原文第22章由莱特证实：全城居民参与了这场佯装，GB毒剂在投放前已被截获。",
+      "status": "canon",
+      "topic": "诺克斯堡全城佯死是美方设局"
+    },
+    {
+      "note": "史密瑟斯称金手指是“全英格兰现金最富有的人”，并称其在苏黎世、拿骚、巴拿马、纽约藏有2,000万英镑金条；这是书中人物的说法，原文未提供独立账目佐证，记为canon（书中陈述）而非外部事实。",
+      "status": "canon",
+      "topic": "金手指2,000万英镑黄金储备"
+    },
+    {
+      "note": "故事内年份：原文未写明年份。出版年为1959年，书中提到1954年渔船失事、1955年印度缴获43,000盎司、1957年波斯客机事故、1937年金手指来英时20岁；主线时间按出版年记为1959年，属按原文线索的推定。",
+      "status": "inference",
+      "topic": "主线故事年份为1959年"
+    }
+  ],
+  "chapters": [
+    {
+      "no": "ONE",
+      "start_line": 8,
+      "summary": "迈阿密机场，邦德刚在墨西哥城完成海洛因渠道任务，徒手杀死前来行刺的墨西哥杀手，回想整件任务经过：化肥商布莱克威尔提炼海洛因、经外交信使桑托斯运往伦敦、经施瓦布分销，邦德炸毁仓库后遭报复。航班延误，杜邦在候机厅认出他。",
+      "title": "REFLECTIONS IN A DOUBLE BOURBON"
+    },
+    {
+      "no": "TWO",
+      "start_line": 49,
+      "summary": "杜邦是1951年皇家莱索牌局的旧识，现为弗洛里迪亚纳酒店老板。他一周内与金手指玩双人卡纳斯塔输掉25,000美元，认定对方作弊，出价10,000美元请邦德查明手法。金手指42岁，拿骚居民，红发，巨富，财产以金条形式持有。",
+      "title": "LIVING IT UP"
+    },
+    {
+      "no": "THREE",
+      "start_line": 129,
+      "summary": "邦德以谈加拿大天然气股份为掩护，在卡巴纳俱乐部顶层看牌。金手指以广场恐惧症为由坚持面朝酒店而坐，邦德推断其二楼夏威夷套房内有人用望远镜偷看杜邦的牌并以无线电报牌。",
+      "title": "THE MAN WITH AGORAPHOBIA"
+    },
+    {
+      "no": "FOUR",
+      "start_line": 200,
+      "summary": "邦德用通行钥匙潜入200号套房，拍下吉尔·马斯特顿用望远镜加麦克风报牌的现场。吉尔透露金手指随身携带价值百万美元的黄金、行李箱夹层即金板。邦德通过耳机迫使金手指开出50,000美元支票认错，并带吉尔乘银色流星号列车去纽约。",
+      "title": "OVER THE BARREL"
+    },
+    {
+      "no": "FIVE",
+      "start_line": 278,
+      "summary": "一周后伦敦，邦德值夜班，处理香港H站索要水雷的来电。M召见：英格兰银行行长转来黄金外流案，邦德当天下午去见银行研究部史密瑟斯上校；M点明金手指正是银行要查的人。",
+      "title": "NIGHT DUTY"
+    },
+    {
+      "no": "SIX",
+      "start_line": 369,
+      "summary": "史密瑟斯讲解黄金走私：金条切成薄板缝入腰带偷运印度可获利70%。金手指1937年20岁自里加来英，祖辈为法贝热炼金匠，经营20家“金手指”当铺，1954年拖网渔船在古德温沙洲搁浅暴露金粉走私，全球藏金约2,000万英镑，金条带Z刻痕。",
+      "title": "TALK OF GOLD"
+    },
+    {
+      "no": "SEVEN",
+      "start_line": 411,
+      "summary": "M透露缴获的20根Z刻痕金条全部出自SMERSH特工之手，推断金手指是SMERSH的司库。邦德驾驶阿斯顿·马丁DB III前往三明治，途经雷卡尔弗的塔内特合金工厂，到皇家圣马克斯高尔夫俱乐部与金手指赴约。",
+      "title": "THOUGHTS IN A DB III"
+    },
+    {
+      "no": "EIGHT",
+      "start_line": 475,
+      "summary": "俱乐部重逢，金手指提议以10,000美元双倍或赔清为赌注打一场18洞比杆赛，邦德应战。双方差点均为9。",
+      "title": "ALL TO PLAY FOR"
+    },
+    {
+      "no": "NINE",
+      "start_line": 551,
+      "summary": "18洞激战：金手指多次作弊（压平草叶、掉落球杆干扰、口袋里摇钱币、沙坑跳跃压球、球童福克斯掉球），邦德在第17洞识破球童掉球后将错就错，换给金手指一颗7号球，金手指在第18洞用错球，按规则输洞输局。",
+      "title": "THE CUP AND THE LIP"
+    },
+    {
+      "no": "TEN",
+      "start_line": 683,
+      "summary": "金手指请邦德到雷卡尔弗的格兰奇别墅晚宴，借故离家半小时设局考验。邦德搜查别墅，发现卧室衣柜里三台隐藏摄影机冲洗出的胶片，毁掉胶片并嫁祸于猫。",
+      "title": "UP AT THE GRANGE"
+    },
+    {
+      "no": "ELEVEN",
+      "start_line": 723,
+      "summary": "金手指回府，命奥德·约伯展示空手道：劈断楼梯扶手、飞脚踢碎壁炉架，钢边礼帽可嵌入木板一英寸。晚宴上金手指称奥德·约伯是世界仅有的三名空手道黑带之一，透露次日乘飞机去法国。",
+      "title": "THE ODD-JOB MAN"
+    },
+    {
+      "no": "TWELVE",
+      "start_line": 820,
+      "summary": "金手指举报邦德持有未申报美元。邦德在费里菲尔德海关给劳斯莱斯装上Homer追踪器，驾车尾随穿越法国，途中发现蒂莉·索姆斯驾驶TR3也在跟踪，并在79/6号桥下挖出金手指藏匿的一根金条。",
+      "title": "LONG TAIL ON A GHOST"
+    },
+    {
+      "no": "THIRTEEN",
+      "start_line": 865,
+      "summary": "梅肯撞车迫使蒂莉同行至日内瓦。邦德发现金手指在科佩的奥里克企业工厂拆解劳斯莱斯：车身实为两吨18K白金，将改制成Mecca航空座椅运往印度。蒂莉自称来参加瑞士女子高尔夫公开赛，邦德电话核实为假。",
+      "title": "'IF YOU TOUCH ME THERE…'"
+    },
+    {
+      "no": "FOURTEEN",
+      "start_line": 946,
+      "summary": "邦德夜探科佩工厂，遇见持枪埋伏的蒂莉。蒂莉坦言自己是吉尔的妹妹，吉尔被金手指全身涂金漆谋杀，她来复仇。奥德·约伯以弓箭俘获两人，金手指说出“一次是偶然，两次是巧合，第三次就是敌对行动”，将两人送入压力室。",
+      "title": "THINGS THAT GO THUMP IN THE NIGHT"
+    },
+    {
+      "no": "FIFTEEN",
+      "start_line": 1012,
+      "summary": "压力室中邦德被绑在钢桌上，桌缝尽头一台圆锯以每分钟约一英寸逼近，奥德·约伯分级施刑。邦德提出愿为金手指工作，金手指停手保下两人性命。",
+      "title": "THE PRESSURE ROOM"
+    },
+    {
+      "no": "SIXTEEN",
+      "start_line": 1047,
+      "summary": "两人被迷晕运抵纽约爱德怀尔德机场，金手指谎称两人是其患神经衰弱的雇员。邦德醒来发现自己被囚于东河仓库。金手指开价100万英镑（蒂莉50万）雇佣两人，目标是抢劫诺克斯堡150亿美元黄金，约占世界已开采黄金的一半。",
+      "title": "THE LAST AND THE BIGGEST"
+    },
+    {
+      "no": "SEVENTEEN",
+      "start_line": 1094,
+      "summary": "六大黑帮首脑会议：底特律紫帮斯普林格、迈阿密影子辛迪加午夜、芝加哥机器比利·林、拉斯维加斯花斑帮斯特拉普、西西里联盟索洛、哈莱姆水泥搅拌机帮普茜·加洛。金手指每人赠15,000美元金条，承诺每人10亿美元，自留50亿。",
+      "title": "HOODS' CONGRESS"
+    },
+    {
+      "no": "EIGHTEEN",
+      "start_line": 1179,
+      "summary": "金手指讲解诺克斯堡金库结构与守军（约20,000名战斗人员），计划以红十字专列潜入，普茜·加洛提供护士，用花1,000,000美元购得的Corporal导弹原子弹头炸开金库，代号大满贯行动。",
+      "title": "CRIME DE LA CRIME"
+    },
+    {
+      "no": "NINETEEN",
+      "start_line": 1236,
+      "summary": "除斯普林格外五人加入，斯普林格与打手哈普古德当晚“失足坠楼”被灭口。金手指私下向邦德透露：将在供水系统投放GB神经毒剂毒杀诺克斯堡6万人，黄金经停靠诺福克的苏联斯维尔德洛夫斯克级巡洋舰运往喀琅施塔得。",
+      "title": "SECRET APPENDIX"
+    },
+    {
+      "no": "TWENTY",
+      "start_line": 1295,
+      "summary": "金手指包机空中勘察诺克斯堡，假称派拉蒙影业勘景。邦德把写给莱特的求救密信藏在飞机厕所座椅下。当晚一行人化装成红十字医疗队，乘午夜专列自宾夕法尼亚车站南下。",
+      "title": "JOURNEY INTO HOLOCAUST"
+    },
+    {
+      "no": "TWENTY-ONE",
+      "start_line": 1332,
+      "summary": "列车抵达诺克斯堡，满城“死尸”横陈。金手指的爆破组进入金库区时信号弹升起，美军伏兵反击。蒂莉被奥德·约伯的礼帽割断颈部身亡，金手指乘柴油机车逃走，邦德用火箭筒射击未命中，莱特率队现身。",
+      "title": "THE RICHEST MAN IN HISTORY"
+    },
+    {
+      "no": "TWENTY-TWO",
+      "start_line": 1396,
+      "summary": "两天后莱特交代：清洁工在飞机保养时发现密信，總統亲自指挥设局，GB毒剂在投放前被截获，全城佯死。金手指与同伙下落不明，黄金已从帕拉贡保险库提走。邦德登机回伦敦，途中被假借伤寒防疫诱入圈套。",
+      "title": "THE LAST TRICK"
+    },
+    {
+      "no": "TWENTY-THREE",
+      "start_line": 1444,
+      "summary": "金手指劫持BOAC 510航班，普茜·加洛在机上暗助邦德。邦德用鞋跟匕首刺破机窗，奥德·约伯被吸出机外，随后邦德徒手勒死金手指。飞机在查理气象船附近迫降海面，机组随三吨黄金沉没，邦德与普茜·加洛获救。",
+      "title": "T.L.C. TREATMENT"
+    }
+  ],
+  "characters": [
+    {
+      "age_clues": "未写明年龄；差点9；自述在双O部门六年；十几岁时在圣马克斯每天打两轮球",
+      "aliases": [
+        "007",
+        "Commander Bond",
+        "Mr Bomb（金手指初见时误读）"
+      ],
+      "appearance": "灰蓝眼睛，黑色额发垂至右眉；瘦削结实；右手掌缘曾因徒手杀人红肿",
+      "background": "秘密情报局双O部门特工，持杀人执照；曾在皇家莱索赢下勒·希弗；掩护身份为环球出口公司（Universal Export）职员，负责轻武器出口",
+      "first_appearance_chapter": "ONE",
+      "habits": "喝双份波本威士忌与伏特加马提尼；抽Morland香烟与Chesterfields；写《Stay Alive!》徒手格斗手册；打高尔夫差点9",
+      "id": "bond",
+      "last_appearance_chapter": "TWENTY-THREE",
+      "name_en": "James Bond",
+      "name_zh": "詹姆斯·邦德",
+      "personality": "冷静、好赌、记仇；高压下反而放松；对吉尔之死怀有负罪感",
+      "relationships": [
+        {
+          "change": "从迈阿密牌局对手到高尔夫赌局对手，再到阶下囚与雇员，最后邦德在飞机上勒死他",
+          "type": "对手",
+          "with": "auric-goldfinger"
+        },
+        {
+          "change": "从互不信任到并肩潜入、邦德为救她而死战，蒂莉最终死于奥德·约伯之手",
+          "type": "被迫同盟",
+          "with": "tilly-masterton"
+        },
+        {
+          "change": "从会议桌上的怀疑到劫机航班上暗助邦德传递纸条、最后相拥获救",
+          "type": "对手转盟友",
+          "with": "pussy-galore"
+        },
+        {
+          "change": "多年战友，莱特凭邦德密信调动FBI与總統设局，在诺克斯堡救下邦德",
+          "type": "盟友",
+          "with": "felix-leiter"
+        }
+      ],
+      "role": "主要人物"
+    },
+    {
+      "age_clues": "护照年龄42岁；1937年20岁抵达英国，推算生于1917年前后",
+      "aliases": [
+        "Mr Gold",
+        "Gold"
+      ],
+      "appearance": "身高不足五英尺，体格粗壮，头巨大而圆，胡萝卜色平头，淡蓝眼睛，肤色晒成红棕色，左耳戴肉色助听器，实为无线电接收器",
+      "background": "里加出生，祖辈为法贝热炼金匠；1937年来英，经营20家“金手指”当铺连锁，收购旧金；拥有塔内特合金与奥里克企业工厂；被M推断为SMERSH司库",
+      "first_appearance_chapter": "TWO",
+      "habits": "不抽烟不喝酒；痴迷黄金，嗜好格言；打高尔夫与双人卡纳斯塔；每月以金漆涂人取乐",
+      "id": "auric-goldfinger",
+      "last_appearance_chapter": "TWENTY-THREE",
+      "name_en": "Auric Goldfinger",
+      "name_zh": "奥里克·金手指",
+      "personality": "极度自律、冷静、贪婪；信奉“赔率合适就下注，不合适就制造赔率”；视人命如草芥",
+      "relationships": [
+        {
+          "change": "从雇主与女伴到吉尔背叛后将其谋杀",
+          "type": "雇主与受害者",
+          "with": "jill-masterton"
+        },
+        {
+          "change": "从主仆到共谋，金手指劫机后仍带奥德·约伯同行直至其死亡",
+          "type": "主仆",
+          "with": "oddjob"
+        },
+        {
+          "change": "从牌桌对手到阶下囚、雇员，最终被邦德杀死",
+          "type": "对手",
+          "with": "bond"
+        }
+      ],
+      "role": "主要人物"
+    },
+    {
+      "age_clues": "未写明年龄；外貌为成年壮汉",
+      "aliases": [
+        "the Korean",
+        "the chauffeur",
+        "the handy man"
+      ],
+      "appearance": "矮壮、扁平黄脸、斜眼、兔唇；双手与双足边缘生有黄色角质硬脊，无指甲；常戴黑色圆顶礼帽、黑手套与漆皮鞋",
+      "background": "朝鲜人，金手指的司机、保镖与刽子手；世界仅有的三名空手道黑带之一；只听得懂金手指的话",
+      "first_appearance_chapter": "SEVEN",
+      "habits": "每天一小时击打糙米袋与缠绳木桩练手，一小时体能训练；嗜食猫肉",
+      "id": "oddjob",
+      "last_appearance_chapter": "TWENTY-THREE",
+      "name_en": "Oddjob",
+      "name_zh": "奥德·约伯",
+      "personality": "沉默、绝对服从、毫无怜悯；被金手指称为“最危险的动物”",
+      "relationships": [
+        {
+          "change": "始终为主仆，奥德·约伯为金手指杀人、行刑、劫机，直至被吸出机窗身亡",
+          "type": "主仆",
+          "with": "auric-goldfinger"
+        },
+        {
+          "change": "从追捕者到在诺克斯堡杀死蒂莉、在飞机上与邦德死斗",
+          "type": "对手",
+          "with": "bond"
+        }
+      ],
+      "role": "主要人物"
+    },
+    {
+      "age_clues": "未写明年龄；蒂莉24岁，姐姐吉尔年长若干",
+      "aliases": [],
+      "appearance": "极淡的金发及肩，深蓝眼睛，身高约五英尺十英寸，体格结实如游泳选手；左手戴克拉达戒指（两只金手托金心）",
+      "background": "金手指的女伴，每周100英镑，负责在牌局中用望远镜报牌；后与邦德乘火车去纽约并返回金手指处",
+      "first_appearance_chapter": "FOUR",
+      "habits": "涂指甲油；随身携带望远镜与麦克风报牌",
+      "id": "jill-masterton",
+      "last_appearance_chapter": "FOURTEEN",
+      "name_en": "Jill Masterton",
+      "name_zh": "吉尔·马斯特顿",
+      "personality": "轻信、爱慕虚荣但心地不坏；对邦德动情",
+      "relationships": [
+        {
+          "change": "从女伴到因与邦德同行而遭金手指全身涂金漆谋杀",
+          "type": "雇主与受害者",
+          "with": "auric-goldfinger"
+        },
+        {
+          "change": "一夜情后邦德将杜邦的10,000美元酬金送给她，吉尔死前嘱托妹妹将戒指转交邦德",
+          "type": "情人",
+          "with": "bond"
+        },
+        {
+          "change": "姐妹，吉尔死前发电报召蒂莉来迈阿密见最后一面",
+          "type": "姐妹",
+          "with": "tilly-masterton"
+        }
+      ],
+      "role": "主要人物"
+    },
+    {
+      "age_clues": "24岁",
+      "aliases": [
+        "Miss Tilly Soames",
+        "Miss Soames"
+      ],
+      "appearance": "黑发、深蓝眼睛、高颧骨，白色男式真丝衬衫、黑色宽皮带、炭灰色百褶短裙、黑凉鞋；左手无名指戴金戒指",
+      "background": "吉尔的妹妹；曾在联合利华任秘书、业余花样滑冰选手、射击俱乐部成员；住伦敦厄尔斯考特；主场球会坦普尔",
+      "first_appearance_chapter": "TWELVE",
+      "habits": "不抽烟；室内手枪与步枪射击；驾驶浅灰色TR3",
+      "id": "tilly-masterton",
+      "last_appearance_chapter": "TWENTY-ONE",
+      "name_en": "Tilly Masterton",
+      "name_zh": "蒂莉·马斯特顿",
+      "personality": "独立、冷峻、执拗；对男性怀有敌意，崇拜普茜·加洛；为姐姐复仇而来",
+      "relationships": [
+        {
+          "change": "从姐妹到蒂莉为吉尔复仇而追踪金手指至日内瓦",
+          "type": "姐妹",
+          "with": "jill-masterton"
+        },
+        {
+          "change": "从互相猜疑、邦德撞坏她的车，到被迫同囚、共赴诺克斯堡，蒂莉死于奥德·约伯之手",
+          "type": "被迫同盟",
+          "with": "bond"
+        },
+        {
+          "change": "从会议上的仰慕到诺克斯堡危急时蒂莉想投靠普茜·加洛求庇护，未果",
+          "type": "仰慕者",
+          "with": "pussy-galore"
+        }
+      ],
+      "role": "主要人物"
+    },
+    {
+      "age_clues": "三十岁出头",
+      "aliases": [
+        "Miss Galore",
+        "Pussy"
+      ],
+      "appearance": "黑短发，紫罗兰色眼睛，高颧骨，深红嘴唇；穿黑色男式西装配咖啡色花边领饰；银色长指甲",
+      "background": "前空中飞人，“普茜·加洛与空中猫”马戏团失败后改行入室盗窃，组建全女性帮派“水泥搅拌机”，总部哈莱姆；曾为金手指提供护士人手",
+      "first_appearance_chapter": "SEVENTEEN",
+      "habits": "言辞刻薄；对邦德始终保持怀疑，直至劫机时倒戈",
+      "id": "pussy-galore",
+      "last_appearance_chapter": "TWENTY-THREE",
+      "name_en": "Pussy Galore",
+      "name_zh": "普茜·加洛",
+      "personality": "强硬、独立、洞察力强；自述从未遇到过真正的男人；幼年遭叔父侵犯",
+      "relationships": [
+        {
+          "change": "从金手指的合作方到在劫机航班上暗助邦德、最后与邦德相拥获救",
+          "type": "合作者转盟友",
+          "with": "auric-goldfinger"
+        },
+        {
+          "change": "从会议桌上的怀疑到劫机航班上暗助邦德传递纸条、最后相拥获救",
+          "type": "对手转盟友",
+          "with": "bond"
+        },
+        {
+          "change": "蒂莉仰慕普茜·加洛，危急时想投靠她",
+          "type": "被仰慕者",
+          "with": "tilly-masterton"
+        }
+      ],
+      "role": "主要人物"
+    },
+    {
+      "age_clues": "未写明年龄；二战海军陆战队老兵",
+      "aliases": [
+        "Cap'n"
+      ],
+      "appearance": "稻草色头发，鹰钩鼻，灰眼睛；右手为钢钩",
+      "background": "美国中央情报局特工，现为平克顿侦探社工作；与邦德多次共事；住址平克顿纽约拿骚街154号",
+      "first_appearance_chapter": "TWENTY-ONE",
+      "habits": "驾驶黑色Studillac；爱开快车",
+      "id": "felix-leiter",
+      "last_appearance_chapter": "TWENTY-TWO",
+      "name_en": "Felix Leiter",
+      "name_zh": "费利克斯·莱特",
+      "personality": "忠诚、幽默、行动力强；凭邦德密信在一小时内把案子上报至總統",
+      "relationships": [
+        {
+          "change": "多年战友，莱特凭邦德密信调动FBI与總統设局，在诺克斯堡救下邦德",
+          "type": "盟友",
+          "with": "bond"
+        }
+      ],
+      "role": "主要人物"
+    },
+    {
+      "age_clues": "年长者；海军出身",
+      "aliases": [],
+      "appearance": "面容如水手，硬朗；常叼烟斗、打蝴蝶领结",
+      "background": "秘密情报局首长；曾在布莱兹俱乐部见过金手指打桥牌",
+      "first_appearance_chapter": "FIVE",
+      "habits": "清晨即到办公室；对邦德的女人缘颇有微词",
+      "id": "m",
+      "last_appearance_chapter": "TWENTY-TWO",
+      "name_en": "M",
+      "name_zh": "M",
+      "personality": "严厉、务实；力主保住双O部门",
+      "relationships": [
+        {
+          "change": "上下级，M派邦德调查金手指并在事后通过越洋保密电话指示其回国",
+          "type": "上下级",
+          "with": "bond"
+        }
+      ],
+      "role": "主要人物"
+    },
+    {
+      "age_clues": "未写明年龄",
+      "aliases": [],
+      "appearance": "未细写；仅在M办公室外被提及",
+      "background": "M的秘书；邦德值夜班结束时她尚未到岗",
+      "first_appearance_chapter": "FIVE",
+      "habits": null,
+      "id": "moneypenny",
+      "last_appearance_chapter": "FIVE",
+      "name_en": "Miss Moneypenny",
+      "name_zh": "钱彭妮",
+      "personality": null,
+      "relationships": [],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "约50岁",
+      "aliases": [],
+      "appearance": "粉红面孔、身材发福，穿布鲁克斯兄弟深色热带西装，衬衫袖口露出水晶袖扣（内含微型钓蝇）",
+      "background": "美国富豪，弗洛里迪亚纳酒店股东；1951年在皇家莱索与邦德同桌玩百家乐，目睹邦德击败勒·希弗",
+      "first_appearance_chapter": "ONE",
+      "habits": "打桥牌，雷金西俱乐部成员；与查理·戈伦等人打牌",
+      "id": "junius-du-pont",
+      "last_appearance_chapter": "TWELVE",
+      "name_en": "Junius Du Pont",
+      "name_zh": "朱尼厄斯·杜邦",
+      "personality": "精明、好面子；输钱后不甘心，愿出高价查明作弊手法",
+      "relationships": [
+        {
+          "change": "从牌桌旧识到雇佣邦德查金手指作弊，事后将10,000美元酬金塞给邦德",
+          "type": "雇主",
+          "with": "bond"
+        },
+        {
+          "change": "从牌友到被骗25,000美元的受害者，金手指被迫退款50,000美元",
+          "type": "牌友与受害者",
+          "with": "auric-goldfinger"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "未写明年龄；曾任上校参谋",
+      "aliases": [],
+      "appearance": "戴角质框眼镜，面容光洁严肃",
+      "background": "英格兰银行研究部负责人，负责监控黄金与外汇非法流动；追查金手指五年",
+      "first_appearance_chapter": "SIX",
+      "habits": "抽烟斗；负责银行女子曲棍球队等杂务",
+      "id": "colonel-smithers",
+      "last_appearance_chapter": "SEVEN",
+      "name_en": "Colonel Smithers",
+      "name_zh": "史密瑟斯上校",
+      "personality": "博学、啰嗦但专业；对黄金如数家珍",
+      "relationships": [
+        {
+          "change": "向邦德交代案情并请求情报局将金手指绳之以法、追回黄金",
+          "type": "情报提供者",
+          "with": "bond"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "未写明年龄；邦德少年时代的教练",
+      "aliases": [],
+      "appearance": "晒黑的皮革般面孔",
+      "background": "皇家圣马克斯俱乐部职业教练；儿子塞西尔为肯特锦标赛亚军",
+      "first_appearance_chapter": "SEVEN",
+      "habits": "说话温和，从不用粗话",
+      "id": "alfred-blacking",
+      "last_appearance_chapter": "NINE",
+      "name_en": "Alfred Blacking",
+      "name_zh": "阿尔弗雷德·布莱金",
+      "personality": "忠厚、谨慎；向邦德透露金手指打球爱作弊的传闻",
+      "relationships": [
+        {
+          "change": "旧识，布莱金安排邦德与金手指对局并暗中提醒",
+          "type": "旧识",
+          "with": "bond"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "年长；跛行",
+      "aliases": [],
+      "appearance": "瘦削、讥诮的偷猎者面孔",
+      "background": "皇家圣马克斯球童；二十年前就为邦德背包",
+      "first_appearance_chapter": "EIGHT",
+      "habits": "眼观六路，识破金手指沙坑作弊与球童掉球",
+      "id": "hawker",
+      "last_appearance_chapter": "NINE",
+      "name_en": "Hawker",
+      "name_zh": "霍克",
+      "personality": "机敏、忠心；为帮邦德赢球藏起金手指的真球",
+      "relationships": [
+        {
+          "change": "球童与雇主，霍克两次向邦德揭发金手指作弊并配合换球计",
+          "type": "球童",
+          "with": "bond"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "未写明年龄",
+      "aliases": [],
+      "appearance": "谄媚、多话",
+      "background": "金手指的球童；在第17洞受贿掉下一颗新球冒充金手指的球",
+      "first_appearance_chapter": "EIGHT",
+      "habits": null,
+      "id": "foulks",
+      "last_appearance_chapter": "NINE",
+      "name_en": "Foulks",
+      "name_zh": "福克斯",
+      "personality": "贪财、谄媚",
+      "relationships": [
+        {
+          "change": "金手指的球童，收钱掉球助其作弊",
+          "type": "球童",
+          "with": "auric-goldfinger"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "未写明年龄",
+      "aliases": [
+        "The Duke",
+        "Hell"
+      ],
+      "appearance": "眼神呆滞如玻璃弹珠，衣着考究，戴单片眼镜；女儿在瓦萨学院读书",
+      "background": "底特律紫帮首领；虔诚到自称受上帝指引；唯一拒绝加入大满贯行动的黑帮首脑",
+      "first_appearance_chapter": "SEVENTEEN",
+      "habits": "遇事拖延、祈祷",
+      "id": "helmut-springer",
+      "last_appearance_chapter": "NINETEEN",
+      "name_en": "Helmut M. Springer",
+      "name_zh": "赫尔穆特·M·斯普林格",
+      "personality": "自命清高、优柔寡断",
+      "relationships": [
+        {
+          "change": "拒绝合作后当晚与打手哈普古德一同“失足坠楼”被灭口",
+          "type": "被灭口者",
+          "with": "auric-goldfinger"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "未写明年龄",
+      "aliases": [],
+      "appearance": "高大、面色红润，穿浅蓝热带西装配棕榈树图案衬衫，戴重约半磅的金表",
+      "background": "迈阿密与哈瓦那影子辛迪加首领",
+      "first_appearance_chapter": "SEVENTEEN",
+      "habits": null,
+      "id": "jed-midnight",
+      "last_appearance_chapter": "TWENTY-ONE",
+      "name_en": "Jed Midnight",
+      "name_zh": "杰德·午夜",
+      "personality": "豪爽、贪婪；第一个表态加入",
+      "relationships": [
+        {
+          "change": "从被邀者到首个加入大满贯行动的黑帮首脑，事后下落不明，莱特怀疑其安排金手指逃往古巴",
+          "type": "合作者",
+          "with": "auric-goldfinger"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "约40岁",
+      "aliases": [
+        "The Grinner"
+      ],
+      "appearance": "苍白梨形娃娃脸，稻草色头发，黄褐色眼睛，下唇被人割掉，露出永久假笑；右眼睑抽搐",
+      "background": "芝加哥“机器”帮首领；自称五十年代起已“合法化”，靠女人、大麻与赛马赚钱",
+      "first_appearance_chapter": "SEVENTEEN",
+      "habits": "说话时齿音嘶嘶作响；双手常藏桌下",
+      "id": "billy-ring",
+      "last_appearance_chapter": "TWENTY-ONE",
+      "name_en": "Billy (The Grinner) Ring",
+      "name_zh": "比利·（笑面）·林",
+      "personality": "残忍、话痨；长篇大论后才表态加入",
+      "relationships": [
+        {
+          "change": "从被邀者到加入大满贯行动，事后下落不明",
+          "type": "合作者",
+          "with": "auric-goldfinger"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "约50岁",
+      "aliases": [],
+      "appearance": "衣着浮夸，爱抽雪茄，常把烟头嚼碎吐掉",
+      "background": "拉斯维加斯花斑帮首领，继承斯潘兄弟的赌场生意",
+      "first_appearance_chapter": "SEVENTEEN",
+      "habits": "抽雪茄成瘾",
+      "id": "jack-strap",
+      "last_appearance_chapter": "TWENTY-ONE",
+      "name_en": "Jack Strap",
+      "name_zh": "杰克·斯特拉普",
+      "personality": "圆滑、紧张；表态加入",
+      "relationships": [
+        {
+          "change": "从被邀者到加入大满贯行动，事后下落不明",
+          "type": "合作者",
+          "with": "auric-goldfinger"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "未写明年龄",
+      "aliases": [],
+      "appearance": "面色阴沉，戴厚角质框眼镜，体格粗壮，半拳击手半领班模样；胡须浓密，需每三四小时剃须一次",
+      "background": "西西里联盟（美国黑手党）首领；随身携带电动剃须刀",
+      "first_appearance_chapter": "SEVENTEEN",
+      "habits": "开会时剃须；以死亡威胁金手指",
+      "id": "mr-solo",
+      "last_appearance_chapter": "TWENTY-ONE",
+      "name_en": "Mr Solo",
+      "name_zh": "索洛先生",
+      "personality": "阴沉、威严；以“拿不到十亿就杀你”为条件加入",
+      "relationships": [
+        {
+          "change": "从被邀者到有条件加入大满贯行动，事后下落不明",
+          "type": "合作者",
+          "with": "auric-goldfinger"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "未写明年龄",
+      "aliases": [
+        "Slappy Hapgood"
+      ],
+      "appearance": "未细写",
+      "background": "斯普林格的打手",
+      "first_appearance_chapter": "NINETEEN",
+      "habits": null,
+      "id": "slappy-hapgood",
+      "last_appearance_chapter": "NINETEEN",
+      "name_en": "Slappy Hapgood",
+      "name_zh": "斯拉皮·哈普古德",
+      "personality": null,
+      "relationships": [
+        {
+          "change": "与斯普林格一同“失足坠楼”被灭口",
+          "type": "同僚",
+          "with": "helmut-springer"
+        }
+      ],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "未写明年龄",
+      "aliases": [],
+      "appearance": "未细写",
+      "background": "秘密情报局参谋长；邦德向其电话汇报金手指案进展",
+      "first_appearance_chapter": "TWELVE",
+      "habits": null,
+      "id": "chief-of-staff",
+      "last_appearance_chapter": "TWELVE",
+      "name_en": "Chief of Staff",
+      "name_zh": "参谋长",
+      "personality": null,
+      "relationships": [],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "未写明年龄",
+      "aliases": [],
+      "appearance": "未细写",
+      "background": "邦德的秘书；邦德让参谋长请她订机票",
+      "first_appearance_chapter": "TWELVE",
+      "habits": null,
+      "id": "miss-ponsonby",
+      "last_appearance_chapter": "TWELVE",
+      "name_en": "Miss Ponsonby",
+      "name_zh": "庞森比小姐",
+      "personality": null,
+      "relationships": [],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "未写明年龄",
+      "aliases": [],
+      "appearance": "未细写",
+      "background": "墨西哥城化肥商；因妹妹在英国染上毒瘾而介入海洛因贸易，雇邦德炸毁其仓库的是邦德本人（邦德假扮买家接近他）",
+      "first_appearance_chapter": "ONE",
+      "habits": null,
+      "id": "blackwell",
+      "last_appearance_chapter": "ONE",
+      "name_en": "Blackwell",
+      "name_zh": "布莱克威尔",
+      "personality": "业余、理想主义；相信制毒能“造福人类”",
+      "relationships": [],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "未写明年龄",
+      "aliases": [],
+      "appearance": "未细写",
+      "background": "伦敦海洛因分销商，在皮姆利科将海洛因掺胃药卖给青少年；被CID幽灵小队盯上",
+      "first_appearance_chapter": "ONE",
+      "habits": null,
+      "id": "schwab",
+      "last_appearance_chapter": "ONE",
+      "name_en": "Schwab",
+      "name_zh": "施瓦布",
+      "personality": "贪婪、无良",
+      "relationships": [],
+      "role": "次要人物"
+    },
+    {
+      "age_clues": "未写明年龄；代号279",
+      "aliases": [
+        "Dickson"
+      ],
+      "appearance": "未细写",
+      "background": "香港H站特工；向伦敦索要水雷对付三艘中共间谍帆船",
+      "first_appearance_chapter": "FIVE",
+      "habits": null,
+      "id": "agent-279",
+      "last_appearance_chapter": "FIVE",
+      "name_en": "279 (Dickson)",
+      "name_zh": "279号（迪克森）",
+      "personality": null,
+      "relationships": [],
+      "role": "次要人物"
+    }
+  ],
+  "communications": [
+    {
+      "name": "电话",
+      "note": "邦德在总部值夜班接听香港H站来电；金手指以电话安排假警情调开自己；莱特与华盛顿的联络"
+    },
+    {
+      "name": "电报与电传",
+      "note": "金手指以邦德名义发电报给环球出口公司谎称其赴加拿大就职；美方截获GB投毒者后逼其发出“一切正常”的电报给金手指"
+    },
+    {
+      "name": "无线电与Homer追踪器",
+      "note": "邦德在劳斯莱斯工具箱植入Homer发射器，车内接收器以音调强弱测距尾随；金手指套房内吉尔用约170兆周无线电向其助听器报牌"
+    },
+    {
+      "name": "越洋保密电话",
+      "note": "邦德在华盛顿与M通越洋保密电话汇报欧洲端进展"
+    },
+    {
+      "name": "对讲机",
+      "note": "诺克斯堡行动中金手指以胸前麦克风与各小队通话"
+    },
+    {
+      "name": "航空无线电",
+      "note": "被劫航班以Speedbird 510呼号与甘德管制及查理气象船通话，邦德自报007身份"
+    }
+  ],
+  "equipment": [
+    {
+      "id": "walther-ppk",
+      "kind": "武器",
+      "name_en": "Walther PPK",
+      "name_zh": "瓦尔特PPK手枪",
+      "note": "邦德配枪，藏于《当文学读的圣经》书中，以Berns Martin枪套佩于腰间；夜探科佩工厂时未带"
+    },
+    {
+      "id": "colt-45",
+      "kind": "武器",
+      "name_en": "Colt .45 long-barrel",
+      "name_zh": "柯尔特.45长枪管手枪",
+      "note": "藏于DB III驾驶座下暗格"
+    },
+    {
+      "id": "colt-25",
+      "kind": "武器",
+      "name_en": "Colt .25 automatic",
+      "name_zh": "柯尔特.25自动手枪",
+      "note": "金手指的配枪，自称射右眼从不失手；飞机上被邦德夺走，弹仓剩三发、膛内一发"
+    },
+    {
+      "id": "bazooka",
+      "kind": "武器",
+      "name_en": "Bazooka",
+      "name_zh": "火箭筒",
+      "note": "莱特携带的一人火箭筒，邦德用它射击逃逸的柴油机车，未命中要害"
+    },
+    {
+      "id": "luger",
+      "kind": "武器",
+      "name_en": "Luger",
+      "name_zh": "鲁格手枪",
+      "note": "邦德从被摔死的德国守卫肩套中取走，劫机时双枪之一"
+    },
+    {
+      "id": "oddjob-hat",
+      "kind": "武器",
+      "name_en": "Oddjob's steel-rimmed bowler hat",
+      "name_zh": "奥德·约伯的钢边圆顶礼帽",
+      "note": "轻而坚固的合金帽沿，可嵌入木板一英寸深；在诺克斯堡割断蒂莉颈部致其死亡"
+    },
+    {
+      "id": "oddjob-bow",
+      "kind": "武器",
+      "name_en": "Oddjob's bow and arrow",
+      "name_zh": "奥德·约伯的弓箭",
+      "note": "在科佩树林中一箭射中邦德身旁树干，箭羽颤动，迫使两人就范"
+    },
+    {
+      "id": "circular-saw",
+      "kind": "武器",
+      "name_en": "Circular saw",
+      "name_zh": "圆锯",
+      "note": "压力室刑具，沿钢桌中缝以每分钟约一英寸逼近邦德；原著中没有激光"
+    },
+    {
+      "id": "atomic-warhead",
+      "kind": "武器",
+      "name_en": "Atomic warhead for Corporal missile",
+      "name_zh": "Corporal导弹原子弹头",
+      "note": "金手指花1,000,000美元自德国某盟军基地购得，用于炸开诺克斯堡金库；自称“清洁”原子弹，放射性沉降极小"
+    },
+    {
+      "id": "gb-nerve-agent",
+      "kind": "武器",
+      "name_en": "GB nerve agent",
+      "name_zh": "GB神经毒剂",
+      "note": "德国1943年完善的三酮类神经毒剂，苏军在迪伦福特缴获全部库存；金手指计划以三品脱经供水系统毒杀诺克斯堡居民，毒剂由两名日本人以杜松子酒名义携带，行动前被截获"
+    },
+    {
+      "id": "shoe-knife",
+      "kind": "武器",
+      "name_en": "Heel knife",
+      "name_zh": "鞋跟匕首",
+      "note": "邦德鞋跟暗藏的双刃匕首，诺克斯堡行动与劫机时均使用；劫机时以此刺破机窗"
+    },
+    {
+      "id": "leica-m3",
+      "kind": "器材",
+      "name_en": "Leica M3 camera",
+      "name_zh": "徕卡M3相机",
+      "note": "邦德用其配MC测光表、K2滤镜与闪光灯拍下吉尔报牌现场"
+    },
+    {
+      "id": "homer",
+      "kind": "器材",
+      "name_en": "Homer transmitter and receiver",
+      "name_zh": "Homer追踪器",
+      "note": "邦德植入劳斯莱斯工具箱的发射器与DB III车内接收器，百英里内可测向尾随"
+    },
+    {
+      "id": "identicast",
+      "kind": "器材",
+      "name_en": "Identicast",
+      "name_zh": "Identicast面部拼图仪",
+      "note": "总部档案室设备，邦德据此拼出金手指面部特征并送CID核查"
+    },
+    {
+      "id": "gold-paint",
+      "kind": "器材",
+      "name_en": "Gold paint",
+      "name_zh": "金漆",
+      "note": "金手指每月将一名女子全身涂金漆取乐，脊柱留空以防窒息；吉尔被全身涂满后死亡"
+    },
+    {
+      "id": "sonic-detector",
+      "kind": "器材",
+      "name_en": "Sonic detector",
+      "name_zh": "声波探测器",
+      "note": "科佩工厂烟囱顶形似雷达扫描器的装置，实为声波探测器，发现了树林中的邦德与蒂莉"
+    },
+    {
+      "id": "hidden-cameras",
+      "kind": "器材",
+      "name_en": "Hidden cine-cameras",
+      "name_zh": "隐藏电影摄影机",
+      "note": "格兰奇别墅内三台隐藏摄影机，胶片收入卧室衣柜，邦德曝光胶片并嫁祸于猫"
+    }
+  ],
+  "events": [
+    {
+      "cause": "邦德在墨西哥城炸毁布莱克威尔的海洛因提炼仓库，墨西哥大毒枭派杀手报复",
+      "chapter": "ONE",
+      "effect": "邦德徒手杀死杀手，滞留迈阿密，由此结识杜邦并卷入金手指案",
+      "id": "mexico-heroin-assignment",
+      "title": "墨西哥海洛因任务"
+    },
+    {
+      "cause": "杜邦一周内与金手指玩双人卡纳斯塔输掉25,000美元，认定对方作弊，出价10,000美元请邦德调查",
+      "chapter": "FOUR",
+      "effect": "邦德发现吉尔在套房用望远镜报牌，迫使金手指退款50,000美元并带走吉尔",
+      "id": "canasta-cheat-exposed",
+      "title": "卡纳斯塔作弊被揭穿"
+    },
+    {
+      "cause": "M奉英格兰银行行长之请派邦德调查黄金外流，史密瑟斯交代金手指背景",
+      "chapter": "SIX",
+      "effect": "邦德以高尔夫为接近手段，与金手指在三明治对局",
+      "id": "bank-briefing",
+      "title": "银行简报与M派任务"
+    },
+    {
+      "cause": "金手指以10,000美元双倍或赔清下注，邦德为赢得其信任必须取胜",
+      "chapter": "NINE",
+      "effect": "邦德识破金手指多次作弊并以换球计在第18洞获胜，金手指当晚邀其赴宴",
+      "id": "golf-match-sandwich",
+      "title": "三明治高尔夫赌局"
+    },
+    {
+      "cause": "金手指设局考验邦德，借故离家半小时并开启隐藏摄影机",
+      "chapter": "TEN",
+      "effect": "邦德搜查无果反被拍下，毁掉胶片嫁祸于猫，金手指以奥德·约伯示威警告",
+      "id": "grange-camera-trap",
+      "title": "格兰奇别墅摄影机陷阱"
+    },
+    {
+      "cause": "金手指次日乘飞机去法国，邦德在费里菲尔德海关给劳斯莱斯装上Homer追踪器",
+      "chapter": "TWELVE",
+      "effect": "邦德驾车尾随穿越法国，途中发现蒂莉也在跟踪，并在79/6号桥下挖出金手指藏匿的金条",
+      "id": "long-tail-france",
+      "title": "穿越法国的长线尾随"
+    },
+    {
+      "cause": "邦德在梅肯撞坏蒂莉的TR3，蒂莉要求搭车去日内瓦；邦德跟踪劳斯莱斯至科佩",
+      "chapter": "THIRTEEN",
+      "effect": "邦德目睹工人拆解劳斯莱斯，识破车身为两吨18K白金、将改制成Mecca航空座椅运往印度的走私手法",
+      "id": "golden-ghost-revealed",
+      "title": "金色幽灵真相揭开"
+    },
+    {
+      "cause": "蒂莉为替姐姐吉尔复仇持枪埋伏，邦德夜探工厂与她相遇",
+      "chapter": "FOURTEEN",
+      "effect": "邦德得知吉尔被全身涂金漆谋杀，两人被奥德·约伯俘获，金手指将两人送入压力室",
+      "id": "jill-murder-revealed",
+      "title": "吉尔被谋杀真相揭开"
+    },
+    {
+      "cause": "金手指要从邦德口中逼问真相，以圆锯与奥德·约伯施刑",
+      "chapter": "FIFTEEN",
+      "effect": "邦德提出为金手指工作，金手指改主意保下两人性命，将其迷晕运往纽约",
+      "id": "pressure-room",
+      "title": "压力室酷刑"
+    },
+    {
+      "cause": "金手指需要人手处理大满贯行动的文书工作",
+      "chapter": "SIXTEEN",
+      "effect": "邦德与蒂莉被迫担任行动秘书，得知目标是抢劫诺克斯堡150亿美元黄金",
+      "id": "fort-knox-target",
+      "title": "诺克斯堡目标揭晓"
+    },
+    {
+      "cause": "金手指以每人15,000美元金条与10亿美元分成为诱饵召集六大黑帮",
+      "chapter": "SEVENTEEN",
+      "effect": "除斯普林格外五人加入；斯普林格当晚被灭口；邦德记录各人态度",
+      "id": "hoods-congress",
+      "title": "黑帮首脑会议"
+    },
+    {
+      "cause": "金手指讲解金库结构与守军，提出以原子弹头炸开金库、红十字专列潜入的计划",
+      "chapter": "EIGHTEEN",
+      "effect": "各帮开始筹备运输车队与人手，行动代号大满贯行动",
+      "id": "grand-slam-plan",
+      "title": "大满贯行动计划"
+    },
+    {
+      "cause": "金手指私下向邦德透露GB毒剂与苏联巡洋舰接应计划",
+      "chapter": "NINETEEN",
+      "effect": "邦德确认行动将毒杀6万人并把黄金运往苏联，决心设法破坏",
+      "id": "gb-revelation",
+      "title": "GB毒剂与苏联巡洋舰"
+    },
+    {
+      "cause": "邦德随金手指包机勘察诺克斯堡，途中无人看守",
+      "chapter": "TWENTY",
+      "effect": "邦德把求救密信藏在飞机厕所座椅下，清洁工两天后发现并送交莱特",
+      "id": "leiter-message",
+      "title": "莱特求救密信"
+    },
+    {
+      "cause": "D-1午夜，红十字专列自宾夕法尼亚车站出发，金手指在路易斯维尔换乘机车前部",
+      "chapter": "TWENTY-ONE",
+      "effect": "专列抵达诺克斯堡，美军伏兵以信号弹为号反击，蒂莉身亡，金手指乘柴油机车逃走",
+      "id": "fort-knox-ambush",
+      "title": "诺克斯堡伏击"
+    },
+    {
+      "cause": "金手指在爱德怀尔德机场以假伤寒防疫为名劫持BOAC 510航班，普茜·加洛在机上暗助邦德",
+      "chapter": "TWENTY-THREE",
+      "effect": "邦德刺破机窗使奥德·约伯被吸出机外，勒死金手指，飞机在查理气象船附近迫降，机组随三吨黄金沉没",
+      "id": "hijack-and-killing",
+      "title": "劫机与金手指之死"
+    }
+  ],
+  "facts": [
+    {
+      "canon_or_inference": "canon",
+      "chapter": "ONE",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "邦德在墨西哥城执行任务期间徒手杀死一名墨西哥杀手，所用手法为手掌缘劈击喉结。",
+      "quote": "deadly hand-edge blow to the Adam's apple",
+      "quote_source": "第ONE章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "ONE",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "邦德炸毁布莱克威尔在墨西哥城的海洛因提炼仓库，该仓库以化肥厂为掩护。",
+      "quote": "left a thermite bomb",
+      "quote_source": "第ONE章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "ONE",
+      "confidence": "high",
+      "entity": "blackwell",
+      "fact": "布莱克威尔因妹妹在英国染上毒瘾而介入海洛因贸易，提炼的海洛因经外交信使运往伦敦。",
+      "quote": "a pleasant-spoken Import and Export merchant called Black-well",
+      "quote_source": "第ONE章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "ONE",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "邦德持有双O执照，是秘密情报局中罕见的杀人执照持有者。",
+      "quote": "the rare double-O prefix - the licence to kill",
+      "quote_source": "第ONE章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "TWO",
+      "confidence": "high",
+      "entity": "junius-du-pont",
+      "fact": "杜邦与邦德1951年在皇家莱索牌桌相识，当时邦德击败了勒·希弗。",
+      "quote": "Trance, '51, Royale les Eaux",
+      "quote_source": "第TWO章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1951年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "TWO",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "金手指护照年龄42岁，拿骚居民，未婚，职业登记为经纪人，红发。",
+      "quote": "Nassavian passport. Age forty-two. Unmarried. Profession, broker",
+      "quote_source": "第TWO章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "TWO",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "金手指一周内与杜邦玩双人卡纳斯塔赢走25,000美元，杜邦认定其作弊。",
+      "quote": "lost twenty-five thousand dollars in a week playing two-handed Canasta",
+      "quote_source": "第TWO章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "TWO",
+      "confidence": "high",
+      "entity": "junius-du-pont",
+      "fact": "杜邦出价10,000美元请邦德查明金手指的作弊手法，邦德接受并约定次日两场牌局内查明。",
+      "quote": "I will pay you ten thousand dollars",
+      "quote_source": "第TWO章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "THREE",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "金手指以患广场恐惧症为由坚持在牌桌上面朝酒店而坐，实为让套房内的人偷看杜邦的牌。",
+      "quote": "I suffer from an obscure complaint - agoraphobia",
+      "quote_source": "第THREE章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "THREE",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "金手指住在弗洛里迪亚纳酒店200号夏威夷套房，左耳戴助听器，实为无线电报牌接收器。",
+      "quote": "No 200, the Hawaii Suite",
+      "quote_source": "第THREE章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "FOUR",
+      "confidence": "high",
+      "entity": "jill-masterton",
+      "fact": "吉尔·马斯特顿在套房内仅穿黑色胸衣与内裤，用望远镜偷看杜邦的牌并以麦克风向金手指报牌。",
+      "quote": "Drew five and four. Completed canasta in fives",
+      "quote_source": "第FOUR章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "FOUR",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "金手指被迫开出50,000美元支票：35,000为骗走杜邦的钱，10,000为邦德酬金，5,000为赔偿。",
+      "quote": "write a cheque to cash for fifty thousand dollars",
+      "quote_source": "第FOUR章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "FOUR",
+      "confidence": "high",
+      "entity": "jill-masterton",
+      "fact": "吉尔每周从金手指处领取100英镑，攒够钱就打算离开。",
+      "quote": "A hundred pounds a week",
+      "quote_source": "第FOUR章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "FOUR",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "金手指随身携带价值百万美元的黄金，行李箱夹层即金板，过海关时则把金币腰带缠在腰间。",
+      "quote": "He always carries a million dollars' worth of gold",
+      "quote_source": "第FOUR章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "FIVE",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "邦德在总部值夜班期间接到香港H站来电，对方索要水雷对付三艘中共间谍帆船。",
+      "quote": "Station H, sir",
+      "quote_source": "第FIVE章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "FIVE",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "邦德正在编写一本名为《Stay Alive!》的徒手格斗手册，参考了SMERSH的《Defence》手册。",
+      "quote": "a handbook of all secret methods of unarmed combat",
+      "quote_source": "第FIVE章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "FIVE",
+      "confidence": "high",
+      "entity": "m",
+      "fact": "M告诉邦德，财政部认为双O部门已经过时，但M回绝了这一说法。",
+      "quote": "Their liaison man thinks the double-O section is redundant",
+      "quote_source": "第FIVE章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "SIX",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "金手指1937年20岁时自里加抵达英国，祖辈三代为法贝热炼金匠。",
+      "quote": "came over to England in 1937. He was a refugee from Riga",
+      "quote_source": "第SIX章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1937年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "SIX",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "金手指收购20家小当铺改名“金手指”，专收旧金，二战时全连锁申报黄金存量仅50盎司。",
+      "quote": "It was fifty ounces for the whole chain!",
+      "quote_source": "第SIX章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1937年至1954年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "SIX",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "1954年夏，金手指的拖网渔船自印度返航途中在古德温沙洲搁浅，船木中检出金粉，暴露其以化肥名义向印度走私黄金。",
+      "quote": "went ashore on the Goodwins",
+      "quote_source": "第SIX章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1954年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "SIX",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "金手指在苏黎世、拿骚、巴拿马、纽约藏有约2,000万英镑金条，每根金条上都刻有一个微小的字母Z。",
+      "quote": "twenty million pounds' worth of gold bars",
+      "quote_source": "第SIX章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "SIX",
+      "confidence": "high",
+      "entity": "colonel-smithers",
+      "fact": "史密瑟斯上校是英格兰银行研究部负责人，追查金手指五年，请求情报局将其绳之以法并追回黄金。",
+      "quote": "It took me five years, Mr Bond, to find out",
+      "quote_source": "第SIX章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "inference",
+      "chapter": "SEVEN",
+      "confidence": "medium",
+      "entity": "auric-goldfinger",
+      "fact": "M推断金手指是SMERSH的司库，依据是缴获的20根Z刻痕金条全部出自SMERSH特工之手。",
+      "quote": "the foreign banker, the treasurer so to speak, of SMERSH",
+      "quote_source": "第SEVEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "SEVEN",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "邦德的座驾是阿斯顿·马丁DB III，战舰灰色，配有变光开关、加固保险杠、驾驶座下暗格里的长枪管柯尔特.45与Homer接收器。",
+      "quote": "He had taken the DBIII",
+      "quote_source": "第SEVEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "SEVEN",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "金手指的座驾是约1925年产的淡黄色劳斯莱斯银色幽灵，配有装甲钢板与防弹玻璃。",
+      "quote": "old Silver Ghost sweep majestically up the drive",
+      "quote_source": "第SEVEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "EIGHT",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "邦德与金手指的高尔夫赌局赌注为10,000美元双倍或赔清，双方差点均为9。",
+      "quote": "I will play you double or quits for that",
+      "quote_source": "第EIGHT章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "NINE",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "金手指在高尔夫球局中多次作弊，包括压平球后草叶、在邦德挥杆时掉落球杆、沙坑内跳跃压球、球童掉球。",
+      "quote": "flattening the tuft",
+      "quote_source": "第NINE章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "NINE",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "邦德在第17洞将一颗7号邓禄普球换给金手指，金手指在第18洞用错球，按规则输洞输局。",
+      "quote": "playing with the wrong ball",
+      "quote_source": "第NINE章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "TEN",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "金手指在格兰奇别墅安装三台隐藏电影摄影机，胶片收入卧室衣柜，邦德曝光胶片并嫁祸于猫。",
+      "quote": "three of them, their lenses concealed God knows where",
+      "quote_source": "第TEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "ELEVEN",
+      "confidence": "high",
+      "entity": "oddjob",
+      "fact": "奥德·约伯是世界仅有的三名空手道黑带之一，能徒手劈断六英寸厚的楼梯扶手、飞脚踢碎壁炉架。",
+      "quote": "one of the three in the world who have achieved the Black Belt in Karate",
+      "quote_source": "第ELEVEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "ELEVEN",
+      "confidence": "high",
+      "entity": "oddjob",
+      "fact": "奥德·约伯的圆顶礼帽帽沿为轻质坚固合金，可嵌入木板一英寸深，足以砸碎人头。",
+      "quote": "A light but very strong alloy, Mr Bond",
+      "quote_source": "第ELEVEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "ELEVEN",
+      "confidence": "high",
+      "entity": "oddjob",
+      "fact": "奥德·约伯患兔唇，除金手指外几乎无人能听懂他说话。",
+      "quote": "Poor chap's got a cleft palate",
+      "quote_source": "第ELEVEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "TWELVE",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "邦德在费里菲尔德海关将Homer发射器藏入劳斯莱斯备用工具箱，驾车尾随金手指穿越法国。",
+      "quote": "slipped the battery and tube into the back of it",
+      "quote_source": "第TWELVE章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "TWELVE",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "邦德在N79公路79/6号桥下挖出金手指藏匿的一根金条。",
+      "quote": "survey number set in the arch - 79/6",
+      "quote_source": "第TWELVE章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "THIRTEEN",
+      "confidence": "high",
+      "entity": "tilly-masterton",
+      "fact": "蒂莉·马斯特顿驾驶浅灰色TR3跟踪金手指，自称来参加瑞士女子高尔夫公开赛，邦德电话核实为假。",
+      "quote": "The Swiss Women's Open Championship at Divonne",
+      "quote_source": "第THIRTEEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "THIRTEEN",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "劳斯莱斯车身实为两吨18K白金，工人在科佩工厂将其拆解后将改制成Mecca航空座椅运往印度。",
+      "quote": "Solid, eighteen-carat, white gold",
+      "quote_source": "第THIRTEEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "FOURTEEN",
+      "confidence": "high",
+      "entity": "jill-masterton",
+      "fact": "吉尔·马斯特顿被金手指全身涂满金漆后死亡，死于迈阿密一家医院急诊室，死前发电报召妹妹蒂莉前来。",
+      "quote": "He had had her painted all over. He had murdered her",
+      "quote_source": "第FOURTEEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "FOURTEEN",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "金手指每月将一名女子全身涂金漆取乐，脊柱留空以防窒息，事后付1,000美元打发。",
+      "quote": "He has a woman once a month",
+      "quote_source": "第FOURTEEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "FOURTEEN",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "金手指说出全书关键台词：一次是偶然，两次是巧合，第三次就是敌对行动。",
+      "quote": "Once is happenstance. Twice is coincidence. The third time it's enemy action",
+      "quote_source": "第FOURTEEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "FIFTEEN",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "压力室中圆锯沿钢桌中缝以每分钟约一英寸逼近邦德，奥德·约伯分级施刑，邦德提出为金手指工作才保命。",
+      "quote": "The saw is now approaching your body at about an inch every minute",
+      "quote_source": "第FIFTEEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "SIXTEEN",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "金手指的目标是抢劫诺克斯堡150亿美元黄金，约占世界已开采黄金的一半。",
+      "quote": "fifteen billion dollars' worth of gold bullion",
+      "quote_source": "第SIXTEEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "SIXTEEN",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "金手指开价100万英镑雇佣邦德、50万英镑雇佣蒂莉，担任大满贯行动的文书工作。",
+      "quote": "you will receive one million pounds in gold",
+      "quote_source": "第SIXTEEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "SEVENTEEN",
+      "confidence": "high",
+      "entity": "pussy-galore",
+      "fact": "普茜·加洛是美国唯一女性黑帮首领，率领全女性帮派“水泥搅拌机”，前空中飞人，帮派原名“普茜·加洛与空中猫”。",
+      "quote": "She is the only woman who runs a gang in America",
+      "quote_source": "第SEVENTEEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "SEVENTEEN",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "金手指在黑帮会议上向每位首脑赠送一根价值15,000美元的24K金条作为出席酬劳。",
+      "quote": "one twenty-four-carat gold bar, value fifteen thousand dollars",
+      "quote_source": "第SEVENTEEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "SEVENTEEN",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "金手指自称身家6,000万美元，承诺每家黑帮分得10亿美元，自己分得50亿。",
+      "quote": "That sum now stands at sixty million dollars",
+      "quote_source": "第SEVENTEEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "EIGHTEEN",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "金手指花1,000,000美元自德国某盟军基地购得一枚Corporal导弹原子弹头，用于炸开诺克斯堡金库。",
+      "quote": "It cost me exactly one million dollars",
+      "quote_source": "第EIGHTEEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "EIGHTEEN",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "诺克斯堡金库外形105乘121英尺、高42英尺，金库门重逾20吨，守军约20,000名战斗人员。",
+      "quote": "The vault door weighs more than twenty tons",
+      "quote_source": "第EIGHTEEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "NINETEEN",
+      "confidence": "high",
+      "entity": "helmut-springer",
+      "fact": "斯普林格拒绝加入大满贯行动后，当晚与打手哈普古德一同“失足坠楼”被灭口。",
+      "quote": "Mr Helmut Springer has met with an accident. He fell down the stairs",
+      "quote_source": "第NINETEEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "NINETEEN",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "金手指计划在诺克斯堡供水系统投放GB神经毒剂，于D-1午夜前毒死或致残全城约6万人。",
+      "quote": "the entire population of Fort Knox will be dead or incapacitated by midnight on D-l",
+      "quote_source": "第NINETEEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "NINETEEN",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "金手指计划将抢得的黄金经停靠诺福克的苏联斯维尔德洛夫斯克级巡洋舰运往喀琅施塔得，该舰于D+1启航。",
+      "quote": "a Soviet cruiser of the Sverdlovsk class will be visiting Norfolk, Virginia",
+      "quote_source": "第NINETEEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "NINETEEN",
+      "confidence": "high",
+      "entity": "bond",
+      "fact": "邦德把求救密信藏在勘察飞机厕所座椅下，收件人为平克顿侦探社的费利克斯·莱特，悬赏5,000美元。",
+      "quote": "FELIX LEITER CARE PINKERTON'S DETECTIVE AGENCY, 154 NASSAU STREET",
+      "quote_source": "第NINETEEN章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "TWENTY-ONE",
+      "confidence": "high",
+      "entity": "tilly-masterton",
+      "fact": "蒂莉·马斯特顿在诺克斯堡被奥德·约伯掷出的钢边礼帽割断颈部身亡。",
+      "quote": "Its edge caught the girl exactly at the nape of the neck",
+      "quote_source": "第TWENTY-ONE章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "TWENTY-TWO",
+      "confidence": "high",
+      "entity": "felix-leiter",
+      "fact": "莱特凭邦德密信在一小时内把案子上报至總統，美方设局让诺克斯堡全城佯死，GB毒剂在投放前被截获。",
+      "quote": "the whole case up to the President within an hour",
+      "quote_source": "第TWENTY-TWO章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "TWENTY-TWO",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "金手指在D-1从纽约帕拉贡保险库提走全部黄金，装上篷布卡车运走；英格兰银行已备好枢密院令准备扣押。",
+      "quote": "withdrawn it on D-l. He and his men had driven it away in a covered truck",
+      "quote_source": "第TWENTY-TWO章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "TWENTY-THREE",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "金手指在爱德怀尔德机场以假伤寒防疫为名劫持BOAC 510航班，飞机呼号Speedbird，注册号G-ALGY。",
+      "quote": "Speedbird 510. G-ALGY calling C for Charlie",
+      "quote_source": "第TWENTY-THREE章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "TWENTY-THREE",
+      "confidence": "high",
+      "entity": "oddjob",
+      "fact": "邦德用鞋跟匕首刺破机窗，机舱失压将奥德·约伯吸出机外身亡。",
+      "quote": "sucked with a terrible whistling noise through the aperture",
+      "quote_source": "第TWENTY-THREE章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "TWENTY-THREE",
+      "confidence": "high",
+      "entity": "auric-goldfinger",
+      "fact": "邦德在飞机上徒手勒死金手指，随后命令机组飞往查理气象船附近迫降海面。",
+      "quote": "Bond sat astride the silent chest",
+      "quote_source": "第TWENTY-THREE章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    },
+    {
+      "canon_or_inference": "canon",
+      "chapter": "TWENTY-THREE",
+      "confidence": "high",
+      "entity": "pussy-galore",
+      "fact": "普茜·加洛在劫机航班上倒向邦德，飞机迫降后与邦德一同被查理气象船救起；机组随三吨黄金沉入大西洋。",
+      "quote": "the crew, with three tons of gold round their necks, were on their way down",
+      "quote_source": "第TWENTY-THREE章",
+      "source_novel": "goldfinger",
+      "timeline_position": "1959年"
+    }
+  ],
+  "kind": "长篇",
+  "lines": 1506,
+  "locations": [
+    {
+      "country": "美国",
+      "fictional": false,
+      "id": "miami",
+      "name_en": "Miami, Florida",
+      "name_zh": "迈阿密",
+      "role": "开篇地，邦德在机场候机厅结识杜邦，弗洛里迪亚纳酒店牌局发生地"
+    },
+    {
+      "country": "英国",
+      "fictional": false,
+      "id": "london-hq",
+      "name_en": "Secret Service Headquarters, Regent's Park, London",
+      "name_zh": "伦敦摄政公园秘密情报局总部",
+      "role": "邦德值夜班、M下达任务、档案室拼图金手指面容的地"
+    },
+    {
+      "country": "英国",
+      "fictional": false,
+      "id": "bank-of-england",
+      "name_en": "Bank of England, Threadneedle Street",
+      "name_zh": "英格兰银行",
+      "role": "史密瑟斯向邦德交代黄金走私案与金手指背景的地"
+    },
+    {
+      "country": "英国",
+      "fictional": false,
+      "id": "royal-st-marks",
+      "name_en": "Royal St Marks Golf Club, Sandwich, Kent",
+      "name_zh": "皇家圣马克斯高尔夫俱乐部",
+      "role": "邦德与金手指18洞赌局发生地"
+    },
+    {
+      "country": "英国",
+      "fictional": false,
+      "id": "the-grange",
+      "name_en": "The Grange, Reculver, Kent",
+      "name_zh": "格兰奇别墅",
+      "role": "金手指在英格兰的住所，晚宴与摄影机陷阱发生地；毗邻塔内特合金工厂"
+    },
+    {
+      "country": "英国",
+      "fictional": false,
+      "id": "ferryfield",
+      "name_en": "Ferryfield Airport (Lydd)",
+      "name_zh": "费里菲尔德机场",
+      "role": "金手指乘机载劳斯莱斯赴法国的地，邦德在此植入Homer追踪器"
+    },
+    {
+      "country": "法国",
+      "fictional": false,
+      "id": "france-route",
+      "name_en": "Le Touquet, Abbeville, Rouen, Orleans, Moulins, Macon",
+      "name_zh": "勒图凯至梅肯一线",
+      "role": "邦德尾随劳斯莱斯穿越法国的路线，79/6号桥下藏金条，梅肯撞车蒂莉"
+    },
+    {
+      "country": "瑞士",
+      "fictional": false,
+      "id": "geneva",
+      "name_en": "Geneva",
+      "name_zh": "日内瓦",
+      "role": "邦德与蒂莉入住贝尔格酒店，金手指藏金与走私中转地"
+    },
+    {
+      "country": "瑞士",
+      "fictional": false,
+      "id": "coppet",
+      "name_en": "Entreprises Auric, Coppet",
+      "name_zh": "科佩奥里克企业工厂",
+      "role": "金手指在瑞士的工厂，拆解劳斯莱斯、改制金座椅的地，邦德与蒂莉在此被俘"
+    },
+    {
+      "country": "美国",
+      "fictional": false,
+      "id": "fort-knox",
+      "name_en": "Fort Knox, Kentucky",
+      "name_zh": "诺克斯堡",
+      "role": "大满贯行动目标，美国黄金储备库所在地；美军设伏、全城佯死、蒂莉身亡的地"
+    },
+    {
+      "country": "美国",
+      "fictional": false,
+      "id": "louisville",
+      "name_en": "Louisville, Kentucky",
+      "name_zh": "路易斯维尔",
+      "role": "红十字专列中途站，金手指在此换乘机车前部"
+    },
+    {
+      "country": "美国",
+      "fictional": false,
+      "id": "new-york",
+      "name_en": "New York City",
+      "name_zh": "纽约",
+      "role": "爱德怀尔德机场、东河仓库（黑帮会议与囚禁地）、宾夕法尼亚车站专列出发地、帕拉贡保险库"
+    },
+    {
+      "country": "美国",
+      "fictional": false,
+      "id": "norfolk",
+      "name_en": "Norfolk, Virginia",
+      "name_zh": "诺福克",
+      "role": "苏联斯维尔德洛夫斯克级巡洋舰按计划停靠并接应黄金的地（未得逞）"
+    },
+    {
+      "country": "巴哈马",
+      "fictional": false,
+      "id": "nassau",
+      "name_en": "Nassau, Bahamas",
+      "name_zh": "拿骚",
+      "role": "金手指护照签发地与藏金地之一"
+    },
+    {
+      "country": "印度",
+      "fictional": false,
+      "id": "bombay",
+      "name_en": "Bombay, India",
+      "name_zh": "孟买",
+      "role": "黄金走私目的地，金价溢价最高；Mecca航空座椅的终点"
+    },
+    {
+      "country": "大西洋",
+      "fictional": false,
+      "id": "weathership-charlie",
+      "name_en": "Ocean Station Charlie (Weathership Charlie)",
+      "name_zh": "查理气象船",
+      "role": "被劫航班迫降海面后救起邦德与普茜·加洛的地"
+    }
+  ],
+  "mission": {
+    "investigation": "迈阿密牌局揭穿作弊→伦敦受M与英格兰银行委托调查黄金外流→三明治高尔夫赌局接近金手指→格兰奇晚宴搜查→费里菲尔德植入Homer尾随至法国→桥下挖出金条→日内瓦科佩工厂识破金色幽灵→被俘后假意受雇→黑帮会议记录→空中勘察时发出求救密信→诺克斯堡现场待机→劫机航班上杀死金手指",
+    "key_clues": [
+      "吉尔在套房用望远镜报牌的照片",
+      "金条上的Z刻痕与缴获的20根SMERSH金条吻合",
+      "79/6号桥下挖出的金条",
+      "科佩工厂拆解劳斯莱斯，车身为18K白金",
+      "金手指亲口透露GB毒剂与苏联巡洋舰接应计划",
+      "藏在勘察飞机厕所座椅下的莱特求救密信"
+    ],
+    "objective": "调查英格兰银行发现的黄金外流案，将金手指绳之以法并追回黄金；后演变为阻止大满贯行动、保住诺克斯堡黄金储备",
+    "outcome": "大满贯行动被美方设局粉碎，诺克斯堡居民无一伤亡；蒂莉与吉尔身亡；金手指与奥德·约伯死于被劫航班，机组随三吨黄金沉入大西洋；金手指与其同伙的其余黄金下落不明，邦德未能完成追回黄金的任务"
+  },
+  "novel_id": "goldfinger",
+  "novel_no": 7,
+  "organizations": [
+    {
+      "first_chapter": "ONE",
+      "id": "sis",
+      "name_en": "Secret Intelligence Service",
+      "name_zh": "英国秘密情报机构",
+      "role": "邦德的上级机构，M领导，派邦德调查金手指"
+    },
+    {
+      "first_chapter": "SIX",
+      "id": "bank-of-england",
+      "name_en": "Bank of England",
+      "name_zh": "英格兰银行",
+      "role": "发现黄金外流并委托情报局调查，史密瑟斯的研究部实为银行的情报系统"
+    },
+    {
+      "first_chapter": "SEVEN",
+      "id": "smersh",
+      "name_en": "SMERSH",
+      "name_zh": "SMERSH",
+      "role": "苏联锄奸机构，M推断金手指是其司库，为其海外中心提供资金"
+    },
+    {
+      "first_chapter": "FIVE",
+      "id": "cia",
+      "name_en": "Central Intelligence Agency",
+      "name_zh": "美国中央情报局",
+      "role": "莱特所属机构，与M联络后把案子上报至總統"
+    },
+    {
+      "first_chapter": "TWENTY-TWO",
+      "id": "fbi",
+      "name_en": "Federal Bureau of Investigation",
+      "name_zh": "美国联邦调查局",
+      "role": "与萊特合作设局，在诺克斯堡设伏"
+    },
+    {
+      "first_chapter": "TWENTY",
+      "id": "pinkertons",
+      "name_en": "Pinkerton's Detective Agency",
+      "name_zh": "平克顿侦探社",
+      "role": "莱特的工作单位，邦德密信的收件地址"
+    },
+    {
+      "first_chapter": "SEVENTEEN",
+      "id": "unione-siciliano",
+      "name_en": "Unione Siciliano",
+      "name_zh": "西西里联盟",
+      "role": "美国黑手党，首脑索洛先生参会并加入大满贯行动"
+    },
+    {
+      "first_chapter": "SEVENTEEN",
+      "id": "purple-gang",
+      "name_en": "The Purple Gang, Detroit",
+      "name_zh": "底特律紫帮",
+      "role": "首脑斯普林格拒绝加入后被灭口"
+    },
+    {
+      "first_chapter": "SEVENTEEN",
+      "id": "shadow-syndicate",
+      "name_en": "Shadow Syndicate, Miami and Havana",
+      "name_zh": "影子辛迪加",
+      "role": "首脑杰德·午夜首个加入大满贯行动"
+    },
+    {
+      "first_chapter": "SEVENTEEN",
+      "id": "the-machine",
+      "name_en": "The Machine, Chicago",
+      "name_zh": "芝加哥机器帮",
+      "role": "首脑比利·林加入大满贯行动"
+    },
+    {
+      "first_chapter": "SEVENTEEN",
+      "id": "spangled-mob",
+      "name_en": "The Spangled Mob, Las Vegas",
+      "name_zh": "花斑帮",
+      "role": "首脑杰克·斯特拉普加入大满贯行动"
+    },
+    {
+      "first_chapter": "SEVENTEEN",
+      "id": "cement-mixers",
+      "name_en": "The Cement Mixers, Harlem",
+      "name_zh": "水泥搅拌机帮",
+      "role": "普茜·加洛率领的全女性帮派，为行动提供护士人手"
+    },
+    {
+      "first_chapter": "THIRTEEN",
+      "id": "mecca-airline",
+      "name_en": "Mecca (charter airline to India)",
+      "name_zh": "Mecca包机航空公司",
+      "role": "金手指参股的印度包机公司，其星座式客机座椅由金改制后运往印度"
+    },
+    {
+      "first_chapter": "THIRTEEN",
+      "id": "entreprises-auric",
+      "name_en": "Entreprises Auric A.G.",
+      "name_zh": "奥里克企业公司",
+      "role": "金手指在瑞士科佩的工厂，拆解劳斯莱斯并改制金座椅"
+    },
+    {
+      "first_chapter": "SEVEN",
+      "id": "thanet-alloys",
+      "name_en": "Thanet Alloys",
+      "name_zh": "塔内特合金公司",
+      "role": "金手指在雷卡尔弗的工厂，名义为合金冶炼，实为黄金加工"
+    },
+    {
+      "first_chapter": "ONE",
+      "id": "universal-export",
+      "name_en": "Universal Export",
+      "name_zh": "环球出口公司",
+      "role": "秘密情报局的掩护公司，邦德对外身份的雇主"
+    }
+  ],
+  "publication_year": 1959,
+  "reading": {
+    "chapters_read": 23,
+    "chapters_total": 23,
+    "coverage": "100%",
+    "method": "按章节sed分段读"
+  },
+  "source_file": "source/txt/goldfinger.txt",
+  "source_sha256": "18e4f2e888965a49d3535af93042a4d822bfc7a83efe6829001ad7212b76cfc5",
+  "story_timeline": "主线约在1959年：邦德在墨西哥城完成海洛因任务后滞留迈阿密，结识杜邦并揭穿金手指牌局作弊；一周后回伦敦受命调查黄金外流；次日在三明治与金手指打高尔夫赌局并获胜，当晚赴格兰奇晚宴；翌日尾随金手指穿越法国至日内瓦，夜探科佩工厂被俘；被迷晕运往纽约后被迫参与大满贯行动筹备约一周；D-1午夜乘红十字专列南下，次日清晨抵达诺克斯堡，行动被美军粉碎；两天后邦德登机回伦敦途中被劫机，当夜在飞机上杀死金手指与奥德·约伯，次日清晨迫降于查理气象船附近获救。背景线：金手指1937年20岁自里加来英，1954年渔船失事暴露金粉走私。",
+  "title_en": "Goldfinger",
+  "title_zh": "金手指",
+  "vehicles": [
+    {
+      "name_en": "Aston Martin DB Mark III",
+      "name_zh": "阿斯顿·马丁DB Mark III",
+      "note": "邦德座驾，原文称DB III，战舰灰色，情报局车队配车，配有变光开关、加固保险杠、驾驶座下暗格柯尔特.45与Homer接收器；不是电影中的DB5"
+    },
+    {
+      "name_en": "Rolls-Royce Silver Ghost (c.1925)",
+      "name_zh": "劳斯莱斯银色幽灵（约1925年产）",
+      "note": "金手指座驾，淡黄色，车身实为两吨18K白金，外覆装甲钢板，重约三吨，配有金漆行李箱与特殊弹簧"
+    },
+    {
+      "name_en": "Triumph TR3",
+      "name_zh": "凯旋TR3",
+      "note": "蒂莉·马斯特顿的浅灰色双座敞篷车，在梅肯被邦德撞坏风扇"
+    },
+    {
+      "name_en": "Chrysler Imperial",
+      "name_zh": "克莱斯勒帝国",
+      "note": "杜邦在迈阿密的座驾"
+    },
+    {
+      "name_en": "Ford Popular",
+      "name_zh": "福特Popular",
+      "note": "奥德·约伯驾驶的天蓝色小车，邦德怀疑其运送当铺旧金（未证实）"
+    },
+    {
+      "name_en": "Bristol Freighter",
+      "name_zh": "布里斯托货机",
+      "note": "金手指乘机载劳斯莱斯飞越英吉利海峡的货机"
+    },
+    {
+      "name_en": "Beechcraft Executive (10-seater)",
+      "name_zh": "比奇行政机（10座）",
+      "note": "金手指包租的勘察机，邦德将求救密信藏于其厕所座椅下"
+    },
+    {
+      "name_en": "BOAC Stratocruiser, Speedbird 510, G-ALGY",
+      "name_zh": "英国海外航空公司同温层巡洋舰，Speedbird 510航班，注册号G-ALGY",
+      "note": "邦德回伦敦的航班，在爱德怀尔德被金手指劫持，迫降于查理气象船附近海面，机组随三吨黄金沉没"
+    },
+    {
+      "name_en": "Silver Meteor",
+      "name_zh": "银色流星号",
+      "note": "邦德与吉尔自迈阿密赴纽约的列车"
+    },
+    {
+      "name_en": "Special train (Red Cross)",
+      "name_zh": "红十字专列",
+      "note": "大满贯行动D-1午夜自宾夕法尼亚车站出发，约一百名帮众化装成红十字医疗队"
+    },
+    {
+      "name_en": "Studillac",
+      "name_zh": "Studillac",
+      "note": "莱特驾驶的黑色改装车，300马力，配三重喇叭"
+    }
+  ],
+  "words": 85981
+}

@@ -143,7 +143,12 @@
       "id": "bond",
       "name_en": "James Bond",
       "name_zh": "詹姆斯·邦德",
-      "aliases": ["007", "John Bryce", "约翰·布莱斯", "Import and Export Merchant"],
+      "aliases": [
+        "007",
+        "John Bryce",
+        "约翰·布莱斯",
+        "Import and Export Merchant"
+      ],
       "role": "主要人物",
       "appearance": "深色皮肤、晒黑、灰蓝色眼睛，书中未详述面部特征；诺博士检查时称其面容冷峻、肌肉结实、腹部扁平有力",
       "age_clues": "未明示年龄；贝雷塔用了15年，战前已在服役，莫洛尼称其自战前起长期高强度消耗勇气",
@@ -184,7 +189,10 @@
       "id": "honeychile-rider",
       "name_en": "Honeychile Rider",
       "name_zh": "哈妮·莱德",
-      "aliases": ["Honey", "Mrs John Bryce"],
+      "aliases": [
+        "Honey",
+        "Mrs John Bryce"
+      ],
       "role": "主要人物",
       "appearance": "浅金色长发，深蓝色大眼睛，皮肤为均匀的浅咖啡牛奶色，身材健美如男孩般结实；鼻梁被打断歪斜，是她最大的羞耻；右髋佩猎刀的宽皮带是其标志装束",
       "age_clues": "约20岁：保姆在她15岁时去世，此后独居5年",
@@ -215,7 +223,10 @@
       "id": "dr-no",
       "name_en": "Dr Julius No",
       "name_zh": "诺博士",
-      "aliases": ["Julius No", "Doctor No"],
+      "aliases": [
+        "Julius No",
+        "Doctor No"
+      ],
       "role": "主要人物",
       "appearance": "身高约6英尺6英寸，至少比邦德高6英寸，极瘦、秃头、皮肤深黄近乎透明；无手，双臂末端为钢钳义肢；眼睛为隐形眼镜下的黑色无表情眼窝，敲击会发出金属声；下巴内收，头部几乎不动；穿枪灰色金属光泽和服，行走如滑行",
       "age_clues": "30岁任帮会司库，帮会战争在20世纪20年代末，故事当年在岛上已14年，推算约60岁上下；原文未明示具体年龄",
@@ -287,7 +298,10 @@
       "id": "boothroyd",
       "name_en": "Major Boothroyd",
       "name_zh": "布思罗伊德少校",
-      "aliases": ["the Armourer", "军械官"],
+      "aliases": [
+        "the Armourer",
+        "军械官"
+      ],
       "role": "次要人物",
       "appearance": "身材矮小瘦削，沙色头发，两眼间距很宽的清澈灰眼睛，从不闪烁",
       "age_clues": "未知",
@@ -344,7 +358,9 @@
       "id": "strangways",
       "name_en": "Commander John Strangways",
       "name_zh": "约翰·斯特兰威斯",
-      "aliases": ["WXN"],
+      "aliases": [
+        "WXN"
+      ],
       "role": "次要人物",
       "appearance": "高瘦，右眼戴黑色眼罩，鹰钩鼻，具有驱逐舰舰桥军官式的好相貌",
       "age_clues": "未知",
@@ -871,7 +887,7 @@
       "note": "诺博士岛上的雷达发现了哈妮独木舟的帆，邦德一行登岛时降帆划桨以避开雷达探测"
     },
     {
-      "id": "cipher-machine",
+      "id": "russian-cipher-machine",
       "name_en": "Russian cipher machine",
       "name_zh": "俄国密码机",
       "kind": "装备",
@@ -1355,7 +1371,7 @@
     },
     {
       "source_novel": "dr-no",
-      "chapter": "VI",
+      "chapter": "VII",
       "entity": "bond",
       "fact": "邦德发现总督府送来的水果篮中每颗水果均有针孔，化验确认每件水果含氰化物足可毒死一匹马",
       "timeline_position": "1958年3月",
@@ -1366,7 +1382,7 @@
     },
     {
       "source_novel": "dr-no",
-      "chapter": "VI",
+      "chapter": "VII",
       "entity": "bond",
       "fact": "一条约5至6英寸长的蜈蚣半夜爬上邦德身体，邦德屏息不动直至其爬离才将其打死；夸雷尔称蜈蚣绝不会出现在干净的现代住宅中，必为人故意放入",
       "timeline_position": "1958年3月",
@@ -1773,7 +1789,7 @@
     },
     {
       "source_novel": "dr-no",
-      "chapter": "II",
+      "chapter": "全书",
       "entity": "bond",
       "fact": "全文以grep检索SPECTRE一词出现0次，原著中诺博士与任何名为幽灵党的组织无关，其导弹干扰行动的合作方为俄国人",
       "timeline_position": "1958年",
@@ -1784,7 +1800,7 @@
     },
     {
       "source_novel": "dr-no",
-      "chapter": "II",
+      "chapter": "全书",
       "entity": "boothroyd",
       "fact": "全文检索未见军械官被称为Q，本书中他始终被称为军械官或布思罗伊德少校；费利克斯·莱特全文出现0次，未在本部登场",
       "timeline_position": "1958年",

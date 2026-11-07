@@ -1,0 +1,11 @@
+{
+  "name": "007-intelligence-lab-knowledge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "007原著结构化知识库：检索索引与自动化验收",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "test:retrieval": "node scripts/retrieval-tests.js",
+    "test": "npm run validate && npm run test:retrieval"
+  }
+}

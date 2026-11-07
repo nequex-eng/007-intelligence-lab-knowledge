@@ -15,20 +15,20 @@
 
 | 编号 | 原著英文书名 | 中文书名 | 首版 | 文件名 | 字节 | 行数 | 词数 | 字符数 | 编码 | 章节 | 状态 |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 01 | Casino Royale | 皇家赌场 | 1953年 | casino-royale.txt | 270937 | 1360 | 50035 | 270717 | UTF-8带BOM | 27 | 通过 |
-| 02 | Live and Let Die | 生死关头 | 1954年 | live-and-let-die.txt | 372632 | 1780 | 67850 | 372437 | UTF-8带BOM | 23 | 通过 |
-| 03 | Moonraker | 月亮牌 | 1955年 | moonraker.txt | 401702 | 1587 | 73299 | 401334 | UTF-8带BOM | 25 | 通过 |
-| 04 | Diamonds Are Forever | 金刚钻 | 1956年 | diamonds-are-forever.txt | 385280 | 1614 | 70742 | 384990 | UTF-8带BOM | 25 | 通过 |
-| 05 | From Russia with Love | 来自俄罗斯的爱情 | 1957年 | from-russia-with-love.txt | 441820 | 2972 | 80305 | 441341 | UTF-8带BOM | 28 | 通过 |
-| 06 | Dr No | 诺博士 | 1958年 | dr-no.txt | 424706 | 1345 | 78288 | 424069 | UTF-8带BOM | 20 | 通过 |
-| 07 | Goldfinger | 金手指 | 1959年 | goldfinger.txt | 472854 | 1507 | 85981 | 472532 | UTF-8带BOM | 23 | 通过 |
-| 08 | For Your Eyes Only | 只为你的双眼 | 1960年 | for-your-eyes-only.txt | 338594 | 769 | 62511 | 337890 | UTF-8带BOM | 5 | 通过 |
-| 09 | Thunderball | 霹雳弹 | 1961年 | thunderball.txt | 465165 | 1867 | 83612 | 462127 | UTF-8带BOM | 24 | 通过 |
-| 10 | The Spy Who Loved Me | 爱我的间谍 | 1962年 | spy-who-loved-me.txt | 262896 | 616 | 49227 | 262420 | UTF-8带BOM | 15 | 通过 |
-| 11 | On Her Majesty's Secret Service | 女王密使 | 1963年 | on-her-majestys-secret-service.txt | 444856 | 1275 | 80727 | 444550 | UTF-8带BOM | 27 | 通过 |
-| 12 | You Only Live Twice | 雷霆谷 | 1964年 | you-only-live-twice.txt | 367364 | 999 | 66354 | 367285 | UTF-8带BOM | 22 | 通过 |
-| 13 | The Man with the Golden Gun | 金枪人 | 1965年 | man-with-golden-gun.txt | 276386 | 739 | 49604 | 275987 | UTF-8带BOM | 17 | 通过 |
-| 14 | Octopussy and The Living Daylights | 八爪女与黎明生死线 | 1966年 | octopussy.txt | 156065 | 433 | 27755 | 155627 | UTF-8带BOM | 3 | 待复核 |
+| 01 | Casino Royale | 皇家赌场 | 1953年 | casino-royale.txt | 270937 | 1359 | 50035 | 270717 | UTF-8带BOM | 27 | 通过 |
+| 02 | Live and Let Die | 生死关头 | 1954年 | live-and-let-die.txt | 372632 | 1779 | 67850 | 372437 | UTF-8带BOM | 23 | 通过 |
+| 03 | Moonraker | 月亮牌 | 1955年 | moonraker.txt | 401702 | 1586 | 73299 | 401334 | UTF-8带BOM | 25 | 通过 |
+| 04 | Diamonds Are Forever | 金刚钻 | 1956年 | diamonds-are-forever.txt | 385280 | 1613 | 70742 | 384990 | UTF-8带BOM | 25 | 通过 |
+| 05 | From Russia with Love | 来自俄罗斯的爱情 | 1957年 | from-russia-with-love.txt | 441820 | 2971 | 80305 | 441341 | UTF-8带BOM | 28 | 通过 |
+| 06 | Dr No | 诺博士 | 1958年 | dr-no.txt | 424706 | 1344 | 78288 | 424069 | UTF-8带BOM | 20 | 通过 |
+| 07 | Goldfinger | 金手指 | 1959年 | goldfinger.txt | 472854 | 1506 | 85981 | 472532 | UTF-8带BOM | 23 | 通过 |
+| 08 | For Your Eyes Only | 只为你的双眼 | 1960年 | for-your-eyes-only.txt | 338594 | 768 | 62511 | 337890 | UTF-8带BOM | 5 | 通过 |
+| 09 | Thunderball | 霹雳弹 | 1961年 | thunderball.txt | 465165 | 1866 | 83612 | 462127 | UTF-8带BOM | 24 | 通过 |
+| 10 | The Spy Who Loved Me | 爱我的间谍 | 1962年 | spy-who-loved-me.txt | 262896 | 615 | 49227 | 262420 | UTF-8带BOM | 15 | 通过 |
+| 11 | On Her Majesty's Secret Service | 女王密使 | 1963年 | on-her-majestys-secret-service.txt | 444856 | 1274 | 80727 | 444550 | UTF-8带BOM | 27 | 通过 |
+| 12 | You Only Live Twice | 雷霆谷 | 1964年 | you-only-live-twice.txt | 367364 | 998 | 66354 | 367285 | UTF-8带BOM | 22 | 通过 |
+| 13 | The Man with the Golden Gun | 金枪人 | 1965年 | man-with-golden-gun.txt | 276386 | 738 | 49604 | 275987 | UTF-8带BOM | 17 | 通过 |
+| 14 | Octopussy and The Living Daylights | 八爪女与黎明生死线 | 1966年 | octopussy.txt | 156065 | 432 | 27755 | 155627 | UTF-8带BOM | 3 | 待复核 |
 
 ## 三、逐本章节目录
 

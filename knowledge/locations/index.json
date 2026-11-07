@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "generated": "2026-11-06",
-  "total_unique": 177,
+  "total_unique": 170,
   "locations": [
     {
       "id": "london",
@@ -84,7 +84,7 @@
       "name_zh": "纽约",
       "country": "美国",
       "fictional": false,
-      "appearance_count": 3,
+      "appearance_count": 4,
       "appearances": [
         {
           "novel": "live-and-let-die",
@@ -100,6 +100,11 @@
           "novel": "dr-no",
           "novel_no": 6,
           "role": "诺博士任帮会司库、盗金、遭断手枪击与改容之地；哈妮梦想去纽约整鼻与当应召女郎"
+        },
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "爱德怀尔德机场、东河仓库（黑帮会议与囚禁地）、宾夕法尼亚车站专列出发地、帕拉贡保险库"
         }
       ]
     },
@@ -109,12 +114,17 @@
       "name_zh": "拿骚",
       "country": "巴哈马",
       "fictional": false,
-      "appearance_count": 3,
+      "appearance_count": 4,
       "appearances": [
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
           "role": "邦德飞往牙买加途中经停地"
+        },
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "金手指护照签发地与藏金地之一"
         },
         {
           "novel": "for-your-eyes-only",
@@ -295,11 +305,11 @@
     },
     {
       "id": "london-hq",
-      "name_en": "Secret Service headquarters, Regent's Park",
-      "name_zh": "秘密情报局总部",
+      "name_en": "Secret Service Headquarters, Regent's Park, London",
+      "name_zh": "伦敦摄政公园秘密情报局总部",
       "country": "英国",
       "fictional": false,
-      "appearance_count": 2,
+      "appearance_count": 5,
       "appearances": [
         {
           "novel": "from-russia-with-love",
@@ -310,6 +320,21 @@
           "novel": "dr-no",
           "novel_no": 6,
           "role": "M办公室所在地，第II章换枪与交代任务之地；无线电呼号WWW"
+        },
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "邦德值夜班、M下达任务、档案室拼图金手指面容的地"
+        },
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "M办公室所在地，邦德接获霹雳弹行动命令之地"
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "邦德回国报到与刺杀M未遂的发生地；M办公室在八楼，旧房间号为12号"
         }
       ]
     },
@@ -354,26 +379,6 @@
       ]
     },
     {
-      "id": "london-hq",
-      "name_en": "Secret Service Headquarters, London",
-      "name_zh": "伦敦秘密情报局总部",
-      "country": "英国",
-      "fictional": false,
-      "appearance_count": 2,
-      "appearances": [
-        {
-          "novel": "thunderball",
-          "novel_no": 9,
-          "role": "M办公室所在地，邦德接获霹雳弹行动命令之地"
-        },
-        {
-          "novel": "man-with-golden-gun",
-          "novel_no": 13,
-          "role": "邦德回国报到与刺杀M未遂的发生地；M办公室在八楼，旧房间号为12号"
-        }
-      ]
-    },
-    {
       "id": "zurich",
       "name_en": "Zurich",
       "name_zh": "苏黎世",
@@ -399,12 +404,17 @@
       "name_zh": "Splendide酒店",
       "country": "法国",
       "fictional": true,
-      "appearance_count": 1,
+      "appearance_count": 2,
       "appearances": [
         {
           "novel": "casino-royale",
           "novel_no": 1,
           "role": "邦德下榻处，45号房被蒙茨夫妇窃听，支票藏于房门号牌之后"
+        },
+        {
+          "novel": "on-her-majestys-secret-service",
+          "novel_no": 11,
+          "role": "邦德与崔西下榻处，45号房；崔西遗书交到此处前台"
         }
       ]
     },
@@ -699,12 +709,17 @@
       "name_zh": "布莱兹俱乐部",
       "country": "英国",
       "fictional": true,
-      "appearance_count": 1,
+      "appearance_count": 2,
       "appearances": [
         {
           "novel": "moonraker",
           "novel_no": 3,
           "role": "伦敦圣詹姆斯区Park Street私人赌牌俱乐部,德拉克斯作弊与邦德设局之地"
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "M常去的俱乐部；第3章M在此午餐后回办公室读斯卡拉曼加档案"
         }
       ]
     },
@@ -1370,31 +1385,21 @@
     },
     {
       "id": "miami",
-      "name_en": "Miami, Florida",
+      "name_en": "Miami",
       "name_zh": "迈阿密",
       "country": "美国",
       "fictional": false,
-      "appearance_count": 1,
+      "appearance_count": 2,
       "appearances": [
         {
           "novel": "goldfinger",
           "novel_no": 7,
           "role": "开篇地，邦德在机场候机厅结识杜邦，弗洛里迪亚纳酒店牌局发生地"
-        }
-      ]
-    },
-    {
-      "id": "london-hq",
-      "name_en": "Secret Service Headquarters, Regent's Park, London",
-      "name_zh": "伦敦摄政公园秘密情报局总部",
-      "country": "英国",
-      "fictional": false,
-      "appearance_count": 1,
-      "appearances": [
+        },
         {
-          "novel": "goldfinger",
-          "novel_no": 7,
-          "role": "邦德值夜班、M下达任务、档案室拼图金手指面容的地"
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "第二枚核弹预定目标，拟布放于游艇港"
         }
       ]
     },
@@ -1534,21 +1539,6 @@
       ]
     },
     {
-      "id": "new-york",
-      "name_en": "New York City",
-      "name_zh": "纽约",
-      "country": "美国",
-      "fictional": false,
-      "appearance_count": 1,
-      "appearances": [
-        {
-          "novel": "goldfinger",
-          "novel_no": 7,
-          "role": "爱德怀尔德机场、东河仓库（黑帮会议与囚禁地）、宾夕法尼亚车站专列出发地、帕拉贡保险库"
-        }
-      ]
-    },
-    {
       "id": "norfolk",
       "name_en": "Norfolk, Virginia",
       "name_zh": "诺福克",
@@ -1560,21 +1550,6 @@
           "novel": "goldfinger",
           "novel_no": 7,
           "role": "苏联斯维尔德洛夫斯克级巡洋舰按计划停靠并接应黄金的地（未得逞）"
-        }
-      ]
-    },
-    {
-      "id": "nassau",
-      "name_en": "Nassau, Bahamas",
-      "name_zh": "拿骚",
-      "country": "巴哈马",
-      "fictional": false,
-      "appearance_count": 1,
-      "appearances": [
-        {
-          "novel": "goldfinger",
-          "novel_no": 7,
-          "role": "金手指护照签发地与藏金地之一"
         }
       ]
     },
@@ -1924,21 +1899,6 @@
       ]
     },
     {
-      "id": "miami",
-      "name_en": "Miami",
-      "name_zh": "迈阿密",
-      "country": "美国",
-      "fictional": false,
-      "appearance_count": 1,
-      "appearances": [
-        {
-          "novel": "thunderball",
-          "novel_no": 9,
-          "role": "第二枚核弹预定目标，拟布放于游艇港"
-        }
-      ]
-    },
-    {
       "id": "dreamy-pines",
       "name_en": "Dreamy Pines Motor Court",
       "name_zh": "梦松汽车旅馆",
@@ -2115,21 +2075,6 @@
           "novel": "spy-who-loved-me",
           "novel_no": 10,
           "role": "V.W.Z.总部所在地；库尔特与特鲁德原计划婚后定居地"
-        }
-      ]
-    },
-    {
-      "id": "hotel-splendide",
-      "name_en": "Hotel Splendide",
-      "name_zh": "光辉酒店",
-      "country": "法国",
-      "fictional": false,
-      "appearance_count": 1,
-      "appearances": [
-        {
-          "novel": "on-her-majestys-secret-service",
-          "novel_no": 11,
-          "role": "邦德与崔西下榻处，45号房；崔西遗书交到此处前台"
         }
       ]
     },
@@ -2505,21 +2450,6 @@
           "novel": "man-with-golden-gun",
           "novel_no": 13,
           "role": "伪装成疗养院的秘密医疗机构；邦德在此接受30天24次电休克治疗解除洗脑"
-        }
-      ]
-    },
-    {
-      "id": "blades",
-      "name_en": "Blades Club",
-      "name_zh": "Blades俱乐部",
-      "country": "英国",
-      "fictional": true,
-      "appearance_count": 1,
-      "appearances": [
-        {
-          "novel": "man-with-golden-gun",
-          "novel_no": 13,
-          "role": "M常去的俱乐部；第3章M在此午餐后回办公室读斯卡拉曼加档案"
         }
       ]
     },

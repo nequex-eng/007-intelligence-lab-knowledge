@@ -1,0 +1,6549 @@
+{
+  "schema_version": "1.0",
+  "generated": "2026-11-06",
+  "note": "人物关系索引：按无序人物对归并，双向可查。pair的a/b为规范id（字母序）；relations保留每条原始有向陈述（from/to/type/change/sources），不虚构反向类型；via_group注明原引用为合称（如spang-brothers）展开后的条目。查任意一端均可返回该对的全部关系。",
+  "pairs": [
+    {
+      "a": "agent-272",
+      "b": "bond",
+      "relations": [
+        {
+          "from": "agent-272",
+          "to": "bond",
+          "type": "被保护者与保护者",
+          "change": "第三夜在邦德掩护下成功穿越Zimmerstrasse抵达西柏林",
+          "sources": [
+            "octopussy:第2-2章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "agent-272",
+      "b": "trigger",
+      "relations": [
+        {
+          "from": "agent-272",
+          "to": "trigger",
+          "type": "猎物与猎手",
+          "change": "Trigger奉命在越境时射杀272，因邦德干预而未能得手",
+          "sources": [
+            "octopussy:第2-2章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "alexander-muir",
+      "b": "bond",
+      "relations": [
+        {
+          "from": "alexander-muir",
+          "to": "bond",
+          "type": "同事",
+          "change": "无变化",
+          "sources": [
+            "on-her-majestys-secret-service:第19-25章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "alfred-blacking",
+      "b": "bond",
+      "relations": [
+        {
+          "from": "alfred-blacking",
+          "to": "bond",
+          "type": "旧识",
+          "change": "旧识，布莱金安排邦德与金手指对局并暗中提醒",
+          "sources": [
+            "goldfinger:第SEVEN-NINE章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "ando",
+      "b": "bond",
+      "relations": [
+        {
+          "from": "ando",
+          "to": "bond",
+          "type": "协助者",
+          "change": "向邦德展示死亡城堡航拍图并安排其住进黑岛铃木家",
+          "sources": [
+            "you-only-live-twice:第12-13章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "annabel-chung",
+      "b": "dr-no",
+      "relations": [
+        {
+          "from": "annabel-chung",
+          "to": "dr-no",
+          "type": "上下级",
+          "change": "诺博士的眼线，任务完成后未再出现",
+          "sources": [
+            "dr-no:第IV-XV章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "auric-goldfinger",
+      "b": "billy-ring",
+      "relations": [
+        {
+          "from": "billy-ring",
+          "to": "auric-goldfinger",
+          "type": "合作者",
+          "change": "从被邀者到加入大满贯行动，事后下落不明",
+          "sources": [
+            "goldfinger:第SEVENTEEN-TWENTY-ONE章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "auric-goldfinger",
+      "b": "bond",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "auric-goldfinger",
+          "type": "对手",
+          "change": "从迈阿密牌局对手到高尔夫赌局对手，再到阶下囚与雇员，最后邦德在飞机上勒死他",
+          "sources": [
+            "goldfinger:第ONE-TWENTY-THREE章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "auric-goldfinger",
+          "to": "bond",
+          "type": "对手",
+          "change": "从牌桌对手到阶下囚、雇员，最终被邦德杀死",
+          "sources": [
+            "goldfinger:第TWO-TWENTY-THREE章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "auric-goldfinger",
+      "b": "foulks",
+      "relations": [
+        {
+          "from": "foulks",
+          "to": "auric-goldfinger",
+          "type": "球童",
+          "change": "金手指的球童，收钱掉球助其作弊",
+          "sources": [
+            "goldfinger:第EIGHT-NINE章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "auric-goldfinger",
+      "b": "helmut-springer",
+      "relations": [
+        {
+          "from": "helmut-springer",
+          "to": "auric-goldfinger",
+          "type": "被灭口者",
+          "change": "拒绝合作后当晚与打手哈普古德一同“失足坠楼”被灭口",
+          "sources": [
+            "goldfinger:第SEVENTEEN-NINETEEN章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "auric-goldfinger",
+      "b": "jack-strap",
+      "relations": [
+        {
+          "from": "jack-strap",
+          "to": "auric-goldfinger",
+          "type": "合作者",
+          "change": "从被邀者到加入大满贯行动，事后下落不明",
+          "sources": [
+            "goldfinger:第SEVENTEEN-TWENTY-ONE章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "auric-goldfinger",
+      "b": "jed-midnight",
+      "relations": [
+        {
+          "from": "jed-midnight",
+          "to": "auric-goldfinger",
+          "type": "合作者",
+          "change": "从被邀者到首个加入大满贯行动的黑帮首脑，事后下落不明，莱特怀疑其安排金手指逃往古巴",
+          "sources": [
+            "goldfinger:第SEVENTEEN-TWENTY-ONE章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "auric-goldfinger",
+      "b": "jill-masterton",
+      "relations": [
+        {
+          "from": "auric-goldfinger",
+          "to": "jill-masterton",
+          "type": "雇主与受害者",
+          "change": "从雇主与女伴到吉尔背叛后将其谋杀",
+          "sources": [
+            "goldfinger:第TWO-TWENTY-THREE章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "jill-masterton",
+          "to": "auric-goldfinger",
+          "type": "雇主与受害者",
+          "change": "从女伴到因与邦德同行而遭金手指全身涂金漆谋杀",
+          "sources": [
+            "goldfinger:第FOUR-FOURTEEN章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "auric-goldfinger",
+      "b": "junius-du-pont",
+      "relations": [
+        {
+          "from": "junius-du-pont",
+          "to": "auric-goldfinger",
+          "type": "牌友与受害者",
+          "change": "从牌友到被骗25,000美元的受害者，金手指被迫退款50,000美元",
+          "sources": [
+            "goldfinger:第ONE-TWELVE章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "auric-goldfinger",
+      "b": "mr-solo",
+      "relations": [
+        {
+          "from": "mr-solo",
+          "to": "auric-goldfinger",
+          "type": "合作者",
+          "change": "从被邀者到有条件加入大满贯行动，事后下落不明",
+          "sources": [
+            "goldfinger:第SEVENTEEN-TWENTY-ONE章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "auric-goldfinger",
+      "b": "oddjob",
+      "relations": [
+        {
+          "from": "auric-goldfinger",
+          "to": "oddjob",
+          "type": "主仆",
+          "change": "从主仆到共谋，金手指劫机后仍带奥德·约伯同行直至其死亡",
+          "sources": [
+            "goldfinger:第TWO-TWENTY-THREE章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "oddjob",
+          "to": "auric-goldfinger",
+          "type": "主仆",
+          "change": "始终为主仆，奥德·约伯为金手指杀人、行刑、劫机，直至被吸出机窗身亡",
+          "sources": [
+            "goldfinger:第SEVEN-TWENTY-THREE章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "auric-goldfinger",
+      "b": "pussy-galore",
+      "relations": [
+        {
+          "from": "pussy-galore",
+          "to": "auric-goldfinger",
+          "type": "合作者转盟友",
+          "change": "从金手指的合作方到在劫机航班上暗助邦德、最后与邦德相拥获救",
+          "sources": [
+            "goldfinger:第SEVENTEEN-TWENTY-THREE章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "auric-goldfinger",
+          "to": "pussy-galore",
+          "type": "合作者",
+          "change": "雇普茜提供护士人手，劫机时普茜倒戈助邦德",
+          "sources": [
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bartsch",
+      "b": "tallon",
+      "relations": [
+        {
+          "from": "bartsch",
+          "to": "tallon",
+          "type": "凶手与受害者",
+          "change": "被抽签选出枪杀塔隆后自杀",
+          "sources": [
+            "moonraker:第IX-IX章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "basil",
+      "b": "le-chiffre",
+      "relations": [
+        {
+          "from": "basil",
+          "to": "le-chiffre",
+          "type": "保镖与雇主",
+          "change": "随勒·希弗行动至死",
+          "sources": [
+            "casino-royale:第11-19章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "basildon",
+      "b": "dangerfield",
+      "relations": [
+        {
+          "from": "dangerfield",
+          "to": "basildon",
+          "type": "牌友",
+          "change": "无变化",
+          "sources": [
+            "moonraker:第IV-VII章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "basildon",
+      "b": "drax",
+      "relations": [
+        {
+          "from": "basildon",
+          "to": "drax",
+          "type": "俱乐部主席与会员",
+          "change": "由敬佩德拉克斯到请邦德出手制止其作弊",
+          "sources": [
+            "moonraker:第III-VII章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bayer",
+      "b": "blofeld",
+      "relations": [
+        {
+          "from": "bayer",
+          "to": "blofeld",
+          "type": "同僚",
+          "change": "无变化",
+          "sources": [
+            "thunderball:第6-6章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "benz",
+      "b": "darko-kerim",
+      "relations": [
+        {
+          "from": "benz",
+          "to": "darko-kerim",
+          "type": "敌对",
+          "change": "刺杀克里姆得手后被其临死反杀，同归于尽",
+          "sources": [
+            "from-russia-with-love:第Sixteen-Twenty-Three章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "benz",
+      "b": "goldfarb",
+      "relations": [
+        {
+          "from": "goldfarb",
+          "to": "benz",
+          "type": "同僚",
+          "change": "无变化",
+          "sources": [
+            "from-russia-with-love:第Sixteen-Twenty-Two章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "binswanger",
+      "b": "dexter",
+      "relations": [
+        {
+          "from": "binswanger",
+          "to": "dexter",
+          "type": "合作者",
+          "change": "无变化",
+          "sources": [
+            "live-and-let-die:第IV-IV章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "blabbermouth-foley",
+      "b": "felix-leiter",
+      "relations": [
+        {
+          "from": "blabbermouth-foley",
+          "to": "felix-leiter",
+          "type": "敌对转友好",
+          "change": "由看守者变为与莱特谈爵士乐的朋友，击晕莱特后将其弃于医院外并求其保密",
+          "sources": [
+            "live-and-let-die:第V-IX章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "blabbermouth-foley",
+      "b": "mr-big",
+      "relations": [
+        {
+          "from": "blabbermouth-foley",
+          "to": "mr-big",
+          "type": "手下",
+          "change": "无变化",
+          "sources": [
+            "live-and-let-die:第V-IX章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "blofeld",
+      "b": "bond",
+      "relations": [
+        {
+          "from": "blofeld",
+          "to": "bond",
+          "type": "对手",
+          "change": "布洛菲尔德在第24章确认已逃脱，未被抓获",
+          "sources": [
+            "thunderball:第5-24章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "bond",
+          "to": "blofeld",
+          "type": "死敌",
+          "change": "追捕一年无果，化名潜入其诊所，突袭时让其逃脱，最终崔西死于其枪下",
+          "sources": [
+            "on-her-majestys-secret-service:第1-27章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "blofeld",
+          "to": "bond",
+          "type": "死敌",
+          "change": "一年追捕无果；邦德化名潜入其诊所，突袭时布洛菲尔德逃脱并最终杀害崔西",
+          "sources": [
+            "on-her-majestys-secret-service:第2-27章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "bond",
+          "to": "blofeld",
+          "type": "仇敌",
+          "change": "由追捕对象变为血仇对手，邦德认出萨特汉就是杀妻仇人，拒绝上报、私自复仇，最终徒手扼死对方",
+          "sources": [
+            "you-only-live-twice:第1-22章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "blofeld",
+          "to": "bond",
+          "type": "仇敌",
+          "change": "由邦德的追捕对象变为血仇对手，最终被邦德徒手扼死",
+          "sources": [
+            "you-only-live-twice:第7-20章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "blofeld",
+      "b": "borraud",
+      "relations": [
+        {
+          "from": "borraud",
+          "to": "blofeld",
+          "type": "上下级",
+          "change": "因违反SPECTRE纪律被布洛菲尔德以电椅处决",
+          "sources": [
+            "thunderball:第6-6章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "blofeld",
+      "b": "domingue",
+      "relations": [
+        {
+          "from": "domingue",
+          "to": "blofeld",
+          "type": "同僚",
+          "change": "布洛菲尔德以其为幌子处决真正的罪人博罗后对其表示满意",
+          "sources": [
+            "thunderball:第6-6章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "blofeld",
+      "b": "draco",
+      "relations": [
+        {
+          "from": "blofeld",
+          "to": "draco",
+          "type": "仇敌",
+          "change": "布洛菲尔德收买德拉科三名手下，两人结仇",
+          "sources": [
+            "on-her-majestys-secret-service:第2-27章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "blofeld",
+      "b": "irma-bunt",
+      "relations": [
+        {
+          "from": "irma-bunt",
+          "to": "blofeld",
+          "type": "上下级",
+          "change": "始终为布洛菲尔德效命；第27章推断她同车参与枪杀崔西",
+          "sources": [
+            "on-her-majestys-secret-service:第9-26章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "blofeld",
+          "to": "irma-bunt",
+          "type": "夫妻与同谋",
+          "change": "夫妻与同谋，艾玛认出邦德并协助审问，布洛菲尔德死后她亦死于城堡毁灭",
+          "sources": [
+            "you-only-live-twice:第7-20章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "irma-bunt",
+          "to": "blofeld",
+          "type": "夫妻与同谋",
+          "change": "夫妻与同谋，共同经营死亡城堡",
+          "sources": [
+            "you-only-live-twice:第7-20章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "blofeld",
+      "b": "largo",
+      "relations": [
+        {
+          "from": "blofeld",
+          "to": "largo",
+          "type": "上下级",
+          "change": "始终为SPECTRE最高首领，拉戈为其指定继承人",
+          "sources": [
+            "thunderball:第5-24章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "largo",
+          "to": "blofeld",
+          "type": "上下级",
+          "change": "由布洛菲尔德的副手与指定继承人转为执行欧米茄计划的现场最高指挥",
+          "sources": [
+            "thunderball:第10-23章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "blofeld",
+      "b": "lippe",
+      "relations": [
+        {
+          "from": "lippe",
+          "to": "blofeld",
+          "type": "上下级",
+          "change": "利普因误事被布洛菲尔德下令在寄信后24小时内处决，实际先被6号特工以手榴弹炸死",
+          "sources": [
+            "thunderball:第2-8章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "blofeld",
+          "to": "lippe",
+          "type": "上下级",
+          "change": "利普误事后布洛菲尔德下令处决之",
+          "sources": [
+            "thunderball:第5-24章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "blofeld",
+      "b": "sciacca",
+      "relations": [
+        {
+          "from": "sciacca",
+          "to": "blofeld",
+          "type": "同僚",
+          "change": "无变化",
+          "sources": [
+            "thunderball:第6-6章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "blofeld",
+      "b": "tiger-tanaka",
+      "relations": [
+        {
+          "from": "tiger-tanaka",
+          "to": "blofeld",
+          "type": "敌对",
+          "change": "田中发现死亡城堡主人的黑龙会特工跟踪自己，视对方为主要敌人",
+          "sources": [
+            "you-only-live-twice:第1-22章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "blofeld",
+          "to": "tiger-tanaka",
+          "type": "敌对",
+          "change": "布洛菲尔德雇佣黑龙会余党为守卫并派特工跟踪田中，视田中为主要敌人",
+          "sources": [
+            "you-only-live-twice:第7-20章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "blofeld",
+      "b": "tracy",
+      "relations": [
+        {
+          "from": "blofeld",
+          "to": "tracy",
+          "type": "仇敌",
+          "change": "女王密使结尾枪杀崔西",
+          "sources": [
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bloody-morgan",
+      "b": "mr-big",
+      "relations": [
+        {
+          "from": "bloody-morgan",
+          "to": "mr-big",
+          "type": "宝藏前主与窃取者",
+          "change": "Mr Big盗掘其宝藏并以之资助苏联间谍活动",
+          "sources": [
+            "live-and-let-die:第II-XXII章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "boothroyd",
+      "relations": [
+        {
+          "from": "boothroyd",
+          "to": "bond",
+          "type": "同事",
+          "change": "初见即否定邦德的贝雷塔为女士枪，两人互无好感；邦德结尾在密电中讽刺其配枪对付不了火焰喷射器",
+          "sources": [
+            "dr-no:第II-XX章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "boris",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "boris",
+          "type": "保护对象与替身",
+          "change": "邦德冒充鲍里斯引出刺客，任务完成后鲍里斯获救",
+          "sources": [
+            "spy-who-loved-me:第Ten-Fifteen章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "boris",
+          "to": "bond",
+          "type": "保护对象与替身",
+          "change": "邦德冒充其引出刺客，任务完成后鲍里斯获救",
+          "sources": [
+            "spy-who-loved-me:第Eleven-Eleven章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "brevett",
+      "relations": [
+        {
+          "from": "brevett",
+          "to": "bond",
+          "type": "俱乐部职员",
+          "change": "无变化",
+          "sources": [
+            "moonraker:第IV-XIX章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "chief-of-staff",
+      "relations": [
+        {
+          "from": "chief-of-staff",
+          "to": "bond",
+          "type": "同事",
+          "change": "无变化",
+          "sources": [
+            "moonraker:第II-IX章",
+            "diamonds-are-forever:第3-24章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "chief-of-staff",
+          "to": "bond",
+          "type": "朋友",
+          "change": "始终是邦德在总部的密友，本书中无变化",
+          "sources": [
+            "dr-no:第III-III章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "chief-of-staff",
+          "to": "bond",
+          "type": "朋友与同事",
+          "change": "为邦德做任务简报并安排掩护身份",
+          "sources": [
+            "you-only-live-twice:第3-3章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "chief-of-staff",
+          "to": "bond",
+          "type": "好友",
+          "change": "力主先送邦德去The Park观察治疗而非直接见M；失败后仍尽力执行M的命令",
+          "sources": [
+            "man-with-golden-gun:第2-3章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "chief-of-staff",
+          "to": "bond",
+          "type": "上下级",
+          "change": "无变化",
+          "sources": [
+            "octopussy:第2-2章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "colonel-boris",
+      "relations": [
+        {
+          "from": "colonel-boris",
+          "to": "bond",
+          "type": "洗脑者与被洗脑者",
+          "change": "邦德康复后对其灌输的意识形态彻底抛弃",
+          "sources": [
+            "man-with-golden-gun:第1-1章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "colonel-johns",
+      "relations": [
+        {
+          "from": "colonel-johns",
+          "to": "bond",
+          "type": "协助者",
+          "change": "为邦德提供武器、证件、地图与越境路线后分手",
+          "sources": [
+            "for-your-eyes-only:第2-2章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "colonel-smithers",
+      "relations": [
+        {
+          "from": "colonel-smithers",
+          "to": "bond",
+          "type": "情报提供者",
+          "change": "向邦德交代案情并请求情报局将金手指绳之以法、追回黄金",
+          "sources": [
+            "goldfinger:第SIX-SEVEN章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "corsican-gunman",
+      "relations": [
+        {
+          "from": "corsican-gunman",
+          "to": "bond",
+          "type": "加害者与受害者",
+          "change": "牌桌暗杀失败，别墅中制服邦德",
+          "sources": [
+            "casino-royale:第11-19章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "damon",
+      "relations": [
+        {
+          "from": "damon",
+          "to": "bond",
+          "type": "上下级",
+          "change": "无变化",
+          "sources": [
+            "live-and-let-die:第II-II章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "dankwaerts",
+      "relations": [
+        {
+          "from": "dankwaerts",
+          "to": "bond",
+          "type": "协作",
+          "change": "一次联合探访",
+          "sources": [
+            "diamonds-are-forever:第3-4章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "darko-kerim",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "darko-kerim",
+          "type": "盟友与朋友",
+          "change": "初为上级站长与下属关系，数日并肩作战后成为邦德心中少数真正朋友之一；克里姆之死令邦德自责并决心查明真相",
+          "sources": [
+            "from-russia-with-love:第Four-Twenty-Eight章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "darko-kerim",
+          "to": "bond",
+          "type": "盟友与朋友",
+          "change": "初为东道主站长，数日同生共死后成为邦德挚友；为保护邦德与任务而死",
+          "sources": [
+            "from-russia-with-love:第Twelve-Twenty-Three章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "dexter",
+      "relations": [
+        {
+          "from": "dexter",
+          "to": "bond",
+          "type": "合作者",
+          "change": "由接待方变为分工合作，邦德赴佛罗里达后不再出现",
+          "sources": [
+            "live-and-let-die:第I-IV章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "dexter-smythe",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "dexter-smythe",
+          "type": "调查者与嫌犯",
+          "change": "初见为审讯，Smythe自白后邦德告知一周后押解回伦敦，离去前有意不派人看守，近乎默许其自杀",
+          "sources": [
+            "octopussy:第1-3章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "dexter-smythe",
+          "to": "bond",
+          "type": "嫌犯与调查者",
+          "change": "由抵赖到完整自白，邦德离去后Smythe同日身亡",
+          "sources": [
+            "octopussy:第1-1章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "dikko-henderson",
+      "relations": [
+        {
+          "from": "dikko-henderson",
+          "to": "bond",
+          "type": "同事与朋友",
+          "change": "由接机人变为邦德的掩护上司与向导，最后与其他人一起到黑岛寻找邦德",
+          "sources": [
+            "you-only-live-twice:第1-22章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "doctor-royale",
+      "relations": [
+        {
+          "from": "doctor-royale",
+          "to": "bond",
+          "type": "医生与病人",
+          "change": "无变化",
+          "sources": [
+            "casino-royale:第19-19章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "domino",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "domino",
+          "type": "恋人兼盟友",
+          "change": "由医生与病人转为情人，多米诺为其冒死上飞碟号做内应",
+          "sources": [
+            "thunderball:第1-24章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "domino",
+          "to": "bond",
+          "type": "恋人兼盟友",
+          "change": "由初识的调情对象转为恋人，她在水下决战中救了邦德一命",
+          "sources": [
+            "thunderball:第11-24章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "dr-fanshawe",
+      "relations": [
+        {
+          "from": "dr-fanshawe",
+          "to": "bond",
+          "type": "案件提供者与接案者",
+          "change": "陈述案情后离场",
+          "sources": [
+            "octopussy:第3-3章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "dr-no",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "dr-no",
+          "type": "敌对",
+          "change": "从素未谋面的嫌疑人到面对面谈判的死敌；邦德以鸟粪活埋诺博士报仇",
+          "sources": [
+            "dr-no:第II-XX章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "dr-no",
+          "to": "bond",
+          "type": "敌对",
+          "change": "起初只把邦德当作又一个入侵者加以监视与暗杀；见面后视其为值得对话的对手与实验对象，最终被邦德以鸟粪活埋",
+          "sources": [
+            "dr-no:第III-XIX章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "draco",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "draco",
+          "type": "岳父与盟友",
+          "change": "从被绑架者到忘年交；德拉科视邦德为女婿，邦德视其为朋友与盟友",
+          "sources": [
+            "on-her-majestys-secret-service:第1-27章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "draco",
+          "to": "bond",
+          "type": "岳父与盟友",
+          "change": "从绑架邦德的幕后人到女婿的盟友与岳父",
+          "sources": [
+            "on-her-majestys-secret-service:第4-27章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "drax",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "drax",
+          "type": "对手",
+          "change": "由受命查牌的棋子变为识破其真实身份并挫败其计划的对手",
+          "sources": [
+            "moonraker:第I-XXV章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "drax",
+          "to": "bond",
+          "type": "对手",
+          "change": "由被调查的牌友变为邦德的死敌,最后随潜艇葬身北海",
+          "sources": [
+            "moonraker:第II-XXIV章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "enrico-colombo",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "enrico-colombo",
+          "type": "由敌转友",
+          "change": "第4篇初为邦德奉命调查甚至考虑击杀的目标,经船上对质后结盟并联手摧毁毒网,结尾互称朋友",
+          "sources": [
+            "for-your-eyes-only:第1-5章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "enrico-colombo",
+          "to": "bond",
+          "type": "由敌转友",
+          "change": "窃听邦德后设局俘获他,船上对质后结盟,联手摧毁毒网",
+          "sources": [
+            "for-your-eyes-only:第4-4章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "ernie-cureo",
+      "relations": [
+        {
+          "from": "ernie-cureo",
+          "to": "bond",
+          "type": "保护者",
+          "change": "包车护送邦德，枪战中重伤，邦德为其复仇心切",
+          "sources": [
+            "diamonds-are-forever:第15-21章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "fallon",
+      "relations": [
+        {
+          "from": "fallon",
+          "to": "bond",
+          "type": "部下",
+          "change": "率9名潜水员随邦德水下作战",
+          "sources": [
+            "thunderball:第22-23章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "fawcett",
+      "relations": [
+        {
+          "from": "fawcett",
+          "to": "bond",
+          "type": "通讯中转人",
+          "change": "无变化",
+          "sources": [
+            "casino-royale:第1-1章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "felix-leiter",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "felix-leiter",
+          "type": "盟友",
+          "change": "牌桌相识，莱特在邦德破产时送来3200万法郎救场，此后并肩作战",
+          "sources": [
+            "casino-royale:第1-27章",
+            "live-and-let-die:第I-XXIII章",
+            "diamonds-are-forever:第2-25章",
+            "goldfinger:第ONE-TWENTY-THREE章",
+            "thunderball:第1-24章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "felix-leiter",
+          "to": "bond",
+          "type": "盟友",
+          "change": "牌桌相识，邦德破产时送来3200万法郎“马歇尔援助”，并在枪击未遂后取走拐杖枪",
+          "sources": [
+            "casino-royale:第4-13章",
+            "live-and-let-die:第I-XVII章",
+            "diamonds-are-forever:第8-21章",
+            "goldfinger:第TWENTY-ONE-TWENTY-TWO章",
+            "thunderball:第12-24章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "bond",
+          "to": "felix-leiter",
+          "type": "挚友与战友",
+          "change": "多年老友重逢于Thunderbird酒店，莱特在火车上救了邦德一命；邦德受伤后莱特断腿，两人同获牙买加警察奖章",
+          "sources": [
+            "man-with-golden-gun:第1-17章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "felix-leiter",
+          "to": "bond",
+          "type": "挚友与战友",
+          "change": "见邦德条目",
+          "sources": [
+            "man-with-golden-gun:第8-16章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "fidele-barbey",
+      "relations": [
+        {
+          "from": "fidele-barbey",
+          "to": "bond",
+          "type": "朋友",
+          "change": "邀邦德同行寻鱼,结尾一同面对Krest之死",
+          "sources": [
+            "for-your-eyes-only:第5-5章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "frasso",
+      "relations": [
+        {
+          "from": "frasso",
+          "to": "bond",
+          "type": "敌对",
+          "change": "追捕邦德未遂，结尾被斯班格下令换人",
+          "sources": [
+            "diamonds-are-forever:第18-19章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "gala-brand",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "gala-brand",
+          "type": "搭档",
+          "change": "由M的下属受命调查牌局,到并肩阻止导弹袭击伦敦的搭档,最后互相告别",
+          "sources": [
+            "moonraker:第I-XXV章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "gala-brand",
+          "to": "bond",
+          "type": "搭档",
+          "change": "由互不信任的同事变为生死搭档,最后她选择与未婚夫结婚,与邦德告别",
+          "sources": [
+            "moonraker:第IX-XXV章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "governor-nassau",
+      "relations": [
+        {
+          "from": "governor-nassau",
+          "to": "bond",
+          "type": "晚宴主人与客人",
+          "change": "由客套寒暄转为彻夜长谈",
+          "sources": [
+            "for-your-eyes-only:第3-3章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "griffon-or",
+      "relations": [
+        {
+          "from": "griffon-or",
+          "to": "bond",
+          "type": "引路人",
+          "change": "无变化",
+          "sources": [
+            "on-her-majestys-secret-service:第6-7章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "halloran",
+      "relations": [
+        {
+          "from": "halloran",
+          "to": "bond",
+          "type": "接待者",
+          "change": "无变化",
+          "sources": [
+            "live-and-let-die:第I-I章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "hannes-oberhauser",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "hannes-oberhauser",
+          "type": "亦父亦友",
+          "change": "战前Oberhauser教少年邦德滑雪，邦德视其为父亲般人物；得知其被Smythe谋杀后主动请缨追查凶手",
+          "sources": [
+            "octopussy:第1-3章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "hannes-oberhauser",
+          "to": "bond",
+          "type": "亦父亦友",
+          "change": "战前师生情谊，邦德视其为父亲般人物；其死成为邦德主动追查此案的动机",
+          "sources": [
+            "octopussy:第1-1章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "harling",
+      "relations": [
+        {
+          "from": "harling",
+          "to": "bond",
+          "type": "合作者",
+          "change": "始终配合邦德与莱特的调查",
+          "sources": [
+            "thunderball:第11-20章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "hawker",
+      "relations": [
+        {
+          "from": "hawker",
+          "to": "bond",
+          "type": "球童",
+          "change": "球童与雇主，霍克两次向邦德揭发金手指作弊并配合换球计",
+          "sources": [
+            "goldfinger:第EIGHT-NINE章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "hendriks",
+      "relations": [
+        {
+          "from": "hendriks",
+          "to": "bond",
+          "type": "猎杀目标",
+          "change": "受命找到并杀死邦德；通过伤疤确认邦德身份后在火车上拔枪，被邦德先开枪击毙",
+          "sources": [
+            "man-with-golden-gun:第7-14章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "honeychile-rider",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "honeychile-rider",
+          "type": "同伴与恋人",
+          "change": "海滩初遇互不信任，邦德起初只当她是累赘；共患难后互相依赖，邦德承诺带她去纽约做鼻子手术并为她找工作；结尾两人履行奴隶时间约定成为恋人",
+          "sources": [
+            "dr-no:第II-XX章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "honeychile-rider",
+          "to": "bond",
+          "type": "同伴与恋人",
+          "change": "初遇时以为邦德来偷贝壳并持刀戒备；得知邦德身份后主动追随，多次救邦德于危难；结尾以奴隶时间约定与邦德共度一夜",
+          "sources": [
+            "dr-no:第VIII-XX章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "horst-uhlmann",
+      "relations": [
+        {
+          "from": "horst-uhlmann",
+          "to": "bond",
+          "type": "对手",
+          "change": "枪战中被邦德击伤，次日死亡",
+          "sources": [
+            "spy-who-loved-me:第Eleven-Eleven章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "hugill",
+      "relations": [
+        {
+          "from": "hugill",
+          "to": "bond",
+          "type": "盟友",
+          "change": "邦德以其名义作掩护，莱特持邦德手令向其取装备",
+          "sources": [
+            "man-with-golden-gun:第4-11章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "instructor",
+      "relations": [
+        {
+          "from": "instructor",
+          "to": "bond",
+          "type": "教官",
+          "change": "无变化",
+          "sources": [
+            "moonraker:第I-I章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "irma-bunt",
+      "relations": [
+        {
+          "from": "irma-bunt",
+          "to": "bond",
+          "type": "仇敌",
+          "change": "她一眼认出化装后的邦德，促成审问与处决",
+          "sources": [
+            "you-only-live-twice:第7-20章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "jack-spang",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "jack-spang",
+          "type": "敌对",
+          "change": "由调查对象变为生死仇敌，邦德先后致塞拉菲莫与杰克·斯班格死亡",
+          "sources": [
+            "diamonds-are-forever:第2-25章"
+          ],
+          "via_group": "spang-brothers"
+        },
+        {
+          "from": "jack-spang",
+          "to": "bond",
+          "type": "敌对",
+          "change": "初在哈顿花园会面时互不知底，结尾杰克下令灭口邦德与蒂芙尼，终被邦德以博福斯炮击落直升机而死",
+          "sources": [
+            "diamonds-are-forever:第2-25章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "jill-masterton",
+      "relations": [
+        {
+          "from": "jill-masterton",
+          "to": "bond",
+          "type": "情人",
+          "change": "一夜情后邦德将杜邦的10,000美元酬金送给她，吉尔死前嘱托妹妹将戒指转交邦德",
+          "sources": [
+            "goldfinger:第FOUR-FOURTEEN章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "judy-havelock",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "judy-havelock",
+          "type": "搭档",
+          "change": "第2篇初为对峙的陌生人,邦德起初想打晕捆绑她,后结盟分工复仇,结尾邦德带她回加拿大并去伦敦见M,关系由敌意转为信任与亲近",
+          "sources": [
+            "for-your-eyes-only:第1-5章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "judy-havelock",
+          "to": "bond",
+          "type": "搭档",
+          "change": "初以弓箭威胁邦德,后结盟分工复仇,结尾随邦德去伦敦见M",
+          "sources": [
+            "for-your-eyes-only:第2-2章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "junius-du-pont",
+      "relations": [
+        {
+          "from": "junius-du-pont",
+          "to": "bond",
+          "type": "雇主",
+          "change": "从牌桌旧识到雇佣邦德查金手指作弊，事后将10,000美元酬金塞给邦德",
+          "sources": [
+            "goldfinger:第ONE-TWELVE章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "kannushi",
+      "relations": [
+        {
+          "from": "kannushi",
+          "to": "bond",
+          "type": "庇护者",
+          "change": "接纳邦德上岛并为其使命祝福，最后协助隐瞒邦德行踪",
+          "sources": [
+            "you-only-live-twice:第13-22章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "kazama",
+      "relations": [
+        {
+          "from": "kazama",
+          "to": "bond",
+          "type": "敌对",
+          "change": "拷打邦德时被邦德反击致伤",
+          "sources": [
+            "you-only-live-twice:第19-19章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "kenneth-snowman",
+      "relations": [
+        {
+          "from": "kenneth-snowman",
+          "to": "bond",
+          "type": "协助者与委托人",
+          "change": "由初见戒备到坦言竞拍底线并让出妻子座位B.5给邦德，拍卖中配合邦德辨认抬价者",
+          "sources": [
+            "octopussy:第3-3章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "kidd",
+      "relations": [
+        {
+          "from": "kidd",
+          "to": "bond",
+          "type": "敌对",
+          "change": "女王号A49舱被邦德先开枪击毙，尸体被推出舷窗",
+          "sources": [
+            "diamonds-are-forever:第6-24章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "kissy-suzuki",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "kissy-suzuki",
+          "type": "恋人",
+          "change": "由陌生人变为潜水搭档与恋人，邦德失忆后喜悦子谎称他就是渔民塔罗·托多罗基并与他同居，最后邦德因符拉迪沃斯托克一词恢复记忆线索而离岛",
+          "sources": [
+            "you-only-live-twice:第1-22章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "kissy-suzuki",
+          "to": "bond",
+          "type": "恋人",
+          "change": "由房东女儿与潜水搭档变为恋人，邦德失忆后她谎称他是渔民塔罗·托多罗基，最后主动送他离岛去寻回记忆",
+          "sources": [
+            "you-only-live-twice:第12-22章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "kono",
+      "relations": [
+        {
+          "from": "kono",
+          "to": "bond",
+          "type": "敌对",
+          "change": "抓获邦德并主持审问，最后按布洛菲尔德命令准备刑具",
+          "sources": [
+            "you-only-live-twice:第18-19章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "kotze",
+      "relations": [
+        {
+          "from": "kotze",
+          "to": "bond",
+          "type": "敌人转证人",
+          "change": "由SPECTRE物理学家转为被捕后供出SPECTRE内情的证人",
+          "sources": [
+            "thunderball:第5-24章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "kristatos",
+      "relations": [
+        {
+          "from": "kristatos",
+          "to": "bond",
+          "type": "情报贩子与买家",
+          "change": "以情报换取邦德3万美元,最后在Santa Maria港被邦德击毙",
+          "sources": [
+            "for-your-eyes-only:第4-4章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "kuro-doctor",
+      "relations": [
+        {
+          "from": "kuro-doctor",
+          "to": "bond",
+          "type": "医生与病人",
+          "change": "为失忆的邦德治伤并指导喜悦子护理",
+          "sources": [
+            "you-only-live-twice:第22-22章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "largo",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "largo",
+          "type": "敌人",
+          "change": "由初见的赌桌对手转为生死对决的敌人，邦德在水下决战中与拉戈搏斗",
+          "sources": [
+            "thunderball:第1-24章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "largo",
+          "to": "bond",
+          "type": "敌人",
+          "change": "由赌桌对手转为水下生死搏斗的敌人，最终被多米诺以鱼枪刺穿脖颈而死",
+          "sources": [
+            "thunderball:第10-23章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "le-chiffre",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "le-chiffre",
+          "type": "对手",
+          "change": "从牌桌对手到酷刑施加者，勒·希弗死后邦德转而以SMERSH为追捕目标",
+          "sources": [
+            "casino-royale:第1-27章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "le-chiffre",
+          "to": "bond",
+          "type": "对手",
+          "change": "牌桌上被邦德击垮赌本，随后绑架并酷刑逼问支票，最终被SMERSH处决",
+          "sources": [
+            "casino-royale:第1-18章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "lippe",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "lippe",
+          "type": "仇敌",
+          "change": "由疗养院偶遇的对头转为你死我活的仇敌，邦德以土耳其浴室高温报复利普",
+          "sources": [
+            "thunderball:第1-24章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "lippe",
+          "to": "bond",
+          "type": "仇敌",
+          "change": "偷听邦德向总部查询其纹身后企图以牵引床谋杀邦德，邦德报复将其困于土耳其浴室致其二度烧伤",
+          "sources": [
+            "thunderball:第2-8章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "lisl-baum",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "lisl-baum",
+          "type": "情人",
+          "change": "第4篇初为Colombo安排接近邦德的诱饵,结尾Colombo把她在Danielli酒店68号房的钥匙交给邦德",
+          "sources": [
+            "for-your-eyes-only:第1-5章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "lisl-baum",
+          "to": "bond",
+          "type": "情人",
+          "change": "由餐厅争吵戏相识,约定威尼斯见面,结尾邦德拿到她在Danielli酒店68号房的钥匙",
+          "sources": [
+            "for-your-eyes-only:第4-4章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "liz-krest",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "liz-krest",
+          "type": "同情者",
+          "change": "第5篇邦德同情受虐的Liz,结尾答应随她乘游艇去蒙巴萨,但怀疑她可能是杀夫凶手",
+          "sources": [
+            "for-your-eyes-only:第1-5章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "liz-krest",
+          "to": "bond",
+          "type": "倾诉对象",
+          "change": "夜里向邦德倾诉孤独,结尾邀邦德同乘游艇去蒙巴萨",
+          "sources": [
+            "for-your-eyes-only:第5-5章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "lobiniere",
+      "relations": [
+        {
+          "from": "lobiniere",
+          "to": "bond",
+          "type": "协作",
+          "change": "为邦德化装",
+          "sources": [
+            "diamonds-are-forever:第3-3章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "loelia-ponsonby",
+      "relations": [
+        {
+          "from": "loelia-ponsonby",
+          "to": "bond",
+          "type": "同事",
+          "change": "无变化",
+          "sources": [
+            "moonraker:第I-XXV章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "loelia-ponsonby",
+          "to": "bond",
+          "type": "上下级",
+          "change": "无变化",
+          "sources": [
+            "from-russia-with-love:第Thirteen-Thirteen章",
+            "thunderball:第7-7章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "m",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "m",
+          "type": "上下级",
+          "change": "M下达任务并派薇丝朋协助，邦德起初不满被派助手，结尾直接向伦敦报告薇丝朋之死",
+          "sources": [
+            "casino-royale:第1-27章",
+            "live-and-let-die:第I-XXIII章",
+            "moonraker:第I-XXV章",
+            "diamonds-are-forever:第2-25章",
+            "from-russia-with-love:第Four-Twenty-Eight章",
+            "dr-no:第II-XX章",
+            "thunderball:第1-24章",
+            "you-only-live-twice:第1-22章",
+            "man-with-golden-gun:第1-17章",
+            "octopussy:第1-3章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "m",
+          "to": "bond",
+          "type": "上下级",
+          "change": "下达任务，结尾邦德通过联络官向其报告薇丝朋为双面间谍",
+          "sources": [
+            "casino-royale:第2-27章",
+            "live-and-let-die:第II-XXIII章",
+            "moonraker:第I-XXV章",
+            "diamonds-are-forever:第2-25章",
+            "dr-no:第II-XX章",
+            "goldfinger:第FIVE-TWENTY-TWO章",
+            "for-your-eyes-only:第2-4章",
+            "thunderball:第1-8章",
+            "on-her-majestys-secret-service:第8-22章",
+            "you-only-live-twice:第2-21章",
+            "man-with-golden-gun:第1-17章",
+            "octopussy:第2-3章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "m",
+          "to": "bond",
+          "type": "上司与下属",
+          "change": "始终信任邦德，贝尔格莱德电话中把继续与否交由邦德自决",
+          "sources": [
+            "from-russia-with-love:第Four-Twenty-Four章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "maria-freudenstein",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "maria-freudenstein",
+          "type": "监视对象",
+          "change": "邦德在总部近距离观察其操作Purple Cipher，皮肤起粟，认定其命运不在自己手中",
+          "sources": [
+            "octopussy:第1-3章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "maria-freudenstein",
+          "to": "bond",
+          "type": "监视对象",
+          "change": "邦德在总部近距离观察其操作密码机，认定其命运不在自己手中，拍卖会当晚她将暴富但性命堪忧",
+          "sources": [
+            "octopussy:第3-3章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "mariko-ichiban",
+      "relations": [
+        {
+          "from": "mariko-ichiban",
+          "to": "bond",
+          "type": "服务者",
+          "change": "为邦德做染肤、洗浴、理发与按摩，帮他完成化装的第一步",
+          "sources": [
+            "you-only-live-twice:第9-9章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "mary-ann-russell",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "mary-ann-russell",
+          "type": "同事与约会对象",
+          "change": "第1篇初识,Russell奉命接应邦德,结尾救其性命并接受晚餐邀约",
+          "sources": [
+            "for-your-eyes-only:第1-5章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "mary-ann-russell",
+          "to": "bond",
+          "type": "同事与约会对象",
+          "change": "受命接应邦德,结尾接受其晚餐邀约",
+          "sources": [
+            "for-your-eyes-only:第1-1章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "mary-goodnight",
+      "relations": [
+        {
+          "from": "mary-goodnight",
+          "to": "bond",
+          "type": "同事",
+          "change": "同事兼调情对象；邦德自崔西出现后退出对她的追求",
+          "sources": [
+            "on-her-majestys-secret-service:第6-23章",
+            "you-only-live-twice:第2-21章",
+            "octopussy:第3-3章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "bond",
+          "to": "mary-goodnight",
+          "type": "同事转恋人",
+          "change": "原为Double-O处秘书，三年仅一门之隔从未越界；重逢后在Morgan's Harbour初吻，邦德在梦中与她亲热；结尾邦德接受去她Mona Dam别墅同住三周休养，但内心认定她的爱对自己不够",
+          "sources": [
+            "man-with-golden-gun:第1-17章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "mary-goodnight",
+          "to": "bond",
+          "type": "同事转恋人",
+          "change": "见邦德条目：从三年同事变为恋人，结尾同住休养，但邦德内心认定这份爱不够",
+          "sources": [
+            "man-with-golden-gun:第1-17章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "mathis",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "mathis",
+          "type": "盟友",
+          "change": "战前蒙特卡洛旧识，本部中为邦德提供掩护与救援，结尾关于善恶的长谈影响邦德的抉择",
+          "sources": [
+            "casino-royale:第1-27章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "mathis",
+          "to": "bond",
+          "type": "盟友",
+          "change": "从战前合作者到本部行动中的法方联络人，结尾以善恶之辩劝阻邦德辞职",
+          "sources": [
+            "casino-royale:第4-26章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "mathis",
+          "to": "bond",
+          "type": "朋友与盟友",
+          "change": "结尾协助邦德抓捕克莱布",
+          "sources": [
+            "from-russia-with-love:第Four-Twenty-Eight章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "may",
+      "relations": [
+        {
+          "from": "may",
+          "to": "bond",
+          "type": "雇主与管家",
+          "change": "无变化",
+          "sources": [
+            "moonraker:第I-I章",
+            "from-russia-with-love:第Eleven-Eleven章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "may",
+          "to": "bond",
+          "type": "主仆兼长辈",
+          "change": "无变化",
+          "sources": [
+            "thunderball:第7-8章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "may",
+          "to": "bond",
+          "type": "管家与雇主",
+          "change": "无变化；邦德的奖章由她保管",
+          "sources": [
+            "man-with-golden-gun:第2-17章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "mcgonigle",
+      "relations": [
+        {
+          "from": "mcgonigle",
+          "to": "bond",
+          "type": "敌对",
+          "change": "追捕邦德未遂，结尾被斯班格下令换人",
+          "sources": [
+            "diamonds-are-forever:第18-19章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "milton-krest",
+      "relations": [
+        {
+          "from": "milton-krest",
+          "to": "bond",
+          "type": "敌对",
+          "change": "整晚辱骂邦德,邦德忍而不发,结尾邦德为其伪造坠海现场",
+          "sources": [
+            "for-your-eyes-only:第5-5章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "molony",
+      "relations": [
+        {
+          "from": "molony",
+          "to": "bond",
+          "type": "医生与病人",
+          "change": "两次检查邦德后向M进言，促成日本任务",
+          "sources": [
+            "you-only-live-twice:第2-2章",
+            "man-with-golden-gun:第2-4章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "moneypenny",
+      "relations": [
+        {
+          "from": "moneypenny",
+          "to": "bond",
+          "type": "同事",
+          "change": "无变化",
+          "sources": [
+            "live-and-let-die:第II-IX章",
+            "moonraker:第II-II章",
+            "diamonds-are-forever:第3-3章",
+            "from-russia-with-love:第Twelve-Twelve章",
+            "you-only-live-twice:第2-3章",
+            "man-with-golden-gun:第1-17章",
+            "octopussy:第3-3章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "moneypenny",
+          "to": "bond",
+          "type": "同事兼倾慕者",
+          "change": "始终为邦德的倾慕者与M办公室的传话人",
+          "sources": [
+            "thunderball:第1-8章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "bond",
+          "to": "moneypenny",
+          "type": "同事",
+          "change": "长期调情式往来，雷霆谷中邦德恢复精神后吻她脸颊",
+          "sources": [
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "mr-big",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "mr-big",
+          "type": "敌对",
+          "change": "由素未谋面的追查对象变为面对面交锋的死敌，最终以水雷与鲨鱼将其杀死",
+          "sources": [
+            "live-and-let-die:第I-XXIII章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "mr-big",
+          "to": "bond",
+          "type": "敌对",
+          "change": "初以炸弹包裹警告邦德，继而折断其手指饶其一命，最终被邦德的水雷炸沉游艇后葬身鲨口",
+          "sources": [
+            "live-and-let-die:第I-XXII章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "muntz",
+      "relations": [
+        {
+          "from": "muntz",
+          "to": "bond",
+          "type": "监听者与被监听者",
+          "change": "被马蒂斯以高音量收音机干扰后暴露并被捕",
+          "sources": [
+            "casino-royale:第4-19章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "nicholson",
+      "relations": [
+        {
+          "from": "nicholson",
+          "to": "bond",
+          "type": "盟友",
+          "change": "为邦德提供万能钥匙与男厕暗语联络点；结尾与邦德同获牙买加警察奖章（缺席受奖）",
+          "sources": [
+            "man-with-golden-gun:第8-16章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "nurse-gibson",
+      "relations": [
+        {
+          "from": "nurse-gibson",
+          "to": "bond",
+          "type": "护士与病人",
+          "change": "无变化",
+          "sources": [
+            "casino-royale:第19-19章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "oddjob",
+      "relations": [
+        {
+          "from": "oddjob",
+          "to": "bond",
+          "type": "对手",
+          "change": "从追捕者到在诺克斯堡杀死蒂莉、在飞机上与邦德死斗",
+          "sources": [
+            "goldfinger:第SEVEN-TWENTY-THREE章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "patricia-fearing",
+      "relations": [
+        {
+          "from": "patricia-fearing",
+          "to": "bond",
+          "type": "治疗师转情人",
+          "change": "由治疗师转为邦德一夜情人，邦德离开前夜与她在唐斯高地幽会",
+          "sources": [
+            "thunderball:第2-4章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "paul-sender",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "paul-sender",
+          "type": "任务搭档",
+          "change": "初为Sender chaperone邦德执行狙杀，事后Sender须如实报告邦德违令，两人关系转为告发者与被报告者",
+          "sources": [
+            "octopussy:第1-3章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "paul-sender",
+          "to": "bond",
+          "type": "任务搭档",
+          "change": "初为chaperone邦德执行狙杀，事后须如实报告邦德违令，并向其道歉称职责所在",
+          "sources": [
+            "octopussy:第2-2章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "pedersen",
+      "relations": [
+        {
+          "from": "pedersen",
+          "to": "bond",
+          "type": "盟友",
+          "change": "受命听从邦德与莱特指挥，率曼塔号追踪飞碟号",
+          "sources": [
+            "thunderball:第20-22章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "peter-franks",
+      "relations": [
+        {
+          "from": "peter-franks",
+          "to": "bond",
+          "type": "被顶替者",
+          "change": "弗兰克斯被捕后邦德顶替其身份潜入走私链；斯班格得知其被捕后下令查明并灭口替补者",
+          "sources": [
+            "diamonds-are-forever:第3-19章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "peter-wilson",
+      "relations": [
+        {
+          "from": "peter-wilson",
+          "to": "bond",
+          "type": "观察对象",
+          "change": "邦德通过其目光锁定抬价者",
+          "sources": [
+            "octopussy:第3-3章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "piotr-malinowski",
+      "relations": [
+        {
+          "from": "piotr-malinowski",
+          "to": "bond",
+          "type": "猎物与猎手",
+          "change": "由无名竞价者到被邦德尾随确认进入苏联大使馆",
+          "sources": [
+            "octopussy:第3-3章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "pitman",
+      "relations": [
+        {
+          "from": "pitman",
+          "to": "bond",
+          "type": "合作者",
+          "change": "无变化",
+          "sources": [
+            "thunderball:第11-12章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "pleydell-smith",
+      "relations": [
+        {
+          "from": "pleydell-smith",
+          "to": "bond",
+          "type": "盟友",
+          "change": "初见即成为邦德的盟友，全程协助调查与收尾",
+          "sources": [
+            "dr-no:第V-XX章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "professor-train",
+      "relations": [
+        {
+          "from": "professor-train",
+          "to": "bond",
+          "type": "讲解者",
+          "change": "无变化",
+          "sources": [
+            "moonraker:第X-X章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "pussy-galore",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "pussy-galore",
+          "type": "对手转盟友",
+          "change": "从会议桌上的怀疑到劫机航班上暗助邦德传递纸条、最后相拥获救",
+          "sources": [
+            "goldfinger:第ONE-TWENTY-THREE章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "pussy-galore",
+          "to": "bond",
+          "type": "对手转盟友",
+          "change": "从会议桌上的怀疑到劫机航班上暗助邦德传递纸条、最后相拥获救",
+          "sources": [
+            "goldfinger:第SEVENTEEN-TWENTY-THREE章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "quarrel",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "quarrel",
+          "type": "助手",
+          "change": "由Strangways介绍的向导变为训练邦德的搭档，最终驾舟救起邦德与索利泰尔",
+          "sources": [
+            "live-and-let-die:第I-XXIII章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "quarrel",
+          "to": "bond",
+          "type": "助手",
+          "change": "由向导变为训练搭档与救援者，驾独木舟救起邦德与索利泰尔",
+          "sources": [
+            "live-and-let-die:第XVI-XXIII章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "bond",
+          "to": "quarrel",
+          "type": "战友与向导",
+          "change": "5年前寻宝任务的老搭档重逢，邦德完全信任其航海与丛林本领并为其买5000英镑保险；夸雷尔被巨龙烧死后邦德深感自责，视其为自己害死的朋友",
+          "sources": [
+            "dr-no:第II-XX章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "quarrel",
+          "to": "bond",
+          "type": "战友",
+          "change": "5年前老搭档重逢，夸雷尔明知危险仍跟随邦德登岛，最终为邦德而死",
+          "sources": [
+            "dr-no:第IV-XII章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "bond",
+          "to": "quarrel",
+          "type": "战友",
+          "change": "5年前寻宝任务老搭档，诺博士中夸雷尔为邦德而死，邦德深感自责",
+          "sources": [
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "rattray",
+      "relations": [
+        {
+          "from": "rattray",
+          "to": "bond",
+          "type": "上级联络人",
+          "change": "向邦德交代案情并安排其向Schreiber报到,结尾派F站队员支援邦德",
+          "sources": [
+            "for-your-eyes-only:第1-1章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "red-grant",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "red-grant",
+          "type": "猎手与猎物",
+          "change": "邦德全程不知格蘭特存在，误认其为M派来的帮手并交出配枪；辛普朗隧道反杀后方知其为SMERSH首席刽子手",
+          "sources": [
+            "from-russia-with-love:第Four-Twenty-Eight章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "red-grant",
+          "to": "bond",
+          "type": "刺客与目标",
+          "change": "受命伪装成英国特工纳什接近邦德，取得其信任与配枪；辛普朗隧道开枪后反被邦德杀死",
+          "sources": [
+            "from-russia-with-love:第One-Twenty-Seven章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "roddick",
+      "relations": [
+        {
+          "from": "roddick",
+          "to": "bond",
+          "type": "地方官员",
+          "change": "无变化",
+          "sources": [
+            "thunderball:第12-12章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "rosa-klebb",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "rosa-klebb",
+          "type": "敌对",
+          "change": "邦德直至结尾才在丽兹酒店与克莱布正面相遇，制服她后反被其毒鞋刺伤",
+          "sources": [
+            "from-russia-with-love:第Four-Twenty-Eight章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "rosa-klebb",
+          "to": "bond",
+          "type": "敌对",
+          "change": "邦德直至结尾才在丽兹酒店与克莱布正面相遇，制服她后反被其毒鞋刺伤",
+          "sources": [
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "ruby",
+      "relations": [
+        {
+          "from": "ruby",
+          "to": "bond",
+          "type": "情人与线人",
+          "change": "从邦德的情报来源与一夜情对象，到被邦德利用套取女孩名单",
+          "sources": [
+            "on-her-majestys-secret-service:第10-15章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "sable-basilisk",
+      "relations": [
+        {
+          "from": "sable-basilisk",
+          "to": "bond",
+          "type": "合作者",
+          "change": "从纹章院联络人到邦德化名行动的策划者与通信中转",
+          "sources": [
+            "on-her-majestys-secret-service:第7-23章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "sam-miami",
+      "relations": [
+        {
+          "from": "sam-miami",
+          "to": "bond",
+          "type": "敌对",
+          "change": "被邦德击毙",
+          "sources": [
+            "live-and-let-die:第V-IX章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "samuel-baldwin",
+      "relations": [
+        {
+          "from": "samuel-baldwin",
+          "to": "bond",
+          "type": "帮助者",
+          "change": "由列车员变为邦德的救命恩人，后被炸死",
+          "sources": [
+            "live-and-let-die:第X-XIII章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "santos",
+      "relations": [
+        {
+          "from": "santos",
+          "to": "bond",
+          "type": "助手",
+          "change": "协助邦德夜潜飞碟号",
+          "sources": [
+            "thunderball:第16-17章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "savage",
+      "relations": [
+        {
+          "from": "savage",
+          "to": "bond",
+          "type": "同事",
+          "change": "无变化",
+          "sources": [
+            "on-her-majestys-secret-service:第26-27章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "scaramanga",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "scaramanga",
+          "type": "猎手与猎物",
+          "change": "奉命猎杀的目标；邦德伪装成保镖潜入其身边，屡次挑衅逼其拔枪，最终在沼泽中将其击毙，自己亦中其毒弹重伤",
+          "sources": [
+            "man-with-golden-gun:第1-17章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "scaramanga",
+          "to": "bond",
+          "type": "猎物反杀猎手",
+          "change": "起初雇邦德当保镖并计划周末后灭口，得知邦德身份后改为当天在火车上动手；最终被邦德击毙",
+          "sources": [
+            "man-with-golden-gun:第3-15章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "schreiber",
+      "relations": [
+        {
+          "from": "schreiber",
+          "to": "bond",
+          "type": "合作方与对立者",
+          "change": "初对邦德冷淡并暗示其房间将被荷兰代表团占用,结尾同意邦德冒充通讯兵做重演并派队支援",
+          "sources": [
+            "for-your-eyes-only:第1-1章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "seraffimo-spang",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "seraffimo-spang",
+          "type": "敌对",
+          "change": "由调查对象变为生死仇敌，邦德先后致塞拉菲莫与杰克·斯班格死亡",
+          "sources": [
+            "diamonds-are-forever:第2-25章"
+          ],
+          "via_group": "spang-brothers"
+        },
+        {
+          "from": "seraffimo-spang",
+          "to": "bond",
+          "type": "敌对",
+          "change": "邦德赢其赌场20000美元后被押往幽灵村毒打，邦德扳道岔致其火车坠毁身亡",
+          "sources": [
+            "diamonds-are-forever:第6-20章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "sergeant-molony",
+      "relations": [
+        {
+          "from": "sergeant-molony",
+          "to": "bond",
+          "type": "合作者",
+          "change": "向邦德提供飞碟号燃油数据",
+          "sources": [
+            "thunderball:第14-14章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "shady-tree",
+      "relations": [
+        {
+          "from": "shady-tree",
+          "to": "bond",
+          "type": "雇佣",
+          "change": "先付邦德1000美元并安排赛马付酬，后再令其去拉斯维加斯领报酬",
+          "sources": [
+            "diamonds-are-forever:第5-14章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "shaun-campbell",
+      "relations": [
+        {
+          "from": "shaun-campbell",
+          "to": "bond",
+          "type": "同事",
+          "change": "同事；邦德为保身份否认认识他",
+          "sources": [
+            "on-her-majestys-secret-service:第14-19章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "sillitoe",
+      "relations": [
+        {
+          "from": "sillitoe",
+          "to": "bond",
+          "type": "无直接往来",
+          "change": "其整顿使走私者感到压力，构成故事背景",
+          "sources": [
+            "diamonds-are-forever:第1-2章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "sluggsy-morant",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "sluggsy-morant",
+          "type": "对手",
+          "change": "当夜枪战，次日凌晨将其击毙于3号房窗外",
+          "sources": [
+            "spy-who-loved-me:第Ten-Fifteen章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "smersh-agent",
+      "relations": [
+        {
+          "from": "smersh-agent",
+          "to": "bond",
+          "type": "加害者与受害者",
+          "change": "未奉命杀邦德，仅刻字标记其为间谍后放过他",
+          "sources": [
+            "casino-royale:第18-18章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "sol-horowitz",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "sol-horowitz",
+          "type": "对手",
+          "change": "当夜对峙并击伤其脚，次日确认其死于沉车",
+          "sources": [
+            "spy-who-loved-me:第Ten-Fifteen章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "solitaire",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "solitaire",
+          "type": "恋人",
+          "change": "由敌方测谎者变为被邦德救出的同伴与恋人，共历龙骨拖刑后约定同去度假",
+          "sources": [
+            "live-and-let-die:第I-XXIII章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "solitaire",
+          "to": "bond",
+          "type": "恋人",
+          "change": "初见时以牌示意邦德自己是盟友并在测谎时为其开脱，后电话求救随邦德逃亡，共历生死后相恋",
+          "sources": [
+            "live-and-let-die:第VII-XXIII章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "solitaire",
+          "to": "bond",
+          "type": "旧识",
+          "change": "仅为回忆，无变化",
+          "sources": [
+            "dr-no:第VII-VII章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "stengel",
+      "relations": [
+        {
+          "from": "stengel",
+          "to": "bond",
+          "type": "医生与病人",
+          "change": "为邦德与多米诺治伤，并做16具尸体解剖",
+          "sources": [
+            "thunderball:第24-24章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "strangways",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "strangways",
+          "type": "同僚",
+          "change": "初识即合作愉快，Strangways提供据点、装备与后援",
+          "sources": [
+            "live-and-let-die:第I-XXIII章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "strangways",
+          "to": "bond",
+          "type": "同僚",
+          "change": "提供Beau Desert据点、装备与后援，结尾代邦德申索宝藏",
+          "sources": [
+            "live-and-let-die:第XVI-XXIII章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "bond",
+          "to": "strangways",
+          "type": "朋友与前任",
+          "change": "5年前共事的朋友；邦德不相信其私奔，坚持调查其失踪真相，最终证实其被诺博士谋杀",
+          "sources": [
+            "dr-no:第II-XX章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "strangways",
+          "to": "bond",
+          "type": "朋友",
+          "change": "5年前共事的朋友；邦德为其复仇",
+          "sources": [
+            "dr-no:第I-XV章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "suzuki-father",
+      "relations": [
+        {
+          "from": "suzuki-father",
+          "to": "bond",
+          "type": "房东与客人",
+          "change": "接纳邦德住进家中，邦德替他为女儿摇船",
+          "sources": [
+            "you-only-live-twice:第13-22章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "suzuki-mother",
+      "relations": [
+        {
+          "from": "suzuki-mother",
+          "to": "bond",
+          "type": "房东与客人",
+          "change": "接纳邦德住进家中",
+          "sources": [
+            "you-only-live-twice:第13-22章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "tallon",
+      "relations": [
+        {
+          "from": "tallon",
+          "to": "bond",
+          "type": "前任与继任",
+          "change": "死后由邦德接任其安全官职位",
+          "sources": [
+            "moonraker:第IX-XIII章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "tatiana-romanov",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "tatiana-romanov",
+          "type": "诱饵转恋人",
+          "change": "初为任务对象：奉命引诱携密码机投诚的俄国女特工；伊斯坦布尔一夜与四天火车同行后真正相爱，结尾邦德称她为最可爱的姑娘并决意保护她",
+          "sources": [
+            "from-russia-with-love:第Four-Twenty-Eight章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "tatiana-romanov",
+          "to": "bond",
+          "type": "诱饵转恋人",
+          "change": "受命以爱情为饵引诱邦德，实则自己先动真情；始终向邦德隐瞒SMERSH involvement与偷拍，坚信行动无害；结尾被下药昏睡，由邦德救下",
+          "sources": [
+            "from-russia-with-love:第Eight-Twenty-Eight章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "tee-hee-johnson",
+      "relations": [
+        {
+          "from": "tee-hee-johnson",
+          "to": "bond",
+          "type": "敌对",
+          "change": "施刑者变为被杀者",
+          "sources": [
+            "live-and-let-die:第VI-IX章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "the-robber",
+      "relations": [
+        {
+          "from": "the-robber",
+          "to": "bond",
+          "type": "敌对",
+          "change": "由仓库守卫变为被邦德复仇杀死",
+          "sources": [
+            "live-and-let-die:第X-XV章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "tiffany-case",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "tiffany-case",
+          "type": "搭档转恋人",
+          "change": "初为利用对象（以友谊套取走私链情报），萨拉托加与拉斯维加斯期间渐生好感，幽灵村她救他一命，女王号上成为恋人，结尾她住进他伦敦公寓",
+          "sources": [
+            "diamonds-are-forever:第2-25章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "tiffany-case",
+          "to": "bond",
+          "type": "搭档转恋人",
+          "change": "初把邦德当又一个罪犯、严加防范，晚餐与共患难后信任他，幽灵村冒死救他，女王号上成为恋人并坦言从未与男人睡过，结尾随他去伦敦",
+          "sources": [
+            "diamonds-are-forever:第3-25章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "tiffy",
+      "relations": [
+        {
+          "from": "tiffy",
+          "to": "bond",
+          "type": "线人与朋友",
+          "change": "向邦德透露斯卡拉曼加手提箱里有价值1000英镑的大麻，并警告他斯卡拉曼加是最坏的人",
+          "sources": [
+            "man-with-golden-gun:第5-6章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "tiger-tanaka",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "tiger-tanaka",
+          "type": "合作与利用",
+          "change": "由田中虎的客人变为受其指挥的刺客，田中以MAGIC44为交换要求邦德杀死死亡城堡的主人",
+          "sources": [
+            "you-only-live-twice:第1-22章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "tiger-tanaka",
+          "to": "bond",
+          "type": "合作与利用",
+          "change": "由试探邦德的东道主变为以MAGIC44为筹码雇佣邦德行刺的指挥者，最后派人四处寻找失踪的邦德",
+          "sources": [
+            "you-only-live-twice:第1-22章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "tilly-masterton",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "tilly-masterton",
+          "type": "被迫同盟",
+          "change": "从互不信任到并肩潜入、邦德为救她而死战，蒂莉最终死于奥德·约伯之手",
+          "sources": [
+            "goldfinger:第ONE-TWENTY-THREE章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "tilly-masterton",
+          "to": "bond",
+          "type": "被迫同盟",
+          "change": "从互相猜疑、邦德撞坏她的车，到被迫同囚、共赴诺克斯堡，蒂莉死于奥德·约伯之手",
+          "sources": [
+            "goldfinger:第TWELVE-TWENTY-ONE章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "tracy",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "tracy",
+          "type": "恋人转妻子",
+          "change": "从海滩相救、赌场代付赌债，到同床、相恋，最终结婚；崔西死于婚礼当天",
+          "sources": [
+            "on-her-majestys-secret-service:第1-27章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "tracy",
+          "to": "bond",
+          "type": "恋人转妻子",
+          "change": "从被邦德相救的陌生女子到未婚妻再到妻子，婚礼当天遇害",
+          "sources": [
+            "on-her-majestys-secret-service:第1-27章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "bond",
+          "to": "tracy",
+          "type": "亡妻",
+          "change": "结婚不到一天即被布洛菲尔德枪杀，邦德此后八个月精神崩溃，是全书行动的根源",
+          "sources": [
+            "you-only-live-twice:第1-22章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "tracy",
+          "to": "bond",
+          "type": "夫妻",
+          "change": "婚后数小时即被枪杀，死亡导致邦德精神崩溃并最终引向复仇",
+          "sources": [
+            "you-only-live-twice:第2-21章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "bond",
+          "to": "tracy",
+          "type": "夫妻",
+          "change": "女王密使结婚当日崔西遇害，邦德精神崩溃并最终复仇",
+          "sources": [
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "trembling-leaf",
+      "relations": [
+        {
+          "from": "trembling-leaf",
+          "to": "bond",
+          "type": "一夜露水",
+          "change": "晚宴上与邦德调情，邦德赢了游戏后她吻了邦德",
+          "sources": [
+            "you-only-live-twice:第1-1章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "trigger",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "trigger",
+          "type": "敌对狙击手与暗恋对象",
+          "change": "由三夜狙击镜中的单相思，到开火瞬间认出其为Trigger并偏移瞄准放生，此后永不再见",
+          "sources": [
+            "octopussy:第1-3章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "trigger",
+          "to": "bond",
+          "type": "敌对狙击手与暗恋对象",
+          "change": "由邦德三夜狙击镜中的单相思，到开火瞬间被邦德认出并放生，此后永不再见；邦德预计她将被KGB军事法庭处分并开除",
+          "sources": [
+            "octopussy:第2-2章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "troop",
+      "relations": [
+        {
+          "from": "troop",
+          "to": "bond",
+          "type": "同事与对手",
+          "change": "委员会上就雇佣知识分子问题对立",
+          "sources": [
+            "from-russia-with-love:第Eleven-Eleven章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "vallance",
+      "relations": [
+        {
+          "from": "vallance",
+          "to": "bond",
+          "type": "合作",
+          "change": "由盖拉上司变为邦德的后援",
+          "sources": [
+            "moonraker:第IX-XXV章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "vallance",
+          "to": "bond",
+          "type": "协作",
+          "change": "提供情报与化装、逮捕弗兰克斯，助邦德潜入",
+          "sources": [
+            "diamonds-are-forever:第2-3章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "versoix",
+      "relations": [
+        {
+          "from": "versoix",
+          "to": "bond",
+          "type": "店主与住客",
+          "change": "无变化",
+          "sources": [
+            "casino-royale:第22-27章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "vesper-lynd",
+      "relations": [
+        {
+          "from": "bond",
+          "to": "vesper-lynd",
+          "type": "恋人",
+          "change": "从总部派来的助手到共进晚餐的搭档，再到恋人与求婚对象，最后因遗书揭露其为双面间谍而决裂",
+          "sources": [
+            "casino-royale:第1-27章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "vesper-lynd",
+          "to": "bond",
+          "type": "恋人",
+          "change": "从工作搭档到恋人，邦德准备求婚；遗书揭露她泄露邦德身份、策划绑架，最终自杀",
+          "sources": [
+            "casino-royale:第4-27章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "vivienne-michel",
+      "relations": [
+        {
+          "from": "vivienne-michel",
+          "to": "bond",
+          "type": "被救者与救命者",
+          "change": "初见时以为他是第三名打手，继而信任依赖，当夜同床后爱上他；次日他不辞而别，她决定不追寻，只把他记在心里",
+          "sources": [
+            "spy-who-loved-me:第One-Fifteen章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "bond",
+          "to": "vivienne-michel",
+          "type": "救命者与被救者",
+          "change": "由陌生求宿者变为保护者与情人，次日清晨不辞而别，仅留一封事务性信件",
+          "sources": [
+            "spy-who-loved-me:第Ten-Fifteen章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "wain",
+      "relations": [
+        {
+          "from": "wain",
+          "to": "bond",
+          "type": "医生与病人",
+          "change": "由邦德的疗养医生转为事故责任方，事后请邦德保密",
+          "sources": [
+            "thunderball:第2-4章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "bond",
+      "b": "wint",
+      "relations": [
+        {
+          "from": "wint",
+          "to": "bond",
+          "type": "敌对",
+          "change": "温特在泥浴场当面杀贝尔、女王号上挟持蒂芙尼，终被邦德开枪击毙",
+          "sources": [
+            "diamonds-are-forever:第6-24章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "boothroyd",
+      "b": "m",
+      "relations": [
+        {
+          "from": "boothroyd",
+          "to": "m",
+          "type": "上下级",
+          "change": "受M召见为邦德换枪",
+          "sources": [
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "captain-stonor",
+      "b": "vivienne-michel",
+      "relations": [
+        {
+          "from": "captain-stonor",
+          "to": "vivienne-michel",
+          "type": "警方与证人",
+          "change": "由录口供转为父辈式告诫后放行",
+          "sources": [
+            "spy-who-loved-me:第Fifteen-Fifteen章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "che-che",
+      "b": "draco",
+      "relations": [
+        {
+          "from": "che-che",
+          "to": "draco",
+          "type": "上下级",
+          "change": "无变化",
+          "sources": [
+            "on-her-majestys-secret-service:第23-26章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "chief-of-staff",
+      "b": "m",
+      "relations": [
+        {
+          "from": "chief-of-staff",
+          "to": "m",
+          "type": "上下级",
+          "change": "无变化",
+          "sources": [
+            "casino-royale:第3-3章",
+            "man-with-golden-gun:第2-3章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "m",
+          "to": "chief-of-staff",
+          "type": "上下级",
+          "change": "坦纳劝阻M见邦德未果，M下令后坦纳一丝不苟执行",
+          "sources": [
+            "man-with-golden-gun:第1-17章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "colonel-boris",
+      "b": "red-grant",
+      "relations": [
+        {
+          "from": "colonel-boris",
+          "to": "red-grant",
+          "type": "接头人",
+          "change": "无变化",
+          "sources": [
+            "from-russia-with-love:第Three-Three章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "colonel-king",
+      "b": "dexter-smythe",
+      "relations": [
+        {
+          "from": "colonel-king",
+          "to": "dexter-smythe",
+          "type": "上下级",
+          "change": "战时上下级，King将缴获文件交Smythe初审",
+          "sources": [
+            "octopussy:第1-1章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "corsican-gunman",
+      "b": "le-chiffre",
+      "relations": [
+        {
+          "from": "corsican-gunman",
+          "to": "le-chiffre",
+          "type": "保镖与雇主",
+          "change": "随勒·希弗行动至死",
+          "sources": [
+            "casino-royale:第11-19章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "darko-kerim",
+      "b": "krilencu",
+      "relations": [
+        {
+          "from": "krilencu",
+          "to": "darko-kerim",
+          "type": "敌对",
+          "change": "两次刺杀克里姆未遂后被克里姆反杀",
+          "sources": [
+            "from-russia-with-love:第Seventeen-Nineteen章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "darko-kerim",
+      "b": "m",
+      "relations": [
+        {
+          "from": "darko-kerim",
+          "to": "m",
+          "type": "下属与上司",
+          "change": "M出资助其开办香料生意，克里姆早已还清借款，视M为仅次于神的人",
+          "sources": [
+            "from-russia-with-love:第Twelve-Twenty-Three章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "m",
+          "to": "darko-kerim",
+          "type": "上司与下属",
+          "change": "多年信任克里姆，资助其香料生意",
+          "sources": [
+            "from-russia-with-love:第Four-Twenty-Four章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "darko-kerim",
+      "b": "stefan-trempo",
+      "relations": [
+        {
+          "from": "stefan-trempo",
+          "to": "darko-kerim",
+          "type": "父子",
+          "change": "得知父亲死讯后强忍悲痛继续接应邦德",
+          "sources": [
+            "from-russia-with-love:第Twenty-Four-Twenty-Four章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "darko-kerim",
+      "b": "tatiana-romanov",
+      "relations": [
+        {
+          "from": "tatiana-romanov",
+          "to": "darko-kerim",
+          "type": "接头对象",
+          "change": "首次接触时在渡轮上向克里姆讲出投诚故事，此后未再直接联络",
+          "sources": [
+            "from-russia-with-love:第Eight-Twenty-Eight章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "darko-kerim",
+          "to": "tatiana-romanov",
+          "type": "接头人与保护者",
+          "change": "渡轮上首次接头并相信其故事一部分；火车上全力保护她",
+          "sources": [
+            "from-russia-with-love:第Twelve-Twenty-Three章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "darko-kerim",
+      "b": "vavra",
+      "relations": [
+        {
+          "from": "vavra",
+          "to": "darko-kerim",
+          "type": "朋友与情报来源",
+          "change": "克里姆遇袭后仍拒绝责怪克里姆，继续为其提供保加利亚人情报",
+          "sources": [
+            "from-russia-with-love:第Seventeen-Eighteen章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "david",
+      "b": "kissy-suzuki",
+      "relations": [
+        {
+          "from": "david",
+          "to": "kissy-suzuki",
+          "type": "伙伴",
+          "change": "陪邦德与喜悦子出海捕鱼",
+          "sources": [
+            "you-only-live-twice:第14-22章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "denikin",
+      "b": "tatiana-romanov",
+      "relations": [
+        {
+          "from": "denikin",
+          "to": "tatiana-romanov",
+          "type": "上司与下属",
+          "change": "无变化",
+          "sources": [
+            "from-russia-with-love:第Eight-Eight章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "dentist-smuggler",
+      "b": "german-pilot",
+      "relations": [
+        {
+          "from": "german-pilot",
+          "to": "dentist-smuggler",
+          "type": "接头",
+          "change": "每月交接一次",
+          "sources": [
+            "diamonds-are-forever:第1-1章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "dentist-smuggler",
+      "b": "jack-spang",
+      "relations": [
+        {
+          "from": "dentist-smuggler",
+          "to": "jack-spang",
+          "type": "下级",
+          "change": "长期为其供钻，结尾因斯班格关闭走私链而被灭口",
+          "sources": [
+            "diamonds-are-forever:第1-25章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "derek-mallaby",
+      "b": "vivienne-michel",
+      "relations": [
+        {
+          "from": "vivienne-michel",
+          "to": "derek-mallaby",
+          "type": "初恋情人",
+          "change": "由热恋到被抛弃，分手信后断绝往来",
+          "sources": [
+            "spy-who-loved-me:第One-Fifteen章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "derek-mallaby",
+          "to": "vivienne-michel",
+          "type": "初恋情人",
+          "change": "由热恋到写信分手，断绝往来",
+          "sources": [
+            "spy-who-loved-me:第Two-Four章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "dexter-smythe",
+      "b": "foo-brothers",
+      "relations": [
+        {
+          "from": "dexter-smythe",
+          "to": "foo-brothers",
+          "type": "生意伙伴",
+          "change": "15年合作分销金条，每季度结算；后Foo兄弟以打点税务为由每季度扣100镑，双方默契不言",
+          "sources": [
+            "octopussy:第1-1章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "foo-brothers",
+          "to": "dexter-smythe",
+          "type": "生意伙伴",
+          "change": "15年合作，邦德到访前一日邦德曾与之谈话，兄弟二人供出Smythe，Smythe闻言知事已败露",
+          "sources": [
+            "octopussy:第1-1章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "dexter-smythe",
+      "b": "hannes-oberhauser",
+      "relations": [
+        {
+          "from": "dexter-smythe",
+          "to": "hannes-oberhauser",
+          "type": "凶手与被害人",
+          "change": "初为利用关系，Smythe假意结交骗其带路登山，随后开枪灭口并推尸入冰裂缝",
+          "sources": [
+            "octopussy:第1-1章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "hannes-oberhauser",
+          "to": "dexter-smythe",
+          "type": "被害人与凶手",
+          "change": "被Smythe以逮捕为名带走，途中被骗上山后遭枪杀",
+          "sources": [
+            "octopussy:第1-1章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "dexter-smythe",
+      "b": "jimmy-greaves",
+      "relations": [
+        {
+          "from": "jimmy-greaves",
+          "to": "dexter-smythe",
+          "type": "医生与病人",
+          "change": "无变化",
+          "sources": [
+            "octopussy:第1-1章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "dexter-smythe",
+      "b": "luna",
+      "relations": [
+        {
+          "from": "luna",
+          "to": "dexter-smythe",
+          "type": "雇主与管家",
+          "change": "无变化",
+          "sources": [
+            "octopussy:第1-1章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "dexter-smythe",
+      "b": "mary-parnell",
+      "relations": [
+        {
+          "from": "dexter-smythe",
+          "to": "mary-parnell",
+          "type": "夫妻",
+          "change": "战后结婚移居牙买加度过15年快乐时光；Mary管束其酗酒失败后服安眠药成瘾，一次醉酒争吵后过量服药身亡，Smythe此后独居北岸酗酒求死",
+          "sources": [
+            "octopussy:第1-1章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "mary-parnell",
+          "to": "dexter-smythe",
+          "type": "夫妻",
+          "change": "由恩爱到互相管束与争吵，Mary死后Smythe称每时每刻都想念她对自己的爱",
+          "sources": [
+            "octopussy:第1-1章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "dexter-smythe",
+      "b": "professor-bengry",
+      "relations": [
+        {
+          "from": "professor-bengry",
+          "to": "dexter-smythe",
+          "type": "委托与受托",
+          "change": "Smythe死前仍惦记完成其实验，临死把蝎子鱼送到章鱼洞口",
+          "sources": [
+            "octopussy:第1-1章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "dikko-henderson",
+      "b": "tiger-tanaka",
+      "relations": [
+        {
+          "from": "tiger-tanaka",
+          "to": "dikko-henderson",
+          "type": "好友",
+          "change": "多年好友，田中欠迪科一份大人情，此恩义是邦德得以会见田中的关键",
+          "sources": [
+            "you-only-live-twice:第1-22章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "dikko-henderson",
+          "to": "tiger-tanaka",
+          "type": "好友",
+          "change": "多年好友，田中欠他一份大人情",
+          "sources": [
+            "you-only-live-twice:第1-22章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "domino",
+      "b": "largo",
+      "relations": [
+        {
+          "from": "largo",
+          "to": "domino",
+          "type": "情人转仇敌",
+          "change": "由多米诺的情人与供养者转为折磨并企图灭口她的仇敌",
+          "sources": [
+            "thunderball:第10-23章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "domino",
+          "to": "largo",
+          "type": "情人转盟友",
+          "change": "由拉戈的情人转为邦德的情人与盟友，得知兄长被拉戈下令杀害后冒死携带盖革计数器登船做内应",
+          "sources": [
+            "thunderball:第11-24章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "domino",
+      "b": "petacchi",
+      "relations": [
+        {
+          "from": "domino",
+          "to": "petacchi",
+          "type": "兄妹",
+          "change": "兄妹情深，她视兄长为唯一的亲人，直至邦德出示兄长的金表链才知其死讯",
+          "sources": [
+            "thunderball:第11-24章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "petacchi",
+          "to": "domino",
+          "type": "兄妹",
+          "change": "兄妹情深，佩塔基死后多米诺为其复仇",
+          "sources": [
+            "thunderball:第8-17章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "dr-no",
+      "b": "honeychile-rider",
+      "relations": [
+        {
+          "from": "dr-no",
+          "to": "honeychile-rider",
+          "type": "敌对",
+          "change": "起初只当她是误闯的采贝姑娘，后决定用她做白种女性耐痛实验的对照样本；她挣脱木桩逃生并反过来要去刺杀他",
+          "sources": [
+            "dr-no:第III-XIX章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "dr-no",
+      "b": "miss-taro",
+      "relations": [
+        {
+          "from": "miss-taro",
+          "to": "dr-no",
+          "type": "上下级",
+          "change": "诺博士的特工，全程未暴露，邦德仅向诺博士点破其身份",
+          "sources": [
+            "dr-no:第V-XV章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "dr-no",
+      "b": "strangways",
+      "relations": [
+        {
+          "from": "dr-no",
+          "to": "strangways",
+          "type": "敌对",
+          "change": "斯特兰威斯调查鸟粪岛后被其派人谋杀沉尸莫纳水库",
+          "sources": [
+            "dr-no:第III-XIX章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "draco",
+      "b": "toussaint",
+      "relations": [
+        {
+          "from": "toussaint",
+          "to": "draco",
+          "type": "上下级",
+          "change": "无变化",
+          "sources": [
+            "on-her-majestys-secret-service:第23-24章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "draco",
+      "b": "tracy",
+      "relations": [
+        {
+          "from": "tracy",
+          "to": "draco",
+          "type": "父女",
+          "change": "父女关系由疏远、躲避转为和解；德拉科为救她不惜绑架邦德",
+          "sources": [
+            "on-her-majestys-secret-service:第1-27章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "draco",
+          "to": "tracy",
+          "type": "父女",
+          "change": "为救女儿性命，主动向邦德求助并提供突袭队",
+          "sources": [
+            "on-her-majestys-secret-service:第4-27章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "drax",
+      "b": "gala-brand",
+      "relations": [
+        {
+          "from": "drax",
+          "to": "gala-brand",
+          "type": "雇主与受害者",
+          "change": "表面为雇主与秘书,实为囚禁与迫害者,盖拉识破其黑皮本后将其计划暴露",
+          "sources": [
+            "moonraker:第II-XXIV章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "gala-brand",
+          "to": "drax",
+          "type": "受害者与加害者",
+          "change": "由雇主与秘书变为囚禁者与逃脱者",
+          "sources": [
+            "moonraker:第IX-XXV章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "drax",
+      "b": "krebs",
+      "relations": [
+        {
+          "from": "drax",
+          "to": "krebs",
+          "type": "同谋与下属",
+          "change": "德拉克斯的副手、打手与旧部,称其为mein Kapitän",
+          "sources": [
+            "moonraker:第II-XXIV章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "krebs",
+          "to": "drax",
+          "type": "下属与同谋",
+          "change": "始终为德拉克斯心腹,最后同乘潜艇",
+          "sources": [
+            "moonraker:第XI-XXIV章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "drax",
+      "b": "meyer",
+      "relations": [
+        {
+          "from": "meyer",
+          "to": "drax",
+          "type": "牌搭档",
+          "change": "无变化,始终为德拉克斯搭档",
+          "sources": [
+            "moonraker:第IV-VII章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "drax",
+      "b": "walter",
+      "relations": [
+        {
+          "from": "drax",
+          "to": "walter",
+          "type": "同谋",
+          "change": "德拉克斯的副手与同谋,同乘潜艇逃亡",
+          "sources": [
+            "moonraker:第II-XXIV章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "walter",
+          "to": "drax",
+          "type": "同谋",
+          "change": "始终为德拉克斯副手,同乘潜艇逃亡",
+          "sources": [
+            "moonraker:第XI-XXIV章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "enrico-colombo",
+      "b": "kristatos",
+      "relations": [
+        {
+          "from": "kristatos",
+          "to": "enrico-colombo",
+          "type": "陷害者与受害者",
+          "change": "Kristatos向邦德诬告Colombo为毒枭并索取其性命,后被Colombo与邦德联手揭穿并击毙",
+          "sources": [
+            "for-your-eyes-only:第4-4章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "enrico-colombo",
+          "to": "kristatos",
+          "type": "死敌",
+          "change": "被Kristatos陷害,后借邦德之手除掉对方",
+          "sources": [
+            "for-your-eyes-only:第4-4章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "enrico-colombo",
+      "b": "lisl-baum",
+      "relations": [
+        {
+          "from": "enrico-colombo",
+          "to": "lisl-baum",
+          "type": "情人与手下",
+          "change": "安排Lisl接近邦德,结尾把她让给邦德",
+          "sources": [
+            "for-your-eyes-only:第4-4章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "lisl-baum",
+          "to": "enrico-colombo",
+          "type": "情人",
+          "change": "按Colombo安排接近邦德,结尾被Colombo让给邦德",
+          "sources": [
+            "for-your-eyes-only:第4-4章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "ernie-cureo",
+      "b": "felix-leiter",
+      "relations": [
+        {
+          "from": "felix-leiter",
+          "to": "ernie-cureo",
+          "type": "朋友",
+          "change": "莱特请库雷奥在拉斯维加斯照看邦德，库雷奥重伤后莱特连夜赶去接应",
+          "sources": [
+            "diamonds-are-forever:第8-21章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "ernie-cureo",
+          "to": "felix-leiter",
+          "type": "朋友",
+          "change": "莱特请其照看邦德，事后莱特赶去医院看他",
+          "sources": [
+            "diamonds-are-forever:第15-21章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "felix-leiter",
+      "b": "m",
+      "relations": [
+        {
+          "from": "felix-leiter",
+          "to": "m",
+          "type": "协作",
+          "change": "经邦德线与英方协作，无直接上下级关系",
+          "sources": [
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "felix-leiter",
+      "b": "mr-big",
+      "relations": [
+        {
+          "from": "felix-leiter",
+          "to": "mr-big",
+          "type": "敌对",
+          "change": "被Mr Big手下殴打并弃于医院外，后遭鲨鱼袭击致残",
+          "sources": [
+            "live-and-let-die:第I-XVII章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "mr-big",
+          "to": "felix-leiter",
+          "type": "敌对",
+          "change": "下令重伤莱特，后又以鲨鱼陷阱将其致残",
+          "sources": [
+            "live-and-let-die:第I-XXII章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "felix-leiter",
+      "b": "nicholson",
+      "relations": [
+        {
+          "from": "felix-leiter",
+          "to": "nicholson",
+          "type": "同事",
+          "change": "两人同为中情局在酒店的卧底，分工窃听与前台掩护",
+          "sources": [
+            "man-with-golden-gun:第8-16章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "nicholson",
+          "to": "felix-leiter",
+          "type": "同事",
+          "change": "见莱特条目",
+          "sources": [
+            "man-with-golden-gun:第8-16章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "felix-leiter",
+      "b": "the-robber",
+      "relations": [
+        {
+          "from": "the-robber",
+          "to": "felix-leiter",
+          "type": "敌对",
+          "change": "以陷阱致残莱特",
+          "sources": [
+            "live-and-let-die:第X-XV章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "felix-leiter",
+      "b": "tingaling-bell",
+      "relations": [
+        {
+          "from": "tingaling-bell",
+          "to": "felix-leiter",
+          "type": "被要挟者",
+          "change": "莱特以向裁判组揭发相要挟，贝尔收钱答应犯规",
+          "sources": [
+            "diamonds-are-forever:第11-13章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "fidele-barbey",
+      "b": "milton-krest",
+      "relations": [
+        {
+          "from": "milton-krest",
+          "to": "fidele-barbey",
+          "type": "雇主与向导",
+          "change": "雇Barbey带路寻鱼,整晚羞辱对方",
+          "sources": [
+            "for-your-eyes-only:第5-5章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "fidele-barbey",
+          "to": "milton-krest",
+          "type": "雇员与雇主",
+          "change": "被Krest整晚羞辱,是否为凶手原文未明言",
+          "sources": [
+            "for-your-eyes-only:第5-5章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "florence-toussaint",
+      "b": "vivienne-michel",
+      "relations": [
+        {
+          "from": "florence-toussaint",
+          "to": "vivienne-michel",
+          "type": "姨妈与监护人",
+          "change": "由抚养到目送其南下远行",
+          "sources": [
+            "spy-who-loved-me:第Two-Six章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "fonda",
+      "b": "petacchi",
+      "relations": [
+        {
+          "from": "fonda",
+          "to": "petacchi",
+          "type": "招募者",
+          "change": "无变化",
+          "sources": [
+            "thunderball:第9-9章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "g-g-sumatra",
+      "b": "mr-big",
+      "relations": [
+        {
+          "from": "g-g-sumatra",
+          "to": "mr-big",
+          "type": "雇员",
+          "change": "无变化",
+          "sources": [
+            "live-and-let-die:第V-VI章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "gala-brand",
+      "b": "vivian",
+      "relations": [
+        {
+          "from": "vivian",
+          "to": "gala-brand",
+          "type": "未婚夫",
+          "change": "最后盖拉决定次日下午与他结婚",
+          "sources": [
+            "moonraker:第XXV-XXV章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "gengerella",
+      "b": "hendriks",
+      "relations": [
+        {
+          "from": "gengerella",
+          "to": "hendriks",
+          "type": "同谋",
+          "change": "质疑Hendriks背后是否克里姆林宫；死于莱特枪下",
+          "sources": [
+            "man-with-golden-gun:第7-14章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "gettler",
+      "b": "vesper-lynd",
+      "relations": [
+        {
+          "from": "gettler",
+          "to": "vesper-lynd",
+          "type": "监视者与被监视者",
+          "change": "持续跟踪薇丝朋至海边客栈，薇丝朋自杀前夜他已现身",
+          "sources": [
+            "casino-royale:第22-26章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "gonzales",
+      "b": "von-hammerstein",
+      "relations": [
+        {
+          "from": "von-hammerstein",
+          "to": "gonzales",
+          "type": "上下级",
+          "change": "Gonzales为其转移赃款并执行谋杀,两人一同被杀",
+          "sources": [
+            "for-your-eyes-only:第2-2章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "gonzales",
+          "to": "von-hammerstein",
+          "type": "上下级",
+          "change": "一同被邦德击毙",
+          "sources": [
+            "for-your-eyes-only:第2-2章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "governor-nassau",
+      "b": "philip-masters",
+      "relations": [
+        {
+          "from": "governor-nassau",
+          "to": "philip-masters",
+          "type": "旧同事与上司",
+          "change": "在百慕大共事并目睹其婚姻悲剧",
+          "sources": [
+            "for-your-eyes-only:第3-3章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "grey-pearl",
+      "b": "tiger-tanaka",
+      "relations": [
+        {
+          "from": "grey-pearl",
+          "to": "tiger-tanaka",
+          "type": "东道主",
+          "change": "为邦德与田中的晚宴翻译并助兴",
+          "sources": [
+            "you-only-live-twice:第1-1章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "grubozaboyschikov",
+      "b": "kronsteen",
+      "relations": [
+        {
+          "from": "kronsteen",
+          "to": "grubozaboyschikov",
+          "type": "下属与上司",
+          "change": "G将军烧毁其迟到违纪记录以示宽容，克朗斯汀以全力策划回报",
+          "sources": [
+            "from-russia-with-love:第Four-Ten章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "grubozaboyschikov",
+          "to": "kronsteen",
+          "type": "上司与下属",
+          "change": "宽恕其迟到，命其策划行动",
+          "sources": [
+            "from-russia-with-love:第Four-Seven章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "grubozaboyschikov",
+      "b": "nikitin",
+      "relations": [
+        {
+          "from": "nikitin",
+          "to": "grubozaboyschikov",
+          "type": "同僚",
+          "change": "会议上附和G将军",
+          "sources": [
+            "from-russia-with-love:第Four-Six章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "grubozaboyschikov",
+      "b": "rosa-klebb",
+      "relations": [
+        {
+          "from": "rosa-klebb",
+          "to": "grubozaboyschikov",
+          "type": "下属与上司",
+          "change": "接受G将军命令执行诱杀计划，并于次日中午在巴黎丽兹酒店等格蘭特汇报",
+          "sources": [
+            "from-russia-with-love:第Four-Twenty-Eight章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "grubozaboyschikov",
+          "to": "rosa-klebb",
+          "type": "上司与下属",
+          "change": "将诱杀计划全权交克莱布执行",
+          "sources": [
+            "from-russia-with-love:第Four-Seven章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "grubozaboyschikov",
+      "b": "serov",
+      "relations": [
+        {
+          "from": "grubozaboyschikov",
+          "to": "serov",
+          "type": "下属与靠山",
+          "change": "向谢罗夫汇报并获批准后执行计划",
+          "sources": [
+            "from-russia-with-love:第Four-Seven章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "serov",
+          "to": "grubozaboyschikov",
+          "type": "上司与下属",
+          "change": "电话批准刺杀邦德的计划",
+          "sources": [
+            "from-russia-with-love:第Four-Six章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "grubozaboyschikov",
+      "b": "vozdvishensky",
+      "relations": [
+        {
+          "from": "vozdvishensky",
+          "to": "grubozaboyschikov",
+          "type": "同僚",
+          "change": "被G将军点名评估西方情报机关，推荐英国为目标",
+          "sources": [
+            "from-russia-with-love:第Four-Six章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "harvey-miller",
+      "b": "rhoda-masters",
+      "relations": [
+        {
+          "from": "rhoda-masters",
+          "to": "harvey-miller",
+          "type": "夫妻",
+          "change": "在金斯敦酒店相识并结婚,晚宴上坐在邦德身边",
+          "sources": [
+            "for-your-eyes-only:第3-3章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "harvey-miller",
+          "to": "rhoda-masters",
+          "type": "夫妻",
+          "change": "结婚后生活幸福,晚宴上同席",
+          "sources": [
+            "for-your-eyes-only:第3-3章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "head-of-s",
+      "b": "m",
+      "relations": [
+        {
+          "from": "m",
+          "to": "head-of-s",
+          "type": "上下级",
+          "change": "接受S处长的计划并批准薇丝朋随行",
+          "sources": [
+            "casino-royale:第2-27章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "head-of-s",
+          "to": "m",
+          "type": "上下级",
+          "change": "向M递交计划并获批准",
+          "sources": [
+            "casino-royale:第2-21章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "head-of-s",
+      "b": "moneypenny",
+      "relations": [
+        {
+          "from": "moneypenny",
+          "to": "head-of-s",
+          "type": "同事",
+          "change": "无变化",
+          "sources": [
+            "casino-royale:第3-3章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "head-of-s",
+      "b": "vesper-lynd",
+      "relations": [
+        {
+          "from": "vesper-lynd",
+          "to": "head-of-s",
+          "type": "上下级",
+          "change": "其上司，派她参加行动并在邦德住院期间探望她",
+          "sources": [
+            "casino-royale:第4-27章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "head-of-s",
+          "to": "vesper-lynd",
+          "type": "上下级",
+          "change": "派薇丝朋参加行动，警告她不要爱上邦德",
+          "sources": [
+            "casino-royale:第2-21章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "helmut-springer",
+      "b": "slappy-hapgood",
+      "relations": [
+        {
+          "from": "slappy-hapgood",
+          "to": "helmut-springer",
+          "type": "同僚",
+          "change": "与斯普林格一同“失足坠楼”被灭口",
+          "sources": [
+            "goldfinger:第NINETEEN-NINETEEN章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "hendriks",
+      "b": "scaramanga",
+      "relations": [
+        {
+          "from": "scaramanga",
+          "to": "hendriks",
+          "type": "合作者与雇主关系",
+          "change": "Hendriks代表克格勃向The Group下指令并监督斯卡拉曼加；斯卡拉曼加表面恭顺，实则对莫斯科的批评不屑一顾，仍按自己方式行事",
+          "sources": [
+            "man-with-golden-gun:第3-15章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "hendriks",
+          "to": "scaramanga",
+          "type": "上级监督者",
+          "change": "从合作监督变为公开斥责斯卡拉曼加失察；斯卡拉曼加承诺当天杀死邦德以平息莫斯科怒火",
+          "sources": [
+            "man-with-golden-gun:第7-14章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "honeychile-rider",
+      "b": "mander",
+      "relations": [
+        {
+          "from": "honeychile-rider",
+          "to": "mander",
+          "type": "仇人",
+          "change": "曼德强暴她并打断其鼻梁，她以黑寡妇蜘蛛将其毒死，耗时1周",
+          "sources": [
+            "dr-no:第VIII-XX章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "honeychile-rider",
+      "b": "quarrel",
+      "relations": [
+        {
+          "from": "honeychile-rider",
+          "to": "quarrel",
+          "type": "同伴",
+          "change": "初见时夸雷尔想甩掉她，认为她是累赘；同行后夸雷尔认可她的野外本领，夸雷尔死后她与邦德共同哀悼",
+          "sources": [
+            "dr-no:第VIII-XX章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "quarrel",
+          "to": "honeychile-rider",
+          "type": "同伴",
+          "change": "初见想甩掉她，后认可其本领并承诺邦德会赔她新独木舟",
+          "sources": [
+            "dr-no:第IV-XII章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "jack-spang",
+      "b": "pissaro",
+      "relations": [
+        {
+          "from": "pissaro",
+          "to": "jack-spang",
+          "type": "手下",
+          "change": "为斯班格帮管赛马替身骗局",
+          "sources": [
+            "diamonds-are-forever:第11-12章"
+          ],
+          "via_group": "spang-brothers"
+        }
+      ]
+    },
+    {
+      "a": "jack-spang",
+      "b": "seraffimo-spang",
+      "relations": [
+        {
+          "from": "jack-spang",
+          "to": "seraffimo-spang",
+          "type": "孪生兄弟与合伙人",
+          "change": "共管帮派与钻石生意，杰克在伦敦管走私源头、塞拉菲莫在美国管接收，兄弟先后被邦德所杀",
+          "sources": [
+            "diamonds-are-forever:第2-25章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "seraffimo-spang",
+          "to": "jack-spang",
+          "type": "孪生兄弟与合伙人",
+          "change": "分管走私链两端，塞拉菲莫先死于火车事故",
+          "sources": [
+            "diamonds-are-forever:第6-20章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "jack-spang",
+      "b": "shady-tree",
+      "relations": [
+        {
+          "from": "shady-tree",
+          "to": "jack-spang",
+          "type": "手下",
+          "change": "为斯班格帮效力，结尾邦德判断其须躲藏避风头",
+          "sources": [
+            "diamonds-are-forever:第5-14章"
+          ],
+          "via_group": "spang-brothers"
+        }
+      ]
+    },
+    {
+      "a": "jack-spang",
+      "b": "tiffany-case",
+      "relations": [
+        {
+          "from": "tiffany-case",
+          "to": "jack-spang",
+          "type": "下级",
+          "change": "只通过录音电话接令，从未见过ABC真人；结尾ABC下令灭口她，她彻底倒向邦德",
+          "sources": [
+            "diamonds-are-forever:第3-25章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "jack-spang",
+          "to": "tiffany-case",
+          "type": "幕后主使",
+          "change": "通过录音电话指挥她运钻，结尾下令以20000美元灭口她",
+          "sources": [
+            "diamonds-are-forever:第2-25章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "jed-phancey",
+      "b": "millicent-phancey",
+      "relations": [
+        {
+          "from": "jed-phancey",
+          "to": "millicent-phancey",
+          "type": "夫妻",
+          "change": "共同经营旅馆并参与纵火阴谋",
+          "sources": [
+            "spy-who-loved-me:第One-Fifteen章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "millicent-phancey",
+          "to": "jed-phancey",
+          "type": "夫妻",
+          "change": "共同经营旅馆并参与纵火阴谋",
+          "sources": [
+            "spy-who-loved-me:第One-Fifteen章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "jed-phancey",
+      "b": "sanguinetti",
+      "relations": [
+        {
+          "from": "jed-phancey",
+          "to": "sanguinetti",
+          "type": "雇员与业主",
+          "change": "同谋纵火骗保",
+          "sources": [
+            "spy-who-loved-me:第One-Fifteen章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "sanguinetti",
+          "to": "jed-phancey",
+          "type": "业主与经理",
+          "change": "同谋纵火骗保",
+          "sources": [
+            "spy-who-loved-me:第Seven-Fifteen章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "jed-phancey",
+      "b": "vivienne-michel",
+      "relations": [
+        {
+          "from": "jed-phancey",
+          "to": "vivienne-michel",
+          "type": "雇主与雇员",
+          "change": "由雇佣转为利用后抛弃，扣发工资推给桑吉内蒂",
+          "sources": [
+            "spy-who-loved-me:第One-Fifteen章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "jill-masterton",
+      "b": "tilly-masterton",
+      "relations": [
+        {
+          "from": "jill-masterton",
+          "to": "tilly-masterton",
+          "type": "姐妹",
+          "change": "姐妹，吉尔死前发电报召蒂莉来迈阿密见最后一面",
+          "sources": [
+            "goldfinger:第FOUR-FOURTEEN章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "tilly-masterton",
+          "to": "jill-masterton",
+          "type": "姐妹",
+          "change": "从姐妹到蒂莉为吉尔复仇而追踪金手指至日内瓦",
+          "sources": [
+            "goldfinger:第TWELVE-TWENTY-ONE章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "judy-havelock",
+      "b": "timothy-havelock",
+      "relations": [
+        {
+          "from": "timothy-havelock",
+          "to": "judy-havelock",
+          "type": "父女",
+          "change": "死后女儿为其复仇",
+          "sources": [
+            "for-your-eyes-only:第2-2章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "judy-havelock",
+          "to": "timothy-havelock",
+          "type": "父女",
+          "change": "为父复仇",
+          "sources": [
+            "for-your-eyes-only:第2-2章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "kannushi",
+      "b": "kissy-suzuki",
+      "relations": [
+        {
+          "from": "kissy-suzuki",
+          "to": "kannushi",
+          "type": "教区居民与神父",
+          "change": "喜悦子是神父教区的渔民之女，神父默许她藏匿邦德",
+          "sources": [
+            "you-only-live-twice:第12-22章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "kannushi",
+          "to": "kissy-suzuki",
+          "type": "教区居民",
+          "change": "神父指示长老们对搜查者装作一无所知",
+          "sources": [
+            "you-only-live-twice:第13-22章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "kidd",
+      "b": "wint",
+      "relations": [
+        {
+          "from": "wint",
+          "to": "kidd",
+          "type": "搭档",
+          "change": "形影不离的杀手组合，先后在萨拉托加杀贝尔、女王号上追杀蒂芙尼，同日被邦德击毙",
+          "sources": [
+            "diamonds-are-forever:第6-24章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "kidd",
+          "to": "wint",
+          "type": "搭档",
+          "change": "与温特同为斯班格帮杀手，同日被邦德击毙",
+          "sources": [
+            "diamonds-are-forever:第6-24章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "kotze",
+      "b": "largo",
+      "relations": [
+        {
+          "from": "kotze",
+          "to": "largo",
+          "type": "上下级",
+          "change": "科策为拉戈改装核弹引信",
+          "sources": [
+            "thunderball:第5-24章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "kotze",
+      "b": "maslov",
+      "relations": [
+        {
+          "from": "maslov",
+          "to": "kotze",
+          "type": "同僚",
+          "change": "无变化",
+          "sources": [
+            "thunderball:第5-6章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "kronsteen",
+      "b": "makharov",
+      "relations": [
+        {
+          "from": "makharov",
+          "to": "kronsteen",
+          "type": "棋场对手",
+          "change": "决赛落败",
+          "sources": [
+            "from-russia-with-love:第Seven-Seven章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "kronsteen",
+      "b": "red-grant",
+      "relations": [
+        {
+          "from": "red-grant",
+          "to": "kronsteen",
+          "type": "执行者与策划者",
+          "change": "按克朗斯汀计划行事，未直接共事",
+          "sources": [
+            "from-russia-with-love:第One-Twenty-Seven章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "kronsteen",
+      "b": "rosa-klebb",
+      "relations": [
+        {
+          "from": "rosa-klebb",
+          "to": "kronsteen",
+          "type": "同事与搭档",
+          "change": "共同策划诱杀邦德行动，克莱布负责执行，克朗斯汀负责策划；克朗斯汀私下认为她终将失势",
+          "sources": [
+            "from-russia-with-love:第Four-Twenty-Eight章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "kronsteen",
+          "to": "rosa-klebb",
+          "type": "策划搭档",
+          "change": "共同设计诱杀计划，克朗斯汀出谋、克莱布执行",
+          "sources": [
+            "from-russia-with-love:第Four-Ten章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "kurt-rainer",
+      "b": "trude",
+      "relations": [
+        {
+          "from": "kurt-rainer",
+          "to": "trude",
+          "type": "前未婚妻",
+          "change": "特鲁德在泰格恩湖结识慕尼黑医生后解除婚约",
+          "sources": [
+            "spy-who-loved-me:第Four-Six章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "trude",
+          "to": "kurt-rainer",
+          "type": "前未婚夫妻",
+          "change": "解除婚约",
+          "sources": [
+            "spy-who-loved-me:第Five-Five章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "kurt-rainer",
+      "b": "vivienne-michel",
+      "relations": [
+        {
+          "from": "vivienne-michel",
+          "to": "kurt-rainer",
+          "type": "情人兼上司",
+          "change": "由同志式友谊发展为情人，怀孕后被冷漠抛弃解雇",
+          "sources": [
+            "spy-who-loved-me:第One-Fifteen章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "kurt-rainer",
+          "to": "vivienne-michel",
+          "type": "情人兼上司",
+          "change": "由同志友谊发展为情人，怀孕后解雇并安排堕胎，断绝关系",
+          "sources": [
+            "spy-who-loved-me:第Four-Six章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "largo",
+      "b": "petacchi",
+      "relations": [
+        {
+          "from": "petacchi",
+          "to": "largo",
+          "type": "雇佣与灭口",
+          "change": "佩塔基为SPECTRE劫机后在机翼上被瓦尔加斯以短剑刺穿下颌致死",
+          "sources": [
+            "thunderball:第8-17章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "largo",
+      "b": "snow",
+      "relations": [
+        {
+          "from": "snow",
+          "to": "largo",
+          "type": "赌友",
+          "change": "赌桌上与拉戈合伙对付邦德",
+          "sources": [
+            "thunderball:第15-15章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "largo",
+      "b": "strelik",
+      "relations": [
+        {
+          "from": "strelik",
+          "to": "largo",
+          "type": "上下级",
+          "change": "因在会议上提议各组留人监督而被拉戈当场开枪打死",
+          "sources": [
+            "thunderball:第21-21章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "le-chiffre",
+      "b": "smersh-agent",
+      "relations": [
+        {
+          "from": "le-chiffre",
+          "to": "smersh-agent",
+          "type": "被处决者与处决者",
+          "change": "勒·希弗因挪用公款与叛变嫌疑被SMERSH派人枪杀",
+          "sources": [
+            "casino-royale:第1-18章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "smersh-agent",
+          "to": "le-chiffre",
+          "type": "处决者与被处决者",
+          "change": "奉命处决叛徒勒·希弗",
+          "sources": [
+            "casino-royale:第18-18章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "le-chiffre",
+      "b": "vesper-lynd",
+      "relations": [
+        {
+          "from": "vesper-lynd",
+          "to": "le-chiffre",
+          "type": "被利用的合作者",
+          "change": "受MWD指使配合勒·希弗方面，泄露情报并策划绑架，后拒绝继续合作",
+          "sources": [
+            "casino-royale:第4-27章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "le-chiffre",
+          "to": "vesper-lynd",
+          "type": "利用关系",
+          "change": "通过MWD方面利用薇丝朋获取邦德情报并策划绑架",
+          "sources": [
+            "casino-royale:第1-18章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "len-holbrook",
+      "b": "vivienne-michel",
+      "relations": [
+        {
+          "from": "len-holbrook",
+          "to": "vivienne-michel",
+          "type": "上司与下属",
+          "change": "由雇佣转为赏识提拔",
+          "sources": [
+            "spy-who-loved-me:第Four-Four章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "lieutenant-morrow",
+      "b": "odonnell",
+      "relations": [
+        {
+          "from": "odonnell",
+          "to": "lieutenant-morrow",
+          "type": "同事",
+          "change": "无变化",
+          "sources": [
+            "spy-who-loved-me:第Fifteen-Fifteen章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "lieutenant-morrow",
+      "b": "vivienne-michel",
+      "relations": [
+        {
+          "from": "lieutenant-morrow",
+          "to": "vivienne-michel",
+          "type": "警方与证人",
+          "change": "初见即协助，后帮她绑好行李、推出摩托车",
+          "sources": [
+            "spy-who-loved-me:第Fifteen-Fifteen章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "lippe",
+      "b": "patricia-fearing",
+      "relations": [
+        {
+          "from": "patricia-fearing",
+          "to": "lippe",
+          "type": "病人与治疗师",
+          "change": "利普长期向她献殷勤，她对其保持职业距离",
+          "sources": [
+            "thunderball:第2-4章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "liz-krest",
+      "b": "milton-krest",
+      "relations": [
+        {
+          "from": "milton-krest",
+          "to": "liz-krest",
+          "type": "夫妻",
+          "change": "长期虐待妻子,结尾被毒鱼塞口窒息而死,凶手未明",
+          "sources": [
+            "for-your-eyes-only:第5-5章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "liz-krest",
+          "to": "milton-krest",
+          "type": "夫妻",
+          "change": "长期受虐,丈夫死后她表现平静并称要把毒鱼捐给大英博物馆,是否为凶手原文未明言",
+          "sources": [
+            "for-your-eyes-only:第5-5章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "m",
+      "b": "mary-goodnight",
+      "relations": [
+        {
+          "from": "mary-goodnight",
+          "to": "m",
+          "type": "协作",
+          "change": "经邦德线与英方协作，无直接上下级关系",
+          "sources": [
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "m",
+      "b": "mathis",
+      "relations": [
+        {
+          "from": "mathis",
+          "to": "m",
+          "type": "协作",
+          "change": "经邦德线与英方协作，皇家赌场结尾M亲自致电嘉奖",
+          "sources": [
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "m",
+      "b": "moneypenny",
+      "relations": [
+        {
+          "from": "moneypenny",
+          "to": "m",
+          "type": "上下级",
+          "change": "无变化",
+          "sources": [
+            "casino-royale:第3-3章",
+            "live-and-let-die:第II-IX章",
+            "man-with-golden-gun:第1-17章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "moneypenny",
+          "to": "m",
+          "type": "同事",
+          "change": "无变化",
+          "sources": [
+            "on-her-majestys-secret-service:第8-8章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "m",
+          "to": "moneypenny",
+          "type": "上下级",
+          "change": "钱彭妮为其私人秘书，长期无变化",
+          "sources": [
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "m",
+      "b": "porterfield",
+      "relations": [
+        {
+          "from": "porterfield",
+          "to": "m",
+          "type": "侍者",
+          "change": "在布莱兹俱乐部侍候M与莫洛尼",
+          "sources": [
+            "you-only-live-twice:第2-2章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "m",
+      "b": "strangways",
+      "relations": [
+        {
+          "from": "m",
+          "to": "strangways",
+          "type": "上下级",
+          "change": "斯特兰威斯失踪后M倾向于接受私奔说法，派邦德去只是为给其休假借口并了结人事问题",
+          "sources": [
+            "dr-no:第II-XX章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "madame-versoix",
+      "b": "versoix",
+      "relations": [
+        {
+          "from": "madame-versoix",
+          "to": "versoix",
+          "type": "夫妻",
+          "change": "无变化",
+          "sources": [
+            "casino-royale:第22-26章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "margesson",
+      "b": "scaramanga",
+      "relations": [
+        {
+          "from": "margesson",
+          "to": "scaramanga",
+          "type": "被害者与凶手",
+          "change": "被斯卡拉曼加致残，成为邦德决意杀死斯卡拉曼加的理由之一",
+          "sources": [
+            "man-with-golden-gun:第3-15章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "maria-freudenstein",
+      "b": "piotr-malinowski",
+      "relations": [
+        {
+          "from": "maria-freudenstein",
+          "to": "piotr-malinowski",
+          "type": "特工与上线",
+          "change": "原文未写两人直接往来；M.推断Malinowski为唯一知情者，即其伦敦负责人",
+          "sources": [
+            "octopussy:第3-3章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "piotr-malinowski",
+          "to": "maria-freudenstein",
+          "type": "上线与特工",
+          "change": "由隐身到被邦德锁定身份，面临被宣布为不受欢迎人物并驱逐",
+          "sources": [
+            "octopussy:第3-3章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "mary-goodnight",
+      "b": "ross",
+      "relations": [
+        {
+          "from": "mary-goodnight",
+          "to": "ross",
+          "type": "上下级",
+          "change": "罗斯失踪后她代行站务并发出红色警报",
+          "sources": [
+            "man-with-golden-gun:第1-17章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "ross",
+          "to": "mary-goodnight",
+          "type": "上下级",
+          "change": "罗斯死后古德奈特代行站务",
+          "sources": [
+            "man-with-golden-gun:第4-9章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "mathis",
+      "b": "vesper-lynd",
+      "relations": [
+        {
+          "from": "mathis",
+          "to": "vesper-lynd",
+          "type": "同事",
+          "change": "介绍薇丝朋与邦德相识，薇丝朋曾谎称打电话给他",
+          "sources": [
+            "casino-royale:第4-26章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "mcthing",
+      "b": "mr-big",
+      "relations": [
+        {
+          "from": "mcthing",
+          "to": "mr-big",
+          "type": "手下",
+          "change": "被邦德击毙",
+          "sources": [
+            "live-and-let-die:第V-IX章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "millicent-phancey",
+      "b": "vivienne-michel",
+      "relations": [
+        {
+          "from": "millicent-phancey",
+          "to": "vivienne-michel",
+          "type": "雇主与雇员",
+          "change": "由雇佣转为利用后抛弃",
+          "sources": [
+            "spy-who-loved-me:第One-Fifteen章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "mr-big",
+      "b": "sam-miami",
+      "relations": [
+        {
+          "from": "sam-miami",
+          "to": "mr-big",
+          "type": "手下",
+          "change": "被邦德击毙",
+          "sources": [
+            "live-and-let-die:第V-IX章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "mr-big",
+      "b": "solitaire",
+      "relations": [
+        {
+          "from": "mr-big",
+          "to": "solitaire",
+          "type": "占有者",
+          "change": "在海地歌舞厅发现索利泰尔并将其软禁近一年，打算娶她；索利泰尔叛逃后Mr Big将其囚于惊奇岛并判死刑",
+          "sources": [
+            "live-and-let-die:第I-XXII章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "solitaire",
+          "to": "mr-big",
+          "type": "被囚者",
+          "change": "由被软禁的测谎者与准新娘变为叛逃者，最终被Mr Big判处与邦德同死，获救后与邦德相恋",
+          "sources": [
+            "live-and-let-die:第VII-XXIII章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "mr-big",
+      "b": "tee-hee-johnson",
+      "relations": [
+        {
+          "from": "tee-hee-johnson",
+          "to": "mr-big",
+          "type": "手下",
+          "change": "奉命折断邦德手指，后被邦德踢下楼梯摔死",
+          "sources": [
+            "live-and-let-die:第VI-IX章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "mr-big",
+      "b": "the-flannel",
+      "relations": [
+        {
+          "from": "the-flannel",
+          "to": "mr-big",
+          "type": "手下",
+          "change": "无变化",
+          "sources": [
+            "live-and-let-die:第V-IX章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "mr-big",
+      "b": "the-robber",
+      "relations": [
+        {
+          "from": "the-robber",
+          "to": "mr-big",
+          "type": "手下",
+          "change": "奉命行事，最终被邦德踢入鲨鱼池喂鲨",
+          "sources": [
+            "live-and-let-die:第X-XV章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "mr-big",
+      "b": "the-whisper",
+      "relations": [
+        {
+          "from": "the-whisper",
+          "to": "mr-big",
+          "type": "手下",
+          "change": "无变化",
+          "sources": [
+            "live-and-let-die:第IV-IX章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "mrs-havelock",
+      "b": "timothy-havelock",
+      "relations": [
+        {
+          "from": "timothy-havelock",
+          "to": "mrs-havelock",
+          "type": "夫妻",
+          "change": "一同被枪杀",
+          "sources": [
+            "for-your-eyes-only:第2-2章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "mrs-havelock",
+          "to": "timothy-havelock",
+          "type": "夫妻",
+          "change": "一同被枪杀",
+          "sources": [
+            "for-your-eyes-only:第2-2章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "mrs-muntz",
+      "b": "muntz",
+      "relations": [
+        {
+          "from": "mrs-muntz",
+          "to": "muntz",
+          "type": "夫妻",
+          "change": "无变化",
+          "sources": [
+            "casino-royale:第4-19章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "nikitin",
+      "b": "slavin",
+      "relations": [
+        {
+          "from": "slavin",
+          "to": "nikitin",
+          "type": "部门对手",
+          "change": "会议上就德拉克斯火箭失败互相指责",
+          "sources": [
+            "from-russia-with-love:第Four-Six章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "papagos",
+      "b": "the-robber",
+      "relations": [
+        {
+          "from": "papagos",
+          "to": "the-robber",
+          "type": "名义上下级",
+          "change": "无变化",
+          "sources": [
+            "live-and-let-die:第IV-XIII章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "paul-sender",
+      "b": "tanqueray",
+      "relations": [
+        {
+          "from": "paul-sender",
+          "to": "tanqueray",
+          "type": "上下级",
+          "change": "Sender为Tanqueray的二号人物",
+          "sources": [
+            "octopussy:第2-2章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "tanqueray",
+          "to": "paul-sender",
+          "type": "上下级",
+          "change": "无变化",
+          "sources": [
+            "octopussy:第2-2章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "petacchi",
+      "b": "vargas",
+      "relations": [
+        {
+          "from": "vargas",
+          "to": "petacchi",
+          "type": "杀手与被害者",
+          "change": "在机翼上以短剑刺杀佩塔基",
+          "sources": [
+            "thunderball:第9-10章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "philip-masters",
+      "b": "rhoda-masters",
+      "relations": [
+        {
+          "from": "philip-masters",
+          "to": "rhoda-masters",
+          "type": "夫妻",
+          "change": "由热恋到妻子出轨,再到Masters以一年沉默分居与债务陷阱报复并离婚,终身未再婚",
+          "sources": [
+            "for-your-eyes-only:第3-3章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "rhoda-masters",
+          "to": "philip-masters",
+          "type": "夫妻",
+          "change": "由热恋到出轨、被报复离婚,最终各自另过",
+          "sources": [
+            "for-your-eyes-only:第3-3章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "pissaro",
+      "b": "rosy-budd",
+      "relations": [
+        {
+          "from": "rosy-budd",
+          "to": "pissaro",
+          "type": "同事",
+          "change": "同为替身马骗局成员",
+          "sources": [
+            "diamonds-are-forever:第12-12章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "pissaro",
+      "b": "seraffimo-spang",
+      "relations": [
+        {
+          "from": "pissaro",
+          "to": "seraffimo-spang",
+          "type": "手下",
+          "change": "为斯班格帮管赛马替身骗局",
+          "sources": [
+            "diamonds-are-forever:第11-12章"
+          ],
+          "via_group": "spang-brothers"
+        }
+      ]
+    },
+    {
+      "a": "poxy",
+      "b": "the-robber",
+      "relations": [
+        {
+          "from": "poxy",
+          "to": "the-robber",
+          "type": "线人",
+          "change": "无变化",
+          "sources": [
+            "live-and-let-die:第XII-XII章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "pus-feller",
+      "b": "quarrel",
+      "relations": [
+        {
+          "from": "pus-feller",
+          "to": "quarrel",
+          "type": "朋友",
+          "change": "老友，无变化",
+          "sources": [
+            "dr-no:第IV-IV章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "pussy-galore",
+      "b": "tilly-masterton",
+      "relations": [
+        {
+          "from": "tilly-masterton",
+          "to": "pussy-galore",
+          "type": "仰慕者",
+          "change": "从会议上的仰慕到诺克斯堡危急时蒂莉想投靠普茜·加洛求庇护，未果",
+          "sources": [
+            "goldfinger:第TWELVE-TWENTY-ONE章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "pussy-galore",
+          "to": "tilly-masterton",
+          "type": "被仰慕者",
+          "change": "蒂莉仰慕普茜·加洛，危急时想投靠她",
+          "sources": [
+            "goldfinger:第SEVENTEEN-TWENTY-THREE章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "quarrel",
+      "b": "strangways",
+      "relations": [
+        {
+          "from": "strangways",
+          "to": "quarrel",
+          "type": "上下级",
+          "change": "Quarrel为其手下观察员",
+          "sources": [
+            "live-and-let-die:第XVI-XXIII章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "quarrel",
+          "to": "strangways",
+          "type": "上下级",
+          "change": "无变化",
+          "sources": [
+            "live-and-let-die:第XVI-XXIII章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "red-grant",
+      "b": "rosa-klebb",
+      "relations": [
+        {
+          "from": "rosa-klebb",
+          "to": "red-grant",
+          "type": "上司与下属",
+          "change": "克莱布为格蘭特的直接指挥官，以铜指节套验其体格并派其执行刺杀",
+          "sources": [
+            "from-russia-with-love:第Four-Twenty-Eight章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "red-grant",
+          "to": "rosa-klebb",
+          "type": "下属与上司",
+          "change": "十年受克莱布指挥，从未有叛逃迹象；结尾奉命在巴黎向其汇报",
+          "sources": [
+            "from-russia-with-love:第One-Twenty-Seven章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "rhoda-masters",
+      "b": "tattersall",
+      "relations": [
+        {
+          "from": "rhoda-masters",
+          "to": "tattersall",
+          "type": "情人",
+          "change": "高尔夫混双夺冠后公开同居,后被Tattersall以父母断绝津贴为由抛弃",
+          "sources": [
+            "for-your-eyes-only:第3-3章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "tattersall",
+          "to": "rhoda-masters",
+          "type": "情人",
+          "change": "混双夺冠后同居,后抛弃罗达",
+          "sources": [
+            "for-your-eyes-only:第3-3章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "rosa-klebb",
+      "b": "tatiana-romanov",
+      "relations": [
+        {
+          "from": "tatiana-romanov",
+          "to": "rosa-klebb",
+          "type": "上司与胁迫者",
+          "change": "初为恐惧的下属，被克莱布以晋升、亲属为人质相胁迫执行任务；始终不知拍照与谋杀计划",
+          "sources": [
+            "from-russia-with-love:第Eight-Twenty-Eight章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "rosa-klebb",
+          "to": "tatiana-romanov",
+          "type": "招募者与工具",
+          "change": "以晋升与人质威胁招募塔蒂亚娜，只告诉她片面任务，隐瞒拍照与谋杀计划",
+          "sources": [
+            "from-russia-with-love:第Four-Twenty-Eight章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "ross",
+      "b": "scaramanga",
+      "relations": [
+        {
+          "from": "ross",
+          "to": "scaramanga",
+          "type": "被害者与凶手",
+          "change": "罗斯追踪斯卡拉曼加反被其杀害",
+          "sources": [
+            "man-with-golden-gun:第4-9章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "rotkopf",
+      "b": "scaramanga",
+      "relations": [
+        {
+          "from": "rotkopf",
+          "to": "scaramanga",
+          "type": "股东与主席",
+          "change": "因债务优先权争执被斯卡拉曼加处决",
+          "sources": [
+            "man-with-golden-gun:第7-9章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "ruby",
+      "b": "violet",
+      "relations": [
+        {
+          "from": "violet",
+          "to": "ruby",
+          "type": "病友",
+          "change": "无变化",
+          "sources": [
+            "on-her-majestys-secret-service:第10-26章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "sanguinetti",
+      "b": "sol-horowitz",
+      "relations": [
+        {
+          "from": "sol-horowitz",
+          "to": "sanguinetti",
+          "type": "雇主与打手",
+          "change": "受雇执行纵火，雇主事后逃亡",
+          "sources": [
+            "spy-who-loved-me:第Eight-Thirteen章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "sanguinetti",
+          "to": "sol-horowitz",
+          "type": "雇主与打手",
+          "change": "雇两人纵火，事后独自逃亡",
+          "sources": [
+            "spy-who-loved-me:第Seven-Fifteen章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "scaramanga",
+      "b": "tiffy",
+      "relations": [
+        {
+          "from": "scaramanga",
+          "to": "tiffy",
+          "type": "常客与妓院女经理",
+          "change": "常去3-1/2 Love Lane买大麻与寻欢；射杀她的宠物鸟后Tiffy发誓去找Mother Edna下咒",
+          "sources": [
+            "man-with-golden-gun:第3-15章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "tiffy",
+          "to": "scaramanga",
+          "type": "常客与受害者",
+          "change": "见斯卡拉曼加条目",
+          "sources": [
+            "man-with-golden-gun:第5-6章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "seraffimo-spang",
+      "b": "shady-tree",
+      "relations": [
+        {
+          "from": "shady-tree",
+          "to": "seraffimo-spang",
+          "type": "手下",
+          "change": "为斯班格帮效力，结尾邦德判断其须躲藏避风头",
+          "sources": [
+            "diamonds-are-forever:第5-14章"
+          ],
+          "via_group": "spang-brothers"
+        }
+      ]
+    },
+    {
+      "a": "seraffimo-spang",
+      "b": "tiffany-case",
+      "relations": [
+        {
+          "from": "tiffany-case",
+          "to": "seraffimo-spang",
+          "type": "雇佣",
+          "change": "在Tiara为其工作，拒绝与他上床；结尾脱离其帮派",
+          "sources": [
+            "diamonds-are-forever:第3-25章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "seraffimo-spang",
+          "to": "tiffany-case",
+          "type": "雇主",
+          "change": "雇她在Tiara发牌，结尾她背叛他、救走邦德",
+          "sources": [
+            "diamonds-are-forever:第6-20章",
+            "character-core.json"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "sluggsy-morant",
+      "b": "sol-horowitz",
+      "relations": [
+        {
+          "from": "sol-horowitz",
+          "to": "sluggsy-morant",
+          "type": "同伙（头目与手下）",
+          "change": "全程指挥斯拉格西，两人一同死于当夜",
+          "sources": [
+            "spy-who-loved-me:第Eight-Thirteen章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "sluggsy-morant",
+          "to": "sol-horowitz",
+          "type": "同伙（手下与头目）",
+          "change": "服从霍勒指挥，一同纵火后逃跑",
+          "sources": [
+            "spy-who-loved-me:第Eight-Fourteen章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "sluggsy-morant",
+      "b": "vivienne-michel",
+      "relations": [
+        {
+          "from": "vivienne-michel",
+          "to": "sluggsy-morant",
+          "type": "施暴者与受害者",
+          "change": "遭其追捕、调戏与威胁，最终被邦德击毙",
+          "sources": [
+            "spy-who-loved-me:第One-Fifteen章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "sluggsy-morant",
+          "to": "vivienne-michel",
+          "type": "施暴者与受害者",
+          "change": "追捕、调戏并企图侵犯她，最终被邦德击毙",
+          "sources": [
+            "spy-who-loved-me:第Eight-Fourteen章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "sol-horowitz",
+      "b": "vivienne-michel",
+      "relations": [
+        {
+          "from": "vivienne-michel",
+          "to": "sol-horowitz",
+          "type": "施暴者与受害者",
+          "change": "遭其毒打与死亡威胁，次日得知其死于湖中沉车",
+          "sources": [
+            "spy-who-loved-me:第One-Fifteen章",
+            "character-core.json"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "sol-horowitz",
+          "to": "vivienne-michel",
+          "type": "施暴者与受害者",
+          "change": "毒打并计划烧死她，最终被邦德击中、驾车坠湖溺亡",
+          "sources": [
+            "spy-who-loved-me:第Eight-Thirteen章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "strangways",
+      "b": "trueblood",
+      "relations": [
+        {
+          "from": "strangways",
+          "to": "trueblood",
+          "type": "上下级",
+          "change": "特鲁布拉德是其二号助手；官方误认两人私奔，实为同日被杀",
+          "sources": [
+            "dr-no:第I-XV章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "susan-duff",
+      "b": "vivienne-michel",
+      "relations": [
+        {
+          "from": "vivienne-michel",
+          "to": "susan-duff",
+          "type": "挚友",
+          "change": "结业学校好友，苏珊结婚后薇薇安搬出合租房",
+          "sources": [
+            "spy-who-loved-me:第One-Fifteen章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "susan-duff",
+          "to": "vivienne-michel",
+          "type": "挚友与室友",
+          "change": "苏珊结婚后两人分开居住",
+          "sources": [
+            "spy-who-loved-me:第Two-Five章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "tingaling-bell",
+      "b": "wint",
+      "relations": [
+        {
+          "from": "tingaling-bell",
+          "to": "wint",
+          "type": "被害者",
+          "change": "温特认定其双重背叛而将其烫死",
+          "sources": [
+            "diamonds-are-forever:第11-13章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "versoix",
+      "b": "vesper-lynd",
+      "relations": [
+        {
+          "from": "versoix",
+          "to": "vesper-lynd",
+          "type": "店主与住客",
+          "change": "发现薇丝朋死讯后将遗书交给邦德",
+          "sources": [
+            "casino-royale:第22-27章"
+          ],
+          "via_group": null
+        }
+      ]
+    },
+    {
+      "a": "vida",
+      "b": "zora",
+      "relations": [
+        {
+          "from": "zora",
+          "to": "vida",
+          "type": "情敌",
+          "change": "由决斗至死改为平局",
+          "sources": [
+            "from-russia-with-love:第Eighteen-Eighteen章"
+          ],
+          "via_group": null
+        },
+        {
+          "from": "vida",
+          "to": "zora",
+          "type": "情敌",
+          "change": "由决斗至死改为平局",
+          "sources": [
+            "from-russia-with-love:第Eighteen-Eighteen章"
+          ],
+          "via_group": null
+        }
+      ]
+    }
+  ]
+}

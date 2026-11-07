@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "generated": "2026-11-06",
-  "total_unique": 93,
+  "total_unique": 89,
   "note": "Secret Service与Secret Intelligence Service为同一机构的不同称呼，已归并；CIA与Central Intelligence Agency为同一机构，已归并。",
   "organizations": [
     {
@@ -9,7 +9,7 @@
       "name_en": "Secret Intelligence Service",
       "name_zh": "英国秘密情报机构",
       "kind": null,
-      "appearance_count": 12,
+      "appearance_count": 14,
       "appearances": [
         {
           "novel": "casino-royale",
@@ -34,6 +34,12 @@
           "novel_no": 4,
           "role": "邦德所属机构，M任首脑；受首相授权调查钻石走私，邦德为007特工",
           "first_chapter": 2
+        },
+        {
+          "novel": "from-russia-with-love",
+          "novel_no": 5,
+          "role": "邦德所属机构，首脑为M；为SMERSH诱杀行动的打击目标",
+          "first_chapter": "Four"
         },
         {
           "novel": "dr-no",
@@ -69,6 +75,12 @@
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
           "role": "邦德所属机构，对外掩护为Universal Export；行动代号先为Bedlam，后为CORONA",
+          "first_chapter": 2
+        },
+        {
+          "novel": "you-only-live-twice",
+          "novel_no": 12,
+          "role": "邦德所属机构，以国防部为掩护，M为首脑",
           "first_chapter": 2
         },
         {
@@ -402,13 +414,19 @@
       "name_en": "The Spangled Mob",
       "name_zh": "斯班格帮",
       "kind": null,
-      "appearance_count": 2,
+      "appearance_count": 3,
       "appearances": [
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
           "role": "本部反派组织，杰克与塞拉菲莫·斯班格共管，经营钻石走私、赌博、赛马骗局、毒品与卖淫，在纽约、拉斯维加斯、迈阿密、底特律、芝加哥有分支",
           "first_chapter": 6
+        },
+        {
+          "novel": "goldfinger",
+          "novel_no": 7,
+          "role": "首脑杰克·斯特拉普加入大满贯行动",
+          "first_chapter": "SEVENTEEN"
         },
         {
           "novel": "man-with-golden-gun",
@@ -457,27 +475,6 @@
           "novel_no": 8,
           "role": "第1篇邦德推测地堡小组的上级控制机关,原文仅为推测未证实",
           "first_chapter": 1
-        }
-      ]
-    },
-    {
-      "id": "british-secret-service",
-      "name_en": "British Secret Service",
-      "name_zh": "英国秘密情报局",
-      "kind": null,
-      "appearance_count": 2,
-      "appearances": [
-        {
-          "novel": "from-russia-with-love",
-          "novel_no": 5,
-          "role": "邦德所属机构，首脑为M；为SMERSH诱杀行动的打击目标",
-          "first_chapter": "Four"
-        },
-        {
-          "novel": "you-only-live-twice",
-          "novel_no": 12,
-          "role": "邦德所属机构，以国防部为掩护，M为首脑",
-          "first_chapter": 2
         }
       ]
     },
@@ -666,13 +663,19 @@
       "name_en": "North Atlantic Treaty Organization",
       "name_zh": "北大西洋公约组织",
       "kind": null,
-      "appearance_count": 1,
+      "appearance_count": 2,
       "appearances": [
         {
           "novel": "casino-royale",
           "novel_no": 1,
           "role": "行动的政治背景，击败勒·希弗符合北约国家利益，莱特任职于北约联合情报部门",
           "first_chapter": 2
+        },
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "失踪飞机执行北约训练飞行任务，佩塔基为北约借调观察员",
+          "first_chapter": 7
         }
       ]
     },
@@ -887,21 +890,6 @@
       ]
     },
     {
-      "id": "detroit-purple-gang",
-      "name_en": "Detroit Purple Gang",
-      "name_zh": "底特律紫帮",
-      "kind": null,
-      "appearance_count": 1,
-      "appearances": [
-        {
-          "novel": "diamonds-are-forever",
-          "novel_no": 4,
-          "role": "与斯班格帮、克利夫兰帮并列最高级别的美国帮派；弗拉索与麦戈尼格尔出自该帮",
-          "first_chapter": 6
-        }
-      ]
-    },
-    {
       "id": "smersh-otdyel-ii",
       "name_en": "SMERSH Otdyel II",
       "name_zh": "SMERSH第二部",
@@ -1071,13 +1059,29 @@
       "name_en": "The Purple Gang, Detroit",
       "name_zh": "底特律紫帮",
       "kind": null,
-      "appearance_count": 1,
+      "appearance_count": 4,
       "appearances": [
+        {
+          "novel": "diamonds-are-forever",
+          "novel_no": 4,
+          "role": "与斯班格帮、克利夫兰帮并列最高级别的美国帮派；弗拉索与麦戈尼格尔出自该帮",
+          "first_chapter": 6
+        },
         {
           "novel": "goldfinger",
           "novel_no": 7,
           "role": "首脑斯普林格拒绝加入后被灭口",
           "first_chapter": "SEVENTEEN"
+        },
+        {
+          "novel": "thunderball",
+          "novel_no": 9,
+          "role": "布洛菲尔德点名：Magnus Blomberg为底特律紫帮成员（第6章）"
+        },
+        {
+          "novel": "man-with-golden-gun",
+          "novel_no": 13,
+          "role": "斯卡拉曼加1958年与底特律紫帮对头Ramon Rodriguez决斗（第3章档案）；会议上提及Sam Binion与紫帮的关系"
         }
       ]
     },
@@ -1107,21 +1111,6 @@
           "novel": "goldfinger",
           "novel_no": 7,
           "role": "首脑比利·林加入大满贯行动",
-          "first_chapter": "SEVENTEEN"
-        }
-      ]
-    },
-    {
-      "id": "spangled-mob",
-      "name_en": "The Spangled Mob, Las Vegas",
-      "name_zh": "花斑帮",
-      "kind": null,
-      "appearance_count": 1,
-      "appearances": [
-        {
-          "novel": "goldfinger",
-          "novel_no": 7,
-          "role": "首脑杰克·斯特拉普加入大满贯行动",
           "first_chapter": "SEVENTEEN"
         }
       ]
@@ -1273,21 +1262,6 @@
           "novel_no": 9,
           "role": "澳门犯罪帮会，利普为其成员，SPECTRE次级特工的来源之一",
           "first_chapter": 2
-        }
-      ]
-    },
-    {
-      "id": "nato",
-      "name_en": "NATO",
-      "name_zh": "北约",
-      "kind": null,
-      "appearance_count": 1,
-      "appearances": [
-        {
-          "novel": "thunderball",
-          "novel_no": 9,
-          "role": "失踪飞机执行北约训练飞行任务，佩塔基为北约借调观察员",
-          "first_chapter": 7
         }
       ]
     },

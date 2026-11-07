@@ -1292,12 +1292,12 @@
     },
     {
       "canon_or_inference": "canon",
-      "chapter": "XX",
+      "chapter": "XXI",
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德的宾利在查令山弯道被滚落的新闻纸卷撞出路面,邦德受伤被俘,德拉克斯取走其贝雷塔并拆下车牌。",
       "quote": "Bond was lying face downwards at the bottom",
-      "quote_source": "第XX章",
+      "quote_source": "第XXI章",
       "source_novel": "moonraker",
       "timeline_position": "1955年5月星期四晚"
     },
@@ -1325,12 +1325,12 @@
     },
     {
       "canon_or_inference": "canon",
-      "chapter": "XXII",
+      "chapter": "II",
       "confidence": "high",
       "entity": "drax",
       "fact": "德拉克斯小队炸毁盟军后方联络总部食堂,造成逾百人死伤,他本人被己方飞机炸伤后冒充英国伤员,借Hugo Drax身份出院。",
       "quote": "Killed or wounded over a hundred",
-      "quote_source": "第XXII章",
+      "quote_source": "第II章",
       "source_novel": "moonraker",
       "timeline_position": "1944年至1945年"
     },

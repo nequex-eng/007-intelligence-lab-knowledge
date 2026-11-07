@@ -1,0 +1,2081 @@
+{
+  "schema_version": "1.0",
+  "generated": "2026-11-06",
+  "note": "统一实体解析索引：全部别名到规范id的映射。解析顺序：先按id精确匹配，再按别名匹配（大小写不敏感，前后空白忽略）；ambiguous为true的条目返回candidates候选清单，由调用方按小说、出场或身份进一步区分，不得静默合并为一人。kind为实体类别（characters/organizations/locations/equipment/group）。",
+  "lookup": "id精确匹配优先；别名大小写不敏感；歧义返回候选清单",
+  "aliases": [
+    {
+      "alias": "\"pistols\" scaramanga",
+      "canonical_id": "scaramanga",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/scaramanga条目aliases；man-with-golden-gun人物scaramanga条目aliases"
+    },
+    {
+      "alias": "007",
+      "canonical_id": "bond",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "casino-royale人物bond条目aliases；characters/bond条目aliases；dr-no人物bond条目aliases；for-your-eyes-only人物bond条目aliases；from-russia-with-love人物bond条目aliases；goldfinger人物bond条目aliases；live-and-let-die人物bond条目aliases；man-with-golden-gun人物bond条目aliases；moonraker人物bond条目aliases；octopussy人物bond条目aliases；spy-who-loved-me人物james-bond条目aliases"
+    },
+    {
+      "alias": "098",
+      "canonical_id": "margesson",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/margesson条目aliases；man-with-golden-gun人物margesson条目aliases"
+    },
+    {
+      "alias": "3030",
+      "canonical_id": "vesper-lynd",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "casino-royale人物vesper-lynd条目aliases；characters/vesper-lynd条目aliases"
+    },
+    {
+      "alias": "410",
+      "canonical_id": "alexander-muir",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/alexander-muir条目aliases；on-her-majestys-secret-service人物alexander-muir条目aliases"
+    },
+    {
+      "alias": "501",
+      "canonical_id": "leathers",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/leathers条目aliases；on-her-majestys-secret-service人物leathers条目aliases"
+    },
+    {
+      "alias": "abc",
+      "canonical_id": "jack-spang",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "novel-04.json关系引用abc，为杰克·斯班格的化名；索引jack-spang条目aliases已收ABC；characters/jack-spang条目aliases；diamonds-are-forever人物jack-spang条目aliases"
+    },
+    {
+      "alias": "admiral",
+      "canonical_id": "m",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/m条目aliases；moonraker人物m条目aliases"
+    },
+    {
+      "alias": "admiral sir miles messervy",
+      "canonical_id": "m",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/m条目aliases"
+    },
+    {
+      "alias": "artificial",
+      "canonical_id": "tiffy",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/tiffy条目aliases；man-with-golden-gun人物tiffy条目aliases"
+    },
+    {
+      "alias": "assistant commissioner vallance",
+      "canonical_id": "vallance",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/vallance条目aliases；diamonds-are-forever人物ronnie-vallance条目aliases"
+    },
+    {
+      "alias": "aunt florence",
+      "canonical_id": "florence-toussaint",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/florence-toussaint条目aliases；spy-who-loved-me人物florence-toussaint条目aliases"
+    },
+    {
+      "alias": "b. kitteridge",
+      "canonical_id": "kidd",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/kidd条目aliases；diamonds-are-forever人物kidd条目aliases"
+    },
+    {
+      "alias": "baldwin",
+      "canonical_id": "samuel-baldwin",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/samuel-baldwin条目aliases；live-and-let-die人物samuel-baldwin条目aliases"
+    },
+    {
+      "alias": "big boy",
+      "canonical_id": "mr-big",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/mr-big条目aliases；live-and-let-die人物mr-big条目aliases"
+    },
+    {
+      "alias": "bill",
+      "canonical_id": "chief-of-staff",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/chief-of-staff条目aliases；you-only-live-twice人物bill-tanner条目aliases"
+    },
+    {
+      "alias": "bill-tanner",
+      "canonical_id": "chief-of-staff",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "旧索引id，2026-11-06验证合并入chief-of-staff（同名同姓Bill Tanner），旧id保留为别名"
+    },
+    {
+      "alias": "blabbermouth",
+      "canonical_id": "blabbermouth-foley",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/blabbermouth-foley条目aliases；live-and-let-die人物blabbermouth-foley条目aliases"
+    },
+    {
+      "alias": "blackpatch",
+      "canonical_id": "gettler",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "casino-royale人物gettler条目aliases；characters/gettler条目aliases"
+    },
+    {
+      "alias": "bloody morgan",
+      "canonical_id": "bloody-morgan",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/bloody-morgan条目aliases；live-and-let-die人物bloody-morgan条目aliases"
+    },
+    {
+      "alias": "bondo-san",
+      "canonical_id": "bond",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/bond条目aliases；you-only-live-twice人物bond条目aliases"
+    },
+    {
+      "alias": "booful（第22章温特对其称呼）",
+      "canonical_id": "kidd",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/kidd条目aliases；diamonds-are-forever人物kidd条目aliases"
+    },
+    {
+      "alias": "british-secret-service",
+      "canonical_id": "secret-service",
+      "candidates": null,
+      "kind": "organizations",
+      "ambiguous": false,
+      "basis": "novel-05.json与novel-12.json组织id；与secret-service为同一机构（邦德所属机构，首脑为M），2026-11-06验证合并，旧id保留为别名"
+    },
+    {
+      "alias": "c.o.s.",
+      "canonical_id": "chief-of-staff",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/chief-of-staff条目aliases；man-with-golden-gun人物tanner条目aliases"
+    },
+    {
+      "alias": "cap'n",
+      "canonical_id": "felix-leiter",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/felix-leiter条目aliases；goldfinger人物felix-leiter条目aliases"
+    },
+    {
+      "alias": "captain boris",
+      "canonical_id": "captain-boris",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "on-her-majestys-secret-service人物captain-boris条目aliases"
+    },
+    {
+      "alias": "captain norman nash",
+      "canonical_id": "red-grant",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/red-grant条目aliases；from-russia-with-love人物red-grant条目aliases"
+    },
+    {
+      "alias": "capu",
+      "canonical_id": "draco",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/draco条目aliases；on-her-majestys-secret-service人物draco条目aliases"
+    },
+    {
+      "alias": "caroline somerset",
+      "canonical_id": "tatiana-romanov",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/tatiana-romanov条目aliases；from-russia-with-love人物tatiana-romanov条目aliases"
+    },
+    {
+      "alias": "che-che le persuadeur",
+      "canonical_id": "che-che",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/che-che条目aliases；on-her-majestys-secret-service人物che-che条目aliases"
+    },
+    {
+      "alias": "chief of staff",
+      "canonical_id": "chief-of-staff",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "casino-royale人物chief-of-staff条目aliases；characters/chief-of-staff条目aliases；diamonds-are-forever人物chief-of-staff条目aliases；man-with-golden-gun人物tanner条目aliases"
+    },
+    {
+      "alias": "colt-army-special-45",
+      "canonical_id": "colt-army-special",
+      "candidates": null,
+      "kind": "equipment",
+      "ambiguous": false,
+      "basis": "novel-03.json装备id；索引规范id为colt-army-special（Colt Army Special .45），出场记录与novel-03条目一致"
+    },
+    {
+      "alias": "commander bond",
+      "canonical_id": "bond",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/bond条目aliases；goldfinger人物bond条目aliases；moonraker人物bond条目aliases；octopussy人物bond条目aliases；spy-who-loved-me人物james-bond条目aliases"
+    },
+    {
+      "alias": "comte balthazar de bleuville",
+      "canonical_id": "blofeld",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/blofeld条目aliases；on-her-majestys-secret-service人物blofeld条目aliases"
+    },
+    {
+      "alias": "comte de bleuville",
+      "canonical_id": "blofeld",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/blofeld条目aliases；on-her-majestys-secret-service人物blofeld条目aliases"
+    },
+    {
+      "alias": "comtesse metterstein",
+      "canonical_id": "rosa-klebb",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/rosa-klebb条目aliases；from-russia-with-love人物rosa-klebb条目aliases"
+    },
+    {
+      "alias": "comtesse teresa di vicenzo",
+      "canonical_id": "tracy",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/tracy条目aliases；on-her-majestys-secret-service人物tracy条目aliases"
+    },
+    {
+      "alias": "count lippe",
+      "canonical_id": "lippe",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "thunderball人物lippe条目aliases"
+    },
+    {
+      "alias": "david somerset",
+      "canonical_id": "bond",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/bond条目aliases；from-russia-with-love人物bond条目aliases"
+    },
+    {
+      "alias": "detroit-purple-gang",
+      "canonical_id": "purple-gang",
+      "candidates": null,
+      "kind": "organizations",
+      "ambiguous": false,
+      "basis": "旧索引id，2026-11-06验证合并入purple-gang（同一底特律紫帮），旧id保留为别名"
+    },
+    {
+      "alias": "dexter smythe",
+      "canonical_id": "dexter-smythe",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/dexter-smythe条目aliases；octopussy人物dexter-smythe条目aliases"
+    },
+    {
+      "alias": "dickson",
+      "canonical_id": "agent-279",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/agent-279条目aliases；goldfinger人物agent-279条目aliases"
+    },
+    {
+      "alias": "dikko",
+      "canonical_id": "dikko-henderson",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/dikko-henderson条目aliases；you-only-live-twice人物dikko-henderson条目aliases"
+    },
+    {
+      "alias": "doctor guntram shatterhand",
+      "canonical_id": "blofeld",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/blofeld条目aliases；you-only-live-twice人物blofeld条目aliases"
+    },
+    {
+      "alias": "doctor no",
+      "canonical_id": "dr-no",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/dr-no条目aliases；dr-no人物dr-no条目aliases"
+    },
+    {
+      "alias": "doctor walter",
+      "canonical_id": "walter",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/walter条目aliases；moonraker人物walter条目aliases"
+    },
+    {
+      "alias": "dominetta vitali",
+      "canonical_id": "domino",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "thunderball人物domino条目aliases"
+    },
+    {
+      "alias": "emil traut",
+      "canonical_id": "kotze",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/kotze条目aliases；thunderball人物kotze条目aliases"
+    },
+    {
+      "alias": "emilio largo",
+      "canonical_id": "largo",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "thunderball人物largo条目aliases"
+    },
+    {
+      "alias": "ernie cureo",
+      "canonical_id": "ernie-cureo",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/ernie-cureo条目aliases；diamonds-are-forever人物ernie-cureo条目aliases"
+    },
+    {
+      "alias": "ernst stavro blofeld",
+      "canonical_id": "blofeld",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "thunderball人物blofeld条目aliases"
+    },
+    {
+      "alias": "f. larkin",
+      "canonical_id": "felix-leiter",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/felix-leiter条目aliases；thunderball人物leiter条目aliases"
+    },
+    {
+      "alias": "felix leiter",
+      "canonical_id": "felix-leiter",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "casino-royale人物felix-leiter条目aliases"
+    },
+    {
+      "alias": "fido",
+      "canonical_id": "fidele-barbey",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/fidele-barbey条目aliases；for-your-eyes-only人物fidele-barbey条目aliases"
+    },
+    {
+      "alias": "frank westmacott",
+      "canonical_id": "bond",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/bond条目aliases；man-with-golden-gun人物bond条目aliases"
+    },
+    {
+      "alias": "frau emmy shatterhand",
+      "canonical_id": "irma-bunt",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/irma-bunt条目aliases；you-only-live-twice人物irma-bunt条目aliases"
+    },
+    {
+      "alias": "fraulein bunt",
+      "canonical_id": "irma-bunt",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/irma-bunt条目aliases；on-her-majestys-secret-service人物irma-bunt条目aliases"
+    },
+    {
+      "alias": "fraulein lisl baum",
+      "canonical_id": "lisl-baum",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/lisl-baum条目aliases；for-your-eyes-only人物lisl-baum条目aliases"
+    },
+    {
+      "alias": "g-g",
+      "canonical_id": "g-g-sumatra",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/g-g-sumatra条目aliases；live-and-let-die人物g-g-sumatra条目aliases"
+    },
+    {
+      "alias": "g.",
+      "canonical_id": "grubozaboyschikov",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/grubozaboyschikov条目aliases；from-russia-with-love人物grubozaboyschikov条目aliases"
+    },
+    {
+      "alias": "gala",
+      "canonical_id": "gala-brand",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/gala-brand条目aliases；moonraker人物gala-brand条目aliases"
+    },
+    {
+      "alias": "galatea brand",
+      "canonical_id": "gala-brand",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/gala-brand条目aliases；moonraker人物gala-brand条目aliases"
+    },
+    {
+      "alias": "giuseppi petacchi",
+      "canonical_id": "petacchi",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/petacchi条目aliases；thunderball人物petacchi条目aliases"
+    },
+    {
+      "alias": "gold",
+      "canonical_id": "auric-goldfinger",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/auric-goldfinger条目aliases；goldfinger人物auric-goldfinger条目aliases"
+    },
+    {
+      "alias": "goodnight",
+      "canonical_id": "mary-goodnight",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/mary-goodnight条目aliases；on-her-majestys-secret-service人物mary-goodnight条目aliases"
+    },
+    {
+      "alias": "graf hugo von der drache",
+      "canonical_id": "drax",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/drax条目aliases；moonraker人物drax条目aliases"
+    },
+    {
+      "alias": "granit",
+      "canonical_id": "red-grant",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/red-grant条目aliases；from-russia-with-love人物red-grant条目aliases"
+    },
+    {
+      "alias": "grey pearl",
+      "canonical_id": "grey-pearl",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "you-only-live-twice人物grey-pearl条目aliases"
+    },
+    {
+      "alias": "griffon or pursuivant",
+      "canonical_id": "griffon-or",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/griffon-or条目aliases；on-her-majestys-secret-service人物griffon-or条目aliases"
+    },
+    {
+      "alias": "g将军",
+      "canonical_id": "grubozaboyschikov",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/grubozaboyschikov条目aliases；from-russia-with-love人物grubozaboyschikov条目aliases"
+    },
+    {
+      "alias": "hammerstein",
+      "canonical_id": "von-hammerstein",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/von-hammerstein条目aliases；for-your-eyes-only人物von-hammerstein条目aliases"
+    },
+    {
+      "alias": "harpoon-gun",
+      "canonical_id": "champion-harpoon",
+      "candidates": null,
+      "kind": "equipment",
+      "ambiguous": false,
+      "basis": "novel-08.json装备id；索引规范id为champion-harpoon（Champion harpoon gun），第5篇条目一致"
+    },
+    {
+      "alias": "head of station f",
+      "canonical_id": "rattray",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/rattray条目aliases；for-your-eyes-only人物rattray条目aliases"
+    },
+    {
+      "alias": "head of station m",
+      "canonical_id": "savage",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/savage条目aliases；on-her-majestys-secret-service人物savage条目aliases"
+    },
+    {
+      "alias": "head of station z",
+      "canonical_id": "alexander-muir",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/alexander-muir条目aliases；on-her-majestys-secret-service人物alexander-muir条目aliases"
+    },
+    {
+      "alias": "heel-knife",
+      "canonical_id": "shoe-knife",
+      "candidates": null,
+      "kind": "equipment",
+      "ambiguous": false,
+      "basis": "novel-11.json装备id；索引规范id为shoe-knife（Heel knife），第1章条目一致"
+    },
+    {
+      "alias": "hell",
+      "canonical_id": "helmut-springer",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/helmut-springer条目aliases；goldfinger人物helmut-springer条目aliases"
+    },
+    {
+      "alias": "herr nummer",
+      "canonical_id": "le-chiffre",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "casino-royale人物le-chiffre条目aliases；characters/le-chiffre条目aliases"
+    },
+    {
+      "alias": "herr ziffer",
+      "canonical_id": "le-chiffre",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "casino-royale人物le-chiffre条目aliases；characters/le-chiffre条目aliases"
+    },
+    {
+      "alias": "hilary bray",
+      "canonical_id": "sable-basilisk",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "on-her-majestys-secret-service人物sable-basilisk条目aliases"
+    },
+    {
+      "alias": "honey",
+      "canonical_id": "honeychile-rider",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/honeychile-rider条目aliases；dr-no人物honeychile-rider条目aliases"
+    },
+    {
+      "alias": "horror",
+      "canonical_id": "sol-horowitz",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/sol-horowitz条目aliases；spy-who-loved-me人物sol-horowitz条目aliases"
+    },
+    {
+      "alias": "hugger drax",
+      "canonical_id": "drax",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/drax条目aliases；moonraker人物drax条目aliases"
+    },
+    {
+      "alias": "import and export merchant",
+      "canonical_id": "bond",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/bond条目aliases；dr-no人物bond条目aliases"
+    },
+    {
+      "alias": "irma la not so douce",
+      "canonical_id": "irma-bunt",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/irma-bunt条目aliases；on-her-majestys-secret-service人物irma-bunt条目aliases"
+    },
+    {
+      "alias": "james-bond",
+      "canonical_id": "bond",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "novel-10.json人物id为james-bond；索引规范id为bond"
+    },
+    {
+      "alias": "james-molony",
+      "canonical_id": "molony",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "novel-12.json人物id为james-molony，原文为Sir James Molony；索引规范id为molony；与莫洛尼军士不同人"
+    },
+    {
+      "alias": "jim",
+      "canonical_id": "bond",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/bond条目aliases；for-your-eyes-only人物bond条目aliases"
+    },
+    {
+      "alias": "john bryce",
+      "canonical_id": "bond",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/bond条目aliases；dr-no人物bond条目aliases；live-and-let-die人物bond条目aliases"
+    },
+    {
+      "alias": "johns(化名,真名未透露)",
+      "canonical_id": "colonel-johns",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/colonel-johns条目aliases；for-your-eyes-only人物colonel-johns条目aliases"
+    },
+    {
+      "alias": "julius no",
+      "canonical_id": "dr-no",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/dr-no条目aliases；dr-no人物dr-no条目aliases"
+    },
+    {
+      "alias": "kandinsky",
+      "canonical_id": "maslov",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/maslov条目aliases；thunderball人物maslov条目aliases"
+    },
+    {
+      "alias": "kerim bey",
+      "canonical_id": "darko-kerim",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/darko-kerim条目aliases；from-russia-with-love人物darko-kerim条目aliases"
+    },
+    {
+      "alias": "krassno granitski",
+      "canonical_id": "red-grant",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/red-grant条目aliases；from-russia-with-love人物red-grant条目aliases"
+    },
+    {
+      "alias": "lame-brain pissaro",
+      "canonical_id": "pissaro",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/pissaro条目aliases；diamonds-are-forever人物pissaro条目aliases"
+    },
+    {
+      "alias": "le pouff",
+      "canonical_id": "toussaint",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/toussaint条目aliases；on-her-majestys-secret-service人物toussaint条目aliases"
+    },
+    {
+      "alias": "leiter",
+      "canonical_id": "felix-leiter",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "novel-09.json人物id为leiter，原文全名Felix Leiter；索引规范id为felix-leiter"
+    },
+    {
+      "alias": "lieutenant-commander savage",
+      "canonical_id": "savage",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/savage条目aliases；on-her-majestys-secret-service人物savage条目aliases"
+    },
+    {
+      "alias": "lil",
+      "canonical_id": "loelia-ponsonby",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/loelia-ponsonby条目aliases；moonraker人物loelia-ponsonby条目aliases；thunderball人物loelia-ponsonby条目aliases"
+    },
+    {
+      "alias": "lil（第2章邦德对其称呼）",
+      "canonical_id": "moneypenny",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/moneypenny条目aliases；diamonds-are-forever人物moneypenny条目aliases"
+    },
+    {
+      "alias": "liz",
+      "canonical_id": "liz-krest",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/liz-krest条目aliases；for-your-eyes-only人物liz-krest条目aliases"
+    },
+    {
+      "alias": "loelia",
+      "canonical_id": "loelia-ponsonby",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/loelia-ponsonby条目aliases；moonraker人物loelia-ponsonby条目aliases"
+    },
+    {
+      "alias": "london-target",
+      "canonical_id": "london",
+      "candidates": null,
+      "kind": "locations",
+      "ambiguous": false,
+      "basis": "novel-03.json地点id为london-target，实为伦敦（德拉克斯黑皮本设定的目标），非独立地点；索引规范id为london"
+    },
+    {
+      "alias": "louie",
+      "canonical_id": "paradise",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/paradise条目aliases；man-with-golden-gun人物paradise条目aliases"
+    },
+    {
+      "alias": "m.",
+      "canonical_id": "m",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/m条目aliases；moonraker人物m条目aliases"
+    },
+    {
+      "alias": "m.g.",
+      "canonical_id": "mary-goodnight",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/mary-goodnight条目aliases；you-only-live-twice人物mary-goodnight条目aliases"
+    },
+    {
+      "alias": "mademoiselle lynd",
+      "canonical_id": "vesper-lynd",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "casino-royale人物vesper-lynd条目aliases；characters/vesper-lynd条目aliases"
+    },
+    {
+      "alias": "mailed-fist",
+      "canonical_id": "m",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/m条目aliases；man-with-golden-gun人物m条目aliases"
+    },
+    {
+      "alias": "major smythe",
+      "canonical_id": "dexter-smythe",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/dexter-smythe条目aliases；octopussy人物dexter-smythe条目aliases"
+    },
+    {
+      "alias": "mark hazard",
+      "canonical_id": "bond",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/bond条目aliases；man-with-golden-gun人物bond条目aliases"
+    },
+    {
+      "alias": "mary smythe",
+      "canonical_id": "mary-parnell",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/mary-parnell条目aliases；octopussy人物mary-parnell条目aliases"
+    },
+    {
+      "alias": "masters",
+      "canonical_id": "philip-masters",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/philip-masters条目aliases；for-your-eyes-only人物philip-masters条目aliases"
+    },
+    {
+      "alias": "max",
+      "canonical_id": "meyer",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/meyer条目aliases；moonraker人物meyer条目aliases"
+    },
+    {
+      "alias": "messrs. foo",
+      "canonical_id": "foo-brothers",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/foo-brothers条目aliases；octopussy人物foo-brothers条目aliases"
+    },
+    {
+      "alias": "miami",
+      "canonical_id": "sam-miami",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/sam-miami条目aliases；live-and-let-die人物sam-miami条目aliases；注意：Miami同时为地点id（迈阿密），解析时须按kind区分——地点解析先按地点id精确匹配，人物别名Miami才指sam-miami"
+    },
+    {
+      "alias": "milt",
+      "canonical_id": "milton-krest",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/milton-krest条目aliases；for-your-eyes-only人物milton-krest条目aliases"
+    },
+    {
+      "alias": "miss brand",
+      "canonical_id": "gala-brand",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/gala-brand条目aliases；moonraker人物gala-brand条目aliases"
+    },
+    {
+      "alias": "miss case",
+      "canonical_id": "tiffany-case",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/tiffany-case条目aliases；diamonds-are-forever人物tiffany-case条目aliases"
+    },
+    {
+      "alias": "miss fearing",
+      "canonical_id": "patricia-fearing",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/patricia-fearing条目aliases；thunderball人物patricia-fearing条目aliases"
+    },
+    {
+      "alias": "miss freudenstein",
+      "canonical_id": "maria-freudenstein",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/maria-freudenstein条目aliases；octopussy人物maria-freudenstein条目aliases"
+    },
+    {
+      "alias": "miss galore",
+      "canonical_id": "pussy-galore",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/pussy-galore条目aliases；goldfinger人物pussy-galore条目aliases"
+    },
+    {
+      "alias": "miss lynd",
+      "canonical_id": "vesper-lynd",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "casino-royale人物vesper-lynd条目aliases；characters/vesper-lynd条目aliases"
+    },
+    {
+      "alias": "miss moneypenny",
+      "canonical_id": "moneypenny",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "live-and-let-die人物moneypenny条目aliases；on-her-majestys-secret-service人物moneypenny条目aliases；you-only-live-twice人物moneypenny条目aliases"
+    },
+    {
+      "alias": "miss soames",
+      "canonical_id": "tilly-masterton",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/tilly-masterton条目aliases；goldfinger人物tilly-masterton条目aliases"
+    },
+    {
+      "alias": "miss t. case",
+      "canonical_id": "tiffany-case",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/tiffany-case条目aliases；diamonds-are-forever人物tiffany-case条目aliases"
+    },
+    {
+      "alias": "miss tilly soames",
+      "canonical_id": "tilly-masterton",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/tilly-masterton条目aliases；goldfinger人物tilly-masterton条目aliases"
+    },
+    {
+      "alias": "miss-moneypenny",
+      "canonical_id": "moneypenny",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "novel-14.json人物id为miss-moneypenny；索引规范id为moneypenny"
+    },
+    {
+      "alias": "Molony",
+      "canonical_id": null,
+      "candidates": [
+        "molony",
+        "sergeant-molony"
+      ],
+      "kind": "characters",
+      "ambiguous": true,
+      "basis": "同姓不同人：molony为詹姆斯·莫洛尼爵士（圣玛丽医院神经科医生，诺博士第II章）；sergeant-molony为巴哈马港务警察军士（霹雳弹第14章）；姓氏单称须返回候选清单"
+    },
+    {
+      "alias": "mr big",
+      "canonical_id": "mr-big",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/mr-big条目aliases；live-and-let-die人物mr-big条目aliases"
+    },
+    {
+      "alias": "mr bomb（金手指初见时误读）",
+      "canonical_id": "bond",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/bond条目aliases；goldfinger人物bond条目aliases"
+    },
+    {
+      "alias": "mr bond",
+      "canonical_id": "bond",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "casino-royale人物bond条目aliases；characters/bond条目aliases"
+    },
+    {
+      "alias": "mr bryce",
+      "canonical_id": "bond",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/bond条目aliases；live-and-let-die人物bond条目aliases"
+    },
+    {
+      "alias": "mr franklin",
+      "canonical_id": "franklin",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/franklin条目aliases；on-her-majestys-secret-service人物franklin条目aliases"
+    },
+    {
+      "alias": "mr gold",
+      "canonical_id": "auric-goldfinger",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/auric-goldfinger条目aliases；goldfinger人物auric-goldfinger条目aliases"
+    },
+    {
+      "alias": "mr james",
+      "canonical_id": "bond",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/bond条目aliases；for-your-eyes-only人物bond条目aliases"
+    },
+    {
+      "alias": "mr krest",
+      "canonical_id": "milton-krest",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/milton-krest条目aliases；for-your-eyes-only人物milton-krest条目aliases"
+    },
+    {
+      "alias": "mr leathers",
+      "canonical_id": "leathers",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/leathers条目aliases；on-her-majestys-secret-service人物leathers条目aliases"
+    },
+    {
+      "alias": "mr spang",
+      "canonical_id": "seraffimo-spang",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/seraffimo-spang条目aliases；diamonds-are-forever人物seraffimo-spang条目aliases"
+    },
+    {
+      "alias": "mr w. winter",
+      "canonical_id": "wint",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/wint条目aliases；diamonds-are-forever人物wint条目aliases"
+    },
+    {
+      "alias": "mr. phancey",
+      "canonical_id": "jed-phancey",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/jed-phancey条目aliases；spy-who-loved-me人物jed-phancey条目aliases"
+    },
+    {
+      "alias": "mr. s.",
+      "canonical_id": "scaramanga",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/scaramanga条目aliases；man-with-golden-gun人物scaramanga条目aliases"
+    },
+    {
+      "alias": "mr. snowman",
+      "canonical_id": "kenneth-snowman",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/kenneth-snowman条目aliases；octopussy人物kenneth-snowman条目aliases"
+    },
+    {
+      "alias": "mr. travis",
+      "canonical_id": "felix-leiter",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/felix-leiter条目aliases；man-with-golden-gun人物felix-leiter条目aliases"
+    },
+    {
+      "alias": "mrs bryce",
+      "canonical_id": "solitaire",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/solitaire条目aliases；live-and-let-die人物solitaire条目aliases"
+    },
+    {
+      "alias": "mrs harvey miller(再婚后)",
+      "canonical_id": "rhoda-masters",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/rhoda-masters条目aliases；for-your-eyes-only人物rhoda-masters条目aliases"
+    },
+    {
+      "alias": "mrs john bryce",
+      "canonical_id": "honeychile-rider",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/honeychile-rider条目aliases；dr-no人物honeychile-rider条目aliases"
+    },
+    {
+      "alias": "mrs krest",
+      "canonical_id": "liz-krest",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/liz-krest条目aliases；for-your-eyes-only人物liz-krest条目aliases"
+    },
+    {
+      "alias": "mrs. phancey",
+      "canonical_id": "millicent-phancey",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/millicent-phancey条目aliases；spy-who-loved-me人物millicent-phancey条目aliases"
+    },
+    {
+      "alias": "no. 000",
+      "canonical_id": "felix-leiter",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/felix-leiter条目aliases；thunderball人物leiter条目aliases"
+    },
+    {
+      "alias": "no. 1",
+      "canonical_id": "largo",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/largo条目aliases；thunderball人物largo条目aliases"
+    },
+    {
+      "alias": "no. 10",
+      "canonical_id": "strelik",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/strelik条目aliases；thunderball人物strelik条目aliases"
+    },
+    {
+      "alias": "no. 12",
+      "canonical_id": "borraud",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/borraud条目aliases；thunderball人物borraud条目aliases"
+    },
+    {
+      "alias": "no. 18",
+      "canonical_id": "maslov",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/maslov条目aliases；thunderball人物maslov条目aliases"
+    },
+    {
+      "alias": "no. 2",
+      "canonical_id": "blofeld",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/blofeld条目aliases；thunderball人物blofeld条目aliases"
+    },
+    {
+      "alias": "no. 4",
+      "canonical_id": "fonda",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/fonda条目aliases；thunderball人物fonda条目aliases"
+    },
+    {
+      "alias": "no. 5",
+      "canonical_id": "kotze",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/kotze条目aliases；thunderball人物kotze条目aliases"
+    },
+    {
+      "alias": "no. 7",
+      "canonical_id": "domingue",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/domingue条目aliases；thunderball人物domingue条目aliases"
+    },
+    {
+      "alias": "number 2 from station z",
+      "canonical_id": "shaun-campbell",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/shaun-campbell条目aliases；on-her-majestys-secret-service人物shaun-campbell条目aliases"
+    },
+    {
+      "alias": "number 765",
+      "canonical_id": "mary-ann-russell",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/mary-ann-russell条目aliases；for-your-eyes-only人物mary-ann-russell条目aliases"
+    },
+    {
+      "alias": "old faithful(克雷斯特戏称)",
+      "canonical_id": "fidele-barbey",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/fidele-barbey条目aliases；for-your-eyes-only人物fidele-barbey条目aliases"
+    },
+    {
+      "alias": "paco",
+      "canonical_id": "scaramanga",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/scaramanga条目aliases；man-with-golden-gun人物scaramanga条目aliases"
+    },
+    {
+      "alias": "padrone",
+      "canonical_id": "enrico-colombo",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/enrico-colombo条目aliases；for-your-eyes-only人物enrico-colombo条目aliases"
+    },
+    {
+      "alias": "pat",
+      "canonical_id": "patricia-fearing",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/patricia-fearing条目aliases；thunderball人物patricia-fearing条目aliases"
+    },
+    {
+      "alias": "penny",
+      "canonical_id": "moneypenny",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "casino-royale人物moneypenny条目aliases；characters/moneypenny条目aliases；man-with-golden-gun人物moneypenny条目aliases；moonraker人物moneypenny条目aliases"
+    },
+    {
+      "alias": "peter franks（冒充身份）",
+      "canonical_id": "bond",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/bond条目aliases；diamonds-are-forever人物bond条目aliases"
+    },
+    {
+      "alias": "pistol",
+      "canonical_id": "scaramanga",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/scaramanga条目aliases；man-with-golden-gun人物scaramanga条目aliases"
+    },
+    {
+      "alias": "pussy",
+      "canonical_id": "pussy-galore",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/pussy-galore条目aliases；goldfinger人物pussy-galore条目aliases"
+    },
+    {
+      "alias": "r. budd",
+      "canonical_id": "rosy-budd",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/rosy-budd条目aliases；diamonds-are-forever人物rosy-budd条目aliases"
+    },
+    {
+      "alias": "red grant",
+      "canonical_id": "red-grant",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/red-grant条目aliases；from-russia-with-love人物red-grant条目aliases"
+    },
+    {
+      "alias": "rené mathis",
+      "canonical_id": "mathis",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "casino-royale人物mathis条目aliases"
+    },
+    {
+      "alias": "rhoda llewellyn(娘家姓)",
+      "canonical_id": "rhoda-masters",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/rhoda-masters条目aliases；for-your-eyes-only人物rhoda-masters条目aliases"
+    },
+    {
+      "alias": "robina hood(邦德戏称)",
+      "canonical_id": "judy-havelock",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/judy-havelock条目aliases；for-your-eyes-only人物judy-havelock条目aliases"
+    },
+    {
+      "alias": "ronnie",
+      "canonical_id": "vallance",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/vallance条目aliases；moonraker人物vallance条目aliases"
+    },
+    {
+      "alias": "ronnie-vallance",
+      "canonical_id": "vallance",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "novel-04.json人物id为ronnie-vallance，原文全名Ronnie Vallance；索引规范id为vallance"
+    },
+    {
+      "alias": "ruby windsor",
+      "canonical_id": "ruby",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "on-her-majestys-secret-service人物ruby条目aliases"
+    },
+    {
+      "alias": "rufus b. saye",
+      "canonical_id": "jack-spang",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/jack-spang条目aliases；diamonds-are-forever人物jack-spang条目aliases"
+    },
+    {
+      "alias": "sable basilisk pursuivant",
+      "canonical_id": "sable-basilisk",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/sable-basilisk条目aliases；on-her-majestys-secret-service人物sable-basilisk条目aliases"
+    },
+    {
+      "alias": "sergeant james（化装身份）",
+      "canonical_id": "bond",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/bond条目aliases；diamonds-are-forever人物bond条目aliases"
+    },
+    {
+      "alias": "shady",
+      "canonical_id": "shady-tree",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/shady-tree条目aliases；diamonds-are-forever人物shady-tree条目aliases"
+    },
+    {
+      "alias": "shady tree",
+      "canonical_id": "shady-tree",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/shady-tree条目aliases；diamonds-are-forever人物shady-tree条目aliases"
+    },
+    {
+      "alias": "signor kristatos",
+      "canonical_id": "kristatos",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/kristatos条目aliases；for-your-eyes-only人物kristatos条目aliases"
+    },
+    {
+      "alias": "sir hilary bray",
+      "canonical_id": "bond",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/bond条目aliases；on-her-majestys-secret-service人物bond条目aliases"
+    },
+    {
+      "alias": "sir hugo drax",
+      "canonical_id": "drax",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/drax条目aliases；moonraker人物drax条目aliases"
+    },
+    {
+      "alias": "sir miles",
+      "canonical_id": "m",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/m条目aliases；man-with-golden-gun人物m条目aliases"
+    },
+    {
+      "alias": "sis",
+      "canonical_id": "secret-service",
+      "candidates": null,
+      "kind": "organizations",
+      "ambiguous": false,
+      "basis": "8部小说JSON组织id为sis，原文Secret Intelligence Service；索引规范id为secret-service"
+    },
+    {
+      "alias": "slappy hapgood",
+      "canonical_id": "slappy-hapgood",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "goldfinger人物slappy-hapgood条目aliases"
+    },
+    {
+      "alias": "sluggsy",
+      "canonical_id": "sluggsy-morant",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/sluggsy-morant条目aliases；spy-who-loved-me人物sluggsy-morant条目aliases"
+    },
+    {
+      "alias": "soft man",
+      "canonical_id": "townsend",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/townsend条目aliases；man-with-golden-gun人物townsend条目aliases"
+    },
+    {
+      "alias": "Spang",
+      "canonical_id": null,
+      "candidates": [
+        "jack-spang",
+        "seraffimo-spang"
+      ],
+      "kind": "characters",
+      "ambiguous": true,
+      "basis": "同姓不同人：jack-spang与seraffimo-spang为兄弟二人；姓氏单称须返回候选清单"
+    },
+    {
+      "alias": "spang-brothers",
+      "canonical_id": null,
+      "candidates": [
+        "jack-spang",
+        "seraffimo-spang"
+      ],
+      "kind": "characters",
+      "ambiguous": true,
+      "basis": "novel-04.json关系合称，指斯班格兄弟二人（杰克与塞拉菲莫）；解析时返回两人候选，不静默合并为一人"
+    },
+    {
+      "alias": "stanley jones",
+      "canonical_id": "nicholson",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/nicholson条目aliases；man-with-golden-gun人物nicholson条目aliases"
+    },
+    {
+      "alias": "sub-operator g",
+      "canonical_id": "lippe",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/lippe条目aliases；thunderball人物lippe条目aliases"
+    },
+    {
+      "alias": "t. bell",
+      "canonical_id": "tingaling-bell",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/tingaling-bell条目aliases；diamonds-are-forever人物tingaling-bell条目aliases"
+    },
+    {
+      "alias": "tania",
+      "canonical_id": "tatiana-romanov",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/tatiana-romanov条目aliases；from-russia-with-love人物tatiana-romanov条目aliases"
+    },
+    {
+      "alias": "tanner",
+      "canonical_id": "chief-of-staff",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "novel-13.json人物id为tanner，原文全名Bill Tanner；索引规范id为chief-of-staff（A路定名）；姓氏单称：全库仅一位Tanner（Bill Tanner）；见tanner条目"
+    },
+    {
+      "alias": "taro todoroki",
+      "canonical_id": "bond",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/bond条目aliases；you-only-live-twice人物bond条目aliases"
+    },
+    {
+      "alias": "tee-hee",
+      "canonical_id": "tee-hee-johnson",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/tee-hee-johnson条目aliases；live-and-let-die人物tee-hee-johnson条目aliases"
+    },
+    {
+      "alias": "tempo",
+      "canonical_id": "stefan-trempo",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/stefan-trempo条目aliases；from-russia-with-love人物stefan-trempo条目aliases"
+    },
+    {
+      "alias": "teresa",
+      "canonical_id": "tracy",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/tracy条目aliases；on-her-majestys-secret-service人物tracy条目aliases"
+    },
+    {
+      "alias": "teresa bond",
+      "canonical_id": "tracy",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/tracy条目aliases"
+    },
+    {
+      "alias": "teresa di vicenzo",
+      "canonical_id": "tracy",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/tracy条目aliases；on-her-majestys-secret-service人物tracy条目aliases"
+    },
+    {
+      "alias": "teresa draco",
+      "canonical_id": "tracy",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/tracy条目aliases；you-only-live-twice人物tracy-draco条目aliases"
+    },
+    {
+      "alias": "the armourer",
+      "canonical_id": "boothroyd",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/boothroyd条目aliases；dr-no人物boothroyd条目aliases"
+    },
+    {
+      "alias": "the big man",
+      "canonical_id": "mr-big",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/mr-big条目aliases；live-and-let-die人物mr-big条目aliases"
+    },
+    {
+      "alias": "the capu",
+      "canonical_id": "draco",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/draco条目aliases；on-her-majestys-secret-service人物draco条目aliases"
+    },
+    {
+      "alias": "the cello girl",
+      "canonical_id": "trigger",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/trigger条目aliases；octopussy人物trigger条目aliases"
+    },
+    {
+      "alias": "the chauffeur",
+      "canonical_id": "oddjob",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/oddjob条目aliases；goldfinger人物oddjob条目aliases"
+    },
+    {
+      "alias": "the count",
+      "canonical_id": "blofeld",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/blofeld条目aliases；on-her-majestys-secret-service人物blofeld条目aliases"
+    },
+    {
+      "alias": "the dove",
+      "canonical_id": "enrico-colombo",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/enrico-colombo条目aliases；for-your-eyes-only人物enrico-colombo条目aliases"
+    },
+    {
+      "alias": "the duke",
+      "canonical_id": "helmut-springer",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/helmut-springer条目aliases；goldfinger人物helmut-springer条目aliases"
+    },
+    {
+      "alias": "the fifth mrs krest",
+      "canonical_id": "liz-krest",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/liz-krest条目aliases；for-your-eyes-only人物liz-krest条目aliases"
+    },
+    {
+      "alias": "the grinner",
+      "canonical_id": "billy-ring",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/billy-ring条目aliases；goldfinger人物billy-ring条目aliases"
+    },
+    {
+      "alias": "the handy man",
+      "canonical_id": "oddjob",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/oddjob条目aliases；goldfinger人物oddjob条目aliases"
+    },
+    {
+      "alias": "the japanese garbo",
+      "canonical_id": "kissy-suzuki",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/kissy-suzuki条目aliases；you-only-live-twice人物kissy-suzuki条目aliases"
+    },
+    {
+      "alias": "the korean",
+      "canonical_id": "oddjob",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/oddjob条目aliases；goldfinger人物oddjob条目aliases"
+    },
+    {
+      "alias": "the man with the black patch",
+      "canonical_id": "gettler",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "casino-royale人物gettler条目aliases；characters/gettler条目aliases"
+    },
+    {
+      "alias": "the man with the craglike face",
+      "canonical_id": "smersh-agent",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "casino-royale人物smersh-agent条目aliases；characters/smersh-agent条目aliases"
+    },
+    {
+      "alias": "the man with the golden gun",
+      "canonical_id": "scaramanga",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/scaramanga条目aliases；man-with-golden-gun人物scaramanga条目aliases"
+    },
+    {
+      "alias": "the man with the stick",
+      "canonical_id": "corsican-gunman",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "casino-royale人物corsican-gunman条目aliases；characters/corsican-gunman条目aliases"
+    },
+    {
+      "alias": "the number",
+      "canonical_id": "le-chiffre",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "casino-royale人物le-chiffre条目aliases；characters/le-chiffre条目aliases"
+    },
+    {
+      "alias": "the oldest tattersall boy",
+      "canonical_id": "tattersall",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/tattersall条目aliases；for-your-eyes-only人物tattersall条目aliases"
+    },
+    {
+      "alias": "the robber",
+      "canonical_id": "the-robber",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "live-and-let-die人物the-robber条目aliases"
+    },
+    {
+      "alias": "the squat man",
+      "canonical_id": "corsican-gunman",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "casino-royale人物corsican-gunman条目aliases；characters/corsican-gunman条目aliases"
+    },
+    {
+      "alias": "the tall gunman",
+      "canonical_id": "basil",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "casino-royale人物basil条目aliases；characters/basil条目aliases"
+    },
+    {
+      "alias": "the thin man",
+      "canonical_id": "basil",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "casino-royale人物basil条目aliases；characters/basil条目aliases"
+    },
+    {
+      "alias": "the wizard of ice",
+      "canonical_id": "kronsteen",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/kronsteen条目aliases；from-russia-with-love人物kronsteen条目aliases"
+    },
+    {
+      "alias": "tim",
+      "canonical_id": "timothy-havelock",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/timothy-havelock条目aliases；for-your-eyes-only人物timothy-havelock条目aliases"
+    },
+    {
+      "alias": "timmy",
+      "canonical_id": "timothy-havelock",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/timothy-havelock条目aliases；for-your-eyes-only人物timothy-havelock条目aliases"
+    },
+    {
+      "alias": "tommy",
+      "canonical_id": "dangerfield",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/dangerfield条目aliases；moonraker人物dangerfield条目aliases"
+    },
+    {
+      "alias": "tracy-draco",
+      "canonical_id": "tracy",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "novel-12.json人物id为tracy-draco，原文为Teresa Draco/Bond；索引规范id为tracy（Tracy di Vicenzo）"
+    },
+    {
+      "alias": "treasure",
+      "canonical_id": "liz-krest",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/liz-krest条目aliases；for-your-eyes-only人物liz-krest条目aliases"
+    },
+    {
+      "alias": "valter",
+      "canonical_id": "walter",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/walter条目aliases；moonraker人物walter条目aliases"
+    },
+    {
+      "alias": "violet o'neill",
+      "canonical_id": "violet",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "on-her-majestys-secret-service人物violet条目aliases"
+    },
+    {
+      "alias": "viv",
+      "canonical_id": "vivienne-michel",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/vivienne-michel条目aliases；spy-who-loved-me人物vivienne-michel条目aliases"
+    },
+    {
+      "alias": "willy",
+      "canonical_id": "krebs",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/krebs条目aliases；moonraker人物krebs条目aliases"
+    },
+    {
+      "alias": "windy",
+      "canonical_id": "wint",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/wint条目aliases；diamonds-are-forever人物wint条目aliases"
+    },
+    {
+      "alias": "wxn",
+      "canonical_id": "strangways",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/strangways条目aliases；dr-no人物strangways条目aliases"
+    },
+    {
+      "alias": "克拉斯诺·格拉尼茨基",
+      "canonical_id": "red-grant",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/red-grant条目aliases；from-russia-with-love人物red-grant条目aliases"
+    },
+    {
+      "alias": "克里姆贝伊",
+      "canonical_id": "darko-kerim",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/darko-kerim条目aliases；from-russia-with-love人物darko-kerim条目aliases"
+    },
+    {
+      "alias": "军械官",
+      "canonical_id": "boothroyd",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/boothroyd条目aliases；dr-no人物boothroyd条目aliases"
+    },
+    {
+      "alias": "冰之巫师",
+      "canonical_id": "kronsteen",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/kronsteen条目aliases；from-russia-with-love人物kronsteen条目aliases"
+    },
+    {
+      "alias": "北约",
+      "canonical_id": "nato",
+      "candidates": null,
+      "kind": "organizations",
+      "ambiguous": false,
+      "basis": "North Atlantic Treaty Organization中文简称，A路记录"
+    },
+    {
+      "alias": "卡罗琳·萨默塞特",
+      "canonical_id": "tatiana-romanov",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/tatiana-romanov条目aliases；from-russia-with-love人物tatiana-romanov条目aliases"
+    },
+    {
+      "alias": "坦波",
+      "canonical_id": "stefan-trempo",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/stefan-trempo条目aliases；from-russia-with-love人物stefan-trempo条目aliases"
+    },
+    {
+      "alias": "塔尼娅",
+      "canonical_id": "tatiana-romanov",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/tatiana-romanov条目aliases；from-russia-with-love人物tatiana-romanov条目aliases"
+    },
+    {
+      "alias": "塔罗·托多罗基",
+      "canonical_id": "bond",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/bond条目aliases；you-only-live-twice人物bond条目aliases"
+    },
+    {
+      "alias": "大卫·萨默塞特",
+      "canonical_id": "bond",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/bond条目aliases；from-russia-with-love人物bond条目aliases"
+    },
+    {
+      "alias": "布勒维尔伯爵",
+      "canonical_id": "blofeld",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/blofeld条目aliases；on-her-majestys-secret-service人物blofeld条目aliases"
+    },
+    {
+      "alias": "希拉里·布雷爵士",
+      "canonical_id": "bond",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/bond条目aliases；on-her-majestys-secret-service人物bond条目aliases"
+    },
+    {
+      "alias": "格拉尼特",
+      "canonical_id": "red-grant",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/red-grant条目aliases；from-russia-with-love人物red-grant条目aliases"
+    },
+    {
+      "alias": "梅特施泰因伯爵夫人",
+      "canonical_id": "rosa-klebb",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/rosa-klebb条目aliases；from-russia-with-love人物rosa-klebb条目aliases"
+    },
+    {
+      "alias": "牙买加百万富翁（掩护身份）",
+      "canonical_id": "bond",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "casino-royale人物bond条目aliases；characters/bond条目aliases"
+    },
+    {
+      "alias": "红格蘭特",
+      "canonical_id": "red-grant",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/red-grant条目aliases；from-russia-with-love人物red-grant条目aliases"
+    },
+    {
+      "alias": "约翰·布莱斯",
+      "canonical_id": "bond",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/bond条目aliases；dr-no人物bond条目aliases"
+    },
+    {
+      "alias": "艾玛·萨特汉",
+      "canonical_id": "irma-bunt",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/irma-bunt条目aliases；you-only-live-twice人物irma-bunt条目aliases"
+    },
+    {
+      "alias": "花斑帮",
+      "canonical_id": "spangled-mob",
+      "candidates": null,
+      "kind": "organizations",
+      "ambiguous": false,
+      "basis": "斯班格帮中文异译，A路记录"
+    },
+    {
+      "alias": "萨特汉博士",
+      "canonical_id": "blofeld",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/blofeld条目aliases；you-only-live-twice人物blofeld条目aliases"
+    },
+    {
+      "alias": "诺曼·纳什上尉",
+      "canonical_id": "red-grant",
+      "candidates": null,
+      "kind": "characters",
+      "ambiguous": false,
+      "basis": "characters/red-grant条目aliases；from-russia-with-love人物red-grant条目aliases"
+    }
+  ]
+}

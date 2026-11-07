@@ -12,14 +12,14 @@ knowledge/
     novel-02.json            # 生死关头（1954年）
     ...
     novel-14.json            # 八爪女（1966年，3篇故事）
-  characters/index.json      # 人物总索引（去重后283人）
-  organizations/index.json   # 组织总索引（去重后93个）
-  locations/index.json       # 地点总索引（去重后177处）
-  equipment/index.json       # 装备总索引（去重后134项）
+  characters/index.json      # 人物总索引（去重后279人）
+  organizations/index.json   # 组织总索引（去重后89个）
+  locations/index.json       # 地点总索引（去重后170处）
+  equipment/index.json       # 装备总索引（去重后128项）
   timeline/index.json        # 时间线总索引（14部）
   events/index.json          # 事件总索引（189件）
   canon-rules/
-    character-core.json      # 第一层：Character Core（12位站上人物）
+    character-core.json      # 第一层：Character Core（32位核心人物，v2.0）
     knowledge-control.json   # 第三层：Scene & Knowledge Control（10条规则）
     adaptation-boundaries.json # 原著与电影改编差异边界（10条已核验）
 ```
@@ -28,7 +28,7 @@ knowledge/
 
 ### 第一层：Character Core
 
-文件：knowledge/canon-rules/character-core.json。12位站上人物（邦德、M、钱彭妮、Q、费利克斯·莱特、勒·希弗、诺博士、金手指、布洛菲尔德、薇丝朋·琳德、塔蒂亚娜·罗曼诺娃、崔西·迪·维琴佐），每人含固定身份、性格、经历、语言风格、行为边界、出场小说清单与timeline_cutoff。
+文件：knowledge/canon-rules/character-core.json。32位核心人物（v2.0），每人含固定身份、性格、经历、语言风格、行为边界、出场小说清单与timeline_cutoff；站上人物为其中12位（邦德、M、钱彭妮、Q、费利克斯·莱特、勒·希弗、诺博士、金手指、布洛菲尔德、薇丝朋·琳德、塔蒂亚娜·罗曼诺娃、崔西·迪·维琴佐）。
 
 ### 第二层：Canon Retrieval
 
