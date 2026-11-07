@@ -2,36 +2,51 @@
   "adaptation_differences": [
     "本部未核对电影差异"
   ],
+  "adaptation_differences_en": [
+    "Film differences have not yet been checked for this novel."
+  ],
   "canon_vs_inference": [
     {
       "note": "信内写明1959年6月3日—10日，与出版年1961年不一致，原文如此，不作修正",
+      "note_en": "The letter is dated 3-10 June 1959, which does not match the publication year 1961; the novel says so, and the discrepancy is left as it stands.",
       "status": "canon",
-      "topic": "故事内年份1959年与出版年1961年不一致"
+      "topic": "故事内年份1959年与出版年1961年不一致",
+      "topic_en": "The in-story year 1959 versus the publication year 1961"
     },
     {
       "note": "M根据DEW雷达疑似信号推测飞机南飞巴哈马，原文明确写为猜测与赌博，非证实情报",
+      "note_en": "M guesses from a suspected DEW radar trace that the aircraft flew south to the Bahamas; the novel states this plainly as a guess and a gamble, not as confirmed intelligence.",
       "status": "inference",
-      "topic": "M推测飞机藏在巴哈马"
+      "topic": "M推测飞机藏在巴哈马",
+      "topic_en": "M's guess that the aircraft is hidden in the Bahamas"
     },
     {
       "note": "邦德与莱特推测利普曾为寄信人、SPECTRE为灭口杀利普，原文中莱特以假设语气提出，邦德未证实",
+      "note_en": "Bond and Leiter guess that Lippe posted the letter and that SPECTRE killed him to silence him; in the novel Leiter puts this forward as a hypothesis, and Bond does not confirm it.",
       "status": "inference",
-      "topic": "利普是寄信人且被SPECTRE灭口"
+      "topic": "利普是寄信人且被SPECTRE灭口",
+      "topic_en": "Lippe as the letter-writer, killed by SPECTRE to silence him"
     },
     {
       "note": "原文未写布洛菲尔德全名之外的SPECTRE总部确切地址以外的细节，仅写巴黎奥斯曼大道136号之二FIRCO办公室",
+      "note_en": "The novel gives no detail of SPECTRE headquarters beyond the FIRCO office at 136 bis Boulevard Haussmann, Paris.",
       "status": "canon",
-      "topic": "SPECTRE总部地点"
+      "topic": "SPECTRE总部地点",
+      "topic_en": "The location of SPECTRE headquarters"
     },
     {
       "note": "原文未说明第二枚核弹在水下决战后如何处置，仅写两枚核弹均已回收",
+      "note_en": "The novel does not say how the second atomic bomb is disposed of after the underwater battle, only that both bombs have been recovered.",
       "status": "canon",
-      "topic": "第二枚核弹结局"
+      "topic": "第二枚核弹结局",
+      "topic_en": "The fate of the second atomic bomb"
     },
     {
       "note": "邦德在第16章水下发现飞碟号船底约12英尺见方水下舱门，盖革计数器读数正常，未测到辐射",
+      "note_en": "In Chapter 16 Bond finds a roughly twelve-foot-square underwater hatch in the Disco Volante's hull, and the Geiger counter reads normal, with no radiation detected.",
       "status": "canon",
-      "topic": "飞碟号水下舱门与盖革计数器读数"
+      "topic": "飞碟号水下舱门与盖革计数器读数",
+      "topic_en": "The Disco Volante's underwater hatch and the Geiger counter reading"
     }
   ],
   "chapters": [
@@ -39,160 +54,189 @@
       "no": 1,
       "start_line": 5,
       "summary": "邦德因体检报告极差被M强制送往灌木林自然疗养院疗养两周，M本人迷上自然疗法，钱彭妮透露M去疗养后大为改观。",
+      "summary_en": "Bond's medical report is appalling, and M orders him to spend two weeks at the Shrublands nature-cure clinic; M himself has taken to nature cure, and Miss Moneypenny tells Bond how much it changed him.",
       "title": "Take It Easy, Mr. Bond"
     },
     {
       "no": 2,
       "start_line": 83,
       "summary": "邦德乘出租车抵达苏塞克斯郡华盛顿附近的灌木林疗养院，见院长韦恩并接受检查，救下险被利普伯爵的宾利撞到的帕特里夏·费林，洗澡时发现利普腕表下藏有红闪电帮会纹身。",
+      "summary_en": "Bond takes a taxi to the Shrublands clinic near Washington, Sussex, meets its director Wain and is examined; he saves Patricia Fearing from being run down by Count Lippe's Bentley, and while bathing notices a Red Lightning Tong tattoo hidden under Lippe's watch.",
       "title": "Shrublands"
     },
     {
       "no": 3,
       "start_line": 193,
       "summary": "邦德向总部档案处查询纹身，得知为澳门红闪电帮会标志；接受牵引床治疗时利普悄悄将牵引力调至200磅企图谋杀邦德，费林及时发现救下邦德。",
+      "summary_en": "Bond asks Headquarters records about the tattoo and learns it is the mark of the Macao Red Lightning Tong; while he is on the traction machine, Lippe secretly cranks the pull up to 200 lb in an attempt to murder him, and Fearing saves him in time.",
       "title": "The Rack"
     },
     {
       "no": 4,
       "start_line": 257,
       "summary": "邦德谎称事故是自己误触拉杆，接受费林护理后康复；暗中监视利普，搜查其房间无果；最后一天将利普困在土耳其浴室并把温度调至180度报复，利普出价5万英镑求饶。",
+      "summary_en": "Bond pretends the accident was his own fault in touching the lever, recovers under Fearing's care, and keeps Lippe under observation, searching his room without result; on his last day he locks Lippe in the Turkish bath and turns the heat up to 180 degrees in revenge, and Lippe offers £50,000 to be let out.",
       "title": "Tea and Animosity"
     },
     {
       "no": 5,
       "start_line": 351,
       "summary": "SPECTRE在巴黎奥斯曼大道136号之二以FIRCO慈善组织为掩护开会，介绍首领布洛菲尔德的生平与SPECTRE的构成：20名成员分属西西里黑手党、科西嘉联合会、前苏联肃反组织、前盖世太保、南斯拉夫秘密警察与土耳其海洛因集团，另有两名科学家。",
+      "summary_en": "SPECTRE meets in Paris at 136 bis Boulevard Haussmann under the cover of the FIRCO charity, introducing its leader Blofeld and the organisation's make-up: twenty members drawn from the Sicilian Mafia, the Union Corse, the former Soviet SMERSH, the former Gestapo, the Yugoslav secret police and a Turkish heroin ring, plus two scientists.",
       "title": "S.P.E.C.T.R.E."
     },
     {
       "no": 6,
       "start_line": 377,
       "summary": "布洛菲尔德在会上处决强奸人质的12号博罗，交代欧米茄计划因利普误事延期一周，确认拉戈为现场最高指挥，商定金条在埃特纳火山空投与经卡塔尼亚、苏伊士运河至果阿的转运方案。",
+      "summary_en": "At the meeting Blofeld executes No. 12, Borraud, for raping a hostage; he explains that Operation Omega has been put back a week because of Lippe's blunder, confirms Largo as supreme commander in the field, and settles the plan for the gold to be parachuted onto Mount Etna and then shipped on via Catania, the Suez Canal and Goa.",
       "title": "Violet-Scented Breath"
     },
     {
       "no": 7,
       "start_line": 439,
       "summary": "邦德疗养归来状态大好，忽接M紧急召唤；M出示SPECTRE寄给首相的勒索信：英军轰炸机携两枚核弹失踪，赎金为价值1亿英镑的金条，限期7天，逾期先炸价值相当的财产，48小时后再炸一座大城市。",
+      "summary_en": "Bond returns from the cure in excellent shape, only to be urgently summoned by M; M shows him SPECTRE's blackmail letter to the Prime Minister: a British bomber carrying two atomic bombs has vanished, the ransom is £100 million in gold, with seven days to pay, after which SPECTRE will first destroy property of equal value and then a major city 48 hours later.",
       "title": "«Fasten Your Lap-Strap»"
     },
     {
       "no": 8,
       "start_line": 533,
       "summary": "M介绍案情：轰炸机为博斯科姆唐第5试验中队的维利尔斯复仇者号，机组5人加意大利观察员佩塔基，飞机在爱尔兰以西失踪，DEW雷达曾见一架飞机南飞；M凭直觉派邦德去巴哈马调查；利普在伦敦街头企图枪杀邦德，被SPECTRE的6号骑摩托车以手榴弹炸死。",
+      "summary_en": "M briefs Bond: the missing aircraft is the Villiers Vindicator of No. 5 Experimental Squadron at Boscombe Down, with a crew of five plus the Italian observer Petacchi; it vanished west of Ireland, and DEW radar once tracked an aircraft flying south; M sends Bond to the Bahamas on instinct; in a London street Lippe tries to shoot Bond and is blown up by SPECTRE's No. 6, who kills him with a grenade from a motorcycle.",
       "title": "«Big Fleas Have Little Fleas . . .»"
     },
     {
       "no": 9,
       "start_line": 603,
       "summary": "倒叙劫机经过：佩塔基受SPECTRE收买，以氰化物毒气杀死5名机组人员，独自驾机飞越大西洋，在比米尼附近海面迫降，登机后被瓦尔加斯以短剑刺死，SPECTRE潜水员取出两枚核弹并以伪装篷布覆盖飞机残骸。",
+      "summary_en": "Flashback to the hijack: Petacchi, bought by SPECTRE, kills the five-man crew with cyanide gas, flies the bomber alone across the Atlantic, ditches it in the sea off Bimini, and is stabbed to death with a stiletto by Vargas as he climbs out; SPECTRE divers remove the two atomic bombs and cover the wreck with a camouflage tarpaulin.",
       "title": "Multiple Requiem"
     },
     {
       "no": 10,
       "start_line": 667,
       "summary": "拉戈在飞碟号上指挥回收核弹，物理学家科策为核弹改装定时引信；飞碟号为水翼快艇，载两枚核弹后驶往狗岛，将核弹藏于岛下岩洞。",
+      "summary_en": "Aboard the Disco Volante, Largo supervises the recovery of the bombs while the physicist Kotze fits them with time fuses; the Disco is a hydrofoil yacht, and after taking the two bombs aboard she sails for Dog Island, where the bombs are hidden in a cave under the island.",
       "title": "The Disco Volante"
     },
     {
       "no": 11,
       "start_line": 785,
       "summary": "邦德在拿骚街头结识拉戈的情人多米诺·维塔利，得知其29岁、生于博尔扎诺、父母死于火车事故、曾就读切尔滕纳姆女子学院与皇家戏剧艺术学院；两人共进午餐并相约赌场见面。",
+      "summary_en": "On the streets of Nassau Bond meets Domino Vitali, Largo's mistress, and learns she is 29, born in Bolzano, her parents killed in a train accident, and educated at Cheltenham Ladies' College and the Royal Academy of Dramatic Art; they lunch together and agree to meet at the casino.",
       "title": "Domino"
     },
     {
       "no": 12,
       "start_line": 915,
       "summary": "邦德到机场接应化名拉金的莱特，两人确认合作；莱特推测利普即寄信人且被SPECTRE灭口；莱特带来盖革计数器等装备，两人商议调查飞碟号。",
+      "summary_en": "Bond meets Felix Leiter at the airport under the cover name Larkin, and the two confirm they will work together; Leiter guesses that Lippe was the letter-writer and that SPECTRE killed him to silence him; Leiter brings Geiger counters and other equipment, and they discuss how to investigate the Disco Volante.",
       "title": "The Man from the C.I.A."
     },
     {
       "no": 13,
       "start_line": 1009,
       "summary": "邦德与莱特以看房为借口登上飞碟号，拉戈带其参观全船，莱特以伪装成照相机的盖革计数器检测无异常；邦德发现拉戈关于燃油与压载的说法可疑，且19名股东一人未见。",
+      "summary_en": "Posing as prospective house-buyers, Bond and Leiter board the Disco Volante; Largo shows them round the whole ship, and Leiter's Geiger counter, disguised as a camera, finds nothing; Bond notices Largo's claims about fuel and ballast do not add up, and that one of the nineteen shareholders is nowhere to be seen.",
       "title": "«My Name Is Emilio Largo»"
     },
     {
       "no": 14,
       "start_line": 1121,
       "summary": "邦德查实飞碟号仅载500加仑柴油，与拉戈所言不符；当晚与莱特在赌场饮酒，莱特透露美军已调动曼塔号核潜艇与彭萨科拉战斗轰炸机中队待命；邦德决定夜潜飞碟号。",
+      "summary_en": "Bond establishes that the Disco carries only 500 gallons of diesel, contradicting Largo's account; that evening he drinks with Leiter at the casino, where Leiter reveals the Americans have the nuclear submarine Manta and a squadron of fighter-bombers from Pensacola standing by; Bond decides to dive on the Disco that night.",
       "title": "Sour Martinis"
     },
     {
       "no": 15,
       "start_line": 1188,
       "summary": "邦德在赌场与拉戈对赌chemin de fer三连胜，言语试探中拉戈听到spectre一词脸色骤变；邦德与多米诺共进夜宵，多米诺坦言与拉戈貌合神离，并透露本姓佩塔基，兄长朱塞佩为飞行员。",
+      "summary_en": "At the casino Bond plays chemin de fer against Largo and wins three coups in a row; in the fencing of words Largo's face changes sharply at the word 'spectre'; Bond has supper with Domino, who admits her affair with Largo is a sham and reveals that her family name is Petacchi and her brother Giuseppe is a pilot.",
       "title": "Cardboard Hero"
     },
     {
       "no": 16,
       "start_line": 1302,
       "summary": "邦德在桑托斯协助下夜潜飞碟号，发现船底约12英尺见方水下舱门，盖革计数器无反应；遭SPECTRE水下哨兵以二氧化碳鱼枪袭击，哨兵被大梭鱼咬死，船上又投下手榴弹，邦德侥幸逃脱。",
+      "summary_en": "With Constable Santos's help, Bond dives on the Disco at night and finds a roughly twelve-foot-square underwater hatch in her hull; the Geiger counter reads normal; he is attacked by a SPECTRE underwater sentry with a CO2 spear gun, the sentry is killed by a barracuda, and grenades are dropped from the ship above - Bond escapes by luck.",
       "title": "Swimming the Gantlet"
     },
     {
       "no": 17,
       "start_line": 1354,
       "summary": "莱特在赌场认出化名特劳特的股东实为东德物理学家科策；两人乘水上飞机搜索，在比米尼以南海域发现鲨鱼聚集处，邦德潜入伪装篷布下的失事飞机，取回佩塔基的身份牌与金表，确认核弹与引信均已被取走。",
+      "summary_en": "At the casino Leiter recognises the shareholder calling himself Traut as the East German physicist Kotze; the two fly out in a seaplane to search, find sharks gathering in the sea south of Bimini, and Bond dives under the camouflage tarpaulin into the wrecked bomber, recovering Petacchi's identity disc and gold watch and confirming that the bombs and their fuses have already been removed.",
       "title": "The Red-Eye Catacomb"
     },
     {
       "no": 18,
       "start_line": 1444,
       "summary": "邦德与多米诺在海滩幽会并发生关系，随后向她坦白兄长死讯与全部案情；多米诺同意携带盖革计数器登船做内应，以是否上甲板为信号。",
+      "summary_en": "Bond and Domino meet on the beach and become lovers; he then tells her of her brother's death and the whole case; Domino agrees to go aboard the Disco as his inside agent, carrying a Geiger counter, with her appearance on deck as the signal.",
       "title": "How to Eat a Girl"
     },
     {
       "no": 19,
       "start_line": 1512,
       "summary": "多米诺得知兄长死讯后同意做内应，条件是拉戈必须被杀或判终身监禁；她登船前将兄长的金表链抛入大海；莱特视察帕尔米拉无果，曼塔号抵达拿骚。",
+      "summary_en": "Learning of her brother's death, Domino agrees to act as Bond's agent aboard, on condition that Largo be killed or imprisoned for life; before boarding she throws her brother's gold watch-chain into the sea; Leiter's inspection of Palmyra finds nothing, and the Manta arrives at Nassau.",
       "title": "When the Kissing Stopped"
     },
     {
       "no": 20,
       "start_line": 1592,
       "summary": "邦德与莱特登上曼塔号见佩德森舰长，商定跟踪飞碟号；警方通报水上飞机已于17时30分返回，飞碟号17时55分全速向西北出航，多米诺登船后未再上甲板露面。",
+      "summary_en": "Bond and Leiter board the Manta and meet her captain, Commander Pedersen, agreeing to shadow the Disco; the police report that the seaplane returned at 17:30 and the Disco sailed at full speed to the north-west at 17:55, with Domino aboard and never seen on deck again.",
       "title": "Time for Decision"
     },
     {
       "no": 21,
       "start_line": 1656,
       "summary": "拉戈发现多米诺携带伪装盖革计数器，将其绑在铺位上以雪茄与冰块折磨逼供；会上俄罗斯人斯特雷利克提议留人监督被拉戈开枪打死；拉戈部署午夜3时在大巴哈马岛外布放第一枚核弹。",
+      "summary_en": "Largo discovers the Geiger counter Domino is carrying, has her tied to her bunk and tortures her with a cigar and ice to make her talk; at the meeting the Russian Strelik proposes leaving men behind to supervise and is shot dead by Largo; Largo orders the first bomb to be laid off Grand Bahama at 3 a.m.",
       "title": "Very Softly, Very Slowly"
     },
     {
       "no": 22,
       "start_line": 1700,
       "summary": "曼塔号在雷达上发现飞碟号全速北上，佩德森舰长说明浅滩水域潜艇无法跟踪；邦德与莱特率9名潜水员组成水下战斗队，佩带编号潜水服与长矛，准备拦截布放核弹的SPECTRE潜水队。",
+      "summary_en": "The Manta's radar picks up the Disco racing north at full speed; Captain Pedersen explains the submarine cannot follow in the shallow water; Bond and Leiter lead nine divers in an underwater combat team, wearing numbered diving suits and armed with spears, ready to intercept SPECTRE's bomb-laying divers.",
       "title": "The Shadower"
     },
     {
       "no": 23,
       "start_line": 1774,
       "summary": "水下决战：邦德率12人拦截拉戈的潜水队，双方在珊瑚礁中以鱼枪与长矛搏斗；拉戈企图拖走核弹雪橇，邦德在水面摩托艇上与其搏斗落败，多米诺挣脱束缚潜出船舱，以鱼枪刺穿拉戈脖颈救下邦德。",
+      "summary_en": "The underwater battle: Bond leads twelve men against Largo's diving team, fighting with spear guns and lances among the coral; Largo tries to tow the bomb sled away, and Bond fights him on a motorised underwater chariot above the surface and loses; Domino breaks free of her bonds, swims out of the cabin and saves Bond by driving a spear gun through Largo's neck.",
       "title": "Naked Warfare"
     },
     {
       "no": 24,
       "start_line": 1834,
       "summary": "两枚核弹均已回收，科策被捕后供出SPECTRE内情，布洛菲尔德逃脱；第二枚核弹原定目标为迈阿密游艇港；多米诺全身多处烧伤但无生命危险，邦德在病房守在她床边睡去。",
+      "summary_en": "Both atomic bombs are recovered; Kotze, captured, tells all he knows about SPECTRE, and Blofeld escapes; the second bomb was meant for the yacht harbour at Miami; Domino is badly burned in many places but out of danger, and Bond falls asleep beside her hospital bed.",
       "title": "«Take It Easy, Mr. Bond»"
     }
   ],
   "characters": [
     {
       "age_clues": "中年，书中多米诺目测其中年三十多岁",
+      "age_clues_en": "Middle-aged; Domino judges him to be in his thirties",
       "aliases": [],
       "appearance": "深色面孔，蓝灰眼睛，右颊有疤，身高约6英尺",
+      "appearance_en": "Dark face, blue-grey eyes, a scar on his right cheek, about six feet tall",
       "background": "英国秘密情报局00部门特工，代号007，曾在皇家海军志愿后备队情报部门服役",
+      "background_en": "An agent of the 00 section of the British Secret Service, codenamed 007; formerly served in the intelligence branch of the Royal Naval Volunteer Reserve",
       "first_appearance_chapter": 1,
       "habits": "每天抽60支巴尔干混合烟，饮酒约半瓶烈酒；疗养后改抽杜克牌淡烟并减至每天10支",
+      "habits_en": "Smokes sixty Balkan-mixture cigarettes a day and drinks about half a bottle of spirits; after the cure he switches to light Duke cigarettes and cuts down to ten a day",
       "id": "bond",
       "last_appearance_chapter": 24,
       "name_en": "James Bond",
       "name_zh": "詹姆斯·邦德",
       "personality": "冷峻、好胜、直觉敏锐，对上级命令常有保留但执行到底",
+      "personality_en": "Cold, competitive, with sharp instincts; he often has reservations about his superiors' orders but carries them through to the end",
       "relationships": [
         {
           "change": "由医生与病人转为情人，多米诺为其冒死上飞碟号做内应",
@@ -220,20 +264,26 @@
           "with": "m"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Protagonist"
     },
     {
       "age_clues": "未写明具体年龄，书中称其为老者",
+      "age_clues_en": "No exact age is given in the novel; he is described as an old man",
       "aliases": [],
       "appearance": "灰眼睛，铁灰色头发，面容坚毅，疗养归来后气色极佳",
+      "appearance_en": "Grey eyes, iron-grey hair, a resolute face; in excellent colour after returning from the cure",
       "background": "英国秘密情报局首长，邦德的上级",
+      "background_en": "Chief of the British Secret Service and Bond's superior",
       "first_appearance_chapter": 1,
       "habits": "抽烟斗，热衷尝试新式养生法，曾迷上自然疗法",
+      "habits_en": "Smokes a pipe and is keen to try new health cures, having taken to nature cure",
       "id": "m",
       "last_appearance_chapter": 8,
       "name_en": "M",
       "name_zh": "M",
       "personality": "威严、固执、直觉强，敢为下属承担责任",
+      "personality_en": "Authoritative, stubborn, strongly intuitive, and willing to take responsibility for his subordinates",
       "relationships": [
         {
           "change": "M因邦德体检不佳强制其去灌木林疗养，后凭直觉把巴哈马方向的调查交给邦德",
@@ -241,20 +291,26 @@
           "with": "bond"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Major character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated",
       "aliases": [],
       "appearance": "书中未细写外貌",
+      "appearance_en": "Her appearance is not described in detail in the novel",
       "background": "M的私人秘书",
+      "background_en": "M's private secretary",
       "first_appearance_chapter": 1,
       "habits": "暗恋邦德，常与邦德调情式斗嘴",
+      "habits_en": "Secretly in love with Bond, and often teases him in flirtatious exchanges",
       "id": "moneypenny",
       "last_appearance_chapter": 8,
       "name_en": "Miss Moneypenny",
       "name_zh": "钱彭妮小姐",
       "personality": "机敏、幽默、忠诚",
+      "personality_en": "Quick-witted, humorous and loyal",
       "relationships": [
         {
           "change": "始终为邦德的倾慕者与M办公室的传话人",
@@ -262,22 +318,28 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated",
       "aliases": [
         "Lil"
       ],
       "appearance": "书中称其迷人",
+      "appearance_en": "Described in the novel as charming",
       "background": "邦德的秘书",
+      "background_en": "Bond's secretary",
       "first_appearance_chapter": 7,
       "habits": "未写明",
+      "habits_en": "Not stated in the novel",
       "id": "loelia-ponsonby",
       "last_appearance_chapter": 7,
       "name_en": "Loelia Ponsonby",
       "name_zh": "洛伊莉娅·庞森比",
       "personality": "能干，对邦德疗养后工作狂状态颇有微词",
+      "personality_en": "Efficient, and unimpressed by Bond's workaholic state after the cure",
       "relationships": [
         {
           "change": "无变化",
@@ -285,20 +347,26 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "年长，苏格兰人",
+      "age_clues_en": "Elderly, a Scotswoman",
       "aliases": [],
       "appearance": "严厉的老妇人面容",
+      "appearance_en": "The stern face of an elderly woman",
       "background": "邦德的管家兼厨娘，来自格伦奥基",
+      "background_en": "Bond's housekeeper and cook, from Glenochie",
       "first_appearance_chapter": 7,
       "habits": "直言不讳地批评邦德的饮食与生活方式",
+      "habits_en": "Criticises Bond's diet and way of life with blunt frankness",
       "id": "may",
       "last_appearance_chapter": 8,
       "name_en": "May",
       "name_zh": "梅",
       "personality": "忠心、泼辣、关心邦德健康",
+      "personality_en": "Loyal, outspoken, and concerned for Bond's health",
       "relationships": [
         {
           "change": "无变化",
@@ -306,20 +374,26 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "65岁，看起来不到40岁",
+      "age_clues_en": "65 years old, looking under forty",
       "aliases": [],
       "appearance": "浓密灰发，眉宇平滑，棕色眼睛，诚恳笑容，穿短袖罩衫与细条纹裤、凉鞋配灰袜",
+      "appearance_en": "Thick grey hair, smooth brow, brown eyes, an earnest smile; wears a short-sleeved smock and pinstripe trousers, sandals with grey socks",
       "background": "灌木林自然疗养院负责人，自然疗法名家",
+      "background_en": "Director of the Shrublands nature-cure clinic and a famous name in nature cure",
       "first_appearance_chapter": 2,
       "habits": "自然疗法信徒",
+      "habits_en": "A believer in nature cure",
       "id": "wain",
       "last_appearance_chapter": 4,
       "name_en": "Joshua Wain",
       "name_zh": "约书亚·韦恩",
       "personality": "热情、虔诚、盲目自信",
+      "personality_en": "Enthusiastic, devout and blindly self-confident",
       "relationships": [
         {
           "change": "由邦德的疗养医生转为事故责任方，事后请邦德保密",
@@ -327,23 +401,29 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "年轻女子",
+      "age_clues_en": "A young woman",
       "aliases": [
         "Pat",
         "Miss Fearing"
       ],
       "appearance": "健美结实的身材，热情的宽嘴，目光带权威感",
+      "appearance_en": "A strong, athletic build, a warm, wide mouth, and an authoritative look",
       "background": "灌木林疗养院骨科治疗师，任职3年",
+      "background_en": "Osteopath at the Shrublands clinic, where she has worked for three years",
       "first_appearance_chapter": 2,
       "habits": "手法强劲有力的骨科治疗",
+      "habits_en": "Gives powerful, forceful osteopathic treatment",
       "id": "patricia-fearing",
       "last_appearance_chapter": 4,
       "name_en": "Patricia Fearing",
       "name_zh": "帕特里夏·费林",
       "personality": "专业、强势、有分寸",
+      "personality_en": "Professional, forceful and discreet",
       "relationships": [
         {
           "change": "由治疗师转为邦德一夜情人，邦德离开前夜与她在唐斯高地幽会",
@@ -356,23 +436,29 @@
           "with": "lippe"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "约30岁",
+      "age_clues_en": "About 30 years old",
       "aliases": [
         "Sub-operator G",
         "Count Lippe"
       ],
       "appearance": "极英俊，深古铜色皮肤，八字须，棕色眼睛眼角上挑，身高6英尺，左腕内侧有红闪电帮会纹身",
+      "appearance_en": "Extremely handsome, with a deep bronze tan, a toothbrush moustache, brown eyes with upturned corners, six feet tall, and a Red Lightning Tong tattoo on the inside of his left wrist",
       "background": "SPECTRE次级特工，红闪电帮会成员，在澳门有生意，常住巴黎等地",
+      "background_en": "A SPECTRE sub-agent and member of the Red Lightning Tong, with business interests in Macao and homes in Paris and elsewhere",
       "first_appearance_chapter": 2,
       "habits": "每年到灌木林疗养，坚持按摩时不摘手表以遮纹身",
+      "habits_en": "Comes to Shrublands every year for the cure, and insists on keeping his watch on during massage to hide the tattoo",
       "id": "lippe",
       "last_appearance_chapter": 8,
       "name_en": "Count Lippe",
       "name_zh": "利普伯爵",
       "personality": "冷酷、报复心强、出手果断",
+      "personality_en": "Cold, vengeful and decisive in action",
       "relationships": [
         {
           "change": "偷听邦德向总部查询其纹身后企图以牵引床谋杀邦德，邦德报复将其困于土耳其浴室致其二度烧伤",
@@ -385,23 +471,29 @@
           "with": "blofeld"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Major character"
     },
     {
       "age_clues": "1908年5月28日生于格丁尼亚，故事时约51岁",
+      "age_clues_en": "Born 28 May 1908 in Gdynia; about 51 at the time of the story",
       "aliases": [
         "No. 2",
         "Ernst Stavro Blofeld"
       ],
       "appearance": "体重约280磅，大肚腩，方正黑色短发，大而苍白的脸，深黑眼睛被完整眼白包围，长睫毛，薄唇如愈合不良的伤口",
+      "appearance_en": "About 280 lb, with a great belly, square-cut short black hair, a large, pale face, deep black eyes wholly surrounded by clear whites, long eyelashes, and thin lips like a badly healed wound",
       "background": "波兰父亲与希腊母亲之子，华沙大学经济与政治史毕业，后学工程与无线电，曾在波兰邮电部任职，二战中先后为德、美、瑞典等方贩卖情报，战后创立SPECTRE",
+      "background_en": "Son of a Polish father and a Greek mother; graduated in economics and political history from the University of Warsaw, then studied engineering and radio; worked in the Polish Ministry of Posts and Telegraphs, sold intelligence in turn to the Germans, Americans and Swedes during the war, and founded SPECTRE afterwards",
       "first_appearance_chapter": 5,
       "habits": "不抽烟不喝酒，食量不大，紧张时含紫罗兰味香口丸，处决叛徒时亲自动手",
+      "habits_en": "Neither smokes nor drinks, eats little, sucks violet-scented cachous when tense, and executes traitors with his own hands",
       "id": "blofeld",
       "last_appearance_chapter": 24,
       "name_en": "Ernst Stavro Blofeld",
       "name_zh": "恩斯特·斯塔夫罗·布洛菲尔德",
       "personality": "冷静、博学、残忍、极度自信，有强烈的动物磁性",
+      "personality_en": "Calm, learned, cruel and supremely self-confident, with a powerful animal magnetism",
       "relationships": [
         {
           "change": "始终为SPECTRE最高首领，拉戈为其指定继承人",
@@ -419,23 +511,29 @@
           "with": "bond"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Major character"
     },
     {
       "age_clues": "约40岁",
+      "age_clues_en": "About 40 years old",
       "aliases": [
         "No. 1",
         "Emilio Largo"
       ],
       "appearance": "罗马人面孔，深古铜色皮肤，钩鼻，下颌方正，嘴唇厚而下弯，耳形尖，双手异乎寻常地大，黑发抹发油，留长鬓角",
+      "appearance_en": "A Roman face, deep bronze skin, a hooked nose, a square jaw, thick, downturned lips, pointed ears, unusually large hands, black hair slicked with oil and long sideburns",
       "background": "罗马人，战后那不勒斯黑市头目，后在丹吉尔走私5年、法国里维埃拉珠宝大盗5年，加入SPECTRE已5年，自称继承罗马名门家产",
+      "background_en": "A Roman; after the war a Naples black-market boss, then a smuggler in Tangier for five years and a jewel thief on the French Riviera for five years; a member of SPECTRE for five years, who claims to have inherited the estate of a great Roman family",
       "first_appearance_chapter": 10,
       "habits": "喜用麝香古龙水，爱喝薄荷酒加马拉斯奇诺樱桃，行事刻意保持冷静",
+      "habits_en": "Fond of musk cologne and of drinking creme de menthe with maraschino cherries, and deliberately keeps his composure at all times",
       "id": "largo",
       "last_appearance_chapter": 23,
       "name_en": "Emilio Largo",
       "name_zh": "埃米利奥·拉戈",
       "personality": "冷静、精明、残忍、极度自律，绅士大盗做派",
+      "personality_en": "Calm, shrewd, cruel and extremely self-disciplined, in the manner of a gentleman thief",
       "relationships": [
         {
           "change": "由多米诺的情人与供养者转为折磨并企图灭口她的仇敌",
@@ -453,23 +551,29 @@
           "with": "bond"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Major character"
     },
     {
       "age_clues": "29岁",
+      "age_clues_en": "29 years old",
       "aliases": [
         "Domino",
         "Dominetta Vitali"
       ],
       "appearance": "深色头发，棕色眼睛带金色闪光，鼻子小而上翘，下颌坚定，右腿比左腿短1英寸致轻微跛行，身材健美",
+      "appearance_en": "Dark hair, brown eyes with flecks of gold, a small upturned nose, a firm jaw, her right leg one inch shorter than her left, leaving a slight limp, and an athletic figure",
       "background": "本名多米内塔·佩塔基，生于意大利博尔扎诺，父母在火车事故中丧生，曾就读切尔滕纳姆女子学院与皇家戏剧艺术学院，艺名维塔利，做过演员，兄长为朱塞佩·佩塔基",
+      "background_en": "Born Dominetta Petacchi in Bolzano, Italy; her parents died in a train accident; educated at Cheltenham Ladies' College and the Royal Academy of Dramatic Art; an actress under the stage name Vitali; her brother is Giuseppe Petacchi",
       "first_appearance_chapter": 11,
       "habits": "喜驾蓝色MG跑车，爱潜水，抽Players牌香烟，迷恋烟盒上的水手英雄画像",
+      "habits_en": "Drives a blue MG sports car, loves diving, smokes Player's cigarettes and is fond of the sailor hero on the packet",
       "id": "domino",
       "last_appearance_chapter": 24,
       "name_en": "Dominetta Vitali",
       "name_zh": "多米内塔·维塔利",
       "personality": "独立、任性、诚实、敢爱敢恨，意志坚强",
+      "personality_en": "Independent, wilful, honest and passionate, with a will of iron",
       "relationships": [
         {
           "change": "由拉戈的情人转为邦德的情人与盟友，得知兄长被拉戈下令杀害后冒死携带盖革计数器登船做内应",
@@ -487,22 +591,28 @@
           "with": "petacchi"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Major character"
     },
     {
       "age_clues": "34岁",
+      "age_clues_en": "34 years old",
       "aliases": [
         "Giuseppi Petacchi"
       ],
       "appearance": "书中未细写外貌，佩金劳力士蚝式恒动计时表与金烟盒",
+      "appearance_en": "His appearance is not described in detail in the novel; he wears a gold Rolex Oyster Perpetual chronometer and a gold cigarette case",
       "background": "意大利空军中校，曾为二战中投诚盟军的飞行员，后被派往北约先遣打击部队，SPECTRE以100万美元、新护照与去里约热内卢的机票收买其劫持轰炸机",
+      "background_en": "A lieutenant-colonel in the Italian Air Force who flew for the Allies after defecting in the Second World War; later seconded to a NATO strike force; SPECTRE buys him to hijack the bomber with $1,000,000, a new passport and a ticket to Rio de Janeiro",
       "first_appearance_chapter": 8,
       "habits": "贪慕奢华物品，渴望拥有一辆玛莎拉蒂跑车",
+      "habits_en": "Covets luxury goods and longs to own a Maserati sports car",
       "id": "petacchi",
       "last_appearance_chapter": 17,
       "name_en": "Giuseppe Petacchi",
       "name_zh": "朱塞佩·佩塔基",
       "personality": "贪婪、投机、飞行技术高超",
+      "personality_en": "Greedy, opportunistic, and a highly skilled pilot",
       "relationships": [
         {
           "change": "兄妹情深，佩塔基死后多米诺为其复仇",
@@ -515,23 +625,29 @@
           "with": "largo"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated",
       "aliases": [
         "F. Larkin",
         "No. 000"
       ],
       "appearance": "金发，右手为钢钩假肢",
+      "appearance_en": "Fair hair, with a steel hook in place of his right hand",
       "background": "美国中央情报局特工，曾离开中情局加入平克顿侦探社，行动中被征召归队，与邦德多次合作",
+      "background_en": "A CIA agent who left the Agency to join the Pinkerton detective agency and was recalled to duty for this operation; a frequent collaborator of Bond's",
       "first_appearance_chapter": 12,
       "habits": "好饮干马提尼，精通枪械与通讯设备",
+      "habits_en": "Fond of dry martinis, and expert with firearms and communications equipment",
       "id": "leiter",
       "last_appearance_chapter": 24,
       "name_en": "Felix Leiter",
       "name_zh": "费利克斯·莱特",
       "personality": "幽默、忠诚、经验丰富",
+      "personality_en": "Humorous, loyal and highly experienced",
       "relationships": [
         {
           "change": "由邦德的老搭档转为霹雳弹行动的并肩战友，水下决战中与邦德并肩作战",
@@ -539,20 +655,26 @@
           "with": "bond"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Major character"
     },
     {
       "age_clues": "四十多岁",
+      "age_clues_en": "In his forties",
       "aliases": [],
       "appearance": "军人气质，制服纽扣擦得锃亮",
+      "appearance_en": "A military bearing, with his uniform buttons polished bright",
       "background": "巴哈马警察总监",
+      "background_en": "Commissioner of Police in the Bahamas",
       "first_appearance_chapter": 11,
       "habits": "未写明",
+      "habits_en": "Not stated in the novel",
       "id": "harling",
       "last_appearance_chapter": 20,
       "name_en": "Commissioner Harling",
       "name_zh": "哈林总监",
       "personality": "合作、稳重、尽责",
+      "personality_en": "Cooperative, steady and conscientious",
       "relationships": [
         {
           "change": "始终配合邦德与莱特的调查",
@@ -560,20 +682,26 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated",
       "aliases": [],
       "appearance": "棕色眼睛，举止讨好",
+      "appearance_en": "Brown eyes and an ingratiating manner",
       "background": "巴哈马移民与海关负责人",
+      "background_en": "Head of immigration and customs in the Bahamas",
       "first_appearance_chapter": 11,
       "habits": "未写明",
+      "habits_en": "Not stated in the novel",
       "id": "pitman",
       "last_appearance_chapter": 12,
       "name_en": "Pitman",
       "name_zh": "皮特曼",
       "personality": "圆滑",
+      "personality_en": "Smooth",
       "relationships": [
         {
           "change": "无变化",
@@ -581,20 +709,26 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated",
       "aliases": [],
       "appearance": "姜黄色小胡子，戴夹鼻眼镜",
+      "appearance_en": "A small ginger moustache and pince-nez glasses",
       "background": "巴哈马副总督",
+      "background_en": "Deputy Governor of the Bahamas",
       "first_appearance_chapter": 12,
       "habits": "未写明",
+      "habits_en": "Not stated in the novel",
       "id": "roddick",
       "last_appearance_chapter": 12,
       "name_en": "Roddick",
       "name_zh": "罗迪克",
       "personality": "谨慎、走中间路线",
+      "personality_en": "Cautious and inclined to take the middle course",
       "relationships": [
         {
           "change": "无变化",
@@ -602,20 +736,26 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated",
       "aliases": [],
       "appearance": "高大黑人，胸肌发达",
+      "appearance_en": "A tall, powerfully built Black man with a deep chest",
       "background": "巴哈马港务警察，来自伊柳塞拉岛，曾获多项游泳奖",
+      "background_en": "A harbour policeman in the Bahamas, from Eleuthera, who has won many swimming prizes",
       "first_appearance_chapter": 16,
       "habits": "未写明",
+      "habits_en": "Not stated in the novel",
       "id": "santos",
       "last_appearance_chapter": 17,
       "name_en": "Constable Santos",
       "name_zh": "桑托斯警员",
       "personality": "可靠、勇敢",
+      "personality_en": "Dependable and brave",
       "relationships": [
         {
           "change": "协助邦德夜潜飞碟号",
@@ -623,23 +763,29 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated",
       "aliases": [
         "Emil Traut",
         "No. 5"
       ],
       "appearance": "书中称其为小个子，额纹深，大头，戴厚眼镜，神情紧张",
+      "appearance_en": "Described in the novel as a small man, with deep lines on his forehead, a large head, thick glasses and a nervous expression",
       "background": "东德物理学家，5年前投奔西方并向联合科学情报部门供出机密，后隐居瑞士，SPECTRE成员，负责核弹引信改装",
+      "background_en": "An East German physicist who defected to the West five years earlier and passed secrets to the Joint Scientific Intelligence department, then retired to Switzerland; a member of SPECTRE, responsible for fitting the bombs with their fuses",
       "first_appearance_chapter": 5,
       "habits": "紧张、爱咬手帕角",
+      "habits_en": "Nervous, and given to biting the corner of his handkerchief",
       "id": "kotze",
       "last_appearance_chapter": 24,
       "name_en": "Kotze",
       "name_zh": "科策",
       "personality": "神经质、技术狂热",
+      "personality_en": "Nervous and obsessed with his technical work",
       "relationships": [
         {
           "change": "由SPECTRE物理学家转为被捕后供出SPECTRE内情的证人",
@@ -652,23 +798,29 @@
           "with": "largo"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated",
       "aliases": [
         "Kandinsky",
         "No. 18"
       ],
       "appearance": "书中未细写",
+      "appearance_en": "Not described in detail in the novel",
       "background": "波兰电子专家，1956年辞去飞利浦埃因霍温无线电研究部主任职务后失踪，SPECTRE成员",
+      "background_en": "A Polish electronics expert who resigned as head of the radio research department of Philips at Eindhoven in 1956 and then disappeared; a member of SPECTRE",
       "first_appearance_chapter": 5,
       "habits": "未写明",
+      "habits_en": "Not stated in the novel",
       "id": "maslov",
       "last_appearance_chapter": 6,
       "name_en": "Maslov",
       "name_zh": "马斯洛夫",
       "personality": "学者气质",
+      "personality_en": "Scholarly in manner",
       "relationships": [
         {
           "change": "无变化",
@@ -676,22 +828,28 @@
           "with": "kotze"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated",
       "aliases": [
         "No. 7"
       ],
       "appearance": "粗壮结实，目光迟缓，穿现成西装",
+      "appearance_en": "Heavily built, with a slow gaze, and wearing a ready-made suit",
       "background": "科西嘉联合会成员，SPECTRE成员",
+      "background_en": "A member of the Union Corse and of SPECTRE",
       "first_appearance_chapter": 6,
       "habits": "未写明",
+      "habits_en": "Not stated in the novel",
       "id": "domingue",
       "last_appearance_chapter": 6,
       "name_en": "Marius Domingue",
       "name_zh": "马里于斯·多明格",
       "personality": "勇敢、沉稳",
+      "personality_en": "Brave and steady",
       "relationships": [
         {
           "change": "布洛菲尔德以其为幌子处决真正的罪人博罗后对其表示满意",
@@ -699,22 +857,28 @@
           "with": "blofeld"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated",
       "aliases": [
         "No. 12"
       ],
       "appearance": "书中未细写",
+      "appearance_en": "Not described in detail in the novel",
       "background": "科西嘉联合会成员，SPECTRE成员，强奸了被绑架的布隆伯格之女",
+      "background_en": "A member of the Union Corse and of SPECTRE, who raped the kidnapped daughter of Blomberg",
       "first_appearance_chapter": 6,
       "habits": "未写明",
+      "habits_en": "Not stated in the novel",
       "id": "borraud",
       "last_appearance_chapter": 6,
       "name_en": "Pierre Borraud",
       "name_zh": "皮埃尔·博罗",
       "personality": "好色、缺乏自律",
+      "personality_en": "Lecherous and lacking in self-discipline",
       "relationships": [
         {
           "change": "因违反SPECTRE纪律被布洛菲尔德以电椅处决",
@@ -722,22 +886,28 @@
           "with": "blofeld"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated",
       "aliases": [
         "No. 10"
       ],
       "appearance": "书中未细写",
+      "appearance_en": "Not described in detail in the novel",
       "background": "前苏联内务部肃反人员，曾为著名恐怖分子，SPECTRE成员",
+      "background_en": "A former Soviet MVD counter-espionage man and a noted terrorist; a member of SPECTRE",
       "first_appearance_chapter": 21,
       "habits": "多疑、爱搞阴谋",
+      "habits_en": "Suspicious and fond of plotting",
       "id": "strelik",
       "last_appearance_chapter": 21,
       "name_en": "Strelik",
       "name_zh": "斯特雷利克",
       "personality": "多疑、好挑拨",
+      "personality_en": "Suspicious and fond of intrigue",
       "relationships": [
         {
           "change": "因在会议上提议各组留人监督而被拉戈当场开枪打死",
@@ -745,20 +915,26 @@
           "with": "largo"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated",
       "aliases": [],
       "appearance": "书中未细写",
+      "appearance_en": "Not described in detail in the novel",
       "background": "SPECTRE德国组成员",
+      "background_en": "A member of the German section of SPECTRE",
       "first_appearance_chapter": 6,
       "habits": "未写明",
+      "habits_en": "Not stated in the novel",
       "id": "bayer",
       "last_appearance_chapter": 6,
       "name_en": "Bruno Bayer",
       "name_zh": "布鲁诺·拜尔",
       "personality": "刻板、重等级",
+      "personality_en": "Rigid and obsessed with rank",
       "relationships": [
         {
           "change": "无变化",
@@ -766,20 +942,26 @@
           "with": "blofeld"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated",
       "aliases": [],
       "appearance": "瘦削、脸色阴沉，曾做过教师",
+      "appearance_en": "Thin and dark-faced, formerly a schoolteacher",
       "background": "西西里黑手党成员，SPECTRE成员，负责埃特纳火山金条空投回收计划",
+      "background_en": "A member of the Sicilian Mafia and of SPECTRE, responsible for the plan to recover the gold dropped on Mount Etna",
       "first_appearance_chapter": 6,
       "habits": "英语为SPECTRE中最佳",
+      "habits_en": "Has the best English in SPECTRE",
       "id": "sciacca",
       "last_appearance_chapter": 6,
       "name_en": "Fidelio Sciacca",
       "name_zh": "菲德利奥·夏卡",
       "personality": "谨慎、条理清晰",
+      "personality_en": "Cautious and methodical",
       "relationships": [
         {
           "change": "无变化",
@@ -787,22 +969,28 @@
           "with": "blofeld"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated",
       "aliases": [
         "No. 4"
       ],
       "appearance": "书中未细写",
+      "appearance_en": "Not described in detail in the novel",
       "background": "意大利人，SPECTRE成员，在巴黎夜总会物色并收买佩塔基",
+      "background_en": "An Italian member of SPECTRE who found and bought Petacchi in a Paris nightclub",
       "first_appearance_chapter": 9,
       "habits": "未写明",
+      "habits_en": "Not stated in the novel",
       "id": "fonda",
       "last_appearance_chapter": 9,
       "name_en": "Fonda",
       "name_zh": "丰达",
       "personality": "谨慎、善于物色人选",
+      "personality_en": "Cautious and good at picking his man",
       "relationships": [
         {
           "change": "无变化",
@@ -810,20 +998,26 @@
           "with": "petacchi"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated",
       "aliases": [],
       "appearance": "矮壮，目光直率，左手常插腰带",
+      "appearance_en": "Short and thickset, with a direct gaze, his left hand usually on his belt",
       "background": "SPECTRE杀手，拉戈手下",
+      "background_en": "A SPECTRE killer working under Largo",
       "first_appearance_chapter": 9,
       "habits": "严格控制弱点，香烟只抽半支",
+      "habits_en": "Keeps his weaknesses strictly in check, smoking only half of each cigarette",
       "id": "vargas",
       "last_appearance_chapter": 10,
       "name_en": "Vargas",
       "name_zh": "瓦尔加斯",
       "personality": "冷静、职业",
+      "personality_en": "Calm and professional",
       "relationships": [
         {
           "change": "在机翼上以短剑刺杀佩塔基",
@@ -831,20 +1025,26 @@
           "with": "petacchi"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "38岁",
+      "age_clues_en": "38 years old",
       "aliases": [],
       "appearance": "方形北欧面孔，黑色短发微白，目光精明",
+      "appearance_en": "A square Nordic face, short black hair touched with white, and shrewd eyes",
       "background": "美国海军核潜艇曼塔号舰长",
+      "background_en": "Captain of the United States nuclear submarine Manta",
       "first_appearance_chapter": 20,
       "habits": "抽烟斗",
+      "habits_en": "Smokes a pipe",
       "id": "pedersen",
       "last_appearance_chapter": 22,
       "name_en": "Commander P. Pedersen",
       "name_zh": "P·佩德森舰长",
       "personality": "沉稳、幽默、果断",
+      "personality_en": "Steady, humorous and decisive",
       "relationships": [
         {
           "change": "受命听从邦德与莱特指挥，率曼塔号追踪飞碟号",
@@ -852,20 +1052,26 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated",
       "aliases": [],
       "appearance": "强壮",
+      "appearance_en": "Powerfully built",
       "background": "曼塔号水下战斗队队长",
+      "background_en": "Leader of the Manta's underwater combat team",
       "first_appearance_chapter": 22,
       "habits": "未写明",
+      "habits_en": "Not stated in the novel",
       "id": "fallon",
       "last_appearance_chapter": 23,
       "name_en": "Petty Officer Fallon",
       "name_zh": "法伦军士长",
       "personality": "勇敢、能干",
+      "personality_en": "Brave and capable",
       "relationships": [
         {
           "change": "率9名潜水员随邦德水下作战",
@@ -873,20 +1079,26 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated",
       "aliases": [],
       "appearance": "书中未细写",
+      "appearance_en": "Not described in detail in the novel",
       "background": "拿骚名医，犹太难民医生，曾在杜塞尔多夫行医",
+      "background_en": "A leading doctor in Nassau, a Jewish refugee who once practised in Dusseldorf",
       "first_appearance_chapter": 24,
       "habits": "未写明",
+      "habits_en": "Not stated in the novel",
       "id": "stengel",
       "last_appearance_chapter": 24,
       "name_en": "Dr. Stengel",
       "name_zh": "施滕格尔医生",
       "personality": "耐心、善良",
+      "personality_en": "Patient and kind",
       "relationships": [
         {
           "change": "为邦德与多米诺治伤，并做16具尸体解剖",
@@ -894,20 +1106,26 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated",
       "aliases": [],
       "appearance": "书中未细写",
+      "appearance_en": "Not described in detail in the novel",
       "background": "巴哈马港务警察军士",
+      "background_en": "A sergeant of the Bahamas harbour police",
       "first_appearance_chapter": 14,
       "habits": "未写明",
+      "habits_en": "Not stated in the novel",
       "id": "sergeant-molony",
       "last_appearance_chapter": 14,
       "name_en": "Sergeant Molony",
       "name_zh": "莫洛尼军士",
       "personality": "尽责",
+      "personality_en": "Conscientious",
       "relationships": [
         {
           "change": "向邦德提供飞碟号燃油数据",
@@ -915,20 +1133,26 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated",
       "aliases": [],
       "appearance": "外表强悍的欧洲人",
+      "appearance_en": "A tough-looking European",
       "background": "拉戈寻宝团股东之一",
+      "background_en": "One of Largo's treasure-hunting shareholders",
       "first_appearance_chapter": 15,
       "habits": "未写明",
+      "habits_en": "Not stated in the novel",
       "id": "snow",
       "last_appearance_chapter": 15,
       "name_en": "Mr. Snow",
       "name_zh": "斯诺先生",
       "personality": "未写明",
+      "personality_en": "Not stated in the novel",
       "relationships": [
         {
           "change": "赌桌上与拉戈合伙对付邦德",
@@ -936,33 +1160,46 @@
           "with": "largo"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     }
   ],
   "communications": [
     {
       "name": "电话",
-      "note": "邦德在灌木林以公用电话向总部档案处查询纹身；M与首相、总统以电话与信号联络"
+      "name_en": "Telephone",
+      "note": "邦德在灌木林以公用电话向总部档案处查询纹身；M与首相、总统以电话与信号联络",
+      "note_en": "Bond uses a public telephone at Shrublands to ask Headquarters records about the tattoo; M keeps in touch with the Prime Minister and the President by telephone and signal."
     },
     {
       "name": "电报与电传打字机",
-      "note": "M办公室以Triple X密码向中情局、法方、北约与各站发报；邦德与莱特以密码机向伦敦与华盛顿发报"
+      "name_en": "Telegrams and teleprinters",
+      "note": "M办公室以Triple X密码向中情局、法方、北约与各站发报；邦德与莱特以密码机向伦敦与华盛顿发报",
+      "note_en": "M's office sends messages in Triple X code to the CIA, the French, NATO and the various stations; Bond and Leiter report to London and Washington on cipher machines."
     },
     {
       "name": "无线电16兆周",
-      "note": "SPECTRE勒索信指定英美政府每小时整点在16兆周波段回复；SPECTRE内部亦用该波段联络"
+      "name_en": "Radio, 16 megacycles",
+      "note": "SPECTRE勒索信指定英美政府每小时整点在16兆周波段回复；SPECTRE内部亦用该波段联络",
+      "note_en": "The SPECTRE blackmail letter orders the British and American governments to reply on the hour on the 16-megacycle band; SPECTRE also uses this band for its own communications."
     },
     {
       "name": "无线电20兆周",
-      "note": "布洛菲尔德会后命18号以20兆周联络1号"
+      "name_en": "Radio, 20 megacycles",
+      "note": "布洛菲尔德会后命18号以20兆周联络1号",
+      "note_en": "After the meeting Blofeld orders No. 18 to contact No. 1 on 20 megacycles."
     },
     {
       "name": "对讲机",
-      "note": "巴哈马警方监视人员以对讲机向总部报告飞碟号动向"
+      "name_en": "Walkie-talkies",
+      "note": "巴哈马警方监视人员以对讲机向总部报告飞碟号动向",
+      "note_en": "Bahamas police watchers report the Disco Volante's movements to headquarters by walkie-talkie."
     },
     {
       "name": "舰船无线电",
-      "note": "飞碟号radio room持续监听气象报告与拿骚方面通讯量"
+      "name_en": "Ship's radio",
+      "note": "飞碟号radio room持续监听气象报告与拿骚方面通讯量",
+      "note_en": "The Disco Volante's radio room keeps a constant watch on weather reports and the volume of Nassau traffic."
     }
   ],
   "equipment": [
@@ -971,21 +1208,24 @@
       "kind": "武器",
       "name_en": "Walther PPK",
       "name_zh": "瓦尔特PPK手枪",
-      "note": "邦德配枪，第17章以其射杀锤头鲨"
+      "note": "邦德配枪，第17章以其射杀锤头鲨",
+      "note_en": "Bond's service pistol; in Chapter 17 he uses it to kill a hammerhead shark."
     },
     {
       "id": "co2-gun",
       "kind": "武器",
       "name_en": "CO2 spear gun",
       "name_zh": "二氧化碳鱼枪",
-      "note": "SPECTRE潜水队标配，射程约20英尺，矛头涂有箭毒"
+      "note": "SPECTRE潜水队标配，射程约20英尺，矛头涂有箭毒",
+      "note_en": "Standard issue for SPECTRE's divers, with a range of about twenty feet and a spearhead tipped with curare."
     },
     {
       "id": "geiger-counter",
       "kind": "探测设备",
       "name_en": "Geiger counter",
       "name_zh": "盖革计数器",
-      "note": "莱特带来两台，一台伪装成禄莱照相机，一台水下型号；多米诺携带伪装型号登船"
+      "note": "莱特带来两台，一台伪装成禄莱照相机，一台水下型号；多米诺携带伪装型号登船",
+      "note_en": "Leiter brings two: one disguised as a Rolleiflex camera and one underwater model; Domino takes the disguised model aboard."
     },
     {
       "id": "aqualung",
@@ -998,128 +1238,170 @@
       "kind": "潜水装备",
       "name_en": "Underwater chariot",
       "name_zh": "水下摩托艇",
-      "note": "仿意大利二战载人鱼雷，由安萨尔多公司改进型"
+      "note": "仿意大利二战载人鱼雷，由安萨尔多公司改进型",
+      "note_en": "Modelled on the Italian Second World War manned torpedo, in an improved version by Ansaldo."
     },
     {
       "id": "underwater-sled",
       "kind": "潜水装备",
       "name_en": "Underwater sled",
       "name_zh": "水下雪橇",
-      "note": "用于水下运输重物，载运核弹"
+      "note": "用于水下运输重物，载运核弹",
+      "note_en": "Used to carry heavy loads underwater, including the atomic bombs."
     },
     {
       "id": "speed-pack",
       "kind": "潜水装备",
       "name_en": "Compressed-air speed pack",
       "name_zh": "压缩空气加速包",
-      "note": "SPECTRE潜水员背负，螺旋桨推进，速度翻倍"
+      "note": "SPECTRE潜水员背负，螺旋桨推进，速度翻倍",
+      "note_en": "Worn by SPECTRE divers; propeller-driven, doubling their speed."
     },
     {
       "id": "cipher-machine",
       "kind": "通讯设备",
       "name_en": "Cipher machine",
       "name_zh": "密码机",
-      "note": "邦德携带Triple X密码机与莱特的中情局密码机"
+      "note": "邦德携带Triple X密码机与莱特的中情局密码机",
+      "note_en": "Bond carries a Triple X cipher machine, and Leiter a CIA cipher machine."
     },
     {
       "id": "dexedrine",
       "kind": "药品",
       "name_en": "Dexedrine pills",
       "name_zh": "右旋安非他命药片",
-      "note": "拉戈发给水下布放小队提神增力"
+      "note": "拉戈发给水下布放小队提神增力",
+      "note_en": "Dexedrine pills handed out by Largo to the bomb-laying swimming party to keep them alert and strong."
     },
     {
       "id": "spear-lance",
       "kind": "武器",
       "name_en": "Barbed spear lance",
       "name_zh": "带倒钩长矛",
-      "note": "曼塔号水下战斗队以缴获的弹簧刀改制，绑在扫帚柄上"
+      "note": "曼塔号水下战斗队以缴获的弹簧刀改制，绑在扫帚柄上",
+      "note_en": "Barbed spear lances made by the Manta's underwater combat team from captured flick-knives lashed to broom handles."
     }
   ],
   "events": [
     {
       "cause": "邦德体检报告极差，每天60支烟与半瓶烈酒，血压160/90",
+      "cause_en": "Bond's medical report is appalling: sixty cigarettes a day and half a bottle of spirits, with blood pressure of 160/90.",
       "chapter": 1,
       "effect": "M强制邦德去灌木林疗养两周，邦德在疗养院撞见利普",
+      "effect_en": "M orders Bond to spend two weeks at the Shrublands clinic, where Bond runs into Lippe.",
       "id": "shrublands-cure",
-      "title": "邦德被强制疗养"
+      "title": "邦德被强制疗养",
+      "title_en": "Bond is ordered to take the cure"
     },
     {
       "cause": "邦德在电话亭向总部查询利普腕下纹身，被利普偷听",
+      "cause_en": "Lippe overhears Bond telephoning Headquarters to ask about the tattoo under his wrist.",
       "chapter": 3,
       "effect": "利普将牵引床调至200磅企图谋杀邦德未遂，邦德以土耳其浴室高温报复，利普二度烧伤入院",
+      "effect_en": "Lippe turns the traction machine up to 200 lb in an attempt to murder Bond; the attempt fails, and Bond takes revenge by locking Lippe in the Turkish bath at high heat, leaving him with second-degree burns and in hospital.",
       "id": "lippe-attack",
-      "title": "利普谋杀邦德未遂"
+      "title": "利普谋杀邦德未遂",
+      "title_en": "Lippe's attempt to murder Bond fails"
     },
     {
       "cause": "SPECTRE绑架布隆伯格17岁女儿并索得100万美元赎金，期间女孩遭强奸",
+      "cause_en": "SPECTRE kidnaps the seventeen-year-old daughter of Blomberg and extracts a $1,000,000 ransom, during which the girl is raped.",
       "chapter": 6,
       "effect": "布洛菲尔德退还50万美元并以电椅处决12号博罗",
+      "effect_en": "Blofeld returns $500,000 of the ransom and has No. 12, Borraud, executed in the electric chair.",
       "id": "borraud-execution",
-      "title": "布洛菲尔德处决博罗"
+      "title": "布洛菲尔德处决博罗",
+      "title_en": "Blofeld executes Borraud"
     },
     {
       "cause": "利普因与邦德冲突烧伤住院，无法按期寄出勒索信",
+      "cause_en": "Lippe is in hospital with burns after his clash with Bond and cannot post the blackmail letter on time.",
       "chapter": 6,
       "effect": "欧米茄计划延期一周，佩塔基以流感病毒请病假等待",
+      "effect_en": "Operation Omega is put back a week, and Petacchi calls in sick with flu to wait.",
       "id": "plan-omega-delay",
-      "title": "欧米茄计划延期"
+      "title": "欧米茄计划延期",
+      "title_en": "Operation Omega is delayed"
     },
     {
       "cause": "佩塔基受SPECTRE以100万美元、新护照与里约机票收买",
+      "cause_en": "Petacchi is bought by SPECTRE with $1,000,000, a new passport and a ticket to Rio de Janeiro.",
       "chapter": 9,
       "effect": "佩塔基以氰化物毒死5名机组人员，驾机在比米尼附近迫降，随即被瓦尔加斯刺死，核弹被取走",
+      "effect_en": "Petacchi kills the five-man crew with cyanide gas, ditches the bomber off Bimini, and is then stabbed to death by Vargas; the atomic bombs are removed.",
       "id": "vindicator-hijack",
-      "title": "轰炸机被劫持"
+      "title": "轰炸机被劫持",
+      "title_en": "The bomber is hijacked"
     },
     {
       "cause": "SPECTRE寄给英国首相的勒索信要求1亿英镑金条，限期1959年6月10日17时",
+      "cause_en": "SPECTRE's letter to the British Prime Minister demands £100 million in gold bars, with a deadline of 5 p.m. on 10 June 1959.",
       "chapter": 7,
       "effect": "英美启动霹雳弹行动，全球搜寻飞机与核弹，M派邦德去巴哈马",
+      "effect_en": "Britain and the United States launch Operation Thunderball, searching the world for the aircraft and the bombs, and M sends Bond to the Bahamas.",
       "id": "nuclear-blackmail",
-      "title": "核勒索信"
+      "title": "核勒索信",
+      "title_en": "The nuclear blackmail letter"
     },
     {
       "cause": "利普出院后跟踪邦德企图枪杀报仇",
+      "cause_en": "After leaving hospital, Lippe follows Bond and tries to shoot him in revenge.",
       "chapter": 8,
       "effect": "SPECTRE的6号骑摩托车以手榴弹炸死利普，邦德险些丧命",
+      "effect_en": "SPECTRE's No. 6 kills Lippe with a grenade from a motorcycle, and Bond narrowly escapes death.",
       "id": "lippe-killed",
-      "title": "利普被SPECTRE灭口"
+      "title": "利普被SPECTRE灭口",
+      "title_en": "Lippe is silenced by SPECTRE"
     },
     {
       "cause": "邦德怀疑飞碟号，莱特认出股东特劳特实为物理学家科策",
+      "cause_en": "Bond suspects the Disco Volante, and Leiter recognises the shareholder Traut as the physicist Kotze.",
       "chapter": 17,
       "effect": "邦德乘水上飞机搜索，在比米尼以南发现伪装篷布下的失事飞机，确认核弹已被取走",
+      "effect_en": "Bond searches by seaplane and finds the wrecked bomber under a camouflage tarpaulin south of Bimini, confirming that the bombs have been removed.",
       "id": "wreck-found",
-      "title": "发现失事飞机残骸"
+      "title": "发现失事飞机残骸",
+      "title_en": "The wrecked bomber is found"
     },
     {
       "cause": "多米诺得知兄长被拉戈下令杀害",
+      "cause_en": "Domino learns that her brother was killed on Largo's orders.",
       "chapter": 19,
       "effect": "多米诺同意携带盖革计数器登船做内应",
+      "effect_en": "Domino agrees to go aboard carrying a Geiger counter as Bond's inside agent.",
       "id": "domino-turns",
-      "title": "多米诺转为邦德内应"
+      "title": "多米诺转为邦德内应",
+      "title_en": "Domino becomes Bond's agent"
     },
     {
       "cause": "多米诺携带的盖革计数器被发现",
+      "cause_en": "The Geiger counter Domino is carrying is discovered.",
       "chapter": 21,
       "effect": "拉戈以雪茄与冰块折磨逼供，多米诺一言不发；拉戈命人将其装入核弹铅壳灭口的计划未能实施",
+      "effect_en": "Largo tortures her with a cigar and ice to make her talk; she says nothing, and Largo's plan to dispose of her in the lead casing of an atomic bomb is not carried out.",
       "id": "domino-tortured",
-      "title": "多米诺遭折磨"
+      "title": "多米诺遭折磨",
+      "title_en": "Domino is tortured"
     },
     {
       "cause": "飞碟号于17时55分出航北上，曼塔号雷达跟踪",
+      "cause_en": "The Disco Volante sails north at full speed at 17:55, tracked by the Manta's radar.",
       "chapter": 22,
       "effect": "邦德与莱特率9名潜水员出击，在大巴哈马岛外拦截布放核弹的潜水队",
+      "effect_en": "Bond and Leiter take nine divers out to intercept the diving party laying the atomic bomb off Grand Bahama.",
       "id": "manta-pursuit",
-      "title": "曼塔号追踪飞碟号"
+      "title": "曼塔号追踪飞碟号",
+      "title_en": "The Manta shadows the Disco"
     },
     {
       "cause": "拉戈率15人潜水队拖运核弹前往大巴哈马导弹基地布放",
+      "cause_en": "Largo leads a fifteen-man diving party towing the atomic bomb to lay it off the Grand Bahama missile base.",
       "chapter": 23,
       "effect": "水下混战，拉戈企图拖走核弹雪橇，多米诺挣脱束缚潜出，以鱼枪刺穿拉戈脖颈将其杀死，两枚核弹被回收",
+      "effect_en": "In the underwater fighting Largo tries to tow the bomb sled away; Domino breaks free and swims out, killing Largo with a spear through the neck, and both atomic bombs are recovered.",
       "id": "underwater-battle",
-      "title": "水下决战与拉戈之死"
+      "title": "水下决战与拉戈之死",
+      "title_en": "The underwater battle and Largo's death"
     }
   ],
   "facts": [
@@ -1129,6 +1411,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德体检报告称其每天抽60支巴尔干混合烟，饮酒约半瓶烈酒，血压160/90，医生建议休养2至3周",
+      "fact_en": "Bond's medical report states that he smokes sixty Balkan-mixture cigarettes a day, drinks about half a bottle of spirits, and has blood pressure of 160/90; his doctor advises two to three weeks' rest.",
       "quote": "smoking sixty cigarettes a day",
       "quote_source": "第1章",
       "source_novel": "thunderball",
@@ -1140,6 +1423,7 @@
       "confidence": "high",
       "entity": "m",
       "fact": "M因邦德体检报告差，强制其去苏塞克斯郡华盛顿附近的灌木林疗养院疗养两周",
+      "fact_en": "Because of Bond's poor medical report, M orders him to spend two weeks at the Shrublands nature-cure clinic near Washington, Sussex.",
       "quote": "Place called Shrublands",
       "quote_source": "第1章",
       "source_novel": "thunderball",
@@ -1151,6 +1435,7 @@
       "confidence": "high",
       "entity": "wain",
       "fact": "灌木林疗养院负责人为约书亚·韦恩，65岁，疗养费每周20畿尼",
+      "fact_en": "The Shrublands clinic is run by Joshua Wain, aged 65; the cure costs twenty guineas a week.",
       "quote": "Run by quite a famous man in his line–Wain, Joshua Wain",
       "quote_source": "第1章",
       "source_novel": "thunderball",
@@ -1162,6 +1447,7 @@
       "confidence": "high",
       "entity": "patricia-fearing",
       "fact": "帕特里夏·费林在灌木林任职3年，为骨科治疗师",
+      "fact_en": "Patricia Fearing has worked at Shrublands for three years as the clinic's osteopath.",
       "quote": "She had been at Shrublands for three years",
       "quote_source": "第2章",
       "source_novel": "thunderball",
@@ -1173,6 +1459,7 @@
       "confidence": "high",
       "entity": "lippe",
       "fact": "利普左腕内侧有红闪电帮会纹身，平时以腕表遮盖",
+      "fact_en": "Lippe has a Red Lightning Tong tattoo on the inside of his left wrist, normally hidden under his watch.",
       "quote": "a sign tattooed on the skin",
       "quote_source": "第2章",
       "source_novel": "thunderball",
@@ -1184,6 +1471,7 @@
       "confidence": "high",
       "entity": "lippe",
       "fact": "红闪电帮会为纯犯罪组织，总部在澳门，在香港亦有活动，曾与英方香港站发生冲突",
+      "fact_en": "The Red Lightning Tong is a purely criminal organisation based in Macao and active in Hong Kong, which has clashed with the British station there.",
       "quote": "The Red Lightning Tong. Unusual to find anyone but a full-blooded Chinaman",
       "quote_source": "第3章",
       "source_novel": "thunderball",
@@ -1195,6 +1483,7 @@
       "confidence": "high",
       "entity": "lippe",
       "fact": "利普将牵引床拉力调至200磅企图杀死邦德，邦德被费林救下",
+      "fact_en": "Lippe turns the traction machine up to a pull of 200 lb in an attempt to kill Bond; Bond is saved by Fearing.",
       "quote": "the needle was trembling at 200",
       "quote_source": "第3章",
       "source_novel": "thunderball",
@@ -1206,6 +1495,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德将土耳其浴室温度调至180度报复利普，利普出价5万英镑求饶未果",
+      "fact_en": "Bond turns the Turkish bath up to 180 degrees in revenge on Lippe; Lippe offers £50,000 to be released, without success.",
       "quote": "Give you a thousand pounds and we're quits",
       "quote_source": "第4章",
       "source_novel": "thunderball",
@@ -1217,6 +1507,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德疗养结束时血压降至132/84，体重减轻10磅",
+      "fact_en": "By the end of the cure Bond's blood pressure has fallen to 132/84 and he has lost ten pounds in weight.",
       "quote": "blood pressure down to 132/84, weight reduced by ten pounds",
       "quote_source": "第4章",
       "source_novel": "thunderball",
@@ -1228,6 +1519,7 @@
       "confidence": "high",
       "entity": "blofeld",
       "fact": "布洛菲尔德1908年5月28日生于格丁尼亚，父为波兰人，母为希腊人",
+      "fact_en": "Blofeld was born in Gdynia on 28 May 1908, the son of a Polish father and a Greek mother.",
       "quote": "born in Gdynia of a Polish father and a Greek mother on May 28th, 1908",
       "quote_source": "第5章",
       "source_novel": "thunderball",
@@ -1239,6 +1531,7 @@
       "confidence": "high",
       "entity": "blofeld",
       "fact": "布洛菲尔德曾在波兰邮电部任职，以代号TARTAR向德国出售情报，后又向美国与瑞典出售，获利20万美元",
+      "fact_en": "Blofeld worked in the Polish Ministry of Posts and Telegraphs, sold intelligence to the Germans under the codename TARTAR, and later sold to the Americans and the Swedes, making $200,000.",
       "quote": "he christened his network TARTAR",
       "quote_source": "第5章",
       "source_novel": "thunderball",
@@ -1250,6 +1543,7 @@
       "confidence": "high",
       "entity": "blofeld",
       "fact": "布洛菲尔德体重约280磅，不抽烟不喝酒，从未与任何性别的人发生过性关系",
+      "fact_en": "Blofeld weighs about 280 lb, neither smokes nor drinks, and has never had sexual relations with a member of either sex.",
       "quote": "Blofeld's body weighed about two hundred and eighty pounds",
       "quote_source": "第5章",
       "source_novel": "thunderball",
@@ -1261,6 +1555,7 @@
       "confidence": "high",
       "entity": "spectre",
       "fact": "SPECTRE全称为反情报、恐怖、报复与勒索特别执行部，总部以FIRCO慈善组织为掩护设于巴黎奥斯曼大道136号之二",
+      "fact_en": "SPECTRE stands for the Special Executive for Counterintelligence, Terrorism, Revenge, and Extortion; its headquarters, fronted by the FIRCO charity, is at 136 bis Boulevard Haussmann, Paris.",
       "quote": "S.P.E.C.T.R.E.–The Special Executive for Counterintelligence, Terrorism, Revenge, and Extortion",
       "quote_source": "第5章",
       "source_novel": "thunderball",
@@ -1272,6 +1567,7 @@
       "confidence": "high",
       "entity": "spectre",
       "fact": "SPECTRE由20名成员与主席组成，成员分属6个犯罪与颠覆组织各3人，另有两名科学家科策与马斯洛夫",
+      "fact_en": "SPECTRE consists of twenty members and a chairman; the members come in threes from six criminal and subversive organisations, plus two scientists, Kotze and Maslov.",
       "quote": "There were three Sicilians from the top echelon of the Unione Siciliano",
       "quote_source": "第5章",
       "source_novel": "thunderball",
@@ -1283,6 +1579,7 @@
       "confidence": "high",
       "entity": "spectre",
       "fact": "SPECTRE成员编号每月1日午夜按轮值前进两位数，布洛菲尔德本月编号为2号",
+      "fact_en": "SPECTRE members' numbers advance by two digits at midnight on the first of each month by rotation; this month Blofeld's number is 2.",
       "quote": "the numbers from one to twenty-one that were their only names",
       "quote_source": "第5章",
       "source_novel": "thunderball",
@@ -1294,6 +1591,7 @@
       "confidence": "high",
       "entity": "blofeld",
       "fact": "布洛菲尔德以电椅处决12号博罗，因其强奸了被绑架的布隆伯格之女，并退还50万美元赎金致歉",
+      "fact_en": "Blofeld has No. 12, Borraud, executed in the electric chair for raping the kidnapped daughter of Blomberg, and returns $500,000 of the ransom by way of apology.",
       "quote": "The body of Pierre Borraud, seized in the iron fist of 3000 volts",
       "quote_source": "第6章",
       "source_novel": "thunderball",
@@ -1305,6 +1603,7 @@
       "confidence": "high",
       "entity": "spectre",
       "fact": "SPECTRE此前3年总收入约150万英镑，每名成员分得约6万英镑",
+      "fact_en": "SPECTRE's total income over the previous three years was about £1.5 million, roughly £60,000 per member.",
       "quote": "the total income to date, not counting our last and undistributed dividend",
       "quote_source": "第6章",
       "source_novel": "thunderball",
@@ -1316,6 +1615,7 @@
       "confidence": "high",
       "entity": "lippe",
       "fact": "利普为SPECTRE次级特工G，因与邦德冲突烧伤住院，布洛菲尔德下令其寄信后24小时内将其处决",
+      "fact_en": "Lippe is SPECTRE sub-agent G; after being burned in his clash with Bond and hospitalised, Blofeld orders him to be eliminated within 24 hours of posting the letter.",
       "quote": "this is an unreliable agent. The German section will make arrangements for his elimination",
       "quote_source": "第6章",
       "source_novel": "thunderball",
@@ -1327,6 +1627,7 @@
       "confidence": "high",
       "entity": "largo",
       "fact": "拉戈为SPECTRE的1号，布洛菲尔德指定继承人，欧米茄计划现场最高指挥",
+      "fact_en": "Largo is SPECTRE's No. 1, Blofeld's designated successor, and supreme commander in the field for Operation Omega.",
       "quote": "No. 1 will be Supreme Commander in the field",
       "quote_source": "第6章",
       "source_novel": "thunderball",
@@ -1338,6 +1639,7 @@
       "confidence": "high",
       "entity": "spectre",
       "fact": "赎金金条拟在埃特纳火山西北坡海拔2000至3000米处空投，由5架马克IV型运输彗星机运送",
+      "fact_en": "The gold ransom is to be dropped by parachute on the north-west slopes of Mount Etna, between 2,000 and 3,000 metres, and carried by five Mark IV Transport Comet aircraft.",
       "quote": "Area T, is on the northwest slopes of Mount Etna",
       "quote_source": "第6章",
       "source_novel": "thunderball",
@@ -1349,6 +1651,7 @@
       "confidence": "high",
       "entity": "spectre",
       "fact": "勒索信于1959年6月3日8时30分在布赖顿寄出，收信人为英国首相，索要价值1亿英镑的纯度1000金条",
+      "fact_en": "The blackmail letter was posted at Brighton at 8:30 a.m. on 3 June 1959, addressed to the British Prime Minister, demanding £100 million in gold bars of 1000 fineness.",
       "quote": "postmarked Brighton, 8:30 a.m. on June 3",
       "quote_source": "第7章",
       "source_novel": "thunderball",
@@ -1360,6 +1663,7 @@
       "confidence": "high",
       "entity": "spectre",
       "fact": "勒索限期为1959年6月3日17时起7天，即6月10日17时，逾期先炸价值不低于1亿英镑的财产，48小时后再炸一座大城市",
+      "fact_en": "The deadline runs seven days from 5 p.m. on 3 June 1959, that is, 5 p.m. on 10 June; if it passes, SPECTRE will first destroy property worth at least £100 million, and 48 hours later a major city.",
       "quote": "not later than 5 p.m. G.M.T. on June 10th, 1959",
       "quote_source": "第7章",
       "source_novel": "thunderball",
@@ -1371,6 +1675,7 @@
       "confidence": "high",
       "entity": "spectre",
       "fact": "失踪飞机为维利尔斯复仇者号O/NBR，隶属博斯科姆唐第5皇家空军试验中队，载两枚核弹，编号MOS/bd/654/Mk V与MOS/bd/655/Mk V",
+      "fact_en": "The missing aircraft is the Villiers Vindicator O/NBR of No. 5 R.A.F. Experimental Squadron, Boscombe Down, carrying two atomic bombs numbered MOS/bd/654/Mk V and MOS/bd/655/Mk V.",
       "quote": "Villiers Vindicator O/NBR from No. 5 R.A.F. Experimental Squadron",
       "quote_source": "第7章",
       "source_novel": "thunderball",
@@ -1382,6 +1687,7 @@
       "confidence": "high",
       "entity": "petacchi",
       "fact": "失踪飞机机组5人加意大利观察员朱塞佩·佩塔基，6人全部死亡",
+      "fact_en": "The missing aircraft carried a crew of five plus the Italian observer Giuseppe Petacchi; all six are dead.",
       "quote": "The crew and the observer are deceased",
       "quote_source": "第7章",
       "source_novel": "thunderball",
@@ -1393,6 +1699,7 @@
       "confidence": "high",
       "entity": "m",
       "fact": "M根据DEW雷达疑似信号推测飞机南飞巴哈马，派邦德前往拿骚调查",
+      "fact_en": "On the basis of a suspected DEW radar trace, M guesses the aircraft flew south to the Bahamas and sends Bond to Nassau to investigate.",
       "quote": "I decided on the Bahamas, the group of islands",
       "quote_source": "第8章",
       "source_novel": "thunderball",
@@ -1404,6 +1711,7 @@
       "confidence": "high",
       "entity": "lippe",
       "fact": "利普在伦敦街头企图枪杀邦德，被SPECTRE的6号骑摩托车以手榴弹炸死",
+      "fact_en": "Lippe tries to shoot Bond in a London street and is blown up by SPECTRE's No. 6, who kills him with a grenade from a motorcycle.",
       "quote": "the remains of his windshield, already shattered, cascaded around him",
       "quote_source": "第8章",
       "source_novel": "thunderball",
@@ -1415,6 +1723,7 @@
       "confidence": "high",
       "entity": "petacchi",
       "fact": "佩塔基以氰化物毒气在4分钟内杀死5名机组人员，独自驾机飞往巴哈马",
+      "fact_en": "Petacchi kills the five-man crew with cyanide gas in four minutes and flies the bomber alone to the Bahamas.",
       "quote": "Four minutes flat",
       "quote_source": "第9章",
       "source_novel": "thunderball",
@@ -1426,6 +1735,7 @@
       "confidence": "high",
       "entity": "petacchi",
       "fact": "SPECTRE以100万美元、新护照与去里约热内卢的机票收买佩塔基劫机，佩塔基未被告知与核弹有关",
+      "fact_en": "SPECTRE bought Petacchi with $1,000,000, a new passport and a ticket to Rio de Janeiro; Petacchi was not told that atomic bombs were involved.",
       "quote": "Petacchi would receive $1,000,000, a new passport in any name",
       "quote_source": "第9章",
       "source_novel": "thunderball",
@@ -1437,6 +1747,7 @@
       "confidence": "high",
       "entity": "vargas",
       "fact": "佩塔基迫降后在机翼上被瓦尔加斯以短剑自下颌刺入脑部杀死",
+      "fact_en": "After ditching the bomber, Petacchi is killed on the wing by Vargas, who drives a stiletto up under his chin into his brain.",
       "quote": "the stiletto flashed up and under the offered chin",
       "quote_source": "第9章",
       "source_novel": "thunderball",
@@ -1448,6 +1759,7 @@
       "confidence": "high",
       "entity": "largo",
       "fact": "拉戈约40岁，罗马人，曾为那不勒斯黑市头目、丹吉尔走私者与法国里维埃拉珠宝大盗",
+      "fact_en": "Largo, about 40, is a Roman who was a Naples black-market boss, a Tangier smuggler and a Riviera jewel thief in France.",
       "quote": "He was a Roman and he looked like a Roman",
       "quote_source": "第10章",
       "source_novel": "thunderball",
@@ -1459,6 +1771,7 @@
       "confidence": "high",
       "entity": "disco-volante",
       "fact": "飞碟号为水翼快艇，由墨西拿的莱奥波尔多·罗德里格斯公司建造，造价20万英镑，航速约50节",
+      "fact_en": "The Disco Volante is a hydrofoil yacht built by Leopoldo Rodriguez of Messina, costing £200,000, with a speed of about 50 knots.",
       "quote": "could move her hundred tons at around fifty knots",
       "quote_source": "第10章",
       "source_novel": "thunderball",
@@ -1470,6 +1783,7 @@
       "confidence": "high",
       "entity": "spectre",
       "fact": "两枚核弹被藏于狗岛岩洞内，距拿骚约100英里",
+      "fact_en": "The two atomic bombs are hidden in a cave under Dog Island, about a hundred miles from Nassau.",
       "quote": "a hundred miles from Nassau",
       "quote_source": "第10章",
       "source_novel": "thunderball",
@@ -1481,6 +1795,7 @@
       "confidence": "high",
       "entity": "kotze",
       "fact": "科策为核弹改装定时引信，引爆器装在飞行员座位下的铅盒中",
+      "fact_en": "Kotze fits the atomic bombs with time fuses; the detonators are kept in a lead box under the pilot's seat.",
       "quote": "They were in a leaden box under the pilot's seat",
       "quote_source": "第10章",
       "source_novel": "thunderball",
@@ -1492,6 +1807,7 @@
       "confidence": "high",
       "entity": "domino",
       "fact": "多米诺本名多米内塔·佩塔基，29岁，生于博尔扎诺，父母死于火车事故，曾就读切尔滕纳姆女子学院与皇家戏剧艺术学院",
+      "fact_en": "Domino's real name is Dominetta Petacchi; she is 29, born in Bolzano, her parents died in a train accident, and she was educated at Cheltenham Ladies' College and the Royal Academy of Dramatic Art.",
       "quote": "My name's Dominetta Vitali. But I was sent to school in England",
       "quote_source": "第11章",
       "source_novel": "thunderball",
@@ -1503,6 +1819,7 @@
       "confidence": "high",
       "entity": "domino",
       "fact": "多米诺右腿比左腿短1英寸，致轻微跛行",
+      "fact_en": "Domino's right leg is one inch shorter than her left, leaving her with a slight limp.",
       "quote": "I have one leg an inch shorter than the other",
       "quote_source": "第15章",
       "source_novel": "thunderball",
@@ -1514,6 +1831,7 @@
       "confidence": "high",
       "entity": "leiter",
       "fact": "莱特右手为钢钩假肢，曾离开中情局加入平克顿侦探社，行动中被征召归队",
+      "fact_en": "Leiter's right hand is a steel-hook prosthesis; he left the CIA to join the Pinkerton detective agency and was recalled to duty for this operation.",
       "quote": "thrust the steel hook that was his right hand under Bond's arm",
       "quote_source": "第12章",
       "source_novel": "thunderball",
@@ -1525,6 +1843,7 @@
       "confidence": "high",
       "entity": "largo",
       "fact": "飞碟号载有约40人，包括19名股东与船员，拉戈称其为寻宝团",
+      "fact_en": "The Disco Volante carries about forty people, including nineteen shareholders and the crew; Largo calls them a treasure-hunting syndicate.",
       "quote": "With the crew, there are forty of us",
       "quote_source": "第13章",
       "source_novel": "thunderball",
@@ -1536,6 +1855,7 @@
       "confidence": "high",
       "entity": "largo",
       "fact": "飞碟号实际仅载500加仑柴油，与拉戈所称的大量燃油与压载舱说法不符",
+      "fact_en": "The Disco in fact carries a maximum of 500 gallons of diesel, contradicting Largo's claims about her large fuel and ballast tanks.",
       "quote": "She carries a maximum of five hundred gallons of Diesel",
       "quote_source": "第14章",
       "source_novel": "thunderball",
@@ -1547,6 +1867,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德在赌场与拉戈对赌chemin de fer三连胜，赢得1600美元",
+      "fact_en": "Bond plays chemin de fer against Largo at the casino and wins three coups in a row, winning $1,600.",
       "quote": "I have made sixteen hundred dollars in two coups",
       "quote_source": "第15章",
       "source_novel": "thunderball",
@@ -1558,6 +1879,7 @@
       "confidence": "high",
       "entity": "domino",
       "fact": "多米诺向邦德坦言本姓佩塔基，兄长朱塞佩为飞行员",
+      "fact_en": "Domino tells Bond that her family name is Petacchi and that her brother Giuseppe is a pilot.",
       "quote": "Is your family name Petacchi, then?",
       "quote_source": "第15章",
       "source_novel": "thunderball",
@@ -1569,6 +1891,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德夜潜飞碟号发现船底约12英尺见方水下舱门，盖革计数器读数正常",
+      "fact_en": "Diving on the Disco at night, Bond finds a roughly twelve-foot-square underwater hatch in her hull; the Geiger counter reads normal.",
       "quote": "About twelve feet square, divided down the center",
       "quote_source": "第16章",
       "source_novel": "thunderball",
@@ -1580,6 +1903,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德水下遭SPECTRE哨兵以二氧化碳鱼枪袭击，哨兵被大梭鱼咬死",
+      "fact_en": "Underwater, Bond is attacked by a SPECTRE sentry with a CO2 spear gun; the sentry is killed by a great barracuda.",
       "quote": "shreds of black rubber hanging from its jaws, Bond saw the barracuda",
       "quote_source": "第16章",
       "source_novel": "thunderball",
@@ -1591,6 +1915,7 @@
       "confidence": "high",
       "entity": "kotze",
       "fact": "莱特认出化名埃米尔·特劳特的股东实为东德物理学家科策，其5年前投奔西方后隐居瑞士",
+      "fact_en": "Leiter recognises the shareholder calling himself Emil Traut as the East German physicist Kotze, who defected to the West five years earlier and retired to Switzerland.",
       "quote": "That's the same guy. The file went through my hands",
       "quote_source": "第17章",
       "source_novel": "thunderball",
@@ -1602,6 +1927,7 @@
       "confidence": "high",
       "entity": "petacchi",
       "fact": "邦德在失事飞机内找到佩塔基的身份牌，编号15932，及其金劳力士表",
+      "fact_en": "In the wrecked bomber Bond finds Petacchi's identity disc, No. 15932, and his gold Rolex watch.",
       "quote": "Giuseppe Petacchi. No. 15932",
       "quote_source": "第17章",
       "source_novel": "thunderball",
@@ -1613,6 +1939,7 @@
       "confidence": "high",
       "entity": "spectre",
       "fact": "失事飞机上的两枚核弹与引信均已被取走，邦德仅取回氰化物罐",
+      "fact_en": "The two atomic bombs and their fuses have already been removed from the wrecked bomber; Bond takes only the cyanide canister.",
       "quote": "He found the red-striped cyanide canister and tucked it into his belt",
       "quote_source": "第17章",
       "source_novel": "thunderball",
@@ -1624,6 +1951,7 @@
       "confidence": "high",
       "entity": "domino",
       "fact": "多米诺得知兄长死讯后同意携带盖革计数器登船做内应，以是否上甲板为信号",
+      "fact_en": "On learning of her brother's death, Domino agrees to go aboard as Bond's agent carrying a Geiger counter, with her coming up on deck as the signal.",
       "quote": "If the bombs are there, I will come up on deck",
       "quote_source": "第19章",
       "source_novel": "thunderball",
@@ -1635,6 +1963,7 @@
       "confidence": "high",
       "entity": "pedersen",
       "fact": "曼塔号为乔治·华盛顿级核潜艇，舰长P·佩德森，载16枚北极星导弹，潜航速度约40节",
+      "fact_en": "The Manta is a George Washington-class nuclear submarine, commanded by Commander P. Pedersen, carrying sixteen Polaris missiles, with a submerged speed of about 40 knots.",
       "quote": "She's one of the George Washington Class, about four thousand tons",
       "quote_source": "第19章",
       "source_novel": "thunderball",
@@ -1646,6 +1975,7 @@
       "confidence": "high",
       "entity": "largo",
       "fact": "飞碟号水上飞机于17时30分返回，飞碟号17时55分全速向西北出航，多米诺登船后未再上甲板",
+      "fact_en": "The Disco's seaplane returned at 17:30, and the Disco sailed at full speed to the north-west at 17:55; Domino boarded and was never seen on deck again.",
       "quote": "DISCO SAILED AT 1755, FULL SPEED, COURSE NORTHWEST",
       "quote_source": "第20章",
       "source_novel": "thunderball",
@@ -1657,6 +1987,7 @@
       "confidence": "high",
       "entity": "domino",
       "fact": "多米诺携带的伪装盖革计数器被发现，读数超过500毫伦琴，拉戈以雪茄与冰块折磨逼供，她一言不发",
+      "fact_en": "Domino's disguised Geiger counter is discovered, reading over 500 milliroentgens; Largo tortures her with a cigar and ice to make her talk, and she says nothing.",
       "quote": "The counter was, very naturally, registering over 500 milliroentgens",
       "quote_source": "第21章",
       "source_novel": "thunderball",
@@ -1668,6 +1999,7 @@
       "confidence": "high",
       "entity": "strelik",
       "fact": "俄罗斯人斯特雷利克在会上提议各组留人监督，被拉戈以0.25口径柯尔特手枪当场打死",
+      "fact_en": "The Russian Strelik proposes at the meeting that each group leave a man behind to supervise, and is shot dead on the spot by Largo with a .25 Colt pistol.",
       "quote": "The three bullets pumped so quickly into the face of the Russian",
       "quote_source": "第21章",
       "source_novel": "thunderball",
@@ -1679,6 +2011,7 @@
       "confidence": "high",
       "entity": "largo",
       "fact": "第一枚核弹目标为大巴哈马岛导弹基地，计划午夜3时锚泊，潜水队游半英里布放",
+      "fact_en": "The first atomic bomb is intended for the missile base on Grand Bahama, to be anchored at exactly 3 a.m., with the swimming party covering half a mile to lay it.",
       "quote": "We shall anchor at exactly three a.m. and the swimming party will leave",
       "quote_source": "第21章",
       "source_novel": "thunderball",
@@ -1690,6 +2023,7 @@
       "confidence": "high",
       "entity": "largo",
       "fact": "多米诺挣脱束缚潜出船舱，以鱼枪刺穿拉戈脖颈将其杀死，救下邦德",
+      "fact_en": "Domino breaks free of her bonds and swims out of the cabin, killing Largo with a spear through the neck and saving Bond.",
       "quote": "Largo, Largo with a spear sticking horribly through his neck",
       "quote_source": "第23章",
       "source_novel": "thunderball",
@@ -1701,6 +2035,7 @@
       "confidence": "high",
       "entity": "spectre",
       "fact": "两枚核弹均已回收，科策被捕后供出SPECTRE内情，布洛菲尔德逃脱",
+      "fact_en": "Both atomic bombs are recovered; Kotze, captured, tells all he knows about SPECTRE, and Blofeld escapes.",
       "quote": "They've recovered both bombs, and Kotze–the physicist chap–is singing like a bird",
       "quote_source": "第24章",
       "source_novel": "thunderball",
@@ -1712,6 +2047,7 @@
       "confidence": "high",
       "entity": "spectre",
       "fact": "第二枚核弹原定目标为迈阿密，计划布放在游艇港",
+      "fact_en": "The second atomic bomb was intended for Miami, to be laid in the yacht harbour.",
       "quote": "It was going to be Target No. 2. Same sort of operation",
       "quote_source": "第24章",
       "source_novel": "thunderball",
@@ -1723,6 +2059,7 @@
       "confidence": "high",
       "entity": "stengel",
       "fact": "施滕格尔医生共做16具尸体解剖，其中6具为曼塔号美军，10具来自飞碟号，包括拉戈",
+      "fact_en": "Dr. Stengel performs sixteen autopsies: six on Americans from the Manta and ten from the Disco Volante, including Largo.",
       "quote": "sixteen autopsies he had had to perform, six for Americans",
       "quote_source": "第24章",
       "source_novel": "thunderball",
@@ -1734,12 +2071,15 @@
       "confidence": "high",
       "entity": "domino",
       "fact": "多米诺全身多处烧伤，在医院接受治疗，无生命危险",
+      "fact_en": "Domino is suffering from burns in many places and is being treated in hospital, but is in no danger.",
       "quote": "She is suffering from burns–many burns",
       "quote_source": "第24章",
       "source_novel": "thunderball",
       "timeline_position": "1959年6月10日"
     }
   ],
+  "kind": "长篇",
+  "lines": 1866,
   "locations": [
     {
       "country": "英国",
@@ -1747,7 +2087,8 @@
       "id": "shrublands",
       "name_en": "Shrublands",
       "name_zh": "灌木林",
-      "role": "自然疗养院，邦德疗养两周并与利普结仇之地"
+      "role": "自然疗养院，邦德疗养两周并与利普结仇之地",
+      "role_en": "A nature-cure clinic; the place where Bond spends two weeks and makes an enemy of Lippe."
     },
     {
       "country": "英国",
@@ -1755,7 +2096,8 @@
       "id": "london-hq",
       "name_en": "Secret Service Headquarters, London",
       "name_zh": "伦敦秘密情报局总部",
-      "role": "M办公室所在地，邦德接获霹雳弹行动命令之地"
+      "role": "M办公室所在地，邦德接获霹雳弹行动命令之地",
+      "role_en": "The site of M's office, where Bond receives his orders for Operation Thunderball."
     },
     {
       "country": "法国",
@@ -1763,7 +2105,8 @@
       "id": "paris-firco",
       "name_en": "136 bis Boulevard Haussmann, Paris",
       "name_zh": "巴黎奥斯曼大道136号之二",
-      "role": "SPECTRE以FIRCO慈善组织为掩护的总部"
+      "role": "SPECTRE以FIRCO慈善组织为掩护的总部",
+      "role_en": "SPECTRE's headquarters, fronted by the FIRCO charity."
     },
     {
       "country": "巴哈马",
@@ -1771,7 +2114,8 @@
       "id": "nassau",
       "name_en": "Nassau",
       "name_zh": "拿骚",
-      "role": "故事主舞台，邦德与莱特调查飞碟号之地，曼塔号停靠港"
+      "role": "故事主舞台，邦德与莱特调查飞碟号之地，曼塔号停靠港",
+      "role_en": "The main setting of the story, where Bond and Leiter investigate the Disco Volante and where the Manta puts in."
     },
     {
       "country": "巴哈马",
@@ -1779,7 +2123,8 @@
       "id": "palmyra",
       "name_en": "Palmyra, Lyford Key",
       "name_zh": "帕尔米拉，利福德岛",
-      "role": "拉戈租住的海滨别墅，多米诺居所，飞碟号锚地"
+      "role": "拉戈租住的海滨别墅，多米诺居所，飞碟号锚地",
+      "role_en": "The seaside villa on Lyford Key rented by Largo; Domino's home and the Disco's anchorage."
     },
     {
       "country": "巴哈马",
@@ -1787,7 +2132,8 @@
       "id": "grand-bahama-base",
       "name_en": "Grand Bahama rocket base",
       "name_zh": "大巴哈马岛导弹基地",
-      "role": "第一枚核弹的预定目标，英美联合导弹基地"
+      "role": "第一枚核弹的预定目标，英美联合导弹基地",
+      "role_en": "The intended target of the first atomic bomb, a joint Anglo-American missile base."
     },
     {
       "country": "巴哈马",
@@ -1795,7 +2141,8 @@
       "id": "dog-island",
       "name_en": "Dog Island",
       "name_zh": "狗岛",
-      "role": "两枚核弹藏匿处，位于狗礁，距拿骚约100英里"
+      "role": "两枚核弹藏匿处，位于狗礁，距拿骚约100英里",
+      "role_en": "The hiding place of the two atomic bombs, on Dog Reef, about a hundred miles from Nassau."
     },
     {
       "country": "巴哈马",
@@ -1803,7 +2150,8 @@
       "id": "bimini",
       "name_en": "Bimini",
       "name_zh": "比米尼",
-      "role": "轰炸机迫降海域，失事飞机残骸所在地"
+      "role": "轰炸机迫降海域，失事飞机残骸所在地",
+      "role_en": "The waters where the bomber ditched and where its wreck lies."
     },
     {
       "country": "英国",
@@ -1811,7 +2159,8 @@
       "id": "boscombe-down",
       "name_en": "Boscombe Down",
       "name_zh": "博斯科姆唐",
-      "role": "第5皇家空军试验中队基地，失踪轰炸机起飞地"
+      "role": "第5皇家空军试验中队基地，失踪轰炸机起飞地",
+      "role_en": "The base of No. 5 R.A.F. Experimental Squadron, from which the missing bomber took off."
     },
     {
       "country": "英国",
@@ -1819,7 +2168,8 @@
       "id": "brighton",
       "name_en": "Brighton",
       "name_zh": "布赖顿",
-      "role": "勒索信寄出地，利普烧伤后入住布赖顿中心医院"
+      "role": "勒索信寄出地，利普烧伤后入住布赖顿中心医院",
+      "role_en": "The place from which the blackmail letter was posted, and where Lippe is treated in the Central Hospital after his burns."
     },
     {
       "country": "意大利",
@@ -1827,7 +2177,8 @@
       "id": "etna",
       "name_en": "Mount Etna, Sicily",
       "name_zh": "埃特纳火山，西西里",
-      "role": "赎金金条拟空投地，西北坡海拔2000至3000米"
+      "role": "赎金金条拟空投地，西北坡海拔2000至3000米",
+      "role_en": "The planned drop zone for the gold ransom, on the north-west slopes between 2,000 and 3,000 metres."
     },
     {
       "country": "美国",
@@ -1835,7 +2186,8 @@
       "id": "miami",
       "name_en": "Miami",
       "name_zh": "迈阿密",
-      "role": "第二枚核弹预定目标，拟布放于游艇港"
+      "role": "第二枚核弹预定目标，拟布放于游艇港",
+      "role_en": "The intended target of the second atomic bomb, to be laid in the yacht harbour."
     }
   ],
   "mission": {
@@ -1853,108 +2205,135 @@
     "objective": "找到失踪的维利尔斯复仇者号轰炸机与两枚核弹，阻止SPECTRE以核弹勒索英美1亿英镑金条",
     "outcome": "水下决战中拉戈被多米诺杀死，两枚核弹全部回收，科策被捕供出SPECTRE内情，布洛菲尔德逃脱"
   },
+  "mission_en": {
+    "investigation_en": "Bond reaches Nassau under cover of looking to buy property, and investigates in turn the immigration records, a visit aboard the Disco, a night dive under her hull, an air search that finds the wrecked bomber, the winning-over of Domino as an inside agent, and the Manta's shadowing of the Disco to the underwater interception off Grand Bahama.",
+    "key_clues_en": [
+      "The Red Lightning Tong tattoo under Lippe's wrist",
+      "The blackmail letter was posted at Brighton, matching the place where Lippe is in hospital",
+      "DEW radar saw an aircraft flying south towards the Bahamas",
+      "The Disco Volante's fuel figures do not match Largo's account",
+      "The shareholder Traut is in fact the physicist Kotze",
+      "The underwater hatch in the Disco Volante's hull",
+      "The wrecked bomber under a camouflage tarpaulin south of Bimini",
+      "Domino's Geiger counter aboard the Disco reads over 500 milliroentgens"
+    ],
+    "objective_en": "Find the missing Villiers Vindicator bomber and its two atomic bombs, and stop SPECTRE from extorting £100 million in gold from Britain and the United States with them.",
+    "outcome_en": "In the underwater battle Domino kills Largo, both atomic bombs are recovered, Kotze is captured and tells all he knows about SPECTRE, and Blofeld escapes."
+  },
   "novel_id": "thunderball",
   "novel_no": 9,
-  "kind": "长篇",
-  "lines": 1866,
   "organizations": [
     {
       "first_chapter": 5,
       "id": "spectre",
       "name_en": "SPECTRE",
       "name_zh": "幽灵党",
-      "role": "本部反派组织，策划劫机与核勒索，全称为反情报、恐怖、报复与勒索特别执行部"
+      "role": "本部反派组织，策划劫机与核勒索，全称为反情报、恐怖、报复与勒索特别执行部",
+      "role_en": "The villainous organisation of this novel, which plans the hijack and the nuclear blackmail; its full name is the Special Executive for Counterintelligence, Terrorism, Revenge, and Extortion."
     },
     {
       "first_chapter": 5,
       "id": "firco",
       "name_en": "FIRCO",
       "name_zh": "国际反压迫抵抗兄弟会",
-      "role": "SPECTRE的公开掩护组织，设于巴黎奥斯曼大道136号之二"
+      "role": "SPECTRE的公开掩护组织，设于巴黎奥斯曼大道136号之二",
+      "role_en": "SPECTRE's public front, based at 136 bis Boulevard Haussmann, Paris."
     },
     {
       "first_chapter": 2,
       "id": "red-lightning-tong",
       "name_en": "Red Lightning Tong",
       "name_zh": "红闪电帮会",
-      "role": "澳门犯罪帮会，利普为其成员，SPECTRE次级特工的来源之一"
+      "role": "澳门犯罪帮会，利普为其成员，SPECTRE次级特工的来源之一",
+      "role_en": "A Macao criminal tong; Lippe is a member of it and a source of SPECTRE sub-agents."
     },
     {
       "first_chapter": 1,
       "id": "secret-service",
       "name_en": "Secret Service",
       "name_zh": "英国秘密情报局",
-      "role": "邦德所属机构，执行霹雳弹行动的英方主体"
+      "role": "邦德所属机构，执行霹雳弹行动的英方主体",
+      "role_en": "Bond's organisation; the British side running Operation Thunderball."
     },
     {
       "first_chapter": 8,
       "id": "cia",
       "name_en": "CIA",
       "name_zh": "美国中央情报局",
-      "role": "与英方合作执行霹雳弹行动，莱特为其代表，调动曼塔号与战斗机中队"
+      "role": "与英方合作执行霹雳弹行动，莱特为其代表，调动曼塔号与战斗机中队",
+      "role_en": "Works with the British on Operation Thunderball; Leiter is its representative, and it deploys the Manta and a fighter squadron."
     },
     {
       "first_chapter": 7,
       "id": "raf",
       "name_en": "Royal Air Force",
       "name_zh": "英国皇家空军",
-      "role": "失踪轰炸机所属军种，第5试验中队驻博斯科姆唐"
+      "role": "失踪轰炸机所属军种，第5试验中队驻博斯科姆唐",
+      "role_en": "The service to which the missing bomber belongs; No. 5 Experimental Squadron is based at Boscombe Down."
     },
     {
       "first_chapter": 7,
       "id": "nato",
       "name_en": "NATO",
       "name_zh": "北约",
-      "role": "失踪飞机执行北约训练飞行任务，佩塔基为北约借调观察员"
+      "role": "失踪飞机执行北约训练飞行任务，佩塔基为北约借调观察员",
+      "role_en": "The missing aircraft was on a NATO training flight, and Petacchi was an observer seconded to NATO."
     },
     {
       "first_chapter": 5,
       "id": "unione-siciliano",
       "name_en": "Unione Siciliano",
       "name_zh": "西西里联盟",
-      "role": "SPECTRE成员来源之一，提供3名成员"
+      "role": "SPECTRE成员来源之一，提供3名成员",
+      "role_en": "One of the sources of SPECTRE members, providing three men."
     },
     {
       "first_chapter": 5,
       "id": "union-corse",
       "name_en": "Union Corse",
       "name_zh": "科西嘉联合会",
-      "role": "SPECTRE成员来源之一，提供3名成员"
+      "role": "SPECTRE成员来源之一，提供3名成员",
+      "role_en": "One of the sources of SPECTRE members, providing three men."
     },
     {
       "first_chapter": 5,
       "id": "smersh",
       "name_en": "SMERSH",
       "name_zh": "肃反组织",
-      "role": "SPECTRE成员来源之一，前苏联肃反人员3名，1958年被解散"
+      "role": "SPECTRE成员来源之一，前苏联肃反人员3名，1958年被解散",
+      "role_en": "One of the sources of SPECTRE members: three former Soviet counter-espionage men; SMERSH was disbanded in 1958."
     },
     {
       "first_chapter": 5,
       "id": "gestapo",
       "name_en": "Sonderdienst of the Gestapo",
       "name_zh": "盖世太保特别勤务处",
-      "role": "SPECTRE成员来源之一，提供3名前成员"
+      "role": "SPECTRE成员来源之一，提供3名前成员",
+      "role_en": "One of the sources of SPECTRE members, providing three former members of the Sonderdienst of the Gestapo."
     },
     {
       "first_chapter": 5,
       "id": "rahir",
       "name_en": "RAHIR",
       "name_zh": "拉希尔",
-      "role": "布洛菲尔德二战时在土耳其建立的情报网，后转为SPECTRE土耳其组"
+      "role": "布洛菲尔德二战时在土耳其建立的情报网，后转为SPECTRE土耳其组",
+      "role_en": "The intelligence network Blofeld built in Turkey during the Second World War, later the Turkish section of SPECTRE."
     },
     {
       "first_chapter": 5,
       "id": "krystal",
       "name_en": "KRYSTAL",
       "name_zh": "克里斯特尔",
-      "role": "SPECTRE土耳其组经营的中东海洛因通道，出口在贝鲁特"
+      "role": "SPECTRE土耳其组经营的中东海洛因通道，出口在贝鲁特",
+      "role_en": "The Middle East heroin pipeline run by SPECTRE's Turkish section, with its outlet at Beirut."
     },
     {
+      "first_chapter": 6,
       "id": "purple-gang",
       "name_en": "The Purple Gang, Detroit",
       "name_zh": "底特律紫帮",
       "role": "布洛菲尔德点名：Magnus Blomberg为底特律紫帮成员",
-      "first_chapter": 6
+      "role_en": "Blofeld notes that Magnus Blomberg is a member of the Purple Gang of Detroit."
     }
   ],
   "publication_year": 1961,
@@ -1967,53 +2346,63 @@
   "source_file": "source/txt/thunderball.txt",
   "source_sha256": "b991189da8405abbf0ee394e04155fda5180123705584d7315c2108864ae3d23",
   "story_timeline": "1959年5月，邦德因体检不佳被M强制送往灌木林疗养院两周，期间与利普结仇并遭谋杀未遂；疗养结束次日SPECTRE在巴黎开会，欧米茄计划因利普误事延期一周；1959年6月2日晚8时，佩塔基劫持复仇者号轰炸机并毒死5名机组人员，当夜在比米尼附近迫降后被灭口，两枚核弹被取走藏于狗岛；1959年6月3日8时30分勒索信在布赖顿寄出，限期6月10日17时；邦德与莱特6月4日前后抵达拿骚调查；6月9日17时55分飞碟号出航北上；6月10日凌晨3时前后水下决战，拉戈被杀，两枚核弹回收。注：信内日期为1959年，小说出版于1961年，原文如此。",
+  "synopsis_en": "After a damning medical report, James Bond is ordered by M to spend two weeks at Shrublands, a nature-cure clinic in Sussex, where he crosses Count Lippe, a SPECTRE sub-agent who tries to kill him on a traction machine. Meanwhile, in Paris, Ernst Stavro Blofeld - making his first appearance in the series - chairs a meeting of SPECTRE, the Special Executive for Counterintelligence, Terrorism, Revenge, and Extortion, and approves Operation Omega: the theft of a British bomber carrying two atomic bombs, and a demand for £100 million in gold from the British government. The Italian observer Giuseppe Petacchi murders the crew with cyanide gas, ditches the aircraft off Bimini, and is himself murdered by Largo's men; the bombs are hidden in a cave under Dog Island. Acting on a hunch drawn from DEW radar traces, M sends Bond to Nassau in the Bahamas, where, with CIA man Felix Leiter, he investigates Emilio Largo's hydrofoil yacht Disco Volante and wins the trust of Largo's mistress Domino Vitali - Petacchi's sister. Domino smuggles a Geiger counter aboard the Disco, confirming that the bombs are there. In a night underwater battle off Grand Bahama, Largo's frogmen are defeated; Domino kills Largo with a spear gun, both bombs are recovered, and Blofeld escapes.",
   "title_en": "Thunderball",
   "title_zh": "霹雳弹",
   "vehicles": [
     {
       "name_en": "Disco Volante",
       "name_zh": "飞碟号",
-      "note": "拉戈的水翼快艇，造价20万英镑，航速约50节，船底有水下舱门"
+      "note": "拉戈的水翼快艇，造价20万英镑，航速约50节，船底有水下舱门",
+      "note_en": "Largo's hydrofoil yacht, costing £200,000, with a speed of about 50 knots and an underwater hatch in her hull."
     },
     {
       "name_en": "Villiers Vindicator O/NBR",
       "name_zh": "维利尔斯复仇者号",
-      "note": "失踪的英军轰炸机，载两枚核弹，在比米尼附近迫降"
+      "note": "失踪的英军轰炸机，载两枚核弹，在比米尼附近迫降",
+      "note_en": "The missing British bomber, carrying two atomic bombs, which ditched off Bimini."
     },
     {
       "name_en": "USS Manta",
       "name_zh": "曼塔号",
-      "note": "美国乔治·华盛顿级核潜艇，载16枚北极星导弹，追踪飞碟号"
+      "note": "美国乔治·华盛顿级核潜艇，载16枚北极星导弹，追踪飞碟号",
+      "note_en": "The American George Washington-class nuclear submarine, carrying sixteen Polaris missiles, which shadows the Disco Volante."
     },
     {
       "name_en": "Grumman amphibian N/AKOI",
       "name_zh": "格鲁曼水陆两用飞机",
-      "note": "邦德与莱特乘其搜索失事飞机"
+      "note": "邦德与莱特乘其搜索失事飞机",
+      "note_en": "The aircraft in which Bond and Leiter search for the wrecked bomber."
     },
     {
       "name_en": "Lycoming-engined folding-wing amphibian",
       "name_zh": "莱康明发动机折叠翼水上飞机",
-      "note": "飞碟号搭载的小型水上飞机，用于接送核弹"
+      "note": "飞碟号搭载的小型水上飞机，用于接送核弹",
+      "note_en": "The small seaplane carried aboard the Disco Volante, used to ferry the atomic bombs."
     },
     {
       "name_en": "Bentley Mark II Continental",
       "name_zh": "宾利大陆Mark II",
-      "note": "邦德座驾，伦敦街头遭利普枪击，挡风玻璃被击碎"
+      "note": "邦德座驾，伦敦街头遭利普枪击，挡风玻璃被击碎",
+      "note_en": "Bond's car; in a London street Lippe shoots at it, shattering the windscreen."
     },
     {
       "name_en": "MG two-seater",
       "name_zh": "MG双座跑车",
-      "note": "多米诺的蓝色跑车"
+      "note": "多米诺的蓝色跑车",
+      "note_en": "Domino's blue sports car."
     },
     {
       "name_en": "Volkswagen",
       "name_zh": "大众甲壳虫",
-      "note": "利普租用的汽车，行刺邦德时被手榴弹炸毁"
+      "note": "利普租用的汽车，行刺邦德时被手榴弹炸毁",
+      "note_en": "The car hired by Lippe, destroyed by the grenade in the attempt on Bond's life."
     },
     {
       "name_en": "Triumph 500-c.c. motorcycle",
       "name_zh": "凯旋500cc摩托车",
-      "note": "SPECTRE的6号骑其跟踪利普并以手榴弹将其炸死"
+      "note": "SPECTRE的6号骑其跟踪利普并以手榴弹将其炸死",
+      "note_en": "The motorcycle ridden by SPECTRE's No. 6, who follows Lippe and kills him with a grenade."
     }
   ],
   "words": 83612

@@ -2,46 +2,73 @@
   "adaptation_differences": [
     "本部未核对电影差异"
   ],
+  "adaptation_differences_en": [
+    "Film differences have not been checked for this volume."
+  ],
   "canon_vs_inference": [
     {
       "note": "本版全文检索New York出现0次，全文以The End收尾，只含3篇故事；第4篇007 in New York本版未见，是否缺篇待换版核对，本JSON绝不编造其情节、人物与章节",
+      "note_en": "A full-text search of this edition finds 'New York' 0 times; the text ends with 'The End' and contains only three stories. The fourth story, '007 in New York', is not present in this edition; whether the edition is incomplete is to be checked against another edition, and this JSON invents none of its plot, characters or chapters.",
       "status": "缺口",
-      "topic": "第4篇007 in New York"
+      "status_en": "gap",
+      "topic": "第4篇007 in New York",
+      "topic_en": "The fourth story, '007 in New York'"
     },
     {
       "note": "原文未给Trigger真实姓名；Sender推测她可能是苏联女子射击队成员Donskaya或Lomova，但明确为推测，未确认",
+      "note_en": "The text never gives Trigger's real name; Sender suggests she may have been a member of the Soviet women's shooting team, Donskaya or Lomova, but this is expressly a guess and is unconfirmed.",
       "status": "inference",
-      "topic": "Trigger真实姓名"
+      "status_en": "inference",
+      "topic": "Trigger真实姓名",
+      "topic_en": "Trigger's real name"
     },
     {
       "note": "原文写邦德私下认定为自杀(privately assuming suicide)，Smythe本人死前想过自杀与受审两种可能；其死因为蝎子鱼毒发后被章鱼拖入水中，是否故意求死原文未明断",
+      "note_en": "The text says Bond privately assumed suicide; Smythe himself, before dying, weighed suicide against standing trial. The cause of death was the scorpionfish's poison followed by the octopus dragging him under the water; whether he deliberately sought death is not decided in the text.",
       "status": "inference",
-      "topic": "Smythe之死是否自杀"
+      "status_en": "inference",
+      "topic": "Smythe之死是否自杀",
+      "topic_en": "Whether Smythe's death was suicide"
     },
     {
       "note": "原文只写6月20日星期二与6月初，未写年份；本JSON不推断年份，只记录原文给出的日期",
+      "note_en": "The text gives only Tuesday 20 June and 'early June', with no year; this JSON does not infer a year and records only the dates the text gives.",
       "status": "inference",
-      "topic": "第3篇故事年份"
+      "status_en": "inference",
+      "topic": "第3篇故事年份",
+      "topic_en": "The year of the third story"
     },
     {
       "note": "原文只写Oberhauser在邦德十几岁时教他滑雪，未给邦德确切年龄，本JSON不推算出生年份",
+      "note_en": "The text says only that Oberhauser taught Bond to ski when Bond was in his teens; it gives no exact age for Bond, and this JSON does not calculate a year of birth.",
       "status": "inference",
-      "topic": "邦德年龄"
+      "status_en": "inference",
+      "topic": "邦德年龄",
+      "topic_en": "Bond's age"
     },
     {
       "note": "邦德事后自问乐队是否全由KGB女子组成、其他乐器盒是否只装设备，原文以Probably自答，未确认",
+      "note_en": "Afterwards Bond asks himself whether the orchestra was made up entirely of KGB women and whether the other instrument cases held only equipment; he answers himself with 'Probably'. It is unconfirmed.",
       "status": "inference",
-      "topic": "女子管弦乐队是否全为KGB人员"
+      "status_en": "inference",
+      "topic": "女子管弦乐队是否全为KGB人员",
+      "topic_en": "Whether the women's orchestra was entirely KGB"
     },
     {
       "note": "邦德推测M.升级Purple Cipher欺骗等级后，KGB一旦识破会认定Freudenstein为双面特工并将其灭口，但原文未写其结局",
+      "note_en": "Bond guesses that once M. steps up the Purple Cipher deception, the KGB, once it smells a rat, will take Freudenstein for a double agent and have her liquidated, but the text does not give her ending.",
       "status": "inference",
-      "topic": "Freudenstein日后命运"
+      "status_en": "inference",
+      "topic": "Freudenstein日后命运",
+      "topic_en": "Freudenstein's later fate"
     },
     {
       "note": "原文只写战后15年快乐时光与Mary两年前去世，未给确切年份，本JSON不推断",
+      "note_en": "The text gives only fifteen happy years after the war and Mary's death two years earlier, with no exact years; this JSON does not infer them.",
       "status": "inference",
-      "topic": "第1篇故事现在时年份"
+      "status_en": "inference",
+      "topic": "第1篇故事现在时年份",
+      "topic_en": "The year of the present day in the first story"
     }
   ],
   "chapters": [
@@ -49,37 +76,45 @@
       "no": 1,
       "start_line": 1,
       "summary": "退役皇家海军陆战队少校Dexter Smythe住在牙买加北岸别墅Wavelets，沉迷喂养珊瑚礁鱼群，尤其驯养一只名叫Octopussy的章鱼。邦德以国防部名义到访，追查二战末期MOB Force在蒂罗尔Oberaurach的旧案：Smythe当年从缴获的盖世太保文件中发现藏金纸条，诱骗滑雪向导Hannes Oberhauser带路登上Wilde Kaiser，在Franziskaner Halt附近两枪将其射杀并推入冰川裂缝，盗走武器箱中两根24K金条(带1943年Reichsbank铸记)。战后他借Foo兄弟经澳门分批出售金条，每季度得1000牙买加镑，佣金10%。邦德告知Oberhauser遗体当年春天随冰川融化现身，子弹成为铁证，Smythe约一周后将被押回伦敦受军事法庭审判。邦德离去后，Smythe按原计划出海捕蝎子鱼喂章鱼，却被蝎子鱼毒刺刺中胸口，毒发约15分钟内致命；他挣扎着把鱼送到章鱼洞口，反被章鱼拖入水中溺亡。尸体被两名牙买加青年发现，当地报纸写成found drowned，邦德在档案末页同样写下found drowned并私下认定为自杀。",
+      "summary_en": "Retired Royal Marines Major Dexter Smythe lives at Wavelets, a villa on Jamaica's North Shore, where he spends his days feeding the reef fish and taming an octopus he calls Octopussy. Bond arrives on behalf of the Ministry of Defence to investigate a wartime case from the last days of the war: serving with MOB Force at Oberaurach in the Tirol, Smythe found a note in captured Gestapo papers revealing two bars of 24-carat gold hidden in a weapons case near the Franziskaner Halt on the Wilde Kaiser. He lured his ski guide, Hannes Oberhauser, up the mountain, shot him twice in the base of the skull and pushed his body into a glacier crevasse, then stole the gold. After the war he sold it off piecemeal through the Foo brothers in Kingston, via Macao, receiving 1,000 Jamaican pounds a quarter at 10 per cent commission. Bond tells him that Oberhauser's body emerged from the glacier that spring and the bullets are conclusive evidence; Smythe will be taken back to London in about a week to face a court-martial. After Bond leaves, Smythe goes out as planned to spear a scorpionfish for the octopus, is stung in the chest, and dies of the poison within about fifteen minutes; struggling to deliver the fish to the octopus's hole, he is dragged under the water and drowned. His body is found by two young Jamaicans, the local paper reports him 'found drowned', and Bond writes the same verdict on the last page of the file, privately assuming suicide.",
       "title": "OCTOPUSSY"
     },
     {
       "no": 2,
       "start_line": 160,
       "summary": "M.命令邦德在柏林杀死KGB狙击手Trigger：代号272的特工在Novaya Zemlya藏匿多年后携原子与火箭情报出逃，已抵东柏林，定于连续三夜中某一夜18-19时穿越Zimmerstrasse边境；KGB已知越境时间地点，代号Operation Extase，派Trigger守在Haus der Ministerien窗口将其射杀。邦德先在Bisley的Century Range用Winchester .308试验步枪配红外狙击镜练枪至500码，随后乘午夜BEA航班赴柏林，在Station WB二号人物Paul Sender上尉安排的Kochstrasse与Wilhelmstrasse街角公寓四楼设伏，射程约300-310码。连续两夜无事，第三夜272终于现身冲刺；邦德透过狙击镜发现Trigger竟是连日所见的金发女大提琴手，其Kalashnikov冲锋枪藏于大提琴盒中，女子管弦乐队演出是为枪声作掩护。邦德在最后一刻偏移瞄准，只击碎枪支并可能伤及其左手，未取其性命，272成功越境。随后对方探照灯与枪火扫射公寓，邦德与Sender乘装甲车撤离。Sender须向站长报告邦德临阵改动瞄准，邦德承认Trigger是女人，称已吓破她的胆，她不会再做狙击手，并预计此举会令自己失去Double-O编号。",
+      "summary_en": "M. orders Bond to kill the KGB sniper Trigger in Berlin: agent 272, who has been hiding in Novaya Zemlya since the war, has escaped with atomic and rocket intelligence and reached East Berlin, and is to cross the Zimmerstrasse between 6 and 7 p.m. on one of three nights. The KGB knows the time and place and has mounted Operation Extase, with Trigger waiting at a window of the Haus der Ministerien to shoot him. Bond practises at Bisley's Century Range with a Winchester .308 experimental target rifle fitted with an infrared sniperscope, out to 500 yards, then flies to Berlin on a midnight BEA flight and takes up position on the fourth floor of a flat on the corner of the Kochstrasse and Wilhelmstrasse, under Captain Paul Sender of Station WB, at a range of about 300 to 310 yards. Two nights pass uneventfully; on the third, 272 finally makes his dash, and Bond sees through the scope that Trigger is the blonde cellist he has watched for three nights, her Kalashnikov hidden in her cello case, the women's orchestra playing to cover the sound of the shot. At the last instant Bond shifts his aim, smashing the gun and possibly wounding her left hand instead of killing her, and 272 gets across. Searchlights and gunfire rake the flat as Bond and Sender leave in an armoured car. Sender must report that Bond altered his aim; Bond admits Trigger was a woman, says he has frightened her out of sniping for good, and expects the move to cost him his Double-O number.",
       "title": "THE LIVING DAYLIGHTS"
     },
     {
       "no": 3,
       "start_line": 279,
       "summary": "6月初某日，古董珠宝权威Dr. Fanshawe向M.报告：一枚Fabergé Emerald Sphere由巴黎挂号寄给秘密情报机构通讯处职员Maria Freudenstein，申报价值10万英镑，实为失落名作，将于一周后在Sotheby's以the property of a lady名义拍卖。Maria实为已知KGB特工，三年前被招入后一直在特设隔间操作Purple Cipher，每日六次向CIA华盛顿发送由100处编造的真假混合SITREP，供苏联截获破译；她至今未领过报酬，此球即为KGB的一次性巨额酬劳。邦德推断：唯一知情者KGB驻伦敦负责人必会在拍卖会上担任抬价者(underbidder)，以把价格推高，借此可锁定其身份并驱逐出境。邦德携Wartski的Kenneth Snowman赴Sotheby's，Lot 42的Terrestrial Globe自2万英镑起拍，美国大都会博物馆方面出价至13万英镑退出后，Snowman与暗中竞价者缠斗至15.5万英镑；邦德发现后排一名摘下墨镜的矮壮男子即为暗号——戴墨镜时每次加价1万英镑，摘下即退出。MI5摄影师拍下其动作，邦德尾随确认此人进入苏联大使馆：他就是农业参赞Piotr Malinowski，KGB驻伦敦负责人，外交部可据此宣布其为不受欢迎人物。",
+      "summary_en": "Early in June, Dr. Fanshawe, an authority on antique jewellery, reports to M. that a Fabergé Emerald Sphere has arrived by registered post from Paris, addressed to Maria Freudenstein, a clerk in the Communications Section, with a declared value of 100,000 pounds. It is a lost masterpiece, to be auctioned at Sotheby's in a week as 'the property of a lady'. Freudenstein is in fact a known KGB agent, planted three years earlier to operate the Purple Cipher, sending six doctored SITREPs a day to the CIA in Washington for the Russians to intercept; she has never been paid, and the Sphere is the KGB's single lavish reward. Bond reasons that the only man who knows about her, the KGB Resident Director in London, will have to attend the sale as underbidder to push the price up, and that identifying him will allow his expulsion. With Kenneth Snowman of Wartski, Bond attends the sale, where Lot 42, the Terrestrial Globe, opens at 20,000 pounds; the American (Metropolitan Museum) bidding stops at 130,000 pounds, and Snowman battles the hidden underbidder up to 155,000 pounds. Bond notices a stocky man at the back who bids 10,000 pounds at a time while wearing dark glasses and drops out by taking them off; an MI5 photographer records the gesture, and Bond follows the man by taxi to the Soviet Embassy. He is Piotr Malinowski, the Agricultural Attache - the KGB Resident Director - and the Foreign Office can now declare him persona non grata.",
       "title": "THE PROPERTY OF A LADY"
     }
   ],
   "characters": [
     {
       "age_clues": "第1篇称Oberhauser在邦德十几岁时教他滑雪，战前事，推断邦德青年时期已成年；原文未给确切年龄",
+      "age_clues_en": "Story 1 says Oberhauser taught Bond to ski when Bond was in his teens, before the war, which puts Bond's youth before the war; the text gives no exact age.",
       "aliases": [
         "007",
         "Commander Bond"
       ],
       "appearance": "高大，灰蓝色眼睛；第1篇穿深蓝色热带西装，携扁平枪色金属烟盒(约装25支烟)；第2篇在柏林穿不起眼的中欧平民服装与黑色天鹅绒头罩；第3篇在拍卖会戴墨镜跟踪",
+      "appearance_en": "Tall, with grey-blue eyes. In Story 1 he wears a dark blue tropical suit and carries a flat gun-metal cigarette case holding about twenty-five cigarettes; in Story 2 he wears drab, anonymous middle-European clothes and a black velvet hood in Berlin; in Story 3 he wears dark glasses to follow his quarry.",
       "background": "秘密情报机构Double-O部门特工，海军中校军衔；战前十几岁时在Kitzbühel随Oberhauser学滑雪；第1篇自称来自国防部，第3篇冒充CID联络人与苏格兰场Ronald Vallance爵士有关",
+      "background_en": "An agent of the Secret Service's Double-O Section, with the rank of Commander; as a teenager before the war he learned to ski at Kitzbühel under Oberhauser. In Story 1 he presents himself as being from the Ministry of Defence; in Story 3 he poses as a CID liaison man connected with Sir Ronald Vallance of Scotland Yard.",
       "first_appearance_chapter": 1,
       "habits": "吸烟，饮酒(威士忌、白兰地兑姜汁汽水)；第2篇行前在Bisley练枪，第3篇爱读惊险小说",
+      "habits_en": "Smokes, and drinks whisky and brandy with ginger ale. In Story 2 he practises at Bisley before the mission; in Story 3 he is fond of reading thrillers.",
       "id": "bond",
       "last_appearance_chapter": 3,
       "name_en": "James Bond",
       "name_zh": "詹姆斯·邦德",
       "personality": "第1篇冷静审讯，善用沉默施压，对Smythe留下一周自处时间近乎默许其自杀；第2篇厌恶狙杀任务却自愿承担，临阵因怜悯放生Trigger；第3篇机敏，凭抬价逻辑设局",
+      "personality_en": "In Story 1 he interrogates calmly, using silence to apply pressure, and leaves Smythe a week alone - close to allowing him to take his own life. In Story 2 he hates the killing assignment yet takes it on willingly, and spares Trigger out of pity at the last moment. In Story 3 he is quick-witted, setting his trap from the logic of the underbidder.",
       "relationships": [
         {
           "change": "战前Oberhauser教少年邦德滑雪，邦德视其为父亲般人物；得知其被Smythe谋杀后主动请缨追查凶手",
@@ -113,6 +148,7 @@
         }
       ],
       "role": "主要人物，三篇皆为主角",
+      "role_en": "Central character; the protagonist of all three stories.",
       "story": [
         1,
         2,
@@ -123,14 +159,18 @@
       "age_clues": "不知道",
       "aliases": [],
       "appearance": "第2篇形容其目光清澈冰冷；第3篇蓝眼睛，抽烟斗",
+      "appearance_en": "In Story 2 his eyes are described as clear and ice-cold; in Story 3 he has blue eyes and smokes a pipe.",
       "background": "秘密情报机构首长",
+      "background_en": "Head of the Secret Service.",
       "first_appearance_chapter": 2,
       "habits": "抽烟斗，烟灰缸由12英寸炮弹底座制成",
+      "habits_en": "Smokes a pipe; his ashtray is made from the base of a twelve-inch shell.",
       "id": "m",
       "last_appearance_chapter": 3,
       "name_en": "M.",
       "name_zh": "M.",
       "personality": "不喜欢派人去杀人，下令时故意摆出严厉冷峻姿态以分担执行者罪疚；第3篇对艺术品毫无兴趣，自称海军薪水买不起艺术品",
+      "personality_en": "He dislikes sending a man to kill, and gives the order with a deliberately harsh, cold manner to take some of the guilt off the man who must carry it out; in Story 3 he has no interest in works of art and says a naval officer's pay could never buy them.",
       "relationships": [
         {
           "change": "第2篇勉强下达狙杀令并道歉，第3篇接受邦德的拍卖会计划",
@@ -139,6 +179,7 @@
         }
       ],
       "role": "主要人物，第2、3篇出现",
+      "role_en": "Major character; appears in Stories 2 and 3.",
       "story": [
         2,
         3
@@ -146,19 +187,24 @@
     },
     {
       "age_clues": "54岁，两次冠状动脉血栓，第二次在一个月前",
+      "age_clues_en": "Fifty-four years old; he has had two coronary thromboses, the second a month earlier.",
       "aliases": [
         "Dexter Smythe",
         "Major Smythe"
       ],
       "appearance": "54岁，微秃，肚腩下垂，穿Jantzen泳裤；正装时以束腹带收腹，配无可挑剔的腰封，仍是体面人物；有静脉曲张",
+      "appearance_en": "Fifty-four, slightly bald, with a sagging belly, wearing Jantzen swimming trunks; in formal dress he flattens his stomach with a support belt behind an immaculate cummerbund and still cuts a fine figure; he has varicose veins.",
       "background": "皇家海军陆战队退役少校，OBE(军事)；母亲来自Heidelberg，精通德语；1941年志愿加入突击队任前线审讯员；后任MOB Force A Force二号人物，临时中校军衔；战后娶Mary Parnell移居牙买加",
+      "background_en": "Retired Royal Marines major, O.B.E. (Military); his mother came from Heidelberg and he speaks excellent German; in 1941 he volunteered for the Commandos as an advanced interrogator; later he was Number Two of A Force in MOB Force, with the temporary rank of lieutenant colonel; after the war he married Mary Parnell and moved to Jamaica.",
       "first_appearance_chapter": 1,
       "habits": "每日潜水喂鱼，驯养章鱼Octopussy已两个月；酗酒，每日远超医生限定的2盎司威士忌与10支烟；服Seconal入睡，服抗凝与降压药，胸痛时含TNT药片；打高额扑克、打高尔夫",
+      "habits_en": "Dives daily to feed the fish and has been taming the octopus Octopussy for two months; drinks far beyond his doctor's limit of two ounces of whisky and ten cigarettes a day; takes Seconal to sleep and anticoagulant and blood-pressure pills, with a TNT tablet under his tongue for chest pain; plays high-stakes poker and golf.",
       "id": "dexter-smythe",
       "last_appearance_chapter": 1,
       "name_en": "Major Dexter Smythe",
       "name_zh": "德克斯特·斯迈思少校",
       "personality": "忧郁型酒徒，懒散、自我放纵、负罪感深重，自认处于求死边缘；对礁鱼怀有幻想式爱意，称鱼群为“people”；精于算计，杀人藏金后一丝不苟地销毁痕迹",
+      "personality_en": "A melancholic drunk, idle, self-indulgent and weighed down by guilt, who regards himself as near the frontier of the death wish; he holds a dream-like love for the reef fish, calling them 'people'; he is methodical, destroying every trace after the murder and the theft of the gold.",
       "relationships": [
         {
           "change": "战后结婚移居牙买加度过15年快乐时光；Mary管束其酗酒失败后服安眠药成瘾，一次醉酒争吵后过量服药身亡，Smythe此后独居北岸酗酒求死",
@@ -182,22 +228,28 @@
         }
       ],
       "role": "主要人物，第1篇中心人物",
+      "role_en": "Central character of Story 1.",
       "story": [
         1
       ]
     },
     {
       "age_clues": "不知道，战前已是滑雪教练，1945年时已灰发",
+      "age_clues_en": "Not known; he was already a ski teacher before the war, and by 1945 his hair was grey.",
       "aliases": [],
       "appearance": "灰发，跛腿，战前为滑雪教练",
+      "appearance_en": "Grey-haired and lame; a ski teacher before the war.",
       "background": "Kitzbühel当地人，战前滑雪教练，教过少年邦德滑雪；会说一些英语",
+      "background_en": "A Kitzbühel local, a ski teacher before the war who taught the young Bond to ski; he speaks some English.",
       "first_appearance_chapter": 1,
       "habits": "登山与滑雪向导",
+      "habits_en": "Mountain and ski guide.",
       "id": "hannes-oberhauser",
       "last_appearance_chapter": 1,
       "name_en": "Hannes Oberhauser",
       "name_zh": "汉内斯·奥伯豪泽",
       "personality": "原文称nice enough chap，待人友善，登山途中与Smythe相谈甚欢，临死前还分享自家硬香肠Soldat",
+      "personality_en": "Described in the text as a 'nice enough chap': friendly and good company, chatting happily with Smythe on the climb, and sharing his hard sausage, a Soldat, with him just before he died.",
       "relationships": [
         {
           "change": "战前师生情谊，邦德视其为父亲般人物；其死成为邦德主动追查此案的动机",
@@ -211,6 +263,7 @@
         }
       ],
       "role": "主要人物，第1篇被害人",
+      "role_en": "Major character; the murder victim in Story 1.",
       "story": [
         1
       ]
@@ -221,14 +274,18 @@
         "Mary Smythe"
       ],
       "appearance": "迷人的金发女子，原文未多写外貌",
+      "appearance_en": "A charming blonde; the text says little more about her looks.",
       "background": "战时Wren，出身稳固中产家庭，在MOB Force总部与Smythe相识结婚；随夫移居牙买加；两年前一次醉酒争吵后服安眠药过量身亡，自杀被掩盖",
+      "background_en": "A wartime Wren from a solid middle-class family; she met Smythe at MOB Force headquarters, married him and moved to Jamaica with him; two years earlier she died of a sleeping-pill overdose after a drunken row, and the suicide was hushed up.",
       "first_appearance_chapter": 1,
       "habits": "打网球、打桥牌",
+      "habits_en": "Played tennis and bridge.",
       "id": "mary-parnell",
       "last_appearance_chapter": 1,
       "name_en": "Mary Parnell Smythe",
       "name_zh": "玛丽·帕内尔·斯迈思",
       "personality": "开朗、凌乱、爱唠叨又常惹人恼；婚后试图管束丈夫酗酒，失败后转为安眠药成瘾",
+      "personality_en": "Gay, untidy, chiding and often irritating; after the marriage she tried to curb her husband's drinking, failed, and became addicted to sleeping pills.",
       "relationships": [
         {
           "change": "由恩爱到互相管束与争吵，Mary死后Smythe称每时每刻都想念她对自己的爱",
@@ -237,6 +294,7 @@
         }
       ],
       "role": "次要人物，第1篇亡妻",
+      "role_en": "Minor character; Smythe's late wife in Story 1.",
       "story": [
         1
       ]
@@ -245,9 +303,12 @@
       "age_clues": "不知道",
       "aliases": [],
       "appearance": "原文称colored housekeeper，未多写",
+      "appearance_en": "Described in the text only as a coloured housekeeper; little more is said.",
       "background": "Smythe在牙买加的女管家",
+      "background_en": "Smythe's housekeeper in Jamaica.",
       "first_appearance_chapter": 1,
       "habits": "料理Wavelets家务",
+      "habits_en": "Keeps house at Wavelets.",
       "id": "luna",
       "last_appearance_chapter": 1,
       "name_en": "Luna",
@@ -261,6 +322,7 @@
         }
       ],
       "role": "次要人物，第1篇",
+      "role_en": "Minor character in Story 1.",
       "story": [
         1
       ]
@@ -270,6 +332,7 @@
       "aliases": [],
       "appearance": "不知道",
       "background": "研究所(Institute)海洋生物学者，请Smythe验证章鱼是否会吃蝎子鱼、是否识其毒性",
+      "background_en": "A marine biologist at the Institute who asked Smythe to find out whether an octopus would eat a scorpionfish and whether it recognised the poison.",
       "first_appearance_chapter": 1,
       "habits": "不知道",
       "id": "professor-bengry",
@@ -285,6 +348,7 @@
         }
       ],
       "role": "次要人物，第1篇",
+      "role_en": "Minor character in Story 1.",
       "story": [
         1
       ]
@@ -295,14 +359,18 @@
         "Messrs. Foo"
       ],
       "appearance": "年长者温和圆滑，兄弟二人皆面带微笑",
+      "appearance_en": "The elder brother is bland and smooth; both brothers wear constant smiles.",
       "background": "牙买加备受尊敬的富裕华人进出口商，经香港向澳门分销金条；化验出金条含铅10%，断定为战时Reichsbank金条，按89成色计价",
+      "background_en": "Highly respected, wealthy Chinese import and export merchants in Jamaica who sold Smythe's gold on through Hong Kong to Macao; their assay found the bars 10 per cent lead and identified them as wartime Reichsbank gold, valued at 89 fine.",
       "first_appearance_chapter": 1,
       "habits": "进出口贸易",
+      "habits_en": "Import and export trade.",
       "id": "foo-brothers",
       "last_appearance_chapter": 1,
       "name_en": "Foo brothers",
       "name_zh": "傅氏兄弟",
       "personality": "彬彬有礼、精明，牙买加华人社区公认的领袖团体",
+      "personality_en": "Polite and shrewd; acknowledged leaders of the respected Chinese community in Jamaica.",
       "relationships": [
         {
           "change": "15年合作，邦德到访前一日邦德曾与之谈话，兄弟二人供出Smythe，Smythe闻言知事已败露",
@@ -311,6 +379,7 @@
         }
       ],
       "role": "次要人物，第1篇",
+      "role_en": "Minor characters in Story 1.",
       "story": [
         1
       ]
@@ -319,7 +388,9 @@
       "age_clues": "不知道",
       "aliases": [],
       "appearance": "留胡子，不像美国人",
+      "appearance_en": "Wears a moustache, which is unusual for an American.",
       "background": "美军上校，巴顿部下，MOB Force A Force指挥官，Smythe的上司",
+      "background_en": "An American colonel under Patton, commanding officer of A Force in MOB Force and Smythe's superior.",
       "first_appearance_chapter": 1,
       "habits": "不知道",
       "id": "colonel-king",
@@ -327,6 +398,7 @@
       "name_en": "Colonel King",
       "name_zh": "金上校",
       "personality": "文明有礼，懂当地葡萄酒",
+      "personality_en": "Civilised and polite; knows his way among the local wines.",
       "relationships": [
         {
           "change": "战时上下级，King将缴获文件交Smythe初审",
@@ -335,6 +407,7 @@
         }
       ],
       "role": "次要人物，第1篇，仅回忆中出现",
+      "role_en": "Minor character in Story 1; appears only in recollection.",
       "story": [
         1
       ]
@@ -344,6 +417,7 @@
       "aliases": [],
       "appearance": "不知道",
       "background": "为Smythe验尸的医生，其笔记是还原Smythe死因的唯一依据",
+      "background_en": "The doctor who performed the autopsy on Smythe; his notes are the only source for reconstructing the cause of Smythe's death.",
       "first_appearance_chapter": 1,
       "habits": "不知道",
       "id": "dr-cahusac",
@@ -353,6 +427,7 @@
       "personality": "不知道",
       "relationships": [],
       "role": "次要人物，第1篇，仅笔记中出现",
+      "role_en": "Minor character in Story 1; appears only through his notes.",
       "story": [
         1
       ]
@@ -362,6 +437,7 @@
       "aliases": [],
       "appearance": "不知道",
       "background": "Smythe的医生，Smythe初到牙买加时同玩Prince's Club高额扑克",
+      "background_en": "Smythe's doctor; when Smythe first came to Jamaica they played high-stakes poker together at Prince's Club.",
       "first_appearance_chapter": 1,
       "habits": "不知道",
       "id": "jimmy-greaves",
@@ -369,6 +445,7 @@
       "name_en": "Dr. Jimmy Greaves",
       "name_zh": "吉米·格里夫斯医生",
       "personality": "半开玩笑地称第二次血栓为second warning",
+      "personality_en": "Half-jokingly calls the second thrombosis a 'second warning'.",
       "relationships": [
         {
           "change": "无变化",
@@ -377,24 +454,30 @@
         }
       ],
       "role": "次要人物，第1篇，仅提及",
+      "role_en": "Minor character in Story 1; mentioned only.",
       "story": [
         1
       ]
     },
     {
       "age_clues": "邦德猜测二十出头，约23岁",
+      "age_clues_en": "Bond guesses her to be in her early twenties, about twenty-three.",
       "aliases": [
         "the cello girl"
       ],
       "appearance": "金发长直发及肩，身材高挑，肤色苍白，侧影美丽；持枪时邦德在狙击镜中看到其一只睫毛浓密的瞄准眼",
+      "appearance_en": "Long, straight blonde hair falling to her shoulders, tall, pale-skinned, with a beautiful profile; through the sniperscope Bond sees one wide, heavily lashed aiming eye as she holds the gun.",
       "background": "KGB狙击手，代号为俄语Trigger；Sender称苏联女子射击队曾在莫斯科世锦赛包揽前三名，Trigger可能为其中一员(Donskaya、Lomova为其记得的名字)，但原文未确认其真实身份",
+      "background_en": "A KGB sniper, codenamed Trigger, the Russian for 'trigger'; Sender says the Soviet women's shooting team took the first three places at the World Championships in Moscow, and Trigger may have been one of them - Donskaya or Lomova are names he remembers - but the text does not confirm her real identity.",
       "first_appearance_chapter": 2,
       "habits": "拉大提琴，随女子管弦乐队每日进出各部大楼演出",
+      "habits_en": "Plays the cello, going in and out of the ministries building daily with the women's orchestra.",
       "id": "trigger",
       "last_appearance_chapter": 2,
       "name_en": "Trigger",
       "name_zh": "扳机",
       "personality": "原文未直接描写性格；行事干练，持枪姿态专业；邦德推测其出身旧普鲁士家族或波兰、俄罗斯同类家庭，举止有教养、有权威感",
+      "personality_en": "The text does not describe her character directly; she is efficient, and holds the gun like a professional. Bond guesses she comes from an old Prussian family or a similar family in Poland or Russia, and that her bearing is well-bred and authoritative.",
       "relationships": [
         {
           "change": "由邦德三夜狙击镜中的单相思，到开火瞬间被邦德认出并放生，此后永不再见；邦德预计她将被KGB军事法庭处分并开除",
@@ -403,6 +486,7 @@
         }
       ],
       "role": "主要人物，第2篇敌方狙击手",
+      "role_en": "Major character; the enemy sniper in Story 2.",
       "story": [
         2
       ]
@@ -411,7 +495,9 @@
       "age_clues": "不知道",
       "aliases": [],
       "appearance": "越境时脸与手涂黑，原文未多写",
+      "appearance_en": "When he crosses, his face and hands are blackened; the text says little more.",
       "background": "自战后一直藏匿于Novaya Zemlya的特工，携原子与火箭情报及1961年新系列试验计划出逃，已抵东柏林藏匿",
+      "background_en": "An agent who has been hiding in Novaya Zemlya since the war, escaping with atomic and rocket intelligence and the plan for a new series of tests in 1961, and now in hiding in East Berlin.",
       "first_appearance_chapter": 2,
       "habits": "不知道",
       "id": "agent-272",
@@ -432,22 +518,28 @@
         }
       ],
       "role": "主要人物，第2篇被营救对象",
+      "role_en": "Major character; the defector to be rescued in Story 2.",
       "story": [
         2
       ]
     },
     {
       "age_clues": "40出头",
+      "age_clues_en": "In his early forties.",
       "aliases": [],
       "appearance": "瘦削、紧张，40出头，穿深绿人字纹轻质花呢、白色丝质衬衫与温切斯特旧校领带",
+      "appearance_en": "Lean and tense, in his early forties, wearing a dark green herringbone lightweight tweed suit, a soft white silk shirt and an old Wykehamist tie.",
       "background": "前威尔士卫队上尉，温切斯特毕业，牛津PPE获二等，战时任参谋职务，盟国管制委员会德国任职期间被招入秘密情报机构I处",
+      "background_en": "Former captain in the Welsh Guards, educated at Winchester, with a second in PPE from Oxford; served in staff appointments during the war and in the Allied Control Commission in Germany, where he was recruited into I Branch of the Secret Service.",
       "first_appearance_chapter": 2,
       "habits": "用Dunhill过滤烟嘴抽Kent过滤嘴香烟，频看手表，爱喝茶或热牛奶(Horlick's)",
+      "habits_en": "Smokes Kent filter cigarettes through a Dunhill filtered cigarette holder, looks at his watch constantly, and likes tea or hot milk (Horlick's).",
       "id": "paul-sender",
       "last_appearance_chapter": 2,
       "name_en": "Captain Paul Sender",
       "name_zh": "保罗·森德上尉",
       "personality": "谨慎、细致的参谋型人物，邦德眼中的典型公务员骨干；对狙杀任务心存反感，以琐碎谈话掩饰",
+      "personality_en": "A careful, meticulous staff officer, the archetypal civil service backbone in Bond's eyes; he dislikes the killing assignment and hides it behind fussy small talk.",
       "relationships": [
         {
           "change": "初为chaperone邦德执行狙杀，事后须如实报告邦德违令，并向其道歉称职责所在",
@@ -461,6 +553,7 @@
         }
       ],
       "role": "主要人物，第2篇邦德搭档",
+      "role_en": "Major character; Bond's partner in Story 2.",
       "story": [
         2
       ]
@@ -470,6 +563,7 @@
       "aliases": [],
       "appearance": "不知道",
       "background": "Station WB站长，认为站内无人能胜任狙杀任务，遂向伦敦求援",
+      "background_en": "Head of Station WB; he considered that no one on his station was good enough for the killing assignment, so he asked London for help.",
       "first_appearance_chapter": 2,
       "habits": "不知道",
       "id": "tanqueray",
@@ -485,6 +579,7 @@
         }
       ],
       "role": "次要人物，第2篇，仅提及",
+      "role_en": "Minor character in Story 2; mentioned only.",
       "story": [
         2
       ]
@@ -494,6 +589,7 @@
       "aliases": [],
       "appearance": "不知道",
       "background": "M.的参谋长，安排Bisley练枪、午夜BEA航班与柏林接应",
+      "background_en": "M.'s Chief of Staff, who arranged the Bisley practice, the midnight BEA flight and the reception in Berlin.",
       "first_appearance_chapter": 2,
       "habits": "不知道",
       "id": "chief-of-staff",
@@ -501,6 +597,7 @@
       "name_en": "Chief of Staff",
       "name_zh": "参谋长",
       "personality": "对邦德略表同情",
+      "personality_en": "Shows Bond a little sympathy.",
       "relationships": [
         {
           "change": "无变化",
@@ -509,6 +606,7 @@
         }
       ],
       "role": "次要人物，第2篇",
+      "role_en": "Minor character in Story 2.",
       "story": [
         2
       ]
@@ -518,6 +616,7 @@
       "aliases": [],
       "appearance": "不知道",
       "background": "军械部门下士，随Winchester步枪赴Bisley并负责拆装",
+      "background_en": "A corporal in the armourers' section who brought the Winchester rifle to Bisley and was responsible for taking it apart and assembling it.",
       "first_appearance_chapter": 2,
       "habits": "不知道",
       "id": "corporal-menzies",
@@ -525,26 +624,33 @@
       "name_en": "Corporal Menzies",
       "name_zh": "门齐斯下士",
       "personality": "对邦德射速过快略有批评",
+      "personality_en": "Mildly critical of Bond for shooting too fast.",
       "relationships": [],
       "role": "次要人物，第2篇",
+      "role_en": "Minor character in Story 2.",
       "story": [
         2
       ]
     },
     {
       "age_clues": "生于巴黎1935年，故事现在时约26岁",
+      "age_clues_en": "Born in Paris in 1935, about twenty-six at the time of the story.",
       "aliases": [
         "Miss Freudenstein"
       ],
       "appearance": "相貌平平，皮肤苍白略带粉刺，黑发，外表略显不洁；穿带褶边的白衬衫",
+      "appearance_en": "Plain-looking, with a pale, rather pimply skin, black hair and a vaguely unwashed appearance; she wears a white blouse with a frill.",
       "background": "生于巴黎，母亲为白俄流亡者，未婚生下她；母亲二战时参加抵抗运动，经营Tulip Escape Route；Maria索邦大学毕业后在英国大使馆海军武官处任翻译，因性丑闻被母亲旧友(已为NKVD工作)要挟而受控；1959年获英国国籍后经外交部推荐进入秘密情报机构，赴列宁格勒间谍学校受训，三年前被招入后一直在特设隔间为KGB工作",
+      "background_en": "Born in Paris; her mother was a White Russian émigrée who gave birth to her out of wedlock. Her mother was active in the Resistance during the war, running the Tulip Escape Route. After graduating from the Sorbonne, Maria worked as an interpreter in the Naval Attaché's office at the British Embassy, was compromised by an old friend of her mother's who was by then working for the NKVD, and came under Soviet control. She obtained British citizenship in 1959, was recommended to the Secret Service by the Foreign Office, trained at the espionage school in Leningrad, and three years earlier was planted to work for the KGB in a special compartment.",
       "first_appearance_chapter": 3,
       "habits": "每日六次操作Purple Cipher发送SITREP；月薪约50英镑，存于Glyn Mills银行，生活俭朴，从未领过报酬",
+      "habits_en": "Operates the Purple Cipher six times a day to send SITREPs; her monthly pay of about 50 pounds goes into her account at Glyn Mills, she lives frugally, and she has never taken any payment.",
       "id": "maria-freudenstein",
       "last_appearance_chapter": 3,
       "name_en": "Maria Freudenstein",
       "name_zh": "玛丽亚·弗洛伊登施泰因",
       "personality": "邦德眼中为典型的丑小鸭报复社会型：孤僻、少友、因私生身份自卑，唯一乐趣是暗藏的叛国秘密带来的优越感；面对Fanshawe询问时镇定自若",
+      "personality_en": "In Bond's eyes a classic case of the ugly duckling's revenge on society: solitary, with few friends, nursing a grievance over her illegitimacy, whose only pleasure is the secret sense of superiority her hidden treachery gives her; when questioned by Fanshawe she is perfectly composed.",
       "relationships": [
         {
           "change": "邦德在总部近距离观察其操作密码机，认定其命运不在自己手中，拍卖会当晚她将暴富但性命堪忧",
@@ -558,6 +664,7 @@
         }
       ],
       "role": "主要人物，第3篇",
+      "role_en": "Major character in Story 3.",
       "story": [
         3
       ]
@@ -566,9 +673,12 @@
       "age_clues": "不知道",
       "aliases": [],
       "appearance": "矮壮，深色西装，戴墨镜；面孔平淡无奇，像银行经理、劳埃德会员或医生；后颈发际低，双耳耳垂紧贴头部，背部高处微驼",
+      "appearance_en": "Short and stocky, in a dark suit and dark glasses; a smooth, nondescript face, like a bank manager, a member of Lloyd's or a doctor; the hair grows low on the back of his neck, the lobes of his ears are pinched close to his head, and there is a slight hump high on his back.",
       "background": "苏联大使馆农业参赞，实为KGB驻伦敦负责人(Resident Director)",
+      "background_en": "Agricultural Attache at the Soviet Embassy; in fact the KGB Resident Director in London.",
       "first_appearance_chapter": 3,
       "habits": "竞价暗号：戴墨镜时每次加价1万英镑，摘下墨镜即退出",
+      "habits_en": "His bidding code: with dark glasses on he raises by 10,000 pounds each time; taking them off means he has dropped out.",
       "id": "piotr-malinowski",
       "last_appearance_chapter": 3,
       "name_en": "Piotr Malinowski",
@@ -587,24 +697,30 @@
         }
       ],
       "role": "主要人物，第3篇被识别对象",
+      "role_en": "Major character; the man identified in Story 3.",
       "story": [
         3
       ]
     },
     {
       "age_clues": "约40岁",
+      "age_clues_en": "About forty years old.",
       "aliases": [
         "Mr. Snowman"
       ],
       "appearance": "约40岁，相貌英俊，衣着考究",
+      "appearance_en": "About forty, good-looking and well dressed.",
       "background": "Wartski负责人，世界最大Fabergé经销商与专家，著有The Art of Carl Fabergé；其父约1927年自克里姆林宫购入一批Fabergé藏品；受客户委托竞拍Emerald Sphere，奉命不惜代价拍下",
+      "background_en": "Head of Wartski, the world's greatest Fabergé dealer and expert, and author of The Art of Carl Fabergé; his father bought a collection of Fabergé pieces from the Kremlin around 1927; he is instructed by a client to buy the Emerald Sphere at any cost.",
       "first_appearance_chapter": 3,
       "habits": "用金铅笔敲牙齿思考；店内挂木牌引箴言20章14节",
+      "habits_en": "Taps his teeth with a gold pencil while thinking; a wooden plaque hangs in his shop quoting Proverbs chapter 20, verse 14.",
       "id": "kenneth-snowman",
       "last_appearance_chapter": 3,
       "name_en": "Kenneth Snowman",
       "name_zh": "肯尼思·斯诺曼",
       "personality": "敏锐、观察力强，热心协助，守口如瓶",
+      "personality_en": "Sharp and observant, helpful and keen to assist, and discreet.",
       "relationships": [
         {
           "change": "由初见戒备到坦言竞拍底线并让出妻子座位B.5给邦德，拍卖中配合邦德辨认抬价者",
@@ -613,22 +729,28 @@
         }
       ],
       "role": "主要人物，第3篇",
+      "role_en": "Major character in Story 3.",
       "story": [
         3
       ]
     },
     {
       "age_clues": "中年",
+      "age_clues_en": "Middle-aged.",
       "aliases": [],
       "appearance": "中年，红润，体态丰满，着新爱德华式服装：深蓝四扣外套翻袖、珍珠领针、厚丝领带、翼领、古币袖扣、黑带夹鼻眼镜",
+      "appearance_en": "Middle-aged, rosy and well fed, dressed in neo-Edwardian fashion: a dark blue four-button coat with turned-up cuffs, a pearl pin, a heavy silk tie, a wing collar, antique-coin cufflinks and a pince-nez on a black ribbon.",
       "background": "著名古董珠宝权威，海关与CID顾问，经MI5转介至M.；凭Kenneth Snowman著作中的素描认出Emerald Sphere为失落名作",
+      "background_en": "A noted authority on antique jewellery, adviser to Customs and the CID, referred to M. by MI5; he recognised the Emerald Sphere from the sketch in Kenneth Snowman's book.",
       "first_appearance_chapter": 3,
       "habits": "说话时盯着自己靴子",
+      "habits_en": "When he speaks, he looks down at his own boots.",
       "id": "dr-fanshawe",
       "last_appearance_chapter": 3,
       "name_en": "Dr. Fanshawe",
       "name_zh": "范肖博士",
       "personality": "专家气质，只关心事实与物品不关心人；对M.称名画为昂贵画布感到震惊",
+      "personality_en": "An expert's temperament, concerned only with facts and objects, not with people; he is shocked when M. calls a famous painting an expensive piece of canvas.",
       "relationships": [
         {
           "change": "陈述案情后离场",
@@ -637,6 +759,7 @@
         }
       ],
       "role": "主要人物，第3篇揭发者",
+      "role_en": "Major character; the man who brings the case in Story 3.",
       "story": [
         3
       ]
@@ -646,6 +769,7 @@
       "aliases": [],
       "appearance": "不知道",
       "background": "M.的秘书",
+      "background_en": "M.'s secretary.",
       "first_appearance_chapter": 3,
       "habits": "不知道",
       "id": "miss-moneypenny",
@@ -653,6 +777,7 @@
       "name_en": "Miss Moneypenny",
       "name_zh": "曼妮潘妮小姐",
       "personality": "此次表情毫无内容，邦德据此判断为例行无聊任务",
+      "personality_en": "On this occasion her expression conveys nothing, from which Bond judges the assignment to be a routine bore.",
       "relationships": [
         {
           "change": "无变化",
@@ -661,6 +786,7 @@
         }
       ],
       "role": "次要人物，第3篇",
+      "role_en": "Minor character in Story 3.",
       "story": [
         3
       ]
@@ -669,9 +795,12 @@
       "age_clues": "不知道",
       "aliases": [],
       "appearance": "金色颈背，原文称inviting nape",
+      "appearance_en": "A golden nape of the neck, described in the text as an 'inviting nape'.",
       "background": "邦德办公室的秘书",
+      "background_en": "Bond's secretary.",
       "first_appearance_chapter": 3,
       "habits": "自费在邦德办公室门后挂衣架",
+      "habits_en": "At her own expense she hung a coat hanger behind the door of Bond's office.",
       "id": "mary-goodnight",
       "last_appearance_chapter": 3,
       "name_en": "Mary Goodnight",
@@ -685,6 +814,7 @@
         }
       ],
       "role": "次要人物，第3篇",
+      "role_en": "Minor character in Story 3.",
       "story": [
         3
       ]
@@ -693,14 +823,18 @@
       "age_clues": "不知道",
       "aliases": [],
       "appearance": "瘦削、英俊，穿礼服，红康乃馨襟花",
+      "appearance_en": "Slim and good-looking, wearing a dinner jacket with a red carnation in the buttonhole.",
       "background": "Sotheby's负责人，主持Emerald Sphere拍卖",
+      "background_en": "Head of Sotheby's, who conducted the auction of the Emerald Sphere.",
       "first_appearance_chapter": 3,
       "habits": "落槌时握槌头而非槌柄",
+      "habits_en": "Holds the gavel by its head, not by its handle, when he brings it down.",
       "id": "peter-wilson",
       "last_appearance_chapter": 3,
       "name_en": "Peter Wilson",
       "name_zh": "彼得·威尔逊",
       "personality": "拍卖时语调平静、不带手势",
+      "personality_en": "Speaks quietly at the auction, without emphasis and without gestures.",
       "relationships": [
         {
           "change": "邦德通过其目光锁定抬价者",
@@ -709,6 +843,7 @@
         }
       ],
       "role": "次要人物，第3篇",
+      "role_en": "Minor character in Story 3.",
       "story": [
         3
       ]
@@ -716,28 +851,39 @@
   ],
   "communications": [
     {
+      "description_en": "In Story 1, Smythe's case would require weeks of cables via Government House and the Colonial Office to the Secret Service, Scotland Yard and the Public Prosecutor.",
       "name": "电报往来",
+      "name_en": "Exchange of telegrams",
       "note": "第1篇：Smythe案需经总督府与殖民地部向秘密情报机构、苏格兰场与检察机关发电报往来，约需数周"
     },
     {
+      "description_en": "In Story 2, Sender uses the walkie-talkie to order the Opel Kapitan's backfires and to report to the Head of Station that 272 has crossed.",
       "name": "对讲机",
+      "name_en": "Walkie-talkie",
       "note": "第2篇：Sender以对讲机指挥楼下Opel Kapitan制造回火声，并向站长报告272越境成功"
     },
     {
+      "description_en": "In Story 3, Freudenstein encodes and dispatches SITREPs in the Purple Cipher to the CIA in Washington six times a day; the messages are composed by Section 100, and the Russians intercept and decipher them and treat them as genuine intelligence.",
       "name": "Purple Cipher电文",
+      "name_en": "Purple Cipher messages",
       "note": "第3篇：Freudenstein每日六次以Purple Cipher向CIA华盛顿发送100处编造的SITREP，苏联截获破译后奉为真实情报"
     },
     {
+      "description_en": "In Story 3, a man at the auction speaks by telephone to the American buyer (the Metropolitan Museum side) and relays the bidding in real time.",
       "name": "电话",
+      "name_en": "Telephone",
       "note": "第3篇：Sotheby's拍卖现场有专人以电话向美国买家(大都会博物馆方面)实时传价"
     },
     {
+      "description_en": "In Story 3, M. summons Bond upstairs on the red telephone to tell him about Fanshawe's case.",
       "name": "红色电话",
+      "name_en": "Red telephone",
       "note": "第3篇：M.以红色电话召邦德上楼，交代Fanshawe的案情"
     }
   ],
   "equipment": [
     {
+      "description_en": "Smythe's wartime sidearm in Story 1, serial number 8967362; he killed Oberhauser with two shots from it. Bond calls it a clumsy weapon and wishes for a Luger or a heavy Beretta instead.",
       "id": "webley-scott-45",
       "kind": "武器",
       "name_en": "Webley-Scott .45",
@@ -745,6 +891,7 @@
       "note": "第1篇Smythe战时配枪，编号8967362，两发子弹射杀Oberhauser；邦德称其笨重，希望换Luger或重型Beretta"
     },
     {
+      "description_en": "Bond's sniping rifle in Story 2; the armourer replaced the single-shot action with a five-shot magazine and fitted an infrared sniperscope, and the wood and metal parts were painted dull black. Bond shot with it at Bisley out to 500 yards; in Berlin it was wrecked by a stray bullet.",
       "id": "winchester-308",
       "kind": "武器",
       "name_en": "Winchester .308 International Experimental Target rifle",
@@ -752,6 +899,7 @@
       "note": "第2篇邦德狙击步枪，军械员改装五发弹匣，配红外狙击镜，木材与金属件涂成哑黑；Bisley试射500码命中，柏林实战时被流弹击毁"
     },
     {
+      "description_en": "Trigger's weapon in Story 2, gas-operated, 7.62 millimetre, with a thirty-round magazine, hidden in her cello case; Bond's shot smashed it and threw it out of the window.",
       "id": "kalashnikov",
       "kind": "武器",
       "name_en": "Kalashnikov submachine gun",
@@ -759,6 +907,7 @@
       "note": "第2篇Trigger的武器，气动式，7.62毫米，30发弹匣，藏于大提琴盒中；被邦德一枪击碎并抛出窗外"
     },
     {
+      "description_en": "Fitted above the Winchester in Story 2; at night it shows the colours of a target at 500 yards and the six-inch bull's-eye.",
       "id": "sniperscope",
       "kind": "光学器材",
       "name_en": "Infrared sniperscope",
@@ -766,6 +915,7 @@
       "note": "第2篇装于Winchester步枪上方，夜间可看清500码靶面颜色与6英寸靶心"
     },
     {
+      "description_en": "Smythe's fishing tool in Story 1, a three-pronged spear used to catch the scorpionfish for the octopus; after his death the two young Jamaicans used it to spear and kill the octopus.",
       "id": "spear",
       "kind": "工具",
       "name_en": "Three-pronged spear",
@@ -773,6 +923,7 @@
       "note": "第1篇Smythe捕鱼工具，用以捕蝎子鱼喂章鱼；死后两名牙买加青年用其矛刺死章鱼"
     },
     {
+      "description_en": "Smythe's diving mask in Story 1; its cork valve closes automatically less than two feet under water, which can suffocate the wearer.",
       "id": "pirelli-mask",
       "kind": "潜水装备",
       "name_en": "Pirelli diving mask",
@@ -780,6 +931,7 @@
       "note": "第1篇Smythe的潜水面罩，软木阀下沉不到两英尺即自动关闭，可致窒息"
     },
     {
+      "description_en": "An assassination device described in a Research Station paper at the opening of Story 3: a cheap bulb-handled child's water pistol spraying cyanide gas, instantly fatal when sprayed at the face, recommended for victims aged 25 and over, with death usually recorded as heart failure. Bond thinks Freudenstein may one day be killed with it.",
       "id": "cyanide-water-pistol",
       "kind": "武器",
       "name_en": "Cyanide gas water pistol",
@@ -787,6 +939,7 @@
       "note": "第3篇开篇科研站论文所述暗杀工具：廉价球柄儿童水枪喷射氰化物气，喷向面部即刻致命，适用于25岁以上目标，死因多判为心脏衰竭；邦德联想Freudenstein日后可能遭此灭口"
     },
     {
+      "description_en": "A Fabergé work of 1917 in Story 3: a sphere of about 1,300 carats of Siberian emerald, 7½ inches high, made by workmaster Henrik Wigström, with a clock movement by G. Moser concealed in the base; it sold for 155,000 pounds.",
       "id": "emerald-sphere",
       "kind": "物品",
       "name_en": "Emerald Sphere (Terrestrial Globe)",
@@ -797,73 +950,103 @@
   "events": [
     {
       "cause": "Smythe在缴获的盖世太保文件中发现VALUTA纸条，标明Wilde Kaiser山Franziskaner Halt东100米石堆下武器箱藏两根24K金条",
+      "cause_en": "In the captured Gestapo papers Smythe found a VALUTA note stating that two bars of 24-carat gold lay in a weapons case under a cairn 100 metres east of the Franziskaner Halt on the Wilde Kaiser.",
       "chapter": 1,
       "effect": "Smythe以逮捕为名带走Oberhauser，登山途中在冰川上方两枪射杀其颅底并推尸入冰裂缝，盗走金条并藏于树林岩石间",
+      "effect_en": "Smythe took Oberhauser away on the pretext of arresting him, shot him twice in the base of the skull above the glacier and pushed his body into a crevasse, then stole the gold and hid it among rocks in the woods.",
       "id": "octopussy-gold-theft",
-      "title": "盗金与谋杀Oberhauser"
+      "title": "盗金与谋杀Oberhauser",
+      "title_en": "The theft of the gold and the murder of Oberhauser"
     },
     {
       "cause": "金条难以走私出境，Smythe暂缓复员，借军情通行证重返德国慕尼黑联合审讯中心任职半年，取回金条藏于手提箱带回伦敦",
+      "cause_en": "The gold was hard to smuggle out of the country, so Smythe put off his demobilisation, used his intelligence passes to return to Germany and work for six months at the Combined Interrogation Centre in Munich, and fetched the bars back to London in a suitcase.",
       "chapter": 1,
       "effect": "金条藏于肯辛顿姑妈公寓地下室，婚后携妻移居牙买加，经Foo兄弟向澳门分销，每季度得1000牙买加镑，佣金10%，后被扣至900镑",
+      "effect_en": "The bars were hidden in the basement of an aunt's flat in Kensington; after his marriage Smythe moved to Jamaica and sold the gold through the Foo brothers to Macao, receiving 1,000 Jamaican pounds a quarter at 10 per cent commission, later cut to 900 pounds.",
       "id": "octopussy-gold-smuggling",
-      "title": "金条走私与分销"
+      "title": "金条走私与分销",
+      "title_en": "Smuggling and selling the gold"
     },
     {
       "cause": "Oberhauser遗体当年春天随冰川融化现身，文件与子弹锁定Smythe；邦德提及已与Foo兄弟谈话，Smythe知事已败露",
+      "cause_en": "Oberhauser's body emerged from the glacier that spring, and the papers and the bullets identified Smythe; when Bond mentioned that he had talked to the Foo brothers, Smythe knew the game was up.",
       "chapter": 1,
       "effect": "Smythe完整供认罪行，邦德称约一周后有人押其回伦敦，案件移交皇家海军陆战队军事法庭与检察机关",
+      "effect_en": "Smythe confessed everything; Bond told him that in about a week someone would be sent to bring him back to London, and the case would go to a Royal Marines court-martial and the Public Prosecutor.",
       "id": "octopussy-confession",
-      "title": "邦德取证与Smythe自白"
+      "title": "邦德取证与Smythe自白",
+      "title_en": "Bond's investigation and Smythe's confession"
     },
     {
       "cause": "邦德离去后Smythe按原计划出海捕蝎子鱼喂章鱼，被毒刺刺中胸口；毒发约15分钟内致命，他仍挣扎着把鱼送到章鱼洞口",
+      "cause_en": "After Bond left, Smythe went out as planned to spear a scorpionfish to feed the octopus and was stung in the chest; the poison kills in about fifteen minutes, but he still struggled to carry the fish to the octopus's hole.",
       "chapter": 1,
       "effect": "章鱼拖住其手臂将其拉入水中溺亡；尸体被两名牙买加青年发现，当地报纸写成found drowned，邦德在档案末页同样写下found drowned并私下认定为自杀",
+      "effect_en": "The octopus seized his arm and dragged him under the water, where he drowned; his body was found by two young Jamaicans, the local paper reported him 'found drowned', and Bond wrote the same verdict on the last page of the file, privately assuming suicide.",
       "id": "octopussy-death",
-      "title": "Smythe被蝎子鱼毒死并葬身章鱼之口"
+      "title": "Smythe被蝎子鱼毒死并葬身章鱼之口",
+      "title_en": "Smythe is killed by the scorpionfish and the octopus"
     },
     {
       "cause": "272的越境信使是双面间谍，KGB已知越境时间地点并布下Operation Extase，派Trigger守候射杀272",
+      "cause_en": "272's courier was a double agent, so the KGB knew the time and place of the crossing and mounted Operation Extase, with Trigger waiting to shoot 272.",
       "chapter": 2,
       "effect": "邦德受命在Trigger得手前将其杀死，赴Bisley练枪后乘午夜航班赴柏林设伏",
+      "effect_en": "Bond was ordered to kill Trigger before she could kill 272, and after practising at Bisley he flew to Berlin on a midnight flight to lie in wait.",
       "id": "living-daylights-briefing",
-      "title": "M.下达狙杀Trigger命令"
+      "title": "M.下达狙杀Trigger命令",
+      "title_en": "M. orders the killing of Trigger"
     },
     {
       "cause": "邦德连续三夜以狙击镜观察到金发女大提琴手随女子管弦乐队进出各部大楼，第三夜枪口伸出时瞄准镜中现出其金发侧影",
+      "cause_en": "For three nights Bond watched through the sniperscope as the blonde cellist came and went with the women's orchestra; on the third night, as the gun muzzle slid out of the window, the scope showed her fair hair in profile.",
       "chapter": 2,
       "effect": "邦德认出Trigger就是该女子，乐队演出与大提琴盒实为枪声掩护与运枪手段",
+      "effect_en": "Bond realised that Trigger was the girl herself, and that the orchestra's performances and the cello case were a cover for the gunfire and a means of carrying the weapon.",
       "id": "living-daylights-cello-girl",
-      "title": "发现大提琴手即Trigger"
+      "title": "发现大提琴手即Trigger",
+      "title_en": "The cellist is revealed as Trigger"
     },
     {
       "cause": "邦德不忍射杀心仪的女子，在开火瞬间偏移瞄准，只击碎Kalashnikov并可能伤及其左手",
+      "cause_en": "Bond could not bring himself to kill the woman he had fallen for; at the moment of firing he moved his aim and only smashed the Kalashnikov, possibly wounding her left hand.",
       "chapter": 2,
       "effect": "272成功越境，邦德遭对方火力扫射后乘装甲车撤离；Sender须报告其违令，邦德自认将失去Double-O编号",
+      "effect_en": "272 crossed successfully; Bond was raked by return fire and left in an armoured car with Sender, who must report his disobedience, and Bond expected to lose his Double-O number.",
       "id": "living-daylights-spared",
-      "title": "邦德改动瞄准放生Trigger"
+      "title": "邦德改动瞄准放生Trigger",
+      "title_en": "Bond alters his aim and spares Trigger"
     },
     {
       "cause": "Fabergé绿宝石地球仪由巴黎挂号寄给Freudenstein，申报价值10万英镑，海关依内政部令开包检查，Fanshawe鉴定为真品",
+      "cause_en": "A Fabergé Emerald Sphere arrived by registered post from Paris addressed to Freudenstein, with a declared value of 100,000 pounds; Customs opened it under a Home Office warrant, and Fanshawe identified it as genuine.",
       "chapter": 3,
       "effect": "M.认定此为KGB付给Freudenstein三年无酬服务的巨额报酬，证明KGB已完全相信Purple Cipher情报，可升级欺骗等级",
+      "effect_en": "M. concluded that it was the KGB's payment for three years of unpaid service from Freudenstein, proving that the KGB wholly believed the Purple Cipher material, so the deception could be stepped up.",
       "id": "property-emerald-arrival",
-      "title": "Emerald Sphere现身伦敦"
+      "title": "Emerald Sphere现身伦敦",
+      "title_en": "The Emerald Sphere appears in London"
     },
     {
       "cause": "邦德推断唯一知情者驻伦敦负责人必会亲赴拍卖会抬价，以防Wartski低价得手",
+      "cause_en": "Bond reasoned that the only man who knew about Freudenstein, the Resident Director in London, would have to attend the auction in person to bid the price up, for fear Wartski might get the Sphere cheaply.",
       "chapter": 3,
       "effect": "M.批准计划，邦德携Snowman赴会，以拍卖师目光与竞价暗号锁定抬价者",
+      "effect_en": "M. approved the plan, and Bond went to the sale with Snowman to identify the underbidder by the auctioneer's eyes and the bidding code.",
       "id": "property-underbidder-trap",
-      "title": "邦德设下抬价者陷阱"
+      "title": "邦德设下抬价者陷阱",
+      "title_en": "Bond sets the underbidder trap"
     },
     {
       "cause": "竞价至15.5万英镑时后排矮壮男子摘下墨镜示意退出，MI5摄影师拍下动作，邦德认出其为农业参赞Malinowski",
+      "cause_en": "When the bidding reached 155,000 pounds, the stocky man at the back took off his dark glasses to signal that he was dropping out; the MI5 photographer recorded the gesture, and Bond recognised him as the Agricultural Attache, Malinowski.",
       "chapter": 3,
       "effect": "邦德尾随其出租车进入苏联大使馆，证据齐备，外交部可宣布其为不受欢迎人物",
+      "effect_en": "Bond followed his taxi to the Soviet Embassy, completing the evidence the Foreign Office needed to declare him persona non grata.",
       "id": "property-identification",
-      "title": "锁定并跟踪Malinowski"
+      "title": "锁定并跟踪Malinowski",
+      "title_en": "Malinowski is identified and followed"
     }
   ],
   "facts": [
@@ -873,6 +1056,7 @@
       "confidence": "high",
       "entity": "dexter-smythe",
       "fact": "Smythe为皇家海军陆战队退役少校，获OBE(军事)，时年54岁，住牙买加北岸别墅Wavelets",
+      "fact_en": "Smythe is a retired Royal Marines major with the O.B.E. (Military), aged 54, living at Wavelets, a villa on Jamaica's North Shore.",
       "quote": "Major Dexter Smythe, O.B.E., Royal Marines (Retd.)",
       "quote_source": "第1篇OCTOPUSSY",
       "source_novel": "octopussy",
@@ -884,6 +1068,7 @@
       "confidence": "high",
       "entity": "dexter-smythe",
       "fact": "Smythe有两次冠状动脉血栓，第二次在一个月前，医生将其限定为每日2盎司威士忌与10支烟",
+      "fact_en": "Smythe has suffered two coronary thromboses, the second only a month earlier; his doctor has limited him to two ounces of whisky and ten cigarettes a day.",
       "quote": "he had had two coronary thromboses, the second only a month before",
       "quote_source": "第1篇OCTOPUSSY",
       "source_novel": "octopussy",
@@ -895,6 +1080,7 @@
       "confidence": "high",
       "entity": "dexter-smythe",
       "fact": "Smythe在MOB Force任A Force二号人物，临时中校军衔，指挥官为美军金上校",
+      "fact_en": "Smythe was Number Two of A Force in MOB Force, with the temporary rank of lieutenant colonel, under the American commanding officer, Colonel King.",
       "quote": "Major Smythe had been Number Two of A Force",
       "quote_source": "第1篇OCTOPUSSY",
       "source_novel": "octopussy",
@@ -906,6 +1092,7 @@
       "confidence": "high",
       "entity": "dexter-smythe",
       "fact": "Smythe在Oberaurach缴获文件中发现VALUTA纸条，标明Wilde Kaiser山Franziskaner Halt东100米石堆下武器箱藏两根24K金条，随即烧毁纸条",
+      "fact_en": "In captured papers at Oberaurach, Smythe found a VALUTA note stating that two bars of 24-carat gold lay in a weapons case under a cairn 100 metres east of the Franziskaner Halt on the Wilde Kaiser; he burned the note at once.",
       "quote": "WILDE KAISER. FRANZISKANER HALT. 100 M. ÖSTLICH STEINHÜGEL. WAFFENKISTE. ZWEI BAR 24 KT.",
       "quote_source": "第1篇OCTOPUSSY",
       "source_novel": "octopussy",
@@ -917,6 +1104,7 @@
       "confidence": "high",
       "entity": "dexter-smythe",
       "fact": "Smythe在冰川上方两英尺处开两枪射杀Oberhauser颅底，将尸体推入冰川裂缝并踢落雪檐掩盖",
+      "fact_en": "Above the glacier, Smythe fired two bullets into the base of Oberhauser's skull, pushed the body into a glacier crevasse and kicked the snow overhang down over it.",
       "quote": "fired two bullets into the base of Hannes Oberhauser's skull",
       "quote_source": "第1篇OCTOPUSSY",
       "source_novel": "octopussy",
@@ -928,6 +1116,7 @@
       "confidence": "high",
       "entity": "dexter-smythe",
       "fact": "两根金条带鹰徽与1943年Reichsbank铸记，Foo兄弟化验含铅10%，按89成色计价，Smythe事先已凿去铸记",
+      "fact_en": "The two bars bore an eagle with a swastika and the date 1943, the mint marks of the Reichsbank; the Foos' assay found them 10 per cent lead and valued them at 89 fine. Smythe had already chiselled the mint marks away.",
       "quote": "the swastika in a circle below an eagle, and the date 1943",
       "quote_source": "第1篇OCTOPUSSY",
       "source_novel": "octopussy",
@@ -939,6 +1128,7 @@
       "confidence": "high",
       "entity": "dexter-smythe",
       "fact": "Smythe经Foo兄弟每季度得1000牙买加镑，佣金10%，后因打点税务每季度扣至900镑，合作持续15年",
+      "fact_en": "Through the Foos, Smythe received 1,000 Jamaican pounds a quarter at 10 per cent commission, later cut to 900 pounds a quarter for the cost of 'arranging' his tax affairs; the arrangement ran for fifteen years.",
       "quote": "every quarter, he would visit the office of the Foos carrying an empty suitcase",
       "quote_source": "第1篇OCTOPUSSY",
       "source_novel": "octopussy",
@@ -950,6 +1140,7 @@
       "confidence": "high",
       "entity": "dexter-smythe",
       "fact": "Smythe战时配枪为Webley-Scott .45，编号8967362，邦德核对过领用与归还登记",
+      "fact_en": "Smythe's wartime sidearm was a regulation Webley-Scott .45, serial number 8967362; Bond checked the records of its issue and return.",
       "quote": "a regulation Webley-Scott forty-five with the serial number eight-nine-six-seven-three-sixty-two",
       "quote_source": "第1篇OCTOPUSSY",
       "source_novel": "octopussy",
@@ -961,6 +1152,7 @@
       "confidence": "high",
       "entity": "mary-parnell",
       "fact": "Mary Parnell为战时Wren，婚后随Smythe移居牙买加，两年前一次醉酒争吵后服安眠药过量身亡，自杀被掩盖",
+      "fact_en": "Mary Parnell was a wartime Wren who married Smythe and moved with him to Jamaica; two years before Bond's visit she died of a sleeping-pill overdose after a drunken row, and the suicide was hushed up.",
       "quote": "Since the death of Mary two years before, he had loved no one",
       "quote_source": "第1篇OCTOPUSSY",
       "source_novel": "octopussy",
@@ -972,6 +1164,7 @@
       "confidence": "high",
       "entity": "hannes-oberhauser",
       "fact": "Oberhauser为Kitzbühel滑雪教练，灰发跛腿，战前教过十几岁的邦德滑雪，邦德视其为父亲般人物",
+      "fact_en": "Oberhauser was a Kitzbühel ski teacher, grey-haired and lame, who taught the teenage Bond to ski before the war; Bond regarded him as something of a father.",
       "quote": "It just happened that Oberhauser was a friend of mine",
       "quote_source": "第1篇OCTOPUSSY",
       "source_novel": "octopussy",
@@ -983,6 +1176,7 @@
       "confidence": "high",
       "entity": "hannes-oberhauser",
       "fact": "Oberhauser遗体在当年春天冰川融化时被登山者发现，证件齐全，家人辨认，颅底子弹成为定罪关键",
+      "fact_en": "Oberhauser's body came out of the glacier that spring when the snows melted, found by climbers with his papers intact; his family identified him, and the bullets in the base of his skull were the conclusive evidence.",
       "quote": "Oberhauser's body came out at the bottom of it earlier this year",
       "quote_source": "第1篇OCTOPUSSY",
       "source_novel": "octopussy",
@@ -994,6 +1188,7 @@
       "confidence": "high",
       "entity": "dexter-smythe",
       "fact": "Smythe被蝎子鱼毒刺刺中胸口后毒发约15分钟内致命，挣扎着把鱼送到章鱼洞口后被章鱼拖入水中溺亡",
+      "fact_en": "Stung in the chest by a scorpionfish, Smythe had about fifteen minutes to live; he struggled to carry the fish to the octopus's hole, and the octopus seized his arm and dragged him under the water, where he drowned.",
       "quote": "You got me, you bastard! By God, you got me!",
       "quote_source": "第1篇OCTOPUSSY",
       "source_novel": "octopussy",
@@ -1005,6 +1200,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德在档案末页写下found drowned并注明日期，私下认定Smythe之死为自杀",
+      "fact_en": "Bond wrote 'found drowned', with the date, on the last page of the file, privately assuming suicide.",
       "quote": "privately assuming suicide, wrote the same verdict of found drowned",
       "quote_source": "第1篇OCTOPUSSY",
       "source_novel": "octopussy",
@@ -1016,6 +1212,7 @@
       "confidence": "high",
       "entity": "professor-bengry",
       "fact": "Bengry教授请Smythe验证章鱼是否会吃蝎子鱼、是否识其毒性，Smythe死前仍惦记完成该实验",
+      "fact_en": "Professor Bengry of the Institute had asked Smythe to find out whether an octopus would eat a scorpionfish and whether it recognised the poison; Smythe was still thinking of the experiment as he died.",
       "quote": "he had promised that nice Professor Bengry at the Institute",
       "quote_source": "第1篇OCTOPUSSY",
       "source_novel": "octopussy",
@@ -1027,6 +1224,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德以国防部名义到访，自称James Bond，Smythe认出这是秘密情报机构的委婉说法",
+      "fact_en": "Bond introduced himself as James Bond, from the Ministry of Defence; Smythe recognised the old euphemism for the Secret Service.",
       "quote": "My name's Bond, James Bond. I'm from the Ministry of Defense.",
       "quote_source": "第1篇OCTOPUSSY",
       "source_novel": "octopussy",
@@ -1038,6 +1236,7 @@
       "confidence": "high",
       "entity": "agent-272",
       "fact": "272号特工自战后藏匿于Novaya Zemlya，携原子与火箭情报及1961年新系列试验计划出逃，已抵东柏林",
+      "fact_en": "Agent 272 has been holed up in Novaya Zemlya since the war and is escaping with atomic and rocket intelligence and the plan for a new series of tests in 1961; he has reached East Berlin.",
       "quote": "he's been holed up in Novaya Zemlya since the war",
       "quote_source": "第2篇THE LIVING DAYLIGHTS",
       "source_novel": "octopussy",
@@ -1049,6 +1248,7 @@
       "confidence": "high",
       "entity": "agent-272",
       "fact": "272定于连续三夜中某一夜18-19时穿越Zimmerstrasse边境，其信使是双面间谍，KGB已知时间地点",
+      "fact_en": "272 is to cross the Zimmerstrasse between 6 and 7 p.m. on one of the next three nights; his courier was a double agent, and the KGB knows the time and the place.",
       "quote": "he'd be coming across between six and seven P.M. on one of the next three nights",
       "quote_source": "第2篇THE LIVING DAYLIGHTS",
       "source_novel": "octopussy",
@@ -1060,6 +1260,7 @@
       "confidence": "high",
       "entity": "trigger",
       "fact": "KGB狙击手代号Trigger，行动代号Operation Extase，守在各部大楼窗口射杀272",
+      "fact_en": "The KGB sniper's codename is Trigger, and the operation to kill 272 is codenamed Operation Extase; Trigger is to shoot him from a window of the ministries building.",
       "quote": "They plan to shoot him on the run",
       "quote_source": "第2篇THE LIVING DAYLIGHTS",
       "source_novel": "octopussy",
@@ -1071,6 +1272,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德在Bisley世纪靶场用Winchester .308试验步枪配红外狙击镜练枪至500码，军械员改装五发弹匣",
+      "fact_en": "Bond practised at Bisley's Century Range with a Winchester .308 International Experimental Target rifle fitted with an infrared sniperscope, shooting out to 500 yards; the armourer had replaced the single-shot action with a five-shot magazine.",
       "quote": "a .308-caliber International Experimental Target rifle built by Winchester",
       "quote_source": "第2篇THE LIVING DAYLIGHTS",
       "source_novel": "octopussy",
@@ -1082,6 +1284,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德的任务射程不超过300码，实际狙击阵地距各部大楼黑窗约300-310码",
+      "fact_en": "Bond's range is not more than 300 yards; his firing position is 300 to 310 yards from the dark windows.",
       "quote": "their range varies from three hundred to three hundred and ten yards",
       "quote_source": "第2篇THE LIVING DAYLIGHTS",
       "source_novel": "octopussy",
@@ -1093,6 +1296,7 @@
       "confidence": "high",
       "entity": "paul-sender",
       "fact": "Paul Sender为Station WB二号人物，前威尔士卫队上尉，温切斯特毕业，牛津PPE二等，40出头",
+      "fact_en": "Captain Paul Sender is Number Two of Station WB, late of the Welsh Guards, a Winchester man with a second in PPE from Oxford, in his early forties.",
       "quote": "Captain Paul Sender, late of the Welsh Guards, had been the obvious choice",
       "quote_source": "第2篇THE LIVING DAYLIGHTS",
       "source_novel": "octopussy",
@@ -1104,6 +1308,7 @@
       "confidence": "high",
       "entity": "trigger",
       "fact": "Trigger实为金发女大提琴手，Kalashnikov冲锋枪藏于大提琴盒中，女子管弦乐队演出为枪声作掩护",
+      "fact_en": "Trigger is in fact the blonde cellist; her Kalashnikov is hidden in her cello case, and the women's orchestra's performances cover the sound of the shot.",
       "quote": "She was the girl who carried the cello in that orchestra",
       "quote_source": "第2篇THE LIVING DAYLIGHTS",
       "source_novel": "octopussy",
@@ -1115,6 +1320,7 @@
       "confidence": "high",
       "entity": "trigger",
       "fact": "Trigger的武器为Kalashnikov冲锋枪，气动式，7.62毫米，30发弹匣，KGB常用",
+      "fact_en": "Trigger's weapon is a Kalashnikov submachine gun, gas-operated, 7.62 millimetre, with a thirty-round magazine, a favourite with the KGB.",
       "quote": "Kalashnikov, submachinegun. Gas-operated. Thirty rounds in seven sixty-two millimeter.",
       "quote_source": "第2篇THE LIVING DAYLIGHTS",
       "source_novel": "octopussy",
@@ -1126,6 +1332,7 @@
       "confidence": "high",
       "entity": "agent-272",
       "fact": "272在第三夜成功穿越Zimmerstrasse抵达西柏林，邦德一枪击碎Trigger的枪支并将其抛出窗外，未取其性命",
+      "fact_en": "On the third night 272 crossed the Zimmerstrasse into West Berlin; Bond's shot smashed Trigger's gun and hurled it out of the window, without killing her.",
       "quote": "He's over! He's done it! My God, he's done it!",
       "quote_source": "第2篇THE LIVING DAYLIGHTS",
       "source_novel": "octopussy",
@@ -1137,6 +1344,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德承认在开火瞬间改动瞄准，称Trigger是女人，已吓破她的胆，她不会再做狙击手，并预计将失去Double-O编号",
+      "fact_en": "Bond admitted that he altered his aim at the last second, said Trigger was a woman and that he had scared the living daylights out of her - she would never snipe again - and expected to lose his Double-O number.",
       "quote": "Scared the living daylights out of her",
       "quote_source": "第2篇THE LIVING DAYLIGHTS",
       "source_novel": "octopussy",
@@ -1148,6 +1356,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德座驾为Bentley Mark IV，Mulliner改装为真正双座加大行李厢",
+      "fact_en": "Bond's car is a Bentley Mark IV, which he had Mulliner's convert into a real two-seater with plenty of trunk space.",
       "quote": "I got Mulliner's to make it into a real two-seater with plenty of trunk space",
       "quote_source": "第2篇THE LIVING DAYLIGHTS",
       "source_novel": "octopussy",
@@ -1159,6 +1368,7 @@
       "confidence": "high",
       "entity": "maria-freudenstein",
       "fact": "Maria Freudenstein生于巴黎1935年，母亲为白俄流亡者，未婚生下她；母亲二战时参加抵抗运动，经营Tulip Escape Route",
+      "fact_en": "Maria Freudenstein was born in Paris in 1935; her mother was a White Russian émigrée who never married, was active in the Resistance during the war and helped run the Tulip Escape Route.",
       "quote": "The girl was born in Paris in 1935",
       "quote_source": "第3篇THE PROPERTY OF A LADY",
       "source_novel": "octopussy",
@@ -1170,6 +1380,7 @@
       "confidence": "high",
       "entity": "maria-freudenstein",
       "fact": "Freudenstein在秘密情报机构通讯处特设隔间操作Purple Cipher，每日六次向CIA华盛顿发送100处编造的真假混合SITREP，行动已运行三年",
+      "fact_en": "Freudenstein works the Purple Cipher in a watertight compartment of the Communications Section, encoding and dispatching lengthy SITREPs to the CIA in Washington six times a day; the operation has been running for three years.",
       "quote": "Six times a day she was responsible for encoding and dispatching lengthy SITREPS",
       "quote_source": "第3篇THE PROPERTY OF A LADY",
       "source_novel": "octopussy",
@@ -1181,6 +1392,7 @@
       "confidence": "high",
       "entity": "maria-freudenstein",
       "fact": "Freudenstein月薪约50英镑存于Glyn Mills银行，生活俭朴，三年任职期间从未领过报酬",
+      "fact_en": "Freudenstein's monthly pay of around 50 pounds goes into her account at Glyn Mills; she has lived within it and received no payment at all in three years.",
       "quote": "her monthly paycheck of around fifty pounds",
       "quote_source": "第3篇THE PROPERTY OF A LADY",
       "source_novel": "octopussy",
@@ -1192,6 +1404,7 @@
       "confidence": "high",
       "entity": "maria-freudenstein",
       "fact": "Freudenstein于1959年获英国国籍，此前在列宁格勒间谍学校受训，系经Hutchinson网络报告发现",
+      "fact_en": "Freudenstein obtained British citizenship in 1959; before that she was reported by the Hutchinson network at the espionage school in Leningrad.",
       "quote": "she was next reported by the Hutchinson network in the Leningrad espionage school",
       "quote_source": "第3篇THE PROPERTY OF A LADY",
       "source_novel": "octopussy",
@@ -1203,6 +1416,7 @@
       "confidence": "high",
       "entity": "emerald-sphere",
       "fact": "Emerald Sphere为Fabergé 1917年为Freudenstein祖父设计制作的绿宝石地球仪，约1300克拉西伯利亚绿宝石，高7.5英寸，工匠Henrik Wigström，内置G. Moser钟表机芯",
+      "fact_en": "The Emerald Sphere is a Fabergé terrestrial globe designed in 1917 for Freudenstein's grandfather, a sphere of about 1,300 carats of Siberian emerald, 7½ inches high, made by workmaster Henrik Wigström with a clock movement by G. Moser.",
       "quote": "DESIGNED IN 1917 BY CARL FABERGÉ FOR A RUSSIAN GENTLEMAN",
       "quote_source": "第3篇THE PROPERTY OF A LADY",
       "source_novel": "octopussy",
@@ -1214,6 +1428,7 @@
       "confidence": "high",
       "entity": "emerald-sphere",
       "fact": "Emerald Sphere由巴黎挂号寄抵英国，申报价值10万英镑，海关依内政部令开包检查，Fanshawe与Snowman均鉴定为真品",
+      "fact_en": "The Emerald Sphere arrived by registered post from Paris with a declared value of 100,000 pounds; it was opened under a Home Office warrant, and both Fanshawe and Snowman pronounced it genuine.",
       "quote": "The declared value of the package was one hundred thousand pounds",
       "quote_source": "第3篇THE PROPERTY OF A LADY",
       "source_novel": "octopussy",
@@ -1225,6 +1440,7 @@
       "confidence": "high",
       "entity": "emerald-sphere",
       "fact": "Emerald Sphere在Sotheby's以15.5万英镑由Wartski拍得，美国方面出价至13万英镑后退出",
+      "fact_en": "The Emerald Sphere was sold at Sotheby's for 155,000 pounds to Wartski; the American bidding stopped at 130,000 pounds.",
       "quote": "One hundred and fifty-five thousand pounds I am bid",
       "quote_source": "第3篇THE PROPERTY OF A LADY",
       "source_novel": "octopussy",
@@ -1236,6 +1452,7 @@
       "confidence": "high",
       "entity": "piotr-malinowski",
       "fact": "Piotr Malinowski官衔为苏联大使馆农业参赞，实为KGB驻伦敦负责人，在拍卖会以摘下墨镜为暗号退出竞价",
+      "fact_en": "Piotr Malinowski's official title is Agricultural Attache at the Soviet Embassy; in fact he is the KGB Resident Director in London, and his signal at the sale was to take off his dark glasses to drop out of the bidding.",
       "quote": "This was Piotr Malinowski, with the official title on the Embassy staff of Agricultural Attaché",
       "quote_source": "第3篇THE PROPERTY OF A LADY",
       "source_novel": "octopussy",
@@ -1247,6 +1464,7 @@
       "confidence": "high",
       "entity": "piotr-malinowski",
       "fact": "Malinowski乘出租车返回肯辛顿宫花园苏联大使馆，邦德与MI5司机尾随确认，证据齐备可宣布其为不受欢迎人物",
+      "fact_en": "Malinowski took a taxi back to the Soviet Embassy in Kensington Palace Gardens, followed by Bond and an MI5 driver; the evidence is enough to have him declared persona non grata.",
       "quote": "The leading taxi did turn in through the big iron gates",
       "quote_source": "第3篇THE PROPERTY OF A LADY",
       "source_novel": "octopussy",
@@ -1258,6 +1476,7 @@
       "confidence": "high",
       "entity": "kenneth-snowman",
       "fact": "Kenneth Snowman为Wartski负责人，店铺位于摄政街138号，世界最大Fabergé经销商与专家",
+      "fact_en": "Kenneth Snowman is the head of Wartski, at 138 Regent Street, the greatest Fabergé dealers in the world.",
       "quote": "the greatest Fabergé-dealers in the world",
       "quote_source": "第3篇THE PROPERTY OF A LADY",
       "source_novel": "octopussy",
@@ -1269,6 +1488,7 @@
       "confidence": "high",
       "entity": "dr-fanshawe",
       "fact": "Fanshawe博士为古董珠宝权威，海关与CID顾问，经MI5转介至M.，凭Snowman著作中的素描认出Emerald Sphere",
+      "fact_en": "Dr. Fanshawe is an authority on antique jewellery, an adviser to Customs and the CID, referred to M. by MI5; he recognised the Emerald Sphere from the sketch in Snowman's book.",
       "quote": "I immediately recognized the Emerald Sphere from the account and sketch",
       "quote_source": "第3篇THE PROPERTY OF A LADY",
       "source_novel": "octopussy",
@@ -1280,6 +1500,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德推断唯一知情者驻伦敦负责人必会亲赴拍卖会担任抬价者，M.据此批准设局",
+      "fact_en": "Bond reasoned that the only man who knew about Freudenstein, the Resident Director, would have to attend the sale in person as underbidder, and M. approved the trap.",
       "quote": "you remember what this Dr. Fanshawe said about an underbidder—someone to make these Wartski merchants go to their very top price",
       "quote_source": "第3篇THE PROPERTY OF A LADY",
       "source_novel": "octopussy",
@@ -1291,6 +1512,7 @@
       "confidence": "medium",
       "entity": "trigger",
       "fact": "Trigger真实姓名原文未给，Sender推测她可能是苏联女子射击队成员Donskaya或Lomova，但原文未确认",
+      "fact_en": "Trigger's real name is never given in the text; Sender suggests she may have been one of the Soviet women's shooting team, Donskaya or Lomova, but this is not confirmed.",
       "quote": "She may even have been one of them",
       "quote_source": "第2篇THE LIVING DAYLIGHTS",
       "source_novel": "octopussy",
@@ -1302,6 +1524,7 @@
       "confidence": "medium",
       "entity": "dexter-smythe",
       "fact": "Smythe之死邦德私下认定为自杀，依据是邦德离去前有意告知一周后才有人来押解并留其独处，但原文未明写邦德意图，仅为邦德事后推断",
+      "fact_en": "Bond privately assumed Smythe's death was suicide, on the grounds that Bond had told him it would be about a week before someone was sent to bring him home and had left him alone - but the text never states Bond's intention, and this is only Bond's later assumption.",
       "quote": "It'll be about a week before they send someone out to bring you home",
       "quote_source": "第1篇OCTOPUSSY",
       "source_novel": "octopussy",
@@ -1313,6 +1536,7 @@
   "locations": [
     {
       "country": "牙买加",
+      "description_en": "The main setting of Story 1: Smythe's home and coral reef, where Bond visits him and where Smythe drowns.",
       "fictional": false,
       "id": "wavelets",
       "name_en": "Wavelets, North Shore, Jamaica",
@@ -1321,6 +1545,7 @@
     },
     {
       "country": "牙买加",
+      "description_en": "In Story 1, the place Bond sets out from by taxi, and the home of the Foo brothers' firm and the Myrtle Bank.",
       "fictional": false,
       "id": "kingston",
       "name_en": "Kingston",
@@ -1329,6 +1554,7 @@
     },
     {
       "country": "奥地利",
+      "description_en": "In Story 1, where MOB Force seized the Gestapo papers in 1945, about a mile east of Kitzbühel.",
       "fictional": false,
       "id": "oberaurach",
       "name_en": "Oberaurach",
@@ -1337,6 +1563,7 @@
     },
     {
       "country": "奥地利",
+      "description_en": "In Story 1, the murder scene and the site of the hidden gold: a climbers' hut on the Wilde Kaiser, more than 10,000 feet up.",
       "fictional": false,
       "id": "franziskaner-halt",
       "name_en": "Franziskaner Halt, Wilde Kaiser",
@@ -1345,6 +1572,7 @@
     },
     {
       "country": "英国",
+      "description_en": "In Story 2, where Bond practises by night at 500 yards.",
       "fictional": false,
       "id": "bisley",
       "name_en": "Bisley Century Range",
@@ -1353,6 +1581,7 @@
     },
     {
       "country": "德国",
+      "description_en": "The main setting of Story 2: the East-West border at the Zimmerstrasse, where the crossing is attempted.",
       "fictional": false,
       "id": "berlin",
       "name_en": "Berlin",
@@ -1361,6 +1590,7 @@
     },
     {
       "country": "德国",
+      "description_en": "The East Berlin government building in Story 2, where Trigger hides behind one of the four dark windows; part of the building is the Ministry of Culture's concert hall.",
       "fictional": false,
       "id": "haus-der-ministerien",
       "name_en": "Haus der Ministerien",
@@ -1369,6 +1599,7 @@
     },
     {
       "country": "英国",
+      "description_en": "The main setting of Story 3: the Secret Service headquarters, Sotheby's and Wartski; Malinowski is followed to the Soviet Embassy in Kensington Palace Gardens.",
       "fictional": false,
       "id": "london",
       "name_en": "London",
@@ -1377,6 +1608,7 @@
     },
     {
       "country": "苏联",
+      "description_en": "In Story 2, where agent 272 has been hiding since the war.",
       "fictional": false,
       "id": "novaya-zemlya",
       "name_en": "Novaya Zemlya",
@@ -1385,6 +1617,7 @@
     },
     {
       "country": "法国",
+      "description_en": "In Story 3, Maria Freudenstein's birthplace and the home of her mother's White Russian émigré circle; the Emerald Sphere was sent by registered post from Paris.",
       "fictional": false,
       "id": "paris",
       "name_en": "Paris",
@@ -1393,6 +1626,7 @@
     },
     {
       "country": "中国",
+      "description_en": "In Story 1, the free port through which the Foos sell the gold, where gold fetches at least $100 an ounce against the Bretton Woods fixed price of $35.",
       "fictional": false,
       "id": "macao",
       "name_en": "Macao",
@@ -1416,10 +1650,27 @@
     "objective": "第1篇：调查二战末期MOB Force旧案，确认Smythe谋杀与盗金事实并取回自白；第2篇：在272越境前杀死KGB狙击手Trigger；第3篇：借拍卖会识别KGB驻伦敦负责人并驱逐出境",
     "outcome": "第1篇：Smythe完整自白，邦德称约一周后押其回伦敦受军事法庭审判；Smythe同日被蝎子鱼毒死并葬身章鱼之口，邦德在档案写下found drowned；第2篇：272第三夜成功越境，Trigger枪被击碎、左手可能受伤而未死，邦德违令将受处分并可能失去Double-O编号；第3篇：Malinowski身份锁定并被尾随确认进入苏联大使馆，证据齐备可宣布其为不受欢迎人物，Emerald Sphere以15.5万英镑由Wartski拍得"
   },
+  "mission_en": {
+    "investigation_en": "Story 1: Bond checks the captured-documents record, the circumstances of Oberhauser's disappearance and the issue and return records of the Webley, serial number 8967362, and talks to the Foo brothers beforehand to master the gold-selling chain, then uses silence and pointed hints to draw a confession from Smythe. Story 2: Bond practises at Bisley by night, then flies to Berlin and spends three nights in ambush with Sender, watching the four dark windows of the Haus der Ministerien and the movements of the women's orchestra. Story 3: Bond checks the Emerald Sphere's provenance papers, Freudenstein's personnel file and bank account, devises the underbidder trap, and goes to the auction with Snowman to identify the target by the auctioneer's eyes and the bidding code, then follows him to confirm his identity.",
+    "key_clues_en": [
+      "Story 1, the VALUTA note: Wilde Kaiser, Franziskaner Halt, a cairn 100 metres to the east, a weapons case, two bars of 24-carat gold.",
+      "Story 1: Oberhauser's body emerged from the glacier that spring, and the two Webley bullets in the base of his skull are conclusive evidence.",
+      "Story 1: the Foos' assay found the gold 10 per cent lead, identifying it as wartime Reichsbank gold, valued at 89 fine.",
+      "Story 2: 272's courier was a double agent, so the KGB knew the time and place of the crossing and mounted Operation Extase.",
+      "Story 2: the four dark windows of the Haus der Ministerien stayed dark for two nights, with the muzzle of a Kalashnikov protruding from one of them.",
+      "Story 2: the women's orchestra went in and out of the building daily; the cello case hid the gun and the music covered the sound of the shot.",
+      "Story 3: the Emerald Sphere's declared value was 100,000 pounds, and its provenance papers say it was commissioned from Fabergé in 1917 by Freudenstein's grandfather.",
+      "Story 3: Freudenstein earns about 50 pounds a month and has never been paid, so the great jewel is the KGB's single payment for her services.",
+      "Story 3, the underbidder's code: with dark glasses on he raises by 10,000 pounds each time; taking them off means he has dropped out."
+    ],
+    "objective_en": "Story 1: to investigate a wartime MOB Force case from the end of the Second World War, establish whether Smythe murdered the guide Hannes Oberhauser and stole Nazi gold, and obtain his confession. Story 2: to kill the KGB sniper Trigger before 272 crosses. Story 3: to identify the KGB Resident Director in London at the auction and have him expelled.",
+    "outcome_en": "Story 1: Smythe confesses in full; Bond tells him he will be taken back to London in about a week to face a court-martial. Smythe dies the same day, stung by a scorpionfish and drowned by the octopus, and Bond writes 'found drowned' in the file. Story 2: on the third night 272 crosses successfully; Trigger's gun is smashed and her left hand possibly wounded, but she is not killed; Bond has disobeyed orders and expects to be disciplined and perhaps to lose his Double-O number. Story 3: Malinowski is identified and followed to the Soviet Embassy, giving the Foreign Office enough to declare him persona non grata; the Emerald Sphere is sold to Wartski for 155,000 pounds."
+  },
   "novel_id": "octopussy",
   "novel_no": 14,
   "organizations": [
     {
+      "description_en": "Bond's organisation; in Story 1 it hides behind the name of the Ministry of Defence, and MOB Force was run jointly by it and Combined Operations Headquarters. In Story 2, Station WB is its Berlin station; in Story 3, its headquarters is where Freudenstein works and the Purple Cipher operation is run.",
       "first_chapter": 1,
       "id": "sis",
       "name_en": "Secret Intelligence Service",
@@ -1430,6 +1681,7 @@
       "aliases": [
         "MOB Force"
       ],
+      "description_en": "Run jointly by the Secret Service and Combined Operations, it cleared up Gestapo and Abwehr hiding places after the war; it had six units, and Smythe was Number Two of A Force.",
       "first_chapter": 1,
       "id": "mob-force",
       "name_en": "Miscellaneous Objectives Bureau",
@@ -1437,6 +1689,7 @@
       "role": "第1篇：秘密情报机构与联合行动总部合办，战后清理盖世太保与Abwehr藏匿点；下辖六支分队，Smythe任A Force二号人物"
     },
     {
+      "description_en": "Smythe's service; after the war it will handle his court-martial.",
       "first_chapter": 1,
       "id": "royal-marines",
       "name_en": "Royal Marines",
@@ -1444,6 +1697,7 @@
       "role": "第1篇：Smythe所属军种，战后将接手其军事法庭审判"
     },
     {
+      "description_en": "In Story 2 it sends Trigger to carry out Operation Extase and shoot 272; in Story 3 it is Freudenstein's controller, and Malinowski is its Resident Director in London.",
       "first_chapter": 2,
       "id": "kgb",
       "name_en": "KGB",
@@ -1451,6 +1705,7 @@
       "role": "第2篇：派Trigger执行Operation Extase射杀272；第3篇：Freudenstein的上线，Malinowski为其驻伦敦负责人"
     },
     {
+      "description_en": "The Secret Service's Berlin station, headed by Tanqueray, with Sender as Number Two; it receives 272 and arranges the sniping position.",
       "first_chapter": 2,
       "id": "station-wb",
       "name_en": "Station WB",
@@ -1458,6 +1713,7 @@
       "role": "第2篇：秘密情报机构柏林站，站长Tanqueray，二号人物Sender，负责接应272与安排狙击阵地"
     },
     {
+      "description_en": "Responsible for running double agents; it composes the SITREP material for the Purple Cipher and arranged for Freudenstein to steal the cipher key.",
       "first_chapter": 3,
       "id": "section-100",
       "name_en": "Section 100",
@@ -1465,6 +1721,7 @@
       "role": "第3篇：负责运作双面特工，编造Purple Cipher的SITREP内容并设局让Freudenstein盗走密码本钥匙"
     },
     {
+      "description_en": "It referred Fanshawe to M., and at the auction it supplied a photographer with a Sunday Times press pass and a driver to follow Malinowski.",
       "first_chapter": 3,
       "id": "mi5",
       "name_en": "MI5",
@@ -1472,6 +1729,7 @@
       "role": "第3篇：将Fanshawe转介至M.，拍卖会派摄影师持Sunday Times记者证拍照并派司机尾随Malinowski"
     },
     {
+      "description_en": "The auction house that sold the Emerald Sphere; Lot 42 went for 155,000 pounds.",
       "first_chapter": 3,
       "id": "sothebys",
       "name_en": "Sotheby's",
@@ -1479,6 +1737,7 @@
       "role": "第3篇：拍卖Emerald Sphere的拍卖行，Lot 42以15.5万英镑成交"
     },
     {
+      "description_en": "The world's greatest Fabergé dealer; instructed by a client, it bid for the Emerald Sphere and bought it for 155,000 pounds.",
       "first_chapter": 3,
       "id": "wartski",
       "name_en": "Wartski",
@@ -1486,6 +1745,7 @@
       "role": "第3篇：世界最大Fabergé经销商，受客户委托竞拍Emerald Sphere并最终以15.5万英镑拍得"
     },
     {
+      "description_en": "The nominal recipient of the Purple Cipher SITREPs; a junior clerk in Washington spikes them unread, while in Moscow they are handed with reverence to a senior KGB officer.",
       "first_chapter": 3,
       "id": "cia",
       "name_en": "CIA",
@@ -1493,6 +1753,7 @@
       "role": "第3篇：Purple Cipher的SITREP名义收件方，华盛顿的初级职员收到后不读即销毁，莫斯科方面则敬奉KGB高官"
     },
     {
+      "description_en": "In Story 1, Bond says the case will go to the Public Prosecutor through Scotland Yard; in Story 3, Bond poses as a CID liaison man and says his identity must be checked directly with Sir Ronald Vallance.",
       "first_chapter": 1,
       "id": "scotland-yard",
       "name_en": "Scotland Yard",
@@ -1859,55 +2120,66 @@
     }
   ],
   "story_timeline": "第1篇OCTOPUSSY：主线为二战结束时(1945年)蒂罗尔Oberaurach行动，Smythe杀害向导Hannes Oberhauser并盗走两根金条；随后约15年间在牙买加靠Foo兄弟分批出售金条为生；妻子Mary两年前服安眠药过量去世；邦德到访当日为故事现在时，Smythe同日被蝎子鱼刺伤后葬身章鱼之口。第2篇THE LIVING DAYLIGHTS：现在时为1961年前后，272号特工携原子与火箭情报自Novaya Zemlya出逃，定于连续三夜中某一夜18-19时越境；邦德在Bisley练枪当晚乘午夜航班赴柏林，第三夜272成功越境，Trigger被击伤未死。第3篇THE PROPERTY OF A LADY：现在时为6月初某年(原文只写6月20日星期二，未写年份)，Freudenstein的Emerald Sphere于6月20日晚21时30分在Sotheby's拍卖；其背景横跨1917年Fabergé受托制作、1935年Maria生于巴黎、二战母亲参加抵抗运动、1959年Maria获英国国籍、Purple Cipher行动已运行三年。",
+  "synopsis_en": "In 'Octopussy', James Bond travels to Wavelets, a villa on Jamaica's North Shore, to confront retired Royal Marines Major Dexter Smythe about a wartime crime. In the last days of the war, serving with MOB Force in the Austrian Tirol, Smythe found a Gestapo note revealing two bars of Nazi gold hidden near the Franziskaner Halt, murdered his ski guide Hannes Oberhauser - the man who had taught the teenage Bond to ski - to keep the secret, and spent the next fifteen years living off the gold through Chinese merchants in Kingston. Confronted with the evidence, Smythe confesses in full. Left alone for a week before his escort home, he goes out to catch a scorpionfish for his pet octopus, is stung in the chest, and, dying of the poison, is dragged under the water by the octopus. Bond closes the file with the verdict 'found drowned'.\n\nIn 'The Living Daylights', M. orders Bond to kill a KGB sniper, codenamed Trigger, who is waiting in East Berlin to shoot agent 272 as he dashes across the Zimmerstrasse on one of three nights. After practising with a Winchester .308 target rifle at Bisley, Bond takes up position in a flat on the Kochstrasse and watches the dark windows of the Haus der Ministerien - and, night after night, a beautiful blonde cellist in a women's orchestra that plays in the building. On the third night, as 272 makes his run, Bond sees the cellist herself behind the Kalashnikov in the window and, at the last instant, moves his aim: he smashes her weapon instead of killing her, and 272 gets across. Bond admits what he did and expects to lose his Double-O number.\n\nIn 'The Property of a Lady', a Fabergé Emerald Sphere arrives in London by registered post from Paris, addressed to Maria Freudenstein, a known KGB agent planted inside the Secret Service to work the Purple Cipher. The jewel, worth 100,000 pounds and more, is her first payment in three years of unpaid treachery, and it is to be sold at Sotheby's as 'the property of a lady'. Bond reasons that the KGB Resident Director in London - the only man who knows about her - will have to attend the sale as underbidder to drive the price up. At the auction, Bond watches the auctioneer's eyes, spots the underbidder's signal - dark glasses on to bid, dark glasses off to drop out - and follows the man, Piotr Malinowski, the Soviet Agricultural Attache, back to the Soviet Embassy. The evidence is enough to have him declared persona non grata.",
   "title_en": "Octopussy and The Living Daylights",
   "title_zh": "八爪女与黎明生死线",
   "vehicles": [
     {
+      "description_en": "In Story 1, Bond arrives at Wavelets by taxi from Kingston at 10.30 in the morning.",
       "name_en": "Taxi from Kingston",
       "name_zh": "金斯敦出租车",
       "note": "第1篇邦德10时30分乘出租车抵达Wavelets"
     },
     {
+      "description_en": "In Story 1, Smythe drove Oberhauser away in his jeep, its number plates covered with cloth, and took a roundabout route back to camp after hiding the gold.",
       "name_en": "MOB Force jeep",
       "name_zh": "MOB Force吉普车",
       "note": "第1篇Smythe驾驶吉普车带走Oberhauser，车牌号码以布遮盖，藏金后沿迂回路线返回营地"
     },
     {
+      "description_en": "Bond's car in Story 2, converted by Mulliner's into a real two-seater with plenty of trunk space and twin exhausts; he drove it hard to London Airport to catch the midnight flight.",
       "name_en": "Bentley Mark IV",
       "name_zh": "宾利Mark IV",
       "note": "第2篇邦德座驾，Mulliner改装为真正双座加大行李厢，双排气管，赴伦敦机场赶午夜航班"
     },
     {
+      "description_en": "In Story 2, Bond's midnight charter flight to Hanover and Berlin.",
       "name_en": "BEA charter flight",
       "name_zh": "英国欧洲航空包机",
       "note": "第2篇邦德午夜乘包机飞往汉诺威与柏林"
     },
     {
+      "description_en": "In Story 2, a khaki Land Rover without military markings from the armourers' section, used to carry the Winchester rifle.",
       "name_en": "Land Rover",
       "name_zh": "路虎越野车",
       "note": "第2篇军械部门卡其色无标志路虎，运送Winchester步枪"
     },
     {
+      "description_en": "In Story 2, a black saloon driven by a corporal from Station WB's transport section, which produced a series of backfires from six to seven each evening to cover the sound of Bond's shot.",
       "name_en": "Opel Kapitan",
       "name_zh": "欧宝Kapitan轿车",
       "note": "第2篇Station WB运输组下士驾驶的黑色轿车，每夜18-19时以排气管回火声掩盖邦德枪声"
     },
     {
+      "description_en": "In Story 2, the armoured car that took Bond and Sender away from the flat after the shooting.",
       "name_en": "Armoured car",
       "name_zh": "装甲车",
       "note": "第2篇行动结束后接邦德与Sender撤离公寓"
     },
     {
+      "description_en": "In Story 2, Bond took the S-Bahn to and from the Wannsee; the flat overlooks the U-Bahn line, whose trains screech round the curve into Zoo Station.",
       "name_en": "S-Bahn and U-Bahn",
       "name_zh": "柏林城铁与地铁",
       "note": "第2篇邦德乘S-Bahn往返万湖，公寓外可闻U-Bahn驶往动物园站的尖啸"
     },
     {
+      "description_en": "In Story 2, Bond expected the KGB to send anonymous black Zik saloons to the building, but none appeared.",
       "name_en": "Zik saloon",
       "name_zh": "吉尔牌轿车",
       "note": "第2篇邦德预期KGB会派黑色Zik轿车接送人员，实际未出现"
     },
     {
+      "description_en": "In Story 3, a taxi driven by an MI5 driver, in which Bond followed Malinowski to the Soviet Embassy.",
       "name_en": "London taxi",
       "name_zh": "伦敦出租车",
       "note": "第3篇邦德乘MI5司机驾驶的出租车尾随Malinowski至苏联大使馆"

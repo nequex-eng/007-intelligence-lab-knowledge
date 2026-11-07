@@ -16,96 +16,112 @@
     "method": "按章节sed分段读"
   },
   "story_timeline": "故事主线为10月13日(星期五)傍晚至次日10月14日中午，地点为美国纽约州阿迪朗达克山区梦松汽车旅馆。薇薇安·米歇尔于9月1日离开伦敦，9月1日飞抵蒙特利尔，9月15日离开魁北克南下，约两周后到达乔治湖，10月13日独自留守旅馆当夜遭遇两名打手，邦德于当夜约11点后到达，次日清晨离去，中午薇薇安骑车离开。第一部为薇薇安自述生平(约五年前夏天至当年8月底)，第二部为打手到访与施暴，第三部为邦德登场、纵火夜战与次日警方收尾。故事内年份原文未明示，1962年为出版年，时间线按出版年标注。",
+  "synopsis_en": "Told entirely in the first person by Vivienne Michel, a 23-year-old French-Canadian, the novel opens on Friday 13 October as she minds the Dreamy Pines Motor Court alone in the Adirondacks while a storm closes in. The first part of her story looks back over the five years since she left Quebec: a summer romance in Windsor with Derek Mallaby that ends in a cold letter of rejection, and two years in London as Kurt Rainer's lover and employee that end in pregnancy, dismissal, and an abortion in Zurich. Fleeing England, she rides her Vespa south through Canada into the United States and takes a receptionist's job at the lakeside motel. On her last night alone, two of the owner's hoodlums, Sol Horowitz and Sluggsy Morant, arrive claiming to be from the insurance company; they beat her, and plan to burn the motel down for the insurance with her inside. James Bond, driving south after a Toronto assignment, reaches the motel with a punctured tyre in Chapter Ten and spends the night fighting the two men: the motel burns, Horowitz drowns when their car plunges into the lake, and Sluggsy, who escapes from an air pocket in the sunken car, is shot dead when he returns to kill them. By noon the next day Bond has gone, the police have taken over, and Vivienne rides on alone, carrying his letter and his memory.",
   "chapters": [
     {
       "no": "One",
       "title": "Scaredy Cat",
       "start_line": 10,
-      "summary": "薇薇安·米歇尔独自留守梦松汽车旅馆，10月13日星期五傍晚，暴风雨将至。经理夫妇菲希一家当早已离开，她误触霓虹灯开关被电击晕。交代旅馆位置(乔治湖以西10英里)、规模(40间客房)与经营困境。"
+      "summary": "薇薇安·米歇尔独自留守梦松汽车旅馆，10月13日星期五傍晚，暴风雨将至。经理夫妇菲希一家当早已离开，她误触霓虹灯开关被电击晕。交代旅馆位置(乔治湖以西10英里)、规模(40间客房)与经营困境。",
+      "summary_en": "Vivienne Michel, alone in charge of the Dreamy Pines Motor Court on Friday 13 October, is knocked unconscious by an electric shock when she throws the neon VACANCY switch during a lightning flash. The chapter sets the scene: a forty-cabin motel ten miles west of Lake George, its owners struggling, and the Phanceys, the managers, gone that morning leaving her alone until the owner comes for the keys at noon the next day."
     },
     {
       "no": "Two",
       "title": "Dear Dead Days",
       "start_line": 26,
-      "summary": "薇薇安醒后自述身世：23岁，法裔加拿大人，生于魁北克圣家族，8岁时父母死于蒙特利尔空难，由姨妈弗洛伦斯·图桑抚养，乌尔苏拉修道院读到15岁，16岁赴英进阿斯托学校，结识苏珊·达夫，17岁半在派对上认识德里克·马拉比。"
+      "summary": "薇薇安醒后自述身世：23岁，法裔加拿大人，生于魁北克圣家族，8岁时父母死于蒙特利尔空难，由姨妈弗洛伦斯·图桑抚养，乌尔苏拉修道院读到15岁，16岁赴英进阿斯托学校，结识苏珊·达夫，17岁半在派对上认识德里克·马拉比。",
+      "summary_en": "Recovering, Vivienne tells her own story: born in Sainte Famille on the Ile d'Orleans, Quebec, orphaned at eight when her parents were killed in a wartime air crash over Montreal, and raised by her aunt Florence Toussaint. Educated at the Ursuline Convent until fifteen, she went to a finishing school in England, Astor House, at sixteen, where she met Susan Duff, and at seventeen and a half met Derek Mallaby at a party."
     },
     {
       "no": "Three",
       "title": "Spring's Awakening",
       "start_line": 46,
-      "summary": "与德里克的夏天恋情：泰晤士河泛舟、黑色MG跑车、温莎皇家电影院包厢调情。9月最后一个星期六，经理撞破两人在包厢内企图发生关系，两人报假名脱身；当夜河边树林中薇薇安失身。两周后德里克来信分手，称已半订婚、父母反对外国人，附赠12瓶粉红香槟被退回。"
+      "summary": "与德里克的夏天恋情：泰晤士河泛舟、黑色MG跑车、温莎皇家电影院包厢调情。9月最后一个星期六，经理撞破两人在包厢内企图发生关系，两人报假名脱身；当夜河边树林中薇薇安失身。两周后德里克来信分手，称已半订婚、父母反对外国人，附赠12瓶粉红香槟被退回。",
+      "summary_en": "Vivienne recalls her summer romance with Derek Mallaby: drives in his black MG, boating on the Thames, and evenings at the Royal Cinema in Windsor. On the last Saturday in September the cinema manager catches them in the box; they give false names and escape, and that night in the woods by the river she loses her virginity. Two weeks later Derek ends the affair by letter: he is semi-engaged to the girl next door and his parents object to a foreigner. He sends twelve bottles of pink champagne, which she returns."
     },
     {
       "no": "Four",
       "title": "\"Dear Viv\"",
       "start_line": 73,
-      "summary": "德里克分手信全文大意；薇薇安在切尔西号报社工作，编辑伦·霍尔布鲁克提携，升至署名记者、周薪20畿尼；后在慕尼黑巴洛克节新闻发布会上认识西德通讯社V.W.Z.驻伦敦代表库尔特·雷纳。"
+      "summary": "德里克分手信全文大意；薇薇安在切尔西号报社工作，编辑伦·霍尔布鲁克提携，升至署名记者、周薪20畿尼；后在慕尼黑巴洛克节新闻发布会上认识西德通讯社V.W.Z.驻伦敦代表库尔特·雷纳。",
+      "summary_en": "The chapter gives Derek's letter of rejection in full, then follows Vivienne into work at the Chelsea Clarion, where the editor Len Holbrook takes her on and promotes her to a by-lined reporter at twenty guineas a week. At a press conference for the Baroque Festival in Munich she meets Kurt Rainer, the London representative of the West German news agency V.W.Z."
     },
     {
       "no": "Five",
       "title": "A Bird With a Wing Down",
       "start_line": 117,
-      "summary": "库尔特·雷纳30岁，奥格斯堡人，父母为医生、曾被美军从集中营救出。薇薇安入职V.W.Z.周薪30镑，同住一楼。库尔特未婚妻特鲁德移情别恋后两人成为情人；薇薇安怀孕，库尔特冷漠拒绝结婚，以混血为由，解雇她并给120镑遣散费加50镑，安排她去苏黎世堕胎。"
+      "summary": "库尔特·雷纳30岁，奥格斯堡人，父母为医生、曾被美军从集中营救出。薇薇安入职V.W.Z.周薪30镑，同住一楼。库尔特未婚妻特鲁德移情别恋后两人成为情人；薇薇安怀孕，库尔特冷漠拒绝结婚，以混血为由，解雇她并给120镑遣散费加50镑，安排她去苏黎世堕胎。",
+      "summary_en": "Kurt Rainer, thirty, from Augsburg, the son of doctors rescued by the Americans from a concentration camp, takes Vivienne on at the V.W.Z. at thirty pounds a week. After his fiancee Trude leaves him for a Munich doctor at the Tegernsee, Vivienne becomes his lover; when she becomes pregnant he coldly refuses marriage on grounds of mixed blood, dismisses her with a month's salary of 120 pounds plus 50 pounds, and arranges an abortion in Zurich."
     },
     {
       "no": "Six",
       "title": "Go West, Young Woman",
       "start_line": 140,
-      "summary": "苏黎世堕胎经过(朱斯金德医生、布伦瑞克妇科医生)；薇薇安买150cc伟士牌Gran Sport摩托车(190镑)，9月1日飞蒙特利尔，9月15日携1000美元旅行支票南下，沿2号公路与9号公路游历阿迪朗达克约两周，抵达乔治湖后转入梦松汽车旅馆。"
+      "summary": "苏黎世堕胎经过(朱斯金德医生、布伦瑞克妇科医生)；薇薇安买150cc伟士牌Gran Sport摩托车(190镑)，9月1日飞蒙特利尔，9月15日携1000美元旅行支票南下，沿2号公路与9号公路游历阿迪朗达克约两周，抵达乔治湖后转入梦松汽车旅馆。",
+      "summary_en": "Vivienne describes the abortion in Zurich, arranged through Dr. Susskind and a Brunswick gynaecologist, then buys a 150 c.c. Vespa Gran Sport for 190 pounds. On 1 September she flies to Montreal, and on 15 September, with a thousand dollars in traveller's cheques, rides south from Quebec along Routes 2 and 9, touring the Adirondacks for about two weeks until she reaches Lake George and turns off to the Dreamy Pines."
     },
     {
       "no": "Seven",
       "title": "\"Come into My Parlor...\"",
       "start_line": 161,
-      "summary": "两周前薇薇安入住旅馆，被菲希夫妇雇为接待员(周薪30美元包食宿)。交代旅馆业主为特洛伊的桑吉内蒂，汽车旅馆盗窃团伙手法，10月15日为停业日；菲希夫妇10月13日晨离去，留她一人看守，桑吉内蒂定于14日中午来收钥匙。"
+      "summary": "两周前薇薇安入住旅馆，被菲希夫妇雇为接待员(周薪30美元包食宿)。交代旅馆业主为特洛伊的桑吉内蒂，汽车旅馆盗窃团伙手法，10月15日为停业日；菲希夫妇10月13日晨离去，留她一人看守，桑吉内蒂定于14日中午来收钥匙。",
+      "summary_en": "Two weeks earlier Vivienne had taken the receptionist's job at the motel at thirty dollars a week with board, offered by the Phanceys. She explains the motel's owner, Mr. Sanguinetti of Troy, the gangs that steal from motor courts, and the closing date of 15 October; the Phanceys left on the morning of 13 October, leaving her alone in charge, with Sanguinetti due at noon on the 14th to collect the keys."
     },
     {
       "no": "Eight",
       "title": "Dynamite from Nightmare-Land",
       "start_line": 182,
-      "summary": "当晚9点后两名男子冒充桑吉内蒂保险公司的人进门：瘦长灰脸的索尔·霍洛维茨(绰号霍勒)与无毛矮胖青年斯拉格西·莫兰特。斯拉格西开枪打穿咖啡罐示威，两人自称来盘点，薇薇安藏冰锥与餐刀、为两人做炒蛋。"
+      "summary": "当晚9点后两名男子冒充桑吉内蒂保险公司的人进门：瘦长灰脸的索尔·霍洛维茨(绰号霍勒)与无毛矮胖青年斯拉格西·莫兰特。斯拉格西开枪打穿咖啡罐示威，两人自称来盘点，薇薇安藏冰锥与餐刀、为两人做炒蛋。",
+      "summary_en": "After nine o'clock that night two men arrive claiming to be from Mr. Sanguinetti's insurance company: the tall, grey-faced Sol Horowitz, called 'Horror', and the short, hairless young Sluggsy Morant. Sluggsy fires through a coffee tin to prove his marksmanship; the men say they have come to take an inventory, and Vivienne hides an ice-pick in her waistband and a carving knife under a napkin while she cooks them scrambled eggs."
     },
     {
       "no": "Nine",
       "title": "Then I Began to Scream",
       "start_line": 230,
-      "summary": "薇薇安趁机从后门逃入树林，遭枪击追捕，被斯拉格西在树下抓获；回大堂后霍勒毒打她致昏迷，她在自己小屋淋浴间醒来；被迫再做夜宵，遭斯拉格西以短棍威胁并以刀叉还击，正当斯拉格西撕扯她衣服时前门蜂鸣器响起。"
+      "summary": "薇薇安趁机从后门逃入树林，遭枪击追捕，被斯拉格西在树下抓获；回大堂后霍勒毒打她致昏迷，她在自己小屋淋浴间醒来；被迫再做夜宵，遭斯拉格西以短棍威胁并以刀叉还击，正当斯拉格西撕扯她衣服时前门蜂鸣器响起。",
+      "summary_en": "Vivienne slips out of the back door while the men eat and runs for the woods, but Sluggsy shoots at her and catches her under a tree. Back in the lobby Horror beats her unconscious; she wakes in the shower of her own cabin. Forced to cook a second supper, she is threatened with Sluggsy's cosh and fights back with knives and forks, and as Sluggsy tears at her clothes the front-door buzzer sounds."
     },
     {
       "no": "Ten",
       "title": "Whassat?",
       "start_line": 276,
-      "summary": "邦德驾租来的灰色双座雷鸟车因爆胎求宿，薇薇安以手势暗示他进门。邦德自称警察，两名打手谎称是保险评估员、指控薇薇安偷钱并以冰锥伤人。邦德从行李箱取出手枪与弹匣，薇薇安简述遭遇，邦德答应追究两人。"
+      "summary": "邦德驾租来的灰色双座雷鸟车因爆胎求宿，薇薇安以手势暗示他进门。邦德自称警察，两名打手谎称是保险评估员、指控薇薇安偷钱并以冰锥伤人。邦德从行李箱取出手枪与弹匣，薇薇安简述遭遇，邦德答应追究两人。",
+      "summary_en": "James Bond arrives in a hired grey two-seater Thunderbird with a puncture, asking for a room. Vivienne silently signals him to come in. Bond claims to be a policeman; the two men pretend to be insurance assessors and accuse Vivienne of stealing money and wounding Horror with the ice-pick. Bond fetches a pistol and spare magazines from his car, hears Vivienne's story, and promises to deal with the two men."
     },
     {
       "no": "Eleven",
       "title": "Bedtime Story",
       "start_line": 354,
-      "summary": "邦德讲述多伦多任务：苏联叛逃者鲍里斯(克朗施塔特核潜艇高级造船专家)遭克格勃巴黎站买凶，SPECTRE以10万镑接单，前盖世太保霍斯特·乌尔曼出面，雇多伦多机械帮行刺；邦德冒充鲍里斯守株待兔，枪战中击伤乌尔曼，乌尔曼打死一名骑警后被击毙；邦德驾车南下赴华盛顿汇报，服苯丙胺提神，午夜钟声响起。"
+      "summary": "邦德讲述多伦多任务：苏联叛逃者鲍里斯(克朗施塔特核潜艇高级造船专家)遭克格勃巴黎站买凶，SPECTRE以10万镑接单，前盖世太保霍斯特·乌尔曼出面，雇多伦多机械帮行刺；邦德冒充鲍里斯守株待兔，枪战中击伤乌尔曼，乌尔曼打死一名骑警后被击毙；邦德驾车南下赴华盛顿汇报，服苯丙胺提神，午夜钟声响起。",
+      "summary_en": "Bond tells Vivienne about his Toronto assignment: Boris, a senior Soviet naval constructor from Kronstadt who defected, is marked for death by the KGB's Paris station, and SPECTRE has taken the contract for 100,000 pounds. The former Gestapo man Horst Uhlmann is sent to hire the Toronto Mechanics gang; Bond impersonates Boris in his flat, and in the gunfight wounds Uhlmann, who kills a Mountie before Bond kills him. Bond is driving south to report in Washington, keeping himself awake with Benzedrine, as midnight strikes."
     },
     {
       "no": "Twelve",
       "title": "To Sleep—Perchance to Die!",
       "start_line": 382,
-      "summary": "午夜断电改用油灯，邦德给薇薇安一把史密斯-韦斯手枪并教她堵门设防，自己在40号房设假人诱饵。斯拉格西从衣柜后墙洞潜入薇薇安小屋将其打晕；邦德将她拖出着火的小屋，揭示纵火骗保计划：薇薇安原定被烧死、伪装成打翻油灯失火；邦德说出自己的编号007。"
+      "summary": "午夜断电改用油灯，邦德给薇薇安一把史密斯-韦斯手枪并教她堵门设防，自己在40号房设假人诱饵。斯拉格西从衣柜后墙洞潜入薇薇安小屋将其打晕；邦德将她拖出着火的小屋，揭示纵火骗保计划：薇薇安原定被烧死、伪装成打翻油灯失火；邦德说出自己的编号007。",
+      "summary_en": "After midnight the power fails and they use oil lamps; Bond gives Vivienne a Smith & Wesson Police Positive revolver and teaches her to barricade her door, while he rigs a dummy in the bed of Cabin 40 as a decoy. Sluggsy gets into Vivienne's cabin through a hole cut in the wall behind the wardrobe and knocks her out; Bond drags her from the burning cabin and explains the arson-for-insurance plan: she was to be burned alive and the fire blamed on an overturned oil lamp. He tells her his recognition number, 007."
     },
     {
       "no": "Thirteen",
       "title": "The Crash of Guns",
       "start_line": 439,
-      "summary": "两名打手趁火打劫搬电视机，邦德持枪拦截；霍勒劫持薇薇安作盾，邦德击伤其脚，斯拉格西掷电视机砸伤邦德头部后两人逃入1号房；机枪对射，邦德击落斯拉格西的冲锋枪，两人驾车逃跑，邦德击中司机霍勒，黑色轿车冲入湖中沉没；凌晨3点半两人入住3号房。"
+      "summary": "两名打手趁火打劫搬电视机，邦德持枪拦截；霍勒劫持薇薇安作盾，邦德击伤其脚，斯拉格西掷电视机砸伤邦德头部后两人逃入1号房；机枪对射，邦德击落斯拉格西的冲锋枪，两人驾车逃跑，邦德击中司机霍勒，黑色轿车冲入湖中沉没；凌晨3点半两人入住3号房。",
+      "summary_en": "As the motel burns, the two men try to carry off television sets to sell; Bond intercepts them with his gun. Horror seizes Vivienne as a shield and Bond wounds him in the foot; Sluggsy hurls a television set at Bond's head, and the two men barricade themselves in Cabin 1. In an exchange of machine-gun fire Bond knocks Sluggsy's gun out of his hands; the men flee in their car, Bond shoots the driver Horror, and the black sedan runs into the lake and sinks. At half past three they move into Cabin 3."
     },
     {
       "no": "Fourteen",
       "title": "Bimbo",
       "start_line": 497,
-      "summary": "3号房淋浴与同床；薇薇安反思自己对邦德的感情。深夜斯拉格西从沉没汽车的气穴中逃生，砸碎窗玻璃企图行刺，邦德开枪将其击毙于屋后；邦德解释bimbo为黑话妓女，两人相拥入睡。"
+      "summary": "3号房淋浴与同床；薇薇安反思自己对邦德的感情。深夜斯拉格西从沉没汽车的气穴中逃生，砸碎窗玻璃企图行刺，邦德开枪将其击毙于屋后；邦德解释bimbo为黑话妓女，两人相拥入睡。",
+      "summary_en": "In Cabin 3 Vivienne and Bond shower and share a bed, and she reflects on what she feels for him. In the night Sluggsy, who escaped from an air pocket in the sunken car, smashes the window and tries to kill them; Bond shoots him dead behind the cabin. Bond explains that 'bimbo' is gangsters' slang for a whore, and the two fall asleep in each other's arms."
     },
     {
       "no": "Fifteen",
       "title": "The Writing on My Heart",
       "start_line": 554,
-      "summary": "次日清晨邦德已离去，留信：已向格伦斯福尔斯警方报案，桑吉内蒂疑逃往墨西哥，保险公司与通缉悬赏将归薇薇安，联系地址为伦敦国防部。州警莫罗中尉与奥唐纳到场，斯托纳上尉录口供两小时，菲希夫妇被控共谋诈骗，桑吉内蒂面临死罪指控；斯托纳警告邦德与斯拉格西同属冷血杀手世界(鹰与鸽)；中午薇薇安骑车离开。"
+      "summary": "次日清晨邦德已离去，留信：已向格伦斯福尔斯警方报案，桑吉内蒂疑逃往墨西哥，保险公司与通缉悬赏将归薇薇安，联系地址为伦敦国防部。州警莫罗中尉与奥唐纳到场，斯托纳上尉录口供两小时，菲希夫妇被控共谋诈骗，桑吉内蒂面临死罪指控；斯托纳警告邦德与斯拉格西同属冷血杀手世界(鹰与鸽)；中午薇薇安骑车离开。",
+      "summary_en": "In the morning Bond has gone, leaving a letter: he has gone to Glens Falls to report to the police, Sanguinetti is believed to have fled south, probably for Mexico, and the insurance reward will go to Vivienne; she can reach him by letter or cable care of the Ministry of Defence in London. Lieutenant Morrow and O'Donnell of the State Police arrive, Captain Stonor takes her statement for two hours, the Phanceys are charged with conspiracy to defraud and Sanguinetti faces a capital charge; Stonor warns her that Bond and Sluggsy belong to the same cold-blooded world of hawks and doves. At noon Vivienne rides away on her Vespa."
     }
   ],
   "characters": [
@@ -155,7 +171,13 @@
           "type": "挚友",
           "change": "结业学校好友，苏珊结婚后薇薇安搬出合租房"
         }
-      ]
+      ],
+      "role_en": "Principal character (the narrator)",
+      "appearance_en": "Twenty-three years old, five feet six inches tall, with blue eyes, dark brown naturally curly hair, high cheekbones, a rather small nose and a rather large mouth; her skin is tanned from outdoor living, and she no longer wears lipstick or nail polish.",
+      "age_clues_en": "She describes herself as twenty-three; she lost her parents at eight, left the convent at fifteen, went to England at sixteen, and met Derek at seventeen and a half.",
+      "personality_en": "Independent and headstrong, fond of solitude and the outdoor life; she calls herself sentimental and obstinate; after two failed love affairs she resolves never to give again, only to take; in danger she fights back with resourcefulness - hiding the ice-pick, running, signalling for help.",
+      "habits_en": "She smokes Parliament cigarettes, drinks bourbon whisky and listens to the radio; she loves swimming, fishing and camping.",
+      "background_en": "French-Canadian, born at Sainte Famille on the north shore of the Ile d'Orleans, Quebec; her parents died in an air crash over Montreal when she was eight; she was raised by her aunt Florence Toussaint, educated at the Ursuline Convent until fifteen, and finished at Astor House in England; she worked as a journalist on the Chelsea Clarion and at the London office of the V.W.Z.; on 1 September she rode her Vespa south across North America."
     },
     {
       "id": "james-bond",
@@ -195,7 +217,13 @@
           "type": "保护对象与替身",
           "change": "邦德冒充鲍里斯引出刺客，任务完成后鲍里斯获救"
         }
-      ]
+      ],
+      "role_en": "Principal character (first appears in Chapter Ten)",
+      "appearance_en": "About six feet tall, slim and fit, with a tanned, lean face, grey-blue eyes and a white scar down his left cheek; he wears a dark single-breasted suit, a white silk shirt and a black knitted tie, with a dark blue belted raincoat and a soft black hat.",
+      "age_clues_en": "About the same age as Boris; the novel gives no exact age.",
+      "personality_en": "Calm, decisive and a loner; he says he prefers to work alone; he will not execute a prisoner in cold blood; he is gentle and considerate with Vivienne but refuses to become emotionally involved.",
+      "habits_en": "He smokes Senior Service cigarettes and uses a gunmetal Ronson lighter; he takes Benzedrine to stay awake; he sleeps with a gun under his pillow; he is driving south to Washington.",
+      "background_en": "A British government agent, number 007, with the rank of Commander, Royal Navy; he has just completed a mission in Toronto protecting the defector Boris and killing the SPECTRE assassin Uhlmann; he is ordered to drive south to report in Washington on the American end of the Mechanics gang affair."
     },
     {
       "id": "sol-horowitz",
@@ -228,7 +256,13 @@
           "type": "施暴者与受害者",
           "change": "毒打并计划烧死她，最终被邦德击中、驾车坠湖溺亡"
         }
-      ]
+      ],
+      "role_en": "Villain (leader of the two hoodlums)",
+      "appearance_en": "Tall and almost skeletal, with grey, corpse-like skin, black eyes, thin purplish lips, steel-capped front teeth, ears flat against his head and short grey-black hair; he wears a black single-breasted coat, narrow stovepipe trousers, a grey shirt with no tie and pointed grey suede shoes.",
+      "age_clues_en": "The novel gives no age; Bond judges that he has just finished a long prison sentence.",
+      "personality_en": "Cold and pitiless, professional in his work, and cruel to women with a refined restraint; after beating Vivienne he remains expressionless.",
+      "habits_en": "He neither drinks nor smokes; he speaks softly and slowly.",
+      "background_en": "A hoodlum in the pay of Mr. Sanguinetti of Troy, recently out of prison; with Sluggsy Morant he is sent to watch the Dreamy Pines Motor Court and carry out the arson for insurance."
     },
     {
       "id": "sluggsy-morant",
@@ -256,7 +290,13 @@
           "type": "施暴者与受害者",
           "change": "追捕、调戏并企图侵犯她，最终被邦德击毙"
         }
-      ]
+      ],
+      "role_en": "Villain (hoodlum)",
+      "appearance_en": "Short and squat with a round moon face, very pale blue eyes, thick wet lips and extremely white skin, entirely hairless - no eyebrows, eyelashes or hair - from alopecia totalis; he wears a black leather jacket, dirty trousers and Mexican saddle-leather boots.",
+      "age_clues_en": "Described in the novel as a young man, a 'young monster'; no exact age is given.",
+      "personality_en": "Lecherous, cruel and quick-tempered; his appearance has made him hate women, and he takes pride in his marksmanship.",
+      "habits_en": "He suffers from a cold and keeps blowing his nose, chews a wooden toothpick, and carries a short leather cosh.",
+      "background_en": "He served a spell in solitary confinement at San Quentin; a hired enforcer in the Troy district, working for Sanguinetti."
     },
     {
       "id": "jed-phancey",
@@ -289,7 +329,13 @@
           "type": "雇员与业主",
           "change": "同谋纵火骗保"
         }
-      ]
+      ],
+      "role_en": "Minor character (motel manager)",
+      "appearance_en": "About forty-five years old; the novel does not describe his appearance in detail.",
+      "age_clues_en": "About forty-five.",
+      "personality_en": "Lecherous and coarse, using his position to harass Vivienne; on their last day his manner turns brutal and contemptuous.",
+      "habits_en": "He doubles as handyman and short-order cook; before leaving he gropes Vivienne.",
+      "background_en": "Manager of the Dreamy Pines Motor Court, employed by Sanguinetti; with his wife he conspires in the arson for insurance, and is later charged by the police as an accessory to fraud."
     },
     {
       "id": "millicent-phancey",
@@ -317,7 +363,13 @@
           "type": "雇主与雇员",
           "change": "由雇佣转为利用后抛弃"
         }
-      ]
+      ],
+      "role_en": "Minor character (the manager's wife)",
+      "appearance_en": "Iron-grey hair, bitter, mistrustful eyes and a mouth pressed into a grim slit.",
+      "age_clues_en": "The novel gives no age.",
+      "personality_en": "Shrewd and suspicious, motherly on the surface but cold in fact; on the last day she orders Vivienne about like a maid.",
+      "habits_en": "She runs the front desk and teaches Vivienne how to spot the motor-court theft gangs.",
+      "background_en": "The manager's wife at the Dreamy Pines Motor Court; with her husband she conspires in the arson for insurance, and is later charged by the police as an accessory to fraud."
     },
     {
       "id": "sanguinetti",
@@ -343,7 +395,13 @@
           "type": "业主与经理",
           "change": "同谋纵火骗保"
         }
-      ]
+      ],
+      "role_en": "Villain behind the scenes (never appears)",
+      "appearance_en": "He never appears in the novel and his appearance is not described.",
+      "age_clues_en": "Unknown.",
+      "personality_en": "Unknown; the novel only calls him a big shot in Troy.",
+      "habits_en": "Unknown.",
+      "background_en": "A property man in Troy who owns the Dreamy Pines Motor Court and the Trojan Horse roadhouse on Route 9, among other properties; he plans the arson for insurance and flees south after the event - believed to be bound for Mexico - facing a capital charge."
     },
     {
       "id": "derek-mallaby",
@@ -364,7 +422,13 @@
           "type": "初恋情人",
           "change": "由热恋到写信分手，断绝往来"
         }
-      ]
+      ],
+      "role_en": "Minor character (Vivienne's first love)",
+      "appearance_en": "Tall, with dark hair, a good hairline and good hands; nearly eighteen when they meet.",
+      "age_clues_en": "Nearly eighteen when they meet; he plays cricket at school.",
+      "personality_en": "Fickle and light-hearted, cold afterwards, excusing himself with talk of the sporting spirit.",
+      "habits_en": "He drives a black MG sports car and likes the 400 nightclub.",
+      "background_en": "The son of a family near Windsor; after the summer he goes up to Oxford; he is semi-engaged to the girl next door, and his parents object to his going with a foreign girl; after breaking off the affair he sends twelve bottles of pink champagne, which are returned."
     },
     {
       "id": "kurt-rainer",
@@ -390,7 +454,13 @@
           "type": "前未婚妻",
           "change": "特鲁德在泰格恩湖结识慕尼黑医生后解除婚约"
         }
-      ]
+      ],
+      "role_en": "Minor character (Vivienne's second lover)",
+      "appearance_en": "Thirty years old, strongly built and outdoorsy, fair-haired and blue-eyed, looking younger than his age.",
+      "age_clues_en": "Thirty years old.",
+      "personality_en": "Rigid, orderly and scientific, treating sex as a technical exercise; cold and selfish, cutting Vivienne off at once when she becomes pregnant.",
+      "habits_en": "He dislikes jazz, and forbids smoking, drinking and lipstick; his love-making is scheduled for Wednesdays and Saturdays.",
+      "background_en": "First London representative of the West German news agency V.W.Z., from Augsburg; his parents are doctors who were rescued by the Americans from a concentration camp; educated at school and university in Munich, formerly on Die Welt; his fiancee Trude leaves him for a Munich doctor, and he lives with Vivienne for about two years."
     },
     {
       "id": "trude",
@@ -411,7 +481,13 @@
           "type": "前未婚夫妻",
           "change": "解除婚约"
         }
-      ]
+      ],
+      "role_en": "Minor character (appears only in recollection)",
+      "appearance_en": "She wears her hair in plaits and national costume; in photographs her eyes are calm.",
+      "age_clues_en": "Unknown.",
+      "personality_en": "The novel calls her frigid and changeable.",
+      "habits_en": "Unknown.",
+      "background_en": "The daughter of a philosophy professor at Heidelberg, Kurt Rainer's childhood sweetheart and fiancee; she later meets a widowed Munich doctor at the Tegernsee and becomes engaged to him."
     },
     {
       "id": "susan-duff",
@@ -432,7 +508,13 @@
           "type": "挚友与室友",
           "change": "苏珊结婚后两人分开居住"
         }
-      ]
+      ],
+      "role_en": "Minor character (Vivienne's close friend)",
+      "appearance_en": "Not described in the novel.",
+      "age_clues_en": "About the same age as Vivienne.",
+      "personality_en": "She loves outdoor activities.",
+      "habits_en": "Unknown.",
+      "background_en": "A Scottish girl, a fellow pupil at Astor House, who shares a small flat in Old Church Street with Vivienne; she later joins the communications department of the Foreign Office and marries."
     },
     {
       "id": "len-holbrook",
@@ -453,7 +535,13 @@
           "type": "上司与下属",
           "change": "由雇佣转为赏识提拔"
         }
-      ]
+      ],
+      "role_en": "Minor character (Vivienne's employer)",
+      "appearance_en": "Not described in the novel.",
+      "age_clues_en": "Unknown.",
+      "personality_en": "A Welshman, an idealist, formerly a journalist with the Beaverbrook press.",
+      "habits_en": "He teaches Vivienne to write news stories that begin with a person.",
+      "background_en": "Editor and proprietor of the Chelsea Clarion weekly, who takes Vivienne on as editorial assistant and promotes her to a by-lined reporter at twenty guineas a week."
     },
     {
       "id": "florence-toussaint",
@@ -476,7 +564,13 @@
           "type": "姨妈与监护人",
           "change": "由抚养到目送其南下远行"
         }
-      ]
+      ],
+      "role_en": "Minor character (Vivienne's aunt)",
+      "appearance_en": "Not described in the novel.",
+      "age_clues_en": "A widow; the novel gives no age.",
+      "personality_en": "A Protestant, concerned for Vivienne but conservative in outlook.",
+      "habits_en": "Unknown.",
+      "background_en": "She becomes Vivienne's guardian after her parents' death, moves into the old house at Sainte Famille to raise her, and pays for her finishing in England and her coming-out dance; Vivienne visits her in September before riding south."
     },
     {
       "id": "boris",
@@ -497,7 +591,13 @@
           "type": "保护对象与替身",
           "change": "邦德冒充其引出刺客，任务完成后鲍里斯获救"
         }
-      ]
+      ],
+      "role_en": "Minor character (appears only in Bond's account)",
+      "appearance_en": "Superficially like Bond: about the same age, tall, dark-haired and clean-shaven.",
+      "age_clues_en": "About the same age as Bond.",
+      "personality_en": "Unknown.",
+      "habits_en": "Unknown.",
+      "background_en": "A Soviet defector, formerly a senior naval constructor with the Kronstadt nuclear submarine team; he escaped through Finland and Stockholm to Britain and was settled in Toronto; the KGB puts a price on his life and SPECTRE takes the contract for 100,000 pounds."
     },
     {
       "id": "horst-uhlmann",
@@ -518,7 +618,13 @@
           "type": "对手",
           "change": "枪战中被邦德击伤，次日死亡"
         }
-      ]
+      ],
+      "role_en": "Minor character (appears only in Bond's account)",
+      "appearance_en": "Not described in the novel.",
+      "age_clues_en": "Unknown.",
+      "personality_en": "Obstinate; wounded and captured, he refuses to talk.",
+      "habits_en": "Unknown.",
+      "background_en": "A former Gestapo man and a member of SPECTRE, sent to Toronto to hire the murder of Boris for $50,000; in the gunfight Bond wounds him in the left shoulder and right hip, and he dies in hospital the next morning."
     },
     {
       "id": "captain-stonor",
@@ -539,7 +645,13 @@
           "type": "警方与证人",
           "change": "由录口供转为父辈式告诫后放行"
         }
-      ]
+      ],
+      "role_en": "Minor character (police officer in charge)",
+      "appearance_en": "Heavily built, with a kindly face, moving slowly and deliberately, like a detective captain in the films.",
+      "age_clues_en": "Middle-aged or older.",
+      "personality_en": "Kindly but sharp; after taking the case he warns Vivienne in fatherly terms to keep away from the world of killers.",
+      "habits_en": "He takes off his hat while working a case, as a gesture of truce.",
+      "background_en": "Detective captain of the Glens Falls police, in charge of the Dreamy Pines case; he takes Vivienne's statement for two hours, applies for the reward on her behalf, and warns her that Bond and Sluggsy belong to the same cold-blooded world of killers - the hawks and the doves."
     },
     {
       "id": "lieutenant-morrow",
@@ -560,7 +672,13 @@
           "type": "警方与证人",
           "change": "初见即协助，后帮她绑好行李、推出摩托车"
         }
-      ]
+      ],
+      "role_en": "Minor character (State trooper)",
+      "appearance_en": "Young and handsome, in a smart uniform.",
+      "age_clues_en": "Young.",
+      "personality_en": "Polite and curious.",
+      "habits_en": "He patrols by motorcycle and keeps in touch with headquarters by radio.",
+      "background_en": "A lieutenant of the New York State Police, among the first to reach the scene; he brings the coffee and doughnuts Bond ordered for Vivienne's breakfast."
     },
     {
       "id": "odonnell",
@@ -581,7 +699,13 @@
           "type": "同事",
           "change": "无变化"
         }
-      ]
+      ],
+      "role_en": "Minor character (State trooper)",
+      "appearance_en": "Not described in the novel.",
+      "age_clues_en": "Unknown.",
+      "personality_en": "Unknown.",
+      "habits_en": "Unknown.",
+      "background_en": "Lieutenant Morrow's fellow trooper, who examines the scene."
     }
   ],
   "organizations": [
@@ -590,70 +714,80 @@
       "name_en": "Secret Intelligence Service",
       "name_zh": "英国秘密情报机构",
       "role": "邦德所属机构；原文未出现全称，仅称总部与编号007，邦德称其为my outfit",
-      "first_chapter": "Eleven"
+      "first_chapter": "Eleven",
+      "description_en": "Bond's service; the full name Secret Intelligence Service never appears in the novel, only headquarters and the number 007 - Bond calls it 'my outfit'."
     },
     {
       "id": "spectre",
       "name_en": "SPECTRE",
       "name_zh": "幽灵党",
       "role": "独立间谍网络，全称反间谍、恐怖主义、报复与勒索特别机构；以10万镑接受克格勃委托刺杀鲍里斯；首领在霹雳弹行动中逃脱",
-      "first_chapter": "Eleven"
+      "first_chapter": "Eleven",
+      "description_en": "An independent espionage network, the Special Executive for Counter-intelligence, Terrorism, Revenge and Extortion; it takes the KGB's contract to murder Boris for 100,000 pounds; its chief escaped after the stolen-atomic-bombs affair."
     },
     {
       "id": "kgb",
       "name_en": "KGB",
       "name_zh": "克格勃",
       "role": "苏联秘密情报机构；其巴黎站负责人出价买凶刺杀叛逃者鲍里斯",
-      "first_chapter": "Eleven"
+      "first_chapter": "Eleven",
+      "description_en": "The Soviet secret intelligence service; its Paris station chief offers money to have the defector Boris murdered."
     },
     {
       "id": "cia",
       "name_en": "Central Intelligence Agency",
       "name_zh": "中央情报局",
       "role": "邦德嘱薇薇安向警方报出其身份时可联系的美国机构；邦德赴华盛顿即向其对应部门汇报",
-      "first_chapter": "Twelve"
+      "first_chapter": "Twelve",
+      "description_en": "The American agency Bond tells Vivienne the police may telephone to verify who he is; he is driving to Washington to report to the corresponding department."
     },
     {
       "id": "fbi",
       "name_en": "Federal Bureau of Investigation",
       "name_zh": "联邦调查局",
       "role": "莫罗中尉称邦德在联邦调查局有关系，案件因此惊动华盛顿",
-      "first_chapter": "Fifteen"
+      "first_chapter": "Fifteen",
+      "description_en": "Lieutenant Morrow says Bond has friends in the Federal Bureau of Investigation, which is why the case has reached Washington."
     },
     {
       "id": "rcmp",
       "name_en": "Royal Canadian Mounted Police",
       "name_zh": "加拿大皇家骑警",
       "role": "渥太华方面通报乌尔曼行踪；其特别支部与邦德合作，在多伦多鲍里斯公寓设伏，行动中两死一伤",
-      "first_chapter": "Eleven"
+      "first_chapter": "Eleven",
+      "description_en": "Ottawa reports Uhlmann's movements; its Special Branch works with Bond, laying the ambush in Boris's Toronto flat, in which two men are killed and one wounded."
     },
     {
       "id": "metro-accident-and-home",
       "name_en": "Metro Accident and Home",
       "name_zh": "都会事故与家庭保险公司",
       "role": "霍勒谎称的保险公司名；梦松旅馆纵火骗保的目标保险公司，旅馆估值约50万美元",
-      "first_chapter": "Twelve"
+      "first_chapter": "Twelve",
+      "description_en": "The name of the insurance company Horror invents; the real target of the Dreamy Pines arson-for-insurance fraud - the motel is valued at about $500,000."
     },
     {
       "id": "vwz",
       "name_en": "Verband Westdeutscher Zeitungen",
       "name_zh": "西德报纸协会通讯社",
       "role": "西德报业合作社出资的独立通讯社；薇薇安任伦敦办事处二号职员，周薪30镑",
-      "first_chapter": "Four"
+      "first_chapter": "Four",
+      "description_en": "An independent news agency financed by a cooperative of West German newspapers; Vivienne works as number two in its London office at thirty pounds a week."
     },
     {
       "id": "chelsea-clarion",
       "name_en": "Chelsea Clarion",
       "name_zh": "切尔西号",
       "role": "切尔西地方周报；薇薇安任编辑助理后升署名记者，周薪20畿尼",
-      "first_chapter": "Four"
+      "first_chapter": "Four",
+      "description_en": "A Chelsea local weekly; Vivienne works there as editorial assistant and is promoted to by-lined reporter at twenty guineas a week."
     },
     {
       "id": "mechanics-gang",
       "name_en": "The Mechanics",
       "name_zh": "机械帮",
       "role": "多伦多最凶悍的帮派，与芝加哥、底特律帮派有关联；受雇刺杀鲍里斯，枪战中一死两重伤",
-      "first_chapter": "Eleven"
+      "first_chapter": "Eleven",
+      "description_en": "The toughest gang in Toronto, with links to the Chicago and Detroit gangs; hired to murder Boris, they lose one man killed and two badly wounded in the gunfight."
     }
   ],
   "locations": [
@@ -663,7 +797,8 @@
       "name_zh": "梦松汽车旅馆",
       "country": "美国",
       "fictional": true,
-      "role": "故事主场景；乔治湖以西10英里、梦幻水湖南岸的40间客房汽车旅馆，10月13日夜遭纵火烧毁"
+      "role": "故事主场景；乔治湖以西10英里、梦幻水湖南岸的40间客房汽车旅馆，10月13日夜遭纵火烧毁",
+      "description_en": "The main setting: a forty-cabin motor court ten miles west of Lake George, on the southern shore of Dreamy Waters; it is burned down on the night of 13 October."
     },
     {
       "id": "dreamy-waters",
@@ -671,7 +806,8 @@
       "name_zh": "梦幻水湖",
       "country": "美国",
       "fictional": true,
-      "role": "旅馆后的小湖；黑色轿车坠入湖边垂钓池沉没"
+      "role": "旅馆后的小湖；黑色轿车坠入湖边垂钓池沉没",
+      "description_en": "The small lake behind the motel; the black sedan plunges into the fishing pool at its edge and sinks."
     },
     {
       "id": "lake-george",
@@ -679,7 +815,8 @@
       "name_zh": "乔治湖",
       "country": "美国",
       "fictional": false,
-      "role": "阿迪朗达克旅游中心；薇薇安游览后转入旅馆支路；邦德原计划在此过夜"
+      "role": "阿迪朗达克旅游中心；薇薇安游览后转入旅馆支路；邦德原计划在此过夜",
+      "description_en": "The tourist centre of the Adirondacks; Vivienne tours it before turning off to the motel, and Bond had planned to spend the night there."
     },
     {
       "id": "adirondacks",
@@ -687,7 +824,8 @@
       "name_zh": "阿迪朗达克山区",
       "country": "美国",
       "fictional": false,
-      "role": "故事发生地，纽约州北部山林湖区；薇薇安游历约两周"
+      "role": "故事发生地，纽约州北部山林湖区；薇薇安游历约两周",
+      "description_en": "The scene of the story, the mountain, forest and lake country of northern New York State; Vivienne tours it for about two weeks."
     },
     {
       "id": "glens-falls",
@@ -695,7 +833,8 @@
       "name_zh": "格伦斯福尔斯",
       "country": "美国",
       "fictional": false,
-      "role": "邦德次日清晨前往报案的城镇；斯托纳上尉驻地；薇薇安离开时前往方向"
+      "role": "邦德次日清晨前往报案的城镇；斯托纳上尉驻地；薇薇安离开时前往方向",
+      "description_en": "The town Bond rides to in the morning to report to the police; Captain Stonor's headquarters; the direction in which Vivienne leaves."
     },
     {
       "id": "troy",
@@ -703,7 +842,8 @@
       "name_zh": "特洛伊",
       "country": "美国",
       "fictional": false,
-      "role": "桑吉内蒂与两名打手的基地；菲希夫妇10月13日晨前往此地"
+      "role": "桑吉内蒂与两名打手的基地；菲希夫妇10月13日晨前往此地",
+      "description_en": "The base of Sanguinetti and the two hoodlums; the Phanceys drive there on the morning of 13 October."
     },
     {
       "id": "albany",
@@ -711,7 +851,8 @@
       "name_zh": "奥尔巴尼",
       "country": "美国",
       "fictional": false,
-      "role": "纽约州首府，WOKO电台所在地，距旅馆约50英里；邦德谎称在此有重要朋友"
+      "role": "纽约州首府，WOKO电台所在地，距旅馆约50英里；邦德谎称在此有重要朋友",
+      "description_en": "The capital of New York State, home of radio station WOKO, about fifty miles from the motel; Bond falsely claims to have important friends there."
     },
     {
       "id": "sainte-famille",
@@ -719,7 +860,8 @@
       "name_zh": "圣家族，奥尔良岛",
       "country": "加拿大",
       "fictional": false,
-      "role": "薇薇安出生地，魁北克附近圣劳伦斯河中岛屿北岸小镇"
+      "role": "薇薇安出生地，魁北克附近圣劳伦斯河中岛屿北岸小镇",
+      "description_en": "Vivienne's birthplace, a small town on the north shore of the Ile d'Orleans in the St. Lawrence near Quebec."
     },
     {
       "id": "london-chelsea",
@@ -727,7 +869,8 @@
       "name_zh": "伦敦切尔西",
       "country": "英国",
       "fictional": false,
-      "role": "薇薇安在英五年生活地；老教堂街公寓、切尔西号报社、V.W.Z.办事处均在此区"
+      "role": "薇薇安在英五年生活地；老教堂街公寓、切尔西号报社、V.W.Z.办事处均在此区",
+      "description_en": "Where Vivienne spends five years in England; her flat in Old Church Street, the Chelsea Clarion office and the V.W.Z. office are all in this district."
     },
     {
       "id": "windsor",
@@ -735,7 +878,8 @@
       "name_zh": "温莎",
       "country": "英国",
       "fictional": false,
-      "role": "德里克家乡；泰晤士河、皇家电影院包厢事件与河边树林失身均在此地"
+      "role": "德里克家乡；泰晤士河、皇家电影院包厢事件与河边树林失身均在此地",
+      "description_en": "Derek's home town; the Thames, the Royal Cinema box incident and the night in the riverside woods all take place here."
     },
     {
       "id": "toronto",
@@ -743,7 +887,8 @@
       "name_zh": "多伦多",
       "country": "加拿大",
       "fictional": false,
-      "role": "鲍里斯安置地；邦德冒充鲍里斯守株待兔、枪战击毙乌尔曼的地点"
+      "role": "鲍里斯安置地；邦德冒充鲍里斯守株待兔、枪战击毙乌尔曼的地点",
+      "description_en": "Where Boris is settled; Bond impersonates him in his flat and shoots Uhlmann dead in the gunfight there."
     },
     {
       "id": "zurich",
@@ -751,7 +896,8 @@
       "name_zh": "苏黎世",
       "country": "瑞士",
       "fictional": false,
-      "role": "薇薇安堕胎地；朱斯金德医生与布伦瑞克妇科医生经手，费用约100至150镑"
+      "role": "薇薇安堕胎地；朱斯金德医生与布伦瑞克妇科医生经手，费用约100至150镑",
+      "description_en": "Where Vivienne has her abortion, arranged through Dr. Susskind and a Brunswick gynaecologist, at a cost of about 100 to 150 pounds."
     },
     {
       "id": "hamburg",
@@ -759,7 +905,8 @@
       "name_zh": "汉堡",
       "country": "德国",
       "fictional": false,
-      "role": "V.W.Z.总部所在地；库尔特与特鲁德原计划婚后定居地"
+      "role": "V.W.Z.总部所在地；库尔特与特鲁德原计划婚后定居地",
+      "description_en": "Headquarters of the V.W.Z.; the city where Kurt and Trude had planned to settle after their marriage."
     }
   ],
   "equipment": [
@@ -768,120 +915,140 @@
       "name_en": "Smith & Wesson Police Positive",
       "name_zh": "史密斯-韦森警用型左轮手枪",
       "kind": "武器",
-      "note": "邦德交给薇薇安防身的短管左轮，邦德称其为真正的制止者，教她瞄低、直臂、缓扣扳机"
+      "note": "邦德交给薇薇安防身的短管左轮，邦德称其为真正的制止者，教她瞄低、直臂、缓扣扳机",
+      "description_en": "The short-barrelled revolver Bond gives Vivienne for her defence; he calls it a real stopper, and teaches her to aim low, hold her arm straight and squeeze the trigger."
     },
     {
       "id": "bond-automatic",
       "name_en": "Heavy automatic pistol",
       "name_zh": "邦德重型自动手枪",
       "kind": "武器",
-      "note": "邦德腋下枪套所佩自动手枪，夜战主力武器；另有一把备用枪曾压在薇薇安枕下"
+      "note": "邦德腋下枪套所佩自动手枪，夜战主力武器；另有一把备用枪曾压在薇薇安枕下",
+      "description_en": "The heavy automatic pistol Bond carries in a shoulder holster, his main weapon in the night's fighting; he has a second gun, which he leaves under Vivienne's pillow."
     },
     {
       "id": "sluggsy-gun",
       "name_en": "Sluggsy Morant's pistol",
       "name_zh": "斯拉格西的手枪",
       "kind": "武器",
-      "note": "斯拉格西枪法极准，20英尺外连发击中空中咖啡罐；追捕薇薇安时多次开枪"
+      "note": "斯拉格西枪法极准，20英尺外连发击中空中咖啡罐；追捕薇薇安时多次开枪",
+      "description_en": "Sluggsy is an excellent shot: from twenty feet he hits a coffee tin twice in mid-air; he fires at Vivienne repeatedly while chasing her."
     },
     {
       "id": "sub-machine-gun",
       "name_en": "Sub-machine-gun",
       "name_zh": "冲锋枪",
       "kind": "武器",
-      "note": "多伦多枪战与旅馆夜战均出现；斯拉格西的冲锋枪被邦德击中后卡壳、空转扫射"
+      "note": "多伦多枪战与旅馆夜战均出现；斯拉格西的冲锋枪被邦德击中后卡壳、空转扫射",
+      "description_en": "It appears in the Toronto gunfight and in the night fight at the motel; Sluggsy's gun is hit by Bond's fire, jams, and sprays shots into the air."
     },
     {
       "id": "silencer",
       "name_en": "Silencer",
       "name_zh": "消音器",
       "kind": "武器附件",
-      "note": "打手射击邦德40号房假人时使用消音器，发出一连串闷响"
+      "note": "打手射击邦德40号房假人时使用消音器，发出一连串闷响",
+      "description_en": "The hoodlums use a silencer when they shoot at Bond's dummy in Cabin 40, producing a series of muffled thuds."
     },
     {
       "id": "thermite-bombs",
       "name_en": "Thermite bombs",
       "name_zh": "铝热剂燃烧弹",
       "kind": "纵火工具",
-      "note": "打手在每间小屋各放一枚，体积小、无汽油痕迹、不留保险调查线索；另沿有盖通道撒铝热剂粉末引火至大堂"
+      "note": "打手在每间小屋各放一枚，体积小、无汽油痕迹、不留保险调查线索；另沿有盖通道撒铝热剂粉末引火至大堂",
+      "description_en": "The hoodlums place one in each cabin: small, leaving no trace of petrol and no clues for the insurance investigators; they also sprinkle thermite dust along the covered way to carry the fire to the lobby."
     },
     {
       "id": "ice-pick",
       "name_en": "Ice-pick",
       "name_zh": "冰锥",
       "kind": "武器",
-      "note": "薇薇安藏在裤腰内的防身武器，曾划伤霍勒右太阳穴"
+      "note": "薇薇安藏在裤腰内的防身武器，曾划伤霍勒右太阳穴",
+      "description_en": "The weapon Vivienne hides in her waistband for self-defence; she grazes Horror's right temple with it."
     },
     {
       "id": "carving-knife",
       "name_en": "Carving knife",
       "name_zh": "餐刀",
       "kind": "武器",
-      "note": "薇薇安藏在餐巾下的长利餐刀，夜战中挥砍未果后被打落"
+      "note": "薇薇安藏在餐巾下的长利餐刀，夜战中挥砍未果后被打落",
+      "description_en": "The long, sharp carving knife Vivienne hides under a napkin; she slashes with it during the night fight before it is knocked from her hand."
     },
     {
       "id": "benzedrine",
       "name_en": "Benzedrine",
       "name_zh": "苯丙胺",
       "kind": "药品",
-      "note": "邦德服用的白色提神药片，一次两片，可保持整夜清醒"
+      "note": "邦德服用的白色提神药片，一次两片，可保持整夜清醒",
+      "description_en": "The white tablets Bond takes to stay awake, two at a time, enough to keep him up all night."
     },
     {
       "id": "ronson-lighter",
       "name_en": "Ronson lighter",
       "name_zh": "朗森打火机",
       "kind": "日用品",
-      "note": "邦德的枪金属打火机，与其烟盒同款；为薇薇安点烟时两人手相触"
+      "note": "邦德的枪金属打火机，与其烟盒同款；为薇薇安点烟时两人手相触",
+      "description_en": "Bond's gunmetal lighter, matching his cigarette case; when he lights Vivienne's cigarette their hands touch."
     }
   ],
   "vehicles": [
     {
       "name_en": "Vespa 150 Gran Sport",
       "name_zh": "伟士牌150 Gran Sport摩托车",
-      "note": "薇薇安座驾，银色车身，190镑购入，配豹纹座套、白色边袋、风挡与白盔；夜战中邦德将其与行李抢救至树林，未被烧毁"
+      "note": "薇薇安座驾，银色车身，190镑购入，配豹纹座套、白色边袋、风挡与白盔；夜战中邦德将其与行李抢救至树林，未被烧毁",
+      "description_en": "Vivienne's machine, silver, bought for 190 pounds, with a leopard-skin seat cover, white saddlebags, a windscreen and a white helmet; during the fire Bond carries it and her luggage to safety in the trees, so it is not burned."
     },
     {
       "name_en": "Thunderbird two-seater",
       "name_zh": "雷鸟双座敞篷车",
-      "note": "邦德租来的深灰色双座车，奶油色软顶；距旅馆1英里处爆胎，邦德因此求宿"
+      "note": "邦德租来的深灰色双座车，奶油色软顶；距旅馆1英里处爆胎，邦德因此求宿",
+      "description_en": "The dark grey two-seater hired by Bond, with a cream soft top; it gets a puncture a mile from the motel, which is why Bond asks for a room."
     },
     {
       "name_en": "Black sedan",
       "name_zh": "黑色轿车",
-      "note": "两名打手的座驾；夜战后冲入湖中沉没，车内霍勒溺亡，斯拉格西由气穴逃生"
+      "note": "两名打手的座驾；夜战后冲入湖中沉没，车内霍勒溺亡，斯拉格西由气穴逃生",
+      "description_en": "The hoodlums' car; after the night fight it runs into the lake and sinks, Horror drowning inside, while Sluggsy escapes from an air pocket."
     },
     {
       "name_en": "Phanceys' station-wagon",
       "name_zh": "菲希夫妇旅行车",
-      "note": "菲希夫妇10月13日晨驾车离去，装走现金、登记簿与食品库存"
+      "note": "菲希夫妇10月13日晨驾车离去，装走现金、登记簿与食品库存",
+      "description_en": "The car in which the Phanceys drive away on the morning of 13 October, loaded with the cash, the register and the food stocks."
     },
     {
       "name_en": "State trooper motorcycles",
       "name_zh": "州警摩托车",
-      "note": "莫罗中尉与奥唐纳次日清晨骑摩托抵达现场"
+      "note": "莫罗中尉与奥唐纳次日清晨骑摩托抵达现场",
+      "description_en": "The motorcycles on which Lieutenant Morrow and O'Donnell reach the scene the next morning."
     },
     {
       "name_en": "Police cars, ambulance and recovery truck",
       "name_zh": "警车、救护车与拖车",
-      "note": "次日中午斯托纳上尉率车队抵达，拖车将沉没轿车拖出湖面"
+      "note": "次日中午斯托纳上尉率车队抵达，拖车将沉没轿车拖出湖面",
+      "description_en": "The convoy Captain Stonor brings at noon the next day; the recovery truck hauls the sunken sedan out of the lake."
     }
   ],
   "communications": [
     {
       "name": "电话(已断线)",
-      "note": "旅馆电话已被菲希夫妇停机，薇薇安无法求救；多伦多枪战前刺客以查号电话确认鲍里斯在家"
+      "note": "旅馆电话已被菲希夫妇停机，薇薇安无法求救；多伦多枪战前刺客以查号电话确认鲍里斯在家",
+      "description_en": "The motel telephone has been disconnected by the Phanceys, so Vivienne cannot call for help; before the Toronto gunfight the assassins use a directory-enquiry call to confirm that Boris is at home."
     },
     {
       "name": "收音机WOKO",
-      "note": "奥尔巴尼电台，全书多次播报风暴消息与音乐节目，是薇薇安当夜唯一外界联系"
+      "note": "奥尔巴尼电台，全书多次播报风暴消息与音乐节目，是薇薇安当夜唯一外界联系",
+      "description_en": "The Albany station, which broadcasts storm warnings and music programmes through the night; Vivienne's only link with the outside world that evening."
     },
     {
       "name": "电传机Telex",
-      "note": "V.W.Z.伦敦办事处与汉堡总部之间的通讯工具，薇薇安日常操作"
+      "note": "V.W.Z.伦敦办事处与汉堡总部之间的通讯工具，薇薇安日常操作",
+      "description_en": "The means of communication between the V.W.Z. London office and its Hamburg headquarters, which Vivienne operates daily."
     },
     {
       "name": "信件与电报",
-      "note": "德里克分手信、邦德留给薇薇安的信；邦德留联系地址为伦敦国防部，可写信或发电报，不可打电话"
+      "note": "德里克分手信、邦德留给薇薇安的信；邦德留联系地址为伦敦国防部，可写信或发电报，不可打电话",
+      "description_en": "Derek's letter breaking off the affair, and Bond's letter to Vivienne; Bond gives his address as the Ministry of Defence in London, reachable by letter or cable, not by telephone."
     }
   ],
   "mission": {
@@ -895,83 +1062,127 @@
     ],
     "outcome": "乌尔曼被邦德击伤后打死一名骑警，随即被邦德击毙于门后，次日清晨死于医院；机械帮一死两重伤；英方两死一伤；鲍里斯获救；邦德驾车南下途中偶遇梦松旅馆事件"
   },
+  "mission_en": {
+    "objective_en": "To protect the Soviet defector Boris from assassination and to catch the SPECTRE assassin Horst Uhlmann; afterwards Bond is ordered to drive south and report in Washington on the American end of the Mechanics gang affair.",
+    "investigation_en": "The Mounties in Ottawa report that the former Gestapo man Uhlmann has appeared in Toronto, offering $50,000 for the murder; a British agent inside the Mechanics gang learns the attack is set for before midnight on the previous Thursday; Bond impersonates Boris in his flat, with Mounties watching from across the street, and the gunfight breaks out when the assassins force the door.",
+    "key_clues_en": [
+      "Uhlmann approaches the Toronto underworld and offers $50,000 for the job",
+      "The Mechanics plan to storm Boris's flat before midnight on the previous Thursday",
+      "Before the attack the assassins telephone directory enquiries to confirm the target is at home",
+      "Bond and Boris look superficially alike, so Bond can impersonate him and draw the killers out"
+    ],
+    "outcome_en": "Uhlmann is wounded by Bond, shoots a Mountie dead, and is then shot by Bond, dying in hospital the next morning; the Mechanics lose one man killed and two badly wounded; the defenders lose two killed and one wounded; Boris is saved; on his drive south Bond stumbles on the Dreamy Pines affair."
+  },
   "events": [
     {
       "id": "storm-knockout",
       "chapter": "One",
       "title": "暴风雨中触电晕倒",
       "cause": "薇薇安误将霓虹灯开关拨至空房状态时恰逢闪电",
-      "effect": "她晕倒约十分钟，头部撞出肿包，由此发现空房灯成为打手到访的诱因"
+      "effect": "她晕倒约十分钟，头部撞出肿包，由此发现空房灯成为打手到访的诱因",
+      "title_en": "Knocked out by the storm",
+      "cause_en": "Vivienne throws the neon VACANCY switch to the vacant position just as lightning strikes",
+      "effect_en": "She is unconscious for about ten minutes and bangs her head; the lighted VACANCY sign later draws the two hoodlums to the motel."
     },
     {
       "id": "derek-breakup",
       "chapter": "Three",
       "title": "德里克分手",
       "cause": "德里克父母反对外国姑娘，且他早已与邻家女儿半订婚",
-      "effect": "薇薇安失恋半年才恢复，立志靠头脑与毅力在伦敦立足"
+      "effect": "薇薇安失恋半年才恢复，立志靠头脑与毅力在伦敦立足",
+      "title_en": "Derek breaks off the affair",
+      "cause_en": "Derek's parents object to a foreign girl, and he is already semi-engaged to the girl next door",
+      "effect_en": "It takes Vivienne six months to recover; she resolves to make her way in London by her brains and determination."
     },
     {
       "id": "kurt-abandonment",
       "chapter": "Five",
       "title": "库尔特抛弃怀孕的薇薇安",
       "cause": "薇薇安怀孕，库尔特以混血观念为由拒绝结婚",
-      "effect": "薇薇安被解雇并赴苏黎世堕胎，决心离开启程南下北美"
+      "effect": "薇薇安被解雇并赴苏黎世堕胎，决心离开启程南下北美",
+      "title_en": "Kurt abandons the pregnant Vivienne",
+      "cause_en": "Vivienne is pregnant, and Kurt refuses to marry her on grounds of mixed blood",
+      "effect_en": "Vivienne is dismissed and goes to Zurich for an abortion, resolving to leave and travel south through North America."
     },
     {
       "id": "toronto-shootout",
       "chapter": "Eleven",
       "title": "多伦多枪战",
       "cause": "SPECTRE受克格勃委托刺杀鲍里斯，邦德冒充目标守株待兔",
-      "effect": "乌尔曼被击毙，一名骑警牺牲，鲍里斯获救，邦德南下赴华盛顿"
+      "effect": "乌尔曼被击毙，一名骑警牺牲，鲍里斯获救，邦德南下赴华盛顿",
+      "title_en": "The Toronto gunfight",
+      "cause_en": "SPECTRE takes the KGB's contract to murder Boris, and Bond impersonates the target to draw the killers out",
+      "effect_en": "Uhlmann is killed, a Mountie dies, Boris is saved, and Bond drives south to Washington."
     },
     {
       "id": "hoodlums-arrive",
       "chapter": "Eight",
       "title": "两名打手到访",
       "cause": "空房灯亮着，两人冒充保险公司人员进门",
-      "effect": "薇薇安被困旅馆，遭威胁与监视"
+      "effect": "薇薇安被困旅馆，遭威胁与监视",
+      "title_en": "The two hoodlums arrive",
+      "cause_en": "The VACANCY sign is lit, and the two men present themselves as men from the insurance company",
+      "effect_en": "Vivienne is trapped in the motel, threatened and watched."
     },
     {
       "id": "escape-attempt",
       "chapter": "Nine",
       "title": "薇薇安逃入树林被抓回",
       "cause": "趁打手吃饭时从未锁的后门逃跑",
-      "effect": "遭枪击追捕后被抓回，霍勒毒打她致昏迷"
+      "effect": "遭枪击追捕后被抓回，霍勒毒打她致昏迷",
+      "title_en": "Vivienne runs to the woods and is caught",
+      "cause_en": "While the men eat she slips out of the unlocked back door",
+      "effect_en": "She is chased with gunfire and caught by Sluggsy; Horror beats her unconscious."
     },
     {
       "id": "bond-arrival",
       "chapter": "Ten",
       "title": "邦德到访",
       "cause": "租车爆胎，见空房灯求宿",
-      "effect": "薇薇安以手势暗示邦德进门，打手暂缓动手，邦德获知内情"
+      "effect": "薇薇安以手势暗示邦德进门，打手暂缓动手，邦德获知内情",
+      "title_en": "Bond arrives",
+      "cause_en": "His hired car gets a puncture, and he sees the lighted VACANCY sign and asks for a room",
+      "effect_en": "Vivienne silently signals Bond to come in; the men hold off for the moment, and Bond learns what is happening."
     },
     {
       "id": "arson",
       "chapter": "Twelve",
       "title": "旅馆纵火",
       "cause": "桑吉内蒂策划骗保，打手以铝热剂逐屋纵火，计划将薇薇安烧死伪装成打翻油灯失火",
-      "effect": "邦德救出薇薇安，旅馆大部烧毁，邦德识破骗保计划"
+      "effect": "邦德救出薇薇安，旅馆大部烧毁，邦德识破骗保计划",
+      "title_en": "The motel is set on fire",
+      "cause_en": "Sanguinetti's insurance fraud: the men set fire cabin by cabin with thermite, planning to burn Vivienne alive and blame an overturned oil lamp",
+      "effect_en": "Bond rescues Vivienne, most of the motel burns down, and Bond sees through the insurance fraud."
     },
     {
       "id": "night-battle",
       "chapter": "Thirteen",
       "title": "午夜枪战与沉车",
       "cause": "打手搬电视机销赃时被邦德拦截，双方开火",
-      "effect": "霍勒被击中后驾车坠湖溺亡，斯拉格西一度逃脱"
+      "effect": "霍勒被击中后驾车坠湖溺亡，斯拉格西一度逃脱",
+      "title_en": "The midnight gunfight and the car in the lake",
+      "cause_en": "Bond intercepts the men as they carry off television sets to sell, and both sides open fire",
+      "effect_en": "Horror is shot and drives the car into the lake, where he drowns; Sluggsy escapes for the moment."
     },
     {
       "id": "sluggsy-returns",
       "chapter": "Fourteen",
       "title": "斯拉格西夜袭3号房",
       "cause": "斯拉格西由沉车气穴逃生，潜回行刺",
-      "effect": "邦德开枪将其击毙于窗外，两人相拥入睡"
+      "effect": "邦德开枪将其击毙于窗外，两人相拥入睡",
+      "title_en": "Sluggsy attacks Cabin 3 at night",
+      "cause_en": "Sluggsy escapes from an air pocket in the sunken car and comes back to kill them",
+      "effect_en": "Bond shoots him dead outside the window; the two fall asleep in each other's arms."
     },
     {
       "id": "police-arrival",
       "chapter": "Fifteen",
       "title": "警方接手与薇薇安离开",
       "cause": "邦德清晨赴格伦斯福尔斯报案并通知华盛顿",
-      "effect": "菲希夫妇被控共谋诈骗，桑吉内蒂在逃面临死罪指控，薇薇安中午骑车离开"
+      "effect": "菲希夫妇被控共谋诈骗，桑吉内蒂在逃面临死罪指控，薇薇安中午骑车离开",
+      "title_en": "The police take over and Vivienne leaves",
+      "cause_en": "Bond reports to the police in Glens Falls in the morning and notifies Washington",
+      "effect_en": "The Phanceys are charged with conspiracy to defraud, Sanguinetti is on the run facing a capital charge, and Vivienne rides away at noon."
     }
   ],
   "facts": [
@@ -984,7 +1195,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "I WAS running away.",
-      "quote_source": "第One章"
+      "quote_source": "第One章",
+      "fact_en": "Vivienne Michel is twenty-three years old and is left alone in charge of the Dreamy Pines Motor Court on Friday 13 October."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -995,7 +1207,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "ten miles west of Lake George",
-      "quote_source": "第One章"
+      "quote_source": "第One章",
+      "fact_en": "The Dreamy Pines Motor Court stands ten miles west of Lake George, on the southern shore of Dreamy Waters, and has forty cabins."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1006,7 +1219,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Happy dreams tonight.",
-      "quote_source": "第One章"
+      "quote_source": "第One章",
+      "fact_en": "The Phanceys drive away at six o'clock on the morning of 13 October, leaving Vivienne alone to mind the motel."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1017,7 +1231,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "I am French-Canadian. I was born just outside Quebec",
-      "quote_source": "第Two章"
+      "quote_source": "第Two章",
+      "fact_en": "Vivienne is French-Canadian, born at Sainte Famille on the north shore of the Ile d'Orleans, Quebec."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1028,7 +1243,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "when I was eight they were both killed in a wartime air crash",
-      "quote_source": "第Two章"
+      "quote_source": "第Two章",
+      "fact_en": "Vivienne's parents were both killed in a wartime air crash on their way to Montreal when she was eight, and she was then raised by her aunt Florence Toussaint."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1039,7 +1255,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "I was educated in the Ursuline Convent until I was fifteen",
-      "quote_source": "第Two章"
+      "quote_source": "第Two章",
+      "fact_en": "Vivienne was educated at the Ursuline Convent until she was fifteen, and at sixteen she went to England to finish at Astor House."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1050,7 +1267,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "His name was Derek Mallaby",
-      "quote_source": "第Two章"
+      "quote_source": "第Two章",
+      "fact_en": "Vivienne meets Derek Mallaby at a party of her own when she is seventeen and a half."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1061,7 +1279,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "second-hand MG his parents were going to give him",
-      "quote_source": "第Three章"
+      "quote_source": "第Three章",
+      "fact_en": "Derek drives a black MG sports car, with red leather upholstery and red wire wheels, fitted out with racing accessories."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1072,7 +1291,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "What the hell do you think you're doing in my cinema?",
-      "quote_source": "第Three章"
+      "quote_source": "第Three章",
+      "fact_en": "On the last Saturday in September, Derek and Vivienne are caught by the manager in a box at the Royal Cinema in Windsor as they are about to make love; they give false names and get away."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1083,7 +1303,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "So that was it! The great moment.",
-      "quote_source": "第Four章"
+      "quote_source": "第Four章",
+      "fact_en": "That night, in the woods by the river at Windsor, Derek and Vivienne make love, and Vivienne loses her virginity."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1094,7 +1315,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "we're sort of semi-engaged",
-      "quote_source": "第Four章"
+      "quote_source": "第Four章",
+      "fact_en": "Two weeks later Derek writes to break off the affair, saying he is semi-engaged to the girl next door and his parents object to his going with a foreign girl."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1105,7 +1327,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Vivienne Michel became a public person",
-      "quote_source": "第Four章"
+      "quote_source": "第Four章",
+      "fact_en": "Vivienne works as editorial assistant on the Chelsea Clarion weekly and is promoted to a by-lined reporter at twenty guineas a week."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1116,7 +1339,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Kurt Rainer of the V.W.Z.",
-      "quote_source": "第Four章"
+      "quote_source": "第Four章",
+      "fact_en": "Kurt Rainer is the first London representative of the West German news agency V.W.Z., thirty years old and from Augsburg."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1127,7 +1351,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "She had met another man, at the Tegernsee of course",
-      "quote_source": "第Five章"
+      "quote_source": "第Five章",
+      "fact_en": "Kurt's fiancee Trude meets a Munich doctor at the Tegernsee and breaks off their engagement."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1138,7 +1363,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "one month's salary in lieu of notice. That was one hundred and twenty pounds",
-      "quote_source": "第Five章"
+      "quote_source": "第Five章",
+      "fact_en": "When Vivienne becomes pregnant, Kurt refuses to marry her on grounds of mixed blood, dismisses her, and gives her 120 pounds severance pay plus 50 pounds for her fare."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1149,7 +1375,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "The business of my abortion, not to mince words",
-      "quote_source": "第Six章"
+      "quote_source": "第Six章",
+      "fact_en": "Vivienne has an abortion in Zurich, arranged through Dr. Susskind and a Brunswick gynaecologist."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1160,7 +1387,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "the sturdier, faster 150-c.c. Gran Sport",
-      "quote_source": "第Six章"
+      "quote_source": "第Six章",
+      "fact_en": "Vivienne buys a 150 c.c. Vespa Gran Sport scooter for 190 pounds."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1171,7 +1399,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "I drew a thousand dollars in American Express travelers' checks",
-      "quote_source": "第Six章"
+      "quote_source": "第Six章",
+      "fact_en": "Vivienne flies to Montreal on 1 September and rides south from Quebec on 15 September with a thousand dollars in traveller's cheques."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1182,7 +1411,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "He lived in Troy. A Mr. Sanguinetti.",
-      "quote_source": "第Seven章"
+      "quote_source": "第Seven章",
+      "fact_en": "The owner of the Dreamy Pines Motor Court is Mr. Sanguinetti of Troy, who also owns riverfront property and the Trojan Horse roadhouse."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1193,7 +1423,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "full board and thirty dollars a week",
-      "quote_source": "第Seven章"
+      "quote_source": "第Seven章",
+      "fact_en": "Vivienne is taken on as the motel receptionist at thirty dollars a week with board, for the last two weeks of the season."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1204,7 +1435,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "ten dollars single and sixteen double",
-      "quote_source": "第One章"
+      "quote_source": "第One章",
+      "fact_en": "A single room at the motel costs ten dollars and a double sixteen; the season runs from 1 July to the beginning of October."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1215,7 +1447,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "We're from Mr. Sanguinetti. From his insurance company.",
-      "quote_source": "第Eight章"
+      "quote_source": "第Eight章",
+      "fact_en": "Sol Horowitz and Sluggsy Morant, pretending to be men from Mr. Sanguinetti's insurance company, reach the motel after nine o'clock that night."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1226,7 +1459,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "How's them for credentials, baby?",
-      "quote_source": "第Eight章"
+      "quote_source": "第Eight章",
+      "fact_en": "Sluggsy fires through a coffee tin to show off his marksmanship, offering it as his credentials."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1237,7 +1471,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Alopecia totalis. That means no hair, see?",
-      "quote_source": "第Eight章"
+      "quote_source": "第Eight章",
+      "fact_en": "Sluggsy suffers from alopecia totalis, a condition that leaves him entirely hairless, and has served a spell in solitary confinement at San Quentin."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1248,7 +1483,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Me, I'm Sol Horowitz. They call me 'Horror.'",
-      "quote_source": "第Eight章"
+      "quote_source": "第Eight章",
+      "fact_en": "The tall, thin hoodlum's real name is Sol Horowitz, and he is nicknamed 'Horror'."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1259,7 +1495,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Hold it, or you're cold turkey!",
-      "quote_source": "第Nine章"
+      "quote_source": "第Nine章",
+      "fact_en": "While the men eat, Vivienne slips out of the back door and runs for the woods; she is chased with gunfire and caught by Sluggsy."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1270,7 +1507,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "he began to hit me, now with his open hand, now with the fist",
-      "quote_source": "第Nine章"
+      "quote_source": "第Nine章",
+      "fact_en": "Horror beats Vivienne unconscious, and she comes to in the shower of her own cabin."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1281,7 +1519,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "I've got a puncture",
-      "quote_source": "第Ten章"
+      "quote_source": "第Ten章",
+      "fact_en": "Bond arrives at the motel in a hired grey two-seater Thunderbird with a puncture, shortly before eleven o'clock that night."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1292,7 +1531,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Not quite. But I'm in that sort of business.",
-      "quote_source": "第Ten章"
+      "quote_source": "第Ten章",
+      "fact_en": "Bond calls himself a policeman; in fact he is a British government agent, and says his work is much the same sort of business."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1303,7 +1543,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Better have plenty of artillery",
-      "quote_source": "第Ten章"
+      "quote_source": "第Ten章",
+      "fact_en": "Bond takes a pistol and spare magazines from his luggage and carries them on his person."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1314,7 +1555,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "a top naval constructor in Kronstadt",
-      "quote_source": "第Eleven章"
+      "quote_source": "第Eleven章",
+      "fact_en": "Boris was a senior naval constructor with the Kronstadt nuclear submarine team, and after defecting he was settled in Toronto."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1325,7 +1567,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "they'd do the job for one hundred thousand pounds",
-      "quote_source": "第Eleven章"
+      "quote_source": "第Eleven章",
+      "fact_en": "SPECTRE accepts the KGB's contract to murder Boris for 100,000 pounds."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1336,7 +1579,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "prepared to pay fifty thousand dollars for the job",
-      "quote_source": "第Eleven章"
+      "quote_source": "第Eleven章",
+      "fact_en": "The former Gestapo man Uhlmann offers $50,000 in Toronto to have Boris murdered."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1347,7 +1591,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "I shot at his gun and blasted it out of his hands",
-      "quote_source": "第Eleven章"
+      "quote_source": "第Eleven章",
+      "fact_en": "Bond impersonates Boris in his flat, and in the gunfight shoots Uhlmann's sub-machine-gun out of his hands and wounds him in the left shoulder and right hip."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1358,7 +1603,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "he died the next morning",
-      "quote_source": "第Eleven章"
+      "quote_source": "第Eleven章",
+      "fact_en": "In the gunfight Uhlmann shoots a Mountie dead and is himself shot by Bond; he dies in hospital the next morning."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1369,7 +1615,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Less than a year ago there was this business of the stolen atomic bombs",
-      "quote_source": "第Eleven章"
+      "quote_source": "第Eleven章",
+      "fact_en": "The affair of the stolen atomic bombs took place less than a year before, and the head of SPECTRE escaped."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1380,7 +1627,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "this is a Smith and Wesson Police Positive. A real stopper.",
-      "quote_source": "第Twelve章"
+      "quote_source": "第Twelve章",
+      "fact_en": "Bond gives Vivienne a Smith & Wesson Police Positive revolver for her defence and teaches her to barricade her door."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1391,7 +1639,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "I rigged up a dummy in my bed",
-      "quote_source": "第Twelve章"
+      "quote_source": "第Twelve章",
+      "fact_en": "Bond rigs a dummy in the bed of Cabin 40, using pine needles for hair and hanging a shirt over a chair-back."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1402,7 +1651,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "You had gone to sleep with the light on and somehow upset it",
-      "quote_source": "第Twelve章"
+      "quote_source": "第Twelve章",
+      "fact_en": "The arson-for-insurance plan is to burn Vivienne alive and make it look as if she had knocked over an oil lamp in her sleep; the motel is valued at about $500,000."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1413,7 +1663,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "I've got a number in my outfit—sort of recognition number. It's 007.",
-      "quote_source": "第Twelve章"
+      "quote_source": "第Twelve章",
+      "fact_en": "Bond tells Vivienne his recognition number in his outfit: 007."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1424,7 +1675,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "I ought to have been able to blast that man's foot off",
-      "quote_source": "第Thirteen章"
+      "quote_source": "第Thirteen章",
+      "fact_en": "In the confrontation Bond shoots Horror in the foot, wounding him, though Horror can still move."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1435,7 +1687,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Sluggsy had hurled the television set over his head at James Bond",
-      "quote_source": "第Thirteen章"
+      "quote_source": "第Thirteen章",
+      "fact_en": "Sluggsy hurls a television set at Bond, striking him on the head and injuring him so that he bleeds."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1446,7 +1699,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "it took off over the edge and landed flat on the water",
-      "quote_source": "第Thirteen章"
+      "quote_source": "第Thirteen章",
+      "fact_en": "The black sedan, hit by Bond's fire, runs out of control into the lake and sinks; Horror drowns."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1457,7 +1711,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "there was obviously plenty of air trapped in that corner",
-      "quote_source": "第Fourteen章"
+      "quote_source": "第Fourteen章",
+      "fact_en": "Sluggsy escapes from an air pocket in the rear of the sunken car, returns to Cabin 3, and is shot dead by Bond outside the window."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1468,7 +1723,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "It's gangster language for a whore.",
-      "quote_source": "第Fourteen章"
+      "quote_source": "第Fourteen章",
+      "fact_en": "Bond explains that 'bimbo' is gangsters' slang for a whore."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1479,7 +1735,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "c/o Ministry of Defence, Storey's Gate, London, S.W. 1.",
-      "quote_source": "第Fifteen章"
+      "quote_source": "第Fifteen章",
+      "fact_en": "Bond slips away at about six o'clock in the morning, leaving a letter saying he has gone to Glens Falls to report to the police, and giving his address as the Ministry of Defence in London."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1490,7 +1747,8 @@
       "confidence": "medium",
       "canon_or_inference": "inference",
       "quote": "got on the first plane for the south on his way out to Mexico",
-      "quote_source": "第Fifteen章"
+      "quote_source": "第Fifteen章",
+      "fact_en": "Bond guesses that Sanguinetti, hearing nothing from his two men, fled south and caught the first plane for Mexico."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1501,7 +1759,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "We've booked those Phanceys on a preliminary charge of conspiracy to defraud",
-      "quote_source": "第Fifteen章"
+      "quote_source": "第Fifteen章",
+      "fact_en": "The Phanceys are charged by the police with conspiracy to defraud on a preliminary charge, and Sanguinetti is on the run, facing a capital charge."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1512,7 +1771,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "It was twelve noon by the time I got away",
-      "quote_source": "第Fifteen章"
+      "quote_source": "第Fifteen章",
+      "fact_en": "Vivienne rides away from the Dreamy Pines Motor Court on her Vespa at twelve noon on 14 October."
     },
     {
       "source_novel": "spy-who-loved-me",
@@ -1523,48 +1783,67 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "your English friend, Commander Bond",
-      "quote_source": "第Fifteen章"
+      "quote_source": "第Fifteen章",
+      "fact_en": "Captain Stonor calls Bond a Commander - Commander Bond, Royal Navy."
     }
   ],
   "canon_vs_inference": [
     {
       "topic": "故事内年份",
       "status": "inference",
-      "note": "原文从未写明故事发生的年份，1962年为出版年；时间线按出版年标注年份，月份与日期(9月1日、9月15日、10月13日至14日)为原文明确给出"
+      "note": "原文从未写明故事发生的年份，1962年为出版年；时间线按出版年标注年份，月份与日期(9月1日、9月15日、10月13日至14日)为原文明确给出",
+      "topic_en": "The year of the story",
+      "note_en": "The novel never states the year of the story; 1962 is the year of publication, and the timeline is dated by it, while the months and dates (1 September, 15 September, 13-14 October) are given explicitly in the text."
     },
     {
       "topic": "邦德所属机构全称",
       "status": "inference",
-      "note": "原文未出现Secret Intelligence Service全称，仅称总部、my outfit与编号007；机构名按系列惯例标注，原文依据仅为邦德自述为英国政府特工"
+      "note": "原文未出现Secret Intelligence Service全称，仅称总部、my outfit与编号007；机构名按系列惯例标注，原文依据仅为邦德自述为英国政府特工",
+      "topic_en": "The full name of Bond's service",
+      "note_en": "The full name Secret Intelligence Service never appears in the novel, only headquarters, 'my outfit' and the number 007; the name is given by series convention, the textual evidence being only Bond's description of himself as a British government agent."
     },
     {
       "topic": "梦松汽车旅馆是否真实存在",
       "status": "inference",
-      "note": "原文未说明旅馆虚实，按虚构地点处理；乔治湖、格伦斯福尔斯、特洛伊、奥尔巴尼均为真实地名"
+      "note": "原文未说明旅馆虚实，按虚构地点处理；乔治湖、格伦斯福尔斯、特洛伊、奥尔巴尼均为真实地名",
+      "topic_en": "Whether the Dreamy Pines Motor Court really exists",
+      "note_en": "The novel never says whether the motel is real or invented, so it is treated as fictional; Lake George, Glens Falls, Troy and Albany are all real places."
     },
     {
       "topic": "霍勒刚服完长期徒刑",
       "status": "inference",
-      "note": "原文为邦德的判断：瘦子刚服完长期徒刑，否则他愿吃掉帽子；非叙述者证实的事实"
+      "note": "原文为邦德的判断：瘦子刚服完长期徒刑，否则他愿吃掉帽子；非叙述者证实的事实",
+      "topic_en": "Horror has just finished a long prison sentence",
+      "note_en": "This is Bond's judgement - the thin man has just finished a long sentence, or Bond will eat his hat - not a fact confirmed by the narrator."
     },
     {
       "topic": "桑吉内蒂逃往墨西哥",
       "status": "inference",
-      "note": "邦德信中明确称此为自己的猜测，警方随后证实其在逃，但目的地墨西哥未经证实"
+      "note": "邦德信中明确称此为自己的猜测，警方随后证实其在逃，但目的地墨西哥未经证实",
+      "topic_en": "Sanguinetti fled to Mexico",
+      "note_en": "Bond's letter states this explicitly as his own guess; the police later confirm that Sanguinetti is on the run, but Mexico as his destination is unconfirmed."
     },
     {
       "topic": "霍勒死于邦德枪击",
       "status": "inference",
-      "note": "邦德称一定打中了司机、其尸体卡住油门；原文确认的事实仅为轿车坠湖、霍勒溺亡，死因细节为邦德推断"
+      "note": "邦德称一定打中了司机、其尸体卡住油门；原文确认的事实仅为轿车坠湖、霍勒溺亡，死因细节为邦德推断",
+      "topic_en": "Horror died of Bond's gunshot",
+      "note_en": "Bond says he must have hit the driver, whose body jammed the accelerator; the facts the novel confirms are only that the car plunged into the lake and Horror drowned, the detail of the cause of death being Bond's inference."
     },
     {
       "topic": "薇薇安生于约1939年、父母死于约1947年",
       "status": "inference",
-      "note": "原文仅给年龄(23岁、8岁丧父母)，年份由1962年倒推得出"
+      "note": "原文仅给年龄(23岁、8岁丧父母)，年份由1962年倒推得出",
+      "topic_en": "Vivienne was born about 1939 and her parents died about 1947",
+      "note_en": "The novel gives only ages (twenty-three, and eight when she lost her parents); the years are worked back from 1962."
     }
   ],
   "adaptation_differences": [
     "本部未核对电影差异；仅确认原著事实：全书无潜艇、无莲花跑车，邦德乘租来的灰色雷鸟双座车因爆胎到访旅馆；反派为策划纵火骗保的地产商桑吉内蒂及其两名打手，非电影中的其他设定",
     "原著为薇薇安·米歇尔第一人称叙述，邦德至第10章才登场；电影版同名影片与原著情节几乎无关，以上差异以原著文本为准"
+  ],
+  "adaptation_differences_en": [
+    "The film differences have not been checked against this novel; the novel's facts are confirmed only: there is no submarine and no Lotus sports car anywhere in the book, and Bond arrives at the motel in a hired grey Thunderbird with a puncture; the villains are the property man Sanguinetti, who plans an arson for insurance, and his two hoodlums - not the figures of any film version.",
+    "The novel is told in the first person by Vivienne Michel, and Bond does not appear until Chapter Ten; the film of the same name has almost nothing to do with the plot of the novel, and the differences above follow the text of the novel."
   ]
 }

@@ -15,7 +15,8 @@
           "sources": [
             "octopussy:第2-2章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Protected person and protector"
         }
       ]
     },
@@ -31,7 +32,8 @@
           "sources": [
             "octopussy:第2-2章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Prey and hunter"
         }
       ]
     },
@@ -47,7 +49,8 @@
           "sources": [
             "on-her-majestys-secret-service:第19-25章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague"
         }
       ]
     },
@@ -63,7 +66,8 @@
           "sources": [
             "goldfinger:第SEVEN-NINE章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Old acquaintance"
         }
       ]
     },
@@ -79,7 +83,8 @@
           "sources": [
             "you-only-live-twice:第12-13章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Helper"
         }
       ]
     },
@@ -95,7 +100,8 @@
           "sources": [
             "dr-no:第IV-XV章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -111,7 +117,8 @@
           "sources": [
             "goldfinger:第SEVENTEEN-TWENTY-ONE章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Collaborator"
         }
       ]
     },
@@ -127,7 +134,8 @@
           "sources": [
             "goldfinger:第ONE-TWENTY-THREE章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Rival"
         },
         {
           "from": "auric-goldfinger",
@@ -138,7 +146,8 @@
             "goldfinger:第TWO-TWENTY-THREE章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Rival"
         }
       ]
     },
@@ -154,7 +163,8 @@
           "sources": [
             "goldfinger:第EIGHT-NINE章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Caddie"
         }
       ]
     },
@@ -170,7 +180,8 @@
           "sources": [
             "goldfinger:第SEVENTEEN-NINETEEN章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Silenced victim"
         }
       ]
     },
@@ -186,7 +197,8 @@
           "sources": [
             "goldfinger:第SEVENTEEN-TWENTY-ONE章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Collaborator"
         }
       ]
     },
@@ -202,7 +214,8 @@
           "sources": [
             "goldfinger:第SEVENTEEN-TWENTY-ONE章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Collaborator"
         }
       ]
     },
@@ -219,7 +232,8 @@
             "goldfinger:第TWO-TWENTY-THREE章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Employer and victim"
         },
         {
           "from": "jill-masterton",
@@ -229,7 +243,8 @@
           "sources": [
             "goldfinger:第FOUR-FOURTEEN章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Employer and victim"
         }
       ]
     },
@@ -245,7 +260,8 @@
           "sources": [
             "goldfinger:第ONE-TWELVE章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Card-playing friend and victim"
         }
       ]
     },
@@ -261,7 +277,8 @@
           "sources": [
             "goldfinger:第SEVENTEEN-TWENTY-ONE章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Collaborator"
         }
       ]
     },
@@ -278,7 +295,8 @@
             "goldfinger:第TWO-TWENTY-THREE章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Master and servant"
         },
         {
           "from": "oddjob",
@@ -288,7 +306,8 @@
           "sources": [
             "goldfinger:第SEVEN-TWENTY-THREE章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Master and servant"
         }
       ]
     },
@@ -305,7 +324,8 @@
             "goldfinger:第SEVENTEEN-TWENTY-THREE章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Collaborator turned ally"
         },
         {
           "from": "auric-goldfinger",
@@ -315,7 +335,8 @@
           "sources": [
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Collaborator"
         }
       ]
     },
@@ -331,7 +352,8 @@
           "sources": [
             "moonraker:第IX-IX章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Murderer and victim"
         }
       ]
     },
@@ -347,7 +369,8 @@
           "sources": [
             "casino-royale:第11-19章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Bodyguard and employer"
         }
       ]
     },
@@ -363,7 +386,8 @@
           "sources": [
             "moonraker:第IV-VII章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Card-playing friend"
         }
       ]
     },
@@ -379,7 +403,8 @@
           "sources": [
             "moonraker:第III-VII章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Club chairman and member"
         }
       ]
     },
@@ -395,7 +420,8 @@
           "sources": [
             "thunderball:第6-6章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Fellow official"
         }
       ]
     },
@@ -411,7 +437,8 @@
           "sources": [
             "from-russia-with-love:第Sixteen-Twenty-Three章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         }
       ]
     },
@@ -427,7 +454,8 @@
           "sources": [
             "from-russia-with-love:第Sixteen-Twenty-Two章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Fellow official"
         }
       ]
     },
@@ -443,7 +471,8 @@
           "sources": [
             "live-and-let-die:第IV-IV章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Collaborator"
         }
       ]
     },
@@ -459,7 +488,8 @@
           "sources": [
             "live-and-let-die:第V-IX章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostility turned friendship"
         }
       ]
     },
@@ -475,7 +505,8 @@
           "sources": [
             "live-and-let-die:第V-IX章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Henchman"
         }
       ]
     },
@@ -491,7 +522,8 @@
           "sources": [
             "thunderball:第5-24章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Rival"
         },
         {
           "from": "bond",
@@ -501,7 +533,8 @@
           "sources": [
             "on-her-majestys-secret-service:第1-27章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Mortal enemy"
         },
         {
           "from": "blofeld",
@@ -512,7 +545,8 @@
             "on-her-majestys-secret-service:第2-27章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Mortal enemy"
         },
         {
           "from": "bond",
@@ -522,7 +556,8 @@
           "sources": [
             "you-only-live-twice:第1-22章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Archenemy"
         },
         {
           "from": "blofeld",
@@ -532,7 +567,8 @@
           "sources": [
             "you-only-live-twice:第7-20章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Archenemy"
         }
       ]
     },
@@ -548,7 +584,8 @@
           "sources": [
             "thunderball:第6-6章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -564,7 +601,8 @@
           "sources": [
             "thunderball:第6-6章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Fellow official"
         }
       ]
     },
@@ -580,7 +618,8 @@
           "sources": [
             "on-her-majestys-secret-service:第2-27章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Archenemy"
         }
       ]
     },
@@ -596,7 +635,8 @@
           "sources": [
             "on-her-majestys-secret-service:第9-26章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         },
         {
           "from": "blofeld",
@@ -607,7 +647,8 @@
             "you-only-live-twice:第7-20章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Husband and wife, and accomplices"
         },
         {
           "from": "irma-bunt",
@@ -618,7 +659,8 @@
             "you-only-live-twice:第7-20章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Husband and wife, and accomplices"
         }
       ]
     },
@@ -635,7 +677,8 @@
             "thunderball:第5-24章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         },
         {
           "from": "largo",
@@ -646,7 +689,8 @@
             "thunderball:第10-23章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -662,7 +706,8 @@
           "sources": [
             "thunderball:第2-8章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         },
         {
           "from": "blofeld",
@@ -672,7 +717,8 @@
           "sources": [
             "thunderball:第5-24章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -688,7 +734,8 @@
           "sources": [
             "thunderball:第6-6章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Fellow official"
         }
       ]
     },
@@ -704,7 +751,8 @@
           "sources": [
             "you-only-live-twice:第1-22章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         },
         {
           "from": "blofeld",
@@ -714,7 +762,8 @@
           "sources": [
             "you-only-live-twice:第7-20章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         }
       ]
     },
@@ -730,7 +779,8 @@
           "sources": [
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Archenemy"
         }
       ]
     },
@@ -746,7 +796,8 @@
           "sources": [
             "live-and-let-die:第II-XXII章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Former owner of the treasure and thief"
         }
       ]
     },
@@ -763,7 +814,8 @@
             "dr-no:第II-XX章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague"
         }
       ]
     },
@@ -779,7 +831,8 @@
           "sources": [
             "spy-who-loved-me:第Ten-Fifteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Protected person and double"
         },
         {
           "from": "boris",
@@ -789,7 +842,8 @@
           "sources": [
             "spy-who-loved-me:第Eleven-Eleven章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Protected person and double"
         }
       ]
     },
@@ -805,7 +859,8 @@
           "sources": [
             "moonraker:第IV-XIX章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Club staff"
         }
       ]
     },
@@ -822,7 +877,8 @@
             "moonraker:第II-IX章",
             "diamonds-are-forever:第3-24章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague"
         },
         {
           "from": "chief-of-staff",
@@ -832,7 +888,8 @@
           "sources": [
             "dr-no:第III-III章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Friend"
         },
         {
           "from": "chief-of-staff",
@@ -842,7 +899,8 @@
           "sources": [
             "you-only-live-twice:第3-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Friend and colleague"
         },
         {
           "from": "chief-of-staff",
@@ -852,7 +910,8 @@
           "sources": [
             "man-with-golden-gun:第2-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Close friend"
         },
         {
           "from": "chief-of-staff",
@@ -862,7 +921,8 @@
           "sources": [
             "octopussy:第2-2章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -878,7 +938,8 @@
           "sources": [
             "man-with-golden-gun:第1-1章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Brainwasher and brainwashed"
         }
       ]
     },
@@ -894,7 +955,8 @@
           "sources": [
             "for-your-eyes-only:第2-2章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Helper"
         }
       ]
     },
@@ -910,7 +972,8 @@
           "sources": [
             "goldfinger:第SIX-SEVEN章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Intelligence source"
         }
       ]
     },
@@ -926,7 +989,8 @@
           "sources": [
             "casino-royale:第11-19章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Perpetrator and victim"
         }
       ]
     },
@@ -942,7 +1006,8 @@
           "sources": [
             "live-and-let-die:第II-II章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -958,7 +1023,8 @@
           "sources": [
             "diamonds-are-forever:第3-4章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Collaboration"
         }
       ]
     },
@@ -974,7 +1040,8 @@
           "sources": [
             "from-russia-with-love:第Four-Twenty-Eight章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Ally and friend"
         },
         {
           "from": "darko-kerim",
@@ -984,7 +1051,8 @@
           "sources": [
             "from-russia-with-love:第Twelve-Twenty-Three章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Ally and friend"
         }
       ]
     },
@@ -1000,7 +1068,8 @@
           "sources": [
             "live-and-let-die:第I-IV章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Collaborator"
         }
       ]
     },
@@ -1016,7 +1085,8 @@
           "sources": [
             "octopussy:第1-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Investigator and suspect"
         },
         {
           "from": "dexter-smythe",
@@ -1027,7 +1097,8 @@
             "octopussy:第1-1章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Suspect and investigator"
         }
       ]
     },
@@ -1043,7 +1114,8 @@
           "sources": [
             "you-only-live-twice:第1-22章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague and friend"
         }
       ]
     },
@@ -1059,7 +1131,8 @@
           "sources": [
             "casino-royale:第19-19章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Doctor and patient"
         }
       ]
     },
@@ -1075,7 +1148,8 @@
           "sources": [
             "thunderball:第1-24章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Lover and ally"
         },
         {
           "from": "domino",
@@ -1085,7 +1159,8 @@
           "sources": [
             "thunderball:第11-24章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Lover and ally"
         }
       ]
     },
@@ -1101,7 +1176,8 @@
           "sources": [
             "octopussy:第3-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Case provider and case handler"
         }
       ]
     },
@@ -1117,7 +1193,8 @@
           "sources": [
             "dr-no:第II-XX章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         },
         {
           "from": "dr-no",
@@ -1128,7 +1205,8 @@
             "dr-no:第III-XIX章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         }
       ]
     },
@@ -1144,7 +1222,8 @@
           "sources": [
             "on-her-majestys-secret-service:第1-27章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Father-in-law and ally"
         },
         {
           "from": "draco",
@@ -1154,7 +1233,8 @@
           "sources": [
             "on-her-majestys-secret-service:第4-27章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Father-in-law and ally"
         }
       ]
     },
@@ -1170,7 +1250,8 @@
           "sources": [
             "moonraker:第I-XXV章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Rival"
         },
         {
           "from": "drax",
@@ -1181,7 +1262,8 @@
             "moonraker:第II-XXIV章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Rival"
         }
       ]
     },
@@ -1197,7 +1279,8 @@
           "sources": [
             "for-your-eyes-only:第1-5章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Enemy turned friend"
         },
         {
           "from": "enrico-colombo",
@@ -1207,7 +1290,8 @@
           "sources": [
             "for-your-eyes-only:第4-4章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Enemy turned friend"
         }
       ]
     },
@@ -1223,7 +1307,8 @@
           "sources": [
             "diamonds-are-forever:第15-21章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Protector"
         }
       ]
     },
@@ -1239,7 +1324,8 @@
           "sources": [
             "thunderball:第22-23章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Subordinate"
         }
       ]
     },
@@ -1255,7 +1341,8 @@
           "sources": [
             "casino-royale:第1-1章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Communications relay"
         }
       ]
     },
@@ -1276,7 +1363,8 @@
             "thunderball:第1-24章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Ally"
         },
         {
           "from": "felix-leiter",
@@ -1291,7 +1379,8 @@
             "thunderball:第12-24章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Ally"
         },
         {
           "from": "bond",
@@ -1301,7 +1390,8 @@
           "sources": [
             "man-with-golden-gun:第1-17章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Best friend and comrade-in-arms"
         },
         {
           "from": "felix-leiter",
@@ -1311,7 +1401,8 @@
           "sources": [
             "man-with-golden-gun:第8-16章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Best friend and comrade-in-arms"
         }
       ]
     },
@@ -1327,7 +1418,8 @@
           "sources": [
             "for-your-eyes-only:第5-5章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Friend"
         }
       ]
     },
@@ -1343,7 +1435,8 @@
           "sources": [
             "diamonds-are-forever:第18-19章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         }
       ]
     },
@@ -1359,7 +1452,8 @@
           "sources": [
             "moonraker:第I-XXV章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Partner"
         },
         {
           "from": "gala-brand",
@@ -1370,7 +1464,8 @@
             "moonraker:第IX-XXV章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Partner"
         }
       ]
     },
@@ -1386,7 +1481,8 @@
           "sources": [
             "for-your-eyes-only:第3-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Dinner host and guest"
         }
       ]
     },
@@ -1402,7 +1498,8 @@
           "sources": [
             "on-her-majestys-secret-service:第6-7章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Guide"
         }
       ]
     },
@@ -1418,7 +1515,8 @@
           "sources": [
             "live-and-let-die:第I-I章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Host"
         }
       ]
     },
@@ -1434,7 +1532,8 @@
           "sources": [
             "octopussy:第1-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Father figure and friend"
         },
         {
           "from": "hannes-oberhauser",
@@ -1444,7 +1543,8 @@
           "sources": [
             "octopussy:第1-1章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Father figure and friend"
         }
       ]
     },
@@ -1460,7 +1560,8 @@
           "sources": [
             "thunderball:第11-20章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Collaborator"
         }
       ]
     },
@@ -1476,7 +1577,8 @@
           "sources": [
             "goldfinger:第EIGHT-NINE章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Caddie"
         }
       ]
     },
@@ -1492,7 +1594,8 @@
           "sources": [
             "man-with-golden-gun:第7-14章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hunted target"
         }
       ]
     },
@@ -1508,7 +1611,8 @@
           "sources": [
             "dr-no:第II-XX章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Companion and lover"
         },
         {
           "from": "honeychile-rider",
@@ -1519,7 +1623,8 @@
             "dr-no:第VIII-XX章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Companion and lover"
         }
       ]
     },
@@ -1535,7 +1640,8 @@
           "sources": [
             "spy-who-loved-me:第Eleven-Eleven章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Rival"
         }
       ]
     },
@@ -1551,7 +1657,8 @@
           "sources": [
             "man-with-golden-gun:第4-11章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Ally"
         }
       ]
     },
@@ -1567,7 +1674,8 @@
           "sources": [
             "moonraker:第I-I章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Instructor"
         }
       ]
     },
@@ -1584,7 +1692,8 @@
             "you-only-live-twice:第7-20章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Archenemy"
         }
       ]
     },
@@ -1600,7 +1709,8 @@
           "sources": [
             "diamonds-are-forever:第2-25章"
           ],
-          "via_group": "spang-brothers"
+          "via_group": "spang-brothers",
+          "type_en": "Hostile"
         },
         {
           "from": "jack-spang",
@@ -1611,7 +1721,8 @@
             "diamonds-are-forever:第2-25章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         }
       ]
     },
@@ -1627,7 +1738,8 @@
           "sources": [
             "goldfinger:第FOUR-FOURTEEN章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Lover"
         }
       ]
     },
@@ -1643,7 +1755,8 @@
           "sources": [
             "for-your-eyes-only:第1-5章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Partner"
         },
         {
           "from": "judy-havelock",
@@ -1653,7 +1766,8 @@
           "sources": [
             "for-your-eyes-only:第2-2章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Partner"
         }
       ]
     },
@@ -1669,7 +1783,8 @@
           "sources": [
             "goldfinger:第ONE-TWELVE章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Employer"
         }
       ]
     },
@@ -1685,7 +1800,8 @@
           "sources": [
             "you-only-live-twice:第13-22章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Protector (harbourer)"
         }
       ]
     },
@@ -1701,7 +1817,8 @@
           "sources": [
             "you-only-live-twice:第19-19章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         }
       ]
     },
@@ -1717,7 +1834,8 @@
           "sources": [
             "octopussy:第3-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Helper and client"
         }
       ]
     },
@@ -1733,7 +1851,8 @@
           "sources": [
             "diamonds-are-forever:第6-24章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         }
       ]
     },
@@ -1749,7 +1868,8 @@
           "sources": [
             "you-only-live-twice:第1-22章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Lover"
         },
         {
           "from": "kissy-suzuki",
@@ -1759,7 +1879,8 @@
           "sources": [
             "you-only-live-twice:第12-22章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Lover"
         }
       ]
     },
@@ -1775,7 +1896,8 @@
           "sources": [
             "you-only-live-twice:第18-19章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         }
       ]
     },
@@ -1791,7 +1913,8 @@
           "sources": [
             "thunderball:第5-24章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Enemy turned witness"
         }
       ]
     },
@@ -1807,7 +1930,8 @@
           "sources": [
             "for-your-eyes-only:第4-4章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Intelligence dealer and buyer"
         }
       ]
     },
@@ -1823,7 +1947,8 @@
           "sources": [
             "you-only-live-twice:第22-22章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Doctor and patient"
         }
       ]
     },
@@ -1839,7 +1964,8 @@
           "sources": [
             "thunderball:第1-24章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Enemy"
         },
         {
           "from": "largo",
@@ -1850,7 +1976,8 @@
             "thunderball:第10-23章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Enemy"
         }
       ]
     },
@@ -1866,7 +1993,8 @@
           "sources": [
             "casino-royale:第1-27章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Rival"
         },
         {
           "from": "le-chiffre",
@@ -1877,7 +2005,8 @@
             "casino-royale:第1-18章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Rival"
         }
       ]
     },
@@ -1893,7 +2022,8 @@
           "sources": [
             "thunderball:第1-24章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Archenemy"
         },
         {
           "from": "lippe",
@@ -1903,7 +2033,8 @@
           "sources": [
             "thunderball:第2-8章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Archenemy"
         }
       ]
     },
@@ -1919,7 +2050,8 @@
           "sources": [
             "for-your-eyes-only:第1-5章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Lover"
         },
         {
           "from": "lisl-baum",
@@ -1929,7 +2061,8 @@
           "sources": [
             "for-your-eyes-only:第4-4章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Lover"
         }
       ]
     },
@@ -1945,7 +2078,8 @@
           "sources": [
             "for-your-eyes-only:第1-5章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Sympathiser"
         },
         {
           "from": "liz-krest",
@@ -1955,7 +2089,8 @@
           "sources": [
             "for-your-eyes-only:第5-5章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Confidant"
         }
       ]
     },
@@ -1971,7 +2106,8 @@
           "sources": [
             "diamonds-are-forever:第3-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Collaboration"
         }
       ]
     },
@@ -1987,7 +2123,8 @@
           "sources": [
             "moonraker:第I-XXV章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague"
         },
         {
           "from": "loelia-ponsonby",
@@ -1998,7 +2135,8 @@
             "from-russia-with-love:第Thirteen-Thirteen章",
             "thunderball:第7-7章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -2024,7 +2162,8 @@
             "octopussy:第1-3章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         },
         {
           "from": "m",
@@ -2046,7 +2185,8 @@
             "octopussy:第2-3章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         },
         {
           "from": "m",
@@ -2056,7 +2196,8 @@
           "sources": [
             "from-russia-with-love:第Four-Twenty-Four章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Boss and subordinate"
         }
       ]
     },
@@ -2072,7 +2213,8 @@
           "sources": [
             "octopussy:第1-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Surveillance target"
         },
         {
           "from": "maria-freudenstein",
@@ -2082,7 +2224,8 @@
           "sources": [
             "octopussy:第3-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Surveillance target"
         }
       ]
     },
@@ -2098,7 +2241,8 @@
           "sources": [
             "you-only-live-twice:第9-9章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Attendant"
         }
       ]
     },
@@ -2114,7 +2258,8 @@
           "sources": [
             "for-your-eyes-only:第1-5章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague and date"
         },
         {
           "from": "mary-ann-russell",
@@ -2124,7 +2269,8 @@
           "sources": [
             "for-your-eyes-only:第1-1章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague and date"
         }
       ]
     },
@@ -2142,7 +2288,8 @@
             "you-only-live-twice:第2-21章",
             "octopussy:第3-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague"
         },
         {
           "from": "bond",
@@ -2153,7 +2300,8 @@
             "man-with-golden-gun:第1-17章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague turned lover"
         },
         {
           "from": "mary-goodnight",
@@ -2164,7 +2312,8 @@
             "man-with-golden-gun:第1-17章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague turned lover"
         }
       ]
     },
@@ -2181,7 +2330,8 @@
             "casino-royale:第1-27章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Ally"
         },
         {
           "from": "mathis",
@@ -2192,7 +2342,8 @@
             "casino-royale:第4-26章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Ally"
         },
         {
           "from": "mathis",
@@ -2202,7 +2353,8 @@
           "sources": [
             "from-russia-with-love:第Four-Twenty-Eight章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Friend and ally"
         }
       ]
     },
@@ -2219,7 +2371,8 @@
             "moonraker:第I-I章",
             "from-russia-with-love:第Eleven-Eleven章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Employer and housekeeper"
         },
         {
           "from": "may",
@@ -2229,7 +2382,8 @@
           "sources": [
             "thunderball:第7-8章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Master-servant and elder"
         },
         {
           "from": "may",
@@ -2239,7 +2393,8 @@
           "sources": [
             "man-with-golden-gun:第2-17章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Butler and employer"
         }
       ]
     },
@@ -2255,7 +2410,8 @@
           "sources": [
             "diamonds-are-forever:第18-19章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         }
       ]
     },
@@ -2271,7 +2427,8 @@
           "sources": [
             "for-your-eyes-only:第5-5章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         }
       ]
     },
@@ -2288,7 +2445,8 @@
             "you-only-live-twice:第2-2章",
             "man-with-golden-gun:第2-4章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Doctor and patient"
         }
       ]
     },
@@ -2310,7 +2468,8 @@
             "man-with-golden-gun:第1-17章",
             "octopussy:第3-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague"
         },
         {
           "from": "moneypenny",
@@ -2321,7 +2480,8 @@
             "thunderball:第1-8章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague and admirer"
         },
         {
           "from": "bond",
@@ -2331,7 +2491,8 @@
           "sources": [
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague"
         }
       ]
     },
@@ -2347,7 +2508,8 @@
           "sources": [
             "live-and-let-die:第I-XXIII章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         },
         {
           "from": "mr-big",
@@ -2358,7 +2520,8 @@
             "live-and-let-die:第I-XXII章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         }
       ]
     },
@@ -2374,7 +2537,8 @@
           "sources": [
             "casino-royale:第4-19章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Eavesdropper and eavesdropped"
         }
       ]
     },
@@ -2390,7 +2554,8 @@
           "sources": [
             "man-with-golden-gun:第8-16章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Ally"
         }
       ]
     },
@@ -2406,7 +2571,8 @@
           "sources": [
             "casino-royale:第19-19章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Nurse and patient"
         }
       ]
     },
@@ -2422,7 +2588,8 @@
           "sources": [
             "goldfinger:第SEVEN-TWENTY-THREE章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Rival"
         }
       ]
     },
@@ -2438,7 +2605,8 @@
           "sources": [
             "thunderball:第2-4章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Therapist turned lover"
         }
       ]
     },
@@ -2454,7 +2622,8 @@
           "sources": [
             "octopussy:第1-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Mission partner"
         },
         {
           "from": "paul-sender",
@@ -2464,7 +2633,8 @@
           "sources": [
             "octopussy:第2-2章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Mission partner"
         }
       ]
     },
@@ -2480,7 +2650,8 @@
           "sources": [
             "thunderball:第20-22章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Ally"
         }
       ]
     },
@@ -2496,7 +2667,8 @@
           "sources": [
             "diamonds-are-forever:第3-19章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Impersonated person"
         }
       ]
     },
@@ -2512,7 +2684,8 @@
           "sources": [
             "octopussy:第3-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Observed person"
         }
       ]
     },
@@ -2528,7 +2701,8 @@
           "sources": [
             "octopussy:第3-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Prey and hunter"
         }
       ]
     },
@@ -2544,7 +2718,8 @@
           "sources": [
             "thunderball:第11-12章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Collaborator"
         }
       ]
     },
@@ -2560,7 +2735,8 @@
           "sources": [
             "dr-no:第V-XX章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Ally"
         }
       ]
     },
@@ -2576,7 +2752,8 @@
           "sources": [
             "moonraker:第X-X章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Guide (explainer)"
         }
       ]
     },
@@ -2592,7 +2769,8 @@
           "sources": [
             "goldfinger:第ONE-TWENTY-THREE章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Rival turned ally"
         },
         {
           "from": "pussy-galore",
@@ -2603,7 +2781,8 @@
             "goldfinger:第SEVENTEEN-TWENTY-THREE章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Rival turned ally"
         }
       ]
     },
@@ -2619,7 +2798,8 @@
           "sources": [
             "live-and-let-die:第I-XXIII章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Assistant"
         },
         {
           "from": "quarrel",
@@ -2629,7 +2809,8 @@
           "sources": [
             "live-and-let-die:第XVI-XXIII章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Assistant"
         },
         {
           "from": "bond",
@@ -2639,7 +2820,8 @@
           "sources": [
             "dr-no:第II-XX章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Comrade-in-arms and guide"
         },
         {
           "from": "quarrel",
@@ -2649,7 +2831,8 @@
           "sources": [
             "dr-no:第IV-XII章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Comrade-in-arms"
         },
         {
           "from": "bond",
@@ -2659,7 +2842,8 @@
           "sources": [
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Comrade-in-arms"
         }
       ]
     },
@@ -2675,7 +2859,8 @@
           "sources": [
             "for-your-eyes-only:第1-1章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Senior liaison"
         }
       ]
     },
@@ -2691,7 +2876,8 @@
           "sources": [
             "from-russia-with-love:第Four-Twenty-Eight章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hunter and prey"
         },
         {
           "from": "red-grant",
@@ -2702,7 +2888,8 @@
             "from-russia-with-love:第One-Twenty-Seven章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Assassin and target"
         }
       ]
     },
@@ -2718,7 +2905,8 @@
           "sources": [
             "thunderball:第12-12章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Local official"
         }
       ]
     },
@@ -2734,7 +2922,8 @@
           "sources": [
             "from-russia-with-love:第Four-Twenty-Eight章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         },
         {
           "from": "rosa-klebb",
@@ -2744,7 +2933,8 @@
           "sources": [
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         }
       ]
     },
@@ -2760,7 +2950,8 @@
           "sources": [
             "on-her-majestys-secret-service:第10-15章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Lover and informant"
         }
       ]
     },
@@ -2776,7 +2967,8 @@
           "sources": [
             "on-her-majestys-secret-service:第7-23章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Collaborator"
         }
       ]
     },
@@ -2792,7 +2984,8 @@
           "sources": [
             "live-and-let-die:第V-IX章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         }
       ]
     },
@@ -2808,7 +3001,8 @@
           "sources": [
             "live-and-let-die:第X-XIII章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Helper"
         }
       ]
     },
@@ -2824,7 +3018,8 @@
           "sources": [
             "thunderball:第16-17章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Assistant"
         }
       ]
     },
@@ -2840,7 +3035,8 @@
           "sources": [
             "on-her-majestys-secret-service:第26-27章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague"
         }
       ]
     },
@@ -2856,7 +3052,8 @@
           "sources": [
             "man-with-golden-gun:第1-17章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hunter and prey"
         },
         {
           "from": "scaramanga",
@@ -2867,7 +3064,8 @@
             "man-with-golden-gun:第3-15章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Prey kills hunter"
         }
       ]
     },
@@ -2883,7 +3081,8 @@
           "sources": [
             "for-your-eyes-only:第1-1章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Partner and opponent"
         }
       ]
     },
@@ -2899,7 +3098,8 @@
           "sources": [
             "diamonds-are-forever:第2-25章"
           ],
-          "via_group": "spang-brothers"
+          "via_group": "spang-brothers",
+          "type_en": "Hostile"
         },
         {
           "from": "seraffimo-spang",
@@ -2910,7 +3110,8 @@
             "diamonds-are-forever:第6-20章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         }
       ]
     },
@@ -2926,7 +3127,8 @@
           "sources": [
             "thunderball:第14-14章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Collaborator"
         }
       ]
     },
@@ -2942,7 +3144,8 @@
           "sources": [
             "diamonds-are-forever:第5-14章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Employment"
         }
       ]
     },
@@ -2958,7 +3161,8 @@
           "sources": [
             "on-her-majestys-secret-service:第14-19章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague"
         }
       ]
     },
@@ -2974,7 +3178,8 @@
           "sources": [
             "diamonds-are-forever:第1-2章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "No direct contact"
         }
       ]
     },
@@ -2990,7 +3195,8 @@
           "sources": [
             "spy-who-loved-me:第Ten-Fifteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Rival"
         }
       ]
     },
@@ -3006,7 +3212,8 @@
           "sources": [
             "casino-royale:第18-18章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Perpetrator and victim"
         }
       ]
     },
@@ -3022,7 +3229,8 @@
           "sources": [
             "spy-who-loved-me:第Ten-Fifteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Rival"
         }
       ]
     },
@@ -3038,7 +3246,8 @@
           "sources": [
             "live-and-let-die:第I-XXIII章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Lover"
         },
         {
           "from": "solitaire",
@@ -3049,7 +3258,8 @@
             "live-and-let-die:第VII-XXIII章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Lover"
         },
         {
           "from": "solitaire",
@@ -3059,7 +3269,8 @@
           "sources": [
             "dr-no:第VII-VII章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Old acquaintance"
         }
       ]
     },
@@ -3075,7 +3286,8 @@
           "sources": [
             "thunderball:第24-24章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Doctor and patient"
         }
       ]
     },
@@ -3091,7 +3303,8 @@
           "sources": [
             "live-and-let-die:第I-XXIII章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Fellow official"
         },
         {
           "from": "strangways",
@@ -3101,7 +3314,8 @@
           "sources": [
             "live-and-let-die:第XVI-XXIII章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Fellow official"
         },
         {
           "from": "bond",
@@ -3111,7 +3325,8 @@
           "sources": [
             "dr-no:第II-XX章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Friend and ex"
         },
         {
           "from": "strangways",
@@ -3121,7 +3336,8 @@
           "sources": [
             "dr-no:第I-XV章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Friend"
         }
       ]
     },
@@ -3137,7 +3353,8 @@
           "sources": [
             "you-only-live-twice:第13-22章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Landlord and guest"
         }
       ]
     },
@@ -3153,7 +3370,8 @@
           "sources": [
             "you-only-live-twice:第13-22章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Landlord and guest"
         }
       ]
     },
@@ -3169,7 +3387,8 @@
           "sources": [
             "moonraker:第IX-XIII章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Predecessor and successor"
         }
       ]
     },
@@ -3185,7 +3404,8 @@
           "sources": [
             "from-russia-with-love:第Four-Twenty-Eight章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Decoy turned lover"
         },
         {
           "from": "tatiana-romanov",
@@ -3196,7 +3416,8 @@
             "from-russia-with-love:第Eight-Twenty-Eight章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Decoy turned lover"
         }
       ]
     },
@@ -3212,7 +3433,8 @@
           "sources": [
             "live-and-let-die:第VI-IX章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         }
       ]
     },
@@ -3228,7 +3450,8 @@
           "sources": [
             "live-and-let-die:第X-XV章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         }
       ]
     },
@@ -3244,7 +3467,8 @@
           "sources": [
             "diamonds-are-forever:第2-25章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Partner turned lover"
         },
         {
           "from": "tiffany-case",
@@ -3255,7 +3479,8 @@
             "diamonds-are-forever:第3-25章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Partner turned lover"
         }
       ]
     },
@@ -3271,7 +3496,8 @@
           "sources": [
             "man-with-golden-gun:第5-6章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Informant and friend"
         }
       ]
     },
@@ -3287,7 +3513,8 @@
           "sources": [
             "you-only-live-twice:第1-22章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Cooperation and exploitation"
         },
         {
           "from": "tiger-tanaka",
@@ -3297,7 +3524,8 @@
           "sources": [
             "you-only-live-twice:第1-22章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Cooperation and exploitation"
         }
       ]
     },
@@ -3313,7 +3541,8 @@
           "sources": [
             "goldfinger:第ONE-TWENTY-THREE章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Forced ally"
         },
         {
           "from": "tilly-masterton",
@@ -3323,7 +3552,8 @@
           "sources": [
             "goldfinger:第TWELVE-TWENTY-ONE章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Forced ally"
         }
       ]
     },
@@ -3339,7 +3569,8 @@
           "sources": [
             "on-her-majestys-secret-service:第1-27章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Lover turned wife"
         },
         {
           "from": "tracy",
@@ -3350,7 +3581,8 @@
             "on-her-majestys-secret-service:第1-27章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Lover turned wife"
         },
         {
           "from": "bond",
@@ -3360,7 +3592,8 @@
           "sources": [
             "you-only-live-twice:第1-22章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Late wife"
         },
         {
           "from": "tracy",
@@ -3370,7 +3603,8 @@
           "sources": [
             "you-only-live-twice:第2-21章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Husband and wife"
         },
         {
           "from": "bond",
@@ -3380,7 +3614,8 @@
           "sources": [
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Husband and wife"
         }
       ]
     },
@@ -3396,7 +3631,8 @@
           "sources": [
             "you-only-live-twice:第1-1章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "One-night stand"
         }
       ]
     },
@@ -3412,7 +3648,8 @@
           "sources": [
             "octopussy:第1-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile sniper and secret admirer"
         },
         {
           "from": "trigger",
@@ -3422,7 +3659,8 @@
           "sources": [
             "octopussy:第2-2章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile sniper and secret admirer"
         }
       ]
     },
@@ -3438,7 +3676,8 @@
           "sources": [
             "from-russia-with-love:第Eleven-Eleven章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague and rival"
         }
       ]
     },
@@ -3454,7 +3693,8 @@
           "sources": [
             "moonraker:第IX-XXV章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Cooperation"
         },
         {
           "from": "vallance",
@@ -3464,7 +3704,8 @@
           "sources": [
             "diamonds-are-forever:第2-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Collaboration"
         }
       ]
     },
@@ -3480,7 +3721,8 @@
           "sources": [
             "casino-royale:第22-27章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Shopkeeper and lodger"
         }
       ]
     },
@@ -3497,7 +3739,8 @@
             "casino-royale:第1-27章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Lover"
         },
         {
           "from": "vesper-lynd",
@@ -3508,7 +3751,8 @@
             "casino-royale:第4-27章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Lover"
         }
       ]
     },
@@ -3525,7 +3769,8 @@
             "spy-who-loved-me:第One-Fifteen章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Rescued and rescuer"
         },
         {
           "from": "bond",
@@ -3535,7 +3780,8 @@
           "sources": [
             "spy-who-loved-me:第Ten-Fifteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Rescuer and rescued"
         }
       ]
     },
@@ -3551,7 +3797,8 @@
           "sources": [
             "thunderball:第2-4章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Doctor and patient"
         }
       ]
     },
@@ -3567,7 +3814,8 @@
           "sources": [
             "diamonds-are-forever:第6-24章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         }
       ]
     },
@@ -3583,7 +3831,8 @@
           "sources": [
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -3599,7 +3848,8 @@
           "sources": [
             "spy-who-loved-me:第Fifteen-Fifteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Police and witness"
         }
       ]
     },
@@ -3615,7 +3865,8 @@
           "sources": [
             "on-her-majestys-secret-service:第23-26章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -3632,7 +3883,8 @@
             "casino-royale:第3-3章",
             "man-with-golden-gun:第2-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         },
         {
           "from": "m",
@@ -3643,7 +3895,8 @@
             "man-with-golden-gun:第1-17章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -3659,7 +3912,8 @@
           "sources": [
             "from-russia-with-love:第Three-Three章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Contact person"
         }
       ]
     },
@@ -3675,7 +3929,8 @@
           "sources": [
             "octopussy:第1-1章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -3691,7 +3946,8 @@
           "sources": [
             "casino-royale:第11-19章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Bodyguard and employer"
         }
       ]
     },
@@ -3707,7 +3963,8 @@
           "sources": [
             "from-russia-with-love:第Seventeen-Nineteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         }
       ]
     },
@@ -3723,7 +3980,8 @@
           "sources": [
             "from-russia-with-love:第Twelve-Twenty-Three章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Subordinate and boss"
         },
         {
           "from": "m",
@@ -3733,7 +3991,8 @@
           "sources": [
             "from-russia-with-love:第Four-Twenty-Four章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Boss and subordinate"
         }
       ]
     },
@@ -3749,7 +4008,8 @@
           "sources": [
             "from-russia-with-love:第Twenty-Four-Twenty-Four章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Father and son"
         }
       ]
     },
@@ -3766,7 +4026,8 @@
             "from-russia-with-love:第Eight-Twenty-Eight章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Contact"
         },
         {
           "from": "darko-kerim",
@@ -3776,7 +4037,8 @@
           "sources": [
             "from-russia-with-love:第Twelve-Twenty-Three章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Contact and protector"
         }
       ]
     },
@@ -3792,7 +4054,8 @@
           "sources": [
             "from-russia-with-love:第Seventeen-Eighteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Friend and intelligence source"
         }
       ]
     },
@@ -3808,7 +4071,8 @@
           "sources": [
             "you-only-live-twice:第14-22章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Companion"
         }
       ]
     },
@@ -3824,7 +4088,8 @@
           "sources": [
             "from-russia-with-love:第Eight-Eight章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Boss and subordinate"
         }
       ]
     },
@@ -3840,7 +4105,8 @@
           "sources": [
             "diamonds-are-forever:第1-1章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Contact"
         }
       ]
     },
@@ -3856,7 +4122,8 @@
           "sources": [
             "diamonds-are-forever:第1-25章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Junior"
         }
       ]
     },
@@ -3872,7 +4139,8 @@
           "sources": [
             "spy-who-loved-me:第One-Fifteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "First love"
         },
         {
           "from": "derek-mallaby",
@@ -3882,7 +4150,8 @@
           "sources": [
             "spy-who-loved-me:第Two-Four章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "First love"
         }
       ]
     },
@@ -3898,7 +4167,8 @@
           "sources": [
             "octopussy:第1-1章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Business partner"
         },
         {
           "from": "foo-brothers",
@@ -3908,7 +4178,8 @@
           "sources": [
             "octopussy:第1-1章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Business partner"
         }
       ]
     },
@@ -3925,7 +4196,8 @@
             "octopussy:第1-1章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Killer and victim"
         },
         {
           "from": "hannes-oberhauser",
@@ -3935,7 +4207,8 @@
           "sources": [
             "octopussy:第1-1章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Victim and killer"
         }
       ]
     },
@@ -3951,7 +4224,8 @@
           "sources": [
             "octopussy:第1-1章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Doctor and patient"
         }
       ]
     },
@@ -3967,7 +4241,8 @@
           "sources": [
             "octopussy:第1-1章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Employer and housekeeper"
         }
       ]
     },
@@ -3984,7 +4259,8 @@
             "octopussy:第1-1章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Husband and wife"
         },
         {
           "from": "mary-parnell",
@@ -3994,7 +4270,8 @@
           "sources": [
             "octopussy:第1-1章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Husband and wife"
         }
       ]
     },
@@ -4010,7 +4287,8 @@
           "sources": [
             "octopussy:第1-1章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Commission and undertaking"
         }
       ]
     },
@@ -4026,7 +4304,8 @@
           "sources": [
             "you-only-live-twice:第1-22章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Close friend"
         },
         {
           "from": "dikko-henderson",
@@ -4036,7 +4315,8 @@
           "sources": [
             "you-only-live-twice:第1-22章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Close friend"
         }
       ]
     },
@@ -4053,7 +4333,8 @@
             "thunderball:第10-23章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Lover turned enemy"
         },
         {
           "from": "domino",
@@ -4063,7 +4344,8 @@
           "sources": [
             "thunderball:第11-24章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Lover turned ally"
         }
       ]
     },
@@ -4079,7 +4361,8 @@
           "sources": [
             "thunderball:第11-24章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Brother and sister"
         },
         {
           "from": "petacchi",
@@ -4089,7 +4372,8 @@
           "sources": [
             "thunderball:第8-17章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Brother and sister"
         }
       ]
     },
@@ -4106,7 +4390,8 @@
             "dr-no:第III-XIX章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         }
       ]
     },
@@ -4122,7 +4407,8 @@
           "sources": [
             "dr-no:第V-XV章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -4139,7 +4425,8 @@
             "dr-no:第III-XIX章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         }
       ]
     },
@@ -4155,7 +4442,8 @@
           "sources": [
             "on-her-majestys-secret-service:第23-24章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -4172,7 +4460,8 @@
             "on-her-majestys-secret-service:第1-27章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Father and daughter"
         },
         {
           "from": "draco",
@@ -4182,7 +4471,8 @@
           "sources": [
             "on-her-majestys-secret-service:第4-27章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Father and daughter"
         }
       ]
     },
@@ -4199,7 +4489,8 @@
             "moonraker:第II-XXIV章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Employer and victim"
         },
         {
           "from": "gala-brand",
@@ -4210,7 +4501,8 @@
             "moonraker:第IX-XXV章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Victim and perpetrator"
         }
       ]
     },
@@ -4227,7 +4519,8 @@
             "moonraker:第II-XXIV章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Accomplice and subordinate"
         },
         {
           "from": "krebs",
@@ -4237,7 +4530,8 @@
           "sources": [
             "moonraker:第XI-XXIV章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Subordinate and accomplice"
         }
       ]
     },
@@ -4253,7 +4547,8 @@
           "sources": [
             "moonraker:第IV-VII章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Card partner"
         }
       ]
     },
@@ -4270,7 +4565,8 @@
             "moonraker:第II-XXIV章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Accomplice"
         },
         {
           "from": "walter",
@@ -4280,7 +4576,8 @@
           "sources": [
             "moonraker:第XI-XXIV章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Accomplice"
         }
       ]
     },
@@ -4296,7 +4593,8 @@
           "sources": [
             "for-your-eyes-only:第4-4章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Framer and victim"
         },
         {
           "from": "enrico-colombo",
@@ -4306,7 +4604,8 @@
           "sources": [
             "for-your-eyes-only:第4-4章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Mortal enemy"
         }
       ]
     },
@@ -4322,7 +4621,8 @@
           "sources": [
             "for-your-eyes-only:第4-4章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Lover and subordinate"
         },
         {
           "from": "lisl-baum",
@@ -4332,7 +4632,8 @@
           "sources": [
             "for-your-eyes-only:第4-4章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Lover"
         }
       ]
     },
@@ -4348,7 +4649,8 @@
           "sources": [
             "diamonds-are-forever:第8-21章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Friend"
         },
         {
           "from": "ernie-cureo",
@@ -4358,7 +4660,8 @@
           "sources": [
             "diamonds-are-forever:第15-21章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Friend"
         }
       ]
     },
@@ -4374,7 +4677,8 @@
           "sources": [
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Collaboration"
         }
       ]
     },
@@ -4391,7 +4695,8 @@
             "live-and-let-die:第I-XVII章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         },
         {
           "from": "mr-big",
@@ -4402,7 +4707,8 @@
             "live-and-let-die:第I-XXII章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         }
       ]
     },
@@ -4418,7 +4724,8 @@
           "sources": [
             "man-with-golden-gun:第8-16章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague"
         },
         {
           "from": "nicholson",
@@ -4428,7 +4735,8 @@
           "sources": [
             "man-with-golden-gun:第8-16章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague"
         }
       ]
     },
@@ -4444,7 +4752,8 @@
           "sources": [
             "live-and-let-die:第X-XV章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Hostile"
         }
       ]
     },
@@ -4460,7 +4769,8 @@
           "sources": [
             "diamonds-are-forever:第11-13章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Blackmailed person"
         }
       ]
     },
@@ -4476,7 +4786,8 @@
           "sources": [
             "for-your-eyes-only:第5-5章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Employer and guide"
         },
         {
           "from": "fidele-barbey",
@@ -4486,7 +4797,8 @@
           "sources": [
             "for-your-eyes-only:第5-5章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Employee and employer"
         }
       ]
     },
@@ -4502,7 +4814,8 @@
           "sources": [
             "spy-who-loved-me:第Two-Six章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Aunt and guardian"
         }
       ]
     },
@@ -4518,7 +4831,8 @@
           "sources": [
             "thunderball:第9-9章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Recruiter"
         }
       ]
     },
@@ -4534,7 +4848,8 @@
           "sources": [
             "live-and-let-die:第V-VI章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Employee"
         }
       ]
     },
@@ -4550,7 +4865,8 @@
           "sources": [
             "moonraker:第XXV-XXV章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Fiancé"
         }
       ]
     },
@@ -4566,7 +4882,8 @@
           "sources": [
             "man-with-golden-gun:第7-14章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Accomplice"
         }
       ]
     },
@@ -4582,7 +4899,8 @@
           "sources": [
             "casino-royale:第22-26章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Watcher and watched"
         }
       ]
     },
@@ -4598,7 +4916,8 @@
           "sources": [
             "for-your-eyes-only:第2-2章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         },
         {
           "from": "gonzales",
@@ -4608,7 +4927,8 @@
           "sources": [
             "for-your-eyes-only:第2-2章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -4624,7 +4944,8 @@
           "sources": [
             "for-your-eyes-only:第3-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Former colleague and boss"
         }
       ]
     },
@@ -4640,7 +4961,8 @@
           "sources": [
             "you-only-live-twice:第1-1章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Host"
         }
       ]
     },
@@ -4657,7 +4979,8 @@
             "from-russia-with-love:第Four-Ten章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Subordinate and boss"
         },
         {
           "from": "grubozaboyschikov",
@@ -4667,7 +4990,8 @@
           "sources": [
             "from-russia-with-love:第Four-Seven章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Boss and subordinate"
         }
       ]
     },
@@ -4683,7 +5007,8 @@
           "sources": [
             "from-russia-with-love:第Four-Six章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Fellow official"
         }
       ]
     },
@@ -4699,7 +5024,8 @@
           "sources": [
             "from-russia-with-love:第Four-Twenty-Eight章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Subordinate and boss"
         },
         {
           "from": "grubozaboyschikov",
@@ -4709,7 +5035,8 @@
           "sources": [
             "from-russia-with-love:第Four-Seven章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Boss and subordinate"
         }
       ]
     },
@@ -4725,7 +5052,8 @@
           "sources": [
             "from-russia-with-love:第Four-Seven章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Subordinate and patron"
         },
         {
           "from": "serov",
@@ -4735,7 +5063,8 @@
           "sources": [
             "from-russia-with-love:第Four-Six章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Boss and subordinate"
         }
       ]
     },
@@ -4751,7 +5080,8 @@
           "sources": [
             "from-russia-with-love:第Four-Six章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Fellow official"
         }
       ]
     },
@@ -4767,7 +5097,8 @@
           "sources": [
             "for-your-eyes-only:第3-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Husband and wife"
         },
         {
           "from": "harvey-miller",
@@ -4777,7 +5108,8 @@
           "sources": [
             "for-your-eyes-only:第3-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Husband and wife"
         }
       ]
     },
@@ -4794,7 +5126,8 @@
             "casino-royale:第2-27章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         },
         {
           "from": "head-of-s",
@@ -4804,7 +5137,8 @@
           "sources": [
             "casino-royale:第2-21章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -4820,7 +5154,8 @@
           "sources": [
             "casino-royale:第3-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague"
         }
       ]
     },
@@ -4837,7 +5172,8 @@
             "casino-royale:第4-27章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         },
         {
           "from": "head-of-s",
@@ -4847,7 +5183,8 @@
           "sources": [
             "casino-royale:第2-21章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -4863,7 +5200,8 @@
           "sources": [
             "goldfinger:第NINETEEN-NINETEEN章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Fellow official"
         }
       ]
     },
@@ -4880,7 +5218,8 @@
             "man-with-golden-gun:第3-15章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Collaborator and employer"
         },
         {
           "from": "hendriks",
@@ -4890,7 +5229,8 @@
           "sources": [
             "man-with-golden-gun:第7-14章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Supervising superior"
         }
       ]
     },
@@ -4906,7 +5246,8 @@
           "sources": [
             "dr-no:第VIII-XX章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Enemy (personal)"
         }
       ]
     },
@@ -4923,7 +5264,8 @@
             "dr-no:第VIII-XX章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Companion"
         },
         {
           "from": "quarrel",
@@ -4933,7 +5275,8 @@
           "sources": [
             "dr-no:第IV-XII章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Companion"
         }
       ]
     },
@@ -4949,7 +5292,8 @@
           "sources": [
             "diamonds-are-forever:第11-12章"
           ],
-          "via_group": "spang-brothers"
+          "via_group": "spang-brothers",
+          "type_en": "Henchman"
         }
       ]
     },
@@ -4966,7 +5310,8 @@
             "diamonds-are-forever:第2-25章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Twin brothers and partners"
         },
         {
           "from": "seraffimo-spang",
@@ -4977,7 +5322,8 @@
             "diamonds-are-forever:第6-20章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Twin brothers and partners"
         }
       ]
     },
@@ -4993,7 +5339,8 @@
           "sources": [
             "diamonds-are-forever:第5-14章"
           ],
-          "via_group": "spang-brothers"
+          "via_group": "spang-brothers",
+          "type_en": "Henchman"
         }
       ]
     },
@@ -5010,7 +5357,8 @@
             "diamonds-are-forever:第3-25章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Junior"
         },
         {
           "from": "jack-spang",
@@ -5021,7 +5369,8 @@
             "diamonds-are-forever:第2-25章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Mastermind"
         }
       ]
     },
@@ -5037,7 +5386,8 @@
           "sources": [
             "spy-who-loved-me:第One-Fifteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Husband and wife"
         },
         {
           "from": "millicent-phancey",
@@ -5047,7 +5397,8 @@
           "sources": [
             "spy-who-loved-me:第One-Fifteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Husband and wife"
         }
       ]
     },
@@ -5063,7 +5414,8 @@
           "sources": [
             "spy-who-loved-me:第One-Fifteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Employee and owner"
         },
         {
           "from": "sanguinetti",
@@ -5073,7 +5425,8 @@
           "sources": [
             "spy-who-loved-me:第Seven-Fifteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Owner and manager"
         }
       ]
     },
@@ -5089,7 +5442,8 @@
           "sources": [
             "spy-who-loved-me:第One-Fifteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Employer and employee"
         }
       ]
     },
@@ -5105,7 +5459,8 @@
           "sources": [
             "goldfinger:第FOUR-FOURTEEN章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Sisters"
         },
         {
           "from": "tilly-masterton",
@@ -5115,7 +5470,8 @@
           "sources": [
             "goldfinger:第TWELVE-TWENTY-ONE章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Sisters"
         }
       ]
     },
@@ -5131,7 +5487,8 @@
           "sources": [
             "for-your-eyes-only:第2-2章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Father and daughter"
         },
         {
           "from": "judy-havelock",
@@ -5141,7 +5498,8 @@
           "sources": [
             "for-your-eyes-only:第2-2章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Father and daughter"
         }
       ]
     },
@@ -5157,7 +5515,8 @@
           "sources": [
             "you-only-live-twice:第12-22章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Parishioner and priest"
         },
         {
           "from": "kannushi",
@@ -5167,7 +5526,8 @@
           "sources": [
             "you-only-live-twice:第13-22章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Parishioner"
         }
       ]
     },
@@ -5183,7 +5543,8 @@
           "sources": [
             "diamonds-are-forever:第6-24章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Partner"
         },
         {
           "from": "kidd",
@@ -5193,7 +5554,8 @@
           "sources": [
             "diamonds-are-forever:第6-24章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Partner"
         }
       ]
     },
@@ -5209,7 +5571,8 @@
           "sources": [
             "thunderball:第5-24章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -5225,7 +5588,8 @@
           "sources": [
             "thunderball:第5-6章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Fellow official"
         }
       ]
     },
@@ -5241,7 +5605,8 @@
           "sources": [
             "from-russia-with-love:第Seven-Seven章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Chess rival"
         }
       ]
     },
@@ -5258,7 +5623,8 @@
             "from-russia-with-love:第One-Twenty-Seven章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Executor and planner"
         }
       ]
     },
@@ -5275,7 +5641,8 @@
             "from-russia-with-love:第Four-Twenty-Eight章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague and partner"
         },
         {
           "from": "kronsteen",
@@ -5286,7 +5653,8 @@
             "from-russia-with-love:第Four-Ten章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Planning partner"
         }
       ]
     },
@@ -5302,7 +5670,8 @@
           "sources": [
             "spy-who-loved-me:第Four-Six章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Former fiancée"
         },
         {
           "from": "trude",
@@ -5312,7 +5681,8 @@
           "sources": [
             "spy-who-loved-me:第Five-Five章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Former fiancé and fiancée"
         }
       ]
     },
@@ -5328,7 +5698,8 @@
           "sources": [
             "spy-who-loved-me:第One-Fifteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Lover and boss"
         },
         {
           "from": "kurt-rainer",
@@ -5338,7 +5709,8 @@
           "sources": [
             "spy-who-loved-me:第Four-Six章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Lover and boss"
         }
       ]
     },
@@ -5354,7 +5726,8 @@
           "sources": [
             "thunderball:第8-17章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Employment and silencing"
         }
       ]
     },
@@ -5370,7 +5743,8 @@
           "sources": [
             "thunderball:第15-15章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Gambling friend"
         }
       ]
     },
@@ -5386,7 +5760,8 @@
           "sources": [
             "thunderball:第21-21章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -5403,7 +5778,8 @@
             "casino-royale:第1-18章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Executed and executioner"
         },
         {
           "from": "smersh-agent",
@@ -5413,7 +5789,8 @@
           "sources": [
             "casino-royale:第18-18章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Executioner and executed"
         }
       ]
     },
@@ -5430,7 +5807,8 @@
             "casino-royale:第4-27章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Exploited collaborator"
         },
         {
           "from": "le-chiffre",
@@ -5441,7 +5819,8 @@
             "casino-royale:第1-18章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Exploitative relationship"
         }
       ]
     },
@@ -5457,7 +5836,8 @@
           "sources": [
             "spy-who-loved-me:第Four-Four章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Boss and subordinate"
         }
       ]
     },
@@ -5473,7 +5853,8 @@
           "sources": [
             "spy-who-loved-me:第Fifteen-Fifteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague"
         }
       ]
     },
@@ -5489,7 +5870,8 @@
           "sources": [
             "spy-who-loved-me:第Fifteen-Fifteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Police and witness"
         }
       ]
     },
@@ -5505,7 +5887,8 @@
           "sources": [
             "thunderball:第2-4章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Patient and therapist"
         }
       ]
     },
@@ -5521,7 +5904,8 @@
           "sources": [
             "for-your-eyes-only:第5-5章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Husband and wife"
         },
         {
           "from": "liz-krest",
@@ -5531,7 +5915,8 @@
           "sources": [
             "for-your-eyes-only:第5-5章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Husband and wife"
         }
       ]
     },
@@ -5547,7 +5932,8 @@
           "sources": [
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Collaboration"
         }
       ]
     },
@@ -5563,7 +5949,8 @@
           "sources": [
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Collaboration"
         }
       ]
     },
@@ -5582,7 +5969,8 @@
             "man-with-golden-gun:第1-17章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         },
         {
           "from": "moneypenny",
@@ -5592,7 +5980,8 @@
           "sources": [
             "on-her-majestys-secret-service:第8-8章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague"
         },
         {
           "from": "m",
@@ -5602,7 +5991,8 @@
           "sources": [
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -5618,7 +6008,8 @@
           "sources": [
             "you-only-live-twice:第2-2章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Waiter"
         }
       ]
     },
@@ -5634,7 +6025,8 @@
           "sources": [
             "dr-no:第II-XX章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -5650,7 +6042,8 @@
           "sources": [
             "casino-royale:第22-26章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Husband and wife"
         }
       ]
     },
@@ -5666,7 +6059,8 @@
           "sources": [
             "man-with-golden-gun:第3-15章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Victim and killer"
         }
       ]
     },
@@ -5682,7 +6076,8 @@
           "sources": [
             "octopussy:第3-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Agent and handler"
         },
         {
           "from": "piotr-malinowski",
@@ -5692,7 +6087,8 @@
           "sources": [
             "octopussy:第3-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Handler and agent"
         }
       ]
     },
@@ -5708,7 +6104,8 @@
           "sources": [
             "man-with-golden-gun:第1-17章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         },
         {
           "from": "ross",
@@ -5718,7 +6115,8 @@
           "sources": [
             "man-with-golden-gun:第4-9章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -5735,7 +6133,8 @@
             "casino-royale:第4-26章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague"
         }
       ]
     },
@@ -5751,7 +6150,8 @@
           "sources": [
             "live-and-let-die:第V-IX章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Henchman"
         }
       ]
     },
@@ -5767,7 +6167,8 @@
           "sources": [
             "spy-who-loved-me:第One-Fifteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Employer and employee"
         }
       ]
     },
@@ -5783,7 +6184,8 @@
           "sources": [
             "live-and-let-die:第V-IX章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Henchman"
         }
       ]
     },
@@ -5800,7 +6202,8 @@
             "live-and-let-die:第I-XXII章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Possessor"
         },
         {
           "from": "solitaire",
@@ -5811,7 +6214,8 @@
             "live-and-let-die:第VII-XXIII章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Prisoner"
         }
       ]
     },
@@ -5827,7 +6231,8 @@
           "sources": [
             "live-and-let-die:第VI-IX章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Henchman"
         }
       ]
     },
@@ -5843,7 +6248,8 @@
           "sources": [
             "live-and-let-die:第V-IX章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Henchman"
         }
       ]
     },
@@ -5859,7 +6265,8 @@
           "sources": [
             "live-and-let-die:第X-XV章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Henchman"
         }
       ]
     },
@@ -5875,7 +6282,8 @@
           "sources": [
             "live-and-let-die:第IV-IX章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Henchman"
         }
       ]
     },
@@ -5891,7 +6299,8 @@
           "sources": [
             "for-your-eyes-only:第2-2章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Husband and wife"
         },
         {
           "from": "mrs-havelock",
@@ -5901,7 +6310,8 @@
           "sources": [
             "for-your-eyes-only:第2-2章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Husband and wife"
         }
       ]
     },
@@ -5917,7 +6327,8 @@
           "sources": [
             "casino-royale:第4-19章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Husband and wife"
         }
       ]
     },
@@ -5933,7 +6344,8 @@
           "sources": [
             "from-russia-with-love:第Four-Six章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Departmental rival"
         }
       ]
     },
@@ -5949,7 +6361,8 @@
           "sources": [
             "live-and-let-die:第IV-XIII章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Nominal superior and subordinate"
         }
       ]
     },
@@ -5965,7 +6378,8 @@
           "sources": [
             "octopussy:第2-2章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         },
         {
           "from": "tanqueray",
@@ -5975,7 +6389,8 @@
           "sources": [
             "octopussy:第2-2章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -5991,7 +6406,8 @@
           "sources": [
             "thunderball:第9-10章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Killer and victim"
         }
       ]
     },
@@ -6007,7 +6423,8 @@
           "sources": [
             "for-your-eyes-only:第3-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Husband and wife"
         },
         {
           "from": "rhoda-masters",
@@ -6017,7 +6434,8 @@
           "sources": [
             "for-your-eyes-only:第3-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Husband and wife"
         }
       ]
     },
@@ -6033,7 +6451,8 @@
           "sources": [
             "diamonds-are-forever:第12-12章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Colleague"
         }
       ]
     },
@@ -6049,7 +6468,8 @@
           "sources": [
             "diamonds-are-forever:第11-12章"
           ],
-          "via_group": "spang-brothers"
+          "via_group": "spang-brothers",
+          "type_en": "Henchman"
         }
       ]
     },
@@ -6065,7 +6485,8 @@
           "sources": [
             "live-and-let-die:第XII-XII章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Informant"
         }
       ]
     },
@@ -6081,7 +6502,8 @@
           "sources": [
             "dr-no:第IV-IV章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Friend"
         }
       ]
     },
@@ -6097,7 +6519,8 @@
           "sources": [
             "goldfinger:第TWELVE-TWENTY-ONE章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Admirer"
         },
         {
           "from": "pussy-galore",
@@ -6108,7 +6531,8 @@
             "goldfinger:第SEVENTEEN-TWENTY-THREE章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Admired one"
         }
       ]
     },
@@ -6124,7 +6548,8 @@
           "sources": [
             "live-and-let-die:第XVI-XXIII章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         },
         {
           "from": "quarrel",
@@ -6134,7 +6559,8 @@
           "sources": [
             "live-and-let-die:第XVI-XXIII章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -6151,7 +6577,8 @@
             "from-russia-with-love:第Four-Twenty-Eight章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Boss and subordinate"
         },
         {
           "from": "red-grant",
@@ -6162,7 +6589,8 @@
             "from-russia-with-love:第One-Twenty-Seven章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Subordinate and boss"
         }
       ]
     },
@@ -6178,7 +6606,8 @@
           "sources": [
             "for-your-eyes-only:第3-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Lover"
         },
         {
           "from": "tattersall",
@@ -6188,7 +6617,8 @@
           "sources": [
             "for-your-eyes-only:第3-3章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Lover"
         }
       ]
     },
@@ -6205,7 +6635,8 @@
             "from-russia-with-love:第Eight-Twenty-Eight章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Boss and coerced subordinate"
         },
         {
           "from": "rosa-klebb",
@@ -6216,7 +6647,8 @@
             "from-russia-with-love:第Four-Twenty-Eight章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Recruiter and tool"
         }
       ]
     },
@@ -6232,7 +6664,8 @@
           "sources": [
             "man-with-golden-gun:第4-9章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Victim and killer"
         }
       ]
     },
@@ -6248,7 +6681,8 @@
           "sources": [
             "man-with-golden-gun:第7-9章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Shareholder and chairman"
         }
       ]
     },
@@ -6264,7 +6698,8 @@
           "sources": [
             "on-her-majestys-secret-service:第10-26章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Fellow patient"
         }
       ]
     },
@@ -6280,7 +6715,8 @@
           "sources": [
             "spy-who-loved-me:第Eight-Thirteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Employer and enforcer"
         },
         {
           "from": "sanguinetti",
@@ -6290,7 +6726,8 @@
           "sources": [
             "spy-who-loved-me:第Seven-Fifteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Employer and enforcer"
         }
       ]
     },
@@ -6307,7 +6744,8 @@
             "man-with-golden-gun:第3-15章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Regular and brothel madam"
         },
         {
           "from": "tiffy",
@@ -6317,7 +6755,8 @@
           "sources": [
             "man-with-golden-gun:第5-6章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Regular and victim"
         }
       ]
     },
@@ -6333,7 +6772,8 @@
           "sources": [
             "diamonds-are-forever:第5-14章"
           ],
-          "via_group": "spang-brothers"
+          "via_group": "spang-brothers",
+          "type_en": "Henchman"
         }
       ]
     },
@@ -6350,7 +6790,8 @@
             "diamonds-are-forever:第3-25章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Employment"
         },
         {
           "from": "seraffimo-spang",
@@ -6361,7 +6802,8 @@
             "diamonds-are-forever:第6-20章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Employer"
         }
       ]
     },
@@ -6377,7 +6819,8 @@
           "sources": [
             "spy-who-loved-me:第Eight-Thirteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Accomplice (boss and henchman)"
         },
         {
           "from": "sluggsy-morant",
@@ -6387,7 +6830,8 @@
           "sources": [
             "spy-who-loved-me:第Eight-Fourteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Accomplice (henchman and boss)"
         }
       ]
     },
@@ -6404,7 +6848,8 @@
             "spy-who-loved-me:第One-Fifteen章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Abuser and victim"
         },
         {
           "from": "sluggsy-morant",
@@ -6414,7 +6859,8 @@
           "sources": [
             "spy-who-loved-me:第Eight-Fourteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Abuser and victim"
         }
       ]
     },
@@ -6431,7 +6877,8 @@
             "spy-who-loved-me:第One-Fifteen章",
             "character-core.json"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Abuser and victim"
         },
         {
           "from": "sol-horowitz",
@@ -6441,7 +6888,8 @@
           "sources": [
             "spy-who-loved-me:第Eight-Thirteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Abuser and victim"
         }
       ]
     },
@@ -6457,7 +6905,8 @@
           "sources": [
             "dr-no:第I-XV章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Superior and subordinate"
         }
       ]
     },
@@ -6473,7 +6922,8 @@
           "sources": [
             "spy-who-loved-me:第One-Fifteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Best friend"
         },
         {
           "from": "susan-duff",
@@ -6483,7 +6933,8 @@
           "sources": [
             "spy-who-loved-me:第Two-Five章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Best friend and roommate"
         }
       ]
     },
@@ -6499,7 +6950,8 @@
           "sources": [
             "diamonds-are-forever:第11-13章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Victim"
         }
       ]
     },
@@ -6515,7 +6967,8 @@
           "sources": [
             "casino-royale:第22-27章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Shopkeeper and lodger"
         }
       ]
     },
@@ -6531,7 +6984,8 @@
           "sources": [
             "from-russia-with-love:第Eighteen-Eighteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Love rival"
         },
         {
           "from": "vida",
@@ -6541,7 +6995,8 @@
           "sources": [
             "from-russia-with-love:第Eighteen-Eighteen章"
           ],
-          "via_group": null
+          "via_group": null,
+          "type_en": "Love rival"
         }
       ]
     }

@@ -13,34 +13,41 @@
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "note": "本部起成为邦德配枪：第II章布思罗伊德推荐，7.65毫米口径，在25码试射5000发中综合排名第四，因扳机轻、弹匣延伸底座握感好且弹药易得而胜出；配伯恩斯-马丁三联快拔枪套，邦德携其赴牙买加"
+          "note": "本部起成为邦德配枪：第II章布思罗伊德推荐，7.65毫米口径，在25码试射5000发中综合排名第四，因扳机轻、弹匣延伸底座握感好且弹药易得而胜出；配伯恩斯-马丁三联快拔枪套，邦德携其赴牙买加",
+          "note_en": "Becomes Bond's service pistol from this book: recommended by Boothroyd in Chapter II, 7.65 mm calibre, fourth overall in a 5,000-round test at 25 yards, winning on its light trigger, the comfortable extended magazine base and the easy availability of ammunition; with a Berns-Martin triple-draw holster, Bond carries it to Jamaica."
         },
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "note": "邦德配枪，藏于《当文学读的圣经》书中，以Berns Martin枪套佩于腰间；夜探科佩工厂时未带"
+          "note": "邦德配枪，藏于《当文学读的圣经》书中，以Berns Martin枪套佩于腰间；夜探科佩工厂时未带",
+          "note_en": "Bond's service pistol, hidden in a copy of The Bible Designed to be Read as Literature, worn at the hip in a Berns-Martin holster; not carried on the night visit to the Coppet factory."
         },
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
-          "note": "邦德配枪,第2篇在渥太华补办持枪证,第4篇在威尼斯追杀中被夺、后由Colombo归还"
+          "note": "邦德配枪,第2篇在渥太华补办持枪证,第4篇在威尼斯追杀中被夺、后由Colombo归还",
+          "note_en": "Bond's service pistol; in the second story its permit is renewed in Ottawa, and in the fourth it is taken from him in the Venice chase, then returned by Colombo."
         },
         {
           "novel": "thunderball",
           "novel_no": 9,
-          "note": "邦德配枪，第17章以其射杀锤头鲨"
+          "note": "邦德配枪，第17章以其射杀锤头鲨",
+          "note_en": "Bond's service pistol, used in Chapter 17 to shoot the hammerhead shark."
         },
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "note": "邦德配枪；第1章在海滩被搜走；第23章起重新佩戴，突袭时用以射击布洛菲尔德"
+          "note": "邦德配枪；第1章在海滩被搜走；第23章起重新佩戴，突袭时用以射击布洛菲尔德",
+          "note_en": "Bond's service pistol; taken from him on the beach in Chapter 1, worn again from Chapter 23, and used to shoot Blofeld in the raid."
         },
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "note": "邦德的配枪，7.65毫米口径；第15章决斗中邦德以此枪五发击毙斯卡拉曼加"
+          "note": "邦德的配枪，7.65毫米口径；第15章决斗中邦德以此枪五发击毙斯卡拉曼加",
+          "note_en": "Bond's service pistol, 7.65 mm calibre; in Chapter 15 Bond kills Scaramanga with five shots from it in the duel."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "beretta-418",
@@ -52,24 +59,29 @@
         {
           "novel": "casino-royale",
           "novel_no": 1,
-          "note": "邦德配枪，点25口径扁平自动手枪，镂空握把，左肩皮套携带；被俘时被勒·希弗收走"
+          "note": "邦德配枪，点25口径扁平自动手枪，镂空握把，左肩皮套携带；被俘时被勒·希弗收走",
+          "note_en": "Bond's service pistol, a flat .25 automatic, skeleton grip, carried in a leather holster under the left shoulder; taken by Le Chiffre when Bond is captured."
         },
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "note": "邦德配枪，0.25口径，镂空握把，配麂皮肩套；在Boneyard被Tee-Hee缴去，Mr Big退出子弹后归还"
+          "note": "邦德配枪，0.25口径，镂空握把，配麂皮肩套；在Boneyard被Tee-Hee缴去，Mr Big退出子弹后归还",
+          "note_en": "Bond's service pistol, .25 calibre, skeleton grip, with a chamois shoulder holster; taken from him by Tee-Hee at the Boneyard, then returned by Mr Big after the bullets are removed."
         },
         {
           "novel": "moonraker",
           "novel_no": 3,
-          "note": "邦德配枪,0.25口径,骨架握把,肩套携带,结尾M赠送一把新枪"
+          "note": "邦德配枪,0.25口径,骨架握把,肩套携带,结尾M赠送一把新枪",
+          "note_en": "Bond's service pistol, .25 calibre, skeleton grip, carried in a shoulder holster; at the end M gives him a new one."
         },
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "note": "邦德配枪，.25口径半自动，弹匣8发，左腋枪套；结尾被邦德交给纳什，后用于伪造自杀现场的计划"
+          "note": "邦德配枪，.25口径半自动，弹匣8发，左腋枪套；结尾被邦德交给纳什，后用于伪造自杀现场的计划",
+          "note_en": "Bond's service pistol, .25 semi-automatic, 8-round magazine, left armpit holster; at the end Bond hands it to Nash, and it is later used in the plan to fake a suicide."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "colt-army-special",
@@ -81,14 +93,17 @@
         {
           "novel": "casino-royale",
           "novel_no": 1,
-          "note": "长枪管点45口径，藏于宾利仪表板下暗置枪套，邦德追车时取出"
+          "note": "长枪管点45口径，藏于宾利仪表板下暗置枪套，邦德追车时取出",
+          "note_en": "Long-barrel .45 calibre, hidden in a secret holster under the Bentley's dashboard, taken out by Bond during the car chase."
         },
         {
           "novel": "moonraker",
           "novel_no": 3,
-          "note": "邦德在追车时从仪表板下取出,后在撞车残骸中被发现"
+          "note": "邦德在追车时从仪表板下取出,后在撞车残骸中被发现",
+          "note_en": "Taken by Bond from under the dashboard during the car chase, later found in the wreckage after the crash."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "wire-recorder",
@@ -100,14 +115,17 @@
         {
           "novel": "casino-royale",
           "novel_no": 1,
-          "note": "蒙茨夫妇用无线拾音器经烟囱连接放大器与线录机监听邦德房间"
+          "note": "蒙茨夫妇用无线拾音器经烟囱连接放大器与线录机监听邦德房间",
+          "note_en": "The Montzes listen to Bond's room with a wireless pickup wired through the chimney to an amplifier and a wire recorder."
         },
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
-          "note": "ABC通过录音电话向蒂芙尼发令；Tiara酒店床头柜底亦藏线录机监听邦德房间"
+          "note": "ABC通过录音电话向蒂芙尼发令；Tiara酒店床头柜底亦藏线录机监听邦德房间",
+          "note_en": "ABC gives Tiffany orders over a recording telephone; a wire recorder is also hidden under the Tiara Hotel bedside table, listening to Bond's room."
         }
-      ]
+      ],
+      "kind_en": "Listening device"
     },
     {
       "id": "champion-harpoon",
@@ -119,14 +137,17 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "note": "法国产水下鱼叉枪，邦德用以击退章鱼与咬伤其肩的梭鱼"
+          "note": "法国产水下鱼叉枪，邦德用以击退章鱼与咬伤其肩的梭鱼",
+          "note_en": "French underwater spear gun, used by Bond to drive off an octopus and a barracuda that bites his shoulder."
         },
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
-          "note": "第5篇邦德猎魔鬼鱼用双橡筋鱼叉枪,配三叉针尖"
+          "note": "第5篇邦德猎魔鬼鱼用双橡筋鱼叉枪,配三叉针尖",
+          "note_en": "Fifth story: double-rubber spear gun with a three-pronged point, used by Bond to hunt manta rays."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "luger",
@@ -138,19 +159,23 @@
         {
           "novel": "moonraker",
           "novel_no": 3,
-          "note": "巴奇用无编号鲁格枪杀塔隆后自杀,德拉克斯在第XXII章亦持鲁格指着邦德与盖拉"
+          "note": "巴奇用无编号鲁格枪杀塔隆后自杀,德拉克斯在第XXII章亦持鲁格指着邦德与盖拉",
+          "note_en": "Basche kills Tallon with an unnumbered Luger, then kills himself; Drax also holds a Luger on Bond and Gala in Chapter XXII."
         },
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "note": "邦德从被摔死的德国守卫肩套中取走，劫机时双枪之一"
+          "note": "邦德从被摔死的德国守卫肩套中取走，劫机时双枪之一",
+          "note_en": "Taken by Bond from the shoulder holster of the German guard killed in the fall; one of the two guns used in the hijack."
         },
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
-          "note": "第1篇杀手与地堡小组首领配枪;第4篇Colombo手下人人配Luger"
+          "note": "第1篇杀手与地堡小组首领配枪;第4篇Colombo手下人人配Luger",
+          "note_en": "First story: pistol of the killer and the bunker party's leader; fourth story: every one of Colombo's men carries a Luger."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "ronson-lighter",
@@ -162,14 +187,17 @@
         {
           "novel": "moonraker",
           "novel_no": 3,
-          "note": "邦德黑色氧化打火机,第XXIII章用牙齿点燃喷灯的关键工具"
+          "note": "邦德黑色氧化打火机,第XXIII章用牙齿点燃喷灯的关键工具",
+          "note_en": "Bond's black-oxidised lighter, the key tool in Chapter XXIII, when he lights the blowlamp with his teeth."
         },
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
-          "note": "邦德的枪金属打火机，与其烟盒同款；为薇薇安点烟时两人手相触"
+          "note": "邦德的枪金属打火机，与其烟盒同款；为薇薇安点烟时两人手相触",
+          "note_en": "Bond's gunmetal lighter, matching his cigarette case; when he lights Vivienne's cigarette their hands touch."
         }
-      ]
+      ],
+      "kind_en": "Tool"
     },
     {
       "id": "shoe-knife",
@@ -181,14 +209,17 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "note": "邦德鞋跟暗藏的双刃匕首，诺克斯堡行动与劫机时均使用；劫机时以此刺破机窗"
+          "note": "邦德鞋跟暗藏的双刃匕首，诺克斯堡行动与劫机时均使用；劫机时以此刺破机窗",
+          "note_en": "Double-edged dagger hidden in Bond's shoe heel, used in both the Fort Knox operation and the hijack; in the hijack it pierces the aircraft window."
         },
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "note": "第1章邦德藏在鞋跟，登船时转移到裤袋，在德拉科面前掷向日历"
+          "note": "第1章邦德藏在鞋跟，登船时转移到裤袋，在德拉科面前掷向日历",
+          "note_en": "Hidden by Bond in his shoe heel in Chapter 1, moved to his trouser pocket on boarding, and thrown at the calendar in front of Draco."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "colt-police-positive",
@@ -200,9 +231,11 @@
         {
           "novel": "casino-royale",
           "novel_no": 1,
-          "note": "点38口径锯短枪管，邦德睡前藏于枕下"
+          "note": "点38口径锯短枪管，邦德睡前藏于枕下",
+          "note_en": "Point .38 calibre with a sawn-off barrel, hidden by Bond under his pillow before bed."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "cane-gun",
@@ -214,9 +247,11 @@
         {
           "novel": "casino-royale",
           "novel_no": 1,
-          "note": "科西嘉枪手的拐杖实为消音手枪，枪管由软橡胶隔板组成，子弹为达姆弹，牌桌暗杀时被邦德撞断"
+          "note": "科西嘉枪手的拐杖实为消音手枪，枪管由软橡胶隔板组成，子弹为达姆弹，牌桌暗杀时被邦德撞断",
+          "note_en": "The Corsican gunman's walking stick is in fact a silenced pistol, its barrel made of soft rubber baffles, firing dum-dum bullets; Bond breaks it during the assassination attempt at the card table."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "smersh-pistol",
@@ -228,9 +263,11 @@
         {
           "novel": "casino-royale",
           "novel_no": 1,
-          "note": "SMERSH特工所用，枪声仅如牙膏管冒泡，两名枪手各中一发点35子弹死于后脑，勒·希弗眉心中弹"
+          "note": "SMERSH特工所用，枪声仅如牙膏管冒泡，两名枪手各中一发点35子弹死于后脑，勒·希弗眉心中弹",
+          "note_en": "Used by SMERSH agents; the shot sounds only like a toothpaste tube bubbling, and the two gunmen each take a .35 bullet in the back of the head, Le Chiffre one between the eyes."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "carpet-beater",
@@ -242,9 +279,11 @@
         {
           "novel": "casino-royale",
           "novel_no": 1,
-          "note": "三英尺长藤制地毯拍，勒·希弗用以抽打邦德下体逼供"
+          "note": "三英尺长藤制地毯拍，勒·希弗用以抽打邦德下体逼供",
+          "note_en": "Three-foot cane carpet-beater, used by Le Chiffre to beat Bond's genitals to make him talk."
         }
-      ]
+      ],
+      "kind_en": "Torture implement"
     },
     {
       "id": "stiletto",
@@ -256,9 +295,11 @@
         {
           "novel": "casino-royale",
           "novel_no": 1,
-          "note": "SMERSH特工用以在邦德右手背刻下俄文字母Ш"
+          "note": "SMERSH特工用以在邦德右手背刻下俄文字母Ш",
+          "note_en": "Used by a SMERSH agent to carve the Russian letter Ш on the back of Bond's right hand."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "vesper-martini",
@@ -270,9 +311,11 @@
         {
           "novel": "casino-royale",
           "novel_no": 1,
-          "note": "邦德发明：3份戈登金酒、1份伏特加、半份Kina Lillet，摇至冰冷，加大片薄柠檬皮，以薇丝朋之名命名"
+          "note": "邦德发明：3份戈登金酒、1份伏特加、半份Kina Lillet，摇至冰冷，加大片薄柠檬皮，以薇丝朋之名命名",
+          "note_en": "Bond's invention: three parts Gordon's gin, one part vodka, half a part Kina Lillet, shaken ice-cold, with a large thin slice of lemon peel, named after Vesper."
         }
-      ]
+      ],
+      "kind_en": "Drink"
     },
     {
       "id": "colt-38",
@@ -284,9 +327,11 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "note": "锯短枪管，邦德由Tee-Hee尸体上夺得，用以在车库击毙两名男子"
+          "note": "锯短枪管，邦德由Tee-Hee尸体上夺得，用以在车库击毙两名男子",
+          "note_en": "Sawn-off barrel, taken by Bond from Tee-Hee's body and used to kill two men in the garage."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "remington-30",
@@ -298,9 +343,11 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "note": "The Robber在Ourobouros仓库门口擦拭的步枪，用以射杀鹈鹕示威，后在仓库内与邦德交火"
+          "note": "The Robber在Ourobouros仓库门口擦拭的步枪，用以射杀鹈鹕示威，后在仓库内与邦德交火",
+          "note_en": "Rifle The Robber polishes at the door of the Ourobouros warehouse, used to shoot a pelican as a show of force, then fired at Bond inside the warehouse."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "desk-gun",
@@ -312,9 +359,11 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "note": "Mr Big书桌抽屉内的暗枪，枪口为面向邦德座椅的0.45厘米钥匙孔，由桌下脚踏开关击发"
+          "note": "Mr Big书桌抽屉内的暗枪，枪口为面向邦德座椅的0.45厘米钥匙孔，由桌下脚踏开关击发",
+          "note_en": "Hidden gun in Mr Big's desk drawer, its muzzle the 0.45-cm keyhole facing Bond's chair, fired by a foot switch under the desk."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "alarm-clock-bomb",
@@ -326,9 +375,11 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "note": "半分钟酸液胶囊腐蚀铜线后触发4口径象枪空包弹，仅炸碎玻璃器皿，为Mr Big的警告名片"
+          "note": "半分钟酸液胶囊腐蚀铜线后触发4口径象枪空包弹，仅炸碎玻璃器皿，为Mr Big的警告名片",
+          "note_en": "An acid capsule eats through a copper wire in half a minute, setting off a 4-bore elephant-gun blank that only shatters glassware, Mr Big's calling card of warning."
         }
-      ]
+      ],
+      "kind_en": "Explosive"
     },
     {
       "id": "frogman-suit",
@@ -340,9 +391,11 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "note": "黑色薄橡胶潜水服，由Q部门提供，配双气瓶各1000升自由空气、200大气压，水下可用近两小时"
+          "note": "黑色薄橡胶潜水服，由Q部门提供，配双气瓶各1000升自由空气、200大气压，水下可用近两小时",
+          "note_en": "Thin black rubber diving suit supplied by Q Branch, with twin cylinders of 1,000 litres of free air each at 200 atmospheres, good for nearly two hours underwater."
         }
-      ]
+      ],
+      "kind_en": "Diving gear"
     },
     {
       "id": "commando-dagger",
@@ -354,9 +407,11 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "note": "Wilkinson战时设计款，邦德水下随身携带"
+          "note": "Wilkinson战时设计款，邦德水下随身携带",
+          "note_en": "Wartime Wilkinson design, carried by Bond underwater."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "limpet-mine",
@@ -368,9 +423,11 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "note": "扁锥形磁性水雷，配10分钟至8小时引信，邦德选用7小时引信装于Secatur号龙骨，约6时爆炸沉船"
+          "note": "扁锥形磁性水雷，配10分钟至8小时引信，邦德选用7小时引信装于Secatur号龙骨，约6时爆炸沉船",
+          "note_en": "Flat conical magnetic mine, with a fuse of 10 minutes to 8 hours; Bond chooses a 7-hour fuse, fixing it to the Secatur's keel, and it explodes at about 6 a.m., sinking the ship."
         }
-      ]
+      ],
+      "kind_en": "Explosive"
     },
     {
       "id": "shark-repellent",
@@ -382,9 +439,11 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "note": "醋酸铜加黑色苯胺染料混合物，美国海军实验室研制，邦德行动时尚未运到，未能使用"
+          "note": "醋酸铜加黑色苯胺染料混合物，美国海军实验室研制，邦德行动时尚未运到，未能使用",
+          "note_en": "Mixture of copper acetate and black aniline dye, developed by an American naval laboratory; it has not arrived by the time of Bond's operation, so it is never used."
         }
-      ]
+      ],
+      "kind_en": "Protective gear"
     },
     {
       "id": "rolex",
@@ -396,9 +455,11 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "note": "邦德水下计时用，装水雷时显示23时03分"
+          "note": "邦德水下计时用，装水雷时显示23时03分",
+          "note_en": "Used by Bond to time himself underwater, showing 23:03 when he lays the mine."
         }
-      ]
+      ],
+      "kind_en": "Timer"
     },
     {
       "id": "colt-detective-special",
@@ -410,9 +471,11 @@
         {
           "novel": "moonraker",
           "novel_no": 3,
-          "note": "第I章射击场用枪,0.38口径"
+          "note": "第I章射击场用枪,0.38口径",
+          "note_en": "Chapter I: range pistol, .38 calibre."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "leica-camera",
@@ -424,9 +487,11 @@
         {
           "novel": "moonraker",
           "novel_no": 3,
-          "note": "邦德用闪光灯附件拍摄海图上的指纹"
+          "note": "邦德用闪光灯附件拍摄海图上的指纹",
+          "note_en": "Used by Bond with a flash attachment to photograph the fingerprints on the sea chart."
         }
-      ]
+      ],
+      "kind_en": "Tool"
     },
     {
       "id": "night-glasses-7x50",
@@ -438,9 +503,11 @@
         {
           "novel": "moonraker",
           "novel_no": 3,
-          "note": "塔隆遗留的德国望远镜,邦德推断其用于夜间观察海面"
+          "note": "塔隆遗留的德国望远镜,邦德推断其用于夜间观察海面",
+          "note_en": "German telescope left by Tallon, which Bond deduces was used to watch the sea at night."
         }
-      ]
+      ],
+      "kind_en": "Tool"
     },
     {
       "id": "blowtorch",
@@ -452,9 +519,11 @@
         {
           "novel": "moonraker",
           "novel_no": 3,
-          "note": "德拉克斯办公室桌上的喷灯,邦德用它烧断绑绳脱困"
+          "note": "德拉克斯办公室桌上的喷灯,邦德用它烧断绑绳脱困",
+          "note_en": "Blowlamp on Drax's office desk, which Bond uses to burn through his bonds and escape."
         }
-      ]
+      ],
+      "kind_en": "Tool"
     },
     {
       "id": "silver-cigarette-case",
@@ -466,9 +535,11 @@
         {
           "novel": "moonraker",
           "novel_no": 3,
-          "note": "德拉克斯用作Shiner反光镜偷看牌面"
+          "note": "德拉克斯用作Shiner反光镜偷看牌面",
+          "note_en": "Used by Drax as a shiner mirror to glimpse the cards."
         }
-      ]
+      ],
+      "kind_en": "Cheating device"
     },
     {
       "id": "fingerprint-powder",
@@ -480,9 +551,11 @@
         {
           "novel": "moonraker",
           "novel_no": 3,
-          "note": "邦德用以显现海图上的指纹"
+          "note": "邦德用以显现海图上的指纹",
+          "note_en": "Used by Bond to bring out fingerprints on the sea chart."
         }
-      ]
+      ],
+      "kind_en": "Tool"
     },
     {
       "id": "beretta-25",
@@ -494,14 +567,17 @@
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
-          "note": "邦德配枪，骨架式握把，M在上次任务后所赠；邦德亲手把撞针锉尖、锯掉准星；配消音器与30发点25子弹，藏于公文箱暗格；女王号上装消音器击毙温特与基德，对火车射出最后4发子弹"
+          "note": "邦德配枪，骨架式握把，M在上次任务后所赠；邦德亲手把撞针锉尖、锯掉准星；配消音器与30发点25子弹，藏于公文箱暗格；女王号上装消音器击毙温特与基德，对火车射出最后4发子弹",
+          "note_en": "Bond's service pistol, skeleton grip, given by M after the last mission; Bond files the firing pin to a point himself and files off the foresight; with a silencer and 30 rounds of .25 ammunition, hidden in the secret compartment of the attaché case; aboard the Queen Elizabeth it kills Wint and Kidd with the silencer fitted, and fires its last 4 rounds at the train."
         },
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "note": "邦德用了15年的旧配枪，枪管锯短、缠胶带；上一案中消音器导致卡壳，调查委员会裁定更换；第II章被M收缴留在办公桌上，布思罗伊德称其为女士枪、制止力不足"
+          "note": "邦德用了15年的旧配枪，枪管锯短、缠胶带；上一案中消音器导致卡壳，调查委员会裁定更换；第II章被M收缴留在办公桌上，布思罗伊德称其为女士枪、制止力不足",
+          "note_en": "Bond's old service pistol of 15 years, barrel sawn short and bound with tape; in the last case the silencer caused a jam, and a board of inquiry orders it replaced; in Chapter II M confiscates it and leaves it on his desk, and Boothroyd calls it a lady's gun, lacking stopping power."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "throwing-knife",
@@ -513,9 +589,11 @@
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
-          "note": "沙迪·特里袖中藏双刃飞刀（胶布缠柄）；温特在女王号上向邦德掷出飞刀，划伤其肋部"
+          "note": "沙迪·特里袖中藏双刃飞刀（胶布缠柄）；温特在女王号上向邦德掷出飞刀，划伤其肋部",
+          "note_en": "Double-edged throwing knife hidden up Shady Tree's sleeve (handle bound with tape); Wint throws a knife at Bond aboard the Queen Elizabeth, grazing his ribs."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "police-positive-38",
@@ -527,9 +605,11 @@
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
-          "note": "温特在泥浴场与幽灵村所用手枪"
+          "note": "温特在泥浴场与幽灵村所用手枪",
+          "note_en": "Pistol used by Wint at the mud baths and in Spectreville."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "colt-45",
@@ -541,19 +621,23 @@
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
-          "note": "邦德判断基德在泥浴场所持手枪可能为点45柯尔特"
+          "note": "邦德判断基德在泥浴场所持手枪可能为点45柯尔特",
+          "note_en": "Bond judges the pistol Kidd holds at the mud baths to be probably a .45 Colt."
         },
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "note": "藏于DB III驾驶座下暗格"
+          "note": "藏于DB III驾驶座下暗格",
+          "note_en": "Hidden in the secret compartment under the DB III's driving seat."
         },
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
-          "note": "第1篇邦德冒充通讯兵时藏在上衣内的手枪,一枪击毙杀手"
+          "note": "第1篇邦德冒充通讯兵时藏在上衣内的手枪,一枪击毙杀手",
+          "note_en": "First story: pistol hidden inside Bond's tunic when he impersonates a signalman, killing the assassin with one shot."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "bofors",
@@ -565,9 +649,11 @@
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
-          "note": "结尾邦德在卡车上操作博福斯炮，以曳光弹击落斯班格的直升机"
+          "note": "结尾邦德在卡车上操作博福斯炮，以曳光弹击落斯班格的直升机",
+          "note_en": "At the end Bond operates a Bofors gun from a lorry, shooting down Spang's helicopter with tracer fire."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "jewellers-glass",
@@ -579,9 +665,11 @@
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
-          "note": "M教邦德辨钻所用，邦德初以石英当钻石"
+          "note": "M教邦德辨钻所用，邦德初以石英当钻石",
+          "note_en": "Used by M to teach Bond to tell diamonds; Bond first mistakes quartz for a diamond."
         }
-      ]
+      ],
+      "kind_en": "Tool"
     },
     {
       "id": "sound-locator",
@@ -593,9 +681,11 @@
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
-          "note": "结尾弗里敦驻军用其监听直升机接近，报出距离30英里、时速120、高度900英尺"
+          "note": "结尾弗里敦驻军用其监听直升机接近，报出距离30英里、时速120、高度900英尺",
+          "note_en": "At the end the Freetown garrison uses it to listen for the approaching helicopter, reporting a distance of 30 miles, speed 120 m.p.h. and height 900 feet."
         }
-      ]
+      ],
+      "kind_en": "Tool"
     },
     {
       "id": "beretta-silencer",
@@ -607,9 +697,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "note": "藏于棕榄牌剃须膏管中，由Q处提供"
+          "note": "藏于棕榄牌剃须膏管中，由Q处提供",
+          "note_en": "Hidden in a Palmolive shaving-cream tube, supplied by Q Branch."
         }
-      ]
+      ],
+      "kind_en": "Weapon accessory"
     },
     {
       "id": "q-attach-case",
@@ -621,9 +713,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "note": "斯韦恩与阿德尼制，夹层藏50发.25子弹、两把威尔金森飞刀、氰化物药片暗格与50枚金镑"
+          "note": "斯韦恩与阿德尼制，夹层藏50发.25子弹、两把威尔金森飞刀、氰化物药片暗格与50枚金镑",
+          "note_en": "Made by Swaine & Adeney, its lining hiding 50 rounds of .25 ammunition, two Wilkinson throwing knives, a secret compartment with a cyanide pill, and 50 gold sovereigns."
         }
-      ]
+      ],
+      "kind_en": "Equipment"
     },
     {
       "id": "throwing-knives",
@@ -635,9 +729,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "note": "藏于手提箱两侧，邦德以其中一把刺中格蘭特腹股沟动脉反杀"
+          "note": "藏于手提箱两侧，邦德以其中一把刺中格蘭特腹股沟动脉反杀",
+          "note_en": "Hidden in the sides of the suitcase; Bond stabs Grant in the groin artery with one of them and kills him."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "book-gun",
@@ -649,9 +745,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "note": "格蘭特的武器，书脊藏枪管，电池击发，10发.25达姆弹；邦德夺枪后以其射杀格蘭特"
+          "note": "格蘭特的武器，书脊藏枪管，电池击发，10发.25达姆弹；邦德夺枪后以其射杀格蘭特",
+          "note_en": "Grant's weapon, the barrel hidden in the book's spine, fired by battery, with 10 rounds of .25 dum-dum; Bond seizes it and shoots Grant with it."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "spektor",
@@ -663,9 +761,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "note": "苏联全新密码机，诱饵核心；格蘭特透露机内装有炸弹，待英国密码专家拆解时爆炸；结尾由法国第二局拆弹组取走"
+          "note": "苏联全新密码机，诱饵核心；格蘭特透露机内装有炸弹，待英国密码专家拆解时爆炸；结尾由法国第二局拆弹组取走",
+          "note_en": "Brand-new Soviet cipher machine, the heart of the bait; Grant reveals a bomb is hidden inside, set to explode when British cipher experts take it apart; at the end it is removed by a Deuxieme Bureau bomb-disposal team."
         }
-      ]
+      ],
+      "kind_en": "Cipher equipment"
     },
     {
       "id": "poison-needles",
@@ -677,9 +777,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "note": "克莱布在丽兹酒店所用，针尖烧灼变色，疑为德国神经毒剂，划破即致命"
+          "note": "克莱布在丽兹酒店所用，针尖烧灼变色，疑为德国神经毒剂，划破即致命",
+          "note_en": "Used by Klebb at the Ritz Hotel; the needle tip is heat-discoloured, suspected to be a German nerve poison, fatal on the slightest scratch."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "telephone-gun",
@@ -691,9 +793,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "note": "克莱布在丽兹酒店204房的伪装电话，可发射子弹"
+          "note": "克莱布在丽兹酒店204房的伪装电话，可发射子弹",
+          "note_en": "Klebb's disguised telephone in Room 204 of the Ritz Hotel, which can fire a bullet."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "poison-shoe",
@@ -705,9 +809,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "note": "克莱布靴尖弹出的半英寸毒刃，划伤邦德右小腿致其毒发倒地"
+          "note": "克莱布靴尖弹出的半英寸毒刃，划伤邦德右小腿致其毒发倒地",
+          "note_en": "Half-inch poisoned blade springing from the toe of Klebb's boot, scratching Bond's right calf and bringing him down with the poison."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "sniperscope",
@@ -719,14 +825,17 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "note": "德国造红外镜，克里姆用于夜间瞄准克里连库"
+          "note": "德国造红外镜，克里姆用于夜间瞄准克里连库",
+          "note_en": "German-made infrared sight, used by Kerim to aim at Krilencu at night."
         },
         {
           "novel": "octopussy",
           "novel_no": 14,
-          "note": "第2篇装于Winchester步枪上方，夜间可看清500码靶面颜色与6英寸靶心"
+          "note": "第2篇装于Winchester步枪上方，夜间可看清500码靶面颜色与6英寸靶心",
+          "note_en": "Second story: fitted above the Winchester rifle, showing the colours of a 500-yard target and its 6-inch bull at night."
         }
-      ]
+      ],
+      "kind_en": "Optical equipment"
     },
     {
       "id": "winchester-88",
@@ -738,9 +847,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "note": "克里姆伪装成手杖的消音步枪，.308短弹3发，安卡拉改装；射杀克里连库"
+          "note": "克里姆伪装成手杖的消音步枪，.308短弹3发，安卡拉改装；射杀克里连库",
+          "note_en": "Kerim's silenced rifle disguised as a walking stick, three .308 short rounds, adapted in Ankara; used to shoot Krilencu."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "limpet-bomb",
@@ -752,9 +863,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "note": "克里连库装于克里姆办公室外墙，定时引爆未遂"
+          "note": "克里连库装于克里姆办公室外墙，定时引爆未遂",
+          "note_en": "Planted by Krilencu on the outside wall of Kerim's office, a timed charge that fails to go off."
         }
-      ]
+      ],
+      "kind_en": "Explosive"
     },
     {
       "id": "tunnel-bomb",
@@ -766,9 +879,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "note": "克里姆埋于俄国中心办公室下方的巨型炸弹，由办公室抽屉内无线电遥控引爆；克里姆死后其手下引爆，炸毁苏联办事处"
+          "note": "克里姆埋于俄国中心办公室下方的巨型炸弹，由办公室抽屉内无线电遥控引爆；克里姆死后其手下引爆，炸毁苏联办事处",
+          "note_en": "Huge bomb buried by Kerim under the Russian Centre offices, detonated by radio from a drawer in the office; after Kerim's death his men set it off, destroying the Soviet offices."
         }
-      ]
+      ],
+      "kind_en": "Explosive"
     },
     {
       "id": "periscope",
@@ -780,9 +895,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "note": "土耳其海军剩余物资，克里姆装于地道中窥视俄国中心办公室"
+          "note": "土耳其海军剩余物资，克里姆装于地道中窥视俄国中心办公室",
+          "note_en": "Surplus Turkish navy stores, installed by Kerim in the tunnel to spy on the Russian Centre offices."
         }
-      ]
+      ],
+      "kind_en": "Reconnaissance equipment"
     },
     {
       "id": "smith-wesson-centennial",
@@ -794,9 +911,11 @@
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "note": "第II章布思罗伊德推荐的重型配枪，0.38口径无击锤转轮手枪，全长6.5英寸、重13盎司、弹仓5发，发射0.38史密斯-韦森特种弹；邦德登岛时携带此枪，在红树林近距离击毙一名守卫，后在第XII章被迫交出"
+          "note": "第II章布思罗伊德推荐的重型配枪，0.38口径无击锤转轮手枪，全长6.5英寸、重13盎司、弹仓5发，发射0.38史密斯-韦森特种弹；邦德登岛时携带此枪，在红树林近距离击毙一名守卫，后在第XII章被迫交出",
+          "note_en": "Chapter II: heavy service pistol recommended by Boothroyd, a .38 hammerless revolver, 6.5 inches long, 13 ounces, five-shot cylinder, firing .38 Smith & Wesson Special; Bond carries it onto the island, kills a guard at close range in the mangrove swamp, and is forced to hand it over in Chapter XII."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "berns-martin-holster",
@@ -808,9 +927,11 @@
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "note": "布思罗伊德指定配瓦尔特PPK的硬鞍皮弹簧枪套，可20英尺外0.6秒出枪命中"
+          "note": "布思罗伊德指定配瓦尔特PPK的硬鞍皮弹簧枪套，可20英尺外0.6秒出枪命中",
+          "note_en": "Hard saddle-leather spring holster specified by Boothroyd for the Walther PPK, allowing a hit at 20 feet in 0.6 seconds from the draw."
         }
-      ]
+      ],
+      "kind_en": "Equipment"
     },
     {
       "id": "remington-carbine",
@@ -822,9 +943,11 @@
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "note": "第X章邦德击毙守卫后由夸雷尔缴获；第XII章夸雷尔以其射击巨龙的装甲驾驶舱无效；第XIX章邦德在车库武器架上又取一支射杀追来的杜宾犬群"
+          "note": "第X章邦德击毙守卫后由夸雷尔缴获；第XII章夸雷尔以其射击巨龙的装甲驾驶舱无效；第XIX章邦德在车库武器架上又取一支射杀追来的杜宾犬群",
+          "note_en": "Chapter X: taken by Quarrel after Bond shoots a guard; in Chapter XII Quarrel fires it at the armoured cabin of the dragon without effect; in Chapter XIX Bond takes another from the garage weapons rack and shoots the pursuing Dobermans."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "spandau",
@@ -836,9 +959,11 @@
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "note": "第IX章诺博士搜捕艇上的三脚架机枪，向海滩与红树林扫射"
+          "note": "第IX章诺博士搜捕艇上的三脚架机枪，向海滩与红树林扫射",
+          "note_en": "Chapter IX: tripod machine gun on Dr No's search boat, spraying the beach and the mangrove swamp."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "dragon-marsh-buggy",
@@ -850,9 +975,11 @@
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "note": "诺博士从佛罗里达购入的沼泽车改装：装甲圆顶驾驶舱、巨大实心橡胶轮、黑金涂装龙头、短翼与尖尾，配火焰喷射器；可穿越沼泽、红树林与浅湖；第XII章烧死夸雷尔，第XIX章被邦德夺取用作逃生工具"
+          "note": "诺博士从佛罗里达购入的沼泽车改装：装甲圆顶驾驶舱、巨大实心橡胶轮、黑金涂装龙头、短翼与尖尾，配火焰喷射器；可穿越沼泽、红树林与浅湖；第XII章烧死夸雷尔，第XIX章被邦德夺取用作逃生工具",
+          "note_en": "Swamp vehicle bought by Dr No in Florida and adapted: armoured domed cabin, huge solid rubber wheels, black-and-gold dragon's head, short wings and a pointed tail, fitted with a flame-thrower; it can cross marshes, mangrove swamps and shallow lakes; in Chapter XII it burns Quarrel to death, and in Chapter XIX Bond seizes it to escape."
         }
-      ]
+      ],
+      "kind_en": "Vehicle and weapon"
     },
     {
       "id": "radar",
@@ -864,9 +991,11 @@
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "note": "诺博士岛上的雷达发现了哈妮独木舟的帆，邦德一行登岛时降帆划桨以避开雷达探测"
+          "note": "诺博士岛上的雷达发现了哈妮独木舟的帆，邦德一行登岛时降帆划桨以避开雷达探测",
+          "note_en": "Radar on Dr No's island spots the sail of Honey's canoe; Bond's party lowers the sail and paddles to avoid detection when landing."
         }
-      ]
+      ],
+      "kind_en": "Equipment"
     },
     {
       "id": "russian-cipher-machine",
@@ -878,9 +1007,11 @@
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "note": "莫斯科提供给诺博士的密码机与专用频率，诺博士另设一名秘密监听员持有副本监视其余6名技术员"
+          "note": "莫斯科提供给诺博士的密码机与专用频率，诺博士另设一名秘密监听员持有副本监视其余6名技术员",
+          "note_en": "Cipher machine and private frequency supplied by Moscow to Dr No, who also posts a secret listener with a copy to watch the other six technicians."
         }
-      ]
+      ],
+      "kind_en": "Equipment"
     },
     {
       "id": "walkie-talkie",
@@ -892,9 +1023,11 @@
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "note": "诺博士藏于和服胸前，用以召唤保镖萨姆-萨姆"
+          "note": "诺博士藏于和服胸前，用以召唤保镖萨姆-萨姆",
+          "note_en": "Hidden by Dr No in the front of his kimono, used to summon his bodyguard Sam-Sam."
         }
-      ]
+      ],
+      "kind_en": "Equipment"
     },
     {
       "id": "steel-pincers",
@@ -906,9 +1039,11 @@
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "note": "诺博士失去双手后安装的机械手，金属杆末端为可开合钢钳，藏于黑色丝绸袖中；第XIII章夜里他以钢钳掀开熟睡者的被单检查身体"
+          "note": "诺博士失去双手后安装的机械手，金属杆末端为可开合钢钳，藏于黑色丝绸袖中；第XIII章夜里他以钢钳掀开熟睡者的被单检查身体",
+          "note_en": "Mechanical hands fitted after Dr No loses his own: steel pincers at the end of metal rods, hidden in black silk sleeves; in Chapter XIII he lifts the sleepers' sheets with the pincers at night to inspect their bodies."
         }
-      ]
+      ],
+      "kind_en": "Equipment"
     },
     {
       "id": "wire-spear",
@@ -920,9 +1055,11 @@
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "note": "第XVII章邦德拆下带电通风栅的铁丝网制成的约4英尺长矛，一端弯成钩；第XVIII章以其刺瞎巨型鱿鱼的眼睛"
+          "note": "第XVII章邦德拆下带电通风栅的铁丝网制成的约4英尺长矛，一端弯成钩；第XVIII章以其刺瞎巨型鱿鱼的眼睛",
+          "note_en": "Chapter XVII: spear of about 4 feet made by Bond from the wire mesh of the electrified ventilator grille, one end bent into a hook; in Chapter XVIII he blinds the giant squid's eye with it."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "colt-25",
@@ -934,9 +1071,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "note": "金手指的配枪，自称射右眼从不失手；飞机上被邦德夺走，弹仓剩三发、膛内一发"
+          "note": "金手指的配枪，自称射右眼从不失手；飞机上被邦德夺走，弹仓剩三发、膛内一发",
+          "note_en": "Goldfinger's pistol; he claims never to miss the right eye; seized by Bond on the aircraft, with three rounds left in the magazine and one in the chamber."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "bazooka",
@@ -948,9 +1087,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "note": "莱特携带的一人火箭筒，邦德用它射击逃逸的柴油机车，未命中要害"
+          "note": "莱特携带的一人火箭筒，邦德用它射击逃逸的柴油机车，未命中要害",
+          "note_en": "One-man bazooka carried by Leiter; Bond fires it at the escaping diesel locomotive, without hitting anything vital."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "oddjob-hat",
@@ -962,9 +1103,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "note": "轻而坚固的合金帽沿，可嵌入木板一英寸深；在诺克斯堡割断蒂莉颈部致其死亡"
+          "note": "轻而坚固的合金帽沿，可嵌入木板一英寸深；在诺克斯堡割断蒂莉颈部致其死亡",
+          "note_en": "Light, tough alloy hat brim, able to sink an inch deep into a plank; at Fort Knox it cuts Tilly's throat and kills her."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "oddjob-bow",
@@ -976,9 +1119,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "note": "在科佩树林中一箭射中邦德身旁树干，箭羽颤动，迫使两人就范"
+          "note": "在科佩树林中一箭射中邦德身旁树干，箭羽颤动，迫使两人就范",
+          "note_en": "An arrow shot into the tree trunk beside Bond in the Coppet woods, its feathers quivering, forcing the two of them to surrender."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "circular-saw",
@@ -990,9 +1135,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "note": "压力室刑具，沿钢桌中缝以每分钟约一英寸逼近邦德；原著中没有激光"
+          "note": "压力室刑具，沿钢桌中缝以每分钟约一英寸逼近邦德；原著中没有激光",
+          "note_en": "Torture device in the pressure chamber, closing on Bond along the slit in the steel table at about an inch a minute; there is no laser in the novel."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "atomic-warhead",
@@ -1004,9 +1151,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "note": "金手指花1,000,000美元自德国某盟军基地购得，用于炸开诺克斯堡金库；自称“清洁”原子弹，放射性沉降极小"
+          "note": "金手指花1,000,000美元自德国某盟军基地购得，用于炸开诺克斯堡金库；自称“清洁”原子弹，放射性沉降极小",
+          "note_en": "Bought by Goldfinger for $1,000,000 from an Allied base in Germany, to blow open the Fort Knox vault; he calls it a 'clean' atomic bomb, with very little radioactive fallout."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "gb-nerve-agent",
@@ -1018,9 +1167,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "note": "德国1943年完善的三酮类神经毒剂，苏军在迪伦福特缴获全部库存；金手指计划以三品脱经供水系统毒杀诺克斯堡居民，毒剂由两名日本人以杜松子酒名义携带，行动前被截获"
+          "note": "德国1943年完善的三酮类神经毒剂，苏军在迪伦福特缴获全部库存；金手指计划以三品脱经供水系统毒杀诺克斯堡居民，毒剂由两名日本人以杜松子酒名义携带，行动前被截获",
+          "note_en": "German triketone nerve agent perfected in 1943, its whole stock captured by the Russians at Dyhernfurth; Goldfinger plans to poison the people of Fort Knox with three pints of it through the water supply, the poison carried by two Japanese men as gin and intercepted before the operation."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "leica-m3",
@@ -1032,9 +1183,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "note": "邦德用其配MC测光表、K2滤镜与闪光灯拍下吉尔报牌现场"
+          "note": "邦德用其配MC测光表、K2滤镜与闪光灯拍下吉尔报牌现场",
+          "note_en": "Used by Bond with an MC light meter, a K2 filter and a flash to photograph Jill dealing the cards."
         }
-      ]
+      ],
+      "kind_en": "Apparatus"
     },
     {
       "id": "homer",
@@ -1046,9 +1199,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "note": "邦德植入劳斯莱斯工具箱的发射器与DB III车内接收器，百英里内可测向尾随"
+          "note": "邦德植入劳斯莱斯工具箱的发射器与DB III车内接收器，百英里内可测向尾随",
+          "note_en": "Transmitter planted by Bond in the Rolls-Royce's tool kit, with a receiver in the DB III, allowing him to track it by direction-finding within a hundred miles."
         }
-      ]
+      ],
+      "kind_en": "Apparatus"
     },
     {
       "id": "identicast",
@@ -1060,9 +1215,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "note": "总部档案室设备，邦德据此拼出金手指面部特征并送CID核查"
+          "note": "总部档案室设备，邦德据此拼出金手指面部特征并送CID核查",
+          "note_en": "Registry equipment at headquarters, from which Bond pieces together Goldfinger's features and sends them to the CID for checking."
         }
-      ]
+      ],
+      "kind_en": "Apparatus"
     },
     {
       "id": "gold-paint",
@@ -1074,9 +1231,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "note": "金手指每月将一名女子全身涂金漆取乐，脊柱留空以防窒息；吉尔被全身涂满后死亡"
+          "note": "金手指每月将一名女子全身涂金漆取乐，脊柱留空以防窒息；吉尔被全身涂满后死亡",
+          "note_en": "Every month Goldfinger has a girl painted all over with gold paint for his pleasure, leaving the spine bare to prevent suffocation; Jill, painted all over, dies."
         }
-      ]
+      ],
+      "kind_en": "Apparatus"
     },
     {
       "id": "sonic-detector",
@@ -1088,9 +1247,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "note": "科佩工厂烟囱顶形似雷达扫描器的装置，实为声波探测器，发现了树林中的邦德与蒂莉"
+          "note": "科佩工厂烟囱顶形似雷达扫描器的装置，实为声波探测器，发现了树林中的邦德与蒂莉",
+          "note_en": "Device on top of the Coppet factory chimney, shaped like a radar scanner but in fact a sonic detector, which finds Bond and Tilly in the woods."
         }
-      ]
+      ],
+      "kind_en": "Apparatus"
     },
     {
       "id": "hidden-cameras",
@@ -1102,9 +1263,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "note": "格兰奇别墅内三台隐藏摄影机，胶片收入卧室衣柜，邦德曝光胶片并嫁祸于猫"
+          "note": "格兰奇别墅内三台隐藏摄影机，胶片收入卧室衣柜，邦德曝光胶片并嫁祸于猫",
+          "note_en": "Three hidden cameras in the Grange villa, the film stored in the bedroom wardrobe; Bond exposes the film and blames the cat."
         }
-      ]
+      ],
+      "kind_en": "Apparatus"
     },
     {
       "id": "savage-99f",
@@ -1116,9 +1279,11 @@
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
-          "note": "第2篇Johns上校借给邦德的轻型大口径杠杆步枪,配Weatherby 6x62瞄准镜,5发装、.250-3000高速弹,有效射程500码"
+          "note": "第2篇Johns上校借给邦德的轻型大口径杠杆步枪,配Weatherby 6x62瞄准镜,5发装、.250-3000高速弹,有效射程500码",
+          "note_en": "Second story: light large-bore lever-action rifle lent to Bond by Colonel Johns, with a Weatherby 6x62 sight, five rounds of .250-3000 high-velocity ammunition, effective range 500 yards."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "judy-bow",
@@ -1130,9 +1295,11 @@
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
-          "note": "第2篇Judy的武器,铝羽钢箭,射杀Hammerstein"
+          "note": "第2篇Judy的武器,铝羽钢箭,射杀Hammerstein",
+          "note_en": "Second story: Judy's weapon, steel arrows with aluminium flights, used to shoot Hammerstein."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "grundig-recorder",
@@ -1144,9 +1311,11 @@
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
-          "note": "第4篇Colombo藏在邦德座椅垫中窃听其与Kristatos谈话的录音机"
+          "note": "第4篇Colombo藏在邦德座椅垫中窃听其与Kristatos谈话的录音机",
+          "note_en": "Fourth story: recorder hidden by Colombo in Bond's seat cushion to eavesdrop on his talk with Kristatos."
         }
-      ]
+      ],
+      "kind_en": "Bugging device"
     },
     {
       "id": "rotenone",
@@ -1158,9 +1327,11 @@
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
-          "note": "第5篇Krest用5加仑鱼藤酮毒杀Chagrin岛礁区以捕捉Hildebrand Rarity"
+          "note": "第5篇Krest用5加仑鱼藤酮毒杀Chagrin岛礁区以捕捉Hildebrand Rarity",
+          "note_en": "Fifth story: Krest poisons the Chagrin Island reef with 5 gallons of rotenone to catch the Hildebrand Rarity."
         }
-      ]
+      ],
+      "kind_en": "Toxic agent"
     },
     {
       "id": "corrector",
@@ -1172,9 +1343,11 @@
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
-          "note": "第5篇Krest床头所挂的Corrector,购自巴林,用于鞭打妻子Liz"
+          "note": "第5篇Krest床头所挂的Corrector,购自巴林,用于鞭打妻子Liz",
+          "note_en": "Fifth story: the Corrector hanging at Krest's bedhead, bought in Bahrain, used to whip his wife Liz."
         }
-      ]
+      ],
+      "kind_en": "Torture implement"
     },
     {
       "id": "co2-gun",
@@ -1186,9 +1359,11 @@
         {
           "novel": "thunderball",
           "novel_no": 9,
-          "note": "SPECTRE潜水队标配，射程约20英尺，矛头涂有箭毒"
+          "note": "SPECTRE潜水队标配，射程约20英尺，矛头涂有箭毒",
+          "note_en": "Standard issue for the SPECTRE diving team, range about 20 feet, the spearhead smeared with curare."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "geiger-counter",
@@ -1200,9 +1375,11 @@
         {
           "novel": "thunderball",
           "novel_no": 9,
-          "note": "莱特带来两台，一台伪装成禄莱照相机，一台水下型号；多米诺携带伪装型号登船"
+          "note": "莱特带来两台，一台伪装成禄莱照相机，一台水下型号；多米诺携带伪装型号登船",
+          "note_en": "Two brought by Leiter, one disguised as a Rolleiflex camera and one an underwater model; Domino takes the disguised one aboard."
         }
-      ]
+      ],
+      "kind_en": "Detection equipment"
     },
     {
       "id": "aqualung",
@@ -1216,7 +1393,8 @@
           "novel_no": 9,
           "note": null
         }
-      ]
+      ],
+      "kind_en": "Diving gear"
     },
     {
       "id": "underwater-chariot",
@@ -1228,9 +1406,11 @@
         {
           "novel": "thunderball",
           "novel_no": 9,
-          "note": "仿意大利二战载人鱼雷，由安萨尔多公司改进型"
+          "note": "仿意大利二战载人鱼雷，由安萨尔多公司改进型",
+          "note_en": "Copy of an Italian Second World War manned torpedo, an improved Ansaldo model."
         }
-      ]
+      ],
+      "kind_en": "Diving gear"
     },
     {
       "id": "underwater-sled",
@@ -1242,9 +1422,11 @@
         {
           "novel": "thunderball",
           "novel_no": 9,
-          "note": "用于水下运输重物，载运核弹"
+          "note": "用于水下运输重物，载运核弹",
+          "note_en": "Used to carry heavy loads underwater, including the nuclear bombs."
         }
-      ]
+      ],
+      "kind_en": "Diving gear"
     },
     {
       "id": "speed-pack",
@@ -1256,9 +1438,11 @@
         {
           "novel": "thunderball",
           "novel_no": 9,
-          "note": "SPECTRE潜水员背负，螺旋桨推进，速度翻倍"
+          "note": "SPECTRE潜水员背负，螺旋桨推进，速度翻倍",
+          "note_en": "Worn on the backs of SPECTRE divers, propeller-driven, doubling their speed."
         }
-      ]
+      ],
+      "kind_en": "Diving gear"
     },
     {
       "id": "cipher-machine",
@@ -1270,9 +1454,11 @@
         {
           "novel": "thunderball",
           "novel_no": 9,
-          "note": "邦德携带Triple X密码机与莱特的中情局密码机"
+          "note": "邦德携带Triple X密码机与莱特的中情局密码机",
+          "note_en": "Bond carries the Triple-X cipher machine and Leiter's CIA cipher machine."
         }
-      ]
+      ],
+      "kind_en": "Communications equipment"
     },
     {
       "id": "dexedrine",
@@ -1284,9 +1470,11 @@
         {
           "novel": "thunderball",
           "novel_no": 9,
-          "note": "拉戈发给水下布放小队提神增力"
+          "note": "拉戈发给水下布放小队提神增力",
+          "note_en": "Handed out by Largo to the underwater laying team as a stimulant."
         }
-      ]
+      ],
+      "kind_en": "Drug"
     },
     {
       "id": "spear-lance",
@@ -1298,9 +1486,11 @@
         {
           "novel": "thunderball",
           "novel_no": 9,
-          "note": "曼塔号水下战斗队以缴获的弹簧刀改制，绑在扫帚柄上"
+          "note": "曼塔号水下战斗队以缴获的弹簧刀改制，绑在扫帚柄上",
+          "note_en": "Made by the Manta's underwater combat team from captured flick-knives, lashed to broom handles."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "smith-wesson-police-positive",
@@ -1312,9 +1502,11 @@
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
-          "note": "邦德交给薇薇安防身的短管左轮，邦德称其为真正的制止者，教她瞄低、直臂、缓扣扳机"
+          "note": "邦德交给薇薇安防身的短管左轮，邦德称其为真正的制止者，教她瞄低、直臂、缓扣扳机",
+          "note_en": "Short-barrelled revolver given by Bond to Vivienne for self-defence; Bond calls it a real stopper, teaching her to aim low, keep her arm straight and squeeze the trigger slowly."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "bond-automatic",
@@ -1326,9 +1518,11 @@
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
-          "note": "邦德腋下枪套所佩自动手枪，夜战主力武器；另有一把备用枪曾压在薇薇安枕下"
+          "note": "邦德腋下枪套所佩自动手枪，夜战主力武器；另有一把备用枪曾压在薇薇安枕下",
+          "note_en": "Automatic pistol worn by Bond in his armpit holster, his main weapon in the night fight; a spare gun is also kept under Vivienne's pillow."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "sluggsy-gun",
@@ -1340,9 +1534,11 @@
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
-          "note": "斯拉格西枪法极准，20英尺外连发击中空中咖啡罐；追捕薇薇安时多次开枪"
+          "note": "斯拉格西枪法极准，20英尺外连发击中空中咖啡罐；追捕薇薇安时多次开枪",
+          "note_en": "Sluggsy is a crack shot, hitting a coffee can in the air at 20 feet with repeated fire; he fires several times while hunting Vivienne."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "sub-machine-gun",
@@ -1354,9 +1550,11 @@
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
-          "note": "多伦多枪战与旅馆夜战均出现；斯拉格西的冲锋枪被邦德击中后卡壳、空转扫射"
+          "note": "多伦多枪战与旅馆夜战均出现；斯拉格西的冲锋枪被邦德击中后卡壳、空转扫射",
+          "note_en": "Appears in both the Toronto shoot-out and the night fight at the motel; Sluggsy's submachine gun jams after Bond hits it, firing wildly on automatic."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "silencer",
@@ -1368,9 +1566,11 @@
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
-          "note": "打手射击邦德40号房假人时使用消音器，发出一连串闷响"
+          "note": "打手射击邦德40号房假人时使用消音器，发出一连串闷响",
+          "note_en": "Silencer used when the gunmen shoot the dummy in Bond's Room 40, making a series of muffled thuds."
         }
-      ]
+      ],
+      "kind_en": "Weapon attachment"
     },
     {
       "id": "thermite-bombs",
@@ -1382,9 +1582,11 @@
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
-          "note": "打手在每间小屋各放一枚，体积小、无汽油痕迹、不留保险调查线索；另沿有盖通道撒铝热剂粉末引火至大堂"
+          "note": "打手在每间小屋各放一枚，体积小、无汽油痕迹、不留保险调查线索；另沿有盖通道撒铝热剂粉末引火至大堂",
+          "note_en": "One placed by the gunmen in each cabin: small, leaving no petrol traces and no clues for insurance investigators; thermite powder is also scattered along the covered walkway to carry the fire to the lobby."
         }
-      ]
+      ],
+      "kind_en": "Arson tool"
     },
     {
       "id": "ice-pick",
@@ -1396,9 +1598,11 @@
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
-          "note": "薇薇安藏在裤腰内的防身武器，曾划伤霍勒右太阳穴"
+          "note": "薇薇安藏在裤腰内的防身武器，曾划伤霍勒右太阳穴",
+          "note_en": "Weapon Vivienne hides in her waistband for self-defence, once cutting Horror's right temple."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "carving-knife",
@@ -1410,9 +1614,11 @@
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
-          "note": "薇薇安藏在餐巾下的长利餐刀，夜战中挥砍未果后被打落"
+          "note": "薇薇安藏在餐巾下的长利餐刀，夜战中挥砍未果后被打落",
+          "note_en": "Long sharp table knife Vivienne hides under her napkin; she slashes with it in the night fight, misses, and it is knocked from her hand."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "benzedrine",
@@ -1424,14 +1630,17 @@
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
-          "note": "邦德服用的白色提神药片，一次两片，可保持整夜清醒"
+          "note": "邦德服用的白色提神药片，一次两片，可保持整夜清醒",
+          "note_en": "White stimulant pills taken by Bond, two at a time, keeping him awake all night."
         },
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
-          "note": "邦德潜入装备中的提神药片"
+          "note": "邦德潜入装备中的提神药片",
+          "note_en": "Stimulant pills in Bond's infiltration kit."
         }
-      ]
+      ],
+      "kind_en": "Drug"
     },
     {
       "id": "gillette-razor",
@@ -1443,9 +1652,11 @@
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "note": "第15章邦德将刀片夹于左手指间作指节武器；第16章打死守卫时改用砍刀手与劳力士表"
+          "note": "第15章邦德将刀片夹于左手指间作指节武器；第16章打死守卫时改用砍刀手与劳力士表",
+          "note_en": "In Chapter 15 Bond holds a razor blade between the fingers of his left hand as a knuckle weapon; in Chapter 16, killing the guard, he switches to a karate chop and his Rolex."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "rolex-oyster",
@@ -1457,9 +1668,11 @@
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "note": "邦德的手表；第16章用作指节铜套打死守卫，表盘碎裂；第23章从Q部门领到新表"
+          "note": "邦德的手表；第16章用作指节铜套打死守卫，表盘碎裂；第23章从Q部门领到新表",
+          "note_en": "Bond's watch; in Chapter 16 it is used as a knuckle-duster to kill the guard, the dial shattering; in Chapter 23 he collects a new one from Q Branch."
         }
-      ]
+      ],
+      "kind_en": "Equipment"
     },
     {
       "id": "plastic-strip",
@@ -1471,9 +1684,11 @@
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "note": "第12章邦德从滑雪车间偷来作开锁片，谎称借作尺子；第13章分给鲁比一片"
+          "note": "第12章邦德从滑雪车间偷来作开锁片，谎称借作尺子；第13章分给鲁比一片",
+          "note_en": "In Chapter 12 Bond steals it from the ski workshop to use as a lock-pick, pretending to borrow it as a ruler; in Chapter 13 he gives one to Ruby."
         }
-      ]
+      ],
+      "kind_en": "Tool"
     },
     {
       "id": "schmeisser",
@@ -1485,9 +1700,11 @@
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "note": "第24章突袭队装备"
+          "note": "第24章突袭队装备",
+          "note_en": "Equipment of the raiding party in Chapter 24."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "plastique",
@@ -1499,9 +1716,11 @@
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "note": "第23至24章图桑负责，炸毁诊所、实验室与缆车站"
+          "note": "第23至24章图桑负责，炸毁诊所、实验室与缆车站",
+          "note_en": "Chapters 23-24: handled by Toussaint, blowing up the clinic, the laboratory and the cable-car station."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "grenade",
@@ -1513,9 +1732,11 @@
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "note": "第16章缆车上向邦德投掷；第25章布洛菲尔德在雪橇道上投掷，炸翻邦德"
+          "note": "第16章缆车上向邦德投掷；第25章布洛菲尔德在雪橇道上投掷，炸翻邦德",
+          "note_en": "Thrown at Bond in the cable car in Chapter 16; thrown by Blofeld on the bobsled run in Chapter 25, blowing Bond over."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "hypnosis-tape",
@@ -1527,9 +1748,11 @@
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "note": "第14章：午夜电铃、节拍器、嗡鸣声与布洛菲尔德录音，实施深度催眠"
+          "note": "第14章：午夜电铃、节拍器、嗡鸣声与布洛菲尔德录音，实施深度催眠",
+          "note_en": "Chapter 14: midnight electric bells, a metronome, humming and a recording of Blofeld, used for deep hypnosis."
         }
-      ]
+      ],
+      "kind_en": "Equipment"
     },
     {
       "id": "heraldic-books",
@@ -1541,9 +1764,11 @@
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "note": "第8章邦德携带的掩护道具，包括伯克纹章总录、已绝嗣从男爵名录等"
+          "note": "第8章邦德携带的掩护道具，包括伯克纹章总录、已绝嗣从男爵名录等",
+          "note_en": "Chapter 8: cover props carried by Bond, including Burke's General Armory and a list of extinct baronetcies."
         }
-      ]
+      ],
+      "kind_en": "Document"
     },
     {
       "id": "pocket-knife",
@@ -1555,9 +1780,11 @@
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
-          "note": "邦德按日本法律携带的刀片不超过两英寸的折刀，用于锉断城堡小门的锁链"
+          "note": "邦德按日本法律携带的刀片不超过两英寸的折刀，用于锉断城堡小门的锁链",
+          "note_en": "Folding knife with a blade of no more than two inches, carried by Bond under Japanese law, used to file through the chain on the castle's small door."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "ninja-chain",
@@ -1569,9 +1796,11 @@
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
-          "note": "邦德腰间缠绕的细钢链，原计划用于勒死布洛菲尔德"
+          "note": "邦德腰间缠绕的细钢链，原计划用于勒死布洛菲尔德",
+          "note_en": "Fine steel chain wound round Bond's waist, originally intended to strangle Blofeld."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "ninja-suit",
@@ -1583,9 +1812,11 @@
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
-          "note": "黑棉忍者服配头罩与游泳镜，潜水与夜间潜入时穿着，另有日间迷彩服"
+          "note": "黑棉忍者服配头罩与游泳镜，潜水与夜间潜入时穿着，另有日间迷彩服",
+          "note_en": "Black cotton ninja suit with hood and swimming goggles, worn for diving and night infiltration, with a daytime camouflage suit as well."
         }
-      ]
+      ],
+      "kind_en": "Clothing and protective gear"
     },
     {
       "id": "stave",
@@ -1597,9 +1828,11 @@
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
-          "note": "邦德在城堡图书馆夺取守卫留下的约两码长棍，用以对付布洛菲尔德的武士刀"
+          "note": "邦德在城堡图书馆夺取守卫留下的约两码长棍，用以对付布洛菲尔德的武士刀",
+          "note_en": "Pole of about two yards left by a guard in the castle library, seized by Bond to fight Blofeld's samurai sword."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "samurai-sword",
@@ -1611,9 +1844,11 @@
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
-          "note": "布洛菲尔德的宽刃武士刀，他企图用此刀按切舍御免斩首邦德，最后被邦德夺下劈开阀门木箱"
+          "note": "布洛菲尔德的宽刃武士刀，他企图用此刀按切舍御免斩首邦德，最后被邦德夺下劈开阀门木箱",
+          "note_en": "Blofeld's broad-bladed samurai sword, with which he tries to behead Bond in the seppuku ritual; Bond seizes it and splits the valve-box open."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "pitons-rope",
@@ -1625,9 +1860,11 @@
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
-          "note": "邦德攀爬200英尺城墙时使用，绳端带铁钩"
+          "note": "邦德攀爬200英尺城墙时使用，绳端带铁钩",
+          "note_en": "Used by Bond to climb the 200-foot castle wall, with an iron hook at the end of the rope."
         }
-      ]
+      ],
+      "kind_en": "Climbing gear"
     },
     {
       "id": "flippers-goggles",
@@ -1639,9 +1876,11 @@
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
-          "note": "邦德游过半英里海峡时使用，潜水镜属于喜悦子的父亲"
+          "note": "邦德游过半英里海峡时使用，潜水镜属于喜悦子的父亲",
+          "note_en": "Used by Bond to swim the half-mile strait; the diving mask belongs to Kissy's father."
         }
-      ]
+      ],
+      "kind_en": "Diving gear"
     },
     {
       "id": "suicide-pill",
@@ -1653,9 +1892,11 @@
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
-          "note": "田中虎赠给邦德的棕色长药丸，以防任务失败被俘，邦德拒绝接受并归还"
+          "note": "田中虎赠给邦德的棕色长药丸，以防任务失败被俘，邦德拒绝接受并归还",
+          "note_en": "Long brown pill given to Bond by Tiger Tanaka in case the mission fails and he is captured; Bond refuses it and hands it back."
         }
-      ]
+      ],
+      "kind_en": "Poison"
     },
     {
       "id": "pemmican",
@@ -1667,9 +1908,11 @@
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
-          "note": "邦德藏身园丁棚期间的食物，共三块"
+          "note": "邦德藏身园丁棚期间的食物，共三块",
+          "note_en": "Food for Bond while he hides in the gardener's shed, three pieces in all."
         }
-      ]
+      ],
+      "kind_en": "Food"
     },
     {
       "id": "shinsei-cigarettes",
@@ -1681,9 +1924,11 @@
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
-          "note": "日本本地香烟，邦德在日本期间抽用"
+          "note": "日本本地香烟，邦德在日本期间抽用",
+          "note_en": "Local Japanese cigarettes, smoked by Bond while in Japan."
         }
-      ]
+      ],
+      "kind_en": "Everyday item"
     },
     {
       "id": "golden-gun",
@@ -1695,9 +1940,11 @@
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "note": "镀金长枪管单动式Colt.45左轮，斯卡拉曼加的标志性武器；子弹为自制：24克拉软金弹芯包银、尖端十字切割的达姆弹，追求最大杀伤；另有一支微型金色Derringer藏于脑后"
+          "note": "镀金长枪管单动式Colt.45左轮，斯卡拉曼加的标志性武器；子弹为自制：24克拉软金弹芯包银、尖端十字切割的达姆弹，追求最大杀伤；另有一支微型金色Derringer藏于脑后",
+          "note_en": "Gold-plated long-barrel single-action Colt .45 revolver, Scaramanga's signature weapon; its bullets are hand-made, a 24-carat soft gold core jacketed in silver, with a cross-cut tip for dum-dum effect, for maximum damage; a miniature gold Derringer is also hidden behind his head."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "golden-derringer",
@@ -1709,9 +1956,11 @@
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "note": "斯卡拉曼加藏于脑后（耳后）的微型金色手枪；第15章他假装祈祷时掏出此枪射中邦德右腹，子弹涂有蛇毒"
+          "note": "斯卡拉曼加藏于脑后（耳后）的微型金色手枪；第15章他假装祈祷时掏出此枪射中邦德右腹，子弹涂有蛇毒",
+          "note_en": "Miniature gold pistol hidden by Scaramanga behind his head (behind the ear); in Chapter 15 he draws it while pretending to pray and shoots Bond in the right side of the stomach, the bullet smeared with snake venom."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "cyanide-pistol",
@@ -1723,9 +1972,11 @@
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "note": "克格勃给邦德的刺杀武器：短鼻、球形枪托、无正常枪托外形，喷出黏稠棕色氰化物液体；被M办公室天花板落下的防弹玻璃挡住，邦德吸入毒气昏倒"
+          "note": "克格勃给邦德的刺杀武器：短鼻、球形枪托、无正常枪托外形，喷出黏稠棕色氰化物液体；被M办公室天花板落下的防弹玻璃挡住，邦德吸入毒气昏倒",
+          "note_en": "Assassination weapon given to Bond by the KGB: short barrel, bulbous stock, no normal stock shape, spraying a thick brown cyanide liquid; blocked by the bulletproof glass dropping from M's office ceiling, though Bond inhales the gas and collapses."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "silver-greyhound",
@@ -1737,9 +1988,11 @@
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "note": "英国信使沿用三百年的徽章；邦德持外交护照以“Courier Bond”身份活动时的掩护标志"
+          "note": "英国信使沿用三百年的徽章；邦德持外交护照以“Courier Bond”身份活动时的掩护标志",
+          "note_en": "Badge used by British couriers for three hundred years; Bond's cover mark when travelling on a diplomatic passport as 'Courier Bond'."
         }
-      ]
+      ],
+      "kind_en": "Documents and insignia"
     },
     {
       "id": "triple-x-machine",
@@ -1751,9 +2004,11 @@
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "note": "形似打字机的密码机；第17章古德奈特用它译出M的Eyes Only亲电"
+          "note": "形似打字机的密码机；第17章古德奈特用它译出M的Eyes Only亲电",
+          "note_en": "Cipher machine shaped like a typewriter; in Chapter 17 Goodnight uses it to decode M's Eyes Only personal signal."
         }
-      ]
+      ],
+      "kind_en": "Communications equipment"
     },
     {
       "id": "bug-recorder",
@@ -1765,9 +2020,11 @@
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "note": "斯卡拉曼加在邦德房内电话与会议室电话下装窃听器；Nicholson把线路分流到自己文件柜里的录音机，全程录下股东会议"
+          "note": "斯卡拉曼加在邦德房内电话与会议室电话下装窃听器；Nicholson把线路分流到自己文件柜里的录音机，全程录下股东会议",
+          "note_en": "Bugs planted by Scaramanga under the telephones in Bond's room and the meeting room; Nicholson diverts the line to a recorder in his own filing cabinet, taping the whole shareholders' meeting."
         }
-      ]
+      ],
+      "kind_en": "Bugging device"
     },
     {
       "id": "hoffritz-razor",
@@ -1779,9 +2036,11 @@
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "note": "邦德的剃须刀，刀柄可藏微缩胶卷等小物；邦德以刀柄刻痕移位一毫米发现房间被人专业搜查"
+          "note": "邦德的剃须刀，刀柄可藏微缩胶卷等小物；邦德以刀柄刻痕移位一毫米发现房间被人专业搜查",
+          "note_en": "Bond's razor, its handle able to hide microfilm and other small items; Bond notices the nick on the handle has moved a millimetre, showing his room has been professionally searched."
         }
-      ]
+      ],
+      "kind_en": "Spy gear and everyday items"
     },
     {
       "id": "armour-glass",
@@ -1793,9 +2052,11 @@
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "note": "M办公室天花板暗藏的防弹玻璃，按钮在M座椅扶手下；挡住邦德的氰化物喷射，M的前任曾在同一张椅子上被枪杀"
+          "note": "M办公室天花板暗藏的防弹玻璃，按钮在M座椅扶手下；挡住邦德的氰化物喷射，M的前任曾在同一张椅子上被枪杀",
+          "note_en": "Bulletproof glass hidden in the ceiling of M's office, its button under the arm of M's chair; it blocks Bond's cyanide spray, and M's predecessor was shot dead in the same chair."
         }
-      ]
+      ],
+      "kind_en": "Protective device"
     },
     {
       "id": "webley-scott-45",
@@ -1807,9 +2068,11 @@
         {
           "novel": "octopussy",
           "novel_no": 14,
-          "note": "第1篇Smythe战时配枪，编号8967362，两发子弹射杀Oberhauser；邦德称其笨重，希望换Luger或重型Beretta"
+          "note": "第1篇Smythe战时配枪，编号8967362，两发子弹射杀Oberhauser；邦德称其笨重，希望换Luger或重型Beretta",
+          "note_en": "First story: Smythe's wartime pistol, serial number 8967362, used to shoot Oberhauser with two bullets; Bond calls it clumsy and wishes for a Luger or a heavy Beretta instead."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "winchester-308",
@@ -1821,9 +2084,11 @@
         {
           "novel": "octopussy",
           "novel_no": 14,
-          "note": "第2篇邦德狙击步枪，军械员改装五发弹匣，配红外狙击镜，木材与金属件涂成哑黑；Bisley试射500码命中，柏林实战时被流弹击毁"
+          "note": "第2篇邦德狙击步枪，军械员改装五发弹匣，配红外狙击镜，木材与金属件涂成哑黑；Bisley试射500码命中，柏林实战时被流弹击毁",
+          "note_en": "Second story: Bond's sniper rifle, its five-round magazine adapted by the armourer, with an infrared sniping scope, wood and metal painted matt black; it hits at 500 yards in the Bisley trial, and is wrecked by a stray bullet in the Berlin operation."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "kalashnikov",
@@ -1835,9 +2100,11 @@
         {
           "novel": "octopussy",
           "novel_no": 14,
-          "note": "第2篇Trigger的武器，气动式，7.62毫米，30发弹匣，藏于大提琴盒中；被邦德一枪击碎并抛出窗外"
+          "note": "第2篇Trigger的武器，气动式，7.62毫米，30发弹匣，藏于大提琴盒中；被邦德一枪击碎并抛出窗外",
+          "note_en": "Second story: Trigger's weapon, gas-operated, 7.62 mm, 30-round magazine, hidden in a cello case; Bond shatters it with one shot and throws it out of the window."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "spear",
@@ -1849,9 +2116,11 @@
         {
           "novel": "octopussy",
           "novel_no": 14,
-          "note": "第1篇Smythe捕鱼工具，用以捕蝎子鱼喂章鱼；死后两名牙买加青年用其矛刺死章鱼"
+          "note": "第1篇Smythe捕鱼工具，用以捕蝎子鱼喂章鱼；死后两名牙买加青年用其矛刺死章鱼",
+          "note_en": "First story: Smythe's fishing gear, used to catch scorpion fish to feed the octopus; after his death two young Jamaicans kill the octopus with its spear."
         }
-      ]
+      ],
+      "kind_en": "Tool"
     },
     {
       "id": "pirelli-mask",
@@ -1863,9 +2132,11 @@
         {
           "novel": "octopussy",
           "novel_no": 14,
-          "note": "第1篇Smythe的潜水面罩，软木阀下沉不到两英尺即自动关闭，可致窒息"
+          "note": "第1篇Smythe的潜水面罩，软木阀下沉不到两英尺即自动关闭，可致窒息",
+          "note_en": "First story: Smythe's diving mask, its cork valve shutting automatically less than two feet down, which can suffocate the wearer."
         }
-      ]
+      ],
+      "kind_en": "Diving gear"
     },
     {
       "id": "cyanide-water-pistol",
@@ -1877,9 +2148,11 @@
         {
           "novel": "octopussy",
           "novel_no": 14,
-          "note": "第3篇开篇科研站论文所述暗杀工具：廉价球柄儿童水枪喷射氰化物气，喷向面部即刻致命，适用于25岁以上目标，死因多判为心脏衰竭；邦德联想Freudenstein日后可能遭此灭口"
+          "note": "第3篇开篇科研站论文所述暗杀工具：廉价球柄儿童水枪喷射氰化物气，喷向面部即刻致命，适用于25岁以上目标，死因多判为心脏衰竭；邦德联想Freudenstein日后可能遭此灭口",
+          "note_en": "Third story: assassination device described in the opening research-station paper, a cheap ball-handled child's water pistol spraying cyanide gas, instantly fatal when sprayed in the face, for targets over 25, the death usually ruled heart failure; Bond reflects that Freudenstein may one day be silenced with it."
         }
-      ]
+      ],
+      "kind_en": "Weapon"
     },
     {
       "id": "emerald-sphere",
@@ -1891,9 +2164,11 @@
         {
           "novel": "octopussy",
           "novel_no": 14,
-          "note": "第3篇Fabergé 1917年作品，约1300克拉西伯利亚绿宝石球体，高7.5英寸，工匠Henrik Wigström，内置G. Moser钟表机芯，拍出15.5万英镑"
+          "note": "第3篇Fabergé 1917年作品，约1300克拉西伯利亚绿宝石球体，高7.5英寸，工匠Henrik Wigström，内置G. Moser钟表机芯，拍出15.5万英镑",
+          "note_en": "Third story: Fabergé work of 1917, a sphere of about 1,300 carats of Siberian emeralds, 7.5 inches high, by the craftsman Henrik Wigström, with a G. Moser clockwork movement inside; sold for 155,000 pounds."
         }
-      ]
+      ],
+      "kind_en": "Item"
     }
   ]
 }

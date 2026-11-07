@@ -3,36 +3,52 @@
     "原著中没有太空情节,月亮牌是单级原子导弹,目标是伦敦,这一点由原文第XXII章与第XXIV章确认",
     "本部未系统核对电影差异,此处不展开电影对比"
   ],
+  "adaptation_differences_en": [
+    "There is no space sequence in the novel: the Moonraker is a single-stage atomic missile aimed at London, as confirmed by Chapters XXII and XXIV of the original text.",
+    "The film differences have not been systematically checked for this novel, so no film comparison is given here."
+  ],
   "canon_vs_inference": [
     {
       "note": "故事发生在5月下旬,星期一至星期五,原文未写明年份,1955年为出版年份推断",
+      "note_en": "The story takes place in late May, from Monday to Friday; the novel itself gives no year, and 1955 is inferred from the year of publication.",
       "status": "inference",
-      "topic": "故事年份"
+      "topic": "故事年份",
+      "topic_en": "Story year"
     },
     {
       "note": "邦德说离45岁自动调离00名单还有8年,据此推断其年龄约37岁",
+      "note_en": "Bond says he has eight years before he is automatically taken off the 00 list at forty-five, which puts his age at about thirty-seven.",
       "status": "inference",
-      "topic": "邦德年龄"
+      "topic": "邦德年龄",
+      "topic_en": "Bond's age"
     },
     {
       "note": "德拉克斯在公开场合约40岁出头,原文称不能much over forty,具体年龄未写",
+      "note_en": "In his public identity Drax is a little over forty; the novel says he cannot be much over forty, but gives no exact age.",
       "status": "inference",
-      "topic": "德拉克斯年龄"
+      "topic": "德拉克斯年龄",
+      "topic_en": "Drax's age"
     },
     {
       "note": "巴兹尔登的搭档被称为Tommy,同桌另一人为Dangerfield,两人是否为同一人原文未明确写明",
+      "note_en": "Basildon's partner is called Tommy, and another man at the table is Dangerfield; the novel never states explicitly whether they are the same man.",
       "status": "inference",
-      "topic": "Tommy是否为Dangerfield"
+      "topic": "Tommy是否为Dangerfield",
+      "topic_en": "Whether Tommy is Dangerfield"
     },
     {
       "note": "南古德温灯船脚注称1954年11月26日星期五失事,与故事内5月星期五发射的时间线存在张力,原文脚注本身即指出邦德说法有误",
+      "note_en": "A footnote on the South Goodwin lightship says it was wrecked on Friday 26 November 1954, which sits uneasily with the story's Friday in May; the footnote itself points out that Bond's statement is wrong.",
       "status": "canon",
-      "topic": "灯船脚注"
+      "topic": "灯船脚注",
+      "topic_en": "Lightship footnote"
     },
     {
       "note": "盖拉的未婚夫只以Detective-Inspector Vivian出现,名字未写",
+      "note_en": "Gala's fiancé appears only as Detective-Inspector Vivian; his first name is never given.",
       "status": "canon",
-      "topic": "Vivian全名未知"
+      "topic": "Vivian全名未知",
+      "topic_en": "Vivian's full name unknown"
     }
   ],
   "chapters": [
@@ -40,169 +56,199 @@
       "no": "I",
       "start_line": 3,
       "summary": "星期一,邦德在总部地下射击场练枪,后处理文件,得知008在柏林休养、0011在新加坡失踪,自己年薪与生活状况交代。",
+      "summary_en": "On a Monday, Bond practises with his pistol in the underground range at Headquarters and works through his files, learning that 008 is resting in Berlin and 0011 has been missing in Singapore for two months; his pay and way of life are set out.",
       "title": "SECRET PAPER-WORK"
     },
     {
       "no": "II",
       "start_line": 75,
       "summary": "M召见邦德,复述德拉克斯公开经历:阿登遇袭失忆、被认定为利物浦孤儿Hugo Drax、靠Columbite发家、捐1000万英镑造月亮牌导弹获封爵士,最后M说德拉克斯打牌作弊。",
+      "summary_en": "M sends for Bond and repeats Drax's public history: wounded and left with amnesia in the Ardennes, identified as the Liverpool orphan Hugo Drax, enriched by trading in Columbite, and knighted after giving £10 million to build the Moonraker; M ends by saying Drax cheats at cards.",
       "title": "THE COLUMBITE KING"
     },
     {
       "no": "III",
       "start_line": 128,
       "summary": "M与巴兹尔登说明德拉克斯桥牌从未输过,邦德回忆战前跟Steffi Esposito学的作弊手法,准备当晚去Blades观察。",
+      "summary_en": "M and Lord Basildon explain that Drax has never lost a weekly settlement at bridge; Bond recalls the cheating tricks he learned before the war from Steffi Esposito and prepares to watch Drax at Blades that evening.",
       "title": "'BELLY STRIPPERS', ETC."
     },
     {
       "no": "IV",
       "start_line": 182,
       "summary": "邦德到Blades观察德拉克斯打牌,细写其外貌与举止,发现其用抛光银烟盒作反光镜偷看牌,即Shiner。",
+      "summary_en": "Bond watches Drax play at Blades, noting his appearance and manner in detail, and discovers that he reads the cards in a polished silver cigarette-case used as a mirror - a 'shiner'.",
       "title": "THE 'SHINER'"
     },
     {
       "no": "V",
       "start_line": 274,
       "summary": "邦德与M在Blades晚餐,邦德服Benzedrine提神,商定赌注One and One,邦德以白手帕为信号约定给M发Yarborough。",
+      "summary_en": "Bond dines with M at Blades, takes Benzedrine to stay alert, and they agree stakes of One and One; Bond arranges to signal with a white handkerchief when he is about to deal M a Yarborough.",
       "title": "DINNER AT BLADES"
     },
     {
       "no": "VI",
       "start_line": 336,
       "summary": "邦德与M对德拉克斯与迈耶打桥牌,赌注抬至Five and Five,邦德装醉诱敌加注。",
+      "summary_en": "Bond and M play bridge against Drax and Meyer, the stakes rising to Five and Five, while Bond feigns drunkenness to tempt the other side into raising.",
       "title": "CARDS WITH A STRANGER"
     },
     {
       "no": "VII",
       "start_line": 415,
       "summary": "邦德用预先叠好的Culbertson名局发给德拉克斯好牌、自己大满贯,赢约15000英镑,德拉克斯威胁要他快花掉这笔钱。",
+      "summary_en": "Bond deals Drax a fine hand from a pre-stacked famous Culbertson hand and beats him with a grand slam, winning about £15,000; Drax warns him to spend the money quickly.",
       "title": "THE QUICKNESS OF THE HAND"
     },
     {
       "no": "VIII",
       "start_line": 497,
       "summary": "星期二,邦德反思德拉克斯的偏执,列花钱清单,红电话再召,他得知基地发生双重命案。",
+      "summary_en": "On Tuesday, Bond reflects on Drax's paranoia and makes a list of ways to spend the money; the red telephone summons him again, and he learns of a double killing at the site.",
       "title": "THE RED TELEPHONE"
     },
     {
       "no": "IX",
       "start_line": 548,
       "summary": "M说明基地情况:塔隆与巴奇死于World Without Want酒馆,月亮牌星期五中午试射,邦德被任命为新任安全官当晚赴任。",
+      "summary_en": "M explains the position at the site: Tallon and Bartsch are dead at the World Without Want pub, and the Moonraker is to be test-fired at noon on Friday; Bond is appointed the new security officer and leaves for the post that evening.",
       "title": "TAKE IT FROM HERE"
     },
     {
       "no": "X",
       "start_line": 590,
       "summary": "邦德见瓦兰斯与供应部,特雷恩教授讲解月亮牌:氟与氢燃料、Columbite发动机、射程约4000英里,邦德驱车赴多佛尔基地,途中在酒馆核实命案细节。",
+      "summary_en": "Bond sees Vallance and the Ministry of Supply, Professor Train explains the Moonraker - fluorine and hydrogen fuel, a Columbite engine, a range of about 4,000 miles - and Bond drives down to the Dover site, checking the details of the killings at the pub on the way.",
       "title": "SPECIAL BRANCH AGENT"
     },
     {
       "no": "XI",
       "start_line": 651,
       "summary": "邦德抵达基地,见德拉克斯、盖拉、沃尔特与克雷布斯,晚餐后参观发射井与火箭,德拉克斯解释基地布局。",
+      "summary_en": "Bond reaches the site and meets Drax, Gala, Walter and Krebs; after dinner he is shown the firing shaft and the rocket, and Drax explains the layout of the site.",
       "title": "POLICEWOMAN BRAND"
     },
     {
       "no": "XII",
       "start_line": 701,
       "summary": "邦德近看月亮牌火箭:50英尺抛光铬钢弹体、Columbite尾鳍、燃料与涡轮结构,注意到全员剃头留胡子的怪异现象。",
+      "summary_en": "Bond looks closely at the Moonraker: a fifty-foot body of polished chrome steel, Columbite tail fins, fuel and turbine gear; he notices that every man on the site has a shaved head and a moustache.",
       "title": "THE MOONRAKER"
     },
     {
       "no": "XIII",
       "start_line": 744,
       "summary": "星期三凌晨,邦德搜查塔隆房间,发现海图上的交叉方位与克雷布斯的指纹,推断塔隆因看到海上异物而死,次日清晨致电瓦兰斯。",
+      "summary_en": "In the early hours of Wednesday, Bond searches Tallon's room and finds the cross-bearings on the chart and Krebs's fingerprints; he concludes Tallon died because he saw something at sea, and telephones Vallance at first light.",
       "title": "DEAD RECKONING"
     },
     {
       "no": "XIV",
       "start_line": 790,
       "summary": "盖拉视角:她每日做飞行计划却被德拉克斯与沃尔特另算一遍记入黑皮本,她对邦德由轻视转为愿合作,邦德发现她钻孔监视。",
+      "summary_en": "From Gala's point of view: she works out a flight plan daily, but Drax and Walter work it out again and enter it in a black notebook; her contempt for Bond turns into a willingness to work with him, and Bond finds she has been watching through a hole drilled in the wall.",
       "title": "ITCHING FINGERS"
     },
     {
       "no": "XV",
       "start_line": 834,
       "summary": "德拉克斯称克雷布斯不可信,邦德在房中抓到克雷布斯撬其皮箱并将其打伤,瓦兰斯来电称塔隆电话来自屋内、灯船未见异物。",
+      "summary_en": "Drax says Krebs cannot be trusted; Bond catches Krebs picking the lock of his case in his room and kicks him senseless; Vallance telephones to say Tallon's call came from inside the house and the lightship saw nothing unusual.",
       "title": "ROUGH JUSTICE"
     },
     {
       "no": "XVI",
       "start_line": 882,
       "summary": "邦德与盖拉沿海滩散步游泳,邦德吻了盖拉,考察排气洞与海面水深,确认潜艇可靠近。",
+      "summary_en": "Bond and Gala walk and swim along the beach; Bond kisses Gala, and surveys the exhaust pit and the depth of the water, confirming that a submarine could come close inshore.",
       "title": "A GOLDEN DAY"
     },
     {
       "no": "XVII",
       "start_line": 962,
       "summary": "悬崖被炸塌,邦德扑在盖拉身上救了两人,两人脱险后认定有人蓄意谋杀,决定自行查明真相,晚餐时德拉克斯等人震惊。",
+      "summary_en": "The cliff is blown down on them; Bond throws himself over Gala and saves them both, and once they have dug themselves out they conclude it was attempted murder and decide to find the truth themselves; Drax and the others are shaken at dinner.",
       "title": "WILD SURMISES"
     },
     {
       "no": "XVIII",
       "start_line": 1026,
       "summary": "星期四,盖拉随德拉克斯乘车去伦敦,途中偷出黑皮本,发现其陀螺仪数字与自己相差约90度,指向伦敦,被克雷布斯抓获并打晕,囚于Ebury Street的雷达引导站。",
+      "summary_en": "On Thursday, Gala rides with Drax to London and steals the black notebook from the car, finding its gyroscope figures differ from her own by about ninety degrees, pointing at London; Krebs seizes her and knocks her out, and she is imprisoned in the radar guidance station in Ebury Street.",
       "title": "BENEATH THE FLAT STONE"
     },
     {
       "no": "XIX",
       "start_line": 1111,
       "summary": "邦德在伦敦等盖拉赴约未至,得知Drax Metals当日做空英镑2000万英镑,瓦兰斯请邦德寻人,邦德跟踪德拉克斯到Ebury Street。",
+      "summary_en": "Bond waits in London for Gala, who never comes to dinner; he learns that Drax Metals has sold sterling short to the tune of £20 million that day, and Vallance asks Bond to find her; Bond follows Drax to Ebury Street.",
       "title": "MISSING PERSON"
     },
     {
       "no": "XX",
       "start_line": 1161,
       "summary": "邦德驾宾利追赶德拉克斯的白色奔驰,德拉克斯撞翻一辆Alfa Romeo致其司机死亡,又令克雷布斯割断运纸车绳索致邦德撞车被俘。",
+      "summary_en": "Bond chases Drax's white Mercedes in his Bentley; Drax runs an Alfa Romeo off the road, killing its driver, and has Krebs cut the ropes of a newsprint lorry so that Bond crashes and is captured.",
       "title": "DRAX'S GAMBIT"
     },
     {
       "no": "XXI",
       "start_line": 1223,
       "summary": "邦德与盖拉被绑回基地,盖拉向邦德讲清黑皮本与伦敦雷达引导站的真相,邦德企图跳车求救被克雷布斯制止。",
+      "summary_en": "Bond and Gala are taken back to the site as prisoners; Gala tells Bond the truth about the black notebook and the London radar station, and Bond's attempt to jump from the car and raise the alarm is stopped by Krebs.",
       "title": "'THE PERSUADER'"
     },
     {
       "no": "XXII",
       "start_line": 1295,
       "summary": "德拉克斯自白真实身份Graf Hugo von der Drache、纳粹旧部、冒名经过、莫斯科交易与原子弹头调包计划,邦德激怒他后被打晕,两人被绑在办公室内。",
+      "summary_en": "Drax confesses his true identity - Graf Hugo von der Drache, a former Nazi - and tells how he assumed a dead man's name, dealt with Moscow, and had the atomic warhead substituted; Bond enrages him and is knocked out, and the two are bound in the office.",
       "title": "PANDORA'S BOX"
     },
     {
       "no": "XXIII",
       "start_line": 1332,
       "summary": "邦德用牙齿点燃喷灯烧断盖拉腕上绳索脱困,两人决定藏身通风井,待德拉克斯设定陀螺仪后再改回正确设定,忍受蒸汽烫伤而未被发现。",
+      "summary_en": "Bond lights the blowtorch with his teeth and burns through the ropes on Gala's wrists; the two decide to hide in the ventilation shaft and, once Drax has set the gyroscope, change it back to the true settings, enduring steam burns without being found.",
       "title": "ZERO MINUS"
     },
     {
       "no": "XXIV",
       "start_line": 1436,
       "summary": "星期五中午,邦德在发射前4分钟改回陀螺仪设定,两人躲进淋浴间,德拉克斯在BBC直播中发表复仇演说后按下发射钮,火箭升空后落入北海,原子弹爆炸击沉俄国潜艇。",
+      "summary_en": "At noon on Friday, four minutes before the launch, Bond changes the gyroscope back to its true settings; the two hide in the shower room while Drax makes his revenge speech live on the BBC and presses the firing button; the rocket rises and comes down in the North Sea, where its atomic warhead explodes and sinks the Russian submarine.",
       "title": "ZERO"
     },
     {
       "no": "XXV",
       "start_line": 1502,
       "summary": "次日,M向邦德说明掩盖方案与伤亡,盖拉获乔治十字勋章,两人被令出国一个月,邦德获赠新贝雷塔与1953年Mark VI,盖拉告之次日将与维维安结婚,两人告别。",
+      "summary_en": "The next day, M explains the cover story and the casualties to Bond; Gala is to receive the George Cross, the two are ordered abroad for a month, Bond is given a new Beretta and a 1953 Mark VI Bentley, and Gala tells him she is to marry Vivian the next day; they say goodbye.",
       "title": "ZERO PLUS"
     }
   ],
   "characters": [
     {
       "age_clues": "离45岁还有8年,约37岁",
+      "age_clues_en": "Eight years short of the statutory retirement age of forty-five from the 00 list, putting him at about thirty-seven.",
       "aliases": [
         "007",
         "Commander Bond"
       ],
       "appearance": "黑发垂在右眉上,灰蓝色眼睛,右颊有疤,身材瘦削结实",
+      "appearance_en": "Black hair falling over his right eyebrow, grey-blue eyes, a scar down his right cheek, lean and hard-built.",
       "background": "秘密情报机构00部门高级特工,年薪1500英镑,另有1000英镑免税收入,住国王路附近小公寓,管家May,1930年4.5升机械增压宾利",
+      "background_en": "Senior agent of the 00 Section of the Secret Intelligence Service, on a salary of £1,500 a year with a further £1,000 a year free of tax; lives in a small flat off the King's Road, keeps house with May, and drives a supercharged 1930 4½-litre Bentley.",
       "first_appearance_chapter": "I",
       "habits": "抽Morlands特制马其顿香烟,喝伏特加干马提尼配大片柠檬皮,打桥牌与高尔夫,随身带贝雷塔手枪",
+      "habits_en": "Smokes Morland's specially made Macedonian cigarettes, drinks vodka martinis with a large slice of lemon peel, plays bridge and golf, and carries a Beretta pistol.",
       "id": "bond",
       "last_appearance_chapter": "XXV",
       "name_en": "James Bond",
       "name_zh": "詹姆斯·邦德",
       "personality": "冷静、好赌、直觉敏锐、行事果断,危急时能以言语激怒对手制造机会",
+      "personality_en": "Cool-headed, fond of a gamble, quick of instinct and decisive in action; in a crisis he can goad an enemy into a rage to create an opening.",
       "relationships": [
         {
           "change": "由M的下属受命调查牌局,到并肩阻止导弹袭击伦敦的搭档,最后互相告别",
@@ -220,24 +266,30 @@
           "with": "m"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Principal character"
     },
     {
       "age_clues": "公开身份约40岁出头",
+      "age_clues_en": "In his early forties in his public identity.",
       "aliases": [
         "Sir Hugo Drax",
         "Hugger Drax",
         "Graf Hugo von der Drache"
       ],
       "appearance": "约6英尺高,肩宽,红发中分,右半脸为烧伤后植皮,右眼偏大充血,红胡子,上牙前突有缝,指甲咬到肉,拇指异常长,常出汗",
+      "appearance_en": "About six feet tall and broad-shouldered, with centre-parted red hair, grafted skin over the right half of his face, a larger, bloodshot right eye, a red moustache, protruding upper teeth with a gap between them, fingernails bitten to the quick, unnaturally long thumbs, and a habit of sweating freely.",
       "background": "自称利物浦码头孤儿Hugo Drax,实为德裔伯爵Graf Hugo von der Drache,母亲为英国人,12岁前在英国受教育,后在柏林与莱比锡受教育,曾在Rheinmetall Borsig子公司工作,加入纳粹党,任第140装甲团中尉,后入勃兰登堡师与党卫军国外情报处, Skorzeny手下,1944年12月阿登战役任Kommando Drache的Oberleutnant",
+      "background_en": "Passes himself off as Hugo Drax, an orphan from the Liverpool docks; in truth Graf Hugo von der Drache, son of an English mother, educated in England until he was twelve and then in Berlin and Leipzig. He worked for a Rheinmetall Borsig subsidiary, joined the Nazi Party, served as a lieutenant in the 140th Panzer Regiment, then in the Brandenburg Division and the SS Foreign Intelligence Service under Skorzeny, and in December 1944 led Kommando Drache as an Oberleutnant in the Ardennes.",
       "first_appearance_chapter": "II",
       "habits": "桥牌中用抛光银烟盒作反光镜偷看牌,咬指甲,大汗,抽软木嘴弗吉尼亚香烟,言语粗暴",
+      "habits_en": "Cheats at bridge by reading the cards in a polished silver cigarette-case, bites his nails, sweats heavily, smokes cork-tipped Virginia cigarettes, and speaks with brutal coarseness.",
       "id": "drax",
       "last_appearance_chapter": "XXIV",
       "name_en": "Hugo Drax",
       "name_zh": "雨果·德拉克斯",
       "personality": "偏执、仇英、报复心强、好胜、专横、自认超人,邦德判断其为偏执狂",
+      "personality_en": "Paranoid, Anglophobic, vengeful, competitive and domineering; Bond judges him a paranoiac who believes himself a superman.",
       "relationships": [
         {
           "change": "由被调查的牌友变为邦德的死敌,最后随潜艇葬身北海",
@@ -260,24 +312,30 @@
           "with": "krebs"
         }
       ],
-      "role": "主要反派"
+      "role": "主要反派",
+      "role_en": "Principal villain"
     },
     {
       "age_clues": "未写明,曾在Wrens服役,后入警察系统",
+      "age_clues_en": "Not stated in the novel; she served in the Wrens before joining the police.",
       "aliases": [
         "Miss Brand",
         "Galatea Brand",
         "Gala"
       ],
       "appearance": "深棕发,蓝眼睛,高颧骨,身高5英尺7英寸,体重9英石,三围38-26-38,右乳上有痣,左耳后在被袭时受伤",
+      "appearance_en": "Dark brown hair, blue eyes, high cheekbones, five feet seven inches tall, nine stone, measurements 38-26-38, a mole above her right breast, and an injury behind her left ear from the attack on her.",
       "background": "本名Galatea,父亲服役的巡洋舰Galatea得名,曾在Wrens服役,现为苏格兰场特别分部女警,双语通德语,被派为德拉克斯私人秘书潜伏一年多,未婚夫为Detective-Inspector Vivian",
+      "background_en": "Her full name is Galatea, after the cruiser Galatea on which her father served. She served in the Wrens and is now a Special Branch policewoman who speaks German; she has spent over a year under cover as Drax's private secretary. Her fiancé is Detective-Inspector Vivian.",
       "first_appearance_chapter": "IX",
       "habits": "精于扒窃与观察,能心算陀螺仪设定,每日制作飞行计划,在办公室墙上钻孔监视德拉克斯",
+      "habits_en": "Skilled at pickpocketing and observation, able to work out gyroscope settings in her head, makes a daily flight plan, and watches Drax through a hole drilled in her office wall.",
       "id": "gala-brand",
       "last_appearance_chapter": "XXV",
       "name_en": "Gala Brand",
       "name_zh": "盖拉·布兰德",
       "personality": "冷静、专业、勇敢、执着,初见邦德时冷淡戒备,后成为可靠搭档",
+      "personality_en": "Cool, professional, brave and tenacious; cold and guarded when she first meets Bond, she becomes a reliable partner.",
       "relationships": [
         {
           "change": "由互不信任的同事变为生死搭档,最后她选择与未婚夫结婚,与邦德告别",
@@ -290,23 +348,29 @@
           "with": "drax"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Principal character"
     },
     {
       "age_clues": "年长,海军出身",
+      "age_clues_en": "Elderly, of naval background.",
       "aliases": [
         "Admiral",
         "M."
       ],
       "appearance": "水手面孔,灰眼睛,常抽烟斗,戴无框眼镜读菜单,右太阳穴有紧张时跳动的脉搏",
+      "appearance_en": "A sailor's face with grey eyes, usually smoking a pipe and wearing rimless spectacles to read a menu; a pulse beats high on his right temple when he is tense.",
       "background": "秘密情报机构首长,办公室在总部9楼,本部中未写全名",
+      "background_en": "Head of the Secret Intelligence Service, with his office on the ninth floor of Headquarters; his full name is not given in this novel.",
       "first_appearance_chapter": "I",
       "habits": "打匹克牌,抽烟斗,坚持在恶劣光线下练枪",
+      "habits_en": "Plays patience, smokes a pipe, and insists on pistol practice in poor light.",
       "id": "m",
       "last_appearance_chapter": "XXV",
       "name_en": "M",
       "name_zh": "M",
       "personality": "严厉、克制、忠诚,重视下属,愿为老友处理私人委托",
+      "personality_en": "Severe, self-controlled and loyal; he values his men and will take on a personal favour for an old friend.",
       "relationships": [
         {
           "change": "始终为上下级,M最后安排邦德与盖拉出国避风头一个月",
@@ -314,22 +378,28 @@
           "with": "bond"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Principal character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated in the novel.",
       "aliases": [
         "Penny"
       ],
       "appearance": "与Loelia Ponsonby同款衬衫,蓝色条纹",
+      "appearance_en": "Wears a blue-striped shirt of the same kind as Loelia Ponsonby's.",
       "background": "M的私人秘书",
+      "background_en": "M's private secretary.",
       "first_appearance_chapter": "II",
       "habits": "打字,协助M处理事务",
+      "habits_en": "Types, and helps M with his business.",
       "id": "moneypenny",
       "last_appearance_chapter": "II",
       "name_en": "Miss Moneypenny",
       "name_zh": "钱彭妮",
       "personality": "干练、与邦德互相欣赏",
+      "personality_en": "Efficient, and on warm terms of mutual regard with Bond.",
       "relationships": [
         {
           "change": "无变化",
@@ -337,23 +407,29 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明,战后在机构工作5年",
+      "age_clues_en": "Not stated in the novel; she has worked in the Service for five years since the war.",
       "aliases": [
         "Lil",
         "Loelia"
       ],
       "appearance": "高个、黑发、灰眼睛,气质冷峻",
+      "appearance_en": "Tall, dark-haired and grey-eyed, with a cool, reserved manner.",
       "background": "00部门首席秘书,能接触机构核心机密,被称为珍珠与双排扣毛衣圈子成员",
+      "background_en": "Principal Secretary to the 00 Section, with access to the Service's innermost secrets; one of the 'Pearls and Twin-set' circle of principal secretaries.",
       "first_appearance_chapter": "I",
       "habits": "称邦德为Lil的反感,传递粉红藤蔓小道消息",
+      "habits_en": "Dislikes being called Lil by Bond, and passes on news from the 'powder-vine' gossip network.",
       "id": "loelia-ponsonby",
       "last_appearance_chapter": "XXV",
       "name_en": "Loelia Ponsonby",
       "name_zh": "洛利娅·庞森比",
       "personality": "冷静、克制、忠诚,担心特工安危但不愿卷入感情",
+      "personality_en": "Cool, self-controlled and loyal; she worries over the agents' safety but will not become emotionally involved.",
       "relationships": [
         {
           "change": "无变化",
@@ -361,20 +437,26 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "与邦德同龄",
+      "age_clues_en": "About Bond's age.",
       "aliases": [],
       "appearance": "脸色苍白,神情讥讽,工作过度",
+      "appearance_en": "Pale-faced and sardonic-looking, overworked.",
       "background": "M的参谋长",
+      "background_en": "M's Chief of Staff.",
       "first_appearance_chapter": "II",
       "habits": "传达M的召见",
+      "habits_en": "Passes on M's summons.",
       "id": "chief-of-staff",
       "last_appearance_chapter": "IX",
       "name_en": "Chief of Staff",
       "name_zh": "参谋长",
       "personality": "干练、讥讽",
+      "personality_en": "Efficient and sardonic.",
       "relationships": [
         {
           "change": "无变化",
@@ -382,20 +464,26 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated in the novel.",
       "aliases": [],
       "appearance": "未详写,Blades俱乐部主席",
+      "appearance_en": "Not described in detail in the novel; chairman of Blades.",
       "background": "Blades俱乐部主席,发现德拉克斯作弊后求助M",
+      "background_en": "Chairman of Blades; after discovering Drax's cheating he asks M for help.",
       "first_appearance_chapter": "III",
       "habits": "打桥牌",
+      "habits_en": "Plays bridge.",
       "id": "basildon",
       "last_appearance_chapter": "VII",
       "name_en": "Lord Basildon",
       "name_zh": "巴兹尔登勋爵",
       "personality": "重视俱乐部声誉,怕丑闻,欣赏德拉克斯",
+      "personality_en": "Jealous of the club's reputation, afraid of scandal, and admiring of Drax.",
       "relationships": [
         {
           "change": "由敬佩德拉克斯到请邦德出手制止其作弊",
@@ -403,22 +491,28 @@
           "with": "drax"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "中年,面色红润",
+      "age_clues_en": "Middle-aged, with a florid complexion.",
       "aliases": [
         "Max"
       ],
       "appearance": "中年,面色红润",
+      "appearance_en": "Middle-aged, with a florid complexion.",
       "background": "德拉克斯的桥牌搭档,住Albany,收藏Battersea鼻烟盒",
+      "background_en": "Drax's bridge partner, who lives in Albany and collects Battersea snuff-boxes.",
       "first_appearance_chapter": "IV",
       "habits": "打桥牌,搭德拉克斯便车赢钱",
+      "habits_en": "Plays bridge, and rides on Drax's winnings.",
       "id": "meyer",
       "last_appearance_chapter": "VII",
       "name_en": "Max Meyer",
       "name_zh": "马克斯·迈耶",
       "personality": "胆小、顺从,被德拉克斯呼喝",
+      "personality_en": "Timid and submissive, bullied by Drax.",
       "relationships": [
         {
           "change": "无变化,始终为德拉克斯搭档",
@@ -426,22 +520,28 @@
           "with": "drax"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated in the novel.",
       "aliases": [
         "Tommy"
       ],
       "appearance": "未详写",
+      "appearance_en": "Not described in detail in the novel.",
       "background": "Blades桥牌玩家,巴兹尔登的搭档",
+      "background_en": "A bridge player at Blades and Lord Basildon's partner.",
       "first_appearance_chapter": "IV",
       "habits": "打桥牌",
+      "habits_en": "Plays bridge.",
       "id": "dangerfield",
       "last_appearance_chapter": "VII",
       "name_en": "Dangerfield",
       "name_zh": "丹杰菲尔德",
       "personality": "未详写",
+      "personality_en": "Not described in detail in the novel.",
       "relationships": [
         {
           "change": "无变化",
@@ -449,23 +549,29 @@
           "with": "basildon"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "年长,瘦",
+      "age_clues_en": "Elderly and thin.",
       "aliases": [
         "Valter",
         "Doctor Walter"
       ],
       "appearance": "瘦长,黑发,黑帝国式胡子,怒目",
+      "appearance_en": "Tall and thin, with black hair, a black imperial beard and glaring eyes.",
       "background": "德拉克斯的右手,来自佩内明德的导弹专家,由苏联方面提供,负责月亮牌技术",
+      "background_en": "Drax's right-hand man, a guided-missile expert from Peenemünde supplied by the Soviet side, in charge of the Moonraker's technical work.",
       "first_appearance_chapter": "XI",
       "habits": "不饮酒不吸烟,只想火箭,担忧鳍片前缘与石墨板",
+      "habits_en": "Neither drinks nor smokes; thinks only of the rocket, and worries that the leading edges of the fins will melt.",
       "id": "walter",
       "last_appearance_chapter": "XXIV",
       "name_en": "Dr Walter",
       "name_zh": "沃尔特博士",
       "personality": "神经质、执着于技术细节",
+      "personality_en": "Nervous, and obsessed with technical detail.",
       "relationships": [
         {
           "change": "始终为德拉克斯副手,同乘潜艇逃亡",
@@ -473,22 +579,28 @@
           "with": "drax"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "年轻",
+      "age_clues_en": "Young.",
       "aliases": [
         "Willy"
       ],
       "appearance": "圆脸苍白,淡黄小胡子,眼睛如黑纽扣,脖子像白蛞蝓",
+      "appearance_en": "Round, pale face, a small fair moustache, eyes like black buttons, and a neck like a white slug.",
       "background": "德拉克斯的副官与打手,阿登时期即为其旧部,曾任行刑者与劝说者",
+      "background_en": "Drax's adjutant and enforcer, one of his men since the Ardennes; formerly his executioner and 'persuader'.",
       "first_appearance_chapter": "XI",
       "habits": "偷窥、搜查他人房间,用弹簧刀与皮cosh,称德拉克斯为mein Kapitän",
+      "habits_en": "Snoops and searches other people's rooms, uses a spring knife and a leather cosh, and calls Drax 'mein Kapitän'.",
       "id": "krebs",
       "last_appearance_chapter": "XXIV",
       "name_en": "Willy Krebs",
       "name_zh": "威利·克雷布斯",
       "personality": "谄媚、阴险、残忍、窥探成性",
+      "personality_en": "Fawning, sinister, cruel and prying.",
       "relationships": [
         {
           "change": "始终为德拉克斯心腹,最后同乘潜艇",
@@ -496,20 +608,26 @@
           "with": "drax"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "年长,已婚,4个孩子",
+      "age_clues_en": "Elderly, married, with four children.",
       "aliases": [],
       "appearance": "未详写",
+      "appearance_en": "Not described in detail in the novel.",
       "background": "供应部派驻基地的安全官,陆军情报与野战安全出身",
+      "background_en": "Security officer at the site, seconded by the Ministry of Supply; formerly of Army Intelligence and Field Security.",
       "first_appearance_chapter": "IX",
       "habits": "夜观海面并在海图上标记方位",
+      "habits_en": "Watched the sea at night and marked bearings on his chart.",
       "id": "tallon",
       "last_appearance_chapter": "XIII",
       "name_en": "Major Tallon",
       "name_zh": "塔隆少校",
       "personality": "谨慎、尽责,死前察觉基地有问题",
+      "personality_en": "Cautious and conscientious; he sensed that something was wrong at the site before his death.",
       "relationships": [
         {
           "change": "死后由邦德接任其安全官职位",
@@ -517,20 +635,26 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated in the novel.",
       "aliases": [],
       "appearance": "未详写",
+      "appearance_en": "Not described in detail in the novel.",
       "background": "德国电子专家,月亮牌团队成员",
+      "background_en": "German electronics expert and a member of the Moonraker team.",
       "first_appearance_chapter": "IX",
       "habits": "暗恋盖拉,情绪低落",
+      "habits_en": "Secretly in love with Gala Brand, and low in spirits.",
       "id": "bartsch",
       "last_appearance_chapter": "IX",
       "name_en": "Egon Bartsch",
       "name_zh": "埃贡·巴奇",
       "personality": "高度紧张、偏执",
+      "personality_en": "Highly strung and paranoid.",
       "relationships": [
         {
           "change": "被抽签选出枪杀塔隆后自杀",
@@ -538,22 +662,28 @@
           "with": "tallon"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "中年,从事特别分部工作20年",
+      "age_clues_en": "Middle-aged; twenty years in Special Branch work.",
       "aliases": [
         "Ronnie"
       ],
       "appearance": "中年,圆滑",
+      "appearance_en": "Middle-aged, with a smooth manner.",
       "background": "苏格兰场特别分部助理总监,盖拉的上司",
+      "background_en": "Assistant Commissioner of the Special Branch at Scotland Yard, and Gala Brand's superior.",
       "first_appearance_chapter": "IX",
       "habits": "善于处理部门关系,保护线人",
+      "habits_en": "Skilled at managing relations between departments and protecting his agents.",
       "id": "vallance",
       "last_appearance_chapter": "XXV",
       "name_en": "Ronnie Vallance",
       "name_zh": "罗尼·瓦兰斯",
       "personality": "机智、谨慎、重情义",
+      "personality_en": "Shrewd, cautious and loyal to his people.",
       "relationships": [
         {
           "change": "由盖拉上司变为邦德的后援",
@@ -561,20 +691,26 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "中年,肥胖邋遢",
+      "age_clues_en": "Middle-aged, fat and scruffy.",
       "aliases": [],
       "appearance": "肥胖、邋遢、不起眼",
+      "appearance_en": "Fat, scruffy and unremarkable.",
       "background": "导弹专家,上年诺贝尔物理学奖分区亚军,向邦德讲解月亮牌原理",
+      "background_en": "A missile expert, runner-up for the previous year's Nobel Prize in Physics, who explains the Moonraker's principles to Bond.",
       "first_appearance_chapter": "X",
       "habits": "讲解技术",
+      "habits_en": "Explains technical matters.",
       "id": "professor-train",
       "last_appearance_chapter": "X",
       "name_en": "Professor Train",
       "name_zh": "特雷恩教授",
       "personality": "直率、专业",
+      "personality_en": "Blunt and professional.",
       "relationships": [
         {
           "change": "无变化",
@@ -582,20 +718,26 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated in the novel.",
       "aliases": [],
       "appearance": "未详写",
+      "appearance_en": "Not described in detail in the novel.",
       "background": "Blades俱乐部守门人,家族任此职百年",
+      "background_en": "Hall porter at Blades, a post his family has held for a hundred years.",
       "first_appearance_chapter": "IV",
       "habits": "守门、认人",
+      "habits_en": "Keeps the door and knows the members.",
       "id": "brevett",
       "last_appearance_chapter": "XIX",
       "name_en": "Brevett",
       "name_zh": "布雷维特",
       "personality": "忠诚、受会员敬重",
+      "personality_en": "Loyal, and respected by the members.",
       "relationships": [
         {
           "change": "无变化",
@@ -603,20 +745,26 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "年长,苏格兰人",
+      "age_clues_en": "Elderly, Scottish.",
       "aliases": [],
       "appearance": "未详写",
+      "appearance_en": "Not described in detail in the novel.",
       "background": "邦德的管家",
+      "background_en": "Bond's housekeeper.",
       "first_appearance_chapter": "I",
       "habits": "打理公寓",
+      "habits_en": "Looks after Bond's flat.",
       "id": "may",
       "last_appearance_chapter": "I",
       "name_en": "May",
       "name_zh": "梅",
       "personality": "可靠、珍贵",
+      "personality_en": "Reliable and treasured.",
       "relationships": [
         {
           "change": "无变化",
@@ -624,20 +772,26 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "年轻,金发短发",
+      "age_clues_en": "Young, with short fair hair.",
       "aliases": [],
       "appearance": "高个、金发短发",
+      "appearance_en": "Tall, with short fair hair.",
       "background": "侦缉督察,盖拉的未婚夫",
+      "background_en": "A Detective-Inspector, and Gala Brand's fiancé.",
       "first_appearance_chapter": "XXV",
       "habits": "未详写",
+      "habits_en": "Not described in detail in the novel.",
       "id": "vivian",
       "last_appearance_chapter": "XXV",
       "name_en": "Detective-Inspector Vivian",
       "name_zh": "侦缉督察维维安",
       "personality": "未详写",
+      "personality_en": "Not described in detail in the novel.",
       "relationships": [
         {
           "change": "最后盖拉决定次日下午与他结婚",
@@ -645,20 +799,26 @@
           "with": "gala-brand"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     },
     {
       "age_clues": "未写明",
+      "age_clues_en": "Not stated in the novel.",
       "aliases": [],
       "appearance": "未详写",
+      "appearance_en": "Not described in detail in the novel.",
       "background": "射击场教官,称邦德为机构最佳射手",
+      "background_en": "Instructor at the shooting range, who calls Bond the best shot in the Service.",
       "first_appearance_chapter": "I",
       "habits": "与邦德赌射击",
+      "habits_en": "Bets with Bond on their shooting.",
       "id": "instructor",
       "last_appearance_chapter": "I",
       "name_en": "Shooting Instructor",
       "name_zh": "射击教官",
       "personality": "专业",
+      "personality_en": "Professional.",
       "relationships": [
         {
           "change": "无变化",
@@ -666,33 +826,45 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character"
     }
   ],
   "communications": [
     {
+      "description_en": "The red telephone on Bond's desk, with a direct line to M and the Chief of Staff.",
       "name": "红电话",
+      "name_en": "Red telephone",
       "note": "邦德办公桌上直通M与参谋长的红色电话"
     },
     {
+      "description_en": "Bond telephones Vallance through the Scotland Yard switchboard, Vallance wires under the name Baxter, and Tallon once telephoned the Ministry of Supply from inside the house.",
       "name": "电话与电报",
+      "name_en": "Telephone and telegram",
       "note": "邦德经苏格兰场总机致电瓦兰斯,瓦兰斯以Baxter署名发电报,塔隆曾从屋内致电供应部"
     },
     {
+      "description_en": "Gala receives daily Air Ministry teleprinter weather data for her flight plans.",
       "name": "空军部电传",
+      "name_en": "Air Ministry teleprinter",
       "note": "盖拉每日接收空军部电传天气数据制作飞行计划"
     },
     {
+      "description_en": "On the day of the firing the BBC broadcasts live from the site, the Prime Minister speaks on the radio, and after the launch a reporter aboard HMS Merganzer continues the broadcast.",
       "name": "BBC直播",
+      "name_en": "BBC broadcast",
       "note": "发射当日BBC在发射点做直播,首相发表广播讲话,发射后由HMS Merganzer上的记者继续播报"
     },
     {
+      "description_en": "The site has Doppler speed radar and flight-path radar, the rocket's nose carries twenty telemetry channels, and television monitors the firing shaft.",
       "name": "雷达与遥测",
+      "name_en": "Radar and telemetry",
       "note": "发射点有Doppler速度雷达与飞行路径雷达,火箭鼻部有20个遥测通道,另有电视监视发射井内情况"
     }
   ],
   "equipment": [
     {
+      "description_en": "Bond's personal gun, a .25 calibre with a skeleton grip, carried in a shoulder holster; at the end M gives him a new one.",
       "id": "beretta-418",
       "kind": "武器",
       "name_en": "Beretta 418",
@@ -700,6 +872,7 @@
       "note": "邦德配枪,0.25口径,骨架握把,肩套携带,结尾M赠送一把新枪"
     },
     {
+      "description_en": "The gun used on the range in Chapter I, a .38 calibre revolver.",
       "id": "colt-detective-special",
       "kind": "武器",
       "name_en": "Colt Detective Special",
@@ -707,6 +880,7 @@
       "note": "第I章射击场用枪,0.38口径"
     },
     {
+      "description_en": "The .45 Colt Army Special Bond takes from under his dashboard during the car chase; it is later found in the wreckage.",
       "id": "colt-army-special-45",
       "kind": "武器",
       "name_en": "Colt Army Special .45",
@@ -714,6 +888,7 @@
       "note": "邦德在追车时从仪表板下取出,后在撞车残骸中被发现"
     },
     {
+      "description_en": "The unnumbered Luger with which Bartsch shoots Tallon and then himself; Drax also holds a Luger on Bond and Gala in Chapter XXII.",
       "id": "luger",
       "kind": "武器",
       "name_en": "Luger",
@@ -721,6 +896,7 @@
       "note": "巴奇用无编号鲁格枪杀塔隆后自杀,德拉克斯在第XXII章亦持鲁格指着邦德与盖拉"
     },
     {
+      "description_en": "Bond's black-oxidized lighter, the key tool with which he lights the blowtorch with his teeth in Chapter XXIII.",
       "id": "ronson-lighter",
       "kind": "工具",
       "name_en": "Ronson lighter",
@@ -728,6 +904,7 @@
       "note": "邦德黑色氧化打火机,第XXIII章用牙齿点燃喷灯的关键工具"
     },
     {
+      "description_en": "The camera with which Bond photographs the fingerprints on the chart, using its flash attachment.",
       "id": "leica-camera",
       "kind": "工具",
       "name_en": "Leica camera",
@@ -735,6 +912,7 @@
       "note": "邦德用闪光灯附件拍摄海图上的指纹"
     },
     {
+      "description_en": "Tallon's German night glasses, which Bond takes to have been used for watching the sea at night.",
       "id": "night-glasses-7x50",
       "kind": "工具",
       "name_en": "Night glasses 7x50",
@@ -742,6 +920,7 @@
       "note": "塔隆遗留的德国望远镜,邦德推断其用于夜间观察海面"
     },
     {
+      "description_en": "The blowtorch on Drax's office desk, which Bond uses to burn through the ropes binding him.",
       "id": "blowtorch",
       "kind": "工具",
       "name_en": "Blowtorch",
@@ -749,6 +928,7 @@
       "note": "德拉克斯办公室桌上的喷灯,邦德用它烧断绑绳脱困"
     },
     {
+      "description_en": "The polished silver cigarette-case Drax uses as a 'shiner', a mirror for reading the cards.",
       "id": "silver-cigarette-case",
       "kind": "作弊工具",
       "name_en": "Polished silver cigarette-case",
@@ -756,6 +936,7 @@
       "note": "德拉克斯用作Shiner反光镜偷看牌面"
     },
     {
+      "description_en": "The fingerprint powder spray Bond uses to bring out the prints on the chart.",
       "id": "fingerprint-powder",
       "kind": "工具",
       "name_en": "Fingerprint powder spray",
@@ -766,87 +947,123 @@
   "events": [
     {
       "cause": "M受巴兹尔登之托,派邦德查德拉克斯桥牌作弊",
+      "cause_en": "At Lord Basildon's request, M sends Bond to investigate Drax's cheating at bridge.",
       "chapter": "IV",
       "effect": "邦德发现银烟盒反光镜作弊手法",
+      "effect_en": "Bond discovers the silver cigarette-case mirror trick.",
       "id": "blades-cheating-exposed",
-      "title": "Blades牌局揭穿作弊"
+      "title": "Blades牌局揭穿作弊",
+      "title_en": "Cheating Exposed at Blades"
     },
     {
       "cause": "邦德以预叠Culbertson名局设局,装醉诱德拉克斯加注至150英镑每100分与1500英镑橡皮局",
+      "cause_en": "Bond sets a trap with a pre-stacked famous Culbertson hand, feigns drunkenness and tempts Drax to raise the stakes to £150 per hundred and £1,500 a rubber.",
       "chapter": "VII",
       "effect": "德拉克斯输约15000英镑并威胁邦德快花掉这笔钱",
+      "effect_en": "Drax loses about £15,000 and warns Bond to spend the money quickly.",
       "id": "culbertson-grand-slam",
-      "title": "大满贯设局赢15000英镑"
+      "title": "大满贯设局赢15000英镑",
+      "title_en": "The Grand Slam Trap Wins £15,000"
     },
     {
       "cause": "塔隆致电供应部称基地有问题,要求次日见部长,又在屋顶夜观海面",
+      "cause_en": "Tallon telephones the Ministry of Supply to say something is wrong at the site and asks to see the Minister the next day; he has also been watching the sea at night from the roof.",
       "chapter": "IX",
       "effect": "巴奇枪杀塔隆后自杀,验尸结论为谋杀与精神失常下自杀",
+      "effect_en": "Bartsch shoots Tallon and then himself; the inquest returns murder and suicide while of unsound mind.",
       "id": "tallon-bartsch-killing",
-      "title": "塔隆与巴奇双重命案"
+      "title": "塔隆与巴奇双重命案",
+      "title_en": "The Tallon and Bartsch Killings"
     },
     {
       "cause": "邦德搜查塔隆房间,发现海图交叉方位与克雷布斯指纹",
+      "cause_en": "Bond searches Tallon's room and finds the cross-bearings and Krebs's fingerprints on the chart.",
       "chapter": "XIII",
       "effect": "邦德怀疑克雷布斯与德拉克斯另有图谋,致电瓦兰斯求证",
+      "effect_en": "Bond suspects Krebs and Drax of a separate design and telephones Vallance to check.",
       "id": "chart-clue",
-      "title": "海图线索"
+      "title": "海图线索",
+      "title_en": "The Chart Clue"
     },
     {
       "cause": "邦德与盖拉在海滩调查排气洞与水深,引起对方警觉",
+      "cause_en": "Bond and Gala investigate the exhaust pit and the depth of water off the beach, alerting the other side.",
       "chapter": "XVII",
       "effect": "两人险被炸塌的悬崖活埋,邦德救出盖拉,确认有人蓄意谋杀",
+      "effect_en": "The two are nearly buried alive when the cliff is blown down on them; Bond saves Gala, and both conclude it was attempted murder.",
       "id": "cliff-avalanche",
-      "title": "悬崖炸塌谋杀"
+      "title": "悬崖炸塌谋杀",
+      "title_en": "The Cliff Avalanche Murder Attempt"
     },
     {
       "cause": "盖拉偷看德拉克斯黑皮本,发现陀螺仪数字与自己相差约90度",
+      "cause_en": "Gala steals a look at Drax's black notebook and finds its gyroscope figures differ from her own by about ninety degrees.",
       "chapter": "XVIII",
       "effect": "盖拉被克雷布斯抓获打晕,囚于Ebury Street雷达引导站,推断目标为伦敦",
+      "effect_en": "Krebs seizes Gala and knocks her out; she is imprisoned in the radar guidance station in Ebury Street, and the target is deduced to be London.",
       "id": "notebook-theft",
-      "title": "黑皮本被盗看与盖拉被囚"
+      "title": "黑皮本被盗看与盖拉被囚",
+      "title_en": "The Black Notebook and Gala's Capture"
     },
     {
       "cause": "德拉克斯做空英镑2000万英镑,盖拉失踪,邦德跟踪至Ebury Street",
+      "cause_en": "Drax Metals sells sterling short to the tune of £20 million, Gala disappears, and Bond follows Drax to Ebury Street.",
       "chapter": "XX",
       "effect": "德拉克斯撞死Alfa Romeo司机,又以运纸车设陷阱撞毁邦德宾利并俘虏邦德",
+      "effect_en": "Drax runs an Alfa Romeo off the road, killing its driver, then has Krebs cut the ropes on a newsprint lorry so the rolls wreck Bond's Bentley and Bond is captured.",
       "id": "car-chase-maidstone",
-      "title": "伦敦至多佛尔追车与撞车"
+      "title": "伦敦至多佛尔追车与撞车",
+      "title_en": "The Chase from London to Dover and the Crash"
     },
     {
       "cause": "德拉克斯向被俘的邦德与盖拉自白全部计划",
+      "cause_en": "Drax tells the captured Bond and Gala the whole of his plan.",
       "chapter": "XXII",
       "effect": "邦德得知原子弹头、伦敦目标、雷达引导与潜艇接应全貌,激怒德拉克斯后被打晕绑缚",
+      "effect_en": "Bond learns the full picture - the atomic warhead, the London target, the radar guidance and the submarine rendezvous - then enrages Drax and is knocked out and bound.",
       "id": "drax-confession",
-      "title": "德拉克斯自白"
+      "title": "德拉克斯自白",
+      "title_en": "Drax's Confession"
     },
     {
       "cause": "邦德用牙齿操作喷灯与打火机烧断绑绳",
+      "cause_en": "Bond works the blowtorch and his lighter with his teeth to burn through the ropes binding Gala's wrists.",
       "chapter": "XXIII",
       "effect": "两人脱困并藏身通风井,忍受蒸汽烫伤未被发现",
+      "effect_en": "The two escape and hide in the ventilation shaft, enduring steam burns without being discovered.",
       "id": "blowtorch-escape",
-      "title": "喷灯脱困与通风井藏身"
+      "title": "喷灯脱困与通风井藏身",
+      "title_en": "The Blowtorch Escape and the Ventilation Shaft"
     },
     {
       "cause": "德拉克斯按虚假设定发射月亮牌",
+      "cause_en": "Drax launches the Moonraker on his false settings.",
       "chapter": "XXIV",
       "effect": "邦德在发射前4分钟改回正确陀螺仪设定,火箭落入北海而非伦敦",
+      "effect_en": "Four minutes before launch Bond resets the gyroscope to Gala's true figures, sending the rocket to the North Sea instead of London.",
       "id": "gyro-reset",
-      "title": "发射前改回陀螺仪"
+      "title": "发射前改回陀螺仪",
+      "title_en": "The Gyroscope Reset Before Launch"
     },
     {
       "cause": "改回设定的火箭按原定目标落入北海,原子弹头爆炸",
+      "cause_en": "The rocket, reset to its true settings, comes down in the North Sea and its atomic warhead explodes.",
       "chapter": "XXIV",
       "effect": "俄国潜艇被掀翻沉没,巡逻舰Merganzer倾覆,200人死亡、约200人失踪,荷兰海防被冲破",
+      "effect_en": "The Russian submarine is capsized and sunk, the patrol vessel Merganzer capsizes, two hundred people are killed and about two hundred are missing, and the Dutch sea defences are breached.",
       "id": "moonraker-launch",
-      "title": "月亮牌发射与北海核爆"
+      "title": "月亮牌发射与北海核爆",
+      "title_en": "The Moonraker Launch and the North Sea Explosion"
     },
     {
       "cause": "真相涉及德国纳粹余孽与苏联,公开将引发外交危机",
+      "cause_en": "The truth involves a surviving Nazi and the Soviet Union, and making it public would cause a diplomatic crisis.",
       "chapter": "XXV",
       "effect": "内阁决定大规模掩盖,称燃料事故与英军潜艇误会,盖拉获乔治十字勋章,邦德与盖拉被令出国一个月",
+      "effect_en": "The Cabinet orders a large-scale cover-up, blaming a fuel accident and a mistaken British experimental submarine; Gala receives the George Cross, and Bond and Gala are ordered abroad for a month.",
       "id": "cover-up",
-      "title": "事后掩盖与嘉奖"
+      "title": "事后掩盖与嘉奖",
+      "title_en": "The Cover-up and the Honours"
     }
   ],
   "facts": [
@@ -856,6 +1073,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德在总部地下射击场用柯尔特侦探特种0.38左轮练枪,教官称其为机构最佳射手。",
+      "fact_en": "Bond practises in the underground range at Headquarters with a .38 Colt Detective Special, and the instructor calls him the best shot in the Service.",
       "quote": "best shot in the Service",
       "quote_source": "第I章",
       "source_novel": "moonraker",
@@ -867,6 +1085,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德年薪1500英镑,另有1000英镑免税收入,住国王路附近公寓,管家为苏格兰人May,座驾为1930年4.5升机械增压宾利。",
+      "fact_en": "Bond earns £1,500 a year, with a further £1,000 a year free of tax; he lives in a flat off the King's Road, keeps a Scottish housekeeper named May, and drives a supercharged 1930 4½-litre Bentley.",
       "quote": "1930 4 1/2-litre Bentley coupe, supercharged",
       "quote_source": "第I章",
       "source_novel": "moonraker",
@@ -878,6 +1097,7 @@
       "confidence": "medium",
       "entity": "bond",
       "fact": "邦德离45岁自动调离00名单还有8年,据此推断其年龄约37岁。",
+      "fact_en": "Bond has eight years to go before he is automatically taken off the 00 list at the statutory age of forty-five, which puts his age at about thirty-seven.",
       "quote": "before the statutory age of forty-five",
       "quote_source": "第I章",
       "source_novel": "moonraker",
@@ -889,6 +1109,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "008在柏林休养,曾去佩内明德,0011在新加坡肮脏半英里失踪已两个月。",
+      "fact_en": "008 is resting in Berlin after a trip to Peenemünde, and 0011 has been missing for two months in the 'Dirty Half-mile' in Singapore.",
       "quote": "008's got out. He's in Berlin, resting",
       "quote_source": "第I章",
       "source_novel": "moonraker",
@@ -900,6 +1121,7 @@
       "confidence": "high",
       "entity": "loelia-ponsonby",
       "fact": "洛利娅·庞森比是00部门首席秘书,邦德称其Lil令她反感,她通过粉红藤蔓获知008消息。",
+      "fact_en": "Loelia Ponsonby is Principal Secretary to the 00 Section; she dislikes Bond calling her Lil, and learns the news about 008 through the 'powder-vine'.",
       "quote": "Miss Loelia Ponsonby, Principal Secretary",
       "quote_source": "第I章",
       "source_novel": "moonraker",
@@ -911,6 +1133,7 @@
       "confidence": "high",
       "entity": "drax",
       "fact": "德拉克斯公开经历称其在1944年冬季阿登德军突破中遇袭,半边脸被炸毁并失忆一年,后被认定为利物浦孤儿Hugo Drax。",
+      "fact_en": "In Drax's public history he was caught in the German breakthrough in the Ardennes in the winter of 1944, had half his face blown away and suffered a year's total amnesia, and was afterwards identified as Hugo Drax, an orphan from Liverpool.",
       "quote": "Total amnesia that lasted a year",
       "quote_source": "第II章",
       "source_novel": "moonraker",
@@ -922,6 +1145,7 @@
       "confidence": "high",
       "entity": "drax",
       "fact": "德拉克斯靠买卖Columbite发家,1946年以约每吨3000英镑买入3吨,后在丹吉尔经营,至1950年成为千万富翁。",
+      "fact_en": "Drax made his fortune trading in Columbite, buying three tons in 1946 at about £3,000 a ton and afterwards dealing from Tangier, and by 1950 he was a multi-millionaire.",
       "quote": "cornered a very valuable ore called Columbite",
       "quote_source": "第II章",
       "source_novel": "moonraker",
@@ -933,6 +1157,7 @@
       "confidence": "high",
       "entity": "drax",
       "fact": "德拉克斯致信女王捐出全部Columbite holdings并出资1000万英镑建造原子火箭,获首相批准与爵士头衔。",
+      "fact_en": "Drax wrote to the Queen offering all his Columbite holdings and £10 million to build an atomic rocket, and the gift was accepted by the Prime Minister and earned him a knighthood.",
       "quote": "10,000,000 he was going to put up",
       "quote_source": "第II章",
       "source_novel": "moonraker",
@@ -944,6 +1169,7 @@
       "confidence": "high",
       "entity": "m",
       "fact": "M告诉邦德德拉克斯打牌作弊,这是邦德受命调查的起点。",
+      "fact_en": "M tells Bond that Sir Hugo Drax cheats at cards, and this is the starting point of Bond's investigation.",
       "quote": "Sir Hugo Drax cheats at cards",
       "quote_source": "第II章",
       "source_novel": "moonraker",
@@ -955,6 +1181,7 @@
       "confidence": "high",
       "entity": "basildon",
       "fact": "巴兹尔登为Blades俱乐部主席,因怕作弊丑闻泄露求助M,称德拉克斯加入一年来每周结算从未输过。",
+      "fact_en": "Lord Basildon, chairman of Blades, turned to M for fear the cheating scandal would leak out, saying Drax has never lost on a weekly settlement since he joined a year ago.",
       "quote": "hasn't lost on a weekly settlement since he joined",
       "quote_source": "第III章",
       "source_novel": "moonraker",
@@ -966,6 +1193,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德战前跟Steffi Esposito学过作弊手法,包括Riffle Stack、发第二张与底牌、Belly Strippers与Shiners。",
+      "fact_en": "Before the war Bond learned cheating tricks from Steffi Esposito, including the Riffle Stack, dealing seconds and bottoms, Belly Strippers and Shiners.",
       "quote": "learning a thing called the Riffle Stack",
       "quote_source": "第III章",
       "source_novel": "moonraker",
@@ -977,6 +1205,7 @@
       "confidence": "high",
       "entity": "drax",
       "fact": "德拉克斯约6英尺高,红发,右脸植皮,右眼偏大充血,红胡子,上牙前突有缝,指甲咬到肉,拇指异常长,常出汗。",
+      "fact_en": "Drax is about six feet tall, with red hair, grafted skin over the right side of his face, a larger and bloodshot right eye, a red moustache, protruding upper teeth with a gap, fingernails bitten to the quick, unnaturally long thumbs, and a habit of sweating freely.",
       "quote": "about six foot tall, Bond guessed",
       "quote_source": "第IV章",
       "source_novel": "moonraker",
@@ -988,6 +1217,7 @@
       "confidence": "high",
       "entity": "drax",
       "fact": "德拉克斯用抛光银烟盒作反光镜偷看牌,仅在自己发牌时作弊,借此赢得桥牌。",
+      "fact_en": "Drax reads the cards in a polished silver cigarette-case used as a mirror, cheating only when he himself deals, and wins at bridge by this means.",
       "quote": "Every card is reflected in the top",
       "quote_source": "第IV章",
       "source_novel": "moonraker",
@@ -999,6 +1229,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德在Blades晚餐时服Benzedrine以保持清醒,并与M约定以白手帕为信号发Yarborough。",
+      "fact_en": "At dinner at Blades Bond takes Benzedrine to stay alert, and agrees with M that a white handkerchief will be the signal that he is about to deal a Yarborough.",
       "quote": "Benzedrine",
       "quote_source": "第V章",
       "source_novel": "moonraker",
@@ -1010,6 +1241,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "桥牌赌注从One and One抬至Five and Five,即每100分50英镑、每橡皮局500英镑。",
+      "fact_en": "The bridge stakes rise from One and One to Five and Five - £50 per hundred points and £500 a rubber.",
       "quote": "Five and Five it is",
       "quote_source": "第VI章",
       "source_novel": "moonraker",
@@ -1021,6 +1253,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德用预叠的Culbertson名局设局,以梅花大满贯击败德拉克斯,德拉克斯欠约15000英镑。",
+      "fact_en": "Bond sets his trap with a pre-stacked famous Culbertson hand and beats Drax with a grand slam in clubs; Drax ends owing about £15,000.",
       "quote": "I owe about 15,000",
       "quote_source": "第VII章",
       "source_novel": "moonraker",
@@ -1032,6 +1265,7 @@
       "confidence": "high",
       "entity": "tallon",
       "fact": "塔隆少校与德国电子专家巴奇在World Without Want酒馆死亡,巴奇称我爱盖拉·布兰德、你不能拥有她后枪杀塔隆再自杀。",
+      "fact_en": "Major Tallon and the German electronics expert Bartsch die at the World Without Want pub: Bartsch, declaring 'I love Gala Brand. You shall not have her', shoots Tallon and then himself.",
       "quote": "I love Gala Brand. You shall not have her",
       "quote_source": "第IX章",
       "source_novel": "moonraker",
@@ -1043,6 +1277,7 @@
       "confidence": "high",
       "entity": "gala-brand",
       "fact": "盖拉·布兰德是特别分部女警,通德语,被安插为德拉克斯私人秘书,在基地工作已逾一年。",
+      "fact_en": "Gala Brand is a Special Branch policewoman who speaks German and has been planted as Drax's private secretary, working at the site for over a year.",
       "quote": "She's an agent of the Special Branch",
       "quote_source": "第IX章",
       "source_novel": "moonraker",
@@ -1054,6 +1289,7 @@
       "confidence": "high",
       "entity": "tallon",
       "fact": "塔隆死前一日下午致电供应部称基地有可疑情况,要求次日上午10时亲自见部长,数小时后被杀。",
+      "fact_en": "On the afternoon before his death Tallon telephoned the Ministry of Supply to say something was wrong at the site and asked to see the Minister himself at ten the next morning; he was killed a few hours later.",
       "quote": "something fishy was going on at the site",
       "quote_source": "第IX章",
       "source_novel": "moonraker",
@@ -1065,6 +1301,7 @@
       "confidence": "high",
       "entity": "moonraker",
       "fact": "月亮牌定于星期五中午试射,使用假弹头与四分之三燃料箱,垂直发射,目标为北海海域。",
+      "fact_en": "The Moonraker is to be test-fired at noon on Friday with a dummy warhead and three-quarter fuel tanks, launched vertically at a target area in the North Sea.",
       "quote": "firing her vertically with only three-quarter tanks",
       "quote_source": "第IX章",
       "source_novel": "moonraker",
@@ -1076,6 +1313,7 @@
       "confidence": "high",
       "entity": "drax",
       "fact": "基地位于多佛尔与迪尔之间悬崖边,占地约1000英亩,核心约200英亩,德拉克斯与52人留守,其中50人为德国人。",
+      "fact_en": "The site stands on the cliffs between Dover and Deal, covering about 1,000 acres with a core of about 200; Drax and fifty-two men remain there, fifty of them Germans.",
       "quote": "fifty of these are Germans",
       "quote_source": "第IX章",
       "source_novel": "moonraker",
@@ -1087,6 +1325,7 @@
       "confidence": "high",
       "entity": "moonraker",
       "fact": "月亮牌为单级火箭,用氟与氢作燃料,因Columbite熔点约3500摄氏度发动机才不被烧毁,设计时速约1500英里,垂直射程约1000英里,作战射程约4000英里。",
+      "fact_en": "The Moonraker is a single-stage rocket fuelled by fluorine and hydrogen; only Columbite, with a melting point of about 3,500 degrees centigrade, keeps its engine from burning out, and it is designed to fly at about 1,500 miles an hour, with a vertical range of about 1,000 miles and an operational range of about 4,000 miles.",
       "quote": "we are using fluorine and hydrogen",
       "quote_source": "第X章",
       "source_novel": "moonraker",
@@ -1098,6 +1337,7 @@
       "confidence": "high",
       "entity": "bartsch",
       "fact": "巴奇在开枪后立正并高喊Heil后将枪口放入口中自杀,酒馆老板与邦德均证实只听到Heil一词。",
+      "fact_en": "After firing, Bartsch stood to attention, shouted 'Heil', and put the gun in his mouth and shot himself; both the landlord and Bond confirm that 'Heil' was the only word heard.",
       "quote": "Heil",
       "quote_source": "第X章",
       "source_novel": "moonraker",
@@ -1109,6 +1349,7 @@
       "confidence": "high",
       "entity": "krebs",
       "fact": "克雷布斯为德拉克斯的副官,外号其ADC,苍白圆脸,淡黄小胡子,眼神躲闪。",
+      "fact_en": "Krebs is Drax's adjutant - his ADC, as Drax calls him - a pale, round-faced man with a small fair moustache and shifty eyes.",
       "quote": "my dogsbody. What you might call my ADC",
       "quote_source": "第XI章",
       "source_novel": "moonraker",
@@ -1120,6 +1361,7 @@
       "confidence": "high",
       "entity": "walter",
       "fact": "沃尔特博士为德拉克斯右手,不饮酒不吸烟,只关心火箭,担忧尾鳍前缘会熔化。",
+      "fact_en": "Dr Walter is Drax's right-hand man; he neither drinks nor smokes, thinks only of the rocket, and worries that the leading edges of the tail fins will melt.",
       "quote": "Doesn't drink or smoke",
       "quote_source": "第XI章",
       "source_novel": "moonraker",
@@ -1131,6 +1373,7 @@
       "confidence": "high",
       "entity": "moonraker",
       "fact": "月亮牌弹体长50英尺,为抛光铬钢,竖立于深约40英尺的发射井内,鼻部装实验弹头与陀螺仪,尾部有Columbite合金尾鳍。",
+      "fact_en": "The Moonraker's body is fifty feet of polished chrome steel, standing upright in a shaft about forty feet deep, with an experimental warhead and gyroscope in the nose and Columbite-alloy tail fins.",
       "quote": "fifty feet of polished chrome steel",
       "quote_source": "第XII章",
       "source_novel": "moonraker",
@@ -1142,6 +1385,7 @@
       "confidence": "high",
       "entity": "drax",
       "fact": "基地全体德国技术人员均剃光头并留胡子,德拉克斯称此举为便于辨认,邦德注意到档案照片中无人留胡子。",
+      "fact_en": "Every German technician at the site has a shaved head and a moustache; Drax says it is so they can be told apart, but Bond notices that no one in their file photographs wears a moustache.",
       "quote": "I told them all to grow moustaches",
       "quote_source": "第XII章",
       "source_novel": "moonraker",
@@ -1153,6 +1397,7 @@
       "confidence": "high",
       "entity": "tallon",
       "fact": "塔隆在海图上用尖笔划出两条交叉方位线,交点在12英寻水深处、距悬崖约50码,正对南古德温灯船方向,并留有问号。",
+      "fact_en": "On the chart Tallon drew two cross-bearings in sharp pencil, meeting in twelve fathoms of water about fifty yards from the cliff, in the direction of the South Goodwin lightship, with a question mark beside them.",
       "quote": "trace of a question mark",
       "quote_source": "第XIII章",
       "source_novel": "moonraker",
@@ -1164,6 +1409,7 @@
       "confidence": "high",
       "entity": "krebs",
       "fact": "邦德用指纹粉比对确认海图上的指纹属于克雷布斯,且其指纹覆盖在塔隆指纹之上。",
+      "fact_en": "With fingerprint powder Bond confirms that the prints on the chart are Krebs's, and that they lie over Tallon's own prints.",
       "quote": "They were his prints on the chart",
       "quote_source": "第XIII章",
       "source_novel": "moonraker",
@@ -1175,6 +1421,7 @@
       "confidence": "high",
       "entity": "gala-brand",
       "fact": "盖拉每日根据空军部数据计算陀螺仪设定,德拉克斯与沃尔特每日另算一遍记入其随身黑皮本,她通过墙洞监视此过程。",
+      "fact_en": "Each day Gala works out the gyroscope settings from Air Ministry data, while Drax and Walter work them out separately and enter them in the thin black notebook he carries; she watches the process through a hole in the wall.",
       "quote": "transfer the results to the thin black notebook",
       "quote_source": "第XIV章",
       "source_novel": "moonraker",
@@ -1186,6 +1433,7 @@
       "confidence": "high",
       "entity": "krebs",
       "fact": "邦德在房中抓到克雷布斯撬其密码皮箱,将其踢伤,搜出万能钥匙、弹簧刀与皮cosh,德拉克斯称克雷布斯曾翻其私人文件。",
+      "fact_en": "Bond catches Krebs picking the lock of his combination case in his room, kicks him senseless, and finds skeleton keys, a spring knife and a leather cosh on him; Drax says Krebs has been through his private papers before.",
       "quote": "skeleton keys, a spring knife",
       "quote_source": "第XV章",
       "source_novel": "moonraker",
@@ -1197,6 +1445,7 @@
       "confidence": "high",
       "entity": "gala-brand",
       "fact": "盖拉本名Galatea,因父亲服役的巡洋舰Galatea得名,曾在Wrens服役,后入伦敦警察系统。",
+      "fact_en": "Gala's real name is Galatea, after the cruiser Galatea on which her father served; she served in the Wrens before joining the London police.",
       "quote": "My real name's even worse. It's Galatea",
       "quote_source": "第XVI章",
       "source_novel": "moonraker",
@@ -1208,6 +1457,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德与盖拉在海滩游泳时吻了盖拉,邦德确认海面水深足够潜艇靠近排气洞。",
+      "fact_en": "While swimming with Gala on the beach Bond kisses her, and confirms there is plenty of water, even at low tide, for a submarine to come in close to the exhaust pit.",
       "quote": "plenty of water, even at low tide, for a submarine",
       "quote_source": "第XVI章",
       "source_novel": "moonraker",
@@ -1219,6 +1469,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "悬崖被炸塌,邦德扑在盖拉身上救了两人,两人被埋后自行挖出,邦德认定这是蓄意谋杀而非自然塌方。",
+      "fact_en": "The cliff is blown down on them; Bond throws himself over Gala and saves them both, they dig themselves out, and Bond concludes it was attempted murder rather than a natural fall.",
       "quote": "someone pushed the cliff down on us",
       "quote_source": "第XVII章",
       "source_novel": "moonraker",
@@ -1230,6 +1481,7 @@
       "confidence": "high",
       "entity": "gala-brand",
       "fact": "盖拉在梅德斯通交通堵塞时偷出德拉克斯黑皮本,发现其陀螺仪数字与自己相差近90度,若按她的计划发射火箭将落入法国。",
+      "fact_en": "In the Maidstone traffic jam Gala steals Drax's black notebook and finds its gyroscope figures differ from her own by nearly ninety degrees; on her figures the rocket would have come down in France.",
       "quote": "wrong by nearly ninety degrees",
       "quote_source": "第XVIII章",
       "source_novel": "moonraker",
@@ -1241,6 +1493,7 @@
       "confidence": "high",
       "entity": "gala-brand",
       "fact": "盖拉被克雷布斯抓获,德拉克斯用皮手套抽打其面部,两人将其打晕后囚于Ebury Street顶楼雷达引导站。",
+      "fact_en": "Krebs seizes Gala, Drax strikes her across the face with a leather glove, and the two knock her out and imprison her in the radar guidance station on the top floor in Ebury Street.",
       "quote": "Beneath the flat stone",
       "quote_source": "第XVIII章",
       "source_novel": "moonraker",
@@ -1252,6 +1505,7 @@
       "confidence": "high",
       "entity": "gala-brand",
       "fact": "盖拉推断黑皮本的设定会使月亮牌落入伦敦市中心,约在白金汉宫附近,引导站的雷达可将其引至100码内。",
+      "fact_en": "Gala works out that the figures in the black notebook would drop the Moonraker in the middle of London, about Buckingham Palace, and that the guidance station's radar could bring it to within a hundred yards.",
       "quote": "drop the Moonraker just about in the middle of London",
       "quote_source": "第XVIII章",
       "source_novel": "moonraker",
@@ -1263,6 +1517,7 @@
       "confidence": "high",
       "entity": "drax",
       "fact": "Drax Metals当日自丹吉尔开始做空英镑,至收市卖出2000万英镑,英镑当日下跌3美分,英格兰银行被迫入市干预。",
+      "fact_en": "Drax Metals began selling sterling short from Tangier that day, selling £20 million by the close; sterling fell three cents and the Bank of England was forced to intervene.",
       "quote": "sell British currency short to the tune of twenty million",
       "quote_source": "第XIX章",
       "source_novel": "moonraker",
@@ -1274,6 +1529,7 @@
       "confidence": "high",
       "entity": "gala-brand",
       "fact": "盖拉应于星期四18时到瓦兰斯处报到却未出现,邦德19时45分在餐厅等她赴约亦未见人。",
+      "fact_en": "Gala was due to report to Vallance at six on Thursday evening and never came, and Bond waited for her at dinner at 7.45 without seeing her.",
       "quote": "She's half an hour late for dinner",
       "quote_source": "第XIX章",
       "source_novel": "moonraker",
@@ -1285,6 +1541,7 @@
       "confidence": "high",
       "entity": "drax",
       "fact": "德拉克斯在追车中将一辆红色Alfa Romeo逼出路面,司机被抛出车外死亡,车名Attaboy II。",
+      "fact_en": "In the chase Drax forces a red Alfa Romeo off the road; the driver is thrown out and killed. The car is called Attaboy II.",
       "quote": "Double somersault. Jumped the hedge upside down",
       "quote_source": "第XX章",
       "source_novel": "moonraker",
@@ -1296,6 +1553,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德的宾利在查令山弯道被滚落的新闻纸卷撞出路面,邦德受伤被俘,德拉克斯取走其贝雷塔并拆下车牌。",
+      "fact_en": "Bond's Bentley is driven off the road at the Charing bend by rolling newsprint reels; Bond is injured and captured, and Drax takes his Beretta and removes the car's number plates.",
       "quote": "Bond was lying face downwards at the bottom",
       "quote_source": "第XXI章",
       "source_novel": "moonraker",
@@ -1307,6 +1565,7 @@
       "confidence": "high",
       "entity": "drax",
       "fact": "德拉克斯真实身份为Graf Hugo von der Drache,母亲为英国人,12岁前在英国受教育,后在柏林与莱比锡受教育。",
+      "fact_en": "Drax's real name is Graf Hugo von der Drache; his mother was English, he was educated in England until he was twelve, and afterwards in Berlin and Leipzig.",
       "quote": "My real name is Graf Hugo von der Drache",
       "quote_source": "第XXII章",
       "source_novel": "moonraker",
@@ -1318,6 +1577,7 @@
       "confidence": "high",
       "entity": "drax",
       "fact": "德拉克斯曾任第140装甲团中尉,后入勃兰登堡师与党卫军国外情报处,在Skorzeny手下工作,1944年12月任Kommando Drache的Oberleutnant参加阿登战役。",
+      "fact_en": "Drax served as a lieutenant in the 140th Panzer Regiment, then joined the Brandenburg Division and the SS Foreign Intelligence Service, working under Skorzeny, and in December 1944, as an Oberleutnant, led Kommando Drache in the Ardennes.",
       "quote": "at the head of Kommando 'Drache'",
       "quote_source": "第XXII章",
       "source_novel": "moonraker",
@@ -1329,6 +1589,7 @@
       "confidence": "high",
       "entity": "drax",
       "fact": "德拉克斯小队炸毁盟军后方联络总部食堂,造成逾百人死伤,他本人被己方飞机炸伤后冒充英国伤员,借Hugo Drax身份出院。",
+      "fact_en": "Drax's squad blew up the mess hall of an Allied rear liaison headquarters, killing or wounding over a hundred men; Drax himself was wounded by one of his own aircraft and, posing as a wounded British soldier, left hospital under the name of Hugo Drax.",
       "quote": "Killed or wounded over a hundred",
       "quote_source": "第II章",
       "source_novel": "moonraker",
@@ -1340,6 +1601,7 @@
       "confidence": "high",
       "entity": "drax",
       "fact": "德拉克斯称其在伦敦抢劫一名犹太放贷人得15000英镑,后去丹吉尔经营Columbite发家。",
+      "fact_en": "Drax says that in London he robbed a Jewish moneylender, taking £15,000 from the safe, and then went to Tangier to trade in Columbite and make his fortune.",
       "quote": "15,000 in the safe",
       "quote_source": "第XXII章",
       "source_novel": "moonraker",
@@ -1351,6 +1613,7 @@
       "confidence": "high",
       "entity": "drax",
       "fact": "德拉克斯称其在莫斯科与苏方交易,苏方提供沃尔特并建造原子弹头,原实验弹头已被调包运往斯德丁。",
+      "fact_en": "Drax says he dealt with the Russians in Moscow, who supplied Walter and built the atomic warhead, and that the original experimental warhead has been swapped out and sent to Stettin.",
       "quote": "the Russians started to build the atomic warhead",
       "quote_source": "第XXII章",
       "source_novel": "moonraker",
@@ -1362,6 +1625,7 @@
       "confidence": "high",
       "entity": "drax",
       "fact": "德拉克斯称俄国潜艇将于星期五中午12时01分接走其团队,补给由海路于星期一晚送达,塔隆因听到动静而被抽签杀害,巴奇中签执行。",
+      "fact_en": "Drax says the Russian submarine will take his team off at 12.01 on Friday, that supplies came in by sea on Monday night, and that Tallon was killed because he heard something - lots were drawn, and Bartsch was chosen to do it.",
       "quote": "Lots are drawn and Bartsch dies a hero's death",
       "quote_source": "第XXII章",
       "source_novel": "moonraker",
@@ -1373,6 +1637,7 @@
       "confidence": "high",
       "entity": "drax",
       "fact": "德拉克斯称全体人员剃头留胡子是为改变面貌,登上潜艇后将剃掉胡子。",
+      "fact_en": "Drax says the shaved heads and moustaches are to change everyone's appearance, and that once aboard the submarine they will shave the moustaches off.",
       "quote": "shave off those famous moustaches",
       "quote_source": "第XXII章",
       "source_novel": "moonraker",
@@ -1384,6 +1649,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德用牙齿操作喷灯与朗森打火机烧断盖拉腕上绳索,两人脱困后藏身通风井,忍受蒸汽烫伤未被发现。",
+      "fact_en": "Bond works the blowtorch and his Ronson lighter with his teeth to burn through the ropes on Gala's wrists; the two escape and hide in the ventilation shaft, enduring steam burns without being discovered.",
       "quote": "Melted by the fierce heat, the copper strands parted",
       "quote_source": "第XXIII章",
       "source_novel": "moonraker",
@@ -1395,6 +1661,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德在发射前约4分钟爬进陀螺仪舱,将德拉克斯的虚假设定改回盖拉的正确设定,使火箭飞向北海而非伦敦。",
+      "fact_en": "About four minutes before the launch Bond climbs into the gyroscope chamber and changes Drax's false settings back to Gala's true ones, sending the rocket to the North Sea instead of London.",
       "quote": "Four minutes to go",
       "quote_source": "第XXIV章",
       "source_novel": "moonraker",
@@ -1406,6 +1673,7 @@
       "confidence": "high",
       "entity": "drax",
       "fact": "德拉克斯在BBC直播中公开宣称要改变英国历史、向伦敦发射复仇之箭,随后按下发射钮。",
+      "fact_en": "In a live BBC broadcast Drax declares that he will change the course of England's history and loose his arrow of vengeance on London, then presses the firing button.",
       "quote": "change the course of England's history",
       "quote_source": "第XXIV章",
       "source_novel": "moonraker",
@@ -1417,6 +1685,7 @@
       "confidence": "high",
       "entity": "moonraker",
       "fact": "月亮牌发射后落入北海目标区,原子弹爆炸掀翻俄国潜艇,HMS Merganzer倾覆,爆炸引发巨浪。",
+      "fact_en": "After launching, the Moonraker comes down in the North Sea target area; the atomic warhead explodes, capsizing the Russian submarine, while HMS Merganzer capsizes and the blast drives a tidal wave towards the coast.",
       "quote": "There's a tidal wave coming at us",
       "quote_source": "第XXIV章",
       "source_novel": "moonraker",
@@ -1428,6 +1697,7 @@
       "confidence": "high",
       "entity": "moonraker",
       "fact": "北海核爆造成200人死亡、约200人失踪,荷兰海防被冲破数英里,两艘巡逻舰倾覆,南古德温灯船脱锚。",
+      "fact_en": "The North Sea explosion kills two hundred people, with about two hundred more missing; the Dutch sea defences are breached for miles, two patrol craft capsize, and the South Goodwin lightship is dragged from its moorings.",
       "quote": "TWO HUNDRED dead so far",
       "quote_source": "第XXV章",
       "source_novel": "moonraker",
@@ -1439,6 +1709,7 @@
       "confidence": "high",
       "entity": "drax",
       "fact": "官方掩盖方案称月亮牌燃料事故爆炸、德拉克斯为爱国者殉职、俄国潜艇实为英军实验潜艇误会,辐射云称随风北漂。",
+      "fact_en": "The official cover story is that the Moonraker blew up in a fuel accident, that Drax died a patriot, that the Russian submarine was really a British experimental submarine mistaken for a Russian one, and that the radioactive cloud drifted north with the wind.",
       "quote": "biggest cover-up job in history",
       "quote_source": "第XXV章",
       "source_novel": "moonraker",
@@ -1450,6 +1721,7 @@
       "confidence": "high",
       "entity": "gala-brand",
       "fact": "盖拉将于次日上午11时在白金汉宫获颁乔治十字勋章,授勋令至次年元旦才公布,首相令邦德与盖拉次日下午前离境一个月。",
+      "fact_en": "Gala is to receive the George Cross at Buckingham Palace at eleven the next morning, the award not to be gazetted until the following New Year; the Prime Minister orders Bond and Gala out of the country by the next afternoon, for a month.",
       "quote": "Immediate award of the George Cross",
       "quote_source": "第XXV章",
       "source_novel": "moonraker",
@@ -1461,6 +1733,7 @@
       "confidence": "high",
       "entity": "gala-brand",
       "fact": "盖拉在结尾告诉邦德次日下午将与侦缉督察维维安结婚,拒绝了邦德的法国之行邀请。",
+      "fact_en": "At the end Gala tells Bond she will marry Detective-Inspector Vivian the next afternoon, turning down Bond's invitation to France.",
       "quote": "I'm going to marry that man",
       "quote_source": "第XXV章",
       "source_novel": "moonraker",
@@ -1472,6 +1745,7 @@
       "confidence": "high",
       "entity": "bond",
       "fact": "邦德获M赠送一把新贝雷塔作纪念,另购1953年Mark VI宾利,定于次日傍晚运往加莱,自己赴法国休假一个月。",
+      "fact_en": "Bond is given a new Beretta by M as a keepsake, and buys a 1953 Mark VI Bentley, to be shipped to Calais the next evening while he takes a month's leave in France.",
       "quote": "You may be needing these",
       "quote_source": "第XXV章",
       "source_novel": "moonraker",
@@ -1483,6 +1757,7 @@
       "confidence": "high",
       "entity": "vallance",
       "fact": "瓦兰斯为苏格兰场特别分部助理总监,人称Ronnie,从事该工作20年,负责盖拉的潜伏行动。",
+      "fact_en": "Vallance, known as Ronnie, is Assistant Commissioner of the Special Branch at Scotland Yard, with twenty years in the work, and is in charge of Gala's undercover assignment.",
       "quote": "twenty years of avoiding the corns of MI5",
       "quote_source": "第X章",
       "source_novel": "moonraker",
@@ -1491,6 +1766,107 @@
   ],
   "kind": "长篇",
   "lines": 1586,
+  "locations": [
+    {
+      "country": "英国",
+      "description_en": "Bond's and M's place of work; the 00 Section is on the eighth floor and M's office on the ninth.",
+      "fictional": false,
+      "id": "hq-regents-park",
+      "name_en": "Secret Service Headquarters near Regent's Park",
+      "name_zh": "摄政公园附近秘密情报机构总部",
+      "role": "邦德与M的办公地,8楼为00部门,9楼为M办公室"
+    },
+    {
+      "country": "英国",
+      "description_en": "A private card club in Park Street, St James's, London, where Drax cheats and Bond sets his trap.",
+      "fictional": true,
+      "id": "blades",
+      "name_en": "Blades",
+      "name_zh": "布莱兹俱乐部",
+      "role": "伦敦圣詹姆斯区Park Street私人赌牌俱乐部,德拉克斯作弊与邦德设局之地"
+    },
+    {
+      "country": "英国",
+      "description_en": "The site of the firing shaft, living quarters and offices, covering about 1,000 acres, with a core of about 200 acres.",
+      "fictional": false,
+      "id": "dover-deal-site",
+      "name_en": "Moonraker site between Dover and Deal",
+      "name_zh": "多佛尔与迪尔之间月亮牌基地",
+      "role": "发射井、宿舍与办公楼所在地,占地约1000英亩,核心约200英亩"
+    },
+    {
+      "country": "英国",
+      "description_en": "A pub on the coast road near the site, scene of the Tallon and Bartsch killings.",
+      "fictional": false,
+      "id": "world-without-want",
+      "name_en": "World Without Want",
+      "name_zh": "World Without Want酒馆",
+      "role": "基地附近海岸公路上的酒馆,塔隆与巴奇命案现场"
+    },
+    {
+      "country": "英国",
+      "description_en": "Drax's secret London base; its top floor conceals the radar guidance station, and Gala is held prisoner there.",
+      "fictional": false,
+      "id": "ebury-street",
+      "name_en": "Ebury Street house",
+      "name_zh": "Ebury Street宅邸",
+      "role": "德拉克斯在伦敦的秘密据点,顶楼藏雷达引导站,盖拉被囚于此"
+    },
+    {
+      "country": "英国",
+      "description_en": "The place Bond and Gala walk to after escaping the cliff fall, and from which they take a taxi back to the site.",
+      "fictional": false,
+      "id": "st-margarets-bay",
+      "name_en": "St Margaret's Bay",
+      "name_zh": "圣玛格丽特湾",
+      "role": "邦德与盖拉崖崩脱险后步行前往并乘出租车返回基地之地"
+    },
+    {
+      "country": "英国",
+      "description_en": "The Moonraker's original target, about eighty miles from the site between the Frisian Islands and the Humber; the rocket finally comes down here and its warhead explodes.",
+      "fictional": false,
+      "id": "north-sea-target",
+      "name_en": "North Sea target area",
+      "name_zh": "北海目标区",
+      "role": "月亮牌原定目标,距基地约80英里,在弗里西亚群岛与赫尔之间,火箭最终落于此并核爆"
+    },
+    {
+      "country": "英国",
+      "description_en": "The true target in Drax's black notebook, about Buckingham Palace; the attack fails.",
+      "fictional": false,
+      "id": "london-target",
+      "name_en": "London",
+      "name_zh": "伦敦",
+      "role": "德拉克斯黑皮本设定的真正目标,约在白金汉宫附近,未遂"
+    },
+    {
+      "country": "摩洛哥",
+      "description_en": "The free port from which Drax runs his Columbite trade and his short-selling of sterling.",
+      "fictional": false,
+      "id": "tangier",
+      "name_en": "Tangier",
+      "name_zh": "丹吉尔",
+      "role": "德拉克斯经营Columbite与做空英镑的自由港基地"
+    },
+    {
+      "country": "德国",
+      "description_en": "The German guided-missile research station; 008 has been there, and Walter is one of its missile experts.",
+      "fictional": false,
+      "id": "peenemunde",
+      "name_en": "Peenemunde",
+      "name_zh": "佩内明德",
+      "role": "德国导弹研究地,008曾去此地,沃尔特为其导弹专家"
+    },
+    {
+      "country": "澳大利亚",
+      "description_en": "The range whose experts from the Ministry of Supply vetted the Moonraker's design.",
+      "fictional": false,
+      "id": "woomera",
+      "name_en": "Woomera Range",
+      "name_zh": "伍默拉试验场",
+      "role": "供应部专家审核月亮牌设计之地"
+    }
+  ],
   "mission": {
     "investigation": "先在Blades观察并设局揭穿德拉克斯作弊;后任基地安全官,搜查塔隆房间、核查海图指纹、考察海滩与排气洞、与盖拉合作,最后在发射前改回陀螺仪设定",
     "key_clues": [
@@ -1504,8 +1880,87 @@
     "objective": "先查清德拉克斯在Blades作弊一事,后接任基地安全官保护月亮牌至星期五中午试射,最终阻止其袭击伦敦",
     "outcome": "邦德与盖拉改回陀螺仪设定,火箭落入北海,原子弹头爆炸击沉接应潜艇,伦敦得救,德拉克斯及其团队死亡,官方以燃料事故掩盖真相"
   },
+  "mission_en": {
+    "investigation_en": "First observe Drax at Blades and trap him into exposing his cheating; then take over as security officer, search Tallon's room, check the fingerprints on the chart, survey the beach and the exhaust pit, work with Gala, and finally reset the gyroscope just before the launch.",
+    "key_clues_en": [
+      "Drax reads the cards in a polished silver cigarette-case used as a mirror.",
+      "The cross-bearings on Tallon's chart, and Krebs's fingerprints over Tallon's.",
+      "The whole staff's shaved heads and moustaches, grown to change their appearance.",
+      "Gala's discovery that the figures in the black notebook differ from her own by about ninety degrees.",
+      "The radar guidance set on the top floor in Ebury Street.",
+      "Drax Metals' £20 million short-selling of sterling."
+    ],
+    "objective_en": "First, to find out whether Drax is cheating at Blades; then, as the site's new security officer, to protect the Moonraker until its test firing at noon on Friday; in the end, to stop it from striking London.",
+    "outcome_en": "Bond and Gala restore the gyroscope settings; the rocket comes down in the North Sea, its atomic warhead explodes and sinks the waiting submarine, London is saved, Drax and his team die, and the truth is officially buried as a fuel accident."
+  },
   "novel_id": "moonraker",
   "novel_no": 3,
+  "organizations": [
+    {
+      "description_en": "The Service to which Bond and M belong; its headquarters stands near Regent's Park, and the 00 Section handles assassination assignments.",
+      "first_chapter": "I",
+      "id": "sis",
+      "name_en": "Secret Intelligence Service",
+      "name_zh": "英国秘密情报机构",
+      "role": "邦德与M所属机构,总部在摄政公园附近,00部门负责暗杀任务"
+    },
+    {
+      "description_en": "The domestic counter-espionage service; it put forward three candidates for security officer and later agreed to Bond's appointment.",
+      "first_chapter": "IX",
+      "id": "mi5",
+      "name_en": "MI5",
+      "name_zh": "军情五处",
+      "role": "国内反间谍机构,曾推荐3名安全官候选人,后同意邦德任命"
+    },
+    {
+      "description_en": "Led by Vallance; it planted Gala Brand under cover and handles the investigation outside the site.",
+      "first_chapter": "IX",
+      "id": "special-branch",
+      "name_en": "Special Branch, Scotland Yard",
+      "name_zh": "苏格兰场特别分部",
+      "role": "瓦兰斯领导,安插盖拉潜伏并负责基地外围调查"
+    },
+    {
+      "description_en": "The department in charge of the Moonraker project; it posted Tallon as security officer and vetted the rocket's design.",
+      "first_chapter": "IX",
+      "id": "ministry-of-supply",
+      "name_en": "Ministry of Supply",
+      "name_zh": "供应部",
+      "role": "月亮牌项目主管部,派驻塔隆为安全官,审核火箭设计"
+    },
+    {
+      "description_en": "Responsible for the outer security of the site and for operating the radar on the day of the firing.",
+      "first_chapter": "IX",
+      "id": "raf",
+      "name_en": "Royal Air Force",
+      "name_zh": "英国皇家空军",
+      "role": "负责基地外围警戒与发射当日雷达操作"
+    },
+    {
+      "description_en": "Drax's trading company in Tangier, which holds the monopoly in Columbite and sold sterling short to the tune of £20 million.",
+      "first_chapter": "X",
+      "id": "drax-metals",
+      "name_en": "Drax Metals Ltd.",
+      "name_zh": "德拉克斯金属公司",
+      "role": "德拉克斯在丹吉尔的贸易公司,垄断Columbite并做空英镑2000万英镑"
+    },
+    {
+      "description_en": "The SS Foreign Intelligence Service to which Drax belonged in wartime, working under Skorzeny on terror and sabotage.",
+      "first_chapter": "XXII",
+      "id": "rsha",
+      "name_en": "RSHA, SS Foreign Intelligence Service",
+      "name_zh": "党卫军国外情报处",
+      "role": "德拉克斯战时所属机构,在Skorzeny手下从事恐怖与破坏活动"
+    },
+    {
+      "description_en": "The special-forces division in which Drax trained; it planned to land in England in British uniforms.",
+      "first_chapter": "XXII",
+      "id": "brandenburg",
+      "name_en": "Brandenburg Division",
+      "name_zh": "勃兰登堡师",
+      "role": "德拉克斯曾受训的特种部队,计划穿英军制服登陆英国"
+    }
+  ],
   "publication_year": 1955,
   "reading": {
     "chapters_read": 25,
@@ -1516,197 +1971,58 @@
   "source_file": "source/txt/moonraker.txt",
   "source_sha256": "d79a517e0614d574f7b196cb22b0c09489795f7212da0beeebd42b845d90e5e9",
   "story_timeline": "星期一:邦德在总部练枪,M委托其调查德拉克斯牌局,当晚在Blades设局赢15000英镑。星期二:基地发生塔隆与巴奇命案,M任命邦德为新任安全官,邦德当晚抵达多佛尔附近基地。星期三:邦德搜查塔隆房间发现海图线索,下午与盖拉海滩遇崖崩谋杀未遂。星期四:盖拉偷看黑皮本被囚Ebury Street,邦德追车被俘,德拉克斯自白,两人喷灯脱困藏身通风井。星期五中午:邦德改回陀螺仪,月亮牌发射后落入北海核爆,德拉克斯潜艇沉没。次日:邦德回总部见M,得知掩盖方案,盖拉次日获乔治十字勋章并结婚,邦德赴法国休假一个月。",
+  "synopsis_en": "On a Monday in late May, James Bond is asked by M to look into Sir Hugo Drax, the millionaire behind Britain's new atomic rocket, the Moonraker - not for treason, but for cheating at bridge at Blades. Bond catches Drax reading the cards in the polished lid of his silver cigarette-case, then beats him at his own game with a stacked Culbertson hand, winning some £15,000. The next day a double killing at the Moonraker site on the Kent coast - the security officer, Major Tallon, shot by a German electronics expert who then kills himself - sends Bond down as Tallon's replacement. Working with Gala Brand, a Special Branch policewoman planted as Drax's secretary, Bond finds that the test firing scheduled for Friday noon is a cover: Drax is in fact Graf Hugo von der Drache, a former Nazi commando, and the rocket's gyroscope has been secretly reset to drop a stolen Soviet atomic warhead on London, while a Russian submarine waits offshore to take his men away. Captured, beaten and left bound to die, Bond and Gala escape, hide in a ventilation shaft, and in the last four minutes before launch Bond restores the true settings. The Moonraker falls on its original North Sea target, its warhead sinking the submarine - and the whole truth is buried under an official cover story.",
   "title_en": "Moonraker",
   "title_zh": "月亮牌",
   "vehicles": [
     {
+      "description_en": "Bond's car, capable of a hundred miles an hour; it is wrecked by the falling newsprint rolls during the chase.",
       "name_en": "1930 4.5-litre Bentley coupe, supercharged",
       "name_zh": "1930年4.5升机械增压宾利轿跑",
       "note": "邦德座驾,可达100英里时速,在追车中被运纸卷撞毁"
     },
     {
+      "description_en": "Drax's car, left-hand drive, one of only six in Britain, with red leather upholstery.",
       "name_en": "Mercedes-Benz 300S, white",
       "name_zh": "白色奔驰300S",
       "note": "德拉克斯座驾,左舵,全英仅6辆之一,红皮内饰"
     },
     {
+      "description_en": "The young driver's car, forced off the road by Drax; the driver is killed.",
       "name_en": "Alfa Romeo supercharged straight-eight, Attaboy II",
       "name_zh": "阿尔法·罗密欧增压直列八缸Attaboy II",
       "note": "无名青年司机超车时被德拉克斯撞翻,司机死亡"
     },
     {
+      "description_en": "The Bowaters eight-wheeled diesel carrier, loaded with fourteen tons of newsprint; Krebs cuts the ropes so the rolls fall as a trap.",
       "name_en": "AEC Diesel carrier, Bowaters",
       "name_zh": "Bowaters八轮柴油运纸车",
       "note": "载14吨新闻纸,克雷布斯割断绳索致纸卷滚落设陷阱"
     },
     {
+      "description_en": "The Russian submarine sent to take Drax's team away; it is capsized and sunk by the atomic explosion in the North Sea target area.",
       "name_en": "Russian submarine",
       "name_zh": "俄国潜艇",
       "note": "接应德拉克斯团队,在北海目标区被原子弹爆炸掀翻沉没"
     },
     {
+      "description_en": "The naval patrol vessel, capsized in the North Sea explosion; her commanding officer is missing.",
       "name_en": "HMS Merganzer",
       "name_zh": "HMS Merganzer号",
       "note": "海军巡逻舰,在北海核爆中倾覆,舰长失踪"
     },
     {
+      "description_en": "The reference point in the North Sea target area, dragged from its moorings by the explosion.",
       "name_en": "South Goodwin Lightship",
       "name_zh": "南古德温灯船",
       "note": "北海目标区参照物,核爆中脱锚"
     },
     {
+      "description_en": "The new car Bond buys at the end, a battleship-grey Mark VI Bentley with drophead coupé bodywork, shipped to Calais the next day.",
       "name_en": "1953 Mark VI Bentley, battleship grey",
       "name_zh": "1953年Mark VI宾利,战列舰灰",
       "note": "邦德在结尾购买的新车,敞篷旅行车身,次日运往加莱"
     }
   ],
-  "words": 73299,
-  "organizations": [
-    {
-      "first_chapter": "I",
-      "id": "sis",
-      "name_en": "Secret Intelligence Service",
-      "name_zh": "英国秘密情报机构",
-      "role": "邦德与M所属机构,总部在摄政公园附近,00部门负责暗杀任务"
-    },
-    {
-      "first_chapter": "IX",
-      "id": "mi5",
-      "name_en": "MI5",
-      "name_zh": "军情五处",
-      "role": "国内反间谍机构,曾推荐3名安全官候选人,后同意邦德任命"
-    },
-    {
-      "first_chapter": "IX",
-      "id": "special-branch",
-      "name_en": "Special Branch, Scotland Yard",
-      "name_zh": "苏格兰场特别分部",
-      "role": "瓦兰斯领导,安插盖拉潜伏并负责基地外围调查"
-    },
-    {
-      "first_chapter": "IX",
-      "id": "ministry-of-supply",
-      "name_en": "Ministry of Supply",
-      "name_zh": "供应部",
-      "role": "月亮牌项目主管部,派驻塔隆为安全官,审核火箭设计"
-    },
-    {
-      "first_chapter": "IX",
-      "id": "raf",
-      "name_en": "Royal Air Force",
-      "name_zh": "英国皇家空军",
-      "role": "负责基地外围警戒与发射当日雷达操作"
-    },
-    {
-      "first_chapter": "X",
-      "id": "drax-metals",
-      "name_en": "Drax Metals Ltd.",
-      "name_zh": "德拉克斯金属公司",
-      "role": "德拉克斯在丹吉尔的贸易公司,垄断Columbite并做空英镑2000万英镑"
-    },
-    {
-      "first_chapter": "XXII",
-      "id": "rsha",
-      "name_en": "RSHA, SS Foreign Intelligence Service",
-      "name_zh": "党卫军国外情报处",
-      "role": "德拉克斯战时所属机构,在Skorzeny手下从事恐怖与破坏活动"
-    },
-    {
-      "first_chapter": "XXII",
-      "id": "brandenburg",
-      "name_en": "Brandenburg Division",
-      "name_zh": "勃兰登堡师",
-      "role": "德拉克斯曾受训的特种部队,计划穿英军制服登陆英国"
-    }
-  ],
-  "locations": [
-    {
-      "country": "英国",
-      "fictional": false,
-      "id": "hq-regents-park",
-      "name_en": "Secret Service Headquarters near Regent's Park",
-      "name_zh": "摄政公园附近秘密情报机构总部",
-      "role": "邦德与M的办公地,8楼为00部门,9楼为M办公室"
-    },
-    {
-      "country": "英国",
-      "fictional": true,
-      "id": "blades",
-      "name_en": "Blades",
-      "name_zh": "布莱兹俱乐部",
-      "role": "伦敦圣詹姆斯区Park Street私人赌牌俱乐部,德拉克斯作弊与邦德设局之地"
-    },
-    {
-      "country": "英国",
-      "fictional": false,
-      "id": "dover-deal-site",
-      "name_en": "Moonraker site between Dover and Deal",
-      "name_zh": "多佛尔与迪尔之间月亮牌基地",
-      "role": "发射井、宿舍与办公楼所在地,占地约1000英亩,核心约200英亩"
-    },
-    {
-      "country": "英国",
-      "fictional": false,
-      "id": "world-without-want",
-      "name_en": "World Without Want",
-      "name_zh": "World Without Want酒馆",
-      "role": "基地附近海岸公路上的酒馆,塔隆与巴奇命案现场"
-    },
-    {
-      "country": "英国",
-      "fictional": false,
-      "id": "ebury-street",
-      "name_en": "Ebury Street house",
-      "name_zh": "Ebury Street宅邸",
-      "role": "德拉克斯在伦敦的秘密据点,顶楼藏雷达引导站,盖拉被囚于此"
-    },
-    {
-      "country": "英国",
-      "fictional": false,
-      "id": "st-margarets-bay",
-      "name_en": "St Margaret's Bay",
-      "name_zh": "圣玛格丽特湾",
-      "role": "邦德与盖拉崖崩脱险后步行前往并乘出租车返回基地之地"
-    },
-    {
-      "country": "英国",
-      "fictional": false,
-      "id": "north-sea-target",
-      "name_en": "North Sea target area",
-      "name_zh": "北海目标区",
-      "role": "月亮牌原定目标,距基地约80英里,在弗里西亚群岛与赫尔之间,火箭最终落于此并核爆"
-    },
-    {
-      "country": "英国",
-      "fictional": false,
-      "id": "london-target",
-      "name_en": "London",
-      "name_zh": "伦敦",
-      "role": "德拉克斯黑皮本设定的真正目标,约在白金汉宫附近,未遂"
-    },
-    {
-      "country": "摩洛哥",
-      "fictional": false,
-      "id": "tangier",
-      "name_en": "Tangier",
-      "name_zh": "丹吉尔",
-      "role": "德拉克斯经营Columbite与做空英镑的自由港基地"
-    },
-    {
-      "country": "德国",
-      "fictional": false,
-      "id": "peenemunde",
-      "name_en": "Peenemunde",
-      "name_zh": "佩内明德",
-      "role": "德国导弹研究地,008曾去此地,沃尔特为其导弹专家"
-    },
-    {
-      "country": "澳大利亚",
-      "fictional": false,
-      "id": "woomera",
-      "name_en": "Woomera Range",
-      "name_zh": "伍默拉试验场",
-      "role": "供应部专家审核月亮牌设计之地"
-    }
-  ]
+  "words": 73299
 }

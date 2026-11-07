@@ -14,39 +14,47 @@
         {
           "novel": "casino-royale",
           "novel_no": 1,
-          "role": "秘密情报局总部所在地，摄政公园附近大楼，M与S处办公地"
+          "role": "秘密情报局总部所在地，摄政公园附近大楼，M与S处办公地",
+          "role_en": "Site of Secret Service headquarters, a building near Regent's Park, where M and S Section work."
         },
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "role": "邦德住所切尔西与总部所在地，M于1月初在此面授任务"
+          "role": "邦德住所切尔西与总部所在地，M于1月初在此面授任务",
+          "role_en": "Bond's Chelsea home and headquarters; M briefs him here in person in early January."
         },
         {
           "novel": "moonraker",
           "novel_no": 3,
-          "role": "德拉克斯黑皮本设定的真正目标,约在白金汉宫附近,未遂"
+          "role": "德拉克斯黑皮本设定的真正目标,约在白金汉宫附近,未遂",
+          "role_en": "The true target in Drax's black notebook, near Buckingham Palace; the attempt fails."
         },
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
-          "role": "M总部（摄政公园）、哈顿花园The House of Diamonds、特拉法加宫酒店、里茨酒店、萨沃伊酒店；走私链中转地，ABC藏身处"
+          "role": "M总部（摄政公园）、哈顿花园The House of Diamonds、特拉法加宫酒店、里茨酒店、萨沃伊酒店；走私链中转地，ABC藏身处",
+          "role_en": "M's headquarters (Regent's Park), the House of Diamonds in Hatton Garden, the Trafalgar Palace Hotel, the Ritz and the Savoy; a transit point of the smuggling chain and ABC's hiding place."
         },
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "role": "邦德切尔西公寓与总部所在地；纹章院、M汇报地"
+          "role": "邦德切尔西公寓与总部所在地；纹章院、M汇报地",
+          "role_en": "Bond's Chelsea flat and headquarters; the College of Arms, and where he reports to M."
         },
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
-          "role": "邦德的基地，M办公室与布莱兹俱乐部所在地，讣告发表地"
+          "role": "邦德的基地，M办公室与布莱兹俱乐部所在地，讣告发表地",
+          "role_en": "Bond's base, with M's office and the Blades club, where the obituary is published."
         },
         {
           "novel": "octopussy",
           "novel_no": 14,
-          "role": "第3篇主场景，秘密情报机构总部、Sotheby's与Wartski所在地；Malinowski尾随终点为肯辛顿宫花园苏联大使馆"
+          "role": "第3篇主场景，秘密情报机构总部、Sotheby's与Wartski所在地；Malinowski尾随终点为肯辛顿宫花园苏联大使馆",
+          "role_en": "Third story's main setting: Secret Service headquarters, Sotheby's and Wartski; the tail on Malinowski ends at the Soviet Embassy in Kensington Palace Gardens."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "paris",
@@ -59,24 +67,29 @@
         {
           "novel": "casino-royale",
           "novel_no": 1,
-          "role": "马蒂斯与第二局总部所在地，薇丝朋受MWD遥控的电话打往巴黎Invalides号码"
+          "role": "马蒂斯与第二局总部所在地，薇丝朋受MWD遥控的电话打往巴黎Invalides号码",
+          "role_en": "Where Mathis and Deuxieme Bureau headquarters are; Vesper's controlling call from the MWD goes to a Paris Invalides number."
         },
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
-          "role": "The House of Diamonds在里沃利街有店；塞耶每月去巴黎一次；结尾塞耶闻风飞巴黎、再到达喀尔"
+          "role": "The House of Diamonds在里沃利街有店；塞耶每月去巴黎一次；结尾塞耶闻风飞巴黎、再到达喀尔",
+          "role_en": "The House of Diamonds has a shop in the Rue de Rivoli; Saye goes to Paris once a month, and at the end flees to Paris on hearing the news, then on to Dakar."
         },
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
-          "role": "第1篇邦德休假地与F站驻地,含Fouquet's、Harry's Bar、Terminus Nord等邦德常去地址"
+          "role": "第1篇邦德休假地与F站驻地,含Fouquet's、Harry's Bar、Terminus Nord等邦德常去地址",
+          "role_en": "First story: Bond's holiday spot and Station F's base, including Fouquet's, Harry's Bar and the Terminus Nord, Bond's regular haunts."
         },
         {
           "novel": "octopussy",
           "novel_no": 14,
-          "role": "第3篇Maria Freudenstein出生地与其母白俄流亡圈所在地，Emerald Sphere由巴黎挂号寄出"
+          "role": "第3篇Maria Freudenstein出生地与其母白俄流亡圈所在地，Emerald Sphere由巴黎挂号寄出",
+          "role_en": "Third story: Maria Freudenstein's birthplace and the home of her mother's White Russian emigre circle; the Emerald Sphere is sent by registered post from Paris."
         }
-      ]
+      ],
+      "country_en": "France"
     },
     {
       "id": "new-york",
@@ -89,24 +102,29 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "role": "故事起点：邦德抵达Idlewild机场，入住St Regis酒店，夜访哈莱姆并被Mr Big俘获"
+          "role": "故事起点：邦德抵达Idlewild机场，入住St Regis酒店，夜访哈莱姆并被Mr Big俘获",
+          "role_en": "Where the story begins: Bond arrives at Idlewild Airport, checks into the St Regis Hotel, visits Harlem at night and is captured by Mr Big."
         },
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
-          "role": "爱德怀尔德机场入关、西46街The House of Diamonds纽约总部、Astor酒店、52街21俱乐部；沙迪·特里据点"
+          "role": "爱德怀尔德机场入关、西46街The House of Diamonds纽约总部、Astor酒店、52街21俱乐部；沙迪·特里据点",
+          "role_en": "Idlewild Airport customs, the House of Diamonds' New York headquarters on West 46th Street, the Astor Hotel and the 21 Club on 52nd Street; Shady Tree's base."
         },
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "role": "诺博士任帮会司库、盗金、遭断手枪击与改容之地；哈妮梦想去纽约整鼻与当应召女郎"
+          "role": "诺博士任帮会司库、盗金、遭断手枪击与改容之地；哈妮梦想去纽约整鼻与当应召女郎",
+          "role_en": "Where Dr No serves as the gang's treasurer, steals gold, is shot and loses his hands, and has his face rebuilt; Honey dreams of going to New York for a nose job and to work as a call girl."
         },
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "role": "爱德怀尔德机场、东河仓库（黑帮会议与囚禁地）、宾夕法尼亚车站专列出发地、帕拉贡保险库"
+          "role": "爱德怀尔德机场、东河仓库（黑帮会议与囚禁地）、宾夕法尼亚车站专列出发地、帕拉贡保险库",
+          "role_en": "Idlewild Airport, the East River warehouse (gang meeting and prison), the Pennsylvania Station departure of the special train, and the Paragon vault."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "nassau",
@@ -119,24 +137,29 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "role": "邦德飞往牙买加途中经停地"
+          "role": "邦德飞往牙买加途中经停地",
+          "role_en": "Stopover on Bond's flight to Jamaica."
         },
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "role": "金手指护照签发地与藏金地之一"
+          "role": "金手指护照签发地与藏金地之一",
+          "role_en": "Where Goldfinger's passport is issued, and one of his gold caches."
         },
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
-          "role": "第3篇总督府晚宴与讲故事地,邦德下榻British Colonial酒店"
+          "role": "第3篇总督府晚宴与讲故事地,邦德下榻British Colonial酒店",
+          "role_en": "Third story: Government House dinner and storytelling; Bond stays at the British Colonial Hotel."
         },
         {
           "novel": "thunderball",
           "novel_no": 9,
-          "role": "故事主舞台，邦德与莱特调查飞碟号之地，曼塔号停靠港"
+          "role": "故事主舞台，邦德与莱特调查飞碟号之地，曼塔号停靠港",
+          "role_en": "The story's main stage, where Bond and Leiter investigate the Disco Volante, and the Manta's port."
         }
-      ]
+      ],
+      "country_en": "The Bahamas"
     },
     {
       "id": "kingston",
@@ -149,19 +172,23 @@
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "role": "牙买加首府，斯特兰威斯遇害地与邦德调查的起点；女王俱乐部、总督府、蓝山酒店与欢乐船夜总会均在此"
+          "role": "牙买加首府，斯特兰威斯遇害地与邦德调查的起点；女王俱乐部、总督府、蓝山酒店与欢乐船夜总会均在此",
+          "role_en": "Capital of Jamaica, where Strangways is murdered and Bond's investigation begins; the Queen's Club, King's House, the Blue Mountain Hotel and the Joy Boat nightclub are all here."
         },
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "role": "牙买加首都与J站所在地；邦德经金斯敦国际机场转机，在Morgan's Harbour住宿，结尾在金斯敦医院养伤"
+          "role": "牙买加首都与J站所在地；邦德经金斯敦国际机场转机，在Morgan's Harbour住宿，结尾在金斯敦医院养伤",
+          "role_en": "Capital of Jamaica and site of Station J; Bond changes planes at Kingston Airport, stays at Morgan's Harbour, and recovers in Kingston Hospital at the end."
         },
         {
           "novel": "octopussy",
           "novel_no": 14,
-          "role": "第1篇邦德乘出租车出发地，Foo兄弟商行与Myrtle Bank所在地"
+          "role": "第1篇邦德乘出租车出发地，Foo兄弟商行与Myrtle Bank所在地",
+          "role_en": "First story: where Bond sets off by taxi; site of the Foo brothers' firm and the Myrtle Bank."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "royale-les-eaux",
@@ -174,14 +201,17 @@
         {
           "novel": "casino-royale",
           "novel_no": 1,
-          "role": "故事主场景，索姆河口附近的海滨小镇，赌场与两家大酒店所在地"
+          "role": "故事主场景，索姆河口附近的海滨小镇，赌场与两家大酒店所在地",
+          "role_en": "The story's main setting, a seaside town near the mouth of the Somme, with the casino and two large hotels."
         },
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "role": "开篇地：邦德与崔西相遇、赌场与绑架发生地"
+          "role": "开篇地：邦德与崔西相遇、赌场与绑架发生地",
+          "role_en": "Opening scene: where Bond meets Tracy, and the casino and the kidnapping take place."
         }
-      ]
+      ],
+      "country_en": "France"
     },
     {
       "id": "casino-royale",
@@ -194,14 +224,17 @@
         {
           "novel": "casino-royale",
           "novel_no": 1,
-          "role": "百家乐对决、爆炸与暗杀未遂的发生地，白色鎏金维多利亚式建筑"
+          "role": "百家乐对决、爆炸与暗杀未遂的发生地，白色鎏金维多利亚式建筑",
+          "role_en": "Scene of the baccarat duel, the explosion and the attempted assassination; a white, gilt Victorian building."
         },
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "role": "邦德赢得460万法郎、崔西“耻辱一击”发生地"
+          "role": "邦德赢得460万法郎、崔西“耻辱一击”发生地",
+          "role_en": "Where Bond wins 4,600,000 francs and Tracy delivers her 'coup de deshonneur'."
         }
-      ]
+      ],
+      "country_en": "France"
     },
     {
       "id": "strasbourg",
@@ -214,14 +247,17 @@
         {
           "novel": "casino-royale",
           "novel_no": 1,
-          "role": "勒·希弗的活动基地与阿尔萨斯工会中心，勒·希弗死讯在此引起轰动"
+          "role": "勒·希弗的活动基地与阿尔萨斯工会中心，勒·希弗死讯在此引起轰动",
+          "role_en": "Le Chiffre's base of operations and the Alsace union centre, where the news of his death causes a sensation."
         },
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "role": "突袭队集结地，秘密军组织直升机藏于附近城堡谷仓"
+          "role": "突袭队集结地，秘密军组织直升机藏于附近城堡谷仓",
+          "role_en": "Assembly point for the raiding party, with the Secret Army's helicopter hidden in a nearby castle barn."
         }
-      ]
+      ],
+      "country_en": "France"
     },
     {
       "id": "jamaica",
@@ -234,14 +270,17 @@
         {
           "novel": "casino-royale",
           "novel_no": 1,
-          "role": "邦德掩护身份来源地与通讯中转地，福塞特在金斯敦《每日拾穗者报》任职"
+          "role": "邦德掩护身份来源地与通讯中转地，福塞特在金斯敦《每日拾穗者报》任职",
+          "role_en": "Source of Bond's cover identity and a communications relay; Fawcett works on the Kingston Daily Gleaner."
         },
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "role": "故事后半段舞台：金斯敦、Shark Bay、惊奇岛、Beau Desert、Manatee Bay"
+          "role": "故事后半段舞台：金斯敦、Shark Bay、惊奇岛、Beau Desert、Manatee Bay",
+          "role_en": "Stage for the second half of the story: Kingston, Shark Bay, Surprise Island, Beau Desert and Manatee Bay."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "havana",
@@ -254,14 +293,17 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "role": "Secatur号停靠地，Mr Big与索利泰尔乘包机由此前往；邦德飞往牙买加途中飞越哈瓦那上空"
+          "role": "Secatur号停靠地，Mr Big与索利泰尔乘包机由此前往；邦德飞往牙买加途中飞越哈瓦那上空",
+          "role_en": "Where the Secatur docks; Mr Big and Solitaire fly on from here by chartered plane, and Bond flies over Havana on his way to Jamaica."
         },
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "role": "斯卡拉曼加的大本营与DSS所在地；Hendriks的克格勃哈瓦那中心所在地；邦德原计划以信使身份前往"
+          "role": "斯卡拉曼加的大本营与DSS所在地；Hendriks的克格勃哈瓦那中心所在地；邦德原计划以信使身份前往",
+          "role_en": "Scaramanga's base and the DSS headquarters; site of Hendriks's KGB Havana centre, which Bond originally planned to visit as a courier."
         }
-      ]
+      ],
+      "country_en": "Cuba"
     },
     {
       "id": "beau-desert",
@@ -274,14 +316,17 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "role": "Shark Bay西岸约1000英亩种植园，Strangways租用的监视据点与邦德行动基地"
+          "role": "Shark Bay西岸约1000英亩种植园，Strangways租用的监视据点与邦德行动基地",
+          "role_en": "Plantation of about 1,000 acres on the west shore of Shark Bay, rented by Strangways as an observation post and used by Bond as his base."
         },
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "role": "摩根港附近的种植园与海滩别墅，邦德训练与藏身的基地；哈妮家族旧宅废墟亦在此，她住在地窖中"
+          "role": "摩根港附近的种植园与海滩别墅，邦德训练与藏身的基地；哈妮家族旧宅废墟亦在此，她住在地窖中",
+          "role_en": "Plantation and beach house near Morgan's Harbour, Bond's training and hiding base; the ruins of Honey's family home are here too, and she lives in its cellar."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "las-vegas",
@@ -294,14 +339,17 @@
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
-          "role": "Tiara酒店所在地，塞拉菲莫·斯班格总部；邦德在此领报酬、赢走20000美元、遭追车枪战"
+          "role": "Tiara酒店所在地，塞拉菲莫·斯班格总部；邦德在此领报酬、赢走20000美元、遭追车枪战",
+          "role_en": "Site of the Tiara Hotel, Seraffimo Spang's headquarters; Bond collects his payment here, wins $20,000, and is chased in a gun battle."
         },
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "role": "斯卡拉曼加早年为Spangled Mob当枪手的城市；1958年在Thunderbird高尔夫球场决斗杀死Ramon Rodriguez"
+          "role": "斯卡拉曼加早年为Spangled Mob当枪手的城市；1958年在Thunderbird高尔夫球场决斗杀死Ramon Rodriguez",
+          "role_en": "City where Scaramanga worked as a gunman for the Spangled Mob in his early years; in 1958 he kills Ramon Rodriguez in a duel on the Thunderbird golf course."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "london-hq",
@@ -314,29 +362,35 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "role": "M办公室所在地，邦德接受任务处"
+          "role": "M办公室所在地，邦德接受任务处",
+          "role_en": "Location of M's office, where Bond receives his mission."
         },
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "role": "M办公室所在地，第II章换枪与交代任务之地；无线电呼号WWW"
+          "role": "M办公室所在地，第II章换枪与交代任务之地；无线电呼号WWW",
+          "role_en": "Location of M's office, where the gun is exchanged and the mission briefed in Chapter II; radio call-sign WWW."
         },
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "role": "邦德值夜班、M下达任务、档案室拼图金手指面容的地"
+          "role": "邦德值夜班、M下达任务、档案室拼图金手指面容的地",
+          "role_en": "Where Bond takes the night duty, M gives him the assignment, and the registry reconstructs Goldfinger's face."
         },
         {
           "novel": "thunderball",
           "novel_no": 9,
-          "role": "M办公室所在地，邦德接获霹雳弹行动命令之地"
+          "role": "M办公室所在地，邦德接获霹雳弹行动命令之地",
+          "role_en": "Location of M's office, where Bond receives the order for Operation Thunderball."
         },
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "role": "邦德回国报到与刺杀M未遂的发生地；M办公室在八楼，旧房间号为12号"
+          "role": "邦德回国报到与刺杀M未遂的发生地；M办公室在八楼，旧房间号为12号",
+          "role_en": "Where Bond reports back and the attempt to assassinate M takes place; M's office is on the eighth floor, its old room number 12."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "trieste",
@@ -349,14 +403,17 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "role": "格蘭特化名纳什登车处"
+          "role": "格蘭特化名纳什登车处",
+          "role_en": "Where Grant boards the train under the name Nash."
         },
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "role": "少年斯卡拉曼加大象Max发狂、他开枪杀警的马戏团巡演地"
+          "role": "少年斯卡拉曼加大象Max发狂、他开枪杀警的马戏团巡演地",
+          "role_en": "Where the young Scaramanga's elephant Max runs amok on the circus tour and he shoots a policeman."
         }
-      ]
+      ],
+      "country_en": "Italy"
     },
     {
       "id": "berlin",
@@ -369,14 +426,17 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "role": "格蘭特投奔苏联处；鲍姆加滕被刺处"
+          "role": "格蘭特投奔苏联处；鲍姆加滕被刺处",
+          "role_en": "Where Grant defects to the Soviet Union; where Baumgarten is stabbed."
         },
         {
           "novel": "octopussy",
           "novel_no": 14,
-          "role": "第2篇主场景，东西柏林边境Zimmerstrasse越境行动之地"
+          "role": "第2篇主场景，东西柏林边境Zimmerstrasse越境行动之地",
+          "role_en": "Second story's main setting: the Zimmerstrasse crossing on the East-West Berlin border."
         }
-      ]
+      ],
+      "country_en": "Germany"
     },
     {
       "id": "zurich",
@@ -389,14 +449,17 @@
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
-          "role": "薇薇安堕胎地；朱斯金德医生与布伦瑞克妇科医生经手，费用约100至150镑"
+          "role": "薇薇安堕胎地；朱斯金德医生与布伦瑞克妇科医生经手，费用约100至150镑",
+          "role_en": "Where Vivienne has her abortion, handled by Dr Susskind and a Brunswick gynaecologist, costing about 100 to 150 pounds."
         },
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "role": "邦德入境地；Z站驻地；女孩们飞往英国的出发地"
+          "role": "邦德入境地；Z站驻地；女孩们飞往英国的出发地",
+          "role_en": "Where Bond enters the country; Station Z's base, and the departure point for the girls' flight to Britain."
         }
-      ]
+      ],
+      "country_en": "Switzerland"
     },
     {
       "id": "hotel-splendide",
@@ -409,14 +472,17 @@
         {
           "novel": "casino-royale",
           "novel_no": 1,
-          "role": "邦德下榻处，45号房被蒙茨夫妇窃听，支票藏于房门号牌之后"
+          "role": "邦德下榻处，45号房被蒙茨夫妇窃听，支票藏于房门号牌之后",
+          "role_en": "Where Bond stays; Room 45 is bugged by the Montzes, and the cheque is hidden behind the room-number plate on the door."
         },
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "role": "邦德与崔西下榻处，45号房；崔西遗书交到此处前台"
+          "role": "邦德与崔西下榻处，45号房；崔西遗书交到此处前台",
+          "role_en": "Where Bond and Tracy stay, Room 45; Tracy's farewell letter is delivered to this front desk."
         }
-      ]
+      ],
+      "country_en": "France"
     },
     {
       "id": "hotel-hermitage",
@@ -429,9 +495,11 @@
         {
           "novel": "casino-royale",
           "novel_no": 1,
-          "role": "邦德与薇丝朋初次见面的酒吧所在地，窗户被爆炸震碎"
+          "role": "邦德与薇丝朋初次见面的酒吧所在地，窗户被爆炸震碎",
+          "role_en": "Where the bar is in which Bond and Vesper first meet, its windows shattered by the explosion."
         }
-      ]
+      ],
+      "country_en": "France"
     },
     {
       "id": "les-noctambules",
@@ -444,9 +512,11 @@
         {
           "novel": "casino-royale",
           "novel_no": 1,
-          "role": "勒·希弗租住的别墅，邦德受酷刑与勒·希弗被处决之地，位于海岸公路以南约10英里"
+          "role": "勒·希弗租住的别墅，邦德受酷刑与勒·希弗被处决之地，位于海岸公路以南约10英里",
+          "role_en": "Villa rented by Le Chiffre, where Bond is tortured and Le Chiffre executed, about 10 miles south of the coast road."
         }
-      ]
+      ],
+      "country_en": "France"
     },
     {
       "id": "auberge-du-fruit-defendu",
@@ -459,9 +529,11 @@
         {
           "novel": "casino-royale",
           "novel_no": 1,
-          "role": "邦德与薇丝朋康复后同住的海边小客栈，薇丝朋在此自杀"
+          "role": "邦德与薇丝朋康复后同住的海边小客栈，薇丝朋在此自杀",
+          "role_en": "Seaside inn where Bond and Vesper live together while he recovers, and where Vesper kills herself."
         }
-      ]
+      ],
+      "country_en": "France"
     },
     {
       "id": "dachau",
@@ -474,9 +546,11 @@
         {
           "novel": "casino-royale",
           "novel_no": 1,
-          "role": "勒·希弗1945年6月首次以失忆难民身份出现的难民营"
+          "role": "勒·希弗1945年6月首次以失忆难民身份出现的难民营",
+          "role_en": "Refugee camp where Le Chiffre first appears in June 1945, posing as an amnesiac refugee."
         }
-      ]
+      ],
+      "country_en": "Germany"
     },
     {
       "id": "monte-carlo",
@@ -489,9 +563,11 @@
         {
           "novel": "casino-royale",
           "novel_no": 1,
-          "role": "邦德战前与马蒂斯合作破获罗马尼亚作弊团伙之地"
+          "role": "邦德战前与马蒂斯合作破获罗马尼亚作弊团伙之地",
+          "role_en": "Where Bond works with Mathis before the war to break a Romanian cheating gang."
         }
-      ]
+      ],
+      "country_en": "Monaco"
     },
     {
       "id": "harlem",
@@ -504,9 +580,11 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "role": "Mr Big的大本营，Boneyard夜总会、Sugar Ray's、Savoy Ballroom所在地，金币分销网络中心"
+          "role": "Mr Big的大本营，Boneyard夜总会、Sugar Ray's、Savoy Ballroom所在地，金币分销网络中心",
+          "role_en": "Mr Big's headquarters, home to the Boneyard nightclub, Sugar Ray's and the Savoy Ballroom, and centre of the gold-coin distribution network."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "jacksonville",
@@ -519,9 +597,11 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "role": "邦德与索利泰尔凌晨5时下车换乘Silver Meteor号的佛罗里达枢纽"
+          "role": "邦德与索利泰尔凌晨5时下车换乘Silver Meteor号的佛罗里达枢纽",
+          "role_en": "Florida junction where Bond and Solitaire get off at 5 a.m. to change to the Silver Meteor."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "st-petersburg",
@@ -534,9 +614,11 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "role": "佛罗里达西海岸城市，绰号阳光城与美国大墓地；Ourobouros仓库所在地，莱特在此遭鲨鱼袭击，索利泰尔在此被绑架"
+          "role": "佛罗里达西海岸城市，绰号阳光城与美国大墓地；Ourobouros仓库所在地，莱特在此遭鲨鱼袭击，索利泰尔在此被绑架",
+          "role_en": "City on Florida's west coast, nicknamed the Sunshine City and America's graveyard; site of the Ourobouros warehouse, where Leiter is attacked by a shark and Solitaire is kidnapped."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "treasure-island",
@@ -549,9 +631,11 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "role": "St Petersburg外海滩岛，Everglades Cabanas旅馆所在地"
+          "role": "St Petersburg外海滩岛，Everglades Cabanas旅馆所在地",
+          "role_en": "Barrier island off St Petersburg, site of the Everglades Cabanas motel."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "tampa",
@@ -564,9 +648,11 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "role": "绑架索利泰尔的两名男子来自坦帕，Oasis酒吧后台球室为其联络点；FBI坦帕分局参与调查"
+          "role": "绑架索利泰尔的两名男子来自坦帕，Oasis酒吧后台球室为其联络点；FBI坦帕分局参与调查",
+          "role_en": "The two men who kidnap Solitaire come from Tampa; the back billiard room of the Oasis bar is their meeting place, and the FBI's Tampa office joins the investigation."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "tarpon-springs",
@@ -579,9 +665,11 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "role": "Ourobouros名义业主Papagos的家乡，希腊海绵渔民聚居地"
+          "role": "Ourobouros名义业主Papagos的家乡，希腊海绵渔民聚居地",
+          "role_en": "Home town of Papagos, nominal owner of the Ourobouros, settled by Greek sponge fishermen."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "isle-of-surprise",
@@ -594,9 +682,11 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "role": "Shark Bay中央的珊瑚石灰岩小岛，血腥摩根宝藏库所在地，Mr Big以伏都鼓声与鲨鱼守卫该岛"
+          "role": "Shark Bay中央的珊瑚石灰岩小岛，血腥摩根宝藏库所在地，Mr Big以伏都鼓声与鲨鱼守卫该岛",
+          "role_en": "Small coral-limestone island in the middle of Shark Bay, hiding Bloody Morgan's treasure store, guarded by Mr Big with voodoo drums and sharks."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "shark-bay",
@@ -609,9 +699,11 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "role": "牙买加北海岸小港湾，血腥摩根旧锚地，Beau Desert据点俯瞰该湾"
+          "role": "牙买加北海岸小港湾，血腥摩根旧锚地，Beau Desert据点俯瞰该湾",
+          "role_en": "Small bay on Jamaica's north coast, Bloody Morgan's old anchorage, overlooked by the Beau Desert base."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "manatee-bay",
@@ -624,9 +716,11 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "role": "牙买加西端海滩，西印度柑橘公司休养所，邦德与Quarrel训练一周之地"
+          "role": "牙买加西端海滩，西印度柑橘公司休养所，邦德与Quarrel训练一周之地",
+          "role_en": "Beach at Jamaica's western end, the West Indian Citrus Company's rest house, where Bond and Quarrel train for a week."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "llanrumney",
@@ -639,9 +733,11 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "role": "血腥摩根在Shark Bay畔的庄园，以其威尔士出生地命名，摩根曾在此建三栋房屋"
+          "role": "血腥摩根在Shark Bay畔的庄园，以其威尔士出生地命名，摩根曾在此建三栋房屋",
+          "role_en": "Bloody Morgan's estate on Shark Bay, named after his Welsh birthplace, where Morgan once built three houses."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "port-maria",
@@ -654,9 +750,11 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "role": "Shark Bay邻近港口，Secatur号在此清关；邦德术后送往此地医院"
+          "role": "Shark Bay邻近港口，Secatur号在此清关；邦德术后送往此地医院",
+          "role_en": "Port near Shark Bay, where the Secatur clears customs; Bond is taken to hospital here after his operation."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "plum-point",
@@ -669,9 +767,11 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "role": "北卡罗来纳州Beaufort县地名，1928年圣诞节前后据信有人在此挖出黑胡子部分宝藏，为金币来源的掩护说法"
+          "role": "北卡罗来纳州Beaufort县地名，1928年圣诞节前后据信有人在此挖出黑胡子部分宝藏，为金币来源的掩护说法",
+          "role_en": "Place in Beaufort County, North Carolina, where part of Blackbeard's treasure is believed to have been dug up around Christmas 1928, the cover story for the gold coins' origin."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "glen-cove",
@@ -684,9 +784,11 @@
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
-          "role": "长岛苏联周末休养营所在地，1951年苏联双面特工在前往此地的地铁站被推下站台身亡"
+          "role": "长岛苏联周末休养营所在地，1951年苏联双面特工在前往此地的地铁站被推下站台身亡",
+          "role_en": "Site of the Soviet weekend rest camp on Long Island; in 1951 a Soviet double agent is pushed off a subway platform on his way there and killed."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "hq-regents-park",
@@ -699,9 +801,11 @@
         {
           "novel": "moonraker",
           "novel_no": 3,
-          "role": "邦德与M的办公地,8楼为00部门,9楼为M办公室"
+          "role": "邦德与M的办公地,8楼为00部门,9楼为M办公室",
+          "role_en": "Offices of Bond and M; the Double-O Section is on the 8th floor and M's office on the 9th."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "blades",
@@ -714,14 +818,17 @@
         {
           "novel": "moonraker",
           "novel_no": 3,
-          "role": "伦敦圣詹姆斯区Park Street私人赌牌俱乐部,德拉克斯作弊与邦德设局之地"
+          "role": "伦敦圣詹姆斯区Park Street私人赌牌俱乐部,德拉克斯作弊与邦德设局之地",
+          "role_en": "Private card club in Park Street, St James's, London, where Drax cheats and Bond sets his trap."
         },
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "role": "M常去的俱乐部；第3章M在此午餐后回办公室读斯卡拉曼加档案"
+          "role": "M常去的俱乐部；第3章M在此午餐后回办公室读斯卡拉曼加档案",
+          "role_en": "M's regular club; in Chapter 3 M lunches here, then returns to the office to read the Scaramanga file."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "dover-deal-site",
@@ -734,9 +841,11 @@
         {
           "novel": "moonraker",
           "novel_no": 3,
-          "role": "发射井、宿舍与办公楼所在地,占地约1000英亩,核心约200英亩"
+          "role": "发射井、宿舍与办公楼所在地,占地约1000英亩,核心约200英亩",
+          "role_en": "Site of the launch silo, dormitories and office buildings, covering about 1,000 acres, with a core of about 200 acres."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "world-without-want",
@@ -749,9 +858,11 @@
         {
           "novel": "moonraker",
           "novel_no": 3,
-          "role": "基地附近海岸公路上的酒馆,塔隆与巴奇命案现场"
+          "role": "基地附近海岸公路上的酒馆,塔隆与巴奇命案现场",
+          "role_en": "Tavern on the coast road near the base, scene of the Tallon and Basche murders."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "ebury-street",
@@ -764,9 +875,11 @@
         {
           "novel": "moonraker",
           "novel_no": 3,
-          "role": "德拉克斯在伦敦的秘密据点,顶楼藏雷达引导站,盖拉被囚于此"
+          "role": "德拉克斯在伦敦的秘密据点,顶楼藏雷达引导站,盖拉被囚于此",
+          "role_en": "Drax's secret London base, with a radar guidance station hidden on the top floor, where Gala is held prisoner."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "st-margarets-bay",
@@ -779,9 +892,11 @@
         {
           "novel": "moonraker",
           "novel_no": 3,
-          "role": "邦德与盖拉崖崩脱险后步行前往并乘出租车返回基地之地"
+          "role": "邦德与盖拉崖崩脱险后步行前往并乘出租车返回基地之地",
+          "role_en": "Where Bond and Gala walk after escaping the rockfall, then take a taxi back to the base."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "north-sea-target",
@@ -794,9 +909,11 @@
         {
           "novel": "moonraker",
           "novel_no": 3,
-          "role": "月亮牌原定目标,距基地约80英里,在弗里西亚群岛与赫尔之间,火箭最终落于此并核爆"
+          "role": "月亮牌原定目标,距基地约80英里,在弗里西亚群岛与赫尔之间,火箭最终落于此并核爆",
+          "role_en": "Moonraker's intended target, about 80 miles from the base, between the Frisian Islands and Hull; the rocket finally lands here and explodes with a nuclear blast."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "tangier",
@@ -809,9 +926,11 @@
         {
           "novel": "moonraker",
           "novel_no": 3,
-          "role": "德拉克斯经营Columbite与做空英镑的自由港基地"
+          "role": "德拉克斯经营Columbite与做空英镑的自由港基地",
+          "role_en": "Free-port base where Drax trades columbite and shorts sterling."
         }
-      ]
+      ],
+      "country_en": "Morocco"
     },
     {
       "id": "peenemunde",
@@ -824,9 +943,11 @@
         {
           "novel": "moonraker",
           "novel_no": 3,
-          "role": "德国导弹研究地,008曾去此地,沃尔特为其导弹专家"
+          "role": "德国导弹研究地,008曾去此地,沃尔特为其导弹专家",
+          "role_en": "German missile research site, visited by 008; Walter is its missile expert."
         }
-      ]
+      ],
+      "country_en": "Germany"
     },
     {
       "id": "woomera",
@@ -839,9 +960,11 @@
         {
           "novel": "moonraker",
           "novel_no": 3,
-          "role": "供应部专家审核月亮牌设计之地"
+          "role": "供应部专家审核月亮牌设计之地",
+          "role_en": "Where Ministry of Supply experts vet the Moonraker design."
         }
-      ]
+      ],
+      "country_en": "Australia"
     },
     {
       "id": "thorn-bush",
@@ -854,9 +977,11 @@
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
-          "role": "走私链起点，位于基西杜古以南40英里、法属几内亚与利比里亚、塞拉利昂三国交界处，牙医每月满月夜在此向直升机交钻；结尾斯班格在此被击落"
+          "role": "走私链起点，位于基西杜古以南40英里、法属几内亚与利比里亚、塞拉利昂三国交界处，牙医每月满月夜在此向直升机交钻；结尾斯班格在此被击落",
+          "role_en": "Starting point of the smuggling chain, 40 miles south of Kissidougou at the junction of French Guinea, Liberia and Sierra Leone, where the dentist hands diamonds to a helicopter every full-moon night; at the end Spang is shot down here."
         }
-      ]
+      ],
+      "country_en": "French Guinea (now Guinea)"
     },
     {
       "id": "sefadu-mines",
@@ -869,9 +994,11 @@
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
-          "role": "钻石来源，属Sierra International（Afric International矿业帝国一部分），牙医在此从矿工口中取钻"
+          "role": "钻石来源，属Sierra International（Afric International矿业帝国一部分），牙医在此从矿工口中取钻",
+          "role_en": "Source of the diamonds, part of Sierra International (a limb of the Afric International mining empire); the dentist collects diamonds from miners' mouths here."
         }
-      ]
+      ],
+      "country_en": "Sierra Leone"
     },
     {
       "id": "saratoga",
@@ -884,9 +1011,11 @@
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
-          "role": "8月赛马会举办地，The Perpetuities Stakes与替身马骗局发生处；邦德与莱特住Sagamore汽车旅馆"
+          "role": "8月赛马会举办地，The Perpetuities Stakes与替身马骗局发生处；邦德与莱特住Sagamore汽车旅馆",
+          "role_en": "Venue of the August race meeting, where the Perpetuities Stakes and the ringer fraud take place; Bond and Leiter stay at the Sagamore Motel."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "spectreville",
@@ -899,9 +1028,11 @@
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
-          "role": "斯班格买下的旧银矿鬼镇，位于95号公路边、Spectre山脉旁，约1905年采银3年；邦德在此被毒打、纵火逃脱；注意：地名源于Spectre山脉，与组织SPECTRE无关"
+          "role": "斯班格买下的旧银矿鬼镇，位于95号公路边、Spectre山脉旁，约1905年采银3年；邦德在此被毒打、纵火逃脱；注意：地名源于Spectre山脉，与组织SPECTRE无关",
+          "role_en": "Old silver-mining ghost town bought by Spang, beside Highway 95 near the Spectre Mountains, mined for silver for about three years around 1905; Bond is beaten and poisoned here, then escapes by arson. Note: the name comes from the Spectre Mountains and has nothing to do with the organisation SPECTRE."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "rhyolite",
@@ -914,9 +1045,11 @@
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
-          "role": "幽灵村以东约50英里的另一鬼镇，现为旅游点，有威士忌酒瓶屋；邦德与蒂芙尼乘手摇车逃往该方向"
+          "role": "幽灵村以东约50英里的另一鬼镇，现为旅游点，有威士忌酒瓶屋；邦德与蒂芙尼乘手摇车逃往该方向",
+          "role_en": "Another ghost town about 50 miles east of Spectreville, now a tourist spot with a whisky-bottle house; Bond and Tiffany flee that way on a handcar."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "queen-elizabeth",
@@ -929,9 +1062,11 @@
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
-          "role": "邦德与蒂芙尼返英所乘邮轮，星期日早8时自纽约开船，5天航程，温特与基德在A49舱行刺、被邦德击毙"
+          "role": "邦德与蒂芙尼返英所乘邮轮，星期日早8时自纽约开船，5天航程，温特与基德在A49舱行刺、被邦德击毙",
+          "role_en": "Liner taking Bond and Tiffany back to England, sailing from New York at 8 a.m. on Sunday for a five-day crossing; Wint and Kidd attack in Cabin A49 and are killed by Bond."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "freetown",
@@ -944,9 +1079,11 @@
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
-          "role": "邦德乘堪培拉飞机抵达，与弗里敦驻军埋伏拦截斯班格直升机"
+          "role": "邦德乘堪培拉飞机抵达，与弗里敦驻军埋伏拦截斯班格直升机",
+          "role_en": "Where Bond arrives by Canberra aircraft and lies in ambush with the Freetown garrison to intercept Spang's helicopter."
         }
-      ]
+      ],
+      "country_en": "Sierra Leone"
     },
     {
       "id": "dakar",
@@ -959,9 +1096,11 @@
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
-          "role": "国际刑警报告塞耶逃往达喀尔，佐证其即ABC"
+          "role": "国际刑警报告塞耶逃往达喀尔，佐证其即ABC",
+          "role_en": "Interpol reports Saye fleeing to Dakar, confirming he is ABC."
         }
-      ]
+      ],
+      "country_en": "Senegal"
     },
     {
       "id": "crimea-villa",
@@ -974,9 +1113,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "role": "格蘭特的住所，位于费奥多西亚与雅尔塔之间东南海岸，官方度假别墅；故事开篇地"
+          "role": "格蘭特的住所，位于费奥多西亚与雅尔塔之间东南海岸，官方度假别墅；故事开篇地",
+          "role_en": "Grant's home, on the south-east coast between Feodosia and Yalta, an official holiday villa; the story's opening scene."
         }
-      ]
+      ],
+      "country_en": "Soviet Union"
     },
     {
       "id": "moscow-smersh-hq",
@@ -989,9 +1130,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "role": "SMERSH总部，G将军办公室与会议室所在地，死刑令签署地"
+          "role": "SMERSH总部，G将军办公室与会议室所在地，死刑令签署地",
+          "role_en": "SMERSH headquarters, where General G's office and the conference room are, and where the death sentence is signed."
         }
-      ]
+      ],
+      "country_en": "Soviet Union"
     },
     {
       "id": "london-chelsea-flat",
@@ -1004,9 +1147,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "role": "邦德住所，位于国王路广场；MGB派电视推销员监视此处"
+          "role": "邦德住所，位于国王路广场；MGB派电视推销员监视此处",
+          "role_en": "Bond's home, on King's Road Square; the MGB sends a television salesman to watch it."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "istanbul",
@@ -1019,9 +1164,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "role": "首次接触地；克里姆T站驻地；塔蒂亚娜与邦德会合、东方快车出发地"
+          "role": "首次接触地；克里姆T站驻地；塔蒂亚娜与邦德会合、东方快车出发地",
+          "role_en": "First contact point; Kerim's Station T base, where Tatiana joins Bond and the Orient Express departs."
         }
-      ]
+      ],
+      "country_en": "Turkey"
     },
     {
       "id": "kristal-palas",
@@ -1034,9 +1181,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "role": "邦德下榻酒店，位于佩拉高地；12号蜜月套房为SMERSH偷拍布景，床头假镜后藏摄影机"
+          "role": "邦德下榻酒店，位于佩拉高地；12号蜜月套房为SMERSH偷拍布景，床头假镜后藏摄影机",
+          "role_en": "Hotel where Bond stays, in the Pera heights; the No. 12 honeymoon suite is a SMERSH filming set, with a camera hidden behind the false mirror at the head of the bed."
         }
-      ]
+      ],
+      "country_en": "Turkey"
     },
     {
       "id": "galata-bridge",
@@ -1049,9 +1198,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "role": "塔蒂亚娜与克里姆首次接头的渡轮出发点；克里姆办公室所在地附近"
+          "role": "塔蒂亚娜与克里姆首次接头的渡轮出发点；克里姆办公室所在地附近",
+          "role_en": "Departure point of the ferry where Tatiana first meets Kerim; near Kerim's office."
         }
-      ]
+      ],
+      "country_en": "Turkey"
     },
     {
       "id": "sirkeci-station",
@@ -1064,9 +1215,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "role": "东方快车始发站，晚9时出发"
+          "role": "东方快车始发站，晚9时出发",
+          "role_en": "Starting point of the Orient Express, departing at 9 p.m."
         }
-      ]
+      ],
+      "country_en": "Turkey"
     },
     {
       "id": "orient-express",
@@ -1079,7 +1232,8 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "role": "伊斯坦布尔至巴黎列车，每周三班，全程1400英里；克里姆之死、格蘭特刺杀与反杀均发生于车上"
+          "role": "伊斯坦布尔至巴黎列车，每周三班，全程1400英里；克里姆之死、格蘭特刺杀与反杀均发生于车上",
+          "role_en": "Istanbul-Paris train, three times a week, 1,400 miles in all; Kerim's death, Grant's attack and his killing all happen aboard."
         }
       ]
     },
@@ -1094,9 +1248,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "role": "土耳其边境站，两名MGB人员在此被赶下车"
+          "role": "土耳其边境站，两名MGB人员在此被赶下车",
+          "role_en": "Turkish border station, where two MGB men are thrown off the train."
         }
-      ]
+      ],
+      "country_en": "Turkey"
     },
     {
       "id": "belgrade",
@@ -1109,9 +1265,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "role": "列车中转站，克里姆之子坦波接应邦德与塔蒂亚娜；邦德在此致电M"
+          "role": "列车中转站，克里姆之子坦波接应邦德与塔蒂亚娜；邦德在此致电M",
+          "role_en": "Railway junction where Kerim's son Trempo meets Bond and Tatiana; Bond telephones M from here."
         }
-      ]
+      ],
+      "country_en": "Yugoslavia"
     },
     {
       "id": "simplon-tunnel",
@@ -1124,9 +1282,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "role": "格蘭特计划杀害邦德的地点，反被邦德杀死处"
+          "role": "格蘭特计划杀害邦德的地点，反被邦德杀死处",
+          "role_en": "Where Grant plans to kill Bond, and is killed by Bond instead."
         }
-      ]
+      ],
+      "country_en": "Between Italy and Switzerland"
     },
     {
       "id": "dijon",
@@ -1139,9 +1299,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "role": "邦德与塔蒂亚娜下车处，格蘭特尸体被留在车上"
+          "role": "邦德与塔蒂亚娜下车处，格蘭特尸体被留在车上",
+          "role_en": "Where Bond and Tatiana leave the train, with Grant's body left aboard."
         }
-      ]
+      ],
+      "country_en": "France"
     },
     {
       "id": "paris-ritz",
@@ -1154,9 +1316,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "role": "克莱布与格蘭特约定的汇报地点；邦德在此制服克莱布并被毒鞋刺伤"
+          "role": "克莱布与格蘭特约定的汇报地点；邦德在此制服克莱布并被毒鞋刺伤",
+          "role_en": "Meeting place agreed by Klebb and Grant; Bond overpowers Klebb here and is stabbed by her poisoned shoe."
         }
-      ]
+      ],
+      "country_en": "France"
     },
     {
       "id": "aughmacloy",
@@ -1169,9 +1333,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "role": "格蘭特出生与成长地，少年“月亮杀手”作案地"
+          "role": "格蘭特出生与成长地，少年“月亮杀手”作案地",
+          "role_en": "Where Grant was born and grew up, and committed his murders as the teenage 'Moon Killer'."
         }
-      ]
+      ],
+      "country_en": "United Kingdom (border village in Northern Ireland)"
     },
     {
       "id": "leningrad-school",
@@ -1184,9 +1350,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "role": "格蘭特受训地"
+          "role": "格蘭特受训地",
+          "role_en": "Where Grant is trained."
         }
-      ]
+      ],
+      "country_en": "Soviet Union"
     },
     {
       "id": "kuchino-school",
@@ -1199,9 +1367,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "role": "格蘭特在莫斯科郊外受训地，教官为福托耶夫上校与戈德洛夫斯基中校"
+          "role": "格蘭特在莫斯科郊外受训地，教官为福托耶夫上校与戈德洛夫斯基中校",
+          "role_en": "Where Grant is trained outside Moscow, under Colonel Fotoyev and Lieutenant-Colonel Godolovski."
         }
-      ]
+      ],
+      "country_en": "Soviet Union"
     },
     {
       "id": "trebizond",
@@ -1214,9 +1384,11 @@
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
-          "role": "克里姆故乡，父为剑鱼渔民"
+          "role": "克里姆故乡，父为剑鱼渔民",
+          "role_en": "Kerim's home town; his father was a swordfish fisherman."
         }
-      ]
+      ],
+      "country_en": "Turkey"
     },
     {
       "id": "crab-key",
@@ -1229,9 +1401,11 @@
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "role": "全书核心舞台：英国属地、牙买加附属岛，约50平方英里，东四分之三为沼泽浅湖，西端500英尺鸟粪山；诺博士的鸟粪矿、山体堡垒与导弹干扰站所在地；距牙买加北岸加利纳角约30英里、距古巴约60英里"
+          "role": "全书核心舞台：英国属地、牙买加附属岛，约50平方英里，东四分之三为沼泽浅湖，西端500英尺鸟粪山；诺博士的鸟粪矿、山体堡垒与导弹干扰站所在地；距牙买加北岸加利纳角约30英里、距古巴约60英里",
+          "role_en": "The book's central stage: a British dependency and Jamaican out-island of about 50 square miles, its eastern three-quarters marsh and shallow lakes, with a 500-foot guano mountain at the west end; site of Dr No's guano mine, mountain fortress and missile-jamming station; about 30 miles from Galina Point on Jamaica's north coast and about 60 miles from Cuba."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "richmond-road",
@@ -1244,9 +1418,11 @@
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "role": "金斯顿最高档住宅区，女王俱乐部所在地，斯特兰威斯在此街头被枪杀"
+          "role": "金斯顿最高档住宅区，女王俱乐部所在地，斯特兰威斯在此街头被枪杀",
+          "role_en": "Kingston's most exclusive residential district, site of the Queen's Club, where Strangways is shot dead in the street."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "queens-club",
@@ -1259,9 +1435,11 @@
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "role": "金斯顿上流社交俱乐部，斯特兰威斯每晚在此打桥牌并于18时15分离席做无线电联络"
+          "role": "金斯顿上流社交俱乐部，斯特兰威斯每晚在此打桥牌并于18时15分离席做无线电联络",
+          "role_en": "Kingston's smart social club, where Strangways plays bridge every evening and leaves at 6.15 p.m. to make his radio contact."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "kings-house",
@@ -1274,9 +1452,11 @@
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "role": "牙买加总督官邸，邦德两次拜会代理总督与殖民地秘书之地；塔罗小姐在此窃取档案"
+          "role": "牙买加总督官邸，邦德两次拜会代理总督与殖民地秘书之地；塔罗小姐在此窃取档案",
+          "role_en": "The Governor's residence in Jamaica, where Bond twice calls on the Acting Governor and the Colonial Secretary; Miss Taro steals files here."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "blue-hills-hotel",
@@ -1289,9 +1469,11 @@
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "role": "邦德在金斯顿的下榻酒店，毒水果篮与蜈蚣暗杀均发生于此"
+          "role": "邦德在金斯顿的下榻酒店，毒水果篮与蜈蚣暗杀均发生于此",
+          "role_en": "Bond's Kingston hotel, scene of both the poisoned fruit basket and the centipede assassination attempt."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "morgans-harbour",
@@ -1304,9 +1486,11 @@
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "role": "牙买加北岸港口，博德泽特所在地，邦德与哈妮乘独木舟往返蟹礁岛的出发与返回点"
+          "role": "牙买加北岸港口，博德泽特所在地，邦德与哈妮乘独木舟往返蟹礁岛的出发与返回点",
+          "role_en": "Port on Jamaica's north coast, site of Beau Desert, and the departure and return point for Bond and Honey's canoe trips to Crab Key."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "mona-reservoir",
@@ -1319,9 +1503,11 @@
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "role": "斯特兰威斯与特鲁布拉德的沉尸地，棺材沉入50英寻深处；结尾警方派潜水员打捞"
+          "role": "斯特兰威斯与特鲁布拉德的沉尸地，棺材沉入50英寻深处；结尾警方派潜水员打捞",
+          "role_en": "Where the bodies of Strangways and Trueblood are sunk, the coffins going down 50 fathoms; at the end the police send divers to recover them."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "turks-island",
@@ -1334,9 +1520,11 @@
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "role": "美军导弹试验中心，距蟹礁岛约300英里，是诺博士干扰行动的目标"
+          "role": "美军导弹试验中心，距蟹礁岛约300英里，是诺博士干扰行动的目标",
+          "role_en": "American missile test centre, about 300 miles from Crab Key, and the target of Dr No's jamming operation."
         }
-      ]
+      ],
+      "country_en": "Turks and Caicos Islands"
     },
     {
       "id": "milwaukee",
@@ -1349,9 +1537,11 @@
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "role": "诺博士改容后藏身读医之地，自称当地没有中国人"
+          "role": "诺博士改容后藏身读医之地，自称当地没有中国人",
+          "role_en": "Where Dr No hides and studies medicine after his face is rebuilt, claiming there are no Chinese there."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "peking",
@@ -1364,9 +1554,11 @@
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "role": "诺博士出生地"
+          "role": "诺博士出生地",
+          "role_en": "Dr No's birthplace."
         }
-      ]
+      ],
+      "country_en": "China"
     },
     {
       "id": "shanghai",
@@ -1379,9 +1571,11 @@
         {
           "novel": "dr-no",
           "novel_no": 6,
-          "role": "诺博士青年时混迹帮会之地"
+          "role": "诺博士青年时混迹帮会之地",
+          "role_en": "Where Dr No runs with the gangs in his youth."
         }
-      ]
+      ],
+      "country_en": "China"
     },
     {
       "id": "miami",
@@ -1394,14 +1588,17 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "role": "开篇地，邦德在机场候机厅结识杜邦，弗洛里迪亚纳酒店牌局发生地"
+          "role": "开篇地，邦德在机场候机厅结识杜邦，弗洛里迪亚纳酒店牌局发生地",
+          "role_en": "Opening scene: Bond meets Du Pont in the airport lounge, and the card game at the Floridiana Hotel takes place here."
         },
         {
           "novel": "thunderball",
           "novel_no": 9,
-          "role": "第二枚核弹预定目标，拟布放于游艇港"
+          "role": "第二枚核弹预定目标，拟布放于游艇港",
+          "role_en": "Intended target of the second nuclear bomb, to be placed in the yacht harbour."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "bank-of-england",
@@ -1414,9 +1611,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "role": "史密瑟斯向邦德交代黄金走私案与金手指背景的地"
+          "role": "史密瑟斯向邦德交代黄金走私案与金手指背景的地",
+          "role_en": "Where Smithers briefs Bond on the gold-smuggling case and Goldfinger's background."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "royal-st-marks",
@@ -1429,9 +1628,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "role": "邦德与金手指18洞赌局发生地"
+          "role": "邦德与金手指18洞赌局发生地",
+          "role_en": "Where the 18-hole golf match between Bond and Goldfinger takes place."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "the-grange",
@@ -1444,9 +1645,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "role": "金手指在英格兰的住所，晚宴与摄影机陷阱发生地；毗邻塔内特合金工厂"
+          "role": "金手指在英格兰的住所，晚宴与摄影机陷阱发生地；毗邻塔内特合金工厂",
+          "role_en": "Goldfinger's English home, scene of the dinner and the camera trap; next to the Thanet Alloy factory."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "ferryfield",
@@ -1459,9 +1662,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "role": "金手指乘机载劳斯莱斯赴法国的地，邦德在此植入Homer追踪器"
+          "role": "金手指乘机载劳斯莱斯赴法国的地，邦德在此植入Homer追踪器",
+          "role_en": "Where Goldfinger flies to France with the Rolls-Royce aboard; Bond plants the Homer tracker here."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "france-route",
@@ -1474,9 +1679,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "role": "邦德尾随劳斯莱斯穿越法国的路线，79/6号桥下藏金条，梅肯撞车蒂莉"
+          "role": "邦德尾随劳斯莱斯穿越法国的路线，79/6号桥下藏金条，梅肯撞车蒂莉",
+          "role_en": "Bond's route tailing the Rolls-Royce across France; gold bars are hidden under bridge 79/6, and Tilly crashes at Mâcon."
         }
-      ]
+      ],
+      "country_en": "France"
     },
     {
       "id": "geneva",
@@ -1489,9 +1696,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "role": "邦德与蒂莉入住贝尔格酒店，金手指藏金与走私中转地"
+          "role": "邦德与蒂莉入住贝尔格酒店，金手指藏金与走私中转地",
+          "role_en": "Where Bond and Tilly stay at the Hotel Berg; Goldfinger's gold cache and smuggling transit point."
         }
-      ]
+      ],
+      "country_en": "Switzerland"
     },
     {
       "id": "coppet",
@@ -1504,9 +1713,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "role": "金手指在瑞士的工厂，拆解劳斯莱斯、改制金座椅的地，邦德与蒂莉在此被俘"
+          "role": "金手指在瑞士的工厂，拆解劳斯莱斯、改制金座椅的地，邦德与蒂莉在此被俘",
+          "role_en": "Goldfinger's Swiss factory, where Rolls-Royces are dismantled and the gold seats rebuilt; Bond and Tilly are captured here."
         }
-      ]
+      ],
+      "country_en": "Switzerland"
     },
     {
       "id": "fort-knox",
@@ -1519,9 +1730,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "role": "大满贯行动目标，美国黄金储备库所在地；美军设伏、全城佯死、蒂莉身亡的地"
+          "role": "大满贯行动目标，美国黄金储备库所在地；美军设伏、全城佯死、蒂莉身亡的地",
+          "role_en": "Target of Operation Grand Slam, site of the United States gold reserve; where the Army lies in ambush, the whole town plays dead, and Tilly dies."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "louisville",
@@ -1534,9 +1747,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "role": "红十字专列中途站，金手指在此换乘机车前部"
+          "role": "红十字专列中途站，金手指在此换乘机车前部",
+          "role_en": "Stop on the Red Cross train, where Goldfinger moves to the front of the locomotive."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "norfolk",
@@ -1549,9 +1764,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "role": "苏联斯维尔德洛夫斯克级巡洋舰按计划停靠并接应黄金的地（未得逞）"
+          "role": "苏联斯维尔德洛夫斯克级巡洋舰按计划停靠并接应黄金的地（未得逞）",
+          "role_en": "Where a Soviet Sverdlov-class cruiser is scheduled to dock and pick up the gold (the plan fails)."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "bombay",
@@ -1564,9 +1781,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "role": "黄金走私目的地，金价溢价最高；Mecca航空座椅的终点"
+          "role": "黄金走私目的地，金价溢价最高；Mecca航空座椅的终点",
+          "role_en": "Destination of the smuggled gold, where the premium on gold is highest; the end of the line for the Mecca Airways seats."
         }
-      ]
+      ],
+      "country_en": "India"
     },
     {
       "id": "weathership-charlie",
@@ -1579,9 +1798,11 @@
         {
           "novel": "goldfinger",
           "novel_no": 7,
-          "role": "被劫航班迫降海面后救起邦德与普茜·加洛的地"
+          "role": "被劫航班迫降海面后救起邦德与普茜·加洛的地",
+          "role_en": "Where Bond and Pussy Galore are picked up after the hijacked plane ditches in the sea."
         }
-      ]
+      ],
+      "country_en": "Atlantic Ocean"
     },
     {
       "id": "st-germain-forest",
@@ -1594,9 +1815,11 @@
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
-          "role": "第1篇谋杀与地堡所在地,D98公路与Carrefour Royal空地"
+          "role": "第1篇谋杀与地堡所在地,D98公路与Carrefour Royal空地",
+          "role_en": "First story: the murder and the bunker, at the D98 road and the Carrefour Royal clearing."
         }
-      ]
+      ],
+      "country_en": "France"
     },
     {
       "id": "shape-hq",
@@ -1609,9 +1832,11 @@
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
-          "role": "第1篇位于N184公路旁的北约总部,通讯兵出发地"
+          "role": "第1篇位于N184公路旁的北约总部,通讯兵出发地",
+          "role_en": "First story: NATO headquarters beside the N184 road, departure point for the signalman."
         }
-      ]
+      ],
+      "country_en": "France"
     },
     {
       "id": "content-jamaica",
@@ -1624,9 +1849,11 @@
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
-          "role": "第2篇哈夫洛克家族2万英亩庄园,位于波特兰区Candlefly Peak山麓,夫妇在此被枪杀"
+          "role": "第2篇哈夫洛克家族2万英亩庄园,位于波特兰区Candlefly Peak山麓,夫妇在此被枪杀",
+          "role_en": "Second story: the Havelocks' 20,000-acre estate at the foot of Candlefly Peak in the Portland district, where the couple are shot dead."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "port-antonio",
@@ -1639,9 +1866,11 @@
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
-          "role": "第2篇凶手乘快艇逃往游艇的香蕉港"
+          "role": "第2篇凶手乘快艇逃往游艇的香蕉港",
+          "role_en": "Second story: the banana port from which the murderer escapes by speedboat to the yacht."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "echo-lake",
@@ -1654,9 +1883,11 @@
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
-          "role": "第2篇佛蒙特北部近加拿大边境的百万富翁牧场,Hammerstein藏身与被杀地"
+          "role": "第2篇佛蒙特北部近加拿大边境的百万富翁牧场,Hammerstein藏身与被杀地",
+          "role_en": "Second story: millionaire's ranch in northern Vermont near the Canadian border, where Hammerstein hides and is killed."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "ottawa",
@@ -1669,9 +1900,11 @@
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
-          "role": "第2篇RCMP总部所在地,Johns上校在此协助邦德"
+          "role": "第2篇RCMP总部所在地,Johns上校在此协助邦德",
+          "role_en": "Second story: RCMP headquarters, where Colonel Johns assists Bond."
         }
-      ]
+      ],
+      "country_en": "Canada"
     },
     {
       "id": "bermuda",
@@ -1684,9 +1917,11 @@
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
-          "role": "第3篇Masters夫妇婚后生活地,含汉密尔顿与Mid-Ocean高尔夫俱乐部"
+          "role": "第3篇Masters夫妇婚后生活地,含汉密尔顿与Mid-Ocean高尔夫俱乐部",
+          "role_en": "Third story: where the Masters live after their marriage, including Hamilton and the Mid-Ocean Golf Club."
         }
-      ]
+      ],
+      "country_en": "Bermuda"
     },
     {
       "id": "rome",
@@ -1699,9 +1934,11 @@
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
-          "role": "第4篇邦德与Kristatos接头地,含Excelsior酒吧与Colomba d'Oro餐厅"
+          "role": "第4篇邦德与Kristatos接头地,含Excelsior酒吧与Colomba d'Oro餐厅",
+          "role_en": "Fourth story: where Bond meets Kristatos, including the Excelsior bar and the Colomba d'Oro restaurant."
         }
-      ]
+      ],
+      "country_en": "Italy"
     },
     {
       "id": "venice",
@@ -1714,9 +1951,11 @@
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
-          "role": "第4篇邦德下榻Gritti Palace,在Lido的Bagni Alberoni与Lisl会面并遭追杀"
+          "role": "第4篇邦德下榻Gritti Palace,在Lido的Bagni Alberoni与Lisl会面并遭追杀",
+          "role_en": "Fourth story: Bond stays at the Gritti Palace, meets Lisl at the Bagni Alberoni on the Lido, and is chased."
         }
-      ]
+      ],
+      "country_en": "Italy"
     },
     {
       "id": "santa-maria",
@@ -1729,9 +1968,11 @@
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
-          "role": "第4篇安科纳以北小渔港,阿尔巴尼亚毒船卸货地与决战地"
+          "role": "第4篇安科纳以北小渔港,阿尔巴尼亚毒船卸货地与决战地",
+          "role_en": "Fourth story: small fishing port north of Ancona, where the Albanian drug boat unloads and the final fight takes place."
         }
-      ]
+      ],
+      "country_en": "Italy"
     },
     {
       "id": "mahe",
@@ -1744,9 +1985,11 @@
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
-          "role": "第5篇邦德驻留约1个月的塞舌尔主岛,含维多利亚港与Belle Anse泻湖"
+          "role": "第5篇邦德驻留约1个月的塞舌尔主岛,含维多利亚港与Belle Anse泻湖",
+          "role_en": "Fifth story: the main Seychelles island, where Bond stays for about a month, including Victoria harbour and the Belle Anse lagoon."
         }
-      ]
+      ],
+      "country_en": "Seychelles"
     },
     {
       "id": "chagrin-island",
@@ -1759,9 +2002,11 @@
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
-          "role": "第5篇约20英亩珊瑚岛,Hildebrand Rarity唯一产地,Krest毒杀礁区之地"
+          "role": "第5篇约20英亩珊瑚岛,Hildebrand Rarity唯一产地,Krest毒杀礁区之地",
+          "role_en": "Fifth story: coral island of about 20 acres, the only source of the Hildebrand Rarity, where Krest poisons the reef."
         }
-      ]
+      ],
+      "country_en": "Seychelles"
     },
     {
       "id": "shrublands",
@@ -1774,9 +2019,11 @@
         {
           "novel": "thunderball",
           "novel_no": 9,
-          "role": "自然疗养院，邦德疗养两周并与利普结仇之地"
+          "role": "自然疗养院，邦德疗养两周并与利普结仇之地",
+          "role_en": "Nature cure clinic, where Bond rests for two weeks and makes an enemy of Lippe."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "paris-firco",
@@ -1789,9 +2036,11 @@
         {
           "novel": "thunderball",
           "novel_no": 9,
-          "role": "SPECTRE以FIRCO慈善组织为掩护的总部"
+          "role": "SPECTRE以FIRCO慈善组织为掩护的总部",
+          "role_en": "SPECTRE's headquarters, fronted by the FIRCO charity."
         }
-      ]
+      ],
+      "country_en": "France"
     },
     {
       "id": "palmyra",
@@ -1804,9 +2053,11 @@
         {
           "novel": "thunderball",
           "novel_no": 9,
-          "role": "拉戈租住的海滨别墅，多米诺居所，飞碟号锚地"
+          "role": "拉戈租住的海滨别墅，多米诺居所，飞碟号锚地",
+          "role_en": "Seaside villa rented by Largo, Domino's home, and the Disco Volante's anchorage."
         }
-      ]
+      ],
+      "country_en": "The Bahamas"
     },
     {
       "id": "grand-bahama-base",
@@ -1819,9 +2070,11 @@
         {
           "novel": "thunderball",
           "novel_no": 9,
-          "role": "第一枚核弹的预定目标，英美联合导弹基地"
+          "role": "第一枚核弹的预定目标，英美联合导弹基地",
+          "role_en": "Intended target of the first nuclear bomb, a joint Anglo-American missile base."
         }
-      ]
+      ],
+      "country_en": "The Bahamas"
     },
     {
       "id": "dog-island",
@@ -1834,9 +2087,11 @@
         {
           "novel": "thunderball",
           "novel_no": 9,
-          "role": "两枚核弹藏匿处，位于狗礁，距拿骚约100英里"
+          "role": "两枚核弹藏匿处，位于狗礁，距拿骚约100英里",
+          "role_en": "Hiding place of the two nuclear bombs, on Dog Reef, about 100 miles from Nassau."
         }
-      ]
+      ],
+      "country_en": "The Bahamas"
     },
     {
       "id": "bimini",
@@ -1849,9 +2104,11 @@
         {
           "novel": "thunderball",
           "novel_no": 9,
-          "role": "轰炸机迫降海域，失事飞机残骸所在地"
+          "role": "轰炸机迫降海域，失事飞机残骸所在地",
+          "role_en": "Sea where the bomber ditches, site of the wrecked aircraft."
         }
-      ]
+      ],
+      "country_en": "The Bahamas"
     },
     {
       "id": "boscombe-down",
@@ -1864,9 +2121,11 @@
         {
           "novel": "thunderball",
           "novel_no": 9,
-          "role": "第5皇家空军试验中队基地，失踪轰炸机起飞地"
+          "role": "第5皇家空军试验中队基地，失踪轰炸机起飞地",
+          "role_en": "Base of No. 5 RAF Trials Squadron, from which the missing bomber takes off."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "brighton",
@@ -1879,9 +2138,11 @@
         {
           "novel": "thunderball",
           "novel_no": 9,
-          "role": "勒索信寄出地，利普烧伤后入住布赖顿中心医院"
+          "role": "勒索信寄出地，利普烧伤后入住布赖顿中心医院",
+          "role_en": "Where the blackmail letter is posted; Lippe goes to the Central Hospital, Brighton, after being burned."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "etna",
@@ -1894,9 +2155,11 @@
         {
           "novel": "thunderball",
           "novel_no": 9,
-          "role": "赎金金条拟空投地，西北坡海拔2000至3000米"
+          "role": "赎金金条拟空投地，西北坡海拔2000至3000米",
+          "role_en": "Planned drop zone for the ransom gold bars, on the north-west slope at 2,000 to 3,000 metres."
         }
-      ]
+      ],
+      "country_en": "Italy"
     },
     {
       "id": "dreamy-pines",
@@ -1909,9 +2172,11 @@
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
-          "role": "故事主场景；乔治湖以西10英里、梦幻水湖南岸的40间客房汽车旅馆，10月13日夜遭纵火烧毁"
+          "role": "故事主场景；乔治湖以西10英里、梦幻水湖南岸的40间客房汽车旅馆，10月13日夜遭纵火烧毁",
+          "role_en": "The story's main setting: a 40-room motel 10 miles west of Lake George on the south shore of Dreamy Waters, burned down by arson on the night of 13 October."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "dreamy-waters",
@@ -1924,9 +2189,11 @@
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
-          "role": "旅馆后的小湖；黑色轿车坠入湖边垂钓池沉没"
+          "role": "旅馆后的小湖；黑色轿车坠入湖边垂钓池沉没",
+          "role_en": "Small lake behind the motel; a black sedan plunges into the fishing pool by the lake and sinks."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "lake-george",
@@ -1939,9 +2206,11 @@
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
-          "role": "阿迪朗达克旅游中心；薇薇安游览后转入旅馆支路；邦德原计划在此过夜"
+          "role": "阿迪朗达克旅游中心；薇薇安游览后转入旅馆支路；邦德原计划在此过夜",
+          "role_en": "Adirondack tourist centre; Vivienne tours it, then turns off to the motel road, and Bond had planned to spend the night here."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "adirondacks",
@@ -1954,9 +2223,11 @@
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
-          "role": "故事发生地，纽约州北部山林湖区；薇薇安游历约两周"
+          "role": "故事发生地，纽约州北部山林湖区；薇薇安游历约两周",
+          "role_en": "Where the story takes place, a mountain-lake district in northern New York State; Vivienne travels here for about two weeks."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "glens-falls",
@@ -1969,9 +2240,11 @@
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
-          "role": "邦德次日清晨前往报案的城镇；斯托纳上尉驻地；薇薇安离开时前往方向"
+          "role": "邦德次日清晨前往报案的城镇；斯托纳上尉驻地；薇薇安离开时前往方向",
+          "role_en": "Town where Bond goes to report the crime the next morning; Captain Stoner's base, and the direction Vivienne heads when she leaves."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "troy",
@@ -1984,9 +2257,11 @@
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
-          "role": "桑吉内蒂与两名打手的基地；菲希夫妇10月13日晨前往此地"
+          "role": "桑吉内蒂与两名打手的基地；菲希夫妇10月13日晨前往此地",
+          "role_en": "Base of Sanguinetti and two gunmen; the Phipps go there on the morning of 13 October."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "albany",
@@ -1999,9 +2274,11 @@
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
-          "role": "纽约州首府，WOKO电台所在地，距旅馆约50英里；邦德谎称在此有重要朋友"
+          "role": "纽约州首府，WOKO电台所在地，距旅馆约50英里；邦德谎称在此有重要朋友",
+          "role_en": "Capital of New York State, home of radio station WOKO, about 50 miles from the motel; Bond falsely claims to have an important friend here."
         }
-      ]
+      ],
+      "country_en": "United States"
     },
     {
       "id": "sainte-famille",
@@ -2014,9 +2291,11 @@
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
-          "role": "薇薇安出生地，魁北克附近圣劳伦斯河中岛屿北岸小镇"
+          "role": "薇薇安出生地，魁北克附近圣劳伦斯河中岛屿北岸小镇",
+          "role_en": "Vivienne's birthplace, a small town on the north shore of an island in the St Lawrence near Quebec."
         }
-      ]
+      ],
+      "country_en": "Canada"
     },
     {
       "id": "london-chelsea",
@@ -2029,9 +2308,11 @@
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
-          "role": "薇薇安在英五年生活地；老教堂街公寓、切尔西号报社、V.W.Z.办事处均在此区"
+          "role": "薇薇安在英五年生活地；老教堂街公寓、切尔西号报社、V.W.Z.办事处均在此区",
+          "role_en": "Where Vivienne lives for five years in England; her Old Church Street flat, the Chelsea Clarion offices and the V.W.Z. office are all in this district."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "windsor",
@@ -2044,9 +2325,11 @@
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
-          "role": "德里克家乡；泰晤士河、皇家电影院包厢事件与河边树林失身均在此地"
+          "role": "德里克家乡；泰晤士河、皇家电影院包厢事件与河边树林失身均在此地",
+          "role_en": "Derek's home town; the Thames, the Royal Cinema box incident and the seduction in the riverside woods all take place here."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "toronto",
@@ -2059,9 +2342,11 @@
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
-          "role": "鲍里斯安置地；邦德冒充鲍里斯守株待兔、枪战击毙乌尔曼的地点"
+          "role": "鲍里斯安置地；邦德冒充鲍里斯守株待兔、枪战击毙乌尔曼的地点",
+          "role_en": "Where Boris is installed; Bond impersonates Boris, lies in wait, and shoots Ullmann dead in the gunfight."
         }
-      ]
+      ],
+      "country_en": "Canada"
     },
     {
       "id": "hamburg",
@@ -2074,9 +2359,11 @@
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
-          "role": "V.W.Z.总部所在地；库尔特与特鲁德原计划婚后定居地"
+          "role": "V.W.Z.总部所在地；库尔特与特鲁德原计划婚后定居地",
+          "role_en": "Headquarters of V.W.Z.; where Kurt and Trude had planned to settle after their wedding."
         }
-      ]
+      ],
+      "country_en": "Germany"
     },
     {
       "id": "college-of-arms",
@@ -2089,9 +2376,11 @@
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "role": "位于维多利亚女王街；布洛菲尔德爵位申请的受理机构，化名行动策划地"
+          "role": "位于维多利亚女王街；布洛菲尔德爵位申请的受理机构，化名行动策划地",
+          "role_en": "In Queen Victoria Street; the body handling Blofeld's title application, and where the alias operation is planned."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "quarterdeck",
@@ -2104,9 +2393,11 @@
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "role": "M在温莎森林边缘的庄园，圣诞节汇报与生物战会商地"
+          "role": "M在温莎森林边缘的庄园，圣诞节汇报与生物战会商地",
+          "role_en": "M's house on the edge of Windsor Forest, where the Christmas briefing and the biological-warfare meeting take place."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "piz-gloria",
@@ -2119,9 +2410,11 @@
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "role": "布洛菲尔德的过敏症研究所与诊所，海拔3605米；催眠、实验室与突袭发生地"
+          "role": "布洛菲尔德的过敏症研究所与诊所，海拔3605米；催眠、实验室与突袭发生地",
+          "role_en": "Blofeld's allergy research institute and clinic, at 3,605 metres; scene of the hypnosis, the laboratory and the raid."
         }
-      ]
+      ],
+      "country_en": "Switzerland"
     },
     {
       "id": "davos",
@@ -2134,9 +2427,11 @@
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "role": "崔西接受治疗的黎明诊所所在地"
+          "role": "崔西接受治疗的黎明诊所所在地",
+          "role_en": "Site of the Dawn Clinic, where Tracy is treated."
         }
-      ]
+      ],
+      "country_en": "Switzerland"
     },
     {
       "id": "samaden",
@@ -2149,9 +2444,11 @@
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "role": "邦德逃亡终点，圣诞夜溜冰舞会与崔西重逢地"
+          "role": "邦德逃亡终点，圣诞夜溜冰舞会与崔西重逢地",
+          "role_en": "End of Bond's flight, where he meets Tracy again at the Christmas Eve skating dance."
         }
-      ]
+      ],
+      "country_en": "Switzerland"
     },
     {
       "id": "pontresina",
@@ -2164,9 +2461,11 @@
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "role": "雪山诊所缆车下站；贝尔蒂尔葬于此地"
+          "role": "雪山诊所缆车下站；贝尔蒂尔葬于此地",
+          "role_en": "Lower cable-car station of Piz Gloria; Bertil is buried here."
         }
-      ]
+      ],
+      "country_en": "Switzerland"
     },
     {
       "id": "marseilles",
@@ -2179,9 +2478,11 @@
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "role": "德拉科总部（电器公司）所在地；突袭策划地"
+          "role": "德拉科总部（电器公司）所在地；突袭策划地",
+          "role_en": "Draco's headquarters (the electrical company); where the raid is planned."
         }
-      ]
+      ],
+      "country_en": "France"
     },
     {
       "id": "munich",
@@ -2194,9 +2495,11 @@
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "role": "崔西等候地（四季酒店）；元旦婚礼与崔西遇害前的出发地"
+          "role": "崔西等候地（四季酒店）；元旦婚礼与崔西遇害前的出发地",
+          "role_en": "Where Tracy waits (the Hotel des Quatre Saisons); departure point before the New Year's Day wedding and her murder."
         }
-      ]
+      ],
+      "country_en": "Germany"
     },
     {
       "id": "kitzbuhel",
@@ -2209,9 +2512,11 @@
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "role": "蜜月目的地，未抵达"
+          "role": "蜜月目的地，未抵达",
+          "role_en": "Honeymoon destination, never reached."
         }
-      ]
+      ],
+      "country_en": "Austria"
     },
     {
       "id": "gdynia",
@@ -2224,9 +2529,11 @@
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "role": "布洛菲尔德自称的出生地，出生记录页被裁掉"
+          "role": "布洛菲尔德自称的出生地，出生记录页被裁掉",
+          "role_en": "Blofeld's claimed birthplace, the page of the birth register cut out."
         }
-      ]
+      ],
+      "country_en": "Poland"
     },
     {
       "id": "augsburg",
@@ -2239,9 +2546,11 @@
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "role": "布洛菲尔德家族档案所在地，邦德提议同去查档诱其出境"
+          "role": "布洛菲尔德家族档案所在地，邦德提议同去查档诱其出境",
+          "role_en": "Where the Blofeld family records are kept; Bond proposes going there together to look at them, luring him abroad."
         }
-      ]
+      ],
+      "country_en": "Germany"
     },
     {
       "id": "blonville-sur-mer",
@@ -2254,9 +2563,11 @@
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
-          "role": "德·布勒维尔家族故地，纹章官在此发现无耳垂家族特征"
+          "role": "德·布勒维尔家族故地，纹章官在此发现无耳垂家族特征",
+          "role_en": "Ancestral home of the de Bleuville family, where the herald finds the family's earlobe-less trait."
         }
-      ]
+      ],
+      "country_en": "France"
     },
     {
       "id": "tokyo",
@@ -2269,9 +2580,11 @@
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
-          "role": "邦德抵达日本后的活动中心，田中办公室与银座酒吧所在地"
+          "role": "邦德抵达日本后的活动中心，田中办公室与银座酒吧所在地",
+          "role_en": "Centre of Bond's activities after arriving in Japan, with Tanaka's office and the Ginza bars."
         }
-      ]
+      ],
+      "country_en": "Japan"
     },
     {
       "id": "bureau-folkways",
@@ -2284,9 +2597,11 @@
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
-          "role": "田中秘密情报机构的地面掩护，下方是废弃地铁站改建的办公室"
+          "role": "田中秘密情报机构的地面掩护，下方是废弃地铁站改建的办公室",
+          "role_en": "Street-level cover for Tanaka's secret intelligence service, above offices converted from a disused subway station."
         }
-      ]
+      ],
+      "country_en": "Japan"
     },
     {
       "id": "yokohama-tiger-house",
@@ -2299,9 +2614,11 @@
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
-          "role": "田中向邦德讲述死亡收集者并提出交易的地点"
+          "role": "田中向邦德讲述死亡收集者并提出交易的地点",
+          "role_en": "Where Tanaka tells Bond about the collectors of death and proposes the deal."
         }
-      ]
+      ],
+      "country_en": "Japan"
     },
     {
       "id": "kuro-island",
@@ -2314,9 +2631,11 @@
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
-          "role": "阿妈族渔村所在地，邦德藏身与失忆后生活的地方，距死亡城堡半英里"
+          "role": "阿妈族渔村所在地，邦德藏身与失忆后生活的地方，距死亡城堡半英里",
+          "role_en": "Site of the ama fishing village, where Bond hides and lives after losing his memory, half a mile from the Castle of Death."
         }
-      ]
+      ],
+      "country_en": "Japan"
     },
     {
       "id": "castle-of-death",
@@ -2329,9 +2648,11 @@
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
-          "role": "布洛菲尔德的毒花园与城堡，邦德潜入、决战并炸毁之地"
+          "role": "布洛菲尔德的毒花园与城堡，邦德潜入、决战并炸毁之地",
+          "role_en": "Blofeld's poison garden and castle, which Bond infiltrates, fights through and blows up."
         }
-      ]
+      ],
+      "country_en": "Japan"
     },
     {
       "id": "fukuoka",
@@ -2344,9 +2665,11 @@
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
-          "role": "九州首府，安藤警视驻地，邦德出发去黑岛的起点"
+          "role": "九州首府，安藤警视驻地，邦德出发去黑岛的起点",
+          "role_en": "Capital of Kyushu, where Superintendent Ando is based, and Bond's starting point for Black Island."
         }
-      ]
+      ],
+      "country_en": "Japan"
     },
     {
       "id": "beppu",
@@ -2359,9 +2682,11 @@
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
-          "role": "邦德与田中参观十大地狱并吃河豚宴的温泉镇"
+          "role": "邦德与田中参观十大地狱并吃河豚宴的温泉镇",
+          "role_en": "Hot-spring town where Bond and Tanaka tour the Ten Hells and eat a fugu dinner."
         }
-      ]
+      ],
+      "country_en": "Japan"
     },
     {
       "id": "kyoto",
@@ -2374,9 +2699,11 @@
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
-          "role": "邦德与田中参观伊势神宫、神户牛肉产地与最古老妓院的中途站"
+          "role": "邦德与田中参观伊势神宫、神户牛肉产地与最古老妓院的中途站",
+          "role_en": "Stop on Bond and Tanaka's tour of the Ise shrine, the Kobe beef country and the oldest brothel."
         }
-      ]
+      ],
+      "country_en": "Japan"
     },
     {
       "id": "toba",
@@ -2389,9 +2716,11 @@
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
-          "role": "邦德与田中乘水翼船抵达的渔港，珍珠大王御木本的故乡"
+          "role": "邦德与田中乘水翼船抵达的渔港，珍珠大王御木本的故乡",
+          "role_en": "Fishing port reached by Bond and Tanaka on the hydrofoil, home of the pearl king Mikimoto."
         }
-      ]
+      ],
+      "country_en": "Japan"
     },
     {
       "id": "ise-shrine",
@@ -2404,9 +2733,11 @@
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
-          "role": "田中考验邦德化装是否过关的神道神社"
+          "role": "田中考验邦德化装是否过关的神道神社",
+          "role_en": "Shinto shrine where Tanaka tests whether Bond's disguise passes."
         }
-      ]
+      ],
+      "country_en": "Japan"
     },
     {
       "id": "kensington-cloisters",
@@ -2419,9 +2750,11 @@
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "role": "秘密情报局甄别来访者的据点，前身为帝国噪音防治联盟总部，地下室改建为拘留室；邦德在此接受汤森少校甄别"
+          "role": "秘密情报局甄别来访者的据点，前身为帝国噪音防治联盟总部，地下室改建为拘留室；邦德在此接受汤森少校甄别",
+          "role_en": "Secret Service vetting station, formerly the headquarters of the Empire Noise Abatement League, its basement converted into detention cells; Bond is vetted here by Major Townsend."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "ritz-london",
@@ -2434,9 +2767,11 @@
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "role": "克格勃指示邦德回国后的落脚点；特别支部在此搜查其伪造护照"
+          "role": "克格勃指示邦德回国后的落脚点；特别支部在此搜查其伪造护照",
+          "role_en": "The address the KGB tells Bond to go to on his return; Special Branch searches his forged passport here."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "the-park",
@@ -2449,9 +2784,11 @@
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "role": "伪装成疗养院的秘密医疗机构；邦德在此接受30天24次电休克治疗解除洗脑"
+          "role": "伪装成疗养院的秘密医疗机构；邦德在此接受30天24次电休克治疗解除洗脑",
+          "role_en": "Secret clinic disguised as a nursing home, where Bond undergoes 24 electroshock treatments in 30 days to undo the brainwashing."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "savannah-la-mar",
@@ -2464,9 +2801,11 @@
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "role": "西海岸小镇；3-1/2 Love Lane妓院所在地，邦德在此初遇斯卡拉曼加"
+          "role": "西海岸小镇；3-1/2 Love Lane妓院所在地，邦德在此初遇斯卡拉曼加",
+          "role_en": "Small town on the west coast; site of the brothel at 3½ Love Lane, where Bond first meets Scaramanga."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "love-lane",
@@ -2479,9 +2818,11 @@
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "role": "Dreamland咖啡馆兼妓院；BWIA电报称“样品”将于明午起在此备妥；斯卡拉曼加在此射杀Tiffy的宠物鸟"
+          "role": "Dreamland咖啡馆兼妓院；BWIA电报称“样品”将于明午起在此备妥；斯卡拉曼加在此射杀Tiffy的宠物鸟",
+          "role_en": "Dreamland cafe and brothel; a BWIA telegram says the 'sample' will be ready here from tomorrow noon; Scaramanga shoots Tiffy's pet bird here."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "frome",
@@ -2494,9 +2835,11 @@
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "role": "WISCO糖厂所在地；邦德以保险调查员身份作掩护，莱特去此地取炸桥物资"
+          "role": "WISCO糖厂所在地；邦德以保险调查员身份作掩护，莱特去此地取炸桥物资",
+          "role_en": "Site of the WISCO sugar factory; Bond uses an insurance investigator's cover here, and Leiter comes here for the bridge-blowing supplies."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "thunderbird-hotel",
@@ -2509,9 +2852,11 @@
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "role": "The Group股东会议举办地；半拉子工程，邦德住24号房，斯卡拉曼加住20号房，会议室在餐厅旁"
+          "role": "The Group股东会议举办地；半拉子工程，邦德住24号房，斯卡拉曼加住20号房，会议室在餐厅旁",
+          "role_en": "Venue of The Group's shareholders' meeting; a half-finished development, with Bond in Room 24 and Scaramanga in Room 20, and the meeting room beside the restaurant."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "green-island",
@@ -2524,9 +2869,11 @@
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "role": "小火车终点与深海钓鱼出发港；斯卡拉曼加停有40英尺Chris-Craft游艇Thunder Bird"
+          "role": "小火车终点与深海钓鱼出发港；斯卡拉曼加停有40英尺Chris-Craft游艇Thunder Bird",
+          "role_en": "Terminus of the little railway and deep-sea fishing port; Scaramanga keeps his 40-foot Chris-Craft yacht Thunder Bird here."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "great-morass",
@@ -2539,9 +2886,11 @@
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "role": "火车线路沿途的沼泽地；邦德跳车落入此处，决斗发生在沼泽边的红树林空地"
+          "role": "火车线路沿途的沼泽地；邦德跳车落入此处，决斗发生在沼泽边的红树林空地",
+          "role_en": "Marshland along the railway; Bond jumps from the train into it, and the duel takes place in a mangrove clearing at the marsh's edge."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "orange-river",
@@ -2554,9 +2903,11 @@
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "role": "莱特炸断其铁桥，无人驾驶的火车坠河，Binion、Garfinkel与Paradise身亡"
+          "role": "莱特炸断其铁桥，无人驾驶的火车坠河，Binion、Garfinkel与Paradise身亡",
+          "role_en": "Leiter blows up its railway bridge; the driverless train plunges into the river, killing Binion, Garfinkel and Paradise."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "la-brea",
@@ -2569,9 +2920,11 @@
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "role": "罗斯指挥官尸体沉没处"
+          "role": "罗斯指挥官尸体沉没处",
+          "role_en": "Where Commander Ross's body sinks."
         }
-      ]
+      ],
+      "country_en": "Trinidad"
     },
     {
       "id": "leningrad",
@@ -2584,9 +2937,11 @@
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "role": "Nevsky Prospekt研究所所在地，邦德在此被洗脑"
+          "role": "Nevsky Prospekt研究所所在地，邦德在此被洗脑",
+          "role_en": "Site of the institute on Nevsky Prospekt, where Bond is brainwashed."
         }
-      ]
+      ],
+      "country_en": "Soviet Union"
     },
     {
       "id": "vladivostok",
@@ -2599,9 +2954,11 @@
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "role": "邦德失忆后在海滨被警察捡到之地，随后转交当地克格勃（Morskaya Ulitsa大楼）"
+          "role": "邦德失忆后在海滨被警察捡到之地，随后转交当地克格勃（Morskaya Ulitsa大楼）",
+          "role_en": "Where Bond, amnesiac, is picked up by police on the seafront and handed to the local KGB (the Morskaya Ulitsa building)."
         }
-      ]
+      ],
+      "country_en": "Soviet Union"
     },
     {
       "id": "pedro-cays",
@@ -2614,9 +2971,11 @@
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "role": "克格勃计划接收上百磅大麻的中转点"
+          "role": "克格勃计划接收上百磅大麻的中转点",
+          "role_en": "Transit point where the KGB plans to receive hundreds of pounds of cannabis."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "wavelets",
@@ -2629,9 +2988,11 @@
         {
           "novel": "octopussy",
           "novel_no": 14,
-          "role": "第1篇主场景，Smythe住所与珊瑚礁，邦德到访与Smythe溺亡之地"
+          "role": "第1篇主场景，Smythe住所与珊瑚礁，邦德到访与Smythe溺亡之地",
+          "role_en": "First story's main setting: Smythe's house and the coral reef, where Bond visits and Smythe drowns."
         }
-      ]
+      ],
+      "country_en": "Jamaica"
     },
     {
       "id": "oberaurach",
@@ -2644,9 +3005,11 @@
         {
           "novel": "octopussy",
           "novel_no": 14,
-          "role": "第1篇1945年MOB Force缴获盖世太保文件之地，Kitzbühel以东约1英里"
+          "role": "第1篇1945年MOB Force缴获盖世太保文件之地，Kitzbühel以东约1英里",
+          "role_en": "First story: where MOB Force seizes Gestapo documents in 1945, about a mile east of Kitzbühel."
         }
-      ]
+      ],
+      "country_en": "Austria"
     },
     {
       "id": "franziskaner-halt",
@@ -2659,9 +3022,11 @@
         {
           "novel": "octopussy",
           "novel_no": 14,
-          "role": "第1篇藏金石堆与谋杀现场，海拔1万英尺以上"
+          "role": "第1篇藏金石堆与谋杀现场，海拔1万英尺以上",
+          "role_en": "First story: the gold cairn and the murder scene, above 10,000 feet."
         }
-      ]
+      ],
+      "country_en": "Austria"
     },
     {
       "id": "bisley",
@@ -2674,9 +3039,11 @@
         {
           "novel": "octopussy",
           "novel_no": 14,
-          "role": "第2篇邦德夜间练枪至500码之地"
+          "role": "第2篇邦德夜间练枪至500码之地",
+          "role_en": "Second story: where Bond practises shooting at night, up to 500 yards."
         }
-      ]
+      ],
+      "country_en": "United Kingdom"
     },
     {
       "id": "haus-der-ministerien",
@@ -2689,9 +3056,11 @@
         {
           "novel": "octopussy",
           "novel_no": 14,
-          "role": "第2篇东柏林政府大楼，Trigger藏身的四扇黑窗所在，内设文化部音乐厅"
+          "role": "第2篇东柏林政府大楼，Trigger藏身的四扇黑窗所在，内设文化部音乐厅",
+          "role_en": "Second story: East Berlin government building, with the four black windows where Trigger hides, and a Ministry of Culture concert hall inside."
         }
-      ]
+      ],
+      "country_en": "Germany"
     },
     {
       "id": "novaya-zemlya",
@@ -2704,9 +3073,11 @@
         {
           "novel": "octopussy",
           "novel_no": 14,
-          "role": "第2篇272号特工自战后藏匿之地"
+          "role": "第2篇272号特工自战后藏匿之地",
+          "role_en": "Second story: where agent 272 has hidden since the war."
         }
-      ]
+      ],
+      "country_en": "Soviet Union"
     },
     {
       "id": "macao",
@@ -2719,9 +3090,11 @@
         {
           "novel": "octopussy",
           "novel_no": 14,
-          "role": "第1篇Foo兄弟分销金条的自由港，金价每盎司至少100美元，高于Bretton Woods固定价35美元"
+          "role": "第1篇Foo兄弟分销金条的自由港，金价每盎司至少100美元，高于Bretton Woods固定价35美元",
+          "role_en": "First story: free port where the Foo brothers distribute gold bars, at at least $100 an ounce, above the Bretton Woods fixed price of $35."
         }
-      ]
+      ],
+      "country_en": "China"
     }
   ]
 }

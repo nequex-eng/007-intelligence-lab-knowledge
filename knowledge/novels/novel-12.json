@@ -21,133 +21,155 @@
       "no": 1,
       "start_line": 20,
       "summary": "东京艺妓晚宴上，邦德与田中虎玩剪刀石头布并获胜，田中邀他回家密谈，暗示有极机密之事相商",
-      "title": "SCISSORS CUT PAPER"
+      "title": "SCISSORS CUT PAPER",
+      "summary_en": "At a geisha dinner in Tokyo, Bond beats Tiger Tanaka at scissors-paper-stone; Tanaka invites him home for a nightcap and hints at a matter of the highest secrecy."
     },
     {
       "no": 2,
       "start_line": 60,
       "summary": "倒叙一个月前伦敦：邦德丧妻八个月后精神崩溃，酗酒、赌博、工作失误，M本想让他退役，神经学家莫洛尼建议给他一个看似不可能的重要任务",
-      "title": "CURTAINS FOR BOND?"
+      "title": "CURTAINS FOR BOND?",
+      "summary_en": "Flashback to London a month earlier: eight months after Tracy's death, Bond is drinking, gambling and bungling his work; M is ready to retire him until the neurologist Sir James Molony urges giving him one apparently impossible, vital assignment."
     },
     {
       "no": 3,
       "start_line": 117,
       "summary": "M给邦德代理晋升外交部门，派他去日本从田中虎手中取得苏联密码破译成果MAGIC44，邦德以澳大利亚外交官身份出发",
-      "title": "THE IMPOSSIBLE MISSION"
+      "title": "THE IMPOSSIBLE MISSION",
+      "summary_en": "M gives Bond an acting promotion to the Diplomatic Section and sends him to Japan to obtain MAGIC 44, the Japanese decryption of Soviet traffic, from Tiger Tanaka; Bond travels under Australian diplomatic cover."
     },
     {
       "no": 4,
       "start_line": 165,
       "summary": "邦德抵达东京羽田机场，澳大利亚情报官迪科·亨德森接机，两人在银座梅洛迪酒吧发现被田中窃听，迪科讲解日本的恩义与面子观念",
-      "title": "DIKKO ON THE GINZA"
+      "title": "DIKKO ON THE GINZA",
+      "summary_en": "Bond lands at Tokyo's Haneda Airport, where the Australian intelligence officer Dikko Henderson meets him; in the Melody Bar on the Ginza they find Tanaka has bugged their table, and Dikko explains Japanese ideas of obligation and face."
     },
     {
       "no": 5,
       "start_line": 210,
       "summary": "邦德首次会见田中虎，田中在地下旧地铁站办公室向他展示一份MAGIC44破译的苏联密电，内容是苏联200兆吨核武器试验与讹诈英国的计划，田中暗示邦德应把内容传回伦敦",
-      "title": "MAGIC 44"
+      "title": "MAGIC 44",
+      "summary_en": "Bond meets Tiger Tanaka, whose office lies in a disused underground station; Tanaka shows him a MAGIC 44 decrypt of a Soviet message about a 200-megaton weapon test and a plan to blackmail Britain, and hints that Bond should pass its contents to London."
     },
     {
       "no": 6,
       "start_line": 265,
       "summary": "一个月后邦德与田中成为朋友，田中透露日本已渗透英国的澳门蓝色通道情报网，艺妓晚宴后田中向邦德讲述收集死亡的瑞士植物学家萨特汉博士",
-      "title": "TIGER, TIGER!"
+      "title": "TIGER, TIGER!",
+      "summary_en": "A month later Bond and Tanaka are friends; Tanaka reveals that Japan has already penetrated Britain's Macao Blue Route network, and after the geisha dinner tells Bond about Dr Shatterhand, the collector of death."
     },
     {
       "no": 7,
       "start_line": 301,
       "summary": "田中详述萨特汉博士夫妇1月入境日本，在九州建毒花园、雇佣黑龙会余党为守卫，半年内已有500多人来此自杀，并出示农业部毒植物清单",
-      "title": "THE DEATH COLLECTOR"
+      "title": "THE DEATH COLLECTOR",
+      "summary_en": "Tanaka describes how Dr Shatterhand and his wife entered Japan in January, built a poison garden in Kyushu, hired former Black Dragon men as guards, and drew more than five hundred suicides within six months, showing Bond the agriculture ministry's list of poison plants."
     },
     {
       "no": 8,
       "start_line": 359,
       "summary": "田中讲述日本自杀文化与死亡城堡的吸引力，其派去调查的特工被折磨致死，临死只念写蜻蜓的俳句，最后提出交易：邦德潜入死亡城堡杀死城堡主人，换取MAGIC44",
-      "title": "SLAY IT WITH FLOWERS"
+      "title": "SLAY IT WITH FLOWERS",
+      "summary_en": "Tanaka explains Japanese attitudes to suicide and the castle's pull, tells how his agent sent to investigate was tortured to death and died murmuring a haiku about dragonflies, then proposes the bargain: Bond will enter the Castle of Death and kill its master in exchange for MAGIC 44."
     },
     {
       "no": 9,
       "start_line": 407,
       "summary": "邦德在澡堂接受染肤、理发等化装，扮成日本人，化名聋哑煤矿工人，田中带他乘火车与水翼船去鸟羽，讲述自己神风特攻队的往事",
-      "title": "INSTANT JAPAN"
+      "title": "INSTANT JAPAN",
+      "summary_en": "Bond is made up in a bath-house - skin dyed, hair cut - to pass as a Japanese, under the name of Taro Todoroki, a deaf-mute coalminer from Fukuoka; Tanaka takes him by train and hydrofoil to Toba and tells him of his own kamikaze training."
     },
     {
       "no": 10,
       "start_line": 476,
       "summary": "田中带邦德参观伊势神宫、品尝神户牛肉、观看忍者训练学校演示，途中发现有人骑摩托跟踪",
-      "title": "ADVANCED STUDIES"
+      "title": "ADVANCED STUDIES",
+      "summary_en": "Tanaka shows Bond the shrine of Ise, Kobe beef and a ninjutsu training school, where a pupil falls into the moat and drowns; on the way they notice a motorcyclist tailing them."
     },
     {
       "no": 11,
       "start_line": 513,
       "summary": "京都与濑户内海之行：参观日本最古老妓院、乘船去别府、听田中讲解俳句与相扑手的护身术、吃河豚宴，跟踪者再次出现",
-      "title": "ANATOMY CLASS"
+      "title": "ANATOMY CLASS",
+      "summary_en": "The tour continues through Kyoto and across the Inland Sea: Japan's oldest brothel, the voyage to Beppu, lessons in haiku and sumo, and a fugu dinner, with the tail appearing again."
     },
     {
       "no": 12,
       "start_line": 599,
       "summary": "去福冈途中邦德识破并截获跟踪的黑龙会特工，对方被警察刺死，邦德在安藤警视处看死亡城堡航拍图，认出萨特汉博士就是布洛菲尔德、其妻就是艾玛·布朗特，决定隐瞒身份、私自复仇",
-      "title": "APPOINTMENT IN SAMARA"
+      "title": "APPOINTMENT IN SAMARA",
+      "summary_en": "On the way to Fukuoka, Bond traps the Black Dragon agent tailing them; the man is killed by a policeman, and at Superintendent Ando's office Bond sees aerial photographs and recognises Dr Shatterhand as Blofeld and his wife as Irma Bunt - and decides to keep it secret and take his revenge himself."
     },
     {
       "no": 13,
       "start_line": 651,
       "summary": "邦德乘警察快艇抵达黑岛，住进阿妈族渔家铃木家，认识潜水女郎喜悦子，化名塔罗·托多罗基，田中赠送自杀药丸被邦德拒绝",
-      "title": "KISSY SUZUKI"
+      "title": "KISSY SUZUKI",
+      "summary_en": "Bond reaches Kuro Island by police launch and lodges with the ama family of the Suzukis, meeting the diver Kissy Suzuki; Tanaka's parting gift, a suicide pill, is refused."
     },
     {
       "no": 14,
       "start_line": 694,
       "summary": "邦德与喜悦子出海潜水采鲍鱼，认识鸬鹚大卫，一天收获65只鲍鱼，邦德萌生与喜悦子共度余生的念头",
-      "title": "ONE GOLDEN DAY"
+      "title": "ONE GOLDEN DAY",
+      "summary_en": "Bond dives for abalone with Kissy, meets her cormorant David, and brings in sixty-five abalone in a day; he begins to imagine a life with Kissy."
     },
     {
       "no": 15,
       "start_line": 732,
       "summary": "第二天潜水收获68只鲍鱼，喜悦子讲述六尊地藏守护神的传说与杀死死亡之王的预言，城堡守卫上岛打听邦德下落，喜悦子坚持当晚陪邦德游去城堡",
-      "title": "THE SIX GUARDIANS"
+      "title": "THE SIX GUARDIANS",
+      "summary_en": "A second day's diving yields sixty-eight abalone; Kissy tells of the six stone Jizo guardians and the prophecy of a man from overseas who will kill the King of Death, castle guards come to the island asking after Bond, and Kissy insists on swimming with him to the castle that night."
     },
     {
       "no": 16,
       "start_line": 777,
       "summary": "邦德与喜悦子夜游半英里海峡，邦德爬上200英尺城墙潜入毒花园，目睹食人鱼湖与跳入喷气孔自杀的男子，在园丁棚中过夜",
-      "title": "THE LOVESOME SPOT"
+      "title": "THE LOVESOME SPOT",
+      "summary_en": "Bond and Kissy swim half a mile across the strait; Bond climbs the two-hundred-foot wall into the poison garden, watches a suicide in the piranha lake and another in a fumarole, and spends the night in a gardener's hut."
     },
     {
       "no": 17,
       "start_line": 802,
       "summary": "白天邦德藏在园丁棚中，目睹守卫把反悔的自杀者扔进食人鱼湖，布洛菲尔德夫妇巡视时几乎发现他，布洛菲尔德用剑刺穿麻袋险些刺中邦德",
-      "title": "SOMETHING EVIL COMES THIS WAY"
+      "title": "SOMETHING EVIL COMES THIS WAY",
+      "summary_en": "By day Bond hides in the hut, watches guards throw a would-be suicide who changed his mind into the piranha lake, and nearly dies when Blofeld, inspecting the garden with his wife, drives his sword through the sacks hiding him."
     },
     {
       "no": 18,
       "start_line": 837,
       "summary": "邦德夜间由低处小门潜入城堡，躲过捕人陷阱，却踩中走廊翻板陷阱坠入地牢，被守卫抓获，艾玛·布朗特认出他就是詹姆斯·邦德",
-      "title": "OUBLIETTE"
+      "title": "OUBLIETTE",
+      "summary_en": "Bond slips into the castle through a low door at night, dodges a man-trap, but steps on a trapdoor in the corridor and falls into the oubliette; captured, he is recognised by Irma Bunt as James Bond."
     },
     {
       "no": 19,
       "start_line": 870,
       "summary": "审讯室中布洛菲尔德用每15分钟喷发一次的千度泥浆间歇泉逼邦德开口，邦德在喷发前起身暴露自己听得懂，布洛菲尔德推断出邦德是为复仇而来并决定亲手杀他",
-      "title": "THE QUESTION ROOM"
+      "title": "THE QUESTION ROOM",
+      "summary_en": "In the Question Room, built over a geyser that erupts every fifteen minutes with boiling mud, Blofeld tries to make Bond talk; Bond rises just before an eruption, betraying that he understands English, and Blofeld concludes he has come for revenge and will kill him himself."
     },
     {
       "no": 20,
       "start_line": 907,
       "summary": "邦德夺棍击昏艾玛·布朗特，与布洛菲尔德展开长棍对武士刀的搏斗，最终徒手扼死布洛菲尔德，关闭间歇泉阀门后城堡爆炸，邦德乘氢气球逃生、中弹坠海",
-      "title": "BLOOD AND THUNDER"
+      "title": "BLOOD AND THUNDER",
+      "summary_en": "Bond knocks Irma Bunt out with a stave, fights Blofeld - staff against samurai sword - and strangles him with his bare hands; shutting the geyser valve sets off the explosion that destroys the castle, and Bond escapes on a helium balloon, is shot and falls into the sea."
     },
     {
       "no": 21,
       "start_line": 924,
       "summary": "M在报上发表邦德讣告，追述邦德身世、求学、参军与战功，宣布其日本任务百分之百成功，玛丽·古德奈特写下墓志铭",
-      "title": "OBIT:"
+      "title": "OBIT:",
+      "summary_en": "M publishes Bond's obituary in the press, recounting his birth, schooling, war service and honours, declaring his Japanese mission one hundred per cent successful; Mary Goodnight writes the epitaph."
     },
     {
       "no": 22,
       "start_line": 939,
       "summary": "喜悦子从海中救起失忆的邦德，谎称他是渔民塔罗·托多罗基并藏匿于岛上，邦德与她同居、她怀孕，后因厕纸上符拉迪沃斯托克一词触动记忆，邦德决定前往苏联寻回过去",
-      "title": "SPARROWS' TEARS"
+      "title": "SPARROWS' TEARS",
+      "summary_en": "Kissy rescues the amnesiac Bond from the sea and hides him on Kuro as the fisherman Taro Todoroki; they live together and she becomes pregnant, until the word Vladivostok on a scrap of toilet paper stirs his memory and he sails north to recover his past."
     }
   ],
   "characters": [
@@ -194,7 +216,13 @@
           "with": "tracy-draco"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Protagonist",
+      "appearance_en": "Tall, with a scar on his right cheek; in disguise his skin is dyed light brown, his black hair cut in a short Japanese fringe, and the ends of his eyebrows shaved so that they turn upwards.",
+      "age_clues_en": "The obituary says his parents died when he was eleven, that he joined up in 1941 claiming to be nineteen, and that he married in 1962.",
+      "personality_en": "After his wife's death he is sunk in apathy and bungles his work, but in desperate straits his will to live and his determination to take revenge are immense, and he faces Blofeld with cool restraint.",
+      "habits_en": "Smokes, drinks and gambles; likes raw eggs with bacon; an expert diver and fighter.",
+      "background_en": "His father Andrew Bond was a Scotsman of Glencoe and his mother Monique Delacroix a Swiss; both died in a climbing accident at Chamonix when he was eleven, and he was brought up by his aunt Charmian Bond. After a short time at Eton he moved to Fettes, joined the forerunner of the Ministry of Defence in 1941, stayed on in the Secret Service after the war, and was awarded the CMG."
     },
     {
       "age_clues": "讣告写1962年结婚，婚后不到一天遇害；第13章写邦德回忆妻子死去刚九个月",
@@ -217,7 +245,12 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物（已故，仅在回忆与讣告中出现）"
+      "role": "次要人物（已故，仅在回忆与讣告中出现）",
+      "role_en": "Minor character (dead; appears only in memory and in the obituary)",
+      "appearance_en": "The novel does not describe her appearance directly in this book.",
+      "age_clues_en": "The obituary records her marriage in 1962 and her death within a day of it; in Chapter 13 Bond recalls that she has been dead just nine months.",
+      "personality_en": "Seen only through Bond's and Molony's memories: a wounded woman in need of help, which is why Bond fell in love with her.",
+      "background_en": "The only daughter of Marc-Ange Draco of Marseilles."
     },
     {
       "age_clues": null,
@@ -248,7 +281,12 @@
           "with": "blofeld"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Major character",
+      "appearance_en": "Square face, a mouthful of gold teeth, almond eyes and a powerful build; born in the Year of the Tiger, he wears a black yukata and his house is full of tiger-head ornaments.",
+      "personality_en": "Shrewd, deep, humorous and ruthless, fiercely bound by honour and obligation, putting his country's interests above personal friendship.",
+      "habits_en": "Drinks Suntory whisky and sake, loves a joke, and sets great store by face and obligation.",
+      "background_en": "First in PPE at Trinity College, Oxford; before the war he spied for Japan while assistant naval attache at the Japanese Embassy in London, joined the Kempeitai, and was training as a kamikaze pilot when the war ended; he was once private aide to Admiral Onishi, and is now head of the Koan-Chosa-Kyoku, the Japanese secret intelligence service, and a Seventh Dan black belt in judo."
     },
     {
       "age_clues": "中年，退役拳击手体型",
@@ -276,7 +314,13 @@
           "with": "tiger-tanaka"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Major character",
+      "appearance_en": "Enormously built, with grey-white hair, a broken nose, blue eyes, and a habit of sweating; he wears a crumpled grey suit.",
+      "age_clues_en": "Middle-aged, with the build of a retired boxer.",
+      "personality_en": "Coarse and outspoken, but loyal; he knows Japanese culture inside out and is the bridge between Bond and Tanaka.",
+      "habits_en": "Drinks heavily, swears constantly, and enjoys eels and brothels.",
+      "background_en": "An Australian diplomat, head of intelligence in Tokyo, and Bond's superior and cover in Japan."
     },
     {
       "age_clues": "23岁，17岁时去好莱坞拍电影",
@@ -304,7 +348,13 @@
           "with": "kannushi"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Major character",
+      "appearance_en": "Taller than most Japanese girls, with golden-peach skin, black hair with brown highlights, unplucked eyebrows, and hands and feet roughened and scarred; when diving she wears nothing but a black cloth triangle.",
+      "age_clues_en": "Twenty-three years old; she went to Hollywood to make films at seventeen.",
+      "personality_en": "Direct, brave, independent and strong-willed; she falls in love with Bond at first sight and is ready to lie to keep him.",
+      "habits_en": "Dives for abalone, keeps the cormorant David, and speaks English.",
+      "background_en": "Daughter of an ama fishing family on Kuro Island; at seventeen she was chosen to go to Hollywood to make a film about ama divers, hated Hollywood and came home; her father cannot row the boat because of rheumatism, her mother is an old fisherwoman, and the family is better off than others on the island thanks to her Hollywood pay."
     },
     {
       "age_clues": "原文写他长了垂下的黑胡子、修过梅毒鼻子、上排门牙有金牙套，留白发扮成伯爵",
@@ -338,7 +388,13 @@
           "with": "tiger-tanaka"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Major character",
+      "appearance_en": "About six feet three, powerfully built, with a high forehead, thin purple lips and black eyes; as Shatterhand he wears medieval chain mail and a winged steel helmet, and at other times a black silk kimono embroidered with a gold dragon.",
+      "age_clues_en": "The novel describes his drooping black beard, a nose repaired after syphilis, gold caps on his upper front teeth, and the white hair he wears in his disguise as a count.",
+      "personality_en": "A genius, arrogant and paranoid, convinced that his crimes are public service and the work of genius; in his later years he suffers from lassitude of mind and delusions.",
+      "habits_en": "Inspects the garden in armour, listens to Wagner, and speaks German with his wife.",
+      "background_en": "Founder of SPECTRE; he once planned the Thunderball nuclear blackmail and a germ-warfare attack on Britain, and murdered Bond's wife Teresa; under the name of the Swiss botanist Dr Shatterhand he entered Japan with his wife Irma in January of that year and built the garden of death in Kyushu."
     },
     {
       "age_clues": null,
@@ -367,7 +423,12 @@
           "with": "bond"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Major character",
+      "appearance_en": "Short and stocky, ugly, with a flat face, light-brown eyes verging on yellow, and hair combed back into a bun; outdoors she wears a beekeeper-like dark-green straw hat with a black veil.",
+      "personality_en": "Cold, obedient to her husband, and consumed with hatred of Bond; she is the one who recognises the disguised Bond.",
+      "habits_en": "Does needlework and helps Blofeld interrogate prisoners.",
+      "background_en": "Born Irma Bunt, Blofeld's accomplice and wife, who entered Japan with him under the name of Frau Shatterhand."
     },
     {
       "age_clues": null,
@@ -388,7 +449,12 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "The novel does not describe his appearance in detail, noting only that he is a former naval man with a much-lined face.",
+      "personality_en": "Severe and practical; disappointed in Bond yet trusting him, and in the end he writes Bond's obituary.",
+      "habits_en": "Smokes a pipe and enjoys Blades club.",
+      "background_en": "Bond's chief, head of the Secret Service."
     },
     {
       "age_clues": null,
@@ -411,7 +477,10 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "personality_en": "Fond of Bond; after he takes the assignment he kisses her on the cheek.",
+      "background_en": "M's secretary."
     },
     {
       "age_clues": null,
@@ -434,7 +503,10 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "personality_en": "Caring about Bond and often worrying over him.",
+      "background_en": "Bond's secretary, who signs herself M.G. in the epitaph she writes after the obituary."
     },
     {
       "age_clues": null,
@@ -457,7 +529,10 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "personality_en": "Frank and supportive of Bond.",
+      "background_en": "M's Chief of Staff and Bond's best friend in the Service."
     },
     {
       "age_clues": null,
@@ -478,7 +553,10 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "personality_en": "Sympathetic; convinced Bond is only suffering from shock, he urges giving him one apparently impossible, important assignment to cure him.",
+      "background_en": "England's greatest neurologist, a Nobel laureate, and nerve specialist by appointment to the Secret Service."
     },
     {
       "age_clues": "18岁",
@@ -499,7 +577,12 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "A young geisha with soft skin and brown eyes.",
+      "age_clues_en": "Eighteen years old.",
+      "personality_en": "Shy and lively.",
+      "background_en": "A geisha at the dinner given by Tiger Tanaka, who promises Bond a real kiss if he wins at scissors-paper-stone."
     },
     {
       "age_clues": null,
@@ -522,7 +605,11 @@
           "with": "tiger-tanaka"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Blackened teeth and heavy make-up like a figure from a Noh play.",
+      "personality_en": "Witty; she makes a joke of Bond's name.",
+      "background_en": "The Madame of the geisha dinner."
     },
     {
       "age_clues": "18岁",
@@ -543,7 +630,12 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Young and pretty, wearing only tight shorts and a white bodice.",
+      "age_clues_en": "Eighteen years old.",
+      "personality_en": "Docile and seductive.",
+      "background_en": "A bath-house attendant whose name means Truth Number One."
     },
     {
       "age_clues": null,
@@ -564,7 +656,11 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "A short, powerfully built man in civilian clothes.",
+      "personality_en": "Deferential to Blofeld and suspicious of Bond.",
+      "background_en": "Chief of the castle guards; he once worked for the Germans or the Kempeitai, speaks German, and acts as Blofeld's interpreter."
     },
     {
       "age_clues": null,
@@ -585,7 +681,11 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "A bald, powerfully built man with hands like hams.",
+      "personality_en": "Cruel; Bond's kick to the groin leaves him floored.",
+      "background_en": "A castle guard who tortures prisoners."
     },
     {
       "age_clues": null,
@@ -611,7 +711,11 @@
           "with": "kissy-suzuki"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Round face, round spectacles, and a dark-red ceremonial robe with a turquoise skirt.",
+      "personality_en": "Wise and commanding; he knows Bond's mission and blesses it, and at the end he lets Kissy hide Bond.",
+      "background_en": "The Shinto priest of Kuro Island and its spiritual leader."
     },
     {
       "age_clues": null,
@@ -632,7 +736,11 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Rimless spectacles, sharp eyes and a military bearing.",
+      "personality_en": "Efficient and respectful.",
+      "background_en": "Head of criminal investigation in southern Kyushu; once a police officer in Fukuoka, the former Kempeitai headquarters, and a distant relative of the Suzuki family of Kuro."
     },
     {
       "age_clues": "年迈、关节肿胀、患风湿病",
@@ -653,7 +761,12 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "A thin old man with a grey-white beard and bright, squirrel-like eyes.",
+      "age_clues_en": "Old, with swollen joints and rheumatism.",
+      "personality_en": "Kind and easy-going.",
+      "background_en": "A fisherman of Kuro Island and Kissy's father; he once rowed the boat for his daughter but can no longer go to sea because of rheumatism."
     },
     {
       "age_clues": null,
@@ -674,7 +787,11 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "An old fisherwoman with a walnut face.",
+      "personality_en": "Shrewd and loving.",
+      "background_en": "A fisherwoman of Kuro Island and Kissy's mother."
     },
     {
       "age_clues": null,
@@ -695,7 +812,10 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "personality_en": "Cautious, and obedient to the priest's instructions.",
+      "background_en": "The doctor of Kuro Island, who treats Bond's wounds and diagnoses the temporal-lobe injury behind his amnesia."
     },
     {
       "age_clues": "3岁，被喜悦子当雏鸟救起",
@@ -716,7 +836,13 @@
           "with": "kissy-suzuki"
         }
       ],
-      "role": "动物"
+      "role": "动物",
+      "role_en": "Animal",
+      "appearance_en": "A large black cormorant with turquoise eyes, a wingspan of about five feet and a copper ring round its neck.",
+      "age_clues_en": "Three years old; Kissy rescued it as a chick.",
+      "personality_en": "Proud and loyal.",
+      "habits_en": "Catches fish and dives with Kissy.",
+      "background_en": "Kissy's fishing cormorant, named after the actor David Niven."
     },
     {
       "age_clues": null,
@@ -737,25 +863,32 @@
           "with": "m"
         }
       ],
-      "role": "次要人物（仅提及）"
+      "role": "次要人物（仅提及）",
+      "role_en": "Minor character (mentioned only)",
+      "personality_en": "Attentive and considerate.",
+      "background_en": "A waiter at Blades club who once served under M."
     }
   ],
   "communications": [
     {
       "name": "红色电话",
-      "note": "M办公室的内部电话，邦德接M召唤用此线"
+      "note": "M办公室的内部电话，邦德接M召唤用此线",
+      "description_en": "The internal telephone in M's office, by which Bond is summoned."
     },
     {
       "name": "同步发报机",
-      "note": "邦德按规定外出时应随身携带的呼叫器，他多周未带"
+      "note": "邦德按规定外出时应随身携带的呼叫器，他多周未带",
+      "description_en": "The bleeper senior Headquarters staff are required to carry when they leave the building; Bond has not carried his for weeks."
     },
     {
       "name": "电报与密码电文",
-      "note": "迪科经墨尔本向伦敦传递邦德的情报；MAGIC44密电要求收报后销毁并以土星为确认代号"
+      "note": "迪科经墨尔本向伦敦传递邦德的情报；MAGIC44密电要求收报后销毁并以土星为确认代号",
+      "description_en": "Dikko sends Bond's intelligence to London by way of Melbourne; the MAGIC 44 decrypt must be destroyed after receipt, with Saturn as the confirmation codeword."
     },
     {
       "name": "电话",
-      "note": "安藤警视用老式电话向手下查询黑龙会特工的底细"
+      "note": "安藤警视用老式电话向手下查询黑龙会特工的底细",
+      "description_en": "Superintendent Ando uses an old-fashioned telephone to ask his men about the Black Dragon agent."
     }
   ],
   "equipment": [
@@ -764,77 +897,88 @@
       "kind": "武器",
       "name_en": "Pocket knife",
       "name_zh": "两英寸小刀",
-      "note": "邦德按日本法律携带的刀片不超过两英寸的折刀，用于锉断城堡小门的锁链"
+      "note": "邦德按日本法律携带的刀片不超过两英寸的折刀，用于锉断城堡小门的锁链",
+      "description_en": "The folding knife Bond carries within the Japanese legal limit of a two-inch blade, used to file through the chain on the castle's small door."
     },
     {
       "id": "ninja-chain",
       "kind": "武器",
       "name_en": "Ninja chain",
       "name_zh": "忍者细链",
-      "note": "邦德腰间缠绕的细钢链，原计划用于勒死布洛菲尔德"
+      "note": "邦德腰间缠绕的细钢链，原计划用于勒死布洛菲尔德",
+      "description_en": "The fine steel chain wound round Bond's waist, originally intended for strangling Blofeld."
     },
     {
       "id": "ninja-suit",
       "kind": "服装与防护",
       "name_en": "Ninja suit",
       "name_zh": "忍者服",
-      "note": "黑棉忍者服配头罩与游泳镜，潜水与夜间潜入时穿着，另有日间迷彩服"
+      "note": "黑棉忍者服配头罩与游泳镜，潜水与夜间潜入时穿着，另有日间迷彩服",
+      "description_en": "A black cotton ninja suit with hood and swimming goggles, worn for diving and the night approach, with a daytime camouflage suit besides."
     },
     {
       "id": "stave",
       "kind": "武器",
       "name_en": "Bojutsu stave",
       "name_zh": "长棍",
-      "note": "邦德在城堡图书馆夺取守卫留下的约两码长棍，用以对付布洛菲尔德的武士刀"
+      "note": "邦德在城堡图书馆夺取守卫留下的约两码长棍，用以对付布洛菲尔德的武士刀",
+      "description_en": "A stave about two yards long, seized from a guard left in the castle library, which Bond uses against Blofeld's samurai sword."
     },
     {
       "id": "samurai-sword",
       "kind": "武器",
       "name_en": "Samurai sword",
       "name_zh": "武士刀",
-      "note": "布洛菲尔德的宽刃武士刀，他企图用此刀按切舍御免斩首邦德，最后被邦德夺下劈开阀门木箱"
+      "note": "布洛菲尔德的宽刃武士刀，他企图用此刀按切舍御免斩首邦德，最后被邦德夺下劈开阀门木箱",
+      "description_en": "Blofeld's broad-bladed samurai sword, with which he means to behead Bond by kirisute gomen; Bond seizes it and uses it to split open the wooden box over the valve."
     },
     {
       "id": "pitons-rope",
       "kind": "攀登工具",
       "name_en": "Pitons and rope",
       "name_zh": "岩钉与绳索",
-      "note": "邦德攀爬200英尺城墙时使用，绳端带铁钩"
+      "note": "邦德攀爬200英尺城墙时使用，绳端带铁钩",
+      "description_en": "The pitons and rope, with a grappling hook at the end, that Bond uses to climb the two-hundred-foot castle wall."
     },
     {
       "id": "flippers-goggles",
       "kind": "潜水装备",
       "name_en": "Flippers and goggles",
       "name_zh": "脚蹼与潜水镜",
-      "note": "邦德游过半英里海峡时使用，潜水镜属于喜悦子的父亲"
+      "note": "邦德游过半英里海峡时使用，潜水镜属于喜悦子的父亲",
+      "description_en": "The flippers and goggles Bond uses to swim the half-mile strait; the goggles belong to Kissy's father."
     },
     {
       "id": "suicide-pill",
       "kind": "毒药",
       "name_en": "Suicide pill",
       "name_zh": "自杀药丸",
-      "note": "田中虎赠给邦德的棕色长药丸，以防任务失败被俘，邦德拒绝接受并归还"
+      "note": "田中虎赠给邦德的棕色长药丸，以防任务失败被俘，邦德拒绝接受并归还",
+      "description_en": "The long brown pill Tiger Tanaka gives Bond in case the mission fails and he is captured; Bond refuses it and hands it back."
     },
     {
       "id": "benzedrine",
       "kind": "药品",
       "name_en": "Benzedrine tablets",
       "name_zh": "苯丙胺药片",
-      "note": "邦德潜入装备中的提神药片"
+      "note": "邦德潜入装备中的提神药片",
+      "description_en": "The Benzedrine tablets in Bond's infiltration kit, to keep him awake."
     },
     {
       "id": "pemmican",
       "kind": "食品",
       "name_en": "Pemmican",
       "name_zh": "肉干",
-      "note": "邦德藏身园丁棚期间的食物，共三块"
+      "note": "邦德藏身园丁棚期间的食物，共三块",
+      "description_en": "Bond's food while hiding in the gardener's hut - three pieces of pemmican."
     },
     {
       "id": "shinsei-cigarettes",
       "kind": "日用品",
       "name_en": "Shinsei cigarettes",
       "name_zh": "新生牌香烟",
-      "note": "日本本地香烟，邦德在日本期间抽用"
+      "note": "日本本地香烟，邦德在日本期间抽用",
+      "description_en": "A Japanese brand of cigarette, which Bond smokes while in Japan."
     }
   ],
   "events": [
@@ -843,105 +987,150 @@
       "chapter": 3,
       "effect": "邦德获代理晋升外交部门，以澳大利亚外交官身份前往日本索取MAGIC44",
       "id": "impossible-mission",
-      "title": "M委派不可能的任务"
+      "title": "M委派不可能的任务",
+      "title_en": "M Gives Bond the Impossible Mission",
+      "cause_en": "Bond is falling apart after his wife's death, and Molony advises M to give him one apparently impossible, vital assignment.",
+      "effect_en": "Bond receives an acting promotion to the Diplomatic Section and travels to Japan as an Australian diplomat to obtain MAGIC 44."
     },
     {
       "cause": "田中向邦德展示MAGIC44破译的苏联密电，内容是200兆吨核武器试验与讹诈英国的计划",
       "chapter": 5,
       "effect": "邦德凭记忆把密电内容经迪科传回伦敦，西方迅速采取反制，苏联推迟外交讹诈",
       "id": "magic44-sample",
-      "title": "田中出示MAGIC44样本密电"
+      "title": "田中出示MAGIC44样本密电",
+      "title_en": "Tanaka Shows the Sample MAGIC 44 Decrypt",
+      "cause_en": "Tanaka shows Bond a MAGIC 44 decrypt of a Soviet message about a 200-megaton weapon test and a plan to blackmail Britain.",
+      "effect_en": "Bond memorises the decrypt and sends it to London through Dikko; the West acts swiftly and the Soviet diplomatic blackmail is postponed."
     },
     {
       "cause": "日本已渗透英国澳门蓝色通道情报网，邦德无物可换，田中提出以刺杀换MAGIC44",
       "chapter": 8,
       "effect": "邦德接受交易，潜入死亡城堡杀死萨特汉博士，换取日本移交MAGIC44",
       "id": "bargain-castle-of-death",
-      "title": "以刺杀换MAGIC44的交易"
+      "title": "以刺杀换MAGIC44的交易",
+      "title_en": "The Bargain: Assassination for MAGIC 44",
+      "cause_en": "Japan has already penetrated Britain's Macao Blue Route network, leaving Bond with nothing to trade, and Tanaka offers murder in exchange for MAGIC 44.",
+      "effect_en": "Bond accepts the bargain and agrees to enter the Castle of Death and kill Dr Shatterhand in return for Japan handing over MAGIC 44."
     },
     {
       "cause": "邦德是外国人，在日本极易被认出，必须化装成日本人潜入",
       "chapter": 9,
       "effect": "邦德染肤、剪发、扮成福冈聋哑煤矿工人，化名塔罗·托多罗基",
       "id": "transformation",
-      "title": "邦德化装成日本渔民工人"
+      "title": "邦德化装成日本渔民工人",
+      "title_en": "Bond Is Made Up as a Japanese Labourer",
+      "cause_en": "As a foreigner, Bond would be recognised at once in Japan and must pass as Japanese to get near the castle.",
+      "effect_en": "Bond's skin is dyed and his hair cut, and he becomes Taro Todoroki, a deaf-mute coalminer from Fukuoka."
     },
     {
       "cause": "黑龙会特工一路跟踪田中与邦德，邦德识破后设伏拦截",
       "chapter": 12,
       "effect": "特工被警察刺死，身上搜出邦德被窃的钱包与记录田中行踪的日记，邦德意识到城堡主人早有防备",
       "id": "black-dragon-tail-killed",
-      "title": "跟踪的黑龙会特工被杀"
+      "title": "跟踪的黑龙会特工被杀",
+      "title_en": "The Black Dragon Tail Is Killed",
+      "cause_en": "A Black Dragon agent tails Tanaka and Bond all the way, and Bond sees through the tail and sets a trap.",
+      "effect_en": "The agent is stabbed to death by a policeman; his body yields Bond's stolen wallet and a diary of Tanaka's movements, and Bond realises the castle's master is already on his guard."
     },
     {
       "cause": "邦德在安藤警视处看到萨特汉博士夫妇的护照照片",
       "chapter": 12,
       "effect": "邦德认出两人就是布洛菲尔德与艾玛·布朗特，决定隐瞒身份、私自复仇",
       "id": "blofeld-identified",
-      "title": "邦德认出布洛菲尔德"
+      "title": "邦德认出布洛菲尔德",
+      "title_en": "Bond Recognises Blofeld",
+      "cause_en": "Bond sees the passport photographs of Dr and Frau Shatterhand at Superintendent Ando's office.",
+      "effect_en": "He recognises the couple as Blofeld and Irma Bunt and decides to keep the discovery secret and take his revenge himself."
     },
     {
       "cause": "邦德需在城堡对面等待合适天气与夜色潜入",
       "chapter": 13,
       "effect": "邦德住进黑岛铃木家，结识喜悦子并与她出海潜水",
       "id": "arrival-kuro",
-      "title": "邦德抵达黑岛"
+      "title": "邦德抵达黑岛",
+      "title_en": "Bond Reaches Kuro Island",
+      "cause_en": "Bond must wait on the far side of the strait for the right weather and a moonlit night to swim to the castle.",
+      "effect_en": "He lodges with the Suzuki family on Kuro, meets Kissy and goes diving for abalone with her."
     },
     {
       "cause": "喜悦子坚持陪邦德夜游，并约定每晚午夜在城墙下等他一小时",
       "chapter": 15,
       "effect": "邦德得以在喜悦子引导下穿越海流抵达城墙，事后喜悦子在海中救起他",
       "id": "swim-to-castle",
-      "title": "夜游至死亡城堡"
+      "title": "夜游至死亡城堡",
+      "title_en": "The Night Swim to the Castle of Death",
+      "cause_en": "Kissy insists on swimming with Bond to the castle and promises to wait for an hour at midnight below the wall each night.",
+      "effect_en": "Guided by Kissy through the currents, Bond reaches the wall; afterwards Kissy pulls him from the sea."
     },
     {
       "cause": "邦德爬上城墙潜入毒花园侦察",
       "chapter": 16,
       "effect": "邦德目睹食人鱼湖与喷气孔自杀，在园丁棚藏身并找到城堡低处小门",
       "id": "infiltration-garden",
-      "title": "潜入毒花园"
+      "title": "潜入毒花园",
+      "title_en": "Infiltration of the Poison Garden",
+      "cause_en": "Bond climbs the castle wall to reconnoitre the poison garden.",
+      "effect_en": "He watches the piranha lake and a suicide in a fumarole, hides in a gardener's hut and finds the low door into the castle."
     },
     {
       "cause": "布洛菲尔德夫妇巡视花园，布洛菲尔德发现园丁棚门开着",
       "chapter": 17,
       "effect": "布洛菲尔德用剑刺穿麻袋，险些刺中藏身的邦德，邦德决定当夜行动",
       "id": "near-discovery",
-      "title": "布洛菲尔德险些发现邦德"
+      "title": "布洛菲尔德险些发现邦德",
+      "title_en": "Blofeld Nearly Discovers Bond",
+      "cause_en": "Blofeld and his wife inspect the garden, and Blofeld notices the door of the gardener's hut standing open.",
+      "effect_en": "Blofeld drives his sword through the sacks, narrowly missing the hidden Bond, who resolves to act that night."
     },
     {
       "cause": "邦德由小门潜入城堡，踩中走廊翻板陷阱",
       "chapter": 18,
       "effect": "邦德坠入地牢被俘，艾玛·布朗特认出他的身份",
       "id": "oubliette-capture",
-      "title": "坠入地牢被俘"
+      "title": "坠入地牢被俘",
+      "title_en": "Capture in the Oubliette",
+      "cause_en": "Bond enters the castle by the low door and steps on a trapdoor in the corridor.",
+      "effect_en": "He falls into the oubliette and is captured; Irma Bunt recognises him as James Bond."
     },
     {
       "cause": "布洛菲尔德要验证邦德是否真的聋哑",
       "chapter": 19,
       "effect": "邦德在间歇泉喷发前起身，暴露自己听得懂英语，布洛菲尔德推断他是为复仇而来",
       "id": "question-room",
-      "title": "审讯室间歇泉逼供"
+      "title": "审讯室间歇泉逼供",
+      "title_en": "The Question Room Interrogation",
+      "cause_en": "Blofeld wants to test whether Bond is truly deaf and dumb.",
+      "effect_en": "Bond rises just before the geyser erupts, betraying that he understands English, and Blofeld concludes he has come for revenge."
     },
     {
       "cause": "布洛菲尔德决定亲手用武士刀斩首邦德",
       "chapter": 20,
       "effect": "邦德夺棍击昏艾玛·布朗特，徒手扼死布洛菲尔德，随后关闭间歇泉阀门引发城堡爆炸",
       "id": "death-castle-assault",
-      "title": "死亡城堡决战"
+      "title": "死亡城堡决战",
+      "title_en": "The Duel in the Castle of Death",
+      "cause_en": "Blofeld decides to behead Bond himself with his samurai sword.",
+      "effect_en": "Bond knocks Irma Bunt out with his stave and strangles Blofeld with his bare hands, then shuts the geyser valve and the castle explodes."
     },
     {
       "cause": "邦德乘氢气球逃生时中弹坠海，伦敦方面失去他的消息",
       "chapter": 21,
       "effect": "M发表讣告，宣布邦德失踪、推定死亡，任务百分之百成功",
       "id": "obituary",
-      "title": "M发表邦德讣告"
+      "title": "M发表邦德讣告",
+      "title_en": "M Publishes Bond's Obituary",
+      "cause_en": "Bond escapes on the helium balloon, is shot and falls into the sea, and London hears nothing more of him.",
+      "effect_en": "M publishes the obituary, announcing Bond missing and presumed dead and the mission one hundred per cent successful."
     },
     {
       "cause": "喜悦子在城墙下等候时看到邦德坠海，游去救起失忆的他",
       "chapter": 22,
       "effect": "邦德以塔罗·托多罗基的身份在黑岛生活数月，喜悦子怀孕，后因符拉迪沃斯托克一词决定离岛寻回记忆",
       "id": "rescue-amnesia",
-      "title": "喜悦子救起失忆的邦德"
+      "title": "喜悦子救起失忆的邦德",
+      "title_en": "Kissy Rescues the Amnesiac Bond",
+      "cause_en": "Kissy, waiting below the wall, sees Bond fall into the sea and swims out to save him.",
+      "effect_en": "Bond lives on Kuro as Taro Todoroki for months, Kissy becomes pregnant, and at last the word Vladivostok sends him off the island to recover his memory."
     }
   ],
   "facts": [
@@ -954,7 +1143,8 @@
       "quote": "He's going slowly to pieces.",
       "quote_source": "第2章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "8月31日"
+      "timeline_position": "8月31日",
+      "fact_en": "Eight months after his wife's death, Bond is falling apart - drinking, gambling and making mistakes at work - and Molony diagnoses a psycho-neurosis brought on by shock."
     },
     {
       "canon_or_inference": "canon",
@@ -965,7 +1155,8 @@
       "quote": "within a few hours she's shot dead by this super-gangster chap.",
       "quote_source": "第2章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "8个月前"
+      "timeline_position": "8个月前",
+      "fact_en": "Bond's wife Teresa was shot dead by Blofeld within hours of their wedding, and Bond blames himself for her death."
     },
     {
       "canon_or_inference": "canon",
@@ -976,7 +1167,8 @@
       "quote": "Give him one more chance, M.",
       "quote_source": "第2章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "8月31日"
+      "timeline_position": "8月31日",
+      "fact_en": "The neurologist Sir James Molony examined Bond twice, found nothing physically wrong, and advised M to give him one apparently impossible, important assignment."
     },
     {
       "canon_or_inference": "canon",
@@ -987,7 +1179,8 @@
       "quote": "I'm giving you acting promotion to the Diplomatic Section.",
       "quote_source": "第3章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "8月31日"
+      "timeline_position": "8月31日",
+      "fact_en": "M gives Bond an acting promotion to the Diplomatic Section, with a thousand pounds a year extra pay, and sends him to Japan to obtain MAGIC 44."
     },
     {
       "canon_or_inference": "canon",
@@ -998,7 +1191,8 @@
       "quote": "You're to go out there and get it off him.",
       "quote_source": "第3章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "8月31日"
+      "timeline_position": "8月31日",
+      "fact_en": "Tiger Tanaka, head of the Japanese secret service, controls MAGIC 44, the decryption of Soviet traffic from Vladivostok, which the CIA forbids him to pass to Britain."
     },
     {
       "canon_or_inference": "canon",
@@ -1009,7 +1203,8 @@
       "quote": "Second Secretary in the Cultural Department of the Australian Embassy.",
       "quote_source": "第4章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "9月"
+      "timeline_position": "9月",
+      "fact_en": "Richard Lovelace Henderson is the Australian intelligence chief in Tokyo, and Bond works under cover as Second Secretary in the Cultural Department of the Australian Embassy."
     },
     {
       "canon_or_inference": "canon",
@@ -1020,7 +1215,8 @@
       "quote": "we've been miked! That bludger Tanaka's miked us!",
       "quote_source": "第4章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "9月"
+      "timeline_position": "9月",
+      "fact_en": "Tanaka has the Melody Bar table in the Ginza bugged to listen to Dikko and Bond; Dikko finds the microphone and tears out the wire."
     },
     {
       "canon_or_inference": "canon",
@@ -1031,7 +1227,8 @@
       "quote": "It is quiet. It is private. It is also cool.",
       "quote_source": "第5章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "9月"
+      "timeline_position": "9月",
+      "fact_en": "Tanaka's office sits in a disused underground station in Tokyo, fronted by the Bureau of All-Asian Folkways, its entrance guarded by a nightingale floor and the recorded sound of building work."
     },
     {
       "canon_or_inference": "canon",
@@ -1042,7 +1239,8 @@
       "quote": "WE ARE IN POSSESSION OF THE TWO HUNDRED MEGATON WEAPON",
       "quote_source": "第5章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "9月"
+      "timeline_position": "9月",
+      "fact_en": "The sample MAGIC 44 decrypt says the Soviet Union possesses a 200-megaton weapon, to be tested high over Novaya Zemlya on 20 September, and will use it to blackmail Britain into removing American bases and accepting nuclear disarmament."
     },
     {
       "canon_or_inference": "canon",
@@ -1053,7 +1251,8 @@
       "quote": "You remember its contents? Exactly, I think.",
       "quote_source": "第5章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "9月"
+      "timeline_position": "9月",
+      "fact_en": "Bond memorises the whole decrypt, Tanaka hints that he should send its contents to London, and Bond transmits the intelligence through Dikko's Melbourne channel."
     },
     {
       "canon_or_inference": "canon",
@@ -1064,7 +1263,8 @@
       "quote": "The test of the zoo-megaton bomb had duly taken place",
       "quote_source": "第6章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "9月下旬"
+      "timeline_position": "9月下旬",
+      "fact_en": "The 200-megaton test duly takes place and draws public protest; the swift Western response postpones the Soviet diplomatic blackmail indefinitely."
     },
     {
       "canon_or_inference": "canon",
@@ -1075,7 +1275,8 @@
       "quote": "We already receive the entire fruits of that source.",
       "quote_source": "第6章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "9月下旬"
+      "timeline_position": "9月下旬",
+      "fact_en": "Japan has long since penetrated Britain's Macao Blue Route intelligence network and renamed it the Orange Route, so Bond's intended bargaining chip is worthless."
     },
     {
       "canon_or_inference": "canon",
@@ -1086,7 +1287,8 @@
       "quote": "He collects death.",
       "quote_source": "第6章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "1月"
+      "timeline_position": "1月",
+      "fact_en": "Dr Shatterhand and his wife entered Japan legally in January on Swiss passports, claiming to be tropical botanists, and were allowed to spend a million pounds building a garden of rare plants in Kyushu with a ten-year residence permit."
     },
     {
       "canon_or_inference": "canon",
@@ -1097,7 +1299,8 @@
       "quote": "He collects death.",
       "quote_source": "第6章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "1月至9月"
+      "timeline_position": "1月至9月",
+      "fact_en": "Shatterhand bought an old castle on five hundred acres of volcanic land near Fukuoka, hired about twenty former Black Dragon men as guards, and filled the garden with poison plants, piranhas, and venomous snakes and spiders."
     },
     {
       "canon_or_inference": "canon",
@@ -1108,7 +1311,8 @@
       "quote": "His present tally, in just under six months, is something over five hundred Japanese.",
       "quote_source": "第7章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "9月"
+      "timeline_position": "9月",
+      "fact_en": "In under six months the garden of death has drawn more than five hundred Japanese to kill themselves there."
     },
     {
       "canon_or_inference": "canon",
@@ -1119,7 +1323,8 @@
       "quote": "25,000 Japanese commit suicide every year.",
       "quote_source": "第8章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "9月下旬"
+      "timeline_position": "9月下旬",
+      "fact_en": "Some 25,000 Japanese kill themselves every year, and in Japanese culture suicide is not seen as shameful but as an honourable act."
     },
     {
       "canon_or_inference": "canon",
@@ -1130,7 +1335,8 @@
       "quote": "Desolation! Pink dragonflies flitting above the graves.",
       "quote_source": "第8章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "8月"
+      "timeline_position": "8月",
+      "fact_en": "Tanaka's agent sent to the Castle of Death was found a week later on a beach, blinded and badly burned below the waist, dying with only a haiku about dragonflies on his lips."
     },
     {
       "canon_or_inference": "canon",
@@ -1141,7 +1347,8 @@
       "quote": "You are to enter this Castle of Death and slay the Dragon within.",
       "quote_source": "第8章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "9月下旬"
+      "timeline_position": "9月下旬",
+      "fact_en": "Tanaka, in agreement with the Prime Minister, offers the bargain: Bond will enter the Castle of Death and kill its master, and Japan will hand over MAGIC 44 if he succeeds - and refuse Britain's request if he fails."
     },
     {
       "canon_or_inference": "canon",
@@ -1152,7 +1359,8 @@
       "quote": "A coalminer from Fukuoka.",
       "quote_source": "第9章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "9月下旬"
+      "timeline_position": "9月下旬",
+      "fact_en": "In a bath-house Bond is dyed, shaved and made up to pass as Japanese, under the name of Taro Todoroki, a deaf-mute coalminer from Fukuoka."
     },
     {
       "canon_or_inference": "canon",
@@ -1163,7 +1371,8 @@
       "quote": "I forced the Kempeitai to accept my resignation",
       "quote_source": "第9章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "9月下旬"
+      "timeline_position": "9月下旬",
+      "fact_en": "Tanaka worked in intelligence in Berlin and Rome, resigned from the Kempeitai by bribery, and joined a kamikaze training squadron, but the surrender came before he could fly a mission."
     },
     {
       "canon_or_inference": "canon",
@@ -1174,7 +1383,8 @@
       "quote": "ninjutsu, which is, literally, the art of stealth or invisibility.",
       "quote_source": "第10章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "9月下旬"
+      "timeline_position": "9月下旬",
+      "fact_en": "Tanaka takes Bond to a ninjutsu training school, the Central Mountaineering School, to watch wall-climbing, staff fighting and ninja devices; one pupil slips and drowns in the moat."
     },
     {
       "canon_or_inference": "canon",
@@ -1185,7 +1395,8 @@
       "quote": "No higher than a Black Belt of the Seventh Dan.",
       "quote_source": "第10章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "9月下旬"
+      "timeline_position": "9月下旬",
+      "fact_en": "Tanaka holds a Seventh Dan black belt in judo, has not risen to red belt, and regards high-ranking judoka as akin to monks and ballet dancers."
     },
     {
       "canon_or_inference": "canon",
@@ -1196,7 +1407,8 @@
       "quote": "You only live twice: Once when you are born And once when you look death in the face.",
       "quote_source": "第11章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "9月下旬"
+      "timeline_position": "9月下旬",
+      "fact_en": "On a boat in the Inland Sea Bond improvises the haiku You only live twice, which gives the novel its title."
     },
     {
       "canon_or_inference": "canon",
@@ -1207,7 +1419,8 @@
       "quote": "Fugu is the Japanese blow-fish.",
       "quote_source": "第11章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "9月下旬"
+      "timeline_position": "9月下旬",
+      "fact_en": "In Beppu Bond tours the Ten Hells and eats a fugu dinner; the blowfish's liver and sexual organs are deadly poison, and the restaurant must be run by an expert and registered with the state."
     },
     {
       "canon_or_inference": "canon",
@@ -1218,7 +1431,8 @@
       "quote": "He is a Black Dragon.",
       "quote_source": "第12章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "9月下旬"
+      "timeline_position": "9月下旬",
+      "fact_en": "The Black Dragon agent tailing Tanaka and Bond is stabbed to death by a policeman on the way to Fukuoka; on him are Bond's stolen wallet and a diary recording Tanaka's movements, and his arm bears a black dragon tattoo."
     },
     {
       "canon_or_inference": "canon",
@@ -1229,7 +1443,8 @@
       "quote": "Ernst Stavro Blofeld. Irma Bunt.",
       "quote_source": "第12章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "9月下旬"
+      "timeline_position": "9月下旬",
+      "fact_en": "Seeing the passport photographs of Dr and Frau Shatterhand, Bond recognises them as Ernst Stavro Blofeld and Irma Bunt, and decides to hide the discovery so he can take his revenge himself."
     },
     {
       "canon_or_inference": "canon",
@@ -1240,7 +1455,8 @@
       "quote": "They christened her The Japanese Garbo.",
       "quote_source": "第12章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "9月下旬"
+      "timeline_position": "9月下旬",
+      "fact_en": "Kissy Suzuki is twenty-three; at seventeen she went to Hollywood to make a film about ama divers, hated Hollywood and came home to Kuro, where she is called the Japanese Garbo."
     },
     {
       "canon_or_inference": "canon",
@@ -1251,7 +1467,8 @@
       "quote": "My name is Taro Todoroki",
       "quote_source": "第13章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "10月"
+      "timeline_position": "10月",
+      "fact_en": "Bond lodges with the Suzuki family on Kuro Island as Taro Todoroki; the Shinto priest knows his mission and blesses it, and Bond rows the boat for Kissy in place of her rheumatic father."
     },
     {
       "canon_or_inference": "canon",
@@ -1262,7 +1479,8 @@
       "quote": "You only live twice.",
       "quote_source": "第13章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "10月"
+      "timeline_position": "10月",
+      "fact_en": "Tanaka gives Bond a suicide pill to take if he is captured; Bond refuses it and hands it back."
     },
     {
       "canon_or_inference": "canon",
@@ -1273,7 +1491,8 @@
       "quote": "I named him after the only man I liked in Hollywood",
       "quote_source": "第14章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "10月"
+      "timeline_position": "10月",
+      "fact_en": "Kissy keeps a cormorant called David, named after the actor David Niven, with a copper ring round its neck; it can bring up large fish in its beak."
     },
     {
       "canon_or_inference": "canon",
@@ -1284,7 +1503,8 @@
       "quote": "That is twenty-one. Very good.",
       "quote_source": "第14章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "10月"
+      "timeline_position": "10月",
+      "fact_en": "Bond and Kissy gather sixty-five abalone in a day's diving, ten of them Bond's, and Kissy can hold her breath for nearly a minute at a time."
     },
     {
       "canon_or_inference": "canon",
@@ -1295,7 +1515,8 @@
       "quote": "They are rather frightening to see.",
       "quote_source": "第15章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "10月"
+      "timeline_position": "10月",
+      "fact_en": "Six stone Jizo guardian statues stand on the shore of Kuro; the sixth has lost its head to the sea, and the islanders believe they will send a man from overseas to kill the King of Death."
     },
     {
       "canon_or_inference": "canon",
@@ -1306,7 +1527,8 @@
       "quote": "shiran-kao, which is the face of him who knows nothing",
       "quote_source": "第15章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "10月"
+      "timeline_position": "10月",
+      "fact_en": "Castle guards come to the island asking after the third passenger on the police launch; the islanders pretend to know nothing, and the priest claims the man was a fisheries licensing official."
     },
     {
       "canon_or_inference": "canon",
@@ -1317,7 +1539,8 @@
       "quote": "It took him twenty minutes to cover the two hundred feet",
       "quote_source": "第16章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "10月满月夜"
+      "timeline_position": "10月满月夜",
+      "fact_en": "Bond and Kissy swim half a mile across the strait at night, and Bond climbs the two-hundred-foot castle wall in twenty minutes, using only two pitons."
     },
     {
       "canon_or_inference": "canon",
@@ -1328,7 +1551,8 @@
       "quote": "Piranha! The South American fresh-water killer",
       "quote_source": "第16章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "10月满月夜"
+      "timeline_position": "10月满月夜",
+      "fact_en": "Bond watches one suicide, his face burned by poison plants, throw himself into the piranha lake and be torn apart by the fish, and another man in evening dress walk calmly into a fumarole to die."
     },
     {
       "canon_or_inference": "canon",
@@ -1339,7 +1563,8 @@
       "quote": "There is nothing, but remind me to reprimand Kono",
       "quote_source": "第17章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "10月"
+      "timeline_position": "10月",
+      "fact_en": "Guards throw a suicide who has changed his mind into the piranha lake for sport, and while Blofeld and his wife inspect the garden, Blofeld drives his sword through the pile of sacks where Bond is hiding, narrowly missing him."
     },
     {
       "canon_or_inference": "canon",
@@ -1350,7 +1575,8 @@
       "quote": "It is the concept that matters, liebe Irma.",
       "quote_source": "第17章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "10月"
+      "timeline_position": "10月",
+      "fact_en": "Blofeld and Irma speak German together, revealing his plan to demand huge compensation if the affair comes out and to rebuild his garden of death in Brazil or elsewhere, convinced that the garden is his stroke of genius."
     },
     {
       "canon_or_inference": "canon",
@@ -1361,7 +1587,8 @@
       "quote": "the traditional oubliette of ancient castles!",
       "quote_source": "第18章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "10月"
+      "timeline_position": "10月",
+      "fact_en": "Bond enters the castle through a low door, dodges a man-trap, but steps on a trapdoor in the corridor and falls into the oubliette, where the guards seize him and strip off his ninja suit."
     },
     {
       "canon_or_inference": "canon",
@@ -1372,7 +1599,8 @@
       "quote": "This is the English agent. This is the man Bond, James Bond",
       "quote_source": "第18章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "10月"
+      "timeline_position": "10月",
+      "fact_en": "Irma Bunt recognises the disguised Bond by the scar on his right cheek, naming him as James Bond, the man who once passed as Sir Hilary Bray."
     },
     {
       "canon_or_inference": "canon",
@@ -1383,7 +1611,8 @@
       "quote": "You have exactly eleven minutes before the next eruption.",
       "quote_source": "第19章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "10月深夜"
+      "timeline_position": "10月深夜",
+      "fact_en": "The Question Room is built over a geyser; Bond sits on a stone seat while the geyser erupts every fifteen minutes, its boiling mud able to burn a man's lower body away."
     },
     {
       "canon_or_inference": "canon",
@@ -1394,7 +1623,8 @@
       "quote": "It is indeed the same Britischer.",
       "quote_source": "第19章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "10月深夜"
+      "timeline_position": "10月深夜",
+      "fact_en": "Bond rises from his seat just before the next eruption, betraying that he understands English; Blofeld concludes he has come for revenge and has told no one Shatterhand's true identity."
     },
     {
       "canon_or_inference": "canon",
@@ -1405,7 +1635,8 @@
       "quote": "Die, Blofeld! Die!",
       "quote_source": "第20章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "10月午夜"
+      "timeline_position": "10月午夜",
+      "fact_en": "Bond knocks Irma Bunt out with his stave, fights Blofeld - staff against samurai sword - and finally strangles Blofeld with his bare hands."
     },
     {
       "canon_or_inference": "canon",
@@ -1416,7 +1647,8 @@
       "quote": "I have come to suffer from a certain lassitude of mind",
       "quote_source": "第20章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "10月午夜"
+      "timeline_position": "10月午夜",
+      "fact_en": "Before he dies, Blofeld defends himself, calling the Thunderball blackmail, the germ-warfare plot and the Castle of Death acts of genius and public service, and admitting he suffers from a lassitude of mind."
     },
     {
       "canon_or_inference": "canon",
@@ -1427,7 +1659,8 @@
       "quote": "a huge jet of orange fire shot up from hell towards the moon",
       "quote_source": "第20章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "10月午夜"
+      "timeline_position": "10月午夜",
+      "fact_en": "Bond shuts the geyser valve and the castle explodes; he escapes by clinging to the mooring rope of a helium balloon, is shot as he rises, and falls into the sea."
     },
     {
       "canon_or_inference": "canon",
@@ -1438,7 +1671,8 @@
       "quote": "James Bond was born of a Scottish father, Andrew Bond of Glencoe",
       "quote_source": "第21章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "讣告"
+      "timeline_position": "讣告",
+      "fact_en": "In the obituary M writes that Bond was born to Andrew Bond of Glencoe in Scotland and Monique Delacroix of Switzerland, lost both parents in a climbing accident at Chamonix when he was eleven, was raised by his aunt Charmian, left Eton for Fettes, joined up in 1941 claiming to be nineteen, and was awarded the CMG in 1954."
     },
     {
       "canon_or_inference": "canon",
@@ -1449,7 +1683,8 @@
       "quote": "the mission proved one hundred per cent successful.",
       "quote_source": "第21章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "讣告"
+      "timeline_position": "讣告",
+      "fact_en": "M announces Bond missing and presumed dead, but declares his Japanese mission one hundred per cent successful and a great safeguard of the realm's security."
     },
     {
       "canon_or_inference": "canon",
@@ -1460,7 +1695,8 @@
       "quote": "James Bond was briefly married in 1962, to Teresa",
       "quote_source": "第21章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "讣告"
+      "timeline_position": "讣告",
+      "fact_en": "The obituary records that Bond was briefly married in 1962 to Teresa, the only child of Marc-Ange Draco of Marseilles, that the marriage had no children, and that Bond leaves no living relatives."
     },
     {
       "canon_or_inference": "canon",
@@ -1471,7 +1707,8 @@
       "quote": "Nothing except a man's face. I think he was dead.",
       "quote_source": "第22章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "10月"
+      "timeline_position": "10月",
+      "fact_en": "Kissy, waiting below the castle wall, rescues Bond from the sea; a head injury has left him with amnesia, and all he remembers is the face of a dead man."
     },
     {
       "canon_or_inference": "canon",
@@ -1482,7 +1719,8 @@
       "quote": "It may be months, even years before he regains his memory.",
       "quote_source": "第22章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "10月"
+      "timeline_position": "10月",
+      "fact_en": "The doctor of Kuro diagnoses damage to the temporal lobe, the seat of memory, and warns that the amnesia may last for months, even years, and that Bond must be constantly reminded of things from his past."
     },
     {
       "canon_or_inference": "canon",
@@ -1493,7 +1731,8 @@
       "quote": "You are my lover. Your name is Taro Todoroki.",
       "quote_source": "第22章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "10月至次年春"
+      "timeline_position": "10月至次年春",
+      "fact_en": "Kissy claims Bond is the fisherman Taro Todoroki, her lover; the priest lets the whole island pretend to searchers that they know nothing, and Tanaka and Dikko search Kuro repeatedly without finding him."
     },
     {
       "canon_or_inference": "canon",
@@ -1504,7 +1743,8 @@
       "quote": "The spawn of the devil is dead. So is his wife.",
       "quote_source": "第22章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "10月"
+      "timeline_position": "10月",
+      "fact_en": "The priest tells Kissy that the spawn of the devil is dead, his wife with him, and the Castle of Death utterly destroyed, and that the prophecy of the man from overseas has been fulfilled."
     },
     {
       "canon_or_inference": "canon",
@@ -1515,7 +1755,8 @@
       "quote": "Kissy, take off your clothes and lie down there.",
       "quote_source": "第22章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "冬季"
+      "timeline_position": "冬季",
+      "fact_en": "Kissy spends 5,000 yen in a Fukuoka sex shop on toad sweat and dried lizard powder, mixes them into Bond's sukiyaki, and uses a book of pillow pictures to awaken his sexual appetite."
     },
     {
       "canon_or_inference": "canon",
@@ -1526,7 +1767,8 @@
       "quote": "she was going to have a baby",
       "quote_source": "第22章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "次年春"
+      "timeline_position": "次年春",
+      "fact_en": "Kissy is pregnant, and wonders when to tell Bond that she is going to have a baby and whether he will ask her to marry him."
     },
     {
       "canon_or_inference": "canon",
@@ -1537,7 +1779,8 @@
       "quote": "Kissy, what is this word Vladivostok?",
       "quote_source": "第22章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "次年春"
+      "timeline_position": "次年春",
+      "fact_en": "Seeing the word Vladivostok on a scrap of toilet paper, Bond's memory stirs; he decides to travel by way of Hokkaido to Sakhalin and on to Vladivostok to recover his past, and Kissy sees him off the island."
     },
     {
       "canon_or_inference": "canon",
@@ -1548,7 +1791,8 @@
       "quote": "he didn't know that his name was James Bond.",
       "quote_source": "第22章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "次年春"
+      "timeline_position": "次年春",
+      "fact_en": "The novel ends with Bond not knowing that his name is James Bond, his life on Kuro already as little to him as sparrows' tears beside the blazing significance of that single Russian word."
     },
     {
       "canon_or_inference": "canon",
@@ -1559,7 +1803,8 @@
       "quote": "Mr Tanaka had been born in the year of the Tiger",
       "quote_source": "第6章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "9月下旬"
+      "timeline_position": "9月下旬",
+      "fact_en": "Tiger Tanaka was born in the Year of the Tiger, and Bond in the Year of the Rat, which Tanaka uses to tease him."
     },
     {
       "canon_or_inference": "canon",
@@ -1570,7 +1815,8 @@
       "quote": "So you are Bondo-san.",
       "quote_source": "第6章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "9月"
+      "timeline_position": "9月",
+      "fact_en": "Tanaka calls Bond Bondo-san, because James is hard to pronounce in Japanese and Mister Bond would be confused with the word for a priest."
     },
     {
       "canon_or_inference": "canon",
@@ -1581,7 +1827,8 @@
       "quote": "His wallet was gone.",
       "quote_source": "第9章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "9月下旬"
+      "timeline_position": "9月下旬",
+      "fact_en": "On the train a man in a mask and a black leather cap steals Bond's wallet, which holds 5,000 yen; it is later recovered from the Black Dragon agent, intact to the last yen."
     },
     {
       "canon_or_inference": "canon",
@@ -1592,7 +1839,8 @@
       "quote": "That spy we put through the Question Room.",
       "quote_source": "第17章",
       "source_novel": "you-only-live-twice",
-      "timeline_position": "10月"
+      "timeline_position": "10月",
+      "fact_en": "Tanaka's agent sent to the Castle of Death had been tortured in the Question Room by Blofeld; when his body was found on the shore it was almost intact, and Blofeld thought it should have been thrown into the piranha lake."
     }
   ],
   "locations": [
@@ -1602,7 +1850,8 @@
       "id": "tokyo",
       "name_en": "Tokyo",
       "name_zh": "东京",
-      "role": "邦德抵达日本后的活动中心，田中办公室与银座酒吧所在地"
+      "role": "邦德抵达日本后的活动中心，田中办公室与银座酒吧所在地",
+      "description_en": "The centre of Bond's activity in Japan, where Tanaka's office and the Ginza bars are."
     },
     {
       "country": "日本",
@@ -1610,7 +1859,8 @@
       "id": "bureau-folkways",
       "name_en": "Bureau of All-Asian Folkways",
       "name_zh": "全亚细亚民俗局",
-      "role": "田中秘密情报机构的地面掩护，下方是废弃地铁站改建的办公室"
+      "role": "田中秘密情报机构的地面掩护，下方是废弃地铁站改建的办公室",
+      "description_en": "The street-level front for Tanaka's secret intelligence service; below it lies the office built in a disused underground station."
     },
     {
       "country": "日本",
@@ -1618,7 +1868,8 @@
       "id": "yokohama-tiger-house",
       "name_en": "Tiger Tanaka's house",
       "name_zh": "田中虎宅",
-      "role": "田中向邦德讲述死亡收集者并提出交易的地点"
+      "role": "田中向邦德讲述死亡收集者并提出交易的地点",
+      "description_en": "The house in Yokohama where Tanaka tells Bond about the collector of death and proposes the bargain."
     },
     {
       "country": "日本",
@@ -1626,7 +1877,8 @@
       "id": "kuro-island",
       "name_en": "Kuro Island",
       "name_zh": "黑岛",
-      "role": "阿妈族渔村所在地，邦德藏身与失忆后生活的地方，距死亡城堡半英里"
+      "role": "阿妈族渔村所在地，邦德藏身与失忆后生活的地方，距死亡城堡半英里",
+      "description_en": "An ama fishing village, where Bond hides and later lives after losing his memory, half a mile from the Castle of Death."
     },
     {
       "country": "日本",
@@ -1634,7 +1886,8 @@
       "id": "castle-of-death",
       "name_en": "Castle of Death",
       "name_zh": "死亡城堡",
-      "role": "布洛菲尔德的毒花园与城堡，邦德潜入、决战并炸毁之地"
+      "role": "布洛菲尔德的毒花园与城堡，邦德潜入、决战并炸毁之地",
+      "description_en": "Blofeld's poison garden and castle, which Bond enters, fights in and destroys."
     },
     {
       "country": "日本",
@@ -1642,7 +1895,8 @@
       "id": "fukuoka",
       "name_en": "Fukuoka",
       "name_zh": "福冈",
-      "role": "九州首府，安藤警视驻地，邦德出发去黑岛的起点"
+      "role": "九州首府，安藤警视驻地，邦德出发去黑岛的起点",
+      "description_en": "The capital of Kyushu and Superintendent Ando's base, from which Bond sets out for Kuro Island."
     },
     {
       "country": "日本",
@@ -1650,7 +1904,8 @@
       "id": "beppu",
       "name_en": "Beppu",
       "name_zh": "别府",
-      "role": "邦德与田中参观十大地狱并吃河豚宴的温泉镇"
+      "role": "邦德与田中参观十大地狱并吃河豚宴的温泉镇",
+      "description_en": "The hot-spring town where Bond and Tanaka tour the Ten Hells and eat a fugu dinner."
     },
     {
       "country": "日本",
@@ -1658,7 +1913,8 @@
       "id": "kyoto",
       "name_en": "Kyoto",
       "name_zh": "京都",
-      "role": "邦德与田中参观伊势神宫、神户牛肉产地与最古老妓院的中途站"
+      "role": "邦德与田中参观伊势神宫、神户牛肉产地与最古老妓院的中途站",
+      "description_en": "A staging post on the tour that takes in the shrine of Ise, Kobe beef and Japan's oldest brothel."
     },
     {
       "country": "日本",
@@ -1666,7 +1922,8 @@
       "id": "toba",
       "name_en": "Toba",
       "name_zh": "鸟羽",
-      "role": "邦德与田中乘水翼船抵达的渔港，珍珠大王御木本的故乡"
+      "role": "邦德与田中乘水翼船抵达的渔港，珍珠大王御木本的故乡",
+      "description_en": "The fishing port reached by hydrofoil, home of the pearl king Mikimoto."
     },
     {
       "country": "英国",
@@ -1674,7 +1931,8 @@
       "id": "london",
       "name_en": "London",
       "name_zh": "伦敦",
-      "role": "邦德的基地，M办公室与布莱兹俱乐部所在地，讣告发表地"
+      "role": "邦德的基地，M办公室与布莱兹俱乐部所在地，讣告发表地",
+      "description_en": "Bond's base, home of M's office and Blades club, and where the obituary is published."
     },
     {
       "country": "日本",
@@ -1682,7 +1940,8 @@
       "id": "ise-shrine",
       "name_en": "Outer Shrine of Ise",
       "name_zh": "伊势外宫",
-      "role": "田中考验邦德化装是否过关的神道神社"
+      "role": "田中考验邦德化装是否过关的神道神社",
+      "description_en": "The Shinto shrine where Tanaka tests whether Bond's disguise will pass."
     }
   ],
   "mission": {
@@ -1704,109 +1963,146 @@
       "id": "spectre",
       "name_en": "SPECTRE",
       "name_zh": "幽灵党",
-      "role": "布洛菲尔德创立的组织，全称反情报、恐怖主义、报复与勒索特别机构，本部中只在邦德回忆中提及，布洛菲尔德已脱离组织单干"
+      "role": "布洛菲尔德创立的组织，全称反情报、恐怖主义、报复与勒索特别机构，本部中只在邦德回忆中提及，布洛菲尔德已脱离组织单干",
+      "description_en": "The organisation founded by Blofeld, its full name the Special Executive for Counter-intelligence, Terrorism, Revenge and Extortion; in this novel it is mentioned only in Bond's memories, and Blofeld has left it to work alone."
     },
     {
       "first_chapter": 5,
       "id": "koan-chosa-kyoku",
       "name_en": "Koan-Chosa-Kyoku",
       "name_zh": "公安调查局",
-      "role": "田中虎领导的日本秘密情报机构，掌控MAGIC44并负责对付死亡城堡"
+      "role": "田中虎领导的日本秘密情报机构，掌控MAGIC44并负责对付死亡城堡",
+      "description_en": "The Japanese secret intelligence service led by Tiger Tanaka, which controls MAGIC 44 and is charged with dealing with the Castle of Death."
     },
     {
       "first_chapter": 3,
       "id": "cia",
       "name_en": "CIA",
       "name_zh": "美国中央情报局",
-      "role": "日本情报的实际控制方，不许田中把MAGIC44转交给英国，邦德的行动须瞒着它"
+      "role": "日本情报的实际控制方，不许田中把MAGIC44转交给英国，邦德的行动须瞒着它",
+      "description_en": "The real power behind Japanese intelligence; it forbids Tanaka to hand MAGIC 44 to Britain, and Bond's approach must be kept from it."
     },
     {
       "first_chapter": 2,
       "id": "british-secret-service",
       "name_en": "British Secret Service",
       "name_zh": "英国秘密情报局",
-      "role": "邦德所属机构，以国防部为掩护，M为首脑"
+      "role": "邦德所属机构，以国防部为掩护，M为首脑",
+      "description_en": "The service Bond belongs to, fronted by the Ministry of Defence, with M at its head."
     },
     {
       "first_chapter": 4,
       "id": "australian-intelligence",
       "name_en": "Australian Intelligence",
       "name_zh": "澳大利亚情报机构",
-      "role": "迪科·亨德森领导的驻东京机构，为邦德提供外交掩护与通讯渠道"
+      "role": "迪科·亨德森领导的驻东京机构，为邦德提供外交掩护与通讯渠道",
+      "description_en": "The Tokyo station led by Dikko Henderson, which gives Bond his diplomatic cover and his channel of communication."
     },
     {
       "first_chapter": 7,
       "id": "black-dragon-society",
       "name_en": "Black Dragon Society",
       "name_zh": "黑龙会",
-      "role": "战前已解散的日本极端秘密会社，其余党约20人受雇为死亡城堡守卫，并派特工跟踪田中"
+      "role": "战前已解散的日本极端秘密会社，其余党约20人受雇为死亡城堡守卫，并派特工跟踪田中",
+      "description_en": "A pre-war Japanese extremist secret society, officially disbanded; about twenty of its remaining members are hired as guards for the Castle of Death, and it sends an agent to tail Tanaka."
     }
   ],
   "vehicles": [
     {
       "name_en": "JAL Douglas DC-8 Yoshino",
       "name_zh": "日本航空道格拉斯DC-8芳野号",
-      "note": "邦德由伦敦经北极航线飞往东京的班机，中途停安克雷奇"
+      "note": "邦德由伦敦经北极航线飞往东京的班机，中途停安克雷奇",
+      "description_en": "The flight Bond takes from London to Tokyo by the polar route, stopping at Anchorage."
     },
     {
       "name_en": "Toyopet saloon",
       "name_zh": "丰田皇冠轿车",
-      "note": "迪科在羽田机场接邦德的汽车"
+      "note": "迪科在羽田机场接邦德的汽车",
+      "description_en": "The car in which Dikko meets Bond at Haneda Airport."
     },
     {
       "name_en": "Express train and hydrofoil",
       "name_zh": "特快列车与水翼船",
-      "note": "邦德与田中乘特快去蒲郡，再乘水翼船过伊势湾到鸟羽"
+      "note": "邦德与田中乘特快去蒲郡，再乘水翼船过伊势湾到鸟羽",
+      "description_en": "Bond and Tanaka take an express train to Gamagori, then a hydrofoil across Ise Bay to Toba."
     },
     {
       "name_en": "Murasaki Maru",
       "name_zh": "紫丸号",
-      "note": "横渡濑户内海去九州的3000吨客轮"
+      "note": "横渡濑户内海去九州的3000吨客轮",
+      "description_en": "The 3,000-ton steamer that carries them across the Inland Sea to Kyushu."
     },
     {
       "name_en": "Police launch",
       "name_zh": "警察快艇",
-      "note": "送邦德与田中去黑岛的快艇"
+      "note": "送邦德与田中去黑岛的快艇",
+      "description_en": "The launch that carries Bond and Tanaka to Kuro Island."
     },
     {
       "name_en": "Honda 500cc motorcycle",
       "name_zh": "本田500cc摩托车",
-      "note": "黑龙会特工跟踪用的摩托车"
+      "note": "黑龙会特工跟踪用的摩托车",
+      "description_en": "The motorcycle used by the Black Dragon agent to tail them."
     },
     {
       "name_en": "Mailboat",
       "name_zh": "邮船",
-      "note": "黑岛每周往返福冈的邮船，喜悦子乘此船去福冈购物，邦德最后乘此船离岛"
+      "note": "黑岛每周往返福冈的邮船，喜悦子乘此船去福冈购物，邦德最后乘此船离岛",
+      "description_en": "The weekly mailboat between Kuro and Fukuoka; Kissy takes it to shop in Fukuoka, and Bond takes it when he leaves the island at last."
     }
   ],
   "canon_vs_inference": [
     {
       "topic": "艾玛·布朗特之死",
       "status": "canon",
-      "note": "神父向喜悦子转述布洛菲尔德夫妇皆死、死亡城堡被彻底摧毁，属原文中人物转述的事实；艾玛·布朗特本人最后一次直接出场时只是被邦德用长棍击昏、仍在呼吸，爆炸中如何死亡原文未写明细节"
+      "note": "神父向喜悦子转述布洛菲尔德夫妇皆死、死亡城堡被彻底摧毁，属原文中人物转述的事实；艾玛·布朗特本人最后一次直接出场时只是被邦德用长棍击昏、仍在呼吸，爆炸中如何死亡原文未写明细节",
+      "topic_en": "The Death of Irma Bunt",
+      "note_en": "The priest tells Kissy that Blofeld and his wife are both dead and the Castle of Death utterly destroyed, which is fact as reported by a character in the novel; when Irma Bunt is last seen directly, Bond has only knocked her out with his stave and she is still breathing, and the novel never spells out how she dies in the explosion."
     },
     {
       "topic": "喜悦子怀孕",
       "status": "canon",
-      "note": "邦德失忆后喜悦子怀孕，原文只写她盘算何时告诉邦德她要生孩子，未写孩子是否出生、性别或后续"
+      "note": "邦德失忆后喜悦子怀孕，原文只写她盘算何时告诉邦德她要生孩子，未写孩子是否出生、性别或后续",
+      "topic_en": "Kissy's Pregnancy",
+      "note_en": "After Bond loses his memory, Kissy becomes pregnant; the novel only says she wonders when to tell Bond she is going to have a baby, and never says whether the child is born, its sex, or what follows."
     },
     {
       "topic": "故事年份",
       "status": "inference",
-      "note": "故事年份原文未直接写明，8月31日、9月20日核试验、10月潜水等月份日期出自原文，年份按出版年1964年与前作时间线推断为1963年秋至1964年春，标为推断"
+      "note": "故事年份原文未直接写明，8月31日、9月20日核试验、10月潜水等月份日期出自原文，年份按出版年1964年与前作时间线推断为1963年秋至1964年春，标为推断",
+      "topic_en": "The Year of the Story",
+      "note_en": "The novel never states the year outright; the dates of 31 August, the 20 September test and the October diving come from the text, and the year is inferred as autumn 1963 to spring 1964 from the publication year 1964 and the timeline of the preceding novels, and is marked as inference."
     },
     {
       "topic": "城堡爆炸原因",
       "status": "inference",
-      "note": "邦德关闭间歇泉阀门后城堡爆炸，原文只写邦德关阀后逃离、随后城堡逐层崩塌并喷出巨大火柱，关阀与爆炸的因果为邦德行动与叙事顺序所支持的推断"
+      "note": "邦德关闭间歇泉阀门后城堡爆炸，原文只写邦德关阀后逃离、随后城堡逐层崩塌并喷出巨大火柱，关阀与爆炸的因果为邦德行动与叙事顺序所支持的推断",
+      "topic_en": "The Cause of the Castle Explosion",
+      "note_en": "Bond shuts the geyser valve and the castle then explodes; the novel only says that after he shuts the valve and flees, the castle collapses floor by floor and a great column of fire shoots up, so the causal link between shutting the valve and the explosion is an inference supported by Bond's action and the order of events."
     },
     {
       "topic": "MAGIC44是否最终移交",
       "status": "inference",
-      "note": "田中虎与M之间关于MAGIC44的最终交易是否兑现，原文讣告只写任务百分之百成功、王国安全得到巨大保证，未写日本是否正式移交MAGIC44全部内容"
+      "note": "田中虎与M之间关于MAGIC44的最终交易是否兑现，原文讣告只写任务百分之百成功、王国安全得到巨大保证，未写日本是否正式移交MAGIC44全部内容",
+      "topic_en": "Whether MAGIC 44 Was Finally Handed Over",
+      "note_en": "Whether the final bargain over MAGIC 44 between Tanaka and M was ever honoured is not stated in the novel; the obituary only says the mission was one hundred per cent successful and the security of the realm greatly assured, without saying whether Japan formally handed over the whole of MAGIC 44."
     }
   ],
   "adaptation_differences": [
     "本部未核对电影差异"
-  ]
+  ],
+  "synopsis_en": "Eight months after the murder of his wife Tracy, James Bond is falling apart - drinking, gambling and making mistakes - and M is ready to pension him off. The neurologist Sir James Molony persuades M to give him one last chance: an apparently impossible mission in Japan. Bond must persuade Tiger Tanaka, head of the Japanese secret service, to hand over MAGIC 44, the product of Japan's decryption of Soviet traffic from Vladivostok, which the CIA forbids Tanaka to share with Britain. A sample decrypt reveals a Soviet 200-megaton weapon to be tested on 20 September, and Bond's memorised report of it helps the West blunt a Soviet blackmail attempt. But Tanaka's price for the full MAGIC 44 is murder: Bond must enter the Castle of Death on Kyushu and kill its master, Dr Guntram Shatterhand, a Swiss botanist who collects death and whose poison garden has already drawn more than five hundred suicides. Disguised as a deaf-mute Japanese coalminer, Bond trains his way across Japan to the island of Kuro, where he lodges with the ama diver Kissy Suzuki. On a moonlit night he swims to the castle, is captured, and recognises Shatterhand as his wife's murderer, Ernst Stavro Blofeld, with Irma Bunt at his side. Bond strangles Blofeld with his bare hands and destroys the castle, but falls into the sea and is presumed dead. M publishes his obituary, while Kissy, who has pulled the amnesiac Bond from the water, hides him on Kuro as the fisherman Taro Todoroki. Pregnant with his child, she watches him sail away the following spring when the word Vladivostok stirs his lost memory - the novel ending before he learns that his name is James Bond.",
+  "mission_en": {
+    "objective_en": "To obtain MAGIC 44, the Japanese decryption of Soviet traffic, from Tiger Tanaka, head of the Japanese secret service, without the CIA learning of it.",
+    "investigation_en": "Bond arrives in Tokyo under Australian diplomatic cover, meets Henderson, then Tanaka, who shows him a sample MAGIC 44 decrypt that Bond memorises and sends to London; a month later Tanaka offers MAGIC 44 in exchange for an assassination, and Bond, disguised as a Japanese fisherman-labourer, trains his way through Toba, Kyoto and Beppu to Fukuoka, recognises Shatterhand as Blofeld, lodges on Kuro Island and, on a moonlit night, swims across the strait to enter the castle.",
+    "key_clues_en": [
+      "The sample MAGIC 44 decrypt: a 200-megaton weapon to be tested at Novaya Zemlya on 20 September.",
+      "Japan has already penetrated the Macao Blue Route, so Bond has nothing to trade.",
+      "Dr Shatterhand and his wife entered Japan in January; more than five hundred people have come to the garden of death to kill themselves in six months.",
+      "Tanaka's agent sent to the castle was tortured to death, dying with a haiku about dragonflies on his lips.",
+      "Passport photographs reveal Shatterhand as Blofeld and his wife as Irma Bunt.",
+      "The six stone Jizo guardians prophesy that a man from overseas will kill the King of Death."
+    ],
+    "outcome_en": "Bond memorised the sample MAGIC 44 decrypt and sent it to London, where the Western response postponed the Soviet blackmail; he entered the Castle of Death, strangled Blofeld with his bare hands and the castle exploded, but Bond fell into the sea an amnesiac and London presumed him dead, M declaring the mission one hundred per cent successful in his obituary."
+  }
 }

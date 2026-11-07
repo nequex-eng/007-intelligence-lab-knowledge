@@ -16,144 +16,168 @@
     "method": "按章节sed分段读"
   },
   "story_timeline": "故事内时间约1954年1月初至2月。1月初伦敦大雾，邦德在总部接受M面谈，接手金币案；约两周后乘BOAC客机抵达纽约，在St Regis酒店与费利克斯·莱特及FBI的Dexter会合；当晚夜访哈莱姆，在Boneyard夜总会被Mr Big俘获，手指被折断，莱特遭殴打后被弃于Bellevue医院外；次日晨乘Silver Phantom号列车南下，途中在Jacksonville下车换乘Silver Meteor，抵达佛罗里达St Petersburg；当晚索利泰尔被绑架，次日清晨莱特在Ourobouros仓库遭鲨鱼袭击重伤；邦德当夜潜入仓库复仇，杀死The Robber，随后飞往牙买加；在Manatee Bay训练一周；2月某夜潜水至惊奇岛，在Secatur号龙骨安装水雷，次日清晨约6时水雷爆炸，Secatur号沉没，Mr Big葬身鲨口；邦德与索利泰尔获救，M来电批准两周假期。",
+  "story_timeline_en": "The story runs from early January to February 1954. In early January, in thick London fog, Bond is briefed by M at headquarters and takes on the gold-coin case; about two weeks later he flies by BOAC to New York, meeting Felix Leiter and the FBI's Dexter at the St Regis Hotel. That night he visits Harlem and is captured by Mr Big in the Boneyard nightclub, his finger broken and Leiter beaten and dumped outside Bellevue Hospital. The next morning he travels south on the Silver Phantom, gets off at Jacksonville and changes to the Silver Meteor, reaching St Petersburg, Florida. That night Solitaire is kidnapped; early the next morning Leiter is attacked by a shark in the Ourobouros warehouse and gravely injured. Bond breaks into the warehouse that night for revenge, kills The Robber, then flies to Jamaica. After a week of training at Manatee Bay, he swims at night to the Isle of Surprise and fixes a limpet mine to the Secatur's keel; at about 6 a.m. the next morning the mine explodes, the Secatur sinks, Mr Big dies in the jaws of sharks, and Bond and Solitaire are rescued, with M cabling approval for two weeks' leave.",
   "chapters": [
     {
       "no": "I",
       "title": "THE RED CARPET",
       "start_line": 1,
-      "summary": "1月，邦德乘BOAC客机抵达纽约Idlewild机场，获美方礼遇：Halloran接机并交给邦德1000美元共产党资金；在St Regis酒店外瞥见黑人女司机驾驶的轿车后座有一张巨大灰黑面孔；入住2100号房，与CIA联络员费利克斯·莱特重逢，FBI的Dexter队长说明分工：美国境内归FBI，牙买加归邦德。"
+      "summary": "1月，邦德乘BOAC客机抵达纽约Idlewild机场，获美方礼遇：Halloran接机并交给邦德1000美元共产党资金；在St Regis酒店外瞥见黑人女司机驾驶的轿车后座有一张巨大灰黑面孔；入住2100号房，与CIA联络员费利克斯·莱特重逢，FBI的Dexter队长说明分工：美国境内归FBI，牙买加归邦德。",
+      "summary_en": "Bond flies into New York's Idlewild Airport aboard a BOAC Stratocruiser and is given VIP treatment: Halloran meets him and hands over a thousand dollars of seized Communist funds. Outside the St Regis Hotel he glimpses a huge grey-black face in the back of a black Chevrolet driven by a black woman chauffeur; in Room 2100 he is reunited with Felix Leiter of the CIA, and Captain Dexter of the FBI explains the division of labour - the FBI takes America, Bond takes Jamaica."
     },
     {
       "no": "II",
       "title": "INTERVIEW WITH M",
       "start_line": 72,
-      "summary": "倒叙两周前伦敦：M向邦德展示一批1650年前铸造的古金币，包括爱德华四世玫瑰金币，鉴定为海盗血腥摩根的宝藏；近几个月美国已出现近千枚；典型案例为哈莱姆搬运工Zachary Smith售币；M指出宝藏在牙买加，柴油游艇Secatur号往返牙买加与佛罗里达St Petersburg，船主为哈莱姆黑帮头目Mr Big，此人是SMERSH成员、苏联特工、黑寡妇伏都教首领，被信徒视为Baron Samedi本人。"
+      "summary": "倒叙两周前伦敦：M向邦德展示一批1650年前铸造的古金币，包括爱德华四世玫瑰金币，鉴定为海盗血腥摩根的宝藏；近几个月美国已出现近千枚；典型案例为哈莱姆搬运工Zachary Smith售币；M指出宝藏在牙买加，柴油游艇Secatur号往返牙买加与佛罗里达St Petersburg，船主为哈莱姆黑帮头目Mr Big，此人是SMERSH成员、苏联特工、黑寡妇伏都教首领，被信徒视为Baron Samedi本人。",
+      "summary_en": "Flashback to London two weeks earlier: in a fog-bound interview M shows Bond gold coins minted before 1650, including a Rose Noble of Edward IV, identified by Spink's and the British Museum as part of the pirate Henry Morgan's treasure. Nearly a thousand such coins have surfaced in America, typically through Harlem porters such as Zachary Smith; M traces the treasure to Jamaica and the diesel yacht Secatur, owned by the Harlem gangster Mr Big - a SMERSH man, a Soviet agent and head of the Black Widow voodoo cult, believed by his followers to be Baron Samedi himself."
     },
     {
       "no": "III",
       "title": "A VISITING-CARD",
       "start_line": 130,
-      "summary": "邦德晨起回顾Mr Big档案：真名Buonaparte Ignace Gallia，45岁，生于海地，黑白混血，曾为OSS在马赛工作，失踪五年疑赴莫斯科，1950年回哈莱姆；1951年一名苏联双面特工在地铁站被推下站台身亡，Mr Big在场；邦德接受FBI改装，保留Beretta .25手枪，化名波士顿人；早餐时收到定时炸弹包裹：闹钟炸弹仅为警告，内附纸条称邦德的心跳已被计数，落款1234567…？"
+      "summary": "邦德晨起回顾Mr Big档案：真名Buonaparte Ignace Gallia，45岁，生于海地，黑白混血，曾为OSS在马赛工作，失踪五年疑赴莫斯科，1950年回哈莱姆；1951年一名苏联双面特工在地铁站被推下站台身亡，Mr Big在场；邦德接受FBI改装，保留Beretta .25手枪，化名波士顿人；早餐时收到定时炸弹包裹：闹钟炸弹仅为警告，内附纸条称邦德的心跳已被计数，落款1234567…？",
+      "summary_en": "Bond reviews Mr Big's file over breakfast: real name Buonaparte Ignace Gallia, forty-five, born in Haiti of mixed race, once an OSS agent in Marseilles, missing for five years - probably in Moscow - and back in Harlem since 1950; in 1951 a Soviet double agent was pushed under a subway train with Mr Big on the platform. The FBI re-dresses Bond as a Bostonian and lets him keep his Beretta .25; a parcel arrives containing an alarm-clock bomb - a warning only - with a note saying his heartbeats have been counted, signed '1234567...?'"
     },
     {
       "no": "IV",
       "title": "THE BIG SWITCHBOARD",
       "start_line": 210,
-      "summary": "邦德与莱特、Dexter在警察总部查阅档案：Secatur号停靠Ourobouros Worm and Bait Shippers Inc.码头，船员以伏都密语Language无线电联络；每周约有100枚金币在哈莱姆出现；Dexter定下分工：他负责哈莱姆，邦德与莱特次日去St Petersburg；Dexter称政策是live and let live，邦德回以live and let die；当晚Mr Big通过接线员The Whisper下令全城监视三人。"
+      "summary": "邦德与莱特、Dexter在警察总部查阅档案：Secatur号停靠Ourobouros Worm and Bait Shippers Inc.码头，船员以伏都密语Language无线电联络；每周约有100枚金币在哈莱姆出现；Dexter定下分工：他负责哈莱姆，邦德与莱特次日去St Petersburg；Dexter称政策是live and let live，邦德回以live and let die；当晚Mr Big通过接线员The Whisper下令全城监视三人。",
+      "summary_en": "At police headquarters Bond, Leiter and Dexter study the files: the Secatur docks at the Ourobouros Worm and Bait Shippers' wharf in St Petersburg, Florida, and radios in 'Language', the secret voodoo tongue; about a hundred gold coins a week surface in Harlem and New York. Dexter divides the work - he takes Harlem, Bond and Leiter go to St Petersburg - and states the policy as 'live and let live'; Bond answers that his motto is 'live and let die'. That evening Mr Big orders The Whisper, the Harlem switchboard operator, to put every 'Eye' on the three men."
     },
     {
       "no": "V",
       "title": "NIGGER HEAVEN",
       "start_line": 282,
-      "summary": "邦德与莱特夜访哈莱姆：Sugar Ray's酒吧、Ma Frazier's餐馆、Savoy Ballroom舞厅；处处有人向The Whisper汇报行踪；莱特花20美元打听到Mr Big当晚在Boneyard夜总会，表演者为G-G Sumatra；Mr Big下令把两人安排到Z号桌，并通知手下准备行动。"
+      "summary": "邦德与莱特夜访哈莱姆：Sugar Ray's酒吧、Ma Frazier's餐馆、Savoy Ballroom舞厅；处处有人向The Whisper汇报行踪；莱特花20美元打听到Mr Big当晚在Boneyard夜总会，表演者为G-G Sumatra；Mr Big下令把两人安排到Z号桌，并通知手下准备行动。",
+      "summary_en": "Bond and Leiter spend the evening in Harlem - Sugar Ray's bar, Ma Frazier's restaurant and the Savoy Ballroom - watched at every step by Mr Big's informers reporting to The Whisper. Leiter pays twenty dollars to learn that Mr Big will be at the Boneyard nightclub that night to see the dancer G-G Sumatra; Mr Big orders the pair given Table Z and his men briefed."
     },
     {
       "no": "VI",
       "title": "TABLE Z",
       "start_line": 369,
-      "summary": "Boneyard夜总会，G-G Sumatra表演脱衣舞至灯光熄灭时，Z号桌连人带桌经液压升降机沉入地下密室；邦德与莱特被缴械，Tee-Hee取走邦德的Beretta手枪，邦德被单独带去见Mr Big，莱特被留下。"
+      "summary": "Boneyard夜总会，G-G Sumatra表演脱衣舞至灯光熄灭时，Z号桌连人带桌经液压升降机沉入地下密室；邦德与莱特被缴械，Tee-Hee取走邦德的Beretta手枪，邦德被单独带去见Mr Big，莱特被留下。",
+      "summary_en": "At the Boneyard, as G-G Sumatra's striptease ends with the lights out, Table Z sinks with its occupants on a hydraulic lift into a cellar below. Bond and Leiter are disarmed - Tee-Hee takes Bond's Beretta - and Bond is taken upstairs alone to meet Mr Big while Leiter is held below."
     },
     {
       "no": "VII",
       "title": "MISTER BIG",
       "start_line": 453,
-      "summary": "邦德面见Mr Big：身高六英尺半、体重20石、灰黑皮肤、金色眼睛，书桌抽屉装有口径0.45厘米暗枪，桌上有Baron Samedi人偶；Mr Big以伏都女索利泰尔为测谎者，用扑克牌占卜验出邦德关于金币的说辞为真；索利泰尔出身海地歌舞厅，以心灵感应表演闻名，Mr Big打算娶她。"
+      "summary": "邦德面见Mr Big：身高六英尺半、体重20石、灰黑皮肤、金色眼睛，书桌抽屉装有口径0.45厘米暗枪，桌上有Baron Samedi人偶；Mr Big以伏都女索利泰尔为测谎者，用扑克牌占卜验出邦德关于金币的说辞为真；索利泰尔出身海地歌舞厅，以心灵感应表演闻名，Mr Big打算娶她。",
+      "summary_en": "Bond faces Mr Big: six and a half feet tall, twenty stone, grey-black skin, golden eyes, with a .45-centimetre gun hidden in his desk drawer and a Baron Samedi effigy at his elbow. Mr Big uses Solitaire, his captive fortune-teller, to test Bond's story about the gold coins by card divination; she declares 'He speaks the truth.' Solitaire, born in Haiti and famed for a telepathic cabaret act, is the woman Mr Big intends to marry."
     },
     {
       "no": "VIII",
       "title": "NO SENSAYUMA",
       "start_line": 538,
-      "summary": "Mr Big下令重伤莱特后弃于Bellevue医院附近；Tee-Hee折断邦德左手小指，邦德痛晕；Mr Big自述因厌倦与追求作案艺术而饶邦德一命，命其当日离境；邦德佯装顺从，在楼道袭击Tee-Hee致其坠楼身亡，夺得Colt .38短管左轮手枪，在车库击毙两名男子后驾车逃脱，返回St Regis酒店收到莱特凌晨4时的留言。"
+      "summary": "Mr Big下令重伤莱特后弃于Bellevue医院附近；Tee-Hee折断邦德左手小指，邦德痛晕；Mr Big自述因厌倦与追求作案艺术而饶邦德一命，命其当日离境；邦德佯装顺从，在楼道袭击Tee-Hee致其坠楼身亡，夺得Colt .38短管左轮手枪，在车库击毙两名男子后驾车逃脱，返回St Regis酒店收到莱特凌晨4时的留言。",
+      "summary_en": "Mr Big orders Leiter beaten and dumped near Bellevue Hospital, and has Tee-Hee break the little finger of Bond's left hand; Bond faints, and Tee-Hee remarks that the man has 'no sensayuma' - no feeling. Mr Big spares Bond out of boredom and a taste for artistry in crime, ordering him out of the country that day. Feigning submission, Bond attacks Tee-Hee in the stairwell, kicks him down the stairs to his death, seizes his sawn-off Colt .38, shoots two men dead in the garage and escapes by car, finding a 4 a.m. message from Leiter at the St Regis."
     },
     {
       "no": "IX",
       "title": "TRUE OR FALSE?",
       "start_line": 634,
-      "summary": "莱特电话告知：他被Blabbermouth用短棍击晕后弃于医院外，约3时30分获救；邦德所杀三人为Tee-Hee Johnson、Sam Miami、McThing；两人须立即离城，邦德乘10时30分Silver Phantom号列车，245号车厢H包厢，化名Bryce，莱特乘飞机；索利泰尔打电话求救，称若不带她走便自杀，邦德安排她以Mrs Bryce身份同车前往华盛顿。"
+      "summary": "莱特电话告知：他被Blabbermouth用短棍击晕后弃于医院外，约3时30分获救；邦德所杀三人为Tee-Hee Johnson、Sam Miami、McThing；两人须立即离城，邦德乘10时30分Silver Phantom号列车，245号车厢H包厢，化名Bryce，莱特乘飞机；索利泰尔打电话求救，称若不带她走便自杀，邦德安排她以Mrs Bryce身份同车前往华盛顿。",
+      "summary_en": "Leiter telephones: Blabbermouth knocked him out with a blackjack and dumped him outside Bellevue Hospital about 3.30 a.m.; he suffered only concussion. The three men Bond killed were Tee-Hee Johnson, Sam Miami and McThing, all wanted men. The pair must leave town at once: Bond takes the 10.30 Silver Phantom from Track 14, Pennsylvania Station, Car 245, Compartment H, under the name Bryce, while Leiter flies. Solitaire telephones in desperation, threatening suicide unless Bond takes her, and he arranges for her to travel as Mrs Bryce as far as Washington."
     },
     {
       "no": "X",
       "title": "THE SILVER PHANTOM",
       "start_line": 718,
-      "summary": "列车上索利泰尔吐露真名Simone Latrelle，25岁，随身约5000美元，与Mr Big相处近一年；Mr Big已警告佛罗里达手下The Robber留意坦帕机场与列车；列车员Samuel D. Baldwin警告邦德车上有敌人，送上两块木楔堵门；邦德与索利泰尔共处一室过夜。"
+      "summary": "列车上索利泰尔吐露真名Simone Latrelle，25岁，随身约5000美元，与Mr Big相处近一年；Mr Big已警告佛罗里达手下The Robber留意坦帕机场与列车；列车员Samuel D. Baldwin警告邦德车上有敌人，送上两块木楔堵门；邦德与索利泰尔共处一室过夜。",
+      "summary_en": "On the train Solitaire reveals her real name, Simone Latrelle, twenty-five, with about five thousand dollars of her own money saved from nearly a year as Mr Big's prisoner. Mr Big has already warned his Florida agent, The Robber, to watch Tampa airport and the trains. The Pullman attendant Samuel D. Baldwin warns Bond that there is an enemy aboard and gives him two wooden wedges to block the compartment doors; Bond and Solitaire spend the night together in the compartment."
     },
     {
       "no": "XI",
       "title": "ALLUMEUSE",
       "start_line": 807,
-      "summary": "索利泰尔解释黑人相信Mr Big是Baron Samedi的僵尸，并称曾听他讲俄语；两人决定凌晨5时在Jacksonville下车；深夜有人试图开门并塞入一张红色墨水写的伏都咒符ouanga，召唤鼓女巫杀人；邦德收起咒符。"
+      "summary": "索利泰尔解释黑人相信Mr Big是Baron Samedi的僵尸，并称曾听他讲俄语；两人决定凌晨5时在Jacksonville下车；深夜有人试图开门并塞入一张红色墨水写的伏都咒符ouanga，召唤鼓女巫杀人；邦德收起咒符。",
+      "summary_en": "Solitaire explains that black people believe Mr Big is the zombie of Baron Samedi, and that she has heard him speak Russian, though she does not know what SMERSH is. The pair decide to slip off the train at Jacksonville at 5 a.m. In the night someone tries the door and pushes under it a voodoo fetish, an ouanga written in red ink, invoking the Drum Witch to kill; Bond pockets it."
     },
     {
       "no": "XII",
       "title": "THE EVERGLADES",
       "start_line": 915,
-      "summary": "凌晨5时两人在Jacksonville下车，改乘Silver Meteor号，至Clearwater下车乘出租车前往Treasure Island的Everglades Cabanas与莱特会合；途中出租车司机Poxy认出索利泰尔并向The Robber告密，The Robber以1万美元雇人行事；莱特告知Silver Phantom号H包厢在Waldo与Ocala之间遭机枪扫射与手榴弹袭击，列车员Baldwin被炸死。"
+      "summary": "凌晨5时两人在Jacksonville下车，改乘Silver Meteor号，至Clearwater下车乘出租车前往Treasure Island的Everglades Cabanas与莱特会合；途中出租车司机Poxy认出索利泰尔并向The Robber告密，The Robber以1万美元雇人行事；莱特告知Silver Phantom号H包厢在Waldo与Ocala之间遭机枪扫射与手榴弹袭击，列车员Baldwin被炸死。",
+      "summary_en": "At 5 a.m. Bond and Solitaire leave the Silver Phantom at Jacksonville and catch the sister train, the Silver Meteor, getting off at Clearwater and taking a taxi to the Everglades Cabanas on Treasure Island to join Leiter. The taxi driver Poxy recognises Solitaire and informs The Robber, who takes ten thousand dollars for the job of dealing with Bond. Leiter reports that Compartment H was machine-gunned and bombed between Waldo and Ocala, and Baldwin was killed in the corridor."
     },
     {
       "no": "XIII",
       "title": "DEATH OF A PELICAN",
       "start_line": 997,
-      "summary": "莱特还原列车袭击经过：炸药信号逼停列车，三名男子以汤姆森冲锋枪与手榴弹袭击H包厢；两人前往Ourobouros仓库侦察，确认经理即The Robber，此人用Remington 30步枪射杀一只鹈鹕示威；回旅馆后发现索利泰尔已被人用留声机包装箱运走。"
+      "summary": "莱特还原列车袭击经过：炸药信号逼停列车，三名男子以汤姆森冲锋枪与手榴弹袭击H包厢；两人前往Ourobouros仓库侦察，确认经理即The Robber，此人用Remington 30步枪射杀一只鹈鹕示威；回旅馆后发现索利泰尔已被人用留声机包装箱运走。",
+      "summary_en": "Leiter reconstructs the train attack: a dynamite signal stopped the train, and three men with tommy-guns and a grenade destroyed Compartment H. Bond and Leiter reconnoitre the Ourobouros warehouse and identify its manager as The Robber, who shoots a pelican dead with his Remington 30 rifle as a demonstration. Back at the motel they find Solitaire gone - carried off in a radiogram packing-case."
     },
     {
       "no": "XIV",
       "title": "'HE DISAGREED WITH SOMETHING THAT ATE HIM'",
       "start_line": 1085,
-      "summary": "莱特清晨5时独自去仓库调查后失踪；邦德接到假冒Mound Park医院Dr Roberts的电话引开，返回后发现莱特浑身绷带、奄奄一息：一条手臂没了，左腿去了一半，纸条写着HE DISAGREED WITH SOMETHING THAT ATE HIM；CIA告知Mr Big与索利泰尔已乘私人包机由Vero Beach飞往哈瓦那，Secatur号仍在古巴；邦德致电迈阿密水族馆确认Ourobouros饲养鲨鱼，决心复仇。"
+      "summary": "莱特清晨5时独自去仓库调查后失踪；邦德接到假冒Mound Park医院Dr Roberts的电话引开，返回后发现莱特浑身绷带、奄奄一息：一条手臂没了，左腿去了一半，纸条写着HE DISAGREED WITH SOMETHING THAT ATE HIM；CIA告知Mr Big与索利泰尔已乘私人包机由Vero Beach飞往哈瓦那，Secatur号仍在古巴；邦德致电迈阿密水族馆确认Ourobouros饲养鲨鱼，决心复仇。",
+      "summary_en": "Leiter goes alone to the warehouse at 5 a.m. and vanishes. Bond is lured away by a bogus telephone call from a 'Dr Roberts' at Mound Park Hospital, and returns to find Leiter swathed in bandages and barely alive: an arm gone, half his left leg gone, with a note reading 'HE DISAGREED WITH SOMETHING THAT ATE HIM'. The CIA reports that Mr Big and Solitaire flew by private charter from Vero Beach to Havana overnight, and the Secatur is still in Cuba. Bond telephones the Miami aquarium, confirms that Ourobouros keeps sharks, and resolves on revenge."
     },
     {
       "no": "XV",
       "title": "MIDNIGHT AMONG THE WORMS",
       "start_line": 1162,
-      "summary": "邦德夜入Ourobouros仓库，在毒鱼缸底泥沙下发现成排金币，单缸约千枚，每航次约15万美元；与The Robber枪战后佯装投降，趁其分神将其踢入地板下的鲨鱼池；The Robber临死供认索利泰尔由坦帕两名男子Butch与The Lifer绑架，藏身Oasis酒吧后台球室，并称莱特是自己掉进陷阱；邦德取回金币后离去。"
+      "summary": "邦德夜入Ourobouros仓库，在毒鱼缸底泥沙下发现成排金币，单缸约千枚，每航次约15万美元；与The Robber枪战后佯装投降，趁其分神将其踢入地板下的鲨鱼池；The Robber临死供认索利泰尔由坦帕两名男子Butch与The Lifer绑架，藏身Oasis酒吧后台球室，并称莱特是自己掉进陷阱；邦德取回金币后离去。",
+      "summary_en": "Bond breaks into the Ourobouros warehouse at night and finds rows of gold coins hidden in flat trays under the mud at the bottom of the poison-fish tanks - about a thousand coins per tank, some $150,000 per voyage - guarded by scorpion fish. In a gunfight with The Robber he feigns surrender, then kicks him into the shark pit beneath a trapdoor in the floor. Dying, The Robber confesses that Solitaire was seized by two Tampa men, Butch and The Lifer, from the poolroom behind the Oasis bar, and claims Leiter fell into the trap by accident. Bond takes back a gold coin and leaves."
     },
     {
       "no": "XVI",
       "title": "THE JAMAICA VERSION",
       "start_line": 1247,
-      "summary": "邦德乘Transcarib飞机经拿骚抵达牙买加，Strangways在Palisadoes机场接机并讲述牙买加一端：惊奇岛位于Shark Bay中央，传为血腥摩根藏宝处；半年前一名渔民失踪，纽约辛迪加（Mr Big所有）以1000英镑买下该岛，Secatur号开始每两周往返；两名百慕大潜水员夜探该岛后被鲨鱼与梭鱼啃食殆尽；邦德索要潜水服、Champion鱼叉枪与水雷，准备潜往该岛。"
+      "summary": "邦德乘Transcarib飞机经拿骚抵达牙买加，Strangways在Palisadoes机场接机并讲述牙买加一端：惊奇岛位于Shark Bay中央，传为血腥摩根藏宝处；半年前一名渔民失踪，纽约辛迪加（Mr Big所有）以1000英镑买下该岛，Secatur号开始每两周往返；两名百慕大潜水员夜探该岛后被鲨鱼与梭鱼啃食殆尽；邦德索要潜水服、Champion鱼叉枪与水雷，准备潜往该岛。",
+      "summary_en": "Bond flies by Transcarib via Nassau to Jamaica, where Strangways, the chief Caribbean agent, meets him at Palisadoes Airport and tells the Jamaica side of the story: the Isle of Surprise in Shark Bay, long rumoured to hold Morgan's treasure, was bought six months earlier for a thousand pounds by a New York syndicate wholly owned by Mr Big. A fisherman vanished, and two Bermudan divers sent to explore the island at night were washed up eaten by sharks and barracuda. Bond asks London for a frogman suit, Champion harpoon guns and a limpet mine, and prepares to swim to the island."
     },
     {
       "no": "XVII",
       "title": "THE UNDERTAKER'S WIND",
       "start_line": 1310,
-      "summary": "邦德与开曼人Quarrel在Manatee Bay训练一周：每日游泳跑步，猎杀一条10磅梭鱼，学习水下求生；期间得知莱特保住性命，手臂与腿部残端已截肢，正在整形，留言叫邦德别把脚弄得像他一样湿；Strangways来报Secatur号次日启程前往惊奇岛，Mr Big随船，这是他第二次南下，索利泰尔同行。"
+      "summary": "邦德与开曼人Quarrel在Manatee Bay训练一周：每日游泳跑步，猎杀一条10磅梭鱼，学习水下求生；期间得知莱特保住性命，手臂与腿部残端已截肢，正在整形，留言叫邦德别把脚弄得像他一样湿；Strangways来报Secatur号次日启程前往惊奇岛，Mr Big随船，这是他第二次南下，索利泰尔同行。",
+      "summary_en": "Bond spends a week training with Quarrel, a Cayman Islander, at Manatee Bay: swimming and running daily, hunting a ten-pound barracuda, and learning underwater survival. News comes that Leiter will live, though his arm and leg stumps have been amputated and he is undergoing plastic surgery; his message to Bond is not to get his feet wet. Strangways reports that the Secatur sails for Surprise the next day with Mr Big aboard - only his second trip south - and Solitaire with him."
     },
     {
       "no": "XVIII",
       "title": "BEAU DESERT",
       "start_line": 1382,
-      "summary": "邦德与Quarrel进驻Shark Bay西岸的Beau Desert据点，检查伦敦送来的装备：潜水服、双气瓶、Champion鱼叉枪、Wilkinson突击队匕首、水雷与引信；Secatur号抵达并锚泊，Mr Big持Gallia护照入境，索利泰尔以Simone Latrelle名义同行且被担架抬上岛；鱼缸开始装船，显示次日清晨即启航，邦德决定当晚10时潜水行动。"
+      "summary": "邦德与Quarrel进驻Shark Bay西岸的Beau Desert据点，检查伦敦送来的装备：潜水服、双气瓶、Champion鱼叉枪、Wilkinson突击队匕首、水雷与引信；Secatur号抵达并锚泊，Mr Big持Gallia护照入境，索利泰尔以Simone Latrelle名义同行且被担架抬上岛；鱼缸开始装船，显示次日清晨即启航，邦德决定当晚10时潜水行动。",
+      "summary_en": "Bond and Quarrel move into Beau Desert, the plantation house on the western arm of Shark Bay from which Strangways has watched the island. Bond checks the gear from London: frogman suit, twin air cylinders, Champion harpoon gun, Wilkinson commando dagger, and a limpet mine with fuses from ten minutes to eight hours. The Secatur arrives and anchors; Mr Big lands on a Gallia passport, and Solitaire, travelling as Simone Latrelle, is carried ashore on a stretcher. Fish tanks are already being loaded back aboard, so the yacht will sail at dawn - Bond decides to swim that night at ten o'clock."
     },
     {
       "no": "XIX",
       "title": "VALLEY OF SHADOWS",
       "start_line": 1433,
-      "summary": "邦德负水雷潜水穿越珊瑚礁，途中遭章鱼缠住双踝，以鱼叉枪脱身；23时03分将水雷装上Secatur号龙骨，选用7小时引信；随后发现海面血红：有人在向海中泼洒血与内脏，引来成群梭鱼与鲨鱼狂乱进食。"
+      "summary": "邦德负水雷潜水穿越珊瑚礁，途中遭章鱼缠住双踝，以鱼叉枪脱身；23时03分将水雷装上Secatur号龙骨，选用7小时引信；随后发现海面血红：有人在向海中泼洒血与内脏，引来成群梭鱼与鲨鱼狂乱进食。",
+      "summary_en": "Bond swims underwater across the reef carrying the limpet mine, fights off an octopus that seizes both his ankles, and at 11.03 p.m. fixes the mine to the Secatur's keel with a seven-hour fuse. Then he sees the sea turning red: someone is spraying blood and offal over the surface to drive the sharks and barracuda into a feeding frenzy - the secret of the island's defences and of the three half-eaten men."
     },
     {
       "no": "XX",
       "title": "BLOODY MORGAN'S CAVE",
       "start_line": 1475,
-      "summary": "一条20磅梭鱼咬伤邦德左肩，邦德以鱼叉枪击退它后躲入岛基岩洞，发现洞内即血腥摩根宝藏库：遍地金币、熔金坩埚、珠宝，鼓声竟是留声机录音；Mr Big在绿呢牌桌前核对清单，邦德被两名潜水员俘获。"
+      "summary": "一条20磅梭鱼咬伤邦德左肩，邦德以鱼叉枪击退它后躲入岛基岩洞，发现洞内即血腥摩根宝藏库：遍地金币、熔金坩埚、珠宝，鼓声竟是留声机录音；Mr Big在绿呢牌桌前核对清单，邦德被两名潜水员俘获。",
+      "summary_en": "A twenty-pound barracuda bites Bond's left shoulder, and he drives it off with his harpoon gun before taking refuge in a cave at the base of the island. Inside he finds Morgan's treasure chamber: gold coins everywhere, a cauldron for melting gold, jewels and ingots, and the voodoo drums revealed as a portable phonograph recording. Mr Big sits at a green baize card table checking lists; Bond is seized by two divers and brought before him."
     },
     {
       "no": "XXI",
       "title": "'GOOD NIGHT TO YOU BOTH'",
       "start_line": 1538,
-      "summary": "邦德被带上石阶，见鱼缸中部装有金币与金锭，宝藏总值修正为约400万英镑；索利泰尔被囚于带镣铐的石室；Mr Big宣布次日6时将两人绑在拖网浮标paravane后拖入海中喂鲨，以此完成龙骨拖刑的现代变体；邦德盘算水雷约在6时后爆炸，时间只差分秒。"
+      "summary": "邦德被带上石阶，见鱼缸中部装有金币与金锭，宝藏总值修正为约400万英镑；索利泰尔被囚于带镣铐的石室；Mr Big宣布次日6时将两人绑在拖网浮标paravane后拖入海中喂鲨，以此完成龙骨拖刑的现代变体；邦德盘算水雷约在6时后爆炸，时间只差分秒。",
+      "summary_en": "In the treasure chamber Bond sees fish tanks in the middle being packed with coins, gold ingots and jewels, and revises the treasure's value to about four million pounds sterling. Solitaire is found chained in a stone cell. Mr Big sentences them both to death at six o'clock the next morning by a modern form of keel-hauling: bound together to a line streamed from the yacht's paravane, they will be towed through the sea to be eaten by sharks - while Bond calculates that his mine should explode only minutes later."
     },
     {
       "no": "XXII",
       "title": "TERROR BY SEA",
       "start_line": 1616,
-      "summary": "清晨约5时30分，岛上守军撤离；6时前Secatur号启航，邦德与索利泰尔被剥光绑在一起拖入海中；在即将撞上珊瑚礁前水雷爆炸，Secatur号沉没，无人生还；Mr Big游向邦德求生处，被梭鱼与一条豹鲨撕碎；Quarrel驾独木舟赶来救援。"
+      "summary": "清晨约5时30分，岛上守军撤离；6时前Secatur号启航，邦德与索利泰尔被剥光绑在一起拖入海中；在即将撞上珊瑚礁前水雷爆炸，Secatur号沉没，无人生还；Mr Big游向邦德求生处，被梭鱼与一条豹鲨撕碎；Quarrel驾独木舟赶来救援。",
+      "summary_en": "Just before 6 a.m. the Secatur sails with Bond and Solitaire stripped, bound face to face and towed behind the paravane towards the reef. Seconds before they would be dragged over the coral, the mine explodes: the Secatur sinks with no survivors. Mr Big swims towards Bond's refuge and is torn apart by barracuda and finally by a huge leopard shark that seizes his head. Quarrel arrives by canoe and rescues Bond and Solitaire."
     },
     {
       "no": "XXIII",
       "title": "PASSIONATE LEAVE",
       "start_line": 1742,
-      "summary": "邦德与索利泰尔在Beau Desert养伤；警方封锁惊奇岛，Secatur号残骸位于约20英寻水深处，M来电指示以Universal Export名义申索宝藏并立即打捞，同时批准两周假期，电文作passionate leave；邦德与索利泰尔约定去Manatee Bay度假，本书在索利泰尔问及她的背伤时戛然而止。"
+      "summary": "邦德与索利泰尔在Beau Desert养伤；警方封锁惊奇岛，Secatur号残骸位于约20英寻水深处，M来电指示以Universal Export名义申索宝藏并立即打捞，同时批准两周假期，电文作passionate leave；邦德与索利泰尔约定去Manatee Bay度假，本书在索利泰尔问及她的背伤时戛然而止。",
+      "summary_en": "Bond and Solitaire recover at Beau Desert; police cordon off the Isle of Surprise, the Secatur's wreck lies in about twenty fathoms, and Mr Big's men in Harlem and St Petersburg are rounded up on gold-smuggling charges. M cables instructions to claim the treasure in the name of Universal Export, begin salvage at once, and grants Bond a fortnight's 'passionate leave' - a cipher clerk's error for 'compassionate'. Bond and Solitaire plan to spend it together at Manatee Bay, and the novel ends as Solitaire asks about her back."
     }
   ],
   "characters": [
@@ -167,11 +191,17 @@
         "John Bryce"
       ],
       "role": "主要人物",
+      "role_en": "Major character",
       "appearance": "黑发，右眉上方有一绺黑发，右颊有一道细长垂直伤疤，灰蓝色眼睛，颧骨高；FBI改装后留军人式短发",
+      "appearance_en": "Black hair, with a lock falling over his right eyebrow, a thin vertical scar down his right cheek, grey-blue eyes and high cheekbones; after the FBI's makeover he wore a military-style short haircut.",
       "age_clues": "原文未给确切年龄",
+      "age_clues_en": "The novel gives no exact age.",
       "personality": "冷静、坚韧、好胜，面对酷刑与死亡威胁不示弱，对莱特与索利泰尔忠诚",
+      "personality_en": "Calm, tough and competitive; he shows no weakness under torture or the threat of death, and is loyal to Leiter and Solitaire.",
       "habits": "每日吸烟约三包，喜喝马提尼与Haig and Haig威士忌，爱吃炒蛋与培根，喜驾快车",
+      "habits_en": "He smokes about three packs of cigarettes a day, drinks Martinis and Haig and Haig whisky, likes scrambled eggs and bacon, and loves fast cars.",
       "background": "英国特工，代号007，曾在皇家赌场执行任务，手背曾被苏联特工刻下SCH字样后经植皮修复；二战期间曾在A站工作",
+      "background_en": "A British agent, codenamed 007, who had carried out the Casino Royale assignment; the back of his hand had once been branded with the letters SCH by a Soviet agent and later repaired by a skin graft; he worked for Station A during the war.",
       "first_appearance_chapter": "I",
       "last_appearance_chapter": "XXIII",
       "relationships": [
@@ -213,11 +243,17 @@
       "name_zh": "费利克斯·莱特",
       "aliases": [],
       "role": "主要人物",
+      "role_en": "Major character",
       "appearance": "瘦高，鹰钩鼻面孔，稻草色乱发；夜访哈莱姆时将头发染黑，身穿亮蓝西装",
+      "appearance_en": "Tall and thin, with a hawk-like face and untidy straw-coloured hair; for the Harlem visit he dyed his hair black and wore a bright blue suit.",
       "age_clues": "原文未给确切年龄",
+      "age_clues_en": "The novel gives no exact age.",
       "personality": "热情、幽默、讲义气，熟悉哈莱姆与爵士乐",
+      "personality_en": "Warm, humorous and loyal, at home in Harlem and in jazz.",
       "habits": "爱喝马提尼，喜谈爵士乐",
+      "habits_en": "He likes Martinis and loves to talk about jazz.",
       "background": "CIA特工，原在巴黎联合情报部门任职，因皇家赌场一案与邦德合作过，现为CIA与FBI之间的联络员；原文称其为德克萨斯人",
+      "background_en": "A CIA agent, formerly with the Joint Intelligence staff in Paris, who worked with Bond on the Casino Royale case and now serves as liaison between the CIA and the FBI; the novel calls him a Texan.",
       "first_appearance_chapter": "I",
       "last_appearance_chapter": "XVII",
       "relationships": [
@@ -243,11 +279,17 @@
         "Big Boy"
       ],
       "role": "主要人物",
+      "role_en": "Major character",
       "appearance": "身高六英尺半，体重20石，头大如足球近乎圆形，皮肤灰黑发亮，无眉毛睫毛，眼睛金色、间距极宽，患慢性心脏病致肤色发灰",
+      "appearance_en": "Six and a half feet tall, twenty stone, with a head as big as a football and almost round, grey-black shining skin, no eyebrows or eyelashes, and golden eyes set very wide apart; chronic heart disease has given his skin a grey tinge.",
       "age_clues": "45岁",
+      "age_clues_en": "Forty-five years old.",
       "personality": "冷静、博学、极度自负，追求作案的艺术性与精确，自称按狼的法则行事，患有厌倦症",
+      "personality_en": "Calm, learned and supremely vain; he pursues artistry and precision in crime, lives by what he calls the law of the wolf, and suffers from boredom.",
       "habits": "不饮酒不吸烟，唯一的嗜好是女人；给手下统一定薪每年2万美元",
+      "habits_en": "He neither drinks nor smokes; his only indulgence is women; he pays all his lieutenants a flat rate of twenty thousand dollars a year.",
       "background": "生于海地，黑白混血，少年为Port au Prince卡车司机，后加入Legs Diamond团伙，1938年合伙人死于水泥桶后独占哈莱姆夜总会与妓院；1943年入伍，因法语流利被OSS派往马赛，战后失踪五年疑赴莫斯科，1950年返回哈莱姆；SMERSH成员、苏联特工、黑寡妇伏都教首领，被信徒视为Baron Samedi本人",
+      "background_en": "Born in Haiti of mixed black and French blood; as a boy he drove a truck in Port au Prince, then joined the Legs Diamond gang; after his partner was found dead in a barrel of cement in 1938 he owned the Harlem nightclubs and brothels alone. Called up in 1943, he was sent by the OSS to Marseilles for his fluent French, vanished for five years after the war - probably to Moscow - and returned to Harlem in 1950. He is a member of SMERSH, a Soviet agent and head of the Black Widow voodoo cult, believed by his followers to be Baron Samedi himself.",
       "first_appearance_chapter": "I",
       "last_appearance_chapter": "XXII",
       "relationships": [
@@ -277,11 +319,17 @@
         "Mrs Bryce"
       ],
       "role": "主要人物",
+      "role_en": "Major character",
       "appearance": "面色苍白，蓝眼睛，蓝黑色长发及肩，颧骨高，嘴宽而感性；身穿白色真丝晚礼服，戴钻石耳环与手链",
+      "appearance_en": "Pale-faced, with blue eyes, blue-black hair falling to her shoulders, high cheekbones and a wide, sensual mouth; she wore a white silk evening dress with diamond earrings and a bracelet.",
       "age_clues": "25岁",
+      "age_clues_en": "Twenty-five years old.",
       "personality": "孤僻、神秘、直觉敏锐，对邦德由戒备转为信任与爱慕",
+      "personality_en": "Withdrawn, mysterious and sharply intuitive; her wariness towards Bond turns to trust and love.",
       "habits": "以扑克牌占卜测谎，每日上声乐课，Mr Big想把她培养成火炬歌手",
+      "habits_en": "She tells truth from lies by laying out playing cards, takes a singing lesson every day, and Mr Big hopes to make her a torch singer.",
       "background": "生于海地，父亲为法国殖民奴隶主后裔（邦德观感，属推测）；幼时在海地巫堂接触伏都教，曾在Port au Prince歌舞厅表演心灵感应；被Mr Big发现后软禁近一年，住在哈莱姆与Mr Big同一栋楼的公寓，由两名黑人女子看守；随身藏有约5000美元私房钱",
+      "background_en": "Born in Haiti, the daughter of a French colonial slave-owner in Bond's view - a surmise, not a confirmed fact; as a child she was taken to a voodoo temple in Haiti and later performed a telepathic act in a Port au Prince cabaret; Mr Big found her there and kept her virtually a prisoner for nearly a year in a Harlem flat in the same block as his own, watched by two black women; she kept about five thousand dollars of her own money hidden from him.",
       "first_appearance_chapter": "VII",
       "last_appearance_chapter": "XXIII",
       "relationships": [
@@ -303,11 +351,17 @@
       "name_zh": "M",
       "aliases": [],
       "role": "主要人物",
+      "role_en": "Major character",
       "appearance": "灰眼睛，冷峻精明",
+      "appearance_en": "Grey eyes, cold and shrewd.",
       "age_clues": "原文未给",
+      "age_clues_en": "The novel does not state his age.",
       "personality": "寡言、威严、只给事实不给好消息",
+      "personality_en": "Terse, authoritative, giving facts and never good news.",
       "habits": "抽烟斗，办公桌铺红皮革",
+      "habits_en": "He smokes a pipe and works at a desk topped with red leather.",
       "background": "英国特工部门首脑，邦德的上司",
+      "background_en": "Head of the British Secret Service and Bond's chief.",
       "first_appearance_chapter": "II",
       "last_appearance_chapter": "XXIII",
       "relationships": [
@@ -326,11 +380,17 @@
         "Miss Moneypenny"
       ],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "原文称其为desirable，未详述外貌",
+      "appearance_en": "The novel calls her 'desirable' but does not describe her appearance in detail.",
       "age_clues": "原文未给",
+      "age_clues_en": "The novel gives no age.",
       "personality": "能干、亲切",
+      "personality_en": "Efficient and friendly.",
       "habits": "为M接转电话",
+      "habits_en": "She takes M's telephone calls.",
       "background": "M的全权私人秘书",
+      "background_en": "M's all-powerful private secretary.",
       "first_appearance_chapter": "II",
       "last_appearance_chapter": "IX",
       "relationships": [
@@ -352,11 +412,17 @@
       "name_zh": "德克斯特队长",
       "aliases": [],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "中年，面色阴沉，身穿深蓝大衣与黑圆顶礼帽",
+      "appearance_en": "Middle-aged, with a gloomy face, wearing a dark blue overcoat and a black homburg.",
       "age_clues": "中年",
+      "age_clues_en": "Middle-aged.",
       "personality": "谨慎、讲究管辖权，对邦德客气但保持距离",
+      "personality_en": "Cautious and jealous of jurisdiction, courteous to Bond but keeping his distance.",
       "habits": "抽50美分雪茄",
+      "habits_en": "He smokes fifty-cent cigars.",
       "background": "FBI队长，受胡佛指示接待邦德，负责哈莱姆一端",
+      "background_en": "A captain in the FBI, instructed by Hoover to receive Bond, in charge of the Harlem end of the case.",
       "first_appearance_chapter": "I",
       "last_appearance_chapter": "IV",
       "relationships": [
@@ -373,11 +439,17 @@
       "name_zh": "哈洛伦",
       "aliases": [],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "相貌平常的便衣男子",
+      "appearance_en": "A pleasant-looking nondescript man in plain clothes.",
       "age_clues": "原文未给",
+      "age_clues_en": "The novel gives no age.",
       "personality": "殷勤周到",
+      "personality_en": "Attentive and obliging.",
       "habits": "抽Lucky牌香烟",
+      "habits_en": "He smokes Lucky Strike cigarettes.",
       "background": "美方接机人员，将邦德由机场送至St Regis酒店并转交1000美元经费",
+      "background_en": "The American officer who met Bond at the airport, drove him to the St Regis Hotel and handed over the thousand dollars of expenses.",
       "first_appearance_chapter": "I",
       "last_appearance_chapter": "I",
       "relationships": [
@@ -394,11 +466,17 @@
       "name_zh": "斯特兰威斯",
       "aliases": [],
       "role": "主要人物",
+      "role_en": "Major character",
       "appearance": "瘦削，约35岁，左眼戴黑眼罩，鹰钩鼻，面部因日晒布满皱纹",
+      "appearance_en": "Lean, about thirty-five, with a black patch over his left eye, an aquiline nose and a face deeply lined by the sun.",
       "age_clues": "约35岁",
+      "age_clues_en": "About thirty-five years old.",
       "personality": "机敏、幽默、高效，略显神经质，对邦德毫无嫉妒",
+      "personality_en": "Quick, humorous and efficient, slightly highly strung, and free of jealousy towards Bond.",
       "habits": "喝威士忌加苏打",
+      "habits_en": "He drinks whisky and soda.",
       "background": "加勒比地区首席特工，前皇家海军志愿预备役特别支部中尉指挥官，驻金斯敦",
+      "background_en": "Chief agent for the Caribbean, a former Lieutenant-Commander in the Special Branch of the RNVR, stationed in Kingston.",
       "first_appearance_chapter": "XVI",
       "last_appearance_chapter": "XXIII",
       "relationships": [
@@ -420,11 +498,17 @@
       "name_zh": "夸雷尔",
       "aliases": [],
       "role": "主要人物",
+      "role_en": "Major character",
       "appearance": "高大棕肤男子，面容刚毅棱角分明，灰眼睛，鼻扁平，手掌色浅",
+      "appearance_en": "A tall brown-skinned man with a strong, angular face, grey eyes, a flat nose and pale palms.",
       "age_clues": "原文未给",
+      "age_clues_en": "The novel gives no age.",
       "personality": "坦率、忠诚、沉稳，称邦德为Captain",
+      "personality_en": "Straightforward, loyal and calm; he addresses Bond as 'Captain'.",
       "habits": "以棕榈油为邦德按摩，善烹鱼餐",
+      "habits_en": "He massages Bond with palm oil and cooks excellent fish meals.",
       "background": "开曼群岛人，加勒比地区最佳游泳者与渔民，血统中有克伦威尔士兵与海盗成分，已监视惊奇岛三个月",
+      "background_en": "A Cayman Islander, the best swimmer and fisherman in the Caribbean, with Cromwellian soldiers and buccaneers among his ancestors; he had watched the Isle of Surprise for three months.",
       "first_appearance_chapter": "XVI",
       "last_appearance_chapter": "XXIII",
       "relationships": [
@@ -448,11 +532,17 @@
         "Tee-Hee"
       ],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "大腹便便，穿巧克力色衬衫与淡紫色紧腿裤",
+      "appearance_en": "Paunchy, wearing a chocolate-coloured shirt and lavender peg-top trousers.",
       "age_clues": "原文未给",
+      "age_clues_en": "The novel gives no age.",
       "personality": "以假声傻笑得名，残忍而顺从",
+      "personality_en": "Named for his falsetto giggle; cruel and obedient.",
       "habits": "发出hee-hee假声笑",
+      "habits_en": "He laughs in a falsetto 'hee-hee'.",
       "background": "Mr Big手下打手",
+      "background_en": "One of Mr Big's enforcers.",
       "first_appearance_chapter": "VI",
       "last_appearance_chapter": "IX",
       "relationships": [
@@ -476,11 +566,17 @@
         "Blabbermouth"
       ],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "原文未详述",
+      "appearance_en": "The novel does not describe his appearance.",
       "age_clues": "原文未给",
+      "age_clues_en": "The novel gives no age.",
       "personality": "健谈，爱爵士乐，与莱特谈论Duke Ellington后成为朋友",
+      "personality_en": "Talkative; he loves jazz, and after discussing Duke Ellington with Leiter he became friendly with him.",
       "habits": "使用一把装饰华丽的六发手枪",
+      "habits_en": "He carries a richly decorated six-shooter.",
       "background": "Mr Big手下，奉命看守莱特",
+      "background_en": "One of Mr Big's men, ordered to guard Leiter.",
       "first_appearance_chapter": "V",
       "last_appearance_chapter": "IX",
       "relationships": [
@@ -504,11 +600,17 @@
         "Miami"
       ],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "原文未详述",
+      "appearance_en": "The novel does not describe his appearance.",
       "age_clues": "原文未给",
+      "age_clues_en": "The novel gives no age.",
       "personality": "原文未详述",
+      "personality_en": "The novel does not describe his character.",
       "habits": "原文未详述",
+      "habits_en": "The novel does not describe his habits.",
       "background": "Mr Big手下，被邦德在车库击毙",
+      "background_en": "One of Mr Big's men, shot dead by Bond in the garage.",
       "first_appearance_chapter": "V",
       "last_appearance_chapter": "IX",
       "relationships": [
@@ -530,11 +632,17 @@
       "name_zh": "麦克辛",
       "aliases": [],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "原文未详述",
+      "appearance_en": "The novel does not describe his appearance.",
       "age_clues": "原文未给",
+      "age_clues_en": "The novel gives no age.",
       "personality": "原文未详述",
+      "personality_en": "The novel does not describe his character.",
       "habits": "原文未详述",
+      "habits_en": "The novel does not describe his habits.",
       "background": "Mr Big手下，被邦德在车库击毙；莱特称三人均有案在身",
+      "background_en": "One of Mr Big's men, shot dead by Bond in the garage; Leiter said all three men were wanted on various counts.",
       "first_appearance_chapter": "V",
       "last_appearance_chapter": "IX",
       "relationships": [
@@ -551,11 +659,17 @@
       "name_zh": "耳语者",
       "aliases": [],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "原文未详述",
+      "appearance_en": "The novel does not describe his appearance.",
       "age_clues": "原文未给",
+      "age_clues_en": "The novel gives no age.",
       "personality": "低声细语",
+      "personality_en": "He speaks in a low whisper.",
       "habits": "守着哈莱姆大接线板传递消息",
+      "habits_en": "He sits at the big Harlem switchboard passing on messages.",
       "background": "生于第七大道142街肺病街区，只剩部分肺叶，Mr Big的通讯员",
+      "background_en": "Born on Lung Block, Seventh Avenue at 142nd Street, with only part of one lung left; Mr Big's communications man.",
       "first_appearance_chapter": "IV",
       "last_appearance_chapter": "IX",
       "relationships": [
@@ -574,11 +688,17 @@
         "The Robber"
       ],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "约40岁，瘦削如斧的脸，薄唇无血色，肤色如烟草尘般黄褐，小而紧凑的眼睛",
+      "appearance_en": "About forty, with a thin, hatchet-like face, thin bloodless lips, tobacco-dust yellow-brown skin and small, close-set eyes.",
       "age_clues": "约40岁",
+      "age_clues_en": "About forty years old.",
       "personality": "冷酷、残忍、傲慢",
+      "personality_en": "Cold, cruel and arrogant.",
       "habits": "擦拭Remington 30步枪，嚼木牙签",
+      "habits_en": "He cleans his Remington 30 rifle and chews a wooden toothpick.",
       "background": "Ourobouros公司St Petersburg仓库经理，Mr Big在佛罗里达的代理人；以1万美元接下绑架索利泰尔的活；设鲨鱼陷阱致残莱特",
+      "background_en": "Manager of the Ourobouros warehouse in St Petersburg and Mr Big's agent in Florida; he took ten thousand dollars for the kidnapping of Solitaire and set the shark trap that maimed Leiter.",
       "first_appearance_chapter": "X",
       "last_appearance_chapter": "XV",
       "relationships": [
@@ -605,11 +725,17 @@
       "name_zh": "法兰绒",
       "aliases": [],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "原文未详述",
+      "appearance_en": "The novel does not describe his appearance.",
       "age_clues": "原文未给",
+      "age_clues_en": "The novel gives no age.",
       "personality": "脾气暴躁",
+      "personality_en": "Bad-tempered.",
       "habits": "原文未详述",
+      "habits_en": "The novel does not describe his habits.",
       "background": "Mr Big手下，曾与Blabbermouth一同看守莱特",
+      "background_en": "One of Mr Big's men, who guarded Leiter together with Blabbermouth.",
       "first_appearance_chapter": "V",
       "last_appearance_chapter": "IX",
       "relationships": [
@@ -628,11 +754,17 @@
         "Baldwin"
       ],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "黑人，戴眼镜，面容无聊但友好",
+      "appearance_en": "A black man wearing spectacles, with a bored but friendly face.",
       "age_clues": "原文未给",
+      "age_clues_en": "The novel gives no age.",
       "personality": "尽责、善良，不愿顾客在其车厢出事",
+      "personality_en": "Conscientious and kind; he did not want a passenger to come to harm in his car.",
       "habits": "原文未详述",
+      "habits_en": "The novel does not describe his habits.",
       "background": "Silver Phantom号245号车厢列车员，警告邦德车上有敌人并送木楔，后在列车袭击中被炸死",
+      "background_en": "Pullman attendant of Car 245 on the Silver Phantom; he warned Bond of the enemy aboard and gave him wedges for the doors, and was later killed in the attack on the train.",
       "first_appearance_chapter": "X",
       "last_appearance_chapter": "XIII",
       "relationships": [
@@ -651,11 +783,17 @@
         "G-G"
       ],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "身材娇小，古铜色皮肤，浑身涂油发亮",
+      "appearance_en": "Small, with bronze skin, her body oiled all over so that it shone.",
       "age_clues": "原文未给",
+      "age_clues_en": "The novel gives no age.",
       "personality": "原文未详述",
+      "personality_en": "The novel does not describe her character.",
       "habits": "在Boneyard表演脱衣舞",
+      "habits_en": "She performed a striptease at the Boneyard.",
       "background": "Boneyard夜总会舞女，其表演为诱捕邦德与莱特的掩护",
+      "background_en": "A dancer at the Boneyard nightclub; her act provided the cover for trapping Bond and Leiter.",
       "first_appearance_chapter": "V",
       "last_appearance_chapter": "VI",
       "relationships": [
@@ -672,11 +810,17 @@
       "name_zh": "帕帕戈斯",
       "aliases": [],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "原文未详述",
+      "appearance_en": "The novel does not describe his appearance.",
       "age_clues": "原文未给",
+      "age_clues_en": "The novel gives no age.",
       "personality": "原文未详述",
+      "personality_en": "The novel does not describe his character.",
       "habits": "原文未详述",
+      "habits_en": "The novel does not describe his habits.",
       "background": "来自Tarpon Springs的希腊海绵渔民，Ourobouros公司名义业主，无犯罪记录；邦德与莱特推测其只是挂名人物",
+      "background_en": "A Greek sponge-fisher from Tarpon Springs and the nominal owner of Ourobouros Inc., with no criminal record; Bond and Leiter took him to be a mere figurehead.",
       "first_appearance_chapter": "IV",
       "last_appearance_chapter": "XIII",
       "relationships": [
@@ -693,11 +837,17 @@
       "name_zh": "波克西",
       "aliases": [],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "黑人，脸上有古天花疤痕",
+      "appearance_en": "A black man with a face pitted by ancient smallpox.",
       "age_clues": "原文未给",
+      "age_clues_en": "The novel gives no age.",
       "personality": "原文未详述",
+      "personality_en": "The novel does not describe his character.",
       "habits": "开出租车",
+      "habits_en": "He drives a taxi.",
       "background": "St Petersburg出租车司机，认出索利泰尔后向The Robber告密",
+      "background_en": "A St Petersburg taxi driver who recognised Solitaire and informed The Robber.",
       "first_appearance_chapter": "XII",
       "last_appearance_chapter": "XII",
       "relationships": [
@@ -714,11 +864,17 @@
       "name_zh": "宾斯旺格中尉",
       "aliases": [],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "四十多岁，多疑而暴躁的凶杀组警官",
+      "appearance_en": "In his late forties, a suspicious and crusty Homicide officer.",
       "age_clues": "四十多岁",
+      "age_clues_en": "In his late forties.",
       "personality": "对FBI不满，主张直接逮捕Mr Big",
+      "personality_en": "Resentful of the FBI and in favour of arresting Mr Big outright.",
       "habits": "原文未详述",
+      "habits_en": "The novel does not describe his habits.",
       "background": "纽约警察局凶杀组中尉",
+      "background_en": "A lieutenant in the New York Police Department's Homicide squad.",
       "first_appearance_chapter": "IV",
       "last_appearance_chapter": "IV",
       "relationships": [
@@ -735,11 +891,17 @@
       "name_zh": "达蒙指挥官",
       "aliases": [],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "机敏的加拿大人",
+      "appearance_en": "An alert Canadian.",
       "age_clues": "原文未给",
+      "age_clues_en": "The novel gives no age.",
       "personality": "原文未详述",
+      "personality_en": "The novel does not describe his character.",
       "habits": "原文未详述",
+      "habits_en": "The novel does not describe his habits.",
       "background": "A站站长，负责与CIA的联络",
+      "background_en": "Head of Station A, in charge of liaison with the CIA.",
       "first_appearance_chapter": "II",
       "last_appearance_chapter": "II",
       "relationships": [
@@ -758,11 +920,17 @@
         "Bloody Morgan"
       ],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "原文未详述",
+      "appearance_en": "The novel does not describe his appearance.",
       "age_clues": "原文未详述",
+      "age_clues_en": "The novel does not give his age.",
       "personality": "原文未详述",
+      "personality_en": "The novel does not describe his character.",
       "habits": "原文未详述",
+      "habits_en": "The novel does not describe his habits.",
       "background": "17世纪海盗，1675至1688年任牙买加总督兼总司令，1683年最后一次离开牙买加时被公开逮捕受审，死于贫困，未透露宝藏下落；宝藏藏于惊奇岛岩洞",
+      "background_en": "A seventeenth-century pirate, Governor and Commander-in-Chief of Jamaica from 1675 to 1688; on leaving Jamaica for the last time in 1683 he was openly arrested and tried, and died in penury without revealing where his treasure lay; the treasure was hidden in a cave on the Isle of Surprise.",
       "first_appearance_chapter": "II",
       "last_appearance_chapter": "XXII",
       "relationships": [
@@ -780,6 +948,7 @@
       "name_en": "SMERSH",
       "name_zh": "苏联反间谍机构",
       "role": "苏联惩罚机关，全称Smyert Spionam，意为间谍之死；Mr Big为其已知成员，邦德的私人复仇目标",
+      "description_en": "The Soviet organ of punishment, short for Smyert Spionam - 'Death to Spies'. Mr Big is a known member of it, and Bond's private target for revenge.",
       "first_chapter": "II"
     },
     {
@@ -787,6 +956,7 @@
       "name_en": "Secret Service",
       "name_zh": "英国特工部门",
       "role": "邦德所属机构，M为首脑；A站负责美国，C站负责加勒比地区",
+      "description_en": "Bond's service, headed by M; Station A covers America and Station C the Caribbean.",
       "first_chapter": "II"
     },
     {
@@ -794,6 +964,7 @@
       "name_en": "Central Intelligence Agency",
       "name_zh": "中央情报局",
       "role": "莱特所属机构，与FBI联合办案，负责海外部分",
+      "description_en": "Leiter's service; it works jointly with the FBI on the case and handles the overseas side.",
       "first_chapter": "I"
     },
     {
@@ -801,6 +972,7 @@
       "name_en": "Federal Bureau of Investigation",
       "name_zh": "联邦调查局",
       "role": "Dexter所属机构，负责美国境内一端，局长为胡佛",
+      "description_en": "Dexter's service, responsible for the American end of the case; its director is Hoover.",
       "first_chapter": "I"
     },
     {
@@ -808,6 +980,7 @@
       "name_en": "Office of Strategic Services",
       "name_zh": "战略情报局",
       "role": "美国战时特工部门，1943年因Mr Big法语流利将其派往马赛",
+      "description_en": "The American wartime secret service; in 1943 it sent Mr Big to Marseilles because of his fluent French.",
       "first_chapter": "III"
     },
     {
@@ -815,6 +988,7 @@
       "name_en": "MWD",
       "name_zh": "苏联内务部",
       "role": "1951年被策反的苏联特工所属机构，该特工后被Mr Big推下地铁站台身亡",
+      "description_en": "The Soviet Ministry of Internal Affairs; the Soviet agent turned double in 1951 belonged to it, and was later pushed under a subway train by Mr Big.",
       "first_chapter": "III"
     },
     {
@@ -822,6 +996,7 @@
       "name_en": "Black Widow Voodoo cult",
       "name_zh": "黑寡妇伏都教",
       "role": "Mr Big领导的伏都教派，信徒相信他是Baron Samedi本人，为其权力基础",
+      "description_en": "The voodoo cult led by Mr Big; its followers believe him to be Baron Samedi himself, and it is the foundation of his power.",
       "first_chapter": "II"
     },
     {
@@ -829,6 +1004,7 @@
       "name_en": "Ourobouros Worm and Bait Shippers Inc.",
       "name_zh": "衔尾蛇蠕虫与鱼饵运输公司",
       "role": "St Petersburg仓库企业，名义上售卖活饵、贝壳与热带鱼，实为金币走私中转站，毒鱼缸底藏金币，地板下有鲨鱼池",
+      "description_en": "The St Petersburg warehouse company, nominally selling live bait, shells and tropical fish, in reality the transit point for the gold smuggling; gold coins were hidden under the mud of its poison-fish tanks, and a shark pit lay beneath its floor.",
       "first_chapter": "IV"
     },
     {
@@ -836,6 +1012,7 @@
       "name_en": "United States Treasury",
       "name_zh": "美国财政部",
       "role": "其特别支部追踪金币流入，请求英方协助",
+      "description_en": "Its Special Branch tracked the inflow of gold coins and asked the British for help.",
       "first_chapter": "II"
     },
     {
@@ -843,6 +1020,7 @@
       "name_en": "United States Coastguard Service",
       "name_zh": "美国海岸警卫队",
       "role": "提供Secatur号进出港报告，St Petersburg有大型海岸警卫站",
+      "description_en": "It supplied reports on the Secatur's movements in and out of port; St Petersburg has a large Coastguard station.",
       "first_chapter": "IV"
     },
     {
@@ -850,6 +1028,7 @@
       "name_en": "New York Police Department",
       "name_zh": "纽约警察局",
       "role": "局长Monahan下令全面配合，凶杀组中尉Binswanger提供Mr Big档案",
+      "description_en": "Commissioner Monahan ordered full cooperation; Homicide Lieutenant Binswanger supplied the file on Mr Big.",
       "first_chapter": "IV"
     }
   ],
@@ -860,7 +1039,8 @@
       "name_zh": "纽约",
       "country": "美国",
       "fictional": false,
-      "role": "故事起点：邦德抵达Idlewild机场，入住St Regis酒店，夜访哈莱姆并被Mr Big俘获"
+      "role": "故事起点：邦德抵达Idlewild机场，入住St Regis酒店，夜访哈莱姆并被Mr Big俘获",
+      "description_en": "Where the story begins: Bond lands at Idlewild Airport, stays at the St Regis Hotel, visits Harlem at night and is captured by Mr Big."
     },
     {
       "id": "harlem",
@@ -868,7 +1048,8 @@
       "name_zh": "哈莱姆",
       "country": "美国",
       "fictional": false,
-      "role": "Mr Big的大本营，Boneyard夜总会、Sugar Ray's、Savoy Ballroom所在地，金币分销网络中心"
+      "role": "Mr Big的大本营，Boneyard夜总会、Sugar Ray's、Savoy Ballroom所在地，金币分销网络中心",
+      "description_en": "Mr Big's home ground, site of the Boneyard nightclub, Sugar Ray's and the Savoy Ballroom, and the centre of the gold-coin distribution network."
     },
     {
       "id": "london",
@@ -876,7 +1057,8 @@
       "name_zh": "伦敦",
       "country": "英国",
       "fictional": false,
-      "role": "邦德住所切尔西与总部所在地，M于1月初在此面授任务"
+      "role": "邦德住所切尔西与总部所在地，M于1月初在此面授任务",
+      "description_en": "Bond's home in Chelsea and the headquarters of the Secret Service, where M briefs him on the case in early January."
     },
     {
       "id": "jacksonville",
@@ -884,7 +1066,8 @@
       "name_zh": "杰克逊维尔",
       "country": "美国",
       "fictional": false,
-      "role": "邦德与索利泰尔凌晨5时下车换乘Silver Meteor号的佛罗里达枢纽"
+      "role": "邦德与索利泰尔凌晨5时下车换乘Silver Meteor号的佛罗里达枢纽",
+      "description_en": "The Florida junction where Bond and Solitaire leave the train at 5 a.m. and change to the Silver Meteor."
     },
     {
       "id": "st-petersburg",
@@ -892,7 +1075,8 @@
       "name_zh": "圣彼得堡",
       "country": "美国",
       "fictional": false,
-      "role": "佛罗里达西海岸城市，绰号阳光城与美国大墓地；Ourobouros仓库所在地，莱特在此遭鲨鱼袭击，索利泰尔在此被绑架"
+      "role": "佛罗里达西海岸城市，绰号阳光城与美国大墓地；Ourobouros仓库所在地，莱特在此遭鲨鱼袭击，索利泰尔在此被绑架",
+      "description_en": "A city on Florida's west coast, nicknamed the Sunshine City and the Great American Graveyard; site of the Ourobouros warehouse, where Leiter was attacked by a shark and Solitaire was kidnapped."
     },
     {
       "id": "treasure-island",
@@ -900,7 +1084,8 @@
       "name_zh": "宝藏岛",
       "country": "美国",
       "fictional": false,
-      "role": "St Petersburg外海滩岛，Everglades Cabanas旅馆所在地"
+      "role": "St Petersburg外海滩岛，Everglades Cabanas旅馆所在地",
+      "description_en": "A beach island off St Petersburg, site of the Everglades Cabanas motel."
     },
     {
       "id": "tampa",
@@ -908,7 +1093,8 @@
       "name_zh": "坦帕",
       "country": "美国",
       "fictional": false,
-      "role": "绑架索利泰尔的两名男子来自坦帕，Oasis酒吧后台球室为其联络点；FBI坦帕分局参与调查"
+      "role": "绑架索利泰尔的两名男子来自坦帕，Oasis酒吧后台球室为其联络点；FBI坦帕分局参与调查",
+      "description_en": "The two men who kidnapped Solitaire came from Tampa, and the poolroom behind the Oasis bar was their meeting place; the FBI's Tampa office joined the investigation."
     },
     {
       "id": "tarpon-springs",
@@ -916,7 +1102,8 @@
       "name_zh": "塔彭斯普林斯",
       "country": "美国",
       "fictional": false,
-      "role": "Ourobouros名义业主Papagos的家乡，希腊海绵渔民聚居地"
+      "role": "Ourobouros名义业主Papagos的家乡，希腊海绵渔民聚居地",
+      "description_en": "Home of Papagos, the nominal owner of Ourobouros, a settlement of Greek sponge-fishers."
     },
     {
       "id": "havana",
@@ -924,7 +1111,8 @@
       "name_zh": "哈瓦那",
       "country": "古巴",
       "fictional": false,
-      "role": "Secatur号停靠地，Mr Big与索利泰尔乘包机由此前往；邦德飞往牙买加途中飞越哈瓦那上空"
+      "role": "Secatur号停靠地，Mr Big与索利泰尔乘包机由此前往；邦德飞往牙买加途中飞越哈瓦那上空",
+      "description_en": "Where the Secatur called; Mr Big and Solitaire flew there by charter plane, and Bond flew over Havana on his way to Jamaica."
     },
     {
       "id": "nassau",
@@ -932,7 +1120,8 @@
       "name_zh": "拿骚",
       "country": "巴哈马",
       "fictional": false,
-      "role": "邦德飞往牙买加途中经停地"
+      "role": "邦德飞往牙买加途中经停地",
+      "description_en": "Where Bond's flight to Jamaica stopped on the way."
     },
     {
       "id": "jamaica",
@@ -940,7 +1129,8 @@
       "name_zh": "牙买加",
       "country": "牙买加",
       "fictional": false,
-      "role": "故事后半段舞台：金斯敦、Shark Bay、惊奇岛、Beau Desert、Manatee Bay"
+      "role": "故事后半段舞台：金斯敦、Shark Bay、惊奇岛、Beau Desert、Manatee Bay",
+      "description_en": "The setting of the second half of the novel: Kingston, Shark Bay, the Isle of Surprise, Beau Desert and Manatee Bay."
     },
     {
       "id": "isle-of-surprise",
@@ -948,7 +1138,8 @@
       "name_zh": "惊奇岛",
       "country": "牙买加",
       "fictional": true,
-      "role": "Shark Bay中央的珊瑚石灰岩小岛，血腥摩根宝藏库所在地，Mr Big以伏都鼓声与鲨鱼守卫该岛"
+      "role": "Shark Bay中央的珊瑚石灰岩小岛，血腥摩根宝藏库所在地，Mr Big以伏都鼓声与鲨鱼守卫该岛",
+      "description_en": "A small coral and limestone island in the middle of Shark Bay, site of Bloody Morgan's treasure chamber, guarded by Mr Big with voodoo drums and sharks."
     },
     {
       "id": "shark-bay",
@@ -956,7 +1147,8 @@
       "name_zh": "鲨鱼湾",
       "country": "牙买加",
       "fictional": true,
-      "role": "牙买加北海岸小港湾，血腥摩根旧锚地，Beau Desert据点俯瞰该湾"
+      "role": "牙买加北海岸小港湾，血腥摩根旧锚地，Beau Desert据点俯瞰该湾",
+      "description_en": "A small harbour on Jamaica's north coast, Bloody Morgan's old anchorage, overlooked by the Beau Desert observation post."
     },
     {
       "id": "beau-desert",
@@ -964,7 +1156,8 @@
       "name_zh": "博德泽特",
       "country": "牙买加",
       "fictional": true,
-      "role": "Shark Bay西岸约1000英亩种植园，Strangways租用的监视据点与邦德行动基地"
+      "role": "Shark Bay西岸约1000英亩种植园，Strangways租用的监视据点与邦德行动基地",
+      "description_en": "A plantation of about a thousand acres on the western arm of Shark Bay, rented by Strangways as an observation post and Bond's base of operations."
     },
     {
       "id": "manatee-bay",
@@ -972,7 +1165,8 @@
       "name_zh": "海牛湾",
       "country": "牙买加",
       "fictional": false,
-      "role": "牙买加西端海滩，西印度柑橘公司休养所，邦德与Quarrel训练一周之地"
+      "role": "牙买加西端海滩，西印度柑橘公司休养所，邦德与Quarrel训练一周之地",
+      "description_en": "A beach at the western end of Jamaica, site of the West Indian Citrus Company's rest house, where Bond and Quarrel trained for a week."
     },
     {
       "id": "llanrumney",
@@ -980,7 +1174,8 @@
       "name_zh": "兰拉姆尼",
       "country": "牙买加",
       "fictional": false,
-      "role": "血腥摩根在Shark Bay畔的庄园，以其威尔士出生地命名，摩根曾在此建三栋房屋"
+      "role": "血腥摩根在Shark Bay畔的庄园，以其威尔士出生地命名，摩根曾在此建三栋房屋",
+      "description_en": "Bloody Morgan's estate beside Shark Bay, named after his Welsh birthplace; Morgan built three houses there."
     },
     {
       "id": "port-maria",
@@ -988,7 +1183,8 @@
       "name_zh": "玛丽亚港",
       "country": "牙买加",
       "fictional": false,
-      "role": "Shark Bay邻近港口，Secatur号在此清关；邦德术后送往此地医院"
+      "role": "Shark Bay邻近港口，Secatur号在此清关；邦德术后送往此地医院",
+      "description_en": "The port near Shark Bay where the Secatur cleared customs; Bond was taken to its hospital after the operation."
     },
     {
       "id": "plum-point",
@@ -996,7 +1192,8 @@
       "name_zh": "普拉姆角",
       "country": "美国",
       "fictional": false,
-      "role": "北卡罗来纳州Beaufort县地名，1928年圣诞节前后据信有人在此挖出黑胡子部分宝藏，为金币来源的掩护说法"
+      "role": "北卡罗来纳州Beaufort县地名，1928年圣诞节前后据信有人在此挖出黑胡子部分宝藏，为金币来源的掩护说法",
+      "description_en": "A place in Beaufort County, North Carolina, where part of Blackbeard's treasure was believed to have been dug up around Christmas 1928 - the cover story for the gold coins."
     },
     {
       "id": "glen-cove",
@@ -1004,7 +1201,8 @@
       "name_zh": "格伦科夫",
       "country": "美国",
       "fictional": false,
-      "role": "长岛苏联周末休养营所在地，1951年苏联双面特工在前往此地的地铁站被推下站台身亡"
+      "role": "长岛苏联周末休养营所在地，1951年苏联双面特工在前往此地的地铁站被推下站台身亡",
+      "description_en": "Site of the Soviet weekend rest camp on Long Island; in 1951 a Soviet double agent was pushed under a subway train on his way there."
     }
   ],
   "equipment": [
@@ -1013,155 +1211,182 @@
       "name_en": "Beretta 418",
       "name_zh": "贝雷塔418手枪",
       "kind": "武器",
-      "note": "邦德配枪，0.25口径，镂空握把，配麂皮肩套；在Boneyard被Tee-Hee缴去，Mr Big退出子弹后归还"
+      "note": "邦德配枪，0.25口径，镂空握把，配麂皮肩套；在Boneyard被Tee-Hee缴去，Mr Big退出子弹后归还",
+      "description_en": "Bond's service pistol, .25 calibre, with a skeleton grip, carried in a chamois shoulder-holster; Tee-Hee took it from him at the Boneyard, and Mr Big emptied it and returned it."
     },
     {
       "id": "colt-38",
       "name_en": "Colt .38 Detective Special",
       "name_zh": "柯尔特38侦探特型左轮手枪",
       "kind": "武器",
-      "note": "锯短枪管，邦德由Tee-Hee尸体上夺得，用以在车库击毙两名男子"
+      "note": "锯短枪管，邦德由Tee-Hee尸体上夺得，用以在车库击毙两名男子",
+      "description_en": "A Colt .38 Detective Special with a sawn barrel, taken by Bond from Tee-Hee's body and used to shoot two men dead in the garage."
     },
     {
       "id": "remington-30",
       "name_en": "Remington 30 rifle",
       "name_zh": "雷明顿30步枪",
       "kind": "武器",
-      "note": "The Robber在Ourobouros仓库门口擦拭的步枪，用以射杀鹈鹕示威，后在仓库内与邦德交火"
+      "note": "The Robber在Ourobouros仓库门口擦拭的步枪，用以射杀鹈鹕示威，后在仓库内与邦德交火",
+      "description_en": "The rifle The Robber was cleaning at the door of the Ourobouros warehouse; he used it to shoot a pelican dead as a demonstration, and later fired it at Bond inside the warehouse."
     },
     {
       "id": "desk-gun",
       "name_en": "Desk drawer gun",
       "name_zh": "书桌暗枪",
       "kind": "武器",
-      "note": "Mr Big书桌抽屉内的暗枪，枪口为面向邦德座椅的0.45厘米钥匙孔，由桌下脚踏开关击发"
+      "note": "Mr Big书桌抽屉内的暗枪，枪口为面向邦德座椅的0.45厘米钥匙孔，由桌下脚踏开关击发",
+      "description_en": "A hidden gun in Mr Big's desk drawer, its muzzle the .45-centimetre keyhole facing Bond's chair, fired by a foot-switch under the desk."
     },
     {
       "id": "alarm-clock-bomb",
       "name_en": "Alarm clock bomb",
       "name_zh": "闹钟炸弹",
       "kind": "爆炸物",
-      "note": "半分钟酸液胶囊腐蚀铜线后触发4口径象枪空包弹，仅炸碎玻璃器皿，为Mr Big的警告名片"
+      "note": "半分钟酸液胶囊腐蚀铜线后触发4口径象枪空包弹，仅炸碎玻璃器皿，为Mr Big的警告名片",
+      "description_en": "A bomb triggered by a half-minute acid capsule eating through a copper wire, firing a blank 4-bore elephant-gun cartridge; it only shattered glassware, serving as Mr Big's warning visiting-card."
     },
     {
       "id": "frogman-suit",
       "name_en": "Frogman suit",
       "name_zh": "潜水服",
       "kind": "潜水装备",
-      "note": "黑色薄橡胶潜水服，由Q部门提供，配双气瓶各1000升自由空气、200大气压，水下可用近两小时"
+      "note": "黑色薄橡胶潜水服，由Q部门提供，配双气瓶各1000升自由空气、200大气压，水下可用近两小时",
+      "description_en": "A thin black rubber frogman suit supplied by Q Branch, with twin cylinders each holding a thousand litres of free air at two hundred atmospheres, giving nearly two hours underwater."
     },
     {
       "id": "champion-harpoon",
       "name_en": "Champion harpoon gun",
       "name_zh": "Champion鱼叉枪",
       "kind": "武器",
-      "note": "法国产水下鱼叉枪，邦德用以击退章鱼与咬伤其肩的梭鱼"
+      "note": "法国产水下鱼叉枪，邦德用以击退章鱼与咬伤其肩的梭鱼",
+      "description_en": "A French underwater harpoon gun, used by Bond to escape the octopus and to drive off the barracuda that bit his shoulder."
     },
     {
       "id": "commando-dagger",
       "name_en": "Commando dagger",
       "name_zh": "突击队匕首",
       "kind": "武器",
-      "note": "Wilkinson战时设计款，邦德水下随身携带"
+      "note": "Wilkinson战时设计款，邦德水下随身携带",
+      "description_en": "A Wilkinson wartime-pattern dagger, carried by Bond underwater."
     },
     {
       "id": "limpet-mine",
       "name_en": "Limpet mine",
       "name_zh": "水雷",
       "kind": "爆炸物",
-      "note": "扁锥形磁性水雷，配10分钟至8小时引信，邦德选用7小时引信装于Secatur号龙骨，约6时爆炸沉船"
+      "note": "扁锥形磁性水雷，配10分钟至8小时引信，邦德选用7小时引信装于Secatur号龙骨，约6时爆炸沉船",
+      "description_en": "A flat, cone-shaped magnetic mine with fuses from ten minutes to eight hours; Bond chose a seven-hour fuse, fixed it to the Secatur's keel, and it exploded at about 6 a.m. and sank the yacht."
     },
     {
       "id": "shark-repellent",
       "name_en": "Shark repellent",
       "name_zh": "驱鲨剂",
       "kind": "防护用品",
-      "note": "醋酸铜加黑色苯胺染料混合物，美国海军实验室研制，邦德行动时尚未运到，未能使用"
+      "note": "醋酸铜加黑色苯胺染料混合物，美国海军实验室研制，邦德行动时尚未运到，未能使用",
+      "description_en": "A mixture of copper acetate and dark nigrosine dye, developed by the US Naval Research Laboratory; it had not arrived in time for Bond's swim, so he could not use it."
     },
     {
       "id": "rolex",
       "name_en": "Rolex watch",
       "name_zh": "劳力士手表",
       "kind": "计时器",
-      "note": "邦德水下计时用，装水雷时显示23时03分"
+      "note": "邦德水下计时用，装水雷时显示23时03分",
+      "description_en": "Bond's watch, used to time the swim underwater; it showed 11.03 p.m. when he fixed the mine."
     }
   ],
   "vehicles": [
     {
       "name_en": "BOAC Stratocruiser",
       "name_zh": "英国海外航空同温层巡航客机",
-      "note": "邦德由伦敦飞抵纽约Idlewild机场所乘飞机"
+      "note": "邦德由伦敦飞抵纽约Idlewild机场所乘飞机",
+      "description_en": "The aircraft that brought Bond from London to Idlewild Airport, New York."
     },
     {
       "name_en": "Bentley 1933 4.5-litre",
       "name_zh": "1933年宾利4.5升敞篷车",
-      "note": "邦德座驾，配Amherst-Villiers增压器，双雾灯"
+      "note": "邦德座驾，配Amherst-Villiers增压器，双雾灯",
+      "description_en": "Bond's car, fitted with an Amherst-Villiers supercharger and twin fog lamps."
     },
     {
       "name_en": "Buick limousine",
       "name_zh": "别克豪华轿车",
-      "note": "Halloran在机场接邦德所用黑色轿车，司机Grady"
+      "note": "Halloran在机场接邦德所用黑色轿车，司机Grady",
+      "description_en": "The black car Halloran used to collect Bond at the airport, driven by Grady."
     },
     {
       "name_en": "Chevrolet sedan",
       "name_zh": "雪佛兰轿车",
-      "note": "Mr Big在St Regis酒店外所乘黑色轿车，由黑人女司机驾驶"
+      "note": "Mr Big在St Regis酒店外所乘黑色轿车，由黑人女司机驾驶",
+      "description_en": "The black car Mr Big rode in outside the St Regis Hotel, driven by a black woman chauffeur."
     },
     {
       "name_en": "Secatur",
       "name_zh": "塞卡图尔号",
-      "note": "70英尺柴油游艇，双通用汽车柴油机，钢船体，1947年为百万富翁建造，往返牙买加与佛罗里达运送金币，终被水雷炸沉"
+      "note": "70英尺柴油游艇，双通用汽车柴油机，钢船体，1947年为百万富翁建造，往返牙买加与佛罗里达运送金币，终被水雷炸沉",
+      "description_en": "A seventy-foot diesel yacht with twin General Motors diesels and a steel hull, built in 1947 for a millionaire; it ran between Jamaica and Florida carrying gold coins, and was finally sunk by a limpet mine."
     },
     {
       "name_en": "The Silver Phantom",
       "name_zh": "银色幽灵号",
-      "note": "Seaboard铁路快车，4000马力双柴油电力机车，邦德与索利泰尔由纽约南下所乘，H包厢遭袭击"
+      "note": "Seaboard铁路快车，4000马力双柴油电力机车，邦德与索利泰尔由纽约南下所乘，H包厢遭袭击",
+      "description_en": "A Seaboard Railroad express with a 4,000-horsepower twin diesel-electric locomotive, which Bond and Solitaire took south from New York; Compartment H was attacked."
     },
     {
       "name_en": "The Silver Meteor",
       "name_zh": "银色流星号",
-      "note": "银色幽灵号的姊妹列车，邦德与索利泰尔由Jacksonville改乘此车南下"
+      "note": "银色幽灵号的姊妹列车，邦德与索利泰尔由Jacksonville改乘此车南下",
+      "description_en": "The sister train of the Silver Phantom, which Bond and Solitaire took from Jacksonville southwards."
     },
     {
       "name_en": "Cord saloon",
       "name_zh": "科德轿车",
-      "note": "莱特在佛罗里达的座驾，15年车龄的老式美国车"
+      "note": "莱特在佛罗里达的座驾，15年车龄的老式美国车",
+      "description_en": "Leiter's car in Florida, a fifteen-year-old American saloon."
     },
     {
       "name_en": "Sunbeam Talbot coupe",
       "name_zh": "阳光塔尔博特双门跑车",
-      "note": "Strangways为邦德在牙买加准备的座驾，新轮胎，速度快"
+      "note": "Strangways为邦德在牙买加准备的座驾，新轮胎，速度快",
+      "description_en": "The car Strangways provided for Bond in Jamaica, with new tyres and a fast turn of speed."
     },
     {
       "name_en": "Transcarib plane",
       "name_zh": "泛加勒比航空飞机",
-      "note": "四引擎银色客机，邦德由坦帕经拿骚飞往牙买加所乘，途中遭遇热带风暴"
+      "note": "四引擎银色客机，邦德由坦帕经拿骚飞往牙买加所乘，途中遭遇热带风暴",
+      "description_en": "A silver four-engined airliner that took Bond from Tampa via Nassau to Jamaica, flying through a tropical storm."
     }
   ],
   "communications": [
     {
       "name": "电话",
-      "note": "邦德与M、莱特、索利泰尔通话；Mr Big通过内部电话指挥手下；莱特与FBI坦帕分局通话求援"
+      "note": "邦德与M、莱特、索利泰尔通话；Mr Big通过内部电话指挥手下；莱特与FBI坦帕分局通话求援",
+      "description_en": "Used by Bond to speak to M, Leiter and Solitaire; Mr Big commanded his men by house telephone, and Leiter telephoned the FBI office in Tampa for help."
     },
     {
       "name": "电传打字机",
-      "note": "邦德抵达时想象其名字经电传网络发往华盛顿、缉毒局、反间谍部门、财政部与FBI核查"
+      "note": "邦德抵达时想象其名字经电传网络发往华盛顿、缉毒局、反间谍部门、财政部与FBI核查",
+      "description_en": "Bond imagined his name being sent by teleprinter across the network to Washington, the Bureau of Narcotics, Counter-Espionage, the Treasury and the FBI for checking."
     },
     {
       "name": "无线电",
-      "note": "Secatur号仅在由古巴或牙买加启航前短暂发报，以伏都密语Language明码发送，无法破译"
+      "note": "Secatur号仅在由古巴或牙买加启航前短暂发报，以伏都密语Language明码发送，无法破译",
+      "description_en": "The Secatur kept off the air except for brief messages before sailing from Cuba or Jamaica, sent en clair in 'Language', the secret voodoo speech, which could not be deciphered."
     },
     {
       "name": "对讲机",
-      "note": "Mr Big书桌上的大型对讲机约有20个开关，用于向全楼发令"
+      "note": "Mr Big书桌上的大型对讲机约有20个开关，用于向全楼发令",
+      "description_en": "The large intercom on Mr Big's desk, with about twenty switches, used to give orders throughout the building."
     },
     {
       "name": "电报",
-      "note": "列车上的内应在一张电报纸上写下情报，等候费城站停车时发出"
+      "note": "列车上的内应在一张电报纸上写下情报，等候费城站停车时发出",
+      "description_en": "An informer on the train wrote his report on a telegraph blank, waiting to send it at the ten-minute stop in Philadelphia."
     },
     {
       "name": "船岸电话与Decca导航仪",
-      "note": "Secatur号装备的无线电设备，邦德在Beau Desert观察时提及"
+      "note": "Secatur号装备的无线电设备，邦德在Beau Desert观察时提及",
+      "description_en": "Radio equipment fitted aboard the Secatur, noted by Bond while watching her from Beau Desert."
     }
   ],
   "mission": {
@@ -1178,132 +1403,200 @@
     ],
     "outcome": "水雷于清晨约6时爆炸，Secatur号沉没，无人生还，Mr Big被梭鱼与豹鲨撕碎；邦德与索利泰尔在龙骨拖刑中幸存获救；警方封锁惊奇岛，宝藏打捞启动，M指示以Universal Export名义申索宝藏；Mr Big在哈莱姆与St Petersburg的手下被以金币走私罪名收押；莱特保住性命但截肢整形"
   },
+  "mission_en": {
+    "objective_en": "Trace the source of seventeenth-century gold coins circulating in America, establish that they are Bloody Morgan's treasure being used by Mr Big to finance the Soviet espionage system in the United States, find where the treasure lies and seize it, and destroy Mr Big and his SMERSH network.",
+    "investigation_en": "After M's briefing in London, Bond goes to New York and joins the FBI and the CIA, studying the coin-circulation files and the Secatur's sailing records; he visits Harlem at night, is captured, and is helped by Solitaire. He travels south to Florida, reconnoitres the Ourobouros warehouse and finds gold hidden under the mud of the poison-fish tanks; after Leiter is attacked by a shark, Bond takes revenge by killing The Robber. He then goes to Jamaica, joins Strangways and Quarrel, trains for a week, swims to the Isle of Surprise, finds the treasure chamber and fixes a limpet mine to the Secatur's keel.",
+    "key_clues_en": [
+      "All the coins were minted before 1650, including a Rose Noble of Edward IV, and were identified as Bloody Morgan's treasure.",
+      "The Zachary Smith case: gold coins reached the market through the Seventh Heaven Bar-B-Q in Harlem at twenty dollars each.",
+      "A twenty-dollar bill paid by one of Mr Big's lieutenants to an FBI double agent for information received.",
+      "The Secatur ran regularly between the Isle of Surprise in Jamaica and St Petersburg, Florida, docking at the Ourobouros wharf.",
+      "Gold coins lay hidden under the mud at the bottom of the poison-fish tanks, about a thousand coins to a tank.",
+      "A New York syndicate bought the Isle of Surprise for a thousand pounds; the syndicate belonged wholly to Mr Big.",
+      "Every night blood and offal were sprayed over the sea around the Isle of Surprise to excite the sharks and barracuda guarding it."
+    ],
+    "outcome_en": "The mine exploded at about six o'clock in the morning, the Secatur sank with no survivors, and Mr Big was torn apart by barracuda and a leopard shark; Bond and Solitaire survived the keel-hauling and were rescued. Police cordoned off the Isle of Surprise and salvage of the treasure began, with M ordering the claim filed in the name of Universal Export; Mr Big's men in Harlem and St Petersburg were rounded up on gold-smuggling charges, and Leiter survived, though amputated and undergoing plastic surgery."
+  },
   "events": [
     {
       "id": "gold-coins-briefing",
       "chapter": "II",
       "title": "M面授金币案",
+      "title_en": "M Briefs Bond on the Gold Coins",
       "cause": "近几个月美国出现近千枚17世纪古金币，财政部特别支部与FBI追踪无果，怀疑与苏联间谍资金有关",
-      "effect": "邦德受命赴美，与FBI及CIA联合查案，目标直指Mr Big与牙买加宝藏"
+      "cause_en": "Nearly a thousand seventeenth-century gold coins had appeared in America in recent months, and the Treasury's Special Branch and the FBI, tracing them without result, suspected a link with Soviet spy funds.",
+      "effect": "邦德受命赴美，与FBI及CIA联合查案，目标直指Mr Big与牙买加宝藏",
+      "effect_en": "Bond was ordered to America to work jointly with the FBI and the CIA, with the trail pointing directly at Mr Big and the Jamaican treasure."
     },
     {
       "id": "clock-bomb-warning",
       "chapter": "III",
       "title": "闹钟炸弹警告",
+      "title_en": "The Alarm-Clock Bomb Warning",
       "cause": "Mr Big在St Regis酒店外认出邦德，要警告其离境",
-      "effect": "炸弹仅炸碎玻璃器皿未伤人，纸条称邦德的心跳已被计数，邦德决心回敬"
+      "cause_en": "Mr Big had recognised Bond outside the St Regis Hotel and wanted to warn him off.",
+      "effect": "炸弹仅炸碎玻璃器皿未伤人，纸条称邦德的心跳已被计数，邦德决心回敬",
+      "effect_en": "The bomb only smashed glassware and hurt no one; its note said Bond's heartbeats had been counted, and Bond resolved to return the compliment."
     },
     {
       "id": "harlem-night-visit",
       "chapter": "V",
       "title": "夜访哈莱姆",
+      "title_en": "The Night Visit to Harlem",
       "cause": "邦德想亲眼了解Mr Big的地盘",
-      "effect": "两人行踪全程被The Whisper的监视网掌握，Mr Big设下Z号桌陷阱"
+      "cause_en": "Bond wanted to see Mr Big's territory for himself.",
+      "effect": "两人行踪全程被The Whisper的监视网掌握，Mr Big设下Z号桌陷阱",
+      "effect_en": "The pair were watched throughout by The Whisper's network, and Mr Big set the Table Z trap for them."
     },
     {
       "id": "table-z-trap",
       "chapter": "VI",
       "title": "Z号桌陷阱",
+      "title_en": "The Table Z Trap",
       "cause": "Mr Big下令将两人引至Boneyard夜总会Z号桌",
-      "effect": "桌子连人沉入地下密室，邦德被带去见Mr Big，莱特被扣为人质"
+      "cause_en": "Mr Big ordered the two men to be given Table Z at the Boneyard nightclub.",
+      "effect": "桌子连人沉入地下密室，邦德被带去见Mr Big，莱特被扣为人质",
+      "effect_en": "The table sank with them into a cellar below, Bond was taken to see Mr Big, and Leiter was held hostage."
     },
     {
       "id": "solitaire-truth-test",
       "chapter": "VII",
       "title": "索利泰尔测谎",
+      "title_en": "Solitaire's Truth Test",
       "cause": "Mr Big要验证邦德关于金币的说辞真假",
-      "effect": "索利泰尔以牌占卜后称邦德所言为真，邦德获知她是潜在盟友"
+      "cause_en": "Mr Big wanted to know whether Bond's story about the gold coins was true.",
+      "effect": "索利泰尔以牌占卜后称邦德所言为真，邦德获知她是潜在盟友",
+      "effect_en": "Solitaire declared by the cards that Bond spoke the truth, and Bond learned that she might be an ally."
     },
     {
       "id": "finger-breaking",
       "chapter": "VIII",
       "title": "邦德手指被折断",
+      "title_en": "Bond's Finger Is Broken",
       "cause": "Mr Big要给邦德留下记号并警告其当日离境",
-      "effect": "邦德左手小指骨折，莱特遭殴打后被弃于医院外"
+      "cause_en": "Mr Big wanted to leave a mark on Bond and warn him to leave the country that day.",
+      "effect": "邦德左手小指骨折，莱特遭殴打后被弃于医院外",
+      "effect_en": "Bond's left little finger was broken, and Leiter was beaten and dumped outside a hospital."
     },
     {
       "id": "bond-escape-harlem",
       "chapter": "VIII",
       "title": "邦德逃出哈莱姆",
+      "title_en": "Bond Escapes from Harlem",
       "cause": "邦德佯装顺从后在楼道袭击押送者Tee-Hee",
-      "effect": "Tee-Hee坠楼身亡，邦德夺枪击毙车库两名男子后驾车逃脱"
+      "cause_en": "Feigning submission, Bond attacked his escort Tee-Hee in the stairwell.",
+      "effect": "Tee-Hee坠楼身亡，邦德夺枪击毙车库两名男子后驾车逃脱",
+      "effect_en": "Tee-Hee fell to his death down the stairs, and Bond seized a gun, shot two men dead in the garage and drove away."
     },
     {
       "id": "solitaire-defection",
       "chapter": "IX",
       "title": "索利泰尔叛逃",
+      "title_en": "Solitaire Defects",
       "cause": "索利泰尔欲摆脱Mr Big近一年的软禁，电话向邦德求救并以自杀相逼",
-      "effect": "邦德安排她以Mrs Bryce身份同乘Silver Phantom号南下"
+      "cause_en": "Solitaire wanted to escape nearly a year of captivity under Mr Big, and telephoned Bond for help, threatening to kill herself.",
+      "effect": "邦德安排她以Mrs Bryce身份同乘Silver Phantom号南下",
+      "effect_en": "Bond arranged for her to travel south on the Silver Phantom as Mrs Bryce."
     },
     {
       "id": "train-attack",
       "chapter": "XIII",
       "title": "列车袭击",
+      "title_en": "The Train Attack",
       "cause": "Mr Big要灭口邦德与索利泰尔，并伪装成伏都仪式谋杀",
-      "effect": "H包厢被机枪与手榴弹炸毁，列车员Baldwin被炸死，邦德两人因提前下车幸免"
+      "cause_en": "Mr Big wanted Bond and Solitaire dead, disguised as a ritual voodoo murder.",
+      "effect": "H包厢被机枪与手榴弹炸毁，列车员Baldwin被炸死，邦德两人因提前下车幸免",
+      "effect_en": "Compartment H was destroyed by machine-gun fire and a grenade, Baldwin the attendant was killed, and Bond and Solitaire survived only because they had left the train early."
     },
     {
       "id": "solitaire-kidnapping",
       "chapter": "XIV",
       "title": "索利泰尔被绑架",
+      "title_en": "Solitaire Is Kidnapped",
       "cause": "The Robber受Mr Big之命以1万美元雇人从Everglades Cabanas劫走索利泰尔",
-      "effect": "索利泰尔被装入留声机包装箱运走，后被带往古巴与牙买加"
+      "cause_en": "On Mr Big's orders The Robber paid ten thousand dollars to have Solitaire seized from the Everglades Cabanas.",
+      "effect": "索利泰尔被装入留声机包装箱运走，后被带往古巴与牙买加",
+      "effect_en": "Solitaire was carried off in a radiogram packing-case and later taken to Cuba and Jamaica."
     },
     {
       "id": "leiter-shark-attack",
       "chapter": "XIV",
       "title": "莱特鲨鱼袭击",
+      "title_en": "Leiter's Shark Attack",
       "cause": "莱特清晨独自前往Ourobouros仓库调查，掉入地板下的鲨鱼池",
-      "effect": "莱特失去一条手臂与半条左腿，面部重伤但保住性命，后截肢整形"
+      "cause_en": "Leiter went alone to the Ourobouros warehouse at dawn and fell into the shark pit under the floor.",
+      "effect": "莱特失去一条手臂与半条左腿，面部重伤但保住性命，后截肢整形",
+      "effect_en": "Leiter lost an arm and half his left leg and was gravely injured, though he survived and later underwent amputation and plastic surgery."
     },
     {
       "id": "robber-revenge",
       "chapter": "XV",
       "title": "邦德复仇杀死The Robber",
+      "title_en": "Bond Avenges Leiter on The Robber",
       "cause": "邦德夜入仓库发现金币藏匿法，The Robber持枪拦截",
-      "effect": "邦德佯降后将其踢入鲨鱼池喂鲨，并获知绑架者为坦帕的Butch与The Lifer"
+      "cause_en": "Bond entered the warehouse at night, found how the gold was hidden, and was intercepted by The Robber with a rifle.",
+      "effect": "邦德佯降后将其踢入鲨鱼池喂鲨，并获知绑架者为坦帕的Butch与The Lifer",
+      "effect_en": "Feigning surrender, Bond kicked The Robber into the shark pit and learned that the kidnappers were Butch and The Lifer of Tampa."
     },
     {
       "id": "jamaica-training",
       "chapter": "XVII",
       "title": "Manatee Bay训练",
+      "title_en": "Training at Manatee Bay",
       "cause": "邦德需具备潜水穿越鲨鱼与梭鱼水域的能力以登上惊奇岛",
-      "effect": "一周训练后邦德可游两英里不疲倦，左手伤愈，烟酒全戒"
+      "cause_en": "Bond needed to be fit enough to swim through shark and barracuda waters to reach the Isle of Surprise.",
+      "effect": "一周训练后邦德可游两英里不疲倦，左手伤愈，烟酒全戒",
+      "effect_en": "After a week of training Bond could swim two miles without tiring, his injured hand had healed, and he had given up smoking and drinking."
     },
     {
       "id": "mine-planted",
       "chapter": "XIX",
       "title": "水雷安装",
+      "title_en": "The Mine Is Planted",
       "cause": "Secatur号次日清晨启航，邦德当夜潜水至岛下",
-      "effect": "23时03分水雷装上龙骨，选用7小时引信，定时约6时爆炸"
+      "cause_en": "The Secatur was to sail at dawn, so Bond swam to the island that night.",
+      "effect": "23时03分水雷装上龙骨，选用7小时引信，定时约6时爆炸",
+      "effect_en": "At 11.03 p.m. the mine was fixed to the keel with a seven-hour fuse, timed to explode at about 6 a.m."
     },
     {
       "id": "treasure-chamber-found",
       "chapter": "XX",
       "title": "发现宝藏库",
+      "title_en": "The Treasure Chamber Is Found",
       "cause": "邦德为躲避梭鱼群游入岛基岩洞",
-      "effect": "发现血腥摩根宝藏库与熔金作业，鼓声实为留声机录音，邦德被俘"
+      "cause_en": "Fleeing a school of barracuda, Bond swam into a cave at the base of the island.",
+      "effect": "发现血腥摩根宝藏库与熔金作业，鼓声实为留声机录音，邦德被俘",
+      "effect_en": "He found Bloody Morgan's treasure chamber and the melting operation, learned the drums were a phonograph recording, and was captured."
     },
     {
       "id": "keel-hauling",
       "chapter": "XXI",
       "title": "龙骨拖刑判决",
+      "title_en": "The Keel-Hauling Sentence",
       "cause": "Mr Big要处死邦德与叛逃的索利泰尔，并以其尸体验证鲨鱼攻击理论",
-      "effect": "两人被绑在paravane后拖入海中，水雷爆炸时间只差分秒"
+      "cause_en": "Mr Big wanted Bond and the defecting Solitaire dead, and to test his theory of shark attack with their bodies.",
+      "effect": "两人被绑在paravane后拖入海中，水雷爆炸时间只差分秒",
+      "effect_en": "The two were to be bound to the paravane and towed through the sea, with the mine due to explode within minutes of the sentence being carried out."
     },
     {
       "id": "secatur-destroyed",
       "chapter": "XXII",
       "title": "Secatur号沉没与Mr Big之死",
+      "title_en": "The Secatur Sinks and Mr Big Dies",
       "cause": "水雷在船过珊瑚礁前爆炸",
-      "effect": "Secatur号沉没无人生还，Mr Big被梭鱼与豹鲨撕碎，邦德与索利泰尔被Quarrel救起"
+      "cause_en": "The mine exploded just before the ship cleared the reef.",
+      "effect": "Secatur号沉没无人生还，Mr Big被梭鱼与豹鲨撕碎，邦德与索利泰尔被Quarrel救起",
+      "effect_en": "The Secatur sank with no survivors, Mr Big was torn apart by barracuda and a leopard shark, and Bond and Solitaire were rescued by Quarrel."
     },
     {
       "id": "treasure-claim",
       "chapter": "XXIII",
       "title": "宝藏申索与假期",
+      "title_en": "The Treasure Claim and the Leave",
       "cause": "宝藏已发现，残骸位于约20英寻水深处",
-      "effect": "M指示以Universal Export名义申索宝藏并立即打捞，批准邦德两周假期"
+      "cause_en": "The treasure had been found and the wreck lay in about twenty fathoms of water.",
+      "effect": "M指示以Universal Export名义申索宝藏并立即打捞，批准邦德两周假期",
+      "effect_en": "M ordered the treasure claimed in the name of Universal Export and salvage begun at once, and granted Bond two weeks' leave."
     }
   ],
   "facts": [
@@ -1312,6 +1605,7 @@
       "chapter": "I",
       "entity": "bond",
       "fact": "邦德乘BOAC同温层巡航客机抵达纽约Idlewild机场，持英国外交护照，号码0094567",
+      "fact_en": "Bond arrived in New York aboard a BOAC Stratocruiser, travelling on British diplomatic passport 0094567.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1323,6 +1617,7 @@
       "chapter": "I",
       "entity": "bond",
       "fact": "美方交给邦德1000美元，称是Schmidt-Kinaski案缴获的共产党资金，供其在任务中花用",
+      "fact_en": "The Americans gave Bond a thousand dollars, described as Communist funds seized in the Schmidt-Kinaski case, for his expenses on the assignment.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1334,6 +1629,7 @@
       "chapter": "I",
       "entity": "mr-big",
       "fact": "邦德在St Regis酒店外首次瞥见Mr Big：黑人女司机驾驶的黑色雪佛兰轿车后座有一张巨大灰黑面孔正注视他",
+      "fact_en": "Outside the St Regis Hotel Bond first glimpsed Mr Big: a huge grey-black face staring at him from the back seat of a black Chevrolet driven by a black woman chauffeur.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1345,6 +1641,7 @@
       "chapter": "I",
       "entity": "felix-leiter",
       "fact": "费利克斯·莱特在St Regis酒店2100号房等候邦德，担任CIA与FBI之间的联络员",
+      "fact_en": "Felix Leiter waited for Bond in Room 2100 of the St Regis, acting as liaison between the CIA and the FBI.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1356,6 +1653,7 @@
       "chapter": "II",
       "entity": "bond",
       "fact": "邦德座驾为1933年宾利4.5升敞篷车，配Amherst-Villiers增压器",
+      "fact_en": "Bond's car was a 1933 Bentley 4 1/2-litre convertible fitted with an Amherst-Villiers supercharger.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1367,6 +1665,7 @@
       "chapter": "II",
       "entity": "bond",
       "fact": "邦德手背曾被苏联特工刻下代表间谍的俄文字母SCH，经植皮修复，取皮处为前臂上部",
+      "fact_en": "A Soviet agent had carved the Russian letter for SCH - the first letter of Spion, a spy - into the back of Bond's hand; the mark was removed by a skin graft taken from high on his forearm.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1378,6 +1677,7 @@
       "chapter": "II",
       "entity": "smersh",
       "fact": "SMERSH为Smyert Spionam的缩写，意为间谍之死；贝利亚已倒台，其控制权成疑问",
+      "fact_en": "SMERSH is short for Smyert Spionam, 'Death to Spies'; with Beria gone, it was uncertain who now controlled it.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1389,6 +1689,7 @@
       "chapter": "II",
       "entity": "coins",
       "fact": "M展示的金币全部铸造于1650年前，包括爱德华四世玫瑰金币、西班牙双埃克塞伦特金币等，鉴定为血腥摩根宝藏",
+      "fact_en": "Every coin M showed Bond was minted before 1650, including a Rose Noble of Edward IV and Spanish double excellentes, and was identified as part of Bloody Morgan's treasure.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1400,6 +1701,7 @@
       "chapter": "II",
       "entity": "coins",
       "fact": "近几个月美国已出现近千枚此类金币，多经当铺、银行与古玩商流出",
+      "fact_en": "Nearly a thousand such coins had appeared in the United States in recent months, surfacing mostly through pawnbrokers, banks and curio dealers.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1411,6 +1713,7 @@
       "chapter": "II",
       "entity": "zachary-smith",
       "fact": "哈莱姆卧铺车厢搬运工Zachary Smith于去年11月21日向Fein Jewels出售4枚金币，得款100美元；金币购自Seventh Heaven Bar-B-Q酒吧，每枚20美元",
+      "fact_en": "Harlem sleeping-car porter Zachary Smith sold four gold coins to Fein Jewels on 21 November last for a hundred dollars, having bought them in the Seventh Heaven Bar-B-Q for twenty dollars each.",
       "timeline_position": "1953年11月21日",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1422,6 +1725,7 @@
       "chapter": "II",
       "entity": "secatur",
       "fact": "柴油游艇Secatur号往返牙买加北海岸小岛，经佛罗里达群岛至墨西哥湾St Petersburg，船与岛的所有权均归Mr Big",
+      "fact_en": "The diesel yacht Secatur ran between a small island off Jamaica's north coast and St Petersburg on the Gulf of Mexico, and both the yacht and the island belonged to Mr Big.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1433,6 +1737,7 @@
       "chapter": "II",
       "entity": "mr-big",
       "fact": "Mr Big是SMERSH已知成员、苏联特工，同时为黑寡妇伏都教首领，被信徒视为Baron Samedi本人",
+      "fact_en": "Mr Big was a known member of SMERSH and a Soviet agent, and also head of the Black Widow voodoo cult, believed by its followers to be Baron Samedi himself.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1444,6 +1749,7 @@
       "chapter": "III",
       "entity": "mr-big",
       "fact": "Mr Big真名Buonaparte Ignace Gallia，45岁，生于海地，黑白混血，因姓名首字母与高大体型少年时即被称为Big Boy",
+      "fact_en": "Mr Big's real name was Buonaparte Ignace Gallia; he was forty-five, born in Haiti of mixed black and French blood, and was called 'Big Boy' from his youth because of his initials and his great size.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1455,6 +1761,7 @@
       "chapter": "III",
       "entity": "mr-big",
       "fact": "Mr Big不饮酒不吸烟，唯一嗜好是女人，患慢性心脏病致皮肤呈灰色",
+      "fact_en": "Mr Big neither drank nor smoked; his only vice was women, and chronic heart disease had given his skin a greyish tinge.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1466,6 +1773,7 @@
       "chapter": "III",
       "entity": "mr-big",
       "fact": "Mr Big于1943年入伍，因法语流利被OSS派往马赛，战后失踪五年疑赴莫斯科，1950年返回哈莱姆",
+      "fact_en": "Mr Big was called up in 1943 and, because of his fluent French, was sent by the OSS to Marseilles; after the war he disappeared for five years, probably to Moscow, and returned to Harlem in 1950.",
       "timeline_position": "1943年至1950年",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1477,6 +1785,7 @@
       "chapter": "III",
       "entity": "mr-big",
       "fact": "Mr Big给手下统一定薪每年2万美元，并以谋杀清除不可靠者",
+      "fact_en": "Mr Big paid all his lieutenants a flat rate of twenty thousand dollars a year and removed unreliable men by murder.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1488,6 +1797,7 @@
       "chapter": "III",
       "entity": "mr-big",
       "fact": "1951年一名苏联MWD双面特工在地铁站被推下站台身亡，Mr Big经照片确认当时在站台上，但有坚固不在场证明",
+      "fact_en": "In 1951 a Soviet MWD double agent was pushed under a subway train and killed; Mr Big was positively identified from photographs as the huge black man standing on the platform, but he had an alibi as solid as Fort Knox.",
       "timeline_position": "1951年",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1499,6 +1809,7 @@
       "chapter": "III",
       "entity": "bond",
       "fact": "邦德获准保留Beretta .25手枪与麂皮肩套，其余私人物品由FBI收走转送牙买加；化名波士顿人，任职于Guaranty Trust伦敦办事处",
+      "fact_en": "Bond was allowed to keep his Beretta .25 with its skeleton grip and chamois shoulder-holster; the FBI took his other belongings to forward to Jamaica, and he was given the cover of a Bostonian employed by the London office of the Guaranty Trust Company.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1510,6 +1821,7 @@
       "chapter": "III",
       "entity": "bomb",
       "fact": "闹钟炸弹以半分钟酸液胶囊触发4口径象枪空包弹，纸条写道时钟之心已停跳，邦德的心跳已被计数，落款1234567…？",
+      "fact_en": "The alarm-clock bomb was triggered by a half-minute acid capsule that ate through a copper wire and fired a blank 4-bore elephant-gun cartridge; the note inside read that the heart of the clock had stopped ticking, that Bond's own heartbeats were numbered, and was signed '1234567...?'",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1521,6 +1833,7 @@
       "chapter": "IV",
       "entity": "ourobouros",
       "fact": "Secatur号每次停靠St Petersburg的Ourobouros Worm and Bait Shippers Inc.码头，该公司名义业主为来自Tarpon Springs的希腊海绵渔民Papagos",
+      "fact_en": "The Secatur always docked at the wharf of the Ourobouros Worm and Bait Shippers Inc. in St Petersburg; the company's nominal owner was Papagos, a Greek sponge-fisher from Tarpon Springs.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1532,6 +1845,7 @@
       "chapter": "IV",
       "entity": "coins",
       "fact": "每周约有100枚金币仅在哈莱姆与纽约出现",
+      "fact_en": "About a hundred gold coins a week were turning up in Harlem and New York alone.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1543,6 +1857,7 @@
       "chapter": "IV",
       "entity": "dexter",
       "fact": "Dexter称对Mr Big的政策是live and let live，邦德回答自己的格言是live and let die",
+      "fact_en": "Dexter said the policy towards Mr Big was 'live and let live'; Bond replied that his own motto was 'live and let die'.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1554,6 +1869,7 @@
       "chapter": "IV",
       "entity": "the-whisper",
       "fact": "The Whisper守着哈莱姆大接线板，生于第七大道142街肺病街区，只剩部分肺叶",
+      "fact_en": "The Whisper manned the big Harlem switchboard; he was born on Lung Block, Seventh Avenue at 142nd Street, and had only part of one lung left.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1565,6 +1881,7 @@
       "chapter": "VI",
       "entity": "boneyard",
       "fact": "Boneyard夜总会Z号桌在G-G Sumatra表演灯光熄灭时经液压升降机沉入地下密室，邦德与莱特被俘",
+      "fact_en": "At the Boneyard nightclub, Table Z sank with Bond and Leiter aboard on a hydraulic lift when the lights went out at the end of G-G Sumatra's act, dropping them into a cellar below.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1576,6 +1893,7 @@
       "chapter": "VII",
       "entity": "mr-big",
       "fact": "Mr Big身高六英尺半，体重20石，眼睛金色，书桌抽屉装有口径0.45厘米暗枪，桌上放一把小象牙马鞭",
+      "fact_en": "Mr Big was six and a half feet tall and weighed twenty stone, with golden eyes; his desk drawer concealed a gun of .45 centimetres bore, and a small ivory riding-crop lay on the desk.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1587,6 +1905,7 @@
       "chapter": "VII",
       "entity": "solitaire",
       "fact": "索利泰尔生于海地，在歌舞厅表演心灵感应，Mr Big发现她后打算娶她，因其能以牌占卜测谎",
+      "fact_en": "Solitaire was born in Haiti and performed a telepathic act in a cabaret there; Mr Big found her and intended to marry her because she could divine truth with the cards.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1598,6 +1917,7 @@
       "chapter": "VII",
       "entity": "solitaire",
       "fact": "索利泰尔在海地被称为Solitaire，因其不与男人往来",
+      "fact_en": "In Haiti Solitaire was called 'Solitaire' because she would have nothing to do with men.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1609,6 +1929,7 @@
       "chapter": "VII",
       "entity": "solitaire",
       "fact": "索利泰尔以扑克牌占卜后称邦德关于金币的说辞为真：He speaks the truth",
+      "fact_en": "After laying out the cards, Solitaire told Mr Big that Bond was speaking the truth about the gold coins: 'He speaks the truth.'",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1620,6 +1941,7 @@
       "chapter": "VIII",
       "entity": "felix-leiter",
       "fact": "Mr Big下令重伤莱特后将其弃于Bellevue医院附近，不得被看见",
+      "fact_en": "Mr Big ordered Leiter to be hurt considerably and dumped near Bellevue Hospital, unseen.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1631,6 +1953,7 @@
       "chapter": "VIII",
       "entity": "bond",
       "fact": "Tee-Hee折断邦德左手小指，邦德痛晕，Tee-Hee评价其没有sensayuma即感觉",
+      "fact_en": "Tee-Hee broke the little finger of Bond's left hand; Bond fainted, and Tee-Hee remarked, 'Da guy ain't got no sensayuma' - no feeling.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1642,6 +1965,7 @@
       "chapter": "VIII",
       "entity": "mr-big",
       "fact": "Mr Big称自己因厌倦症与追求作案艺术而饶邦德一命，命其当日离境，否则将以巧妙方式处死",
+      "fact_en": "Mr Big said he spared Bond because he suffered from boredom and took pleasure only in the artistry of his crimes, and ordered him to leave the country that day or be killed in some ingenious way.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1653,6 +1977,7 @@
       "chapter": "VIII",
       "entity": "bond",
       "fact": "邦德在楼道以手刀击中Tee-Hee腹股沟并将其踢下楼梯致死，夺得Colt .38短管左轮手枪，在车库击毙两名男子后驾车逃往Park Avenue",
+      "fact_en": "In the passage Bond struck Tee-Hee in the groin with the edge of his hand and kicked him down the stairs to his death, took his sawn-off Colt .38 Detective Special, shot two men dead in the garage and drove away to Park Avenue.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1664,6 +1989,7 @@
       "chapter": "IX",
       "entity": "felix-leiter",
       "fact": "莱特被Blabbermouth以短棍击晕后弃于Bellevue医院外，约3时30分获救，仅受脑震荡",
+      "fact_en": "Leiter was knocked out with a blackjack by Blabbermouth and dumped outside Bellevue Hospital, where he was found about 3.30 a.m. with only concussion.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1675,6 +2001,7 @@
       "chapter": "IX",
       "entity": "bond",
       "fact": "邦德在哈莱姆杀死的三人为Tee-Hee Johnson、Sam Miami与McThing，三人均有案在身",
+      "fact_en": "The three men Bond killed in Harlem were Tee-Hee Johnson, Sam Miami and a man called McThing, all wanted on various counts.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1686,6 +2013,7 @@
       "chapter": "IX",
       "entity": "train",
       "fact": "Silver Phantom号10时30分由宾夕法尼亚车站14站台发车，经华盛顿、Jacksonville与坦帕前往St Petersburg，邦德订245号车厢H包厢，化名Bryce",
+      "fact_en": "The Silver Phantom left Pennsylvania Station, Track 14, at 10.30 a.m., running via Washington, Jacksonville and Tampa to St Petersburg; Bond booked Car 245, Compartment H, under the name Bryce.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1697,6 +2025,7 @@
       "chapter": "X",
       "entity": "solitaire",
       "fact": "索利泰尔真名Simone Latrelle，25岁，随身约5000美元私房钱，与Mr Big相处近一年",
+      "fact_en": "Solitaire's real name was Simone Latrelle; she was twenty-five, carried about five thousand dollars of her own money, and had lived with Mr Big for nearly a year.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1708,6 +2037,7 @@
       "chapter": "X",
       "entity": "solitaire",
       "fact": "Mr Big已警告佛罗里达手下The Robber留意坦帕机场与列车，防范邦德南下",
+      "fact_en": "Mr Big had already telephoned his Florida man, The Robber, warning him to watch Tampa airport and the trains for Bond.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1719,6 +2049,7 @@
       "chapter": "X",
       "entity": "samuel-baldwin",
       "fact": "列车员Samuel D. Baldwin警告邦德车上有敌人，送上两块木楔堵门，并称会遭割喉",
+      "fact_en": "Pullman attendant Samuel D. Baldwin warned Bond that there was an enemy on the train, gave him two wooden wedges to push under the doors, and said he would get his throat cut for helping.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1730,6 +2061,7 @@
       "chapter": "XI",
       "entity": "solitaire",
       "fact": "索利泰尔解释黑人相信Mr Big是Baron Samedi的僵尸，并称曾听他讲俄语，但不知SMERSH为何物",
+      "fact_en": "Solitaire explained that black people believed Mr Big to be the zombie of Baron Samedi, and said she had heard him speak Russian, though she did not know what SMERSH was.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1741,6 +2073,7 @@
       "chapter": "XII",
       "entity": "note",
       "fact": "有人将一张红色墨水写的伏都咒符ouanga塞入邦德包厢，召唤鼓女巫杀人，索利泰尔称其为阿散蒂部落所用之物",
+      "fact_en": "Someone pushed a voodoo fetish, an ouanga written in red ink, under Bond's compartment door, invoking the Drum Witch to kill; Solitaire said it was used by the Ashanti tribe.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1752,6 +2085,7 @@
       "chapter": "XII",
       "entity": "st-petersburg",
       "fact": "St Petersburg被称为阳光城与美国大墓地，退休老人聚居，晚报承诺无阳光的日子免费赠阅，每年仅三四次",
+      "fact_en": "St Petersburg was called 'The Sunshine City' and 'the Great American Graveyard', where retired people gathered; its evening paper was given away free on any day the sun had not shone by edition time, which happened only three or four times a year.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1763,6 +2097,7 @@
       "chapter": "XII",
       "entity": "train",
       "fact": "Silver Phantom号H包厢在Waldo与Ocala之间遭机枪扫射与手榴弹袭击，列车员Baldwin在走廊被炸死，无其他伤亡",
+      "fact_en": "Between Waldo and Ocala, Compartment H of the Silver Phantom was machine-gunned and bombed; Baldwin was killed by the blast in the corridor, with no other casualties.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1774,6 +2109,7 @@
       "chapter": "XII",
       "entity": "the-robber",
       "fact": "出租车司机Poxy认出索利泰尔后告密，The Robber以1万美元雇人对付邦德",
+      "fact_en": "The taxi driver Poxy recognised Solitaire and informed on her; The Robber offered ten thousand dollars for the job against Bond.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1785,6 +2121,7 @@
       "chapter": "XIII",
       "entity": "the-robber",
       "fact": "The Robber即Ourobouros仓库经理，约40岁，持Remington 30步枪，当面射杀一只鹈鹕示威",
+      "fact_en": "The Robber was the manager of the Ourobouros warehouse, about forty years old, and shot a pelican dead with his Remington 30 rifle, calling it 'practice'.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1796,6 +2133,7 @@
       "chapter": "XIII",
       "entity": "secatur",
       "fact": "Secatur号当时在哈瓦那，一周前由St Petersburg出发，离港时经彻底搜查未发现任何异常，连假龙骨都几乎拆掉",
+      "fact_en": "The Secatur was then in Havana, having cleared St Petersburg a week earlier; she had been thoroughly searched on arrival and departure, even to near-removal of her false keel, and nothing was found.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1807,6 +2145,7 @@
       "chapter": "XIV",
       "entity": "solitaire",
       "fact": "索利泰尔被两名男子用留声机包装箱从Everglades Cabanas劫走，房间门锁被撬棍一次撬开",
+      "fact_en": "Solitaire was seized by two men who doubled her into a radiogram packing-case and nailed it up, after forcing her room door open with a single wrench of a jemmy.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1818,6 +2157,7 @@
       "chapter": "XIV",
       "entity": "felix-leiter",
       "fact": "莱特被发现时浑身绷带，一条手臂没了，左腿去了一半，面部仅表皮伤，纸条写着HE DISAGREED WITH SOMETHING THAT ATE HIM",
+      "fact_en": "Leiter was found swathed in bandages, one arm gone and half his left leg gone, his face only superficially injured, with a note reading 'HE DISAGREED WITH SOMETHING THAT ATE HIM'.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1829,6 +2169,7 @@
       "chapter": "XIV",
       "entity": "mr-big",
       "fact": "Mr Big与索利泰尔当夜乘私人包机由Vero Beach飞往哈瓦那，证件齐全，小包机公司未被列入机场监视名单",
+      "fact_en": "Mr Big and Solitaire left by private charter plane from Vero Beach for Havana during the night, their papers in order, the small charter company not being on the FBI's airport watch list.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1840,6 +2181,7 @@
       "chapter": "XV",
       "entity": "coins",
       "fact": "金币藏于毒鱼缸底泥沙下的平托盘中，单缸约千枚，每航次约15万美元；毒鱼蝎子鱼为守护者",
+      "fact_en": "Gold coins lay in flat trays under the mud at the bottom of the poison-fish tanks, about a thousand coins to a tank and some $150,000 per voyage, guarded by scorpion fish.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1851,6 +2193,7 @@
       "chapter": "XV",
       "entity": "the-robber",
       "fact": "邦德将The Robber踢入地板陷阱下的鲨鱼池，The Robber临死供认绑架者为坦帕Oasis酒吧后台球室的Butch与The Lifer",
+      "fact_en": "Bond kicked The Robber into the shark pit under the trapdoor in the warehouse floor; dying, The Robber named the kidnappers as Butch and The Lifer, of the poolroom behind the Oasis in Tampa.",
       "timeline_position": "1954年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1862,6 +2205,7 @@
       "chapter": "XVI",
       "entity": "strangways",
       "fact": "Strangways为加勒比地区首席特工，约35岁，前皇家海军志愿预备役特别支部中尉指挥官，左眼戴黑眼罩",
+      "fact_en": "Strangways was the chief agent for the Caribbean, about thirty-five, a former Lieutenant-Commander in the Special Branch of the RNVR, with a black patch over one eye.",
       "timeline_position": "1954年2月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1873,6 +2217,7 @@
       "chapter": "XVI",
       "entity": "isle-of-surprise",
       "fact": "纽约辛迪加以1000英镑买下惊奇岛，该辛迪加全属Mr Big；此前一名当地渔民失踪，两名百慕大潜水员夜探该岛后被鲨鱼与梭鱼啃食殆尽",
+      "fact_en": "A New York syndicate bought the Isle of Surprise for a thousand pounds; the syndicate belonged wholly to Mr Big. A local fisherman had vanished, and two Bermudan divers who explored the island by night were washed up eaten by sharks and barracuda.",
       "timeline_position": "1953年至1954年",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1884,6 +2229,7 @@
       "chapter": "XVI",
       "entity": "bloody-morgan",
       "fact": "血腥摩根1683年最后一次离开牙买加时被公开逮捕受审，死于贫困，未透露宝藏下落",
+      "fact_en": "Bloody Morgan left Jamaica for the last time in 1683 under open arrest to be tried for flouting the Crown, and died in penury without revealing where his treasure lay.",
       "timeline_position": "1683年",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1895,6 +2241,7 @@
       "chapter": "XVI",
       "entity": "secatur",
       "fact": "Secatur号已往返约20航次，邦德按每航次15万美元估算Mr Big已运走约100万英镑黄金",
+      "fact_en": "The Secatur had made about twenty voyages; Bond multiplied $150,000 per voyage and reckoned Mr Big had already carried off about a million pounds' worth of gold. (Bond's estimate, not a counted total.)",
       "timeline_position": "1954年2月",
       "confidence": "medium",
       "canon_or_inference": "inference",
@@ -1906,6 +2253,7 @@
       "chapter": "XVI",
       "entity": "quarrel",
       "fact": "Quarrel为开曼群岛人，加勒比地区最佳游泳者与渔民，称邦德为Captain，已监视惊奇岛三个月",
+      "fact_en": "Quarrel was a Cayman Islander, the best swimmer and fisherman in the Caribbean, who called Bond 'Captain' and had watched the Isle of Surprise for three months.",
       "timeline_position": "1954年2月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1917,6 +2265,7 @@
       "chapter": "XVII",
       "entity": "felix-leiter",
       "fact": "莱特保住性命，手臂与腿部残端已截肢，正在整形，留言叫邦德别把脚弄得像他一样湿",
+      "fact_en": "Leiter survived: the remains of his arm and leg were amputated, plastic surgery was rebuilding his face, and his message to Bond was not to get his feet wet - or at any rate, not as wet as he had.",
       "timeline_position": "1954年2月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1928,6 +2277,7 @@
       "chapter": "XVIII",
       "entity": "secatur",
       "fact": "Secatur号长70英尺，双通用汽车柴油机，钢船体，航速至少20节，悬挂红船旗与星条旗",
+      "fact_en": "The Secatur was seventy feet long, powered by twin General Motors diesels, steel-hulled, capable of at least twenty knots, and flew the Red Ensign at her cross-trees and the Stars and Stripes aft.",
       "timeline_position": "1954年2月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1939,6 +2289,7 @@
       "chapter": "XVIII",
       "entity": "mr-big",
       "fact": "Mr Big入境牙买加所持护照名为Gallia，索利泰尔以Simone Latrelle名义同行，被担架抬上岛",
+      "fact_en": "Mr Big entered Jamaica on a passport in the name of Gallia, and Solitaire travelled with him as Simone Latrelle, carried ashore on a stretcher.",
       "timeline_position": "1954年2月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1950,6 +2301,7 @@
       "chapter": "XVI",
       "entity": "bond",
       "fact": "邦德向伦敦索要潜水服、Champion鱼叉枪、突击队匕首与水雷，引信由10分钟至8小时不等",
+      "fact_en": "Bond asked London for a frogman suit, Champion harpoon guns, a commando dagger and a limpet mine, with fuses ranging from ten minutes to eight hours.",
       "timeline_position": "1954年2月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1961,6 +2313,7 @@
       "chapter": "XIX",
       "entity": "bond",
       "fact": "邦德于23时03分将水雷装上Secatur号龙骨，选用7小时引信，其余引信埋入沙中以防被俘后暴露",
+      "fact_en": "Bond fixed the limpet mine to the Secatur's keel at three minutes past eleven o'clock, choosing a seven-hour fuse, and buried the remaining fuses in the sand so the mine would not be betrayed if he were captured.",
       "timeline_position": "1954年2月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1972,6 +2325,7 @@
       "chapter": "XIX",
       "entity": "sharks",
       "fact": "每夜有人向惊奇岛周围海面泼洒血与内脏，以此激起鲨鱼与梭鱼护岛，此即三名男子被啃食的原因",
+      "fact_en": "Every night someone sprayed the sea around the Isle of Surprise with blood and offal to excite the sharks and barracuda - the reason the three men had been washed up half-eaten.",
       "timeline_position": "1954年2月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1983,6 +2337,7 @@
       "chapter": "XX",
       "entity": "treasure",
       "fact": "宝藏库为天然岩洞改建，遍地金币，另有熔金坩埚、珠宝与金锭，鼓声实为留声机录音",
+      "fact_en": "The treasure chamber was a natural rock cave worked by man, full of gold coins, with a cauldron for melting gold, jewels and ingots, and the drums were in fact a portable phonograph recording.",
       "timeline_position": "1954年2月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1994,6 +2349,7 @@
       "chapter": "XXI",
       "entity": "treasure",
       "fact": "邦德见鱼缸中部装有金币、金锭与珠宝后，将宝藏总值修正为约400万英镑",
+      "fact_en": "Seeing fish tanks in the middle being packed with coins, gold ingots and jewels, Bond revised his estimate of the treasure to around four million pounds sterling.",
       "timeline_position": "1954年2月",
       "confidence": "medium",
       "canon_or_inference": "inference",
@@ -2005,6 +2361,7 @@
       "chapter": "XXI",
       "entity": "mr-big",
       "fact": "Mr Big决定以龙骨拖刑处死两人：将两人绑在拖网浮标paravane后拖入海中喂鲨，定于6时执行",
+      "fact_en": "Mr Big decided to kill them both by keel-hauling: bound together to a line streamed from the trawling paravane and towed through the sea to be eaten by sharks, at six o'clock.",
       "timeline_position": "1954年2月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -2016,6 +2373,7 @@
       "chapter": "XXII",
       "entity": "secatur",
       "fact": "水雷在船将过珊瑚礁前爆炸，Secatur号沉没，无人生还，残骸后位于约20英寻水深处",
+      "fact_en": "The mine exploded just before the ship cleared the reef, and the Secatur sank with no survivors; her wreck was later found in about twenty fathoms of water.",
       "timeline_position": "1954年2月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -2027,6 +2385,7 @@
       "chapter": "XXII",
       "entity": "mr-big",
       "fact": "Mr Big游向邦德求生处时被梭鱼撕咬，最后被一条豹鲨咬住头部拖入水中死亡",
+      "fact_en": "Mr Big swam towards Bond's refuge and was bitten by barracuda, then seized by the head by a huge leopard shark and dragged under.",
       "timeline_position": "1954年2月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -2038,6 +2397,7 @@
       "chapter": "XXIII",
       "entity": "m",
       "fact": "M来电指示以Universal Export名义申索宝藏并立即打捞，批准邦德两周假期，电文作passionate leave",
+      "fact_en": "M cabled orders to claim the treasure in the name of Universal Export, proceed immediately with salvage, and granted Bond a fortnight's 'passionate leave'.",
       "timeline_position": "1954年2月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -2048,51 +2408,73 @@
   "canon_vs_inference": [
     {
       "topic": "反派身份",
+      "topic_en": "The Villain's Identity",
       "status": "canon",
-      "note": "此前记录称反派为Mr Big与原文一致；真名Buonaparte Ignace Gallia，45岁，生于海地，黑白混血，护照名Gallia，SMERSH成员、苏联特工、黑寡妇伏都教首领，见第III、VII、XVIII章"
+      "note": "此前记录称反派为Mr Big与原文一致；真名Buonaparte Ignace Gallia，45岁，生于海地，黑白混血，护照名Gallia，SMERSH成员、苏联特工、黑寡妇伏都教首领，见第III、VII、XVIII章",
+      "note_en": "Earlier records named the villain as Mr Big, which agrees with the novel; his real name is Buonaparte Ignace Gallia, forty-five, born in Haiti of mixed race, passport name Gallia, a member of SMERSH, a Soviet agent and head of the Black Widow voodoo cult - see Chapters III, VII and XVIII."
     },
     {
       "topic": "金币为血腥摩根宝藏",
+      "topic_en": "The Coins as Bloody Morgan's Treasure",
       "status": "canon",
-      "note": "M称Spinks与大英博物馆均同意此鉴定，全部金币铸造于1650年前，摩根1675至1688年任牙买加总督；书中以此为既定事实推进剧情"
+      "note": "M称Spinks与大英博物馆均同意此鉴定，全部金币铸造于1650年前，摩根1675至1688年任牙买加总督；书中以此为既定事实推进剧情",
+      "note_en": "M states that both Spink's and the British Museum agree with the identification; all the coins were minted before 1650, and Morgan was Governor of Jamaica from 1675 to 1688; the novel treats this as established fact and builds the plot on it."
     },
     {
       "topic": "莱特鲨鱼袭击经过",
+      "topic_en": "How Leiter Was Attacked by the Shark",
       "status": "inference",
-      "note": "莱特本人昏迷无法讲述；The Robber称莱特自己掉进陷阱属意外，邦德认为系其有意设计；原文未给出第三方证实，袭击结果为实，过程为各方说法"
+      "note": "莱特本人昏迷无法讲述；The Robber称莱特自己掉进陷阱属意外，邦德认为系其有意设计；原文未给出第三方证实，袭击结果为实，过程为各方说法",
+      "note_en": "Leiter himself was unconscious and could not tell what happened; The Robber claimed Leiter fell into the trap by accident, while Bond believed it was deliberately arranged; the novel gives no independent confirmation - the injuries are fact, the manner of the attack is a matter of conflicting accounts."
     },
     {
       "topic": "失踪渔民发现宝藏",
+      "topic_en": "The Missing Fisherman Found the Treasure",
       "status": "inference",
-      "note": "邦德在岩洞中推测失踪渔民发现宝藏后去找Mr Big合作，原文明确为邦德的猜测，无直接证据"
+      "note": "邦德在岩洞中推测失踪渔民发现宝藏后去找Mr Big合作，原文明确为邦德的猜测，无直接证据",
+      "note_en": "Bond guesses in the cave that the missing fisherman found the treasure and went to Mr Big for help in disposing of it; the novel presents this explicitly as Bond's conjecture, with no direct evidence."
     },
     {
       "topic": "索利泰尔身世",
+      "topic_en": "Solitaire's Parentage",
       "status": "inference",
-      "note": "邦德由其面容推测她是法国殖民奴隶主之女，并想象其童年经历，原文未给出确证；其海地出生、歌舞厅表演、25岁与真名Simone Latrelle为实"
+      "note": "邦德由其面容推测她是法国殖民奴隶主之女，并想象其童年经历，原文未给出确证；其海地出生、歌舞厅表演、25岁与真名Simone Latrelle为实",
+      "note_en": "Bond guesses from her face that she is the daughter of a French colonial slave-owner and imagines her childhood; the novel gives no confirmation. Her Haitian birth, cabaret act, age of twenty-five and real name Simone Latrelle are fact."
     },
     {
       "topic": "宝藏总值",
+      "topic_en": "The Value of the Treasure",
       "status": "inference",
-      "note": "400万英镑为邦德见鱼缸装金锭与珠宝后的现场估算，非清点结果；每航次15万美元与20航次合计约100万英镑亦为邦德心算"
+      "note": "400万英镑为邦德见鱼缸装金锭与珠宝后的现场估算，非清点结果；每航次15万美元与20航次合计约100万英镑亦为邦德心算",
+      "note_en": "Four million pounds is Bond's on-the-spot estimate after seeing the fish tanks packed with gold ingots and jewels, not the result of a count; the $150,000 per voyage and twenty voyages totalling about a million pounds are likewise Bond's mental arithmetic."
     },
     {
       "topic": "索利泰尔的心灵感应能力",
+      "topic_en": "Solitaire's Second Sight",
       "status": "inference",
-      "note": "书中人物均相信其有第二视力，索利泰尔自称能预见未来，Mr Big据此用她测谎；原文未给出超自然能力的客观证实，邦德亦以牌戏与直觉解释其判断"
+      "note": "书中人物均相信其有第二视力，索利泰尔自称能预见未来，Mr Big据此用她测谎；原文未给出超自然能力的客观证实，邦德亦以牌戏与直觉解释其判断",
+      "note_en": "Everyone in the novel believes she has second sight, and Solitaire herself claims to foresee the future; Mr Big uses her to test for lies on that basis. The novel gives no objective confirmation of any supernatural power, and Bond himself explains her judgements as card play and intuition."
     },
     {
       "topic": "Secatur号沉没时间",
+      "topic_en": "When the Secatur Sank",
       "status": "canon",
-      "note": "水雷选用7小时引信，23时03分安装，爆炸发生于次日清晨6时前后，与Mr Big定下的启航与行刑时间吻合"
+      "note": "水雷选用7小时引信，23时03分安装，爆炸发生于次日清晨6时前后，与Mr Big定下的启航与行刑时间吻合",
+      "note_en": "The mine used a seven-hour fuse and was fixed at 11.03 p.m.; the explosion came at about 6 a.m. the next morning, matching Mr Big's sailing and execution timetable."
     },
     {
       "topic": "莱特伤势",
+      "topic_en": "Leiter's Injuries",
       "status": "canon",
-      "note": "第XIV章警方外科医生称其一条手臂没了，左腿去了一半，面部仅表皮伤，存活概率五五开；第XVII章确认其存活并截肢整形"
+      "note": "第XIV章警方外科医生称其一条手臂没了，左腿去了一半，面部仅表皮伤，存活概率五五开；第XVII章确认其存活并截肢整形",
+      "note_en": "In Chapter XIV the police surgeon says one arm is gone and half the left leg, the face only superficially injured, with a fifty-fifty chance of survival; Chapter XVII confirms that he lived and underwent amputation and plastic surgery."
     }
   ],
   "adaptation_differences": [
     "本部未核对电影差异"
-  ]
+  ],
+  "adaptation_differences_en": [
+    "Film differences have not been checked for this novel."
+  ],
+  "synopsis_en": "In January 1954 M sends James Bond to America to trace the source of seventeenth-century gold coins - almost certainly part of Henry Morgan's treasure - that have begun circulating in the United States and are suspected of financing the Soviet espionage network there. In New York Bond joins CIA man Felix Leiter and the FBI's Captain Dexter, and learns the trail leads to Mr Big, a Harlem gangster, SMERSH agent and voodoo leader whom his followers believe to be the living corpse of Baron Samedi. Captured in the Boneyard nightclub, Bond has a finger broken and Leiter is beaten, but Bond escapes, killing three of Mr Big's men, and flees south with Solitaire, Mr Big's captive fortune-teller, who has turned against her master. In Florida Leiter is maimed by a shark in the Ourobouros warehouse, where Bond finds gold hidden under the mud of the poison-fish tanks and kills Mr Big's agent, The Robber. In Jamaica Bond trains with the Cayman fisherman Quarrel, swims at night to the Isle of Surprise, finds Morgan's treasure cave, and plants a limpet mine on the yacht Secatur. At dawn the mine explodes as Mr Big tows Bond and Solitaire behind the yacht to feed the sharks; the Secatur sinks, Mr Big is torn apart by barracuda and a leopard shark, and Bond and Solitaire survive to claim the treasure and two weeks' leave."
 }

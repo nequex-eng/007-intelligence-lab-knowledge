@@ -333,3 +333,175 @@ A路所列29处逐项计数实为23处（sis 8处、人物7处、地点1处、�
 10. 皇家赌场#38的quote取自第18章行刑现场，未含Ш字母本身；Ш的认定原文在第20章第967行。章节按行刑事件记第18章，见本报告fact-fixes记录。
 11. 皇家赌场#50的quote取自遗书泄露身份与窃听器一段；绑架策划见同信第1331行，未另引。
 12. 本次验证未复核全部773条事实的quote逐字性：仅复核fact-fixes涉及的137条与抽查的20条chapter修正、4条quote纠错、46条补录quote；其余事实的quote仍以撰写时记录为准。全面逐字复核须另行立项。
+13. 小说12中文事实写“氢气球”，原著多处明写helium balloon（氦气球），英文版已按原著写helium；中文侧待另行修正（双语化验收2026-11-07核实：you-only-live-twice第20章事实，fact为“邦德关闭间歇泉阀门后城堡爆炸，他抓住氢气球系绳逃生”，fact_en为helium balloon）。
+14. 小说03德拉克斯植皮左右不一致是原著本身的问题（第IV章右半脸，第XXII章左太阳穴与左脸颊），英文沿用第IV章，未另加注（双语化验收2026-11-07核实：第IV章事实写右脸植皮，fact_en为grafted skin over the right side of his face）。
+15. 小说03第44条事实chapter原值就是"II"（内容实为第XXII章追述），原样保留（双语化验收2026-11-07核实：facts[43] chapter为II，内容为德拉克斯小队炸毁盟军后方联络总部食堂，quote_source为第II章）。
+16. 小说06两处原文内部矛盾未调和（诺博士购岛年份1943与1942、在岛14年；结尾35岁准将与比尔·坦普勒是否为同一人），已在canon_vs_inference的note_en标明（双语化验收2026-11-07核实：购岛年份条目note_en写明两处表述不一致、原文如此、未做调和；“结尾准将是否为比尔·坦普勒”条目note_en写明第I章桥牌局成员为准将比尔·坦普勒、第XX章主张派兵的准将未写姓名、原文未明示两人是否为同一人；两条目的topic_en均未补，小说06共11条topic_en全缺）。
+17. Q的signature_phrases为空数组（无原文台词可据，有意留空）；实测32人核心人物signature_phrases（character-core.json顶层字段）全部为空数组，英文版voice_style_en.signature_phrases共64条、Q为空数组（双语化验收2026-11-07核实，见双语化一节）。
+18. 各小说人物描述字段因中文为空而跳过的总数（双语化验收2026-11-07实测，含空值与占位词未描写/未知/不知道）：小说04共15处、小说06共41处、小说07共14处、小说11共30处、小说12共37处、小说13共65处、小说14共39处；另有小说01共36处与小说10共14处占位词已译为琐碎值Unknown/Unknown.；其余各部为0处；合计跳过241处。
+19. 全面逐条复核未做：人物专人只做关键锚点抽查，未对32人逐条做14部全文重读；双语化验收亦只做程序全量核查与定点原文核对（第13至17条所列各项），未逐条重读英文版全部773条fact_en与284条summary_en。
+20. 双语已知缺口（第二波范围，2026-11-07登记）：story_timeline_en只有小说02有；adaptation_differences_en 13/14（小说12纯字符串列表未补）；通讯name_en 36/78；canon_vs_inference topic_en 88/107（小说06、13未补）；小说14 stories子结构80处无英文；小说级地点country_en 0/203、装备kind_en 0/148；小说级人物aliases数组264条无aliases_en；adaptation-boundaries.json无英文；knowledge-control规则文本无英文版；核心人物knowledge_scope known/unknown清单929项与sources数组无英文版。详见双语化一节与docs/BILINGUAL-MAPPING.md第五节。
+21. M的role_en.relationships与中文relationships均沿用合并前id bill-tanner（2026-11-06验证期已并入chief-of-staff），经knowledge/resolution/aliases.json可解析到chief-of-staff，不计断链；中文原字段未改写，规范化须另行处理（双语化验收2026-11-07核实，验证脚本第18项按别名解析口径放行）。
+22. 组织与地点索引无aliases字段（沿用第3条）：spangled-mob中文异译花斑帮、nato简称北约等已写入knowledge/resolution/aliases.json（含alias_en），但索引条目本身仍无aliases字段。
+
+## 双语化验收（2026-11-07）
+
+> 第一波16路交回后统一验收：14部小说、32位核心人物、索引与检索全部双语化。本节记录本次验收的修复内容、验证结果、中英覆盖率前后对比、重复与命名问题处理记录、尚未解决问题（见本文件末节第13至22条）与改动文件清单。验收人不改英文内容本身，只做两处机械同步（见下）与验证脚本修补。
+
+### 本次修复内容
+
+1. 验证脚本第8项修补：knowledge-control已升v2.1、规则16条（KC-01至KC-16），原检查写死v2.0/10条会误报；已改为v2.1/16条，规则编号逐条核对KC-01至KC-16。
+2. 新增双语检查7项（验证脚本第13至19项）：英文必填字段完整度统计（分部、分人物、分字段）；`_en`文本字段不得含中文字符（全库扫描，含`role_en`子树）；每条`fact_en`与`fact`关键字段一致；章节`summary_en`数量与中文一致；中文原字段未被改写（与工程本份基线逐字段比对）；人物关系双语一致；三层约束双语结构有效（`role_en` 8键齐、`voice_style_en`区分度）。
+3. 机械同步两处（英文内容本身不动，只把库内已有英文复制到缺失位置，逐条核对一致后复制）：
+   - knowledge/events/index.json补`title_en`/`cause_en`/`effect_en`共189件乘3字段，由小说级事件英文同步，逐条核对`title`/`cause`/`effect`一致，0处不符。
+   - knowledge/canon-rules/character-core.json补`timeline_cutoff_en`共32人，由knowledge/resolution/timeline.json同步，逐条核对年份一致，0处不符。
+4. 字段命名收敛：不做批量改名，只登记并定口径，见docs/DATA-SCHEMA.md第十三节与docs/BILINGUAL-MAPPING.md。
+
+### 自动化验证结果（2026-11-07）
+
+`npm run validate`完整输出（退出码0）：
+
+```
+[PASS] 1 所有JSON可解析 — 27个JSON，失败0个
+[PASS] 2 所有实体ID唯一 — 人物279、组织89、地点170、装备128、事件189、核心人物32；重复：无
+[PASS] 3 aliases无错误冲突 — 258条别名，歧义3条；问题：无
+[PASS] 4 所有事实字段完整 — 共773条（canon 762、inference 11），quote非空771条（99.7%）、quote_source非空771条，全书级留空2条（dr-no#59/#60）；问题：无
+[PASS] 5 所有章节引用有效 — 事实/事件/人物出场章节均按各部chapters的no实际值比对（不换算）；问题：无
+[PASS] 6 所有文件引用真实存在 — manifest 14部均有对应novel文件；canon-rules仓库内引用存在；底本txt引用14处为仓库外底本（预期不在仓库内，不计失败）；问题：无
+[PASS] 7 人物核心字段完整度统计 — appearance 31/32（97%）；age_clues 31/32（97%）；personality 31/32（97%）；habits 31/32（97%）；background 32/32（100%）；relationships 31/32（97%）；voice_style 32/32（100%）；behavioral_boundaries 32/32（100%）；knowledge_boundaries 32/32（100%）；knowledge_scope 32/32（100%）；sources 32/32（100%）；timeline_cutoff 32/32（100%）
+[PASS] 8 三层人物约束数据结构有效 — character-core v2.0共32人、knowledge-control v2.1共16条规则（KC-01至KC-16）、adaptation-boundaries已核验10条；问题：无
+[PASS] 9 人物关系双向检索 — 共311对人物关系，任一端检索均可返回对方；问题：无
+[PASS] 10 人物时间线与知识边界无明显前后矛盾 — 32位核心人物死后未复活、timeline.json状态集合与knowledge_scope一致；提醒：q从未present（仅皇家赌场mentioned_only），timeline_cutoff（金枪人（1965年））不按最后出场小说解释，语义待确认；问题：无
+[PASS] 11 同名实体可准确区分 — molony（爵士）与sergeant-molony（军士）、jack-spang与seraffimo-spang、cipher-machine与russian-cipher-machine、cyanide-pistol与cyanide-water-pistol均可区分，歧义别名返回候选清单；问题：无
+[PASS] 12 不同小说角色与事件不串线 — 事件双向一致189件；出场交叉核查人物349、组织142、地点204、装备148条，全部落在对应小说；问题：无
+[PASS] 13 英文必填字段完整度统计 — 必填项28/28类满额；事实773/773、章节284/284、核心人物描述252/252、人物关系英文455/455；分部：casino-royale:事实56/56、章节27/27、人物描述105/105（跳过0）、事件12/12；live-and-let-die:事实67/67、章节23/23、人物描述120/120（跳过0）、事件18/18；moonraker:事实58/58、章节25/25、人物描述100/100（跳过0）、事件12/12；diamonds-are-forever:事实52/52、章节25/25、人物描述105/105（跳过15）、事件11/11；from-russia-with-love:事实56/56、章节28/28、人物描述135/135（跳过0）、事件12/12；dr-no:事实61/61、章节20/20、人物描述79/79（跳过41）、事件17/17；goldfinger:事实58/58、章节23/23、人物描述111/111（跳过14）、事件16/16；for-your-eyes-only:事实48/48、章节5/5、人物描述125/125（跳过0）、事件15/15；thunderball:事实56/56、章节24/24、人物描述155/155（跳过0）、事件12/12；spy-who-loved-me:事实50/50、章节15/15、人物描述90/90（跳过0）、事件11/11；on-her-majestys-secret-service:事实53/53、章节27/27、人物描述130/130（跳过30）、事件14/14；you-only-live-twice:事实59/59、章节22/22、人物描述83/83（跳过37）、事件15/15；man-with-golden-gun:事实59/59、章节17/17、人物描述85/85（跳过65）、事件14/14；octopussy:事实40/40、章节3/3、人物描述81/81（跳过39）、事件10/10；分人物：32人role_en 8键齐、timeline_cutoff_en齐，描述_en适用项全部已补；已知缺口（第二波范围，不计失败）：story_timeline_en 1/14（仅小说02有）；adaptation_differences_en 13/14（小说12纯字符串列表未补）；通讯name_en 36/78（8部未补）；canon_vs_inference topic_en 88/107（小说06、13未补）；小说人物描述跳过（中文为空或占位词未描写/未知/不知道）241处，其中琐碎值Unknown/Unknown.共50处已补英文；八爪女stories子结构80处中文描述无英文（key_events、地点role、人物role、mission_objective）；小说级地点country_en 0/203、装备kind_en 0/148（索引层已有country_en/kind_en）；小说级人物aliases数组264条无aliases_en（解析层aliases.json已双语258/258）；adaptation-boundaries.json 10条已核验差异与2条未核对说明无英文；knowledge-control规则文本（KC-01至KC-16）无英文版，language_modes为英文接口；核心人物knowledge_scope known/unknown清单929项与sources数组无英文版；问题：无
+[PASS] 14 _en文本字段不得含中文字符 — 全部_en字段与role_en子树扫描完毕，含中文0处（别名清单等例外字段白名单：无，alias_en本身亦为英文）；问题：无
+[PASS] 15 每条fact_en与fact关键字段一致 — 共773条事实，fact_en均为字符串且与fact同对象、共用source_novel、chapter、entity、timeline_position、confidence、canon_or_inference；问题：无
+[PASS] 16 章节summary_en数量与中文一致 — 中文summary 284条、英文summary_en 284条；章节标题含中文0处（标题本身即英文原文，无需title_en）；问题：无
+[PASS] 17 中文原字段未被改写 — knowledge/canon-rules/character-core.json中文侧差异3处（已登记的在列）；knowledge/canon-rules/knowledge-control.json中文侧差异5处（已登记的在列）；knowledge/resolution/aliases.json中文侧差异2处（已登记的在列）；中文原字段零未登记改写；已登记改动：knowledge-control升v2.1加KC-11至KC-16与language_modes、character-core加英文资料元数据、aliases.json注记加双语说明；问题：无
+[PASS] 18 人物关系双语一致 — 共455条关系陈述，中英文type齐全；279人roles_en与roles等长；32人relationships与role_en.relationships指向均可解析（非规范id但经别名可解析：m relationships with=bill-tanner→chief-of-staff；m role_en.relationships with=bill-tanner→chief-of-staff，中文原字段沿用合并前id，见docs/VALIDATION-REPORT.md尚未解决问题）；问题：无
+[PASS] 19 三层约束双语结构有效 — character-core v2.0：32人role_en 8键齐、voice_style_en齐（tone/sentence_pattern/taboo各32种无重复、signature_phrases共64条无重复、Q为空数组并说明原因）；knowledge-control v2.1：KC-11至KC-16齐、language_modes含zh/en与6条原则；adaptation-boundaries已核验10条（其英文版未补，记为已知缺口，不计失败）；问题：无
+
+验证结果：19/19项通过
+```
+
+`node scripts/retrieval-tests.js`完整输出（退出码0）：
+
+```
+[PASS] 人物ID：bond解析为詹姆斯·邦德 — name_en=James Bond
+[PASS] 别名：leiter解析为felix-leiter — via=alias
+[PASS] 别名：sis解析为secret-service（组织） — via=alias
+[PASS] 小说名称：金刚钻对应novel-04，25章 — novel_id=diamonds-are-forever，章节=25
+[PASS] 章节编号：诺博士第VII章存在且标题为NIGHT PASSAGE — title=NIGHT PASSAGE
+[PASS] 时间线：勒·希弗第1部present、第2部起dead — scope1=present，scope2=dead，death_novel_no=2
+[PASS] 人物关系：bond与felix-leiter双向可查且为盟友 — bond侧4条，leiter侧4条
+[PASS] 组织：secret-service共14部出场 — appearance_count=14
+[PASS] 地点：迈阿密为真实地点（fictional=false），出场2部 — fictional=false，count=2
+[PASS] 装备：beretta-25为点25贝雷塔，出场2部 — name_en=.25 Beretta automatic
+[PASS] 事件：thunderball:nuclear-blackmail存在且章节有效 — chapter=7
+[PASS] 事实类型：全库canon 762条、inference 11条 — canon=762，inference=11
+[PASS] 同名区分：Molony返回双候选，james-molony单指爵士 — Molony候选=molony,sergeant-molony，james-molony=molony，sergeant-molony=sergeant-molony
+[PASS] 事实定位：皇家赌场第19章le-chiffre对外自杀说法可定位 — quote=We have announced that Le Chiffre shot h…
+[PASS] 全书级事实：dr-no#59/#60 chapter为全书且quote留空 — chapter=全书/全书
+[PASS] 人物ID（英文）：bond角色英文含Major character，皇家赌场出场标题为Casino Royale — roles_en=Major character,Major character (introduced in Chapter 10)，title_en=Casino Royale
+[PASS] 英文别名：Kerim Bey/The Wizard of Ice/NATO均解析到同一规范id — kerim=darko-kerim，kronsteen=kronsteen，nato=nato
+[PASS] 中文别名：军械官/塔尼娅/花斑帮均解析到同一规范id — 军械官=boothroyd，塔尼娅=tatiana-romanov，花斑帮=spangled-mob
+[PASS] 歧义别名中英一致：Spang与spang brothers返回同一候选清单 — Spang=jack-spang,seraffimo-spang，spang brothers=jack-spang,seraffimo-spang
+[PASS] 小说名称（英文）：Casino Royale/From Russia with Love对应27/28章 — CR=27章，FRWL=28章
+[PASS] 章节编号（英文书名）：Dr No第VII章为NIGHT PASSAGE，Goldfinger共23章 — VII=NIGHT PASSAGE，Goldfinger=23章
+[PASS] 时间线（英文）：casino-royale标题为Casino Royale，bond截止为Octopussy and The Living Daylights (1966) — title_en=Casino Royale，cutoff_en=Octopussy and The Living Daylights (1966)
+[PASS] 人物关系双向（中英）：bond与felix-leiter中英类型一致 — zh=盟友,挚友与战友，en=Ally,Best friend and comrade-in-arms
+[PASS] 组织（英文）：nato英文全称正确，出场role_en非空 — name_en=North Atlantic Treaty Organization
+[PASS] 地点（英文）：london/miami国家英文正确，有国家者均有country_en — london=United Kingdom，miami=United States
+[PASS] 装备（英文）：walther-ppk类别为Weapon，注释英文提及Boothroyd — kind_en=Weapon
+[PASS] 事件（英文书名）：Thunderball可定位thunderball:nuclear-blackmail事件章节 — novel_id=thunderball，chapter=7
+[PASS] 事实类型筛选（英文）：inference共11条，人物实体均有name_en — inference=11，缺name_en=0
+[PASS] 双语完整性：角色/别名/关系/时间线英文均已补齐 — chars=true，alias=true，rels=true，timeline=true
+
+检索测试：29通过，0失败，共29条
+```
+
+### 中英覆盖率前后对比
+
+修复前（基线，2026-11-06，工程本份实测）：只有中文描述与名称类英文（`name_en`人物279/279、组织89/89、地点170/170、装备128/128，`title_en`小说14/14）；事实、英文摘要、角色英文、关系英文、别名英文、时间线英文全部为0；knowledge-control为v2.0、规则10条。
+
+修复后（2026-11-07验收实测）：必填英文槽位8459/8459（100%）；全部可统计英文槽位8597/10356（83.0%），未补缺口1759处；中文为空或占位词而跳过的人物描述241处，不计入适用槽位。
+
+| 类别 | 修复前 | 修复后 |
+|---|---|---|
+| 事实fact_en | 0/773 | 773/773 |
+| 章节summary_en | 0/284 | 284/284 |
+| 小说人物描述_en（适用） | 0/1504 | 1504/1504（含琐碎值Unknown/Unknown.共50处；跳过241处） |
+| 小说人物role_en | 0/349 | 349/349 |
+| 小说组织/地点role英文 | 0/347 | 347/347（role_en或description_en） |
+| 小说装备/车辆/通讯note英文 | 0/350 | 350/350（note_en或description_en） |
+| 小说事件title/cause/effect_en | 0/567 | 567/567 |
+| 任务mission_en子字段 | 0/56 | 56/56 |
+| 梗概synopsis_en | 0/14 | 14/14 |
+| 推测说明note_en | 0/107 | 107/107（topic_en 88/107） |
+| 索引人物出场role_en/title_en | 0/698 | 698/698 |
+| 索引组织出场role_en | 0/142 | 142/142 |
+| 索引地点country_en/出场role_en | 0/169、0/204 | 169/169、204/204 |
+| 索引装备kind_en/出场note_en | 0/128、0/147 | 128/128、147/147 |
+| 事件索引title/cause/effect_en | 0/567 | 567/567（本次机械同步） |
+| 别名alias_en | 0/258 | 258/258 |
+| 关系type_en | 0/455 | 455/455 |
+| 时间线title_en | 0/14 | 14/14 |
+| 时间线人物name_en/cutoff_en | 0/64 | 64/64 |
+| 核心人物描述_en（适用） | 0/252 | 252/252 |
+| 核心人物role_en 8键 | 0/32 | 32/32 |
+| 核心人物timeline_cutoff_en | 0/32 | 32/32（本次机械同步） |
+| knowledge-control版本/规则 | v2.0/10条 | v2.1/16条（KC-01至KC-16） |
+
+分部（小说人物描述_en）：小说01共105/105（跳过0处，琐碎值36处）、小说02共120/120、小说03共100/100、小说04共105/105（跳过15处）、小说05共135/135、小说06共79/79（跳过41处）、小说07共111/111（跳过14处）、小说08共125/125、小说09共155/155、小说10共90/90（跳过0处，琐碎值14处）、小说11共130/130（跳过30处）、小说12共83/83（跳过37处）、小说13共85/85（跳过65处）、小说14共81/81（跳过39处）。
+
+分人物（32位核心人物）：31人描述_en适用项全部已补；Q只补background_en与role_en，其余4个描述字段中文为空，不适用；32人role_en 8键全齐、timeline_cutoff_en全齐、voice_style_en全齐；voice_style_en的tone、sentence_pattern、taboo各32种无重复，signature_phrases共64条无重复，Q为空数组并在tone中说明原因。
+
+### 重复与命名问题处理记录
+
+- 重复id：本次双语化未引入新id，未改动任何id；人物279、组织89、地点170、装备128、事件189、核心人物32、事实773条均与修复前一致。
+- 命名分歧：组织/地点中文`role`的英文版在小说05、07、09为`role_en`，其余11部为`description_en`；装备/车辆/通讯中文`note`的英文版在小说05、07、09为`note_en`，其余11部为`description_en`；通讯`name_en`在8部未补；`story_timeline_en`只有小说02有；`adaptation_differences_en` 13/14（小说12未补）；`canon_vs_inference`的`topic_en`在小说06、13未补。统一口径：新字段一律按中文原字段名加`_en`后缀，已交付的`description_en`为合规既有写法，验证脚本同时接受两种写法，不做批量改名。改不动的已知局限：小说12纯字符串列表、小说14 stories子结构（80处），见docs/DATA-SCHEMA.md第十三节。
+- 中文原字段比对：与工程本份基线（~/workspace/007-intelligence-lab/knowledge，与GitHub main分支d5a0e4e1内容一致）逐字段比对，中文侧差异共10处，全部已登记：knowledge-control升v2.1（schema_version、layers文本、rules 10条增至16条、新增language_modes）、character-core加英文资料元数据（field_notes.english_fields、english_profile_version、english_profile_generated）、aliases.json注记加双语说明（note、lookup）；其余中文原字段零改写。验证脚本第17项在基线存在时自动重跑该比对，基线不在本机时跳过外部比对、不计失败。
+
+### 内容问题核查记录（定点核对，非全面重读）
+
+- 小说12“氢气球”：you-only-live-twice第20章事实中文写“氢气球”，英文版写helium balloon；中文侧待另行修正，见尚未解决问题第13条。
+- 小说03德拉克斯植皮：原著本身左右不一致（第IV章右半脸，第XXII章左太阳穴与左脸颊），英文沿用第IV章，未另加注，见尚未解决问题第14条。
+- 小说03第44条事实：chapter原值就是"II"，原样保留，见尚未解决问题第15条。
+- 小说06两处原文内部矛盾：购岛年份与结尾准将是否为比尔·坦普勒，均已在canon_vs_inference的note_en标明，未调和，见尚未解决问题第16条。
+- Q的signature_phrases为空数组：顶层字段32人全部为空数组；voice_style_en.signature_phrases共64条，Q为空数组并在tone中说明原因，见尚未解决问题第17条。
+- 人物描述跳过241处：分部见尚未解决问题第18条。
+- 全面逐条复核未做：见尚未解决问题第19条。
+
+### 全部文件与数据盘点（2026-11-07）
+
+- 仓库文件共43个：knowledge/下JSON共27个（manifest.json 1个、novels 14个、canon-rules 3个、characters/organizations/locations/equipment/timeline/events索引共6个、resolution 3个）、docs/下Markdown共12个（含新增docs/BILINGUAL-MAPPING.md）、README.md、package.json、scripts/validate.js与scripts/retrieval-tests.js。
+- 已有英文资料的部分（修复前基线即有）：四类索引与小说各数组的name_en（人物279、组织89、地点170、装备128）、小说title_en（14/14）、章节title（本身即英文原文，284/284）。
+- 修复前缺失或只有中文的部分：事实、英文摘要、角色英文、关系英文、别名英文、时间线英文、事件英文、任务英文、梗概英文、推测说明英文全部为0。
+- 补齐的英文结构化资料清单：事实fact_en 773条、章节summary_en 284条、小说人物描述_en 1504项、小说人物role_en 349条、小说组织/地点role英文347条、小说装备/车辆/通讯note英文350条、小说事件英文567项、任务mission_en 56项、梗概synopsis_en 14条、推测说明note_en 107条、索引出场英文（人物698项、组织142项、地点204项、装备147项）、索引地点country_en 169项、索引装备kind_en 128项、事件索引英文567项、别名alias_en 258条、关系type_en 455条、时间线英文（标题14条、人物64项）、核心人物描述_en 252项、role_en 32人乘8键、timeline_cutoff_en 32项、voice_style_en 32人、knowledge-control v2.1（KC-11至KC-16与language_modes）。
+- 中文数据保留情况：中文原字段零未登记改写（已登记改动10处，见上）；中文事实773条、章节摘要284条、实体总数（人物279、组织89、地点170、装备128、事件189）均未变；JSON全部可解析（27个，0失败，python3 -m json.tool批量校验通过，见下）。
+- 中英对应关系与稳定ID：见docs/BILINGUAL-MAPPING.md；id中英共用，永不改写。
+- JSON格式与完整性检查结果：`npm run validate`19/19项通过（退出码0），其中第1项全部JSON可解析、第4项事实字段完整、第5项章节引用有效、第13至19项双语检查通过；`node scripts/retrieval-tests.js`29/29条通过（退出码0），其中第28项双语完整性（角色/别名/关系/时间线英文均已补齐）通过。
+- 人物关系一致性检查结果：311对人物关系双向可查，455条关系陈述中英文type齐全；279人roles_en与roles等长；32人role_en.relationships指向均可解析（M沿用合并前id bill-tanner，经别名可解析到chief-of-staff，见尚未解决问题第21条）。
+
+### JSON批量校验（2026-11-07）
+
+全部27个JSON最后再跑一遍`python3 -m json.tool`批量校验，0个非法文件，退出码0。校验命令：`for f in $(find knowledge -name '*.json'); do python3 -m json.tool "$f" > /dev/null || echo "FAIL $f"; done`。
+
+### 改动文件清单（本次双语化验收，相对GitHub HEAD d5a0e4e1）
+
+- knowledge/events/index.json：补title_en/cause_en/effect_en共189件乘3字段（机械同步）。
+- knowledge/canon-rules/character-core.json：补timeline_cutoff_en共32人（机械同步）。
+- knowledge/canon-rules/knowledge-control.json：v2.0升v2.1，规则10条增至16条（KC-11至KC-16），新增language_modes，layers文本同步更新（16路交回内容，本次验收只核对不改写）。
+- knowledge/resolution/aliases.json：注记（note、lookup）加双语说明（16路交回内容，本次验收只核对不改写）。
+- knowledge/novels/novel-01.json至novel-14.json：全部_en字段（16路交回内容，本次验收只核对不改写；中文原字段零改写）。
+- knowledge/characters/index.json、knowledge/organizations/index.json、knowledge/locations/index.json、knowledge/equipment/index.json、knowledge/resolution/relationships.json、knowledge/resolution/timeline.json：全部_en字段（16路交回内容，本次验收只核对不改写；中文原字段零改写）。
+- scripts/validate.js：第8项修补（v2.1/16条），新增第13至19项双语检查。
+- scripts/retrieval-tests.js：15条增至29条（16路交回内容，本次验收只核对不改写；新增第15至29项双语检索测试）。
+- docs/DATA-SCHEMA.md：第二、三、四、五、六、八、九、十、十一、十二节同步英文版字段，新增第十三节（双语兼容方案、字段字典、命名收敛决定）。
+- docs/BILINGUAL-MAPPING.md：新增（中英对应关系与稳定ID清单、语言切换规则摘要、覆盖率总表、已知缺口清单）。
+- docs/VALIDATION-REPORT.md：本节（双语化验收）与尚未解决问题第13至22条。
+- docs/KNOWLEDGE-COVERAGE.md：新增第六节英文覆盖率，第五节同步验证结果。
+- docs/CHARACTER-CONSTRAINTS.md：第五节补第五点第六小节核验记录（2026-11-07）。
+- docs/CHATGPT-HANDOVER.md与docs/CHATGPT-ONECLICK.md：双语接管说明（数据结构、文件路径、接口及使用方式）。
+- 未改动：knowledge/manifest.json、knowledge/timeline/index.json（title_en为基线已有）、knowledge/canon-rules/adaptation-boundaries.json、package.json、docs/其余文件；网站public/、functions/未碰，未部署，未改Cloudflare配置，未调用收费模型。

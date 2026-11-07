@@ -10,7 +10,10 @@
       "chapter": 6,
       "title": "保加利亚人炸弹袭击",
       "cause": "勒·希弗方面雇佣三名保加利亚人刺杀邦德，两人各持一包炸弹，误以为蓝包是烟雾弹",
-      "effect": "两包皆为烈性炸弹，蓝包被引爆时两人同归于尽，邦德毫发无损，第三人被捕后招供"
+      "effect": "两包皆为烈性炸弹，蓝包被引爆时两人同归于尽，邦德毫发无损，第三人被捕后招供",
+      "title_en": "Bomb Attack by the Bulgarians",
+      "cause_en": "Le Chiffre's people hired three Bulgarians to kill Bond; two of them carried a parcel of explosives each, believing the blue parcel to be a smoke bomb.",
+      "effect_en": "Both parcels were high explosive; the blue one killed the two men when it went off, Bond escaped unhurt, and the third man was arrested and confessed."
     },
     {
       "id": "casino-royale:baccarat-duel",
@@ -19,7 +22,10 @@
       "chapter": 10,
       "title": "百家乐对决",
       "cause": "邦德奉命以赌桌击败勒·希弗，勒·希弗买下庄家，邦德坐6号位正面迎战",
-      "effect": "邦德一度赢400万法郎又连输1200万法郎被清空，莱特送来3200万法郎后邦德在决胜局以9点获胜"
+      "effect": "邦德一度赢400万法郎又连输1200万法郎被清空，莱特送来3200万法郎后邦德在决胜局以9点获胜",
+      "title_en": "The Baccarat Duel",
+      "cause_en": "Bond was ordered to beat Le Chiffre at the tables; Le Chiffre bought the bank and Bond took seat number six to face him.",
+      "effect_en": "Bond was at one point four million francs up, then lost twelve million and was cleaned out; after Leiter brought thirty-two million francs, Bond won the decisive coup with a nine."
     },
     {
       "id": "casino-royale:cane-gun-attempt",
@@ -28,7 +34,10 @@
       "chapter": 12,
       "title": "拐杖枪暗杀未遂",
       "cause": "勒·希弗不甘失败，命枪手在决胜局前以消音手枪顶住邦德脊柱逼其撤注",
-      "effect": "邦德猛然后仰撞断拐杖枪脱身，枪手逃走，邦德得以继续决胜局"
+      "effect": "邦德猛然后仰撞断拐杖枪脱身，枪手逃走，邦德得以继续决胜局",
+      "title_en": "Attempted Murder with the Cane Gun",
+      "cause_en": "Unwilling to lose, Le Chiffre had a gunman press a silenced pistol to Bond's spine before the decisive coup and order him to withdraw his bet.",
+      "effect_en": "Bond threw himself backwards, snapping the cane gun across his chair; the gunman fled and Bond was able to play the decisive coup."
     },
     {
       "id": "casino-royale:vesper-kidnapping",
@@ -37,7 +46,10 @@
       "chapter": 14,
       "title": "薇丝朋被绑架",
       "cause": "薇丝朋受MWD指使，以伪造的马蒂斯字条将自己骗出夜总会，实为诱捕邦德的圈套",
-      "effect": "邦德驾宾利追赶，压上钉刺路障翻车被俘"
+      "effect": "邦德驾宾利追赶，压上钉刺路障翻车被俘",
+      "title_en": "Vesper Is Kidnapped",
+      "cause_en": "On MWD orders, Vesper lured herself out of the nightclub with a forged note in Mathis's handwriting - a trap to catch Bond.",
+      "effect_en": "Bond gave chase in his Bentley, ran over the spiked chainmail carpet and overturned, and was captured."
     },
     {
       "id": "casino-royale:bentley-crash",
@@ -46,7 +58,10 @@
       "chapter": 16,
       "title": "宾利翻车被俘",
       "cause": "勒·希弗在岔路口撒下钉刺链毯，邦德高速驶过时轮胎被撕裂翻车",
-      "effect": "邦德与薇丝朋一同被押至Les Noctambules别墅，邦德被剥光绑椅受刑"
+      "effect": "邦德与薇丝朋一同被押至Les Noctambules别墅，邦德被剥光绑椅受刑",
+      "title_en": "The Bentley Crashes and Bond Is Captured",
+      "cause_en": "Le Chiffre had a carpet of spiked chainmail spread across the road at a crossroads; Bond drove over it at high speed and his tyres were torn to shreds.",
+      "effect_en": "Bond and Vesper were taken together to the villa Les Noctambules, where Bond was stripped and tied to a chair for torture."
     },
     {
       "id": "casino-royale:torture",
@@ -55,7 +70,10 @@
       "chapter": 17,
       "title": "酷刑逼供",
       "cause": "勒·希弗要逼问邦德藏匿的4000万法郎支票下落",
-      "effect": "邦德受藤地毯拍抽打约1小时始终不说，昏厥后被弄醒，勒·希弗正要以刻刀阉割时被打断"
+      "effect": "邦德受藤地毯拍抽打约1小时始终不说，昏厥后被弄醒，勒·希弗正要以刻刀阉割时被打断",
+      "title_en": "Torture",
+      "cause_en": "Le Chiffre wanted to force Bond to reveal where the forty-million-franc cheque was hidden.",
+      "effect_en": "Bond was beaten with a carpet beater for about an hour and said nothing; he fainted and was revived, and Le Chiffre was about to castrate him with a knife when he was interrupted."
     },
     {
       "id": "casino-royale:smersh-execution",
@@ -64,7 +82,10 @@
       "chapter": 18,
       "title": "SMERSH处决勒·希弗",
       "cause": "勒·希弗挪用苏联资金且行动失败，SMERSH派特工清理门户",
-      "effect": "勒·希弗与两名枪手被枪杀，邦德右手背被刻上俄文字母Ш，邦德获救"
+      "effect": "勒·希弗与两名枪手被枪杀，邦德右手背被刻上俄文字母Ш，邦德获救",
+      "title_en": "SMERSH Executes Le Chiffre",
+      "cause_en": "Le Chiffre had embezzled Soviet funds and failed; SMERSH sent an agent to settle accounts with him.",
+      "effect_en": "Le Chiffre and his two gunmen were shot dead; the Russian letter Ш was cut into the back of Bond's right hand, and Bond was left alive."
     },
     {
       "id": "casino-royale:bond-recovery",
@@ -73,7 +94,10 @@
       "chapter": 19,
       "title": "邦德苏醒与康复",
       "cause": "农民发现翻覆的宾利报警，马蒂斯率队在别墅找到邦德",
-      "effect": "邦德昏迷两天后苏醒，对外宣称勒·希弗杀同伙后自杀，邦德说出支票藏于房门号牌之后，约3周后痊愈"
+      "effect": "邦德昏迷两天后苏醒，对外宣称勒·希弗杀同伙后自杀，邦德说出支票藏于房门号牌之后，约3周后痊愈",
+      "title_en": "Bond Wakes and Recovers",
+      "cause_en": "A farmer found the overturned Bentley and raised the alarm; Mathis led a party to the villa and found Bond.",
+      "effect_en": "Bond woke after two days unconscious; officially Le Chiffre was said to have shot his accomplices and killed himself. Bond revealed the cheque was behind his room's number plate, and recovered in about three weeks."
     },
     {
       "id": "casino-royale:moral-debate",
@@ -82,7 +106,10 @@
       "chapter": 20,
       "title": "善恶之辩",
       "cause": "酷刑经历使邦德怀疑英雄与恶棍之分，表示想辞职",
-      "effect": "马蒂斯以亲身经历劝说邦德，邦德暂被说服，但结尾薇丝朋之死使其决心转而追捕SMERSH"
+      "effect": "马蒂斯以亲身经历劝说邦德，邦德暂被说服，但结尾薇丝朋之死使其决心转而追捕SMERSH",
+      "title_en": "The Debate on Good and Evil",
+      "cause_en": "The torture left Bond doubting the difference between heroes and villains, and he talked of resigning.",
+      "effect_en": "Mathis argued from his own experience that truly evil men exist; Bond was talked round for the time being, but Vesper's death at the end turned him towards hunting SMERSH."
     },
     {
       "id": "casino-royale:romance",
@@ -91,7 +118,10 @@
       "chapter": 23,
       "title": "海边热恋",
       "cause": "康复后两人同住禁果客栈，邦德决心求婚",
-      "effect": "两人同床，邦德确认身体已恢复，但薇丝朋因双面身份日渐恐惧疏远"
+      "effect": "两人同床，邦德确认身体已恢复，但薇丝朋因双面身份日渐恐惧疏远",
+      "title_en": "Love at the Seaside",
+      "cause_en": "Once recovered, Bond and Vesper stayed together at the inn L'Auberge du Fruit Défendu, and Bond resolved to propose to her.",
+      "effect_en": "They became lovers and Bond was sure his body had recovered, but Vesper grew daily more frightened and distant because of her double life."
     },
     {
       "id": "casino-royale:gettler-surveillance",
@@ -100,7 +130,10 @@
       "chapter": 25,
       "title": "盖特勒监视",
       "cause": "MWD方面派盖特勒跟踪监视薇丝朋，薇丝朋每天两次打往巴黎的电话无人接听",
-      "effect": "薇丝朋确认无法逃脱，精神崩溃，决定在坦白前夜与邦德重归于好"
+      "effect": "薇丝朋确认无法逃脱，精神崩溃，决定在坦白前夜与邦德重归于好",
+      "title_en": "Gettler's Surveillance",
+      "cause_en": "The MWD sent Gettler to watch Vesper, and her twice-daily calls to Paris went unanswered.",
+      "effect_en": "Vesper realized there was no escape, broke down, and decided to spend one last night with Bond before confessing."
     },
     {
       "id": "casino-royale:vesper-suicide",
@@ -109,7 +142,10 @@
       "chapter": 27,
       "title": "薇丝朋之死与遗书",
       "cause": "薇丝朋因双面身份暴露在即、恋人将被处死、SMERSH威胁将至而绝望",
-      "effect": "薇丝朋服安眠药自杀，遗书揭露其为MWD双面间谍及全部经过，邦德向伦敦报告并决心追捕SMERSH"
+      "effect": "薇丝朋服安眠药自杀，遗书揭露其为MWD双面间谍及全部经过，邦德向伦敦报告并决心追捕SMERSH",
+      "title_en": "Vesper's Death and Her Letter",
+      "cause_en": "Vesper despaired because her double life was about to be exposed, her lover would be killed, and SMERSH was coming for her.",
+      "effect_en": "Vesper took an overdose of sleeping pills; her letter exposed her as an MWD double agent and told the whole story, and Bond reported to London and resolved to hunt SMERSH."
     },
     {
       "id": "live-and-let-die:gold-coins-briefing",
@@ -118,7 +154,10 @@
       "chapter": "II",
       "title": "M面授金币案",
       "cause": "近几个月美国出现近千枚17世纪古金币，财政部特别支部与FBI追踪无果，怀疑与苏联间谍资金有关",
-      "effect": "邦德受命赴美，与FBI及CIA联合查案，目标直指Mr Big与牙买加宝藏"
+      "effect": "邦德受命赴美，与FBI及CIA联合查案，目标直指Mr Big与牙买加宝藏",
+      "title_en": "M Briefs Bond on the Gold Coins",
+      "cause_en": "Nearly a thousand seventeenth-century gold coins had appeared in America in recent months, and the Treasury's Special Branch and the FBI, tracing them without result, suspected a link with Soviet spy funds.",
+      "effect_en": "Bond was ordered to America to work jointly with the FBI and the CIA, with the trail pointing directly at Mr Big and the Jamaican treasure."
     },
     {
       "id": "live-and-let-die:clock-bomb-warning",
@@ -127,7 +166,10 @@
       "chapter": "III",
       "title": "闹钟炸弹警告",
       "cause": "Mr Big在St Regis酒店外认出邦德，要警告其离境",
-      "effect": "炸弹仅炸碎玻璃器皿未伤人，纸条称邦德的心跳已被计数，邦德决心回敬"
+      "effect": "炸弹仅炸碎玻璃器皿未伤人，纸条称邦德的心跳已被计数，邦德决心回敬",
+      "title_en": "The Alarm-Clock Bomb Warning",
+      "cause_en": "Mr Big had recognised Bond outside the St Regis Hotel and wanted to warn him off.",
+      "effect_en": "The bomb only smashed glassware and hurt no one; its note said Bond's heartbeats had been counted, and Bond resolved to return the compliment."
     },
     {
       "id": "live-and-let-die:harlem-night-visit",
@@ -136,7 +178,10 @@
       "chapter": "V",
       "title": "夜访哈莱姆",
       "cause": "邦德想亲眼了解Mr Big的地盘",
-      "effect": "两人行踪全程被The Whisper的监视网掌握，Mr Big设下Z号桌陷阱"
+      "effect": "两人行踪全程被The Whisper的监视网掌握，Mr Big设下Z号桌陷阱",
+      "title_en": "The Night Visit to Harlem",
+      "cause_en": "Bond wanted to see Mr Big's territory for himself.",
+      "effect_en": "The pair were watched throughout by The Whisper's network, and Mr Big set the Table Z trap for them."
     },
     {
       "id": "live-and-let-die:table-z-trap",
@@ -145,7 +190,10 @@
       "chapter": "VI",
       "title": "Z号桌陷阱",
       "cause": "Mr Big下令将两人引至Boneyard夜总会Z号桌",
-      "effect": "桌子连人沉入地下密室，邦德被带去见Mr Big，莱特被扣为人质"
+      "effect": "桌子连人沉入地下密室，邦德被带去见Mr Big，莱特被扣为人质",
+      "title_en": "The Table Z Trap",
+      "cause_en": "Mr Big ordered the two men to be given Table Z at the Boneyard nightclub.",
+      "effect_en": "The table sank with them into a cellar below, Bond was taken to see Mr Big, and Leiter was held hostage."
     },
     {
       "id": "live-and-let-die:solitaire-truth-test",
@@ -154,7 +202,10 @@
       "chapter": "VII",
       "title": "索利泰尔测谎",
       "cause": "Mr Big要验证邦德关于金币的说辞真假",
-      "effect": "索利泰尔以牌占卜后称邦德所言为真，邦德获知她是潜在盟友"
+      "effect": "索利泰尔以牌占卜后称邦德所言为真，邦德获知她是潜在盟友",
+      "title_en": "Solitaire's Truth Test",
+      "cause_en": "Mr Big wanted to know whether Bond's story about the gold coins was true.",
+      "effect_en": "Solitaire declared by the cards that Bond spoke the truth, and Bond learned that she might be an ally."
     },
     {
       "id": "live-and-let-die:finger-breaking",
@@ -163,7 +214,10 @@
       "chapter": "VIII",
       "title": "邦德手指被折断",
       "cause": "Mr Big要给邦德留下记号并警告其当日离境",
-      "effect": "邦德左手小指骨折，莱特遭殴打后被弃于医院外"
+      "effect": "邦德左手小指骨折，莱特遭殴打后被弃于医院外",
+      "title_en": "Bond's Finger Is Broken",
+      "cause_en": "Mr Big wanted to leave a mark on Bond and warn him to leave the country that day.",
+      "effect_en": "Bond's left little finger was broken, and Leiter was beaten and dumped outside a hospital."
     },
     {
       "id": "live-and-let-die:bond-escape-harlem",
@@ -172,7 +226,10 @@
       "chapter": "VIII",
       "title": "邦德逃出哈莱姆",
       "cause": "邦德佯装顺从后在楼道袭击押送者Tee-Hee",
-      "effect": "Tee-Hee坠楼身亡，邦德夺枪击毙车库两名男子后驾车逃脱"
+      "effect": "Tee-Hee坠楼身亡，邦德夺枪击毙车库两名男子后驾车逃脱",
+      "title_en": "Bond Escapes from Harlem",
+      "cause_en": "Feigning submission, Bond attacked his escort Tee-Hee in the stairwell.",
+      "effect_en": "Tee-Hee fell to his death down the stairs, and Bond seized a gun, shot two men dead in the garage and drove away."
     },
     {
       "id": "live-and-let-die:solitaire-defection",
@@ -181,7 +238,10 @@
       "chapter": "IX",
       "title": "索利泰尔叛逃",
       "cause": "索利泰尔欲摆脱Mr Big近一年的软禁，电话向邦德求救并以自杀相逼",
-      "effect": "邦德安排她以Mrs Bryce身份同乘Silver Phantom号南下"
+      "effect": "邦德安排她以Mrs Bryce身份同乘Silver Phantom号南下",
+      "title_en": "Solitaire Defects",
+      "cause_en": "Solitaire wanted to escape nearly a year of captivity under Mr Big, and telephoned Bond for help, threatening to kill herself.",
+      "effect_en": "Bond arranged for her to travel south on the Silver Phantom as Mrs Bryce."
     },
     {
       "id": "live-and-let-die:train-attack",
@@ -190,7 +250,10 @@
       "chapter": "XIII",
       "title": "列车袭击",
       "cause": "Mr Big要灭口邦德与索利泰尔，并伪装成伏都仪式谋杀",
-      "effect": "H包厢被机枪与手榴弹炸毁，列车员Baldwin被炸死，邦德两人因提前下车幸免"
+      "effect": "H包厢被机枪与手榴弹炸毁，列车员Baldwin被炸死，邦德两人因提前下车幸免",
+      "title_en": "The Train Attack",
+      "cause_en": "Mr Big wanted Bond and Solitaire dead, disguised as a ritual voodoo murder.",
+      "effect_en": "Compartment H was destroyed by machine-gun fire and a grenade, Baldwin the attendant was killed, and Bond and Solitaire survived only because they had left the train early."
     },
     {
       "id": "live-and-let-die:solitaire-kidnapping",
@@ -199,7 +262,10 @@
       "chapter": "XIV",
       "title": "索利泰尔被绑架",
       "cause": "The Robber受Mr Big之命以1万美元雇人从Everglades Cabanas劫走索利泰尔",
-      "effect": "索利泰尔被装入留声机包装箱运走，后被带往古巴与牙买加"
+      "effect": "索利泰尔被装入留声机包装箱运走，后被带往古巴与牙买加",
+      "title_en": "Solitaire Is Kidnapped",
+      "cause_en": "On Mr Big's orders The Robber paid ten thousand dollars to have Solitaire seized from the Everglades Cabanas.",
+      "effect_en": "Solitaire was carried off in a radiogram packing-case and later taken to Cuba and Jamaica."
     },
     {
       "id": "live-and-let-die:leiter-shark-attack",
@@ -208,7 +274,10 @@
       "chapter": "XIV",
       "title": "莱特鲨鱼袭击",
       "cause": "莱特清晨独自前往Ourobouros仓库调查，掉入地板下的鲨鱼池",
-      "effect": "莱特失去一条手臂与半条左腿，面部重伤但保住性命，后截肢整形"
+      "effect": "莱特失去一条手臂与半条左腿，面部重伤但保住性命，后截肢整形",
+      "title_en": "Leiter's Shark Attack",
+      "cause_en": "Leiter went alone to the Ourobouros warehouse at dawn and fell into the shark pit under the floor.",
+      "effect_en": "Leiter lost an arm and half his left leg and was gravely injured, though he survived and later underwent amputation and plastic surgery."
     },
     {
       "id": "live-and-let-die:robber-revenge",
@@ -217,7 +286,10 @@
       "chapter": "XV",
       "title": "邦德复仇杀死The Robber",
       "cause": "邦德夜入仓库发现金币藏匿法，The Robber持枪拦截",
-      "effect": "邦德佯降后将其踢入鲨鱼池喂鲨，并获知绑架者为坦帕的Butch与The Lifer"
+      "effect": "邦德佯降后将其踢入鲨鱼池喂鲨，并获知绑架者为坦帕的Butch与The Lifer",
+      "title_en": "Bond Avenges Leiter on The Robber",
+      "cause_en": "Bond entered the warehouse at night, found how the gold was hidden, and was intercepted by The Robber with a rifle.",
+      "effect_en": "Feigning surrender, Bond kicked The Robber into the shark pit and learned that the kidnappers were Butch and The Lifer of Tampa."
     },
     {
       "id": "live-and-let-die:jamaica-training",
@@ -226,7 +298,10 @@
       "chapter": "XVII",
       "title": "Manatee Bay训练",
       "cause": "邦德需具备潜水穿越鲨鱼与梭鱼水域的能力以登上惊奇岛",
-      "effect": "一周训练后邦德可游两英里不疲倦，左手伤愈，烟酒全戒"
+      "effect": "一周训练后邦德可游两英里不疲倦，左手伤愈，烟酒全戒",
+      "title_en": "Training at Manatee Bay",
+      "cause_en": "Bond needed to be fit enough to swim through shark and barracuda waters to reach the Isle of Surprise.",
+      "effect_en": "After a week of training Bond could swim two miles without tiring, his injured hand had healed, and he had given up smoking and drinking."
     },
     {
       "id": "live-and-let-die:mine-planted",
@@ -235,7 +310,10 @@
       "chapter": "XIX",
       "title": "水雷安装",
       "cause": "Secatur号次日清晨启航，邦德当夜潜水至岛下",
-      "effect": "23时03分水雷装上龙骨，选用7小时引信，定时约6时爆炸"
+      "effect": "23时03分水雷装上龙骨，选用7小时引信，定时约6时爆炸",
+      "title_en": "The Mine Is Planted",
+      "cause_en": "The Secatur was to sail at dawn, so Bond swam to the island that night.",
+      "effect_en": "At 11.03 p.m. the mine was fixed to the keel with a seven-hour fuse, timed to explode at about 6 a.m."
     },
     {
       "id": "live-and-let-die:treasure-chamber-found",
@@ -244,7 +322,10 @@
       "chapter": "XX",
       "title": "发现宝藏库",
       "cause": "邦德为躲避梭鱼群游入岛基岩洞",
-      "effect": "发现血腥摩根宝藏库与熔金作业，鼓声实为留声机录音，邦德被俘"
+      "effect": "发现血腥摩根宝藏库与熔金作业，鼓声实为留声机录音，邦德被俘",
+      "title_en": "The Treasure Chamber Is Found",
+      "cause_en": "Fleeing a school of barracuda, Bond swam into a cave at the base of the island.",
+      "effect_en": "He found Bloody Morgan's treasure chamber and the melting operation, learned the drums were a phonograph recording, and was captured."
     },
     {
       "id": "live-and-let-die:keel-hauling",
@@ -253,7 +334,10 @@
       "chapter": "XXI",
       "title": "龙骨拖刑判决",
       "cause": "Mr Big要处死邦德与叛逃的索利泰尔，并以其尸体验证鲨鱼攻击理论",
-      "effect": "两人被绑在paravane后拖入海中，水雷爆炸时间只差分秒"
+      "effect": "两人被绑在paravane后拖入海中，水雷爆炸时间只差分秒",
+      "title_en": "The Keel-Hauling Sentence",
+      "cause_en": "Mr Big wanted Bond and the defecting Solitaire dead, and to test his theory of shark attack with their bodies.",
+      "effect_en": "The two were to be bound to the paravane and towed through the sea, with the mine due to explode within minutes of the sentence being carried out."
     },
     {
       "id": "live-and-let-die:secatur-destroyed",
@@ -262,7 +346,10 @@
       "chapter": "XXII",
       "title": "Secatur号沉没与Mr Big之死",
       "cause": "水雷在船过珊瑚礁前爆炸",
-      "effect": "Secatur号沉没无人生还，Mr Big被梭鱼与豹鲨撕碎，邦德与索利泰尔被Quarrel救起"
+      "effect": "Secatur号沉没无人生还，Mr Big被梭鱼与豹鲨撕碎，邦德与索利泰尔被Quarrel救起",
+      "title_en": "The Secatur Sinks and Mr Big Dies",
+      "cause_en": "The mine exploded just before the ship cleared the reef.",
+      "effect_en": "The Secatur sank with no survivors, Mr Big was torn apart by barracuda and a leopard shark, and Bond and Solitaire were rescued by Quarrel."
     },
     {
       "id": "live-and-let-die:treasure-claim",
@@ -271,7 +358,10 @@
       "chapter": "XXIII",
       "title": "宝藏申索与假期",
       "cause": "宝藏已发现，残骸位于约20英寻水深处",
-      "effect": "M指示以Universal Export名义申索宝藏并立即打捞，批准邦德两周假期"
+      "effect": "M指示以Universal Export名义申索宝藏并立即打捞，批准邦德两周假期",
+      "title_en": "The Treasure Claim and the Leave",
+      "cause_en": "The treasure had been found and the wreck lay in about twenty fathoms of water.",
+      "effect_en": "M ordered the treasure claimed in the name of Universal Export and salvage begun at once, and granted Bond two weeks' leave."
     },
     {
       "id": "moonraker:blades-cheating-exposed",
@@ -280,7 +370,10 @@
       "chapter": "IV",
       "title": "Blades牌局揭穿作弊",
       "cause": "M受巴兹尔登之托,派邦德查德拉克斯桥牌作弊",
-      "effect": "邦德发现银烟盒反光镜作弊手法"
+      "effect": "邦德发现银烟盒反光镜作弊手法",
+      "title_en": "Cheating Exposed at Blades",
+      "cause_en": "At Lord Basildon's request, M sends Bond to investigate Drax's cheating at bridge.",
+      "effect_en": "Bond discovers the silver cigarette-case mirror trick."
     },
     {
       "id": "moonraker:culbertson-grand-slam",
@@ -289,7 +382,10 @@
       "chapter": "VII",
       "title": "大满贯设局赢15000英镑",
       "cause": "邦德以预叠Culbertson名局设局,装醉诱德拉克斯加注至150英镑每100分与1500英镑橡皮局",
-      "effect": "德拉克斯输约15000英镑并威胁邦德快花掉这笔钱"
+      "effect": "德拉克斯输约15000英镑并威胁邦德快花掉这笔钱",
+      "title_en": "The Grand Slam Trap Wins £15,000",
+      "cause_en": "Bond sets a trap with a pre-stacked famous Culbertson hand, feigns drunkenness and tempts Drax to raise the stakes to £150 per hundred and £1,500 a rubber.",
+      "effect_en": "Drax loses about £15,000 and warns Bond to spend the money quickly."
     },
     {
       "id": "moonraker:tallon-bartsch-killing",
@@ -298,7 +394,10 @@
       "chapter": "IX",
       "title": "塔隆与巴奇双重命案",
       "cause": "塔隆致电供应部称基地有问题,要求次日见部长,又在屋顶夜观海面",
-      "effect": "巴奇枪杀塔隆后自杀,验尸结论为谋杀与精神失常下自杀"
+      "effect": "巴奇枪杀塔隆后自杀,验尸结论为谋杀与精神失常下自杀",
+      "title_en": "The Tallon and Bartsch Killings",
+      "cause_en": "Tallon telephones the Ministry of Supply to say something is wrong at the site and asks to see the Minister the next day; he has also been watching the sea at night from the roof.",
+      "effect_en": "Bartsch shoots Tallon and then himself; the inquest returns murder and suicide while of unsound mind."
     },
     {
       "id": "moonraker:chart-clue",
@@ -307,7 +406,10 @@
       "chapter": "XIII",
       "title": "海图线索",
       "cause": "邦德搜查塔隆房间,发现海图交叉方位与克雷布斯指纹",
-      "effect": "邦德怀疑克雷布斯与德拉克斯另有图谋,致电瓦兰斯求证"
+      "effect": "邦德怀疑克雷布斯与德拉克斯另有图谋,致电瓦兰斯求证",
+      "title_en": "The Chart Clue",
+      "cause_en": "Bond searches Tallon's room and finds the cross-bearings and Krebs's fingerprints on the chart.",
+      "effect_en": "Bond suspects Krebs and Drax of a separate design and telephones Vallance to check."
     },
     {
       "id": "moonraker:cliff-avalanche",
@@ -316,7 +418,10 @@
       "chapter": "XVII",
       "title": "悬崖炸塌谋杀",
       "cause": "邦德与盖拉在海滩调查排气洞与水深,引起对方警觉",
-      "effect": "两人险被炸塌的悬崖活埋,邦德救出盖拉,确认有人蓄意谋杀"
+      "effect": "两人险被炸塌的悬崖活埋,邦德救出盖拉,确认有人蓄意谋杀",
+      "title_en": "The Cliff Avalanche Murder Attempt",
+      "cause_en": "Bond and Gala investigate the exhaust pit and the depth of water off the beach, alerting the other side.",
+      "effect_en": "The two are nearly buried alive when the cliff is blown down on them; Bond saves Gala, and both conclude it was attempted murder."
     },
     {
       "id": "moonraker:notebook-theft",
@@ -325,7 +430,10 @@
       "chapter": "XVIII",
       "title": "黑皮本被盗看与盖拉被囚",
       "cause": "盖拉偷看德拉克斯黑皮本,发现陀螺仪数字与自己相差约90度",
-      "effect": "盖拉被克雷布斯抓获打晕,囚于Ebury Street雷达引导站,推断目标为伦敦"
+      "effect": "盖拉被克雷布斯抓获打晕,囚于Ebury Street雷达引导站,推断目标为伦敦",
+      "title_en": "The Black Notebook and Gala's Capture",
+      "cause_en": "Gala steals a look at Drax's black notebook and finds its gyroscope figures differ from her own by about ninety degrees.",
+      "effect_en": "Krebs seizes Gala and knocks her out; she is imprisoned in the radar guidance station in Ebury Street, and the target is deduced to be London."
     },
     {
       "id": "moonraker:car-chase-maidstone",
@@ -334,7 +442,10 @@
       "chapter": "XX",
       "title": "伦敦至多佛尔追车与撞车",
       "cause": "德拉克斯做空英镑2000万英镑,盖拉失踪,邦德跟踪至Ebury Street",
-      "effect": "德拉克斯撞死Alfa Romeo司机,又以运纸车设陷阱撞毁邦德宾利并俘虏邦德"
+      "effect": "德拉克斯撞死Alfa Romeo司机,又以运纸车设陷阱撞毁邦德宾利并俘虏邦德",
+      "title_en": "The Chase from London to Dover and the Crash",
+      "cause_en": "Drax Metals sells sterling short to the tune of £20 million, Gala disappears, and Bond follows Drax to Ebury Street.",
+      "effect_en": "Drax runs an Alfa Romeo off the road, killing its driver, then has Krebs cut the ropes on a newsprint lorry so the rolls wreck Bond's Bentley and Bond is captured."
     },
     {
       "id": "moonraker:drax-confession",
@@ -343,7 +454,10 @@
       "chapter": "XXII",
       "title": "德拉克斯自白",
       "cause": "德拉克斯向被俘的邦德与盖拉自白全部计划",
-      "effect": "邦德得知原子弹头、伦敦目标、雷达引导与潜艇接应全貌,激怒德拉克斯后被打晕绑缚"
+      "effect": "邦德得知原子弹头、伦敦目标、雷达引导与潜艇接应全貌,激怒德拉克斯后被打晕绑缚",
+      "title_en": "Drax's Confession",
+      "cause_en": "Drax tells the captured Bond and Gala the whole of his plan.",
+      "effect_en": "Bond learns the full picture - the atomic warhead, the London target, the radar guidance and the submarine rendezvous - then enrages Drax and is knocked out and bound."
     },
     {
       "id": "moonraker:blowtorch-escape",
@@ -352,7 +466,10 @@
       "chapter": "XXIII",
       "title": "喷灯脱困与通风井藏身",
       "cause": "邦德用牙齿操作喷灯与打火机烧断绑绳",
-      "effect": "两人脱困并藏身通风井,忍受蒸汽烫伤未被发现"
+      "effect": "两人脱困并藏身通风井,忍受蒸汽烫伤未被发现",
+      "title_en": "The Blowtorch Escape and the Ventilation Shaft",
+      "cause_en": "Bond works the blowtorch and his lighter with his teeth to burn through the ropes binding Gala's wrists.",
+      "effect_en": "The two escape and hide in the ventilation shaft, enduring steam burns without being discovered."
     },
     {
       "id": "moonraker:gyro-reset",
@@ -361,7 +478,10 @@
       "chapter": "XXIV",
       "title": "发射前改回陀螺仪",
       "cause": "德拉克斯按虚假设定发射月亮牌",
-      "effect": "邦德在发射前4分钟改回正确陀螺仪设定,火箭落入北海而非伦敦"
+      "effect": "邦德在发射前4分钟改回正确陀螺仪设定,火箭落入北海而非伦敦",
+      "title_en": "The Gyroscope Reset Before Launch",
+      "cause_en": "Drax launches the Moonraker on his false settings.",
+      "effect_en": "Four minutes before launch Bond resets the gyroscope to Gala's true figures, sending the rocket to the North Sea instead of London."
     },
     {
       "id": "moonraker:moonraker-launch",
@@ -370,7 +490,10 @@
       "chapter": "XXIV",
       "title": "月亮牌发射与北海核爆",
       "cause": "改回设定的火箭按原定目标落入北海,原子弹头爆炸",
-      "effect": "俄国潜艇被掀翻沉没,巡逻舰Merganzer倾覆,200人死亡、约200人失踪,荷兰海防被冲破"
+      "effect": "俄国潜艇被掀翻沉没,巡逻舰Merganzer倾覆,200人死亡、约200人失踪,荷兰海防被冲破",
+      "title_en": "The Moonraker Launch and the North Sea Explosion",
+      "cause_en": "The rocket, reset to its true settings, comes down in the North Sea and its atomic warhead explodes.",
+      "effect_en": "The Russian submarine is capsized and sunk, the patrol vessel Merganzer capsizes, two hundred people are killed and about two hundred are missing, and the Dutch sea defences are breached."
     },
     {
       "id": "moonraker:cover-up",
@@ -379,7 +502,10 @@
       "chapter": "XXV",
       "title": "事后掩盖与嘉奖",
       "cause": "真相涉及德国纳粹余孽与苏联,公开将引发外交危机",
-      "effect": "内阁决定大规模掩盖,称燃料事故与英军潜艇误会,盖拉获乔治十字勋章,邦德与盖拉被令出国一个月"
+      "effect": "内阁决定大规模掩盖,称燃料事故与英军潜艇误会,盖拉获乔治十字勋章,邦德与盖拉被令出国一个月",
+      "title_en": "The Cover-up and the Honours",
+      "cause_en": "The truth involves a surviving Nazi and the Soviet Union, and making it public would cause a diplomatic crisis.",
+      "effect_en": "The Cabinet orders a large-scale cover-up, blaming a fuel accident and a mistaken British experimental submarine; Gala receives the George Cross, and Bond and Gala are ordered abroad for a month."
     },
     {
       "id": "diamonds-are-forever:pipeline-opening",
@@ -388,7 +514,10 @@
       "chapter": 1,
       "title": "非洲交货",
       "cause": "塞法杜矿场钻石经牙医走私者之手，每月满月夜在法属几内亚大荆棘丛交付直升机飞行员",
-      "effect": "价值10万英镑的原钻启程赴欧，走私链运转；西利托整顿使走私者要求加价，埋下其结尾被灭口的伏笔"
+      "effect": "价值10万英镑的原钻启程赴欧，走私链运转；西利托整顿使走私者要求加价，埋下其结尾被灭口的伏笔",
+      "title_en": "The African handover",
+      "cause_en": "Diamonds from the Sefadu mines pass through the dentist smuggler, who hands them to the helicopter pilot on the full moon each month at the great thorn bush in French Guinea.",
+      "effect_en": "Rough diamonds worth £100,000 set out for Europe and the pipeline keeps running; Sillitoe’s crackdown makes the smuggler demand more money, foreshadowing his murder at the end."
     },
     {
       "id": "diamonds-are-forever:bond-infiltration",
@@ -397,7 +526,10 @@
       "chapter": 5,
       "title": "邦德冒充运送者",
       "cause": "彼得·弗兰克斯向卧底女友泄露运钻任务被警方扣留，瓦兰斯安排邦德顶替其身份与蒂芙尼接头",
-      "effect": "邦德以高尔夫球藏钻潜入走私链，顺利通过伦敦与纽约海关"
+      "effect": "邦德以高尔夫球藏钻潜入走私链，顺利通过伦敦与纽约海关",
+      "title_en": "Bond poses as the courier",
+      "cause_en": "Peter Franks told his undercover girlfriend about the diamond job and was arrested by the police, so Vallance has Bond take his place and meet Tiffany.",
+      "effect_en": "Bond carries the diamonds hidden in golf balls into the pipeline and clears London and New York customs without trouble."
     },
     {
       "id": "diamonds-are-forever:shady-payment",
@@ -406,7 +538,10 @@
       "chapter": 7,
       "title": "沙迪·特里付酬",
       "cause": "邦德把18颗原钻运抵纽约，沙迪·特里须以合法掩护支付5000美元酬金",
-      "effect": "邦德得1000美元现款并获指示去萨拉托加押害羞微笑，由此摸到赛马骗局与斯班格帮赛马线"
+      "effect": "邦德得1000美元现款并获指示去萨拉托加押害羞微笑，由此摸到赛马骗局与斯班格帮赛马线",
+      "title_en": "Shady Tree pays up",
+      "cause_en": "Bond has delivered the eighteen rough stones to New York, and Shady Tree must pay him his $5,000 fee under a lawful-looking cover.",
+      "effect_en": "Bond gets $1,000 in cash and is told to back Shy Smile at Saratoga, which leads him to the racing fraud and the Spangled Mob’s racing line."
     },
     {
       "id": "diamonds-are-forever:ringer-exposed",
@@ -415,7 +550,10 @@
       "chapter": 11,
       "title": "替身马骗局被揭露",
       "cause": "莱特查出参赛的害羞微笑实为快马Pickapepper，唇纹经植皮伪造，真马已被枪杀焚尸",
-      "effect": "莱特买通骑师贝尔犯规骑行，替身马获胜后被取消资格，斯班格帮损失50万美元预期收益并展开报复"
+      "effect": "莱特买通骑师贝尔犯规骑行，替身马获胜后被取消资格，斯班格帮损失50万美元预期收益并展开报复",
+      "title_en": "The ringer is exposed",
+      "cause_en": "Leiter finds that the Shy Smile entered to run is really the fast horse Pickapepper, its lip tattoo faked by a skin graft, and that the real Shy Smile was shot and burned.",
+      "effect_en": "Leiter bribes the jockey Bell to ride foul, so the ringer wins and is then disqualified; the Spangled Mob loses an expected $500,000 and sets out for revenge."
     },
     {
       "id": "diamonds-are-forever:bell-murder",
@@ -424,7 +562,10 @@
       "chapter": 13,
       "title": "贝尔在泥浴场被烫死",
       "cause": "温特与基德认定贝尔收受贿赂、双重背叛，斯班格帮以热泥倒入其浴箱灭口",
-      "effect": "邦德目睹行凶却无力救援，确认温特与基德身份，此后对斯班格帮的轻视转为敬畏"
+      "effect": "邦德目睹行凶却无力救援，确认温特与基德身份，此后对斯班格帮的轻视转为敬畏",
+      "title_en": "Bell is scalded to death in the mud baths",
+      "cause_en": "Wint and Kidd decide that Bell has taken a bribe and betrayed them twice over, and the Spangled Mob kills him by pouring hot mud into his bath cabinet.",
+      "effect_en": "Bond watches the murder but is helpless to stop it, learns who Wint and Kidd are, and stops underrating the Spangled Mob."
     },
     {
       "id": "diamonds-are-forever:tiara-blackjack",
@@ -433,7 +574,10 @@
       "chapter": 17,
       "title": "Tiara赌场二十一点与轮盘",
       "cause": "沙迪·特里令邦德星期四晚10时05分在Tiara中央二十一点桌连押5次最高注，蒂芙尼以预设牌序让其赢得5000美元报酬",
-      "effect": "邦德违令转战轮盘又赢20000美元，塞拉菲莫现身注视，次日派人追捕邦德"
+      "effect": "邦德违令转战轮盘又赢20000美元，塞拉菲莫现身注视，次日派人追捕邦德",
+      "title_en": "Blackjack and roulette at the Tiara",
+      "cause_en": "Shady Tree orders Bond to stake the $1,000 maximum five times in a row at the centre blackjack table at the Tiara at 10.05 p.m. on Thursday, and Tiffany, dealing, lets him win his $5,000 fee with a stacked deck.",
+      "effect_en": "Bond disobeys orders, moves to roulette and wins another $20,000; Seraffimo comes out to watch him, and the next day has him hunted down."
     },
     {
       "id": "diamonds-are-forever:vegas-chase",
@@ -442,7 +586,10 @@
       "chapter": 18,
       "title": "拉斯维加斯追车枪战",
       "cause": "邦德违令赌博并羞辱帮派，弗拉索与麦戈尼格尔奉命押其去见斯班格",
-      "effect": "邦德击毁尾随的Jaguar与雪佛兰，库雷奥左臂重伤住院，邦德在汽车影院被俘押往幽灵村"
+      "effect": "邦德击毁尾随的Jaguar与雪佛兰，库雷奥左臂重伤住院，邦德在汽车影院被俘押往幽灵村",
+      "title_en": "The Las Vegas car chase",
+      "cause_en": "Bond has disobeyed orders, won money from the gang and insulted it, so Frasso and McGonigle are sent to bring him to Spang.",
+      "effect_en": "Bond wrecks the tailing Jaguar and the Chevrolet, Cureo is badly wounded in the left arm and taken to hospital, and Bond is seized at the drive-in cinema and carried off to Spectreville."
     },
     {
       "id": "diamonds-are-forever:spectreville",
@@ -451,7 +598,10 @@
       "chapter": 19,
       "title": "幽灵村",
       "cause": "伦敦密电称弗兰克斯被捕，斯班格须查明替补运送者身份并灭口，命温特与基德毒打邦德",
-      "effect": "邦德遭足球靴毒打（八成力），蒂芙尼当夜救他并纵火烧村，两人乘手摇车逃亡"
+      "effect": "邦德遭足球靴毒打（八成力），蒂芙尼当夜救他并纵火烧村，两人乘手摇车逃亡",
+      "title_en": "Spectreville",
+      "cause_en": "A cable from London says Franks has been arrested, so Spang must find out who the substitute courier is and have him killed, and orders Wint and Kidd to beat Bond.",
+      "effect_en": "Bond is beaten with football boots at eighty per cent; that night Tiffany rescues him and sets fire to the town, and the two escape by handcar."
     },
     {
       "id": "diamonds-are-forever:cannonball-crash",
@@ -460,7 +610,10 @@
       "chapter": 20,
       "title": "火车追逐与斯班格之死",
       "cause": "斯班格驾Cannonball号火车追赶逃亡的邦德与蒂芙尼",
-      "effect": "邦德扳道岔引火车上废弃支线并开4枪，火车冲进Spectre山脉爆炸，塞拉菲莫·斯班格身亡"
+      "effect": "邦德扳道岔引火车上废弃支线并开4枪，火车冲进Spectre山脉爆炸，塞拉菲莫·斯班格身亡",
+      "title_en": "The train chase and Spang’s death",
+      "cause_en": "Spang drives the Cannonball train in pursuit of Bond and Tiffany as they flee.",
+      "effect_en": "Bond throws the points, switching the train onto a disused spur, and fires four shots; the train runs into the Spectre Mountains and explodes, killing Seraffimo Spang."
     },
     {
       "id": "diamonds-are-forever:queen-elizabeth-killings",
@@ -469,7 +622,10 @@
       "chapter": 24,
       "title": "女王号双杀",
       "cause": "温特发电报给ABC请示灭口价格，ABC出价20000美元杀蒂芙尼；温特与基德登船挟持蒂芙尼",
-      "effect": "邦德由舷窗爬入A49舱击毙两人，伪造为纸牌争执火并，蒂芙尼获救；参谋长密电证实塞耶即ABC"
+      "effect": "邦德由舷窗爬入A49舱击毙两人，伪造为纸牌争执火并，蒂芙尼获救；参谋长密电证实塞耶即ABC",
+      "title_en": "The double killing on the Queen Elizabeth",
+      "cause_en": "Wint cables ABC asking the price of killing Tiffany, ABC offers $20,000, and Wint and Kidd board the ship and seize Tiffany.",
+      "effect_en": "Bond climbs in through the porthole of Cabin A49 and shoots both men, stages the scene as a quarrel over cards, and rescues Tiffany; a cable from the Chief of Staff confirms that Saye is ABC."
     },
     {
       "id": "diamonds-are-forever:pipeline-closes",
@@ -478,7 +634,10 @@
       "chapter": 25,
       "title": "非洲收尾",
       "cause": "杰克·斯班格沿走私链回程灭口，M命邦德在弗里敦拦截",
-      "effect": "斯班格枪杀牙医走私者后驾直升机逃跑，被邦德以博福斯炮击落，走私链彻底关闭"
+      "effect": "斯班格枪杀牙医走私者后驾直升机逃跑，被邦德以博福斯炮击落，走私链彻底关闭",
+      "title_en": "The pipeline closes in Africa",
+      "cause_en": "Jack Spang is travelling back along the pipeline killing witnesses, and M orders Bond to intercept him at Freetown.",
+      "effect_en": "Spang shoots the dentist smuggler dead, then takes off in the helicopter and is shot down by Bond with the Bofors gun; the pipeline is closed for good."
     },
     {
       "id": "from-russia-with-love:smersh-conference",
@@ -487,7 +646,10 @@
       "chapter": "Four",
       "title": "SMERSH会议定下恐怖行动",
       "cause": "主席团认为情报机关连串失败使苏联蒙羞，命其策划一次针对西方情报机关的引人注目恐怖行动",
-      "effect": "会议选定英国秘密情报局为打击对象，邦德被提名为目标"
+      "effect": "会议选定英国秘密情报局为打击对象，邦德被提名为目标",
+      "title_en": "SMERSH Conference Decides on a Terrorist Act",
+      "cause_en": "The Presidium considers the intelligence services' run of failures a disgrace to the Soviet Union and orders a conspicuous act of terrorism against a Western intelligence service.",
+      "effect_en": "The conference chooses the British Secret Service as its target, and Bond is proposed as the victim."
     },
     {
       "id": "from-russia-with-love:death-warrant",
@@ -496,7 +658,10 @@
       "chapter": "Six",
       "title": "邦德死刑令签署",
       "cause": "会议认定邦德是英国秘密情报局的英雄式人物，杀之并毁其名誉可重创该局神话",
-      "effect": "死刑令写明“蒙羞而死”，谢罗夫批准，任务交克莱布与克朗斯汀"
+      "effect": "死刑令写明“蒙羞而死”，谢罗夫批准，任务交克莱布与克朗斯汀",
+      "title_en": "Bond's Death Warrant Is Signed",
+      "cause_en": "The conference judges Bond the heroic figure of the British Secret Service, so that killing him and destroying his reputation would shatter the Service's myth.",
+      "effect_en": "The death warrant is amended to read 'to be killed WITH IGNOMINY', approved by Serov, and the operation is handed to Klebb and Kronsteen."
     },
     {
       "id": "from-russia-with-love:tatiana-recruited",
@@ -505,7 +670,10 @@
       "chapter": "Nine",
       "title": "塔蒂亚娜被招募",
       "cause": "克朗斯汀的陷阱需要一名极美的姑娘作饵",
-      "effect": "塔蒂亚娜受命引诱邦德、随其去英国并提供假情报，实为诱杀计划的诱饵"
+      "effect": "塔蒂亚娜受命引诱邦德、随其去英国并提供假情报，实为诱杀计划的诱饵",
+      "title_en": "Tatiana Is Recruited",
+      "cause_en": "Kronsteen's trap needs an extremely beautiful girl as bait.",
+      "effect_en": "Tatiana is ordered to seduce Bond, follow him to England and supply false information - in reality she is the bait for a murder plot."
     },
     {
       "id": "from-russia-with-love:kerim-bomb-attempt",
@@ -514,7 +682,10 @@
       "chapter": "Fourteen",
       "title": "克里姆办公室炸弹未遂",
       "cause": "俄方突然对克里姆宣战，克里连库在其办公室外墙安装粘性炸弹",
-      "effect": "克里姆当时正在沙发上与一名罗马尼亚姑娘在一起而幸免，办公室重装；克里姆警觉敌方有异动"
+      "effect": "克里姆当时正在沙发上与一名罗马尼亚姑娘在一起而幸免，办公室重装；克里姆警觉敌方有异动",
+      "title_en": "Attempt to Bomb Kerim's Office",
+      "cause_en": "The Russians declare war on Kerim, and Krilencu fixes a limpet bomb to the wall outside his office.",
+      "effect_en": "Kerim happens to be on the sofa with a Romanian girl and escapes; the office is rebuilt, and Kerim realises the enemy is moving against him."
     },
     {
       "id": "from-russia-with-love:gypsy-attack",
@@ -523,7 +694,10 @@
       "chapter": "Eighteen",
       "title": "吉卜赛营地袭击",
       "cause": "俄方下令杀死为克里姆工作的吉卜赛首领瓦夫拉及其手下，并杀克里姆，但不得伤害邦德",
-      "effect": "十名保加利亚人被杀、五名吉卜赛人死亡，邦德两次救下克里姆；克里姆决心杀死克里连库"
+      "effect": "十名保加利亚人被杀、五名吉卜赛人死亡，邦德两次救下克里姆；克里姆决心杀死克里连库",
+      "title_en": "Attack on the Gipsy Camp",
+      "cause_en": "The Russians order the gipsy chief Vavra and his men killed, and Kerim killed too, but Bond is not to be harmed.",
+      "effect_en": "Ten Bulgarians are killed and five gipsies die; Bond saves Kerim's life twice, and Kerim resolves to kill Krilencu."
     },
     {
       "id": "from-russia-with-love:krilencu-killed",
@@ -532,7 +706,10 @@
       "chapter": "Nineteen",
       "title": "克里连库被杀",
       "cause": "克里连库两次刺杀克里姆未遂，克里姆决定先下手",
-      "effect": "克里姆以消音步枪在海报活板门处射杀克里连库"
+      "effect": "克里姆以消音步枪在海报活板门处射杀克里连库",
+      "title_en": "Krilencu Is Killed",
+      "cause_en": "After two failed attempts on Kerim's life, Kerim decides to strike first.",
+      "effect_en": "Kerim shoots Krilencu with a silenced rifle through the trapdoor in the Marilyn Monroe poster."
     },
     {
       "id": "from-russia-with-love:hotel-filming",
@@ -541,7 +718,10 @@
       "chapter": "Twenty",
       "title": "蜜月套房偷拍",
       "cause": "SMERSH需拍下邦德与塔蒂亚娜亲热的影片作为丑闻证据",
-      "effect": "两人亲热全程被假镜后的电影摄影机拍下，影片后被格蘭特带上火车"
+      "effect": "两人亲热全程被假镜后的电影摄影机拍下，影片后被格蘭特带上火车",
+      "title_en": "Filming in the Honeymoon Suite",
+      "cause_en": "SMERSH needs film of Bond and Tatiana in bed as evidence for the scandal.",
+      "effect_en": "Their lovemaking is filmed throughout by a cine camera behind the false mirror, and Grant later carries the film onto the train."
     },
     {
       "id": "from-russia-with-love:uzunkopru-removals",
@@ -550,7 +730,10 @@
       "chapter": "Twenty-Two",
       "title": "乌尊克普吕赶下两名苏联人",
       "cause": "克里姆以伪造证件与无票乘车为由，买通列车员与警察",
-      "effect": "戈德法布与疖子男子被赶下车，本茨行贿未遂后获释留下"
+      "effect": "戈德法布与疖子男子被赶下车，本茨行贿未遂后获释留下",
+      "title_en": "Two Russians Thrown Off at Uzunkopru",
+      "cause_en": "Kerim bribes the conductor and the police, using forged papers and travelling without a ticket as his pretexts.",
+      "effect_en": "Goldfarb and the man with boils are thrown off the train; Benz's attempted bribe fails, but he is released and stays aboard."
     },
     {
       "id": "from-russia-with-love:kerim-benz-deaths",
@@ -559,7 +742,10 @@
       "chapter": "Twenty-Three",
       "title": "克里姆与本茨同归于尽",
       "cause": "本茨在伊多迈尼边境站夜袭熟睡的克里姆，以匕首刺其颈静脉",
-      "effect": "克里姆临死反刺本茨第五肋，两人同死；邦德失去保护人，仍决定走完全程"
+      "effect": "克里姆临死反刺本茨第五肋，两人同死；邦德失去保护人，仍决定走完全程",
+      "title_en": "Kerim and Benz Die Together",
+      "cause_en": "At Idomeni, Benz attacks the sleeping Kerim in the night, stabbing him in the jugular vein with a dagger.",
+      "effect_en": "Kerim, dying, stabs Benz in the fifth rib; both die, and Bond loses his protector yet decides to see the journey through."
     },
     {
       "id": "from-russia-with-love:istanbul-centre-explosion",
@@ -568,7 +754,10 @@
       "chapter": "Twenty-Five",
       "title": "伊斯坦布尔苏联办事处爆炸",
       "cause": "克里姆死后，其手下按预定计划引爆埋于俄国中心办公室下方的炸弹",
-      "effect": "《晚邮报》头版报道苏联办事处被毁、全部人员死亡；塔蒂亚娜的朋友可能同死其中"
+      "effect": "《晚邮报》头版报道苏联办事处被毁、全部人员死亡；塔蒂亚娜的朋友可能同死其中",
+      "title_en": "Explosion at the Soviet Office in Istanbul",
+      "cause_en": "After Kerim's death, his men detonate the bomb buried beneath the Russian Centre, as planned.",
+      "effect_en": "The Evening Post front page reports the Soviet office destroyed and everyone inside killed; Tatiana's friends may have died in it."
     },
     {
       "id": "from-russia-with-love:orient-express-murder",
@@ -577,7 +766,10 @@
       "chapter": "Twenty-Six",
       "title": "辛普朗隧道刺杀与反杀",
       "cause": "格蘭特化名纳什登车，取得邦德信任与配枪，在隧道内开枪杀邦德",
-      "effect": "邦德以香烟盒挡子弹装死，以飞刀与书枪反杀格蘭特；诱杀计划破产"
+      "effect": "邦德以香烟盒挡子弹装死，以飞刀与书枪反杀格蘭特；诱杀计划破产",
+      "title_en": "Attempted Murder and Counter-Killing in the Simplon Tunnel",
+      "cause_en": "Grant, posing as Nash, wins Bond's trust and his gun, and plans to shoot Bond in the tunnel.",
+      "effect_en": "Bond stops the bullet with his cigarette case, plays dead, and kills Grant with a throwing knife and the book-gun; the murder plot collapses."
     },
     {
       "id": "from-russia-with-love:klebb-paris",
@@ -586,7 +778,10 @@
       "chapter": "Twenty-Eight",
       "title": "巴黎丽兹酒店克莱布被擒与邦德中毒",
       "cause": "邦德按格蘭特供出的接头时间地点去丽兹酒店204房见克莱布",
-      "effect": "邦德制服克莱布并交马蒂斯带走，但被其鞋尖毒刃划伤右小腿，毒发倒地，全书结束"
+      "effect": "邦德制服克莱布并交马蒂斯带走，但被其鞋尖毒刃划伤右小腿，毒发倒地，全书结束",
+      "title_en": "Klebb Captured and Bond Poisoned at the Paris Ritz",
+      "cause_en": "Bond goes to Room 204 of the Ritz Hotel at the time and place Grant named for his rendezvous with Klebb.",
+      "effect_en": "Bond overpowers Klebb and hands her to Mathis, but her poisoned shoe-blade scratches his right calf, he collapses from the poison, and the book ends."
     },
     {
       "id": "dr-no:strangways-murder",
@@ -595,7 +790,10 @@
       "chapter": "I",
       "title": "斯特兰威斯与特鲁布拉德被杀",
       "cause": "斯特兰威斯调查蟹礁岛鸟粪案并掌握诺博士的秘密，诺博士派3名杀手按其每日作息定时行刺",
-      "effect": "加勒比站人员与档案被毁，尸体沉入莫纳水库；伦敦派邦德调查，官方误认两人私奔"
+      "effect": "加勒比站人员与档案被毁，尸体沉入莫纳水库；伦敦派邦德调查，官方误认两人私奔",
+      "title_en": "Murder of Strangways and Trueblood",
+      "cause_en": "Strangways was investigating the Crab Key guano affair and had learned Dr No's secrets, so Dr No sent three killers to strike on his daily routine.",
+      "effect_en": "The station's staff and files were destroyed and the bodies sunk in the Mona Reservoir; London sent Bond to investigate, while the authorities believed the two had eloped."
     },
     {
       "id": "dr-no:gun-change",
@@ -604,7 +802,10 @@
       "chapter": "II",
       "title": "换枪",
       "cause": "邦德上一案中贝雷塔消音手枪卡壳，险些丧命，调查委员会裁定更换配枪",
-      "effect": "M收缴贝雷塔，布思罗伊德改配瓦尔特PPK与史密斯-韦森Centennial Airweight转轮手枪，瓦尔特PPK自此成为邦德配枪"
+      "effect": "M收缴贝雷塔，布思罗伊德改配瓦尔特PPK与史密斯-韦森Centennial Airweight转轮手枪，瓦尔特PPK自此成为邦德配枪",
+      "title_en": "Change of Guns",
+      "cause_en": "Bond's Beretta jammed in his previous case and nearly cost him his life, and a court of inquiry ruled that it be replaced.",
+      "effect_en": "M confiscated the Beretta and Boothroyd issued the Walther PPK and the Smith & Wesson Centennial Airweight revolver; the Walther PPK became Bond's gun from this book on."
     },
     {
       "id": "dr-no:poisoned-fruit",
@@ -613,7 +814,10 @@
       "chapter": "VI",
       "title": "毒水果暗杀",
       "cause": "塔罗小姐泄露邦德行踪，诺博士以总督名义送来水果篮",
-      "effect": "邦德以放大镜发现针孔，化验确认每件水果含氰化物足可毒死一匹马，邦德确认诺博士为凶手并决定暂不向M汇报"
+      "effect": "邦德以放大镜发现针孔，化验确认每件水果含氰化物足可毒死一匹马，邦德确认诺博士为凶手并决定暂不向M汇报",
+      "title_en": "Poisoned Fruit",
+      "cause_en": "Miss Taro passed on Bond's movements, and Dr No sent a fruit basket in the Governor's name.",
+      "effect_en": "Bond found the pinhole in every piece with a magnifying glass; analysis showed enough cyanide in each piece to kill a horse. He was now sure Dr No was the murderer and decided not to report to M yet."
     },
     {
       "id": "dr-no:centipede",
@@ -622,7 +826,10 @@
       "chapter": "VI",
       "title": "蜈蚣夜袭",
       "cause": "诺博士派人将约5至6英寸长的剧毒蜈蚣放入邦德床上",
-      "effect": "邦德屏息不动直至蜈蚣爬离才将其打死，未受伤；进一步确认暗杀仍在继续"
+      "effect": "邦德屏息不动直至蜈蚣爬离才将其打死，未受伤；进一步确认暗杀仍在继续",
+      "title_en": "The Centipede",
+      "cause_en": "Dr No's men put a centipede about five to six inches long into Bond's bed.",
+      "effect_en": "Bond lay motionless until the centipede crawled away, then killed it, unhurt; the attempt confirmed that the murder campaign against him was continuing."
     },
     {
       "id": "dr-no:decoy-crash",
@@ -631,7 +838,10 @@
       "chapter": "VII",
       "title": "替身车祸",
       "cause": "邦德安排两名替身驾驶斯特兰威斯的太阳光车前往蒙特哥贝制造假行踪",
-      "effect": "替身车在魔鬼跑道遭失控卡车撞下深谷，本·吉本斯与约西亚·史密斯死亡，证明诺博士在追杀邦德"
+      "effect": "替身车在魔鬼跑道遭失控卡车撞下深谷，本·吉本斯与约西亚·史密斯死亡，证明诺博士在追杀邦德",
+      "title_en": "The Decoys' Crash",
+      "cause_en": "Bond sent two doubles in Strangways's Sunbeam to Montego Bay to fake his movements.",
+      "effect_en": "On the Devil's Racecourse a runaway lorry drove the Sunbeam into a ravine, killing Ben Gibbons and Josiah Smith - proof that Dr No was hunting Bond."
     },
     {
       "id": "dr-no:landing-crab-key",
@@ -640,7 +850,10 @@
       "chapter": "VII",
       "title": "夜渡登岛",
       "cause": "邦德要实地勘查蟹礁岛看守员营地，确认诺博士的罪行",
-      "effect": "邦德与夸雷尔乘独木舟横渡约30英里，在南海岸河口黑沙滩登陆；次日遇见哈妮"
+      "effect": "邦德与夸雷尔乘独木舟横渡约30英里，在南海岸河口黑沙滩登陆；次日遇见哈妮",
+      "title_en": "Night Landing on Crab Key",
+      "cause_en": "Bond wanted to examine the wardens' camp on Crab Key at first hand and confirm Dr No's crimes.",
+      "effect_en": "Bond and Quarrel crossed about thirty miles of sea by dugout canoe and landed on the black-sand beach on the south coast near the river mouth; the next day they met Honey."
     },
     {
       "id": "dr-no:meeting-honey",
@@ -649,7 +862,10 @@
       "chapter": "VIII",
       "title": "遇见哈妮",
       "cause": "哈妮独自乘独木舟来岛采集优雅维纳斯蛤贝壳",
-      "effect": "哈妮成为邦德的向导与同伴，提供巨龙目击证词；她的独木舟帆被雷达发现，招来搜捕"
+      "effect": "哈妮成为邦德的向导与同伴，提供巨龙目击证词；她的独木舟帆被雷达发现，招来搜捕",
+      "title_en": "Meeting Honey",
+      "cause_en": "Honey came alone by canoe to collect Venus Elegans shells.",
+      "effect_en": "Honey became Bond's guide and companion and gave him her eyewitness account of the dragon; her canoe's sail was picked up by radar, bringing the search parties down on them."
     },
     {
       "id": "dr-no:launch-strafing",
@@ -658,7 +874,10 @@
       "chapter": "IX",
       "title": "搜捕艇扫射",
       "cause": "诺博士的雷达发现哈妮独木舟，派搜捕艇沿海岸搜索",
-      "effect": "哈妮独木舟被机枪打断，三人被迫带哈妮同行并沿河向上游躲避搜捕队与杜宾犬群"
+      "effect": "哈妮独木舟被机枪打断，三人被迫带哈妮同行并沿河向上游躲避搜捕队与杜宾犬群",
+      "title_en": "The Launch Opens Fire",
+      "cause_en": "Dr No's radar had found Honey's canoe, and he sent the search launch along the coast.",
+      "effect_en": "The machine gun cut Honey's canoe in two; the three were forced to take Honey with them and flee up the river from the search party and its Dobermans."
     },
     {
       "id": "dr-no:guard-killed",
@@ -667,7 +886,10 @@
       "chapter": "X",
       "title": "邦德击毙守卫",
       "cause": "一名守卫悄悄折返搜查红树林，靴子踩到潜伏的邦德",
-      "effect": "邦德近距离开枪击毙守卫，缴获雷明顿卡宾枪；守卫失踪使搜捕方次日必会再派人，时间紧迫"
+      "effect": "邦德近距离开枪击毙守卫，缴获雷明顿卡宾枪；守卫失踪使搜捕方次日必会再派人，时间紧迫",
+      "title_en": "Bond Kills a Guard",
+      "cause_en": "A guard crept back to search the mangroves and stepped on Bond where he lay hidden.",
+      "effect_en": "Bond shot him dead at close range and took his Remington carbine; the missing guard meant the searchers would certainly return the next day, so time was short."
     },
     {
       "id": "dr-no:quarrel-death",
@@ -676,7 +898,10 @@
       "chapter": "XII",
       "title": "夸雷尔之死",
       "cause": "诺博士派伪装成巨龙的装甲沼泽车携火焰喷射器夜袭湖边营地",
-      "effect": "夸雷尔被火焰喷射器活活烧死，邦德与哈妮被迫投降被俘，邦德失去配枪"
+      "effect": "夸雷尔被火焰喷射器活活烧死，邦德与哈妮被迫投降被俘，邦德失去配枪",
+      "title_en": "Death of Quarrel",
+      "cause_en": "Dr No sent the armoured marsh buggy disguised as a dragon, with its flamethrower, to attack the camp by the lake at night.",
+      "effect_en": "Quarrel was burned alive by the flamethrower; Bond and Honey were forced to surrender and were captured, and Bond lost his gun."
     },
     {
       "id": "dr-no:capture",
@@ -685,7 +910,10 @@
       "chapter": "XIII",
       "title": "被俘与疗养院囚禁",
       "cause": "邦德与哈妮无力对抗装甲沼泽车，投降后被押入山体内部",
-      "effect": "两人被当作病人登记入住豪华套房，早餐中被下药昏睡，诺博士夜里检查两人身体；邦德化名约翰·布莱斯"
+      "effect": "两人被当作病人登记入住豪华套房，早餐中被下药昏睡，诺博士夜里检查两人身体；邦德化名约翰·布莱斯",
+      "title_en": "Capture and Imprisonment",
+      "cause_en": "Bond and Honey could not fight the armoured marsh buggy and surrendered, and were taken into the mountain.",
+      "effect_en": "They were registered as patients and given luxurious suites, drugged into sleep at breakfast, and examined in the night by Dr No; Bond registered under the name John Bryce."
     },
     {
       "id": "dr-no:dr-no-confession",
@@ -694,7 +922,10 @@
       "chapter": "XV",
       "title": "诺博士自述生平与罪行",
       "cause": "诺博士确信邦德与哈妮必死，首次向外人讲述自己的生平与计划",
-      "effect": "邦德获知诺博士全部背景、斯特兰威斯沉尸莫纳水库的真相与导弹干扰行动的存在"
+      "effect": "邦德获知诺博士全部背景、斯特兰威斯沉尸莫纳水库的真相与导弹干扰行动的存在",
+      "title_en": "Dr No Tells His Life",
+      "cause_en": "Certain that Bond and Honey would die, Dr No told an outsider his life story and his plans for the first time.",
+      "effect_en": "Bond learned Dr No's whole background, the truth that Strangways lies in the Mona Reservoir, and the existence of the missile-jamming operation."
     },
     {
       "id": "dr-no:death-sentence",
@@ -703,7 +934,10 @@
       "chapter": "XVI",
       "title": "死刑宣判",
       "cause": "诺博士拒绝邦德的交易，决定以两人做人体耐力实验",
-      "effect": "哈妮被定为螃蟹啃食之刑，邦德被定为死亡障碍赛；邦德偷藏餐刀与打火机为逃生做准备"
+      "effect": "哈妮被定为螃蟹啃食之刑，邦德被定为死亡障碍赛；邦德偷藏餐刀与打火机为逃生做准备",
+      "title_en": "Sentence of Death",
+      "cause_en": "Dr No refused Bond's bargain and decided to use the two as subjects for his experiments in human endurance.",
+      "effect_en": "Honey was condemned to the crabs and Bond to the endurance course; Bond had already stolen a table knife and a lighter for his escape."
     },
     {
       "id": "dr-no:obstacle-course",
@@ -712,7 +946,10 @@
       "chapter": "XVII",
       "title": "死亡障碍赛",
       "cause": "诺博士要以邦德为首个实验对象，记录人体耐力数据",
-      "effect": "邦德闯过带电栅网、50码垂直攀爬、高温管道与狼蛛笼，从高空坠入海湾"
+      "effect": "邦德闯过带电栅网、50码垂直攀爬、高温管道与狼蛛笼，从高空坠入海湾",
+      "title_en": "The Endurance Course",
+      "cause_en": "Dr No wanted Bond as his first test subject, to record data on human endurance.",
+      "effect_en": "Bond survived the electrified grille, the fifty-yard vertical climb, the hot pipe and the tarantula cage, and fell from the shaft into the sea."
     },
     {
       "id": "dr-no:squid-fight",
@@ -721,7 +958,10 @@
       "chapter": "XVIII",
       "title": "巨型鱿鱼之战",
       "cause": "海湾铁丝网内饲养巨型鱿鱼作为障碍赛最后一关",
-      "effect": "邦德割断鱿鱼触手并以铁丝矛刺瞎其眼，鱿鱼喷墨遁走，邦德逃上岸抵达码头"
+      "effect": "邦德割断鱿鱼触手并以铁丝矛刺瞎其眼，鱿鱼喷墨遁走，邦德逃上岸抵达码头",
+      "title_en": "The Giant Squid",
+      "cause_en": "The wire-fenced bay held a giant squid as the last stage of the course.",
+      "effect_en": "Bond cut the squid's tentacles and blinded one eye with the wire spear; the squid jetted ink and fled, and Bond reached the shore and the jetty."
     },
     {
       "id": "dr-no:dr-no-death",
@@ -730,7 +970,10 @@
       "chapter": "XIX",
       "title": "诺博士之死",
       "cause": "邦德夺取起重机，将传送带鸟粪出口对准正在监装的诺博士",
-      "effect": "诺博士被每分钟数吨的鸟粪活埋致死；邦德与逃生的哈妮会合，枪杀3名守卫后夺取沼泽车逃离"
+      "effect": "诺博士被每分钟数吨的鸟粪活埋致死；邦德与逃生的哈妮会合，枪杀3名守卫后夺取沼泽车逃离",
+      "title_en": "Death of Dr No",
+      "cause_en": "Bond seized the crane and turned the conveyor mouth on Dr No, who was supervising the loading of the tanker.",
+      "effect_en": "Dr No was buried alive under tons of guano a minute; Bond met the escaped Honey, shot three guards dead, and drove the marsh buggy away."
     },
     {
       "id": "dr-no:escape-and-report",
@@ -739,7 +982,10 @@
       "chapter": "XX",
       "title": "逃回牙买加与清岛",
       "cause": "诺博士已死，岛上守卫群龙无首，邦德与哈妮乘独木舟夜航返回摩根港",
-      "effect": "总督批准派纳维克号与一排士兵清剿蟹礁岛，警方打捞莫纳水库并追捕诺博士同伙；邦德请病假，哈妮获安排赴纽约整鼻"
+      "effect": "总督批准派纳维克号与一排士兵清剿蟹礁岛，警方打捞莫纳水库并追捕诺博士同伙；邦德请病假，哈妮获安排赴纽约整鼻",
+      "title_en": "Escape and Report",
+      "cause_en": "Dr No was dead and his guards leaderless, so Bond and Honey sailed the canoe back to Morgan's Harbour by night.",
+      "effect_en": "The Governor authorised HMS Narvik with a platoon to clear Crab Key, the police searched the Mona Reservoir and moved against Dr No's associates; Bond asked for sick leave, and Honey was to go to New York for her nose operation."
     },
     {
       "id": "goldfinger:mexico-heroin-assignment",
@@ -748,7 +994,10 @@
       "chapter": "ONE",
       "title": "墨西哥海洛因任务",
       "cause": "邦德在墨西哥城炸毁布莱克威尔的海洛因提炼仓库，墨西哥大毒枭派杀手报复",
-      "effect": "邦德徒手杀死杀手，滞留迈阿密，由此结识杜邦并卷入金手指案"
+      "effect": "邦德徒手杀死杀手，滞留迈阿密，由此结识杜邦并卷入金手指案",
+      "title_en": "The Mexico Heroin Assignment",
+      "cause_en": "Bond blew up Blackwell's heroin-refining warehouse in Mexico City, and a Mexican drug lord sent an assassin to take revenge.",
+      "effect_en": "Bond killed the assassin with his bare hands and was stranded in Miami, where he met Du Pont and was drawn into the Goldfinger case."
     },
     {
       "id": "goldfinger:canasta-cheat-exposed",
@@ -757,7 +1006,10 @@
       "chapter": "FOUR",
       "title": "卡纳斯塔作弊被揭穿",
       "cause": "杜邦一周内与金手指玩双人卡纳斯塔输掉25,000美元，认定对方作弊，出价10,000美元请邦德调查",
-      "effect": "邦德发现吉尔在套房用望远镜报牌，迫使金手指退款50,000美元并带走吉尔"
+      "effect": "邦德发现吉尔在套房用望远镜报牌，迫使金手指退款50,000美元并带走吉尔",
+      "title_en": "The Canasta Cheat Exposed",
+      "cause_en": "Du Pont lost $25,000 to Goldfinger at two-handed Canasta in a week, was sure the man cheated, and offered Bond $10,000 to investigate.",
+      "effect_en": "Bond found Jill signalling the cards with a telescope from the suite, forced Goldfinger to refund $50,000, and took Jill away with him."
     },
     {
       "id": "goldfinger:bank-briefing",
@@ -766,7 +1018,10 @@
       "chapter": "SIX",
       "title": "银行简报与M派任务",
       "cause": "M奉英格兰银行行长之请派邦德调查黄金外流，史密瑟斯交代金手指背景",
-      "effect": "邦德以高尔夫为接近手段，与金手指在三明治对局"
+      "effect": "邦德以高尔夫为接近手段，与金手指在三明治对局",
+      "title_en": "The Bank Briefing and M's Orders",
+      "cause_en": "M, at the request of the Governor of the Bank of England, assigned Bond to the gold-smuggling case, and Smithers briefed him on Goldfinger's background.",
+      "effect_en": "Bond used golf as his way in, meeting Goldfinger for a match at Sandwich."
     },
     {
       "id": "goldfinger:golf-match-sandwich",
@@ -775,7 +1030,10 @@
       "chapter": "NINE",
       "title": "三明治高尔夫赌局",
       "cause": "金手指以10,000美元双倍或赔清下注，邦德为赢得其信任必须取胜",
-      "effect": "邦德识破金手指多次作弊并以换球计在第18洞获胜，金手指当晚邀其赴宴"
+      "effect": "邦德识破金手指多次作弊并以换球计在第18洞获胜，金手指当晚邀其赴宴",
+      "title_en": "The Sandwich Golf Match",
+      "cause_en": "Goldfinger staked $10,000, double or quits, and Bond had to win to earn his trust.",
+      "effect_en": "Bond saw through Goldfinger's repeated cheating and, with the switched ball at the 18th, won the hole and the match; Goldfinger invited him to dinner that evening."
     },
     {
       "id": "goldfinger:grange-camera-trap",
@@ -784,7 +1042,10 @@
       "chapter": "TEN",
       "title": "格兰奇别墅摄影机陷阱",
       "cause": "金手指设局考验邦德，借故离家半小时并开启隐藏摄影机",
-      "effect": "邦德搜查无果反被拍下，毁掉胶片嫁祸于猫，金手指以奥德·约伯示威警告"
+      "effect": "邦德搜查无果反被拍下，毁掉胶片嫁祸于猫，金手指以奥德·约伯示威警告",
+      "title_en": "The Camera Trap at the Grange",
+      "cause_en": "Goldfinger tested Bond by leaving the house for half an hour with hidden cine-cameras running.",
+      "effect_en": "Bond's search found nothing, but he was filmed; he exposed the films and blamed the cat, and Goldfinger warned him with an Oddjob demonstration."
     },
     {
       "id": "goldfinger:long-tail-france",
@@ -793,7 +1054,10 @@
       "chapter": "TWELVE",
       "title": "穿越法国的长线尾随",
       "cause": "金手指次日乘飞机去法国，邦德在费里菲尔德海关给劳斯莱斯装上Homer追踪器",
-      "effect": "邦德驾车尾随穿越法国，途中发现蒂莉也在跟踪，并在79/6号桥下挖出金手指藏匿的金条"
+      "effect": "邦德驾车尾随穿越法国，途中发现蒂莉也在跟踪，并在79/6号桥下挖出金手指藏匿的金条",
+      "title_en": "The Long Tail Across France",
+      "cause_en": "Goldfinger flew to France the next day, and Bond planted a Homer transmitter on the Rolls-Royce at Ferryfield customs.",
+      "effect_en": "Bond tailed the car across France, noticed Tilly following too, and dug a hidden gold bar out from beneath bridge 79/6."
     },
     {
       "id": "goldfinger:golden-ghost-revealed",
@@ -802,7 +1066,10 @@
       "chapter": "THIRTEEN",
       "title": "金色幽灵真相揭开",
       "cause": "邦德在梅肯撞坏蒂莉的TR3，蒂莉要求搭车去日内瓦；邦德跟踪劳斯莱斯至科佩",
-      "effect": "邦德目睹工人拆解劳斯莱斯，识破车身为两吨18K白金、将改制成Mecca航空座椅运往印度的走私手法"
+      "effect": "邦德目睹工人拆解劳斯莱斯，识破车身为两吨18K白金、将改制成Mecca航空座椅运往印度的走私手法",
+      "title_en": "The Golden Ghost Revealed",
+      "cause_en": "Bond collided with Tilly's TR3 at Macon and she asked for a lift to Geneva; Bond followed the Rolls to Coppet.",
+      "effect_en": "Bond watched the workmen take the Rolls apart and saw through the trick: its body was two tons of eighteen-carat white gold, to be recast as Mecca airline seats and flown to India."
     },
     {
       "id": "goldfinger:jill-murder-revealed",
@@ -811,7 +1078,10 @@
       "chapter": "FOURTEEN",
       "title": "吉尔被谋杀真相揭开",
       "cause": "蒂莉为替姐姐吉尔复仇持枪埋伏，邦德夜探工厂与她相遇",
-      "effect": "邦德得知吉尔被全身涂金漆谋杀，两人被奥德·约伯俘获，金手指将两人送入压力室"
+      "effect": "邦德得知吉尔被全身涂金漆谋杀，两人被奥德·约伯俘获，金手指将两人送入压力室",
+      "title_en": "Jill's Murder Revealed",
+      "cause_en": "Tilly, waiting with a gun to avenge her sister Jill, met Bond during his night search of the factory.",
+      "effect_en": "Bond learned that Goldfinger had Jill painted all over with gold paint and murdered her; Oddjob captured them both, and Goldfinger sent them to the Pressure Room."
     },
     {
       "id": "goldfinger:pressure-room",
@@ -820,7 +1090,10 @@
       "chapter": "FIFTEEN",
       "title": "压力室酷刑",
       "cause": "金手指要从邦德口中逼问真相，以圆锯与奥德·约伯施刑",
-      "effect": "邦德提出为金手指工作，金手指改主意保下两人性命，将其迷晕运往纽约"
+      "effect": "邦德提出为金手指工作，金手指改主意保下两人性命，将其迷晕运往纽约",
+      "title_en": "The Pressure Room",
+      "cause_en": "Goldfinger wanted to wring the truth out of Bond, and set the circular saw and Oddjob to work on him.",
+      "effect_en": "Bond offered to work for Goldfinger, who changed his mind and spared both their lives, drugging them for the flight to New York."
     },
     {
       "id": "goldfinger:fort-knox-target",
@@ -829,7 +1102,10 @@
       "chapter": "SIXTEEN",
       "title": "诺克斯堡目标揭晓",
       "cause": "金手指需要人手处理大满贯行动的文书工作",
-      "effect": "邦德与蒂莉被迫担任行动秘书，得知目标是抢劫诺克斯堡150亿美元黄金"
+      "effect": "邦德与蒂莉被迫担任行动秘书，得知目标是抢劫诺克斯堡150亿美元黄金",
+      "title_en": "The Fort Knox Target Revealed",
+      "cause_en": "Goldfinger needed staff to handle the paperwork of Operation Grand Slam.",
+      "effect_en": "Bond and Tilly were forced to serve as the operation's secretaries and learned that the target was the fifteen billion dollars of gold in Fort Knox."
     },
     {
       "id": "goldfinger:hoods-congress",
@@ -838,7 +1114,10 @@
       "chapter": "SEVENTEEN",
       "title": "黑帮首脑会议",
       "cause": "金手指以每人15,000美元金条与10亿美元分成为诱饵召集六大黑帮",
-      "effect": "除斯普林格外五人加入；斯普林格当晚被灭口；邦德记录各人态度"
+      "effect": "除斯普林格外五人加入；斯普林格当晚被灭口；邦德记录各人态度",
+      "title_en": "The Hoods' Congress",
+      "cause_en": "Goldfinger tempted the six gang leaders with a $15,000 gold bar each and a promised $1 billion share.",
+      "effect_en": "Five joined and Springer refused; Springer was murdered that night, and Bond noted each man's attitude."
     },
     {
       "id": "goldfinger:grand-slam-plan",
@@ -847,7 +1126,10 @@
       "chapter": "EIGHTEEN",
       "title": "大满贯行动计划",
       "cause": "金手指讲解金库结构与守军，提出以原子弹头炸开金库、红十字专列潜入的计划",
-      "effect": "各帮开始筹备运输车队与人手，行动代号大满贯行动"
+      "effect": "各帮开始筹备运输车队与人手，行动代号大满贯行动",
+      "title_en": "The Grand Slam Plan",
+      "cause_en": "Goldfinger explained the vault's construction and its garrison, and proposed blasting it open with an atomic warhead and entering in a Red Cross special train.",
+      "effect_en": "The gangs began preparing their transport convoys and men; the operation was codenamed Grand Slam."
     },
     {
       "id": "goldfinger:gb-revelation",
@@ -856,7 +1138,10 @@
       "chapter": "NINETEEN",
       "title": "GB毒剂与苏联巡洋舰",
       "cause": "金手指私下向邦德透露GB毒剂与苏联巡洋舰接应计划",
-      "effect": "邦德确认行动将毒杀6万人并把黄金运往苏联，决心设法破坏"
+      "effect": "邦德确认行动将毒杀6万人并把黄金运往苏联，决心设法破坏",
+      "title_en": "The GB Gas and the Soviet Cruiser",
+      "cause_en": "Goldfinger privately told Bond about the GB nerve gas and the Soviet cruiser waiting to take the gold.",
+      "effect_en": "Bond knew the operation would poison 60,000 people and ship the gold to the Soviet Union, and resolved to wreck it."
     },
     {
       "id": "goldfinger:leiter-message",
@@ -865,7 +1150,10 @@
       "chapter": "TWENTY",
       "title": "莱特求救密信",
       "cause": "邦德随金手指包机勘察诺克斯堡，途中无人看守",
-      "effect": "邦德把求救密信藏在飞机厕所座椅下，清洁工两天后发现并送交莱特"
+      "effect": "邦德把求救密信藏在飞机厕所座椅下，清洁工两天后发现并送交莱特",
+      "title_en": "The Message to Leiter",
+      "cause_en": "Bond flew with Goldfinger on the survey flight over Fort Knox, with no one watching him.",
+      "effect_en": "Bond hid a plea for help under the aircraft's lavatory seat; a cleaner found it two days later and took it to Leiter."
     },
     {
       "id": "goldfinger:fort-knox-ambush",
@@ -874,7 +1162,10 @@
       "chapter": "TWENTY-ONE",
       "title": "诺克斯堡伏击",
       "cause": "D-1午夜，红十字专列自宾夕法尼亚车站出发，金手指在路易斯维尔换乘机车前部",
-      "effect": "专列抵达诺克斯堡，美军伏兵以信号弹为号反击，蒂莉身亡，金手指乘柴油机车逃走"
+      "effect": "专列抵达诺克斯堡，美军伏兵以信号弹为号反击，蒂莉身亡，金手指乘柴油机车逃走",
+      "title_en": "The Fort Knox Ambush",
+      "cause_en": "On the night of D-1, the Red Cross special train left Pennsylvania Station, Goldfinger moving to the front of the locomotive at Louisville.",
+      "effect_en": "The train reached Fort Knox, American troops counter-attacked on a flare signal, Tilly was killed, and Goldfinger escaped on a diesel locomotive."
     },
     {
       "id": "goldfinger:hijack-and-killing",
@@ -883,7 +1174,10 @@
       "chapter": "TWENTY-THREE",
       "title": "劫机与金手指之死",
       "cause": "金手指在爱德怀尔德机场以假伤寒防疫为名劫持BOAC 510航班，普茜·加洛在机上暗助邦德",
-      "effect": "邦德刺破机窗使奥德·约伯被吸出机外，勒死金手指，飞机在查理气象船附近迫降，机组随三吨黄金沉没"
+      "effect": "邦德刺破机窗使奥德·约伯被吸出机外，勒死金手指，飞机在查理气象船附近迫降，机组随三吨黄金沉没",
+      "title_en": "The Hijack and Goldfinger's Death",
+      "cause_en": "Goldfinger hijacked BOAC flight 510 at Idlewild on a false typhoid scare, with Pussy Galore secretly helping Bond aboard.",
+      "effect_en": "Bond stabbed a window open with his heel knife so that Oddjob was sucked out of the aircraft, then strangled Goldfinger; the plane ditched near Weathership Charlie and the crew went down with three tons of gold."
     },
     {
       "id": "for-your-eyes-only:bates-murder",
@@ -892,7 +1186,10 @@
       "chapter": 1,
       "title": "Bates下士被杀",
       "cause": "敌方留守小组需截获SHAPE每周最高机密情报",
-      "effect": "情报失窃,SHAPE与F站展开全面搜查无果,M派邦德调查"
+      "effect": "情报失窃,SHAPE与F站展开全面搜查无果,M派邦德调查",
+      "title_en": "Corporal Bates Is Killed",
+      "cause_en": "An enemy stay-behind unit needs to intercept SHAPE's weekly top-secret intelligence.",
+      "effect_en": "The intelligence is stolen, and SHAPE and Station F search everywhere without result until M sends Bond to investigate."
     },
     {
       "id": "for-your-eyes-only:bunker-discovery",
@@ -901,7 +1198,10 @@
       "chapter": 1,
       "title": "发现玫瑰地堡",
       "cause": "警犬受吉卜赛气味干扰与树干划痕引起邦德怀疑",
-      "effect": "邦德确认吉卜赛车队为敌方地堡掩护,潜伏目击地堡运作"
+      "effect": "邦德确认吉卜赛车队为敌方地堡掩护,潜伏目击地堡运作",
+      "title_en": "The Rose Bunker Is Found",
+      "cause_en": "The dogs are confused by the gipsy smell and the scratches on a tree trunk arouse Bond's suspicion.",
+      "effect_en": "Bond concludes that the gipsy caravan covers an enemy bunker, and watches the bunker at work from his hiding place in a tree."
     },
     {
       "id": "for-your-eyes-only:decoy-ambush",
@@ -910,7 +1210,10 @@
       "chapter": 1,
       "title": "替身诱杀",
       "cause": "邦德判断小组会再次截杀通讯兵",
-      "effect": "杀手被击毙,两名同伙被擒,地堡暴露"
+      "effect": "杀手被击毙,两名同伙被擒,地堡暴露",
+      "title_en": "The Decoy Ambush",
+      "cause_en": "Bond judges that the unit will try to kill the courier again.",
+      "effect_en": "The killer is shot dead, his two accomplices are captured, and the bunker is exposed."
     },
     {
       "id": "for-your-eyes-only:havelock-murder",
@@ -919,7 +1222,10 @@
       "chapter": 2,
       "title": "哈夫洛克夫妇被杀",
       "cause": "夫妇拒绝以50万美元出售Content庄园,Hammerstein下令灭口后向女儿施压",
-      "effect": "女儿Judy展开复仇,M命邦德执行私刑"
+      "effect": "女儿Judy展开复仇,M命邦德执行私刑",
+      "title_en": "The Havelocks Are Murdered",
+      "cause_en": "The couple refuse to sell Content for $500,000, and Hammerstein orders them killed to put pressure on their daughter.",
+      "effect_en": "Their daughter Judy sets out to avenge them, and M orders Bond to carry out the killing."
     },
     {
       "id": "for-your-eyes-only:m-decision",
@@ -928,7 +1234,10 @@
       "chapter": 2,
       "title": "M盖下FOR YOUR EYES ONLY印章",
       "cause": "无法引渡、无证人、Hoover只愿吊销签证,M不愿放过凶手",
-      "effect": "邦德受命赴美执行无官方记录的处决"
+      "effect": "邦德受命赴美执行无官方记录的处决",
+      "title_en": "M Stamps FOR YOUR EYES ONLY",
+      "cause_en": "There is no extradition and no witness, and Hoover will only cancel the men's visas, while M refuses to let the killers go.",
+      "effect_en": "Bond is ordered to go to America and carry out an execution with no official record."
     },
     {
       "id": "for-your-eyes-only:echo-lake-killings",
@@ -937,7 +1246,10 @@
       "chapter": 2,
       "title": "Echo Lake复仇",
       "cause": "Judy与邦德分别潜伏至湖边,Hammerstein跳水时暴露",
-      "effect": "Hammerstein中箭落水,两名枪手与Gonzales被击毙,Judy负伤"
+      "effect": "Hammerstein中箭落水,两名枪手与Gonzales被击毙,Judy负伤",
+      "title_en": "The Echo Lake Killings",
+      "cause_en": "Judy and Bond have each lain in wait by the lake, and Hammerstein exposes himself as he dives.",
+      "effect_en": "Hammerstein is struck by the arrow and falls into the water, the two gunmen and Gonzales are shot dead, and Judy is wounded."
     },
     {
       "id": "for-your-eyes-only:masters-marriage",
@@ -946,7 +1258,10 @@
       "chapter": 3,
       "title": "Masters与空姐结婚",
       "cause": "Masters在帝国航空航班上爱上空姐Rhoda Llewellyn",
-      "effect": "两人结婚并调往百慕大,为后续出轨与报复埋下伏笔"
+      "effect": "两人结婚并调往百慕大,为后续出轨与报复埋下伏笔",
+      "title_en": "Masters Marries an Air Hostess",
+      "cause_en": "Masters falls in love with Rhoda Llewellyn on an Imperial Airways flight.",
+      "effect_en": "The two marry and move to Bermuda, setting up the affair and the revenge that follow."
     },
     {
       "id": "for-your-eyes-only:rhoda-affair",
@@ -955,7 +1270,10 @@
       "chapter": 3,
       "title": "罗达出轨Tattersall",
       "cause": "罗达沉迷百慕大高尔夫社交圈,结识富商之子Tattersall",
-      "effect": "夫妻分居,罗达被抛弃后试图和解"
+      "effect": "夫妻分居,罗达被抛弃后试图和解",
+      "title_en": "Rhoda Leaves Masters for Tattersall",
+      "cause_en": "Rhoda becomes absorbed in Bermuda's golf and social set and meets the eldest Tattersall boy.",
+      "effect_en": "The couple separate, and Rhoda, abandoned in turn, tries to make it up with her husband."
     },
     {
       "id": "for-your-eyes-only:quantum-revenge",
@@ -964,7 +1282,10 @@
       "chapter": 3,
       "title": "Masters的冷漠报复",
       "cause": "Masters认定夫妻间慰藉量已归零",
-      "effect": "一年沉默分居、离婚与债务陷阱,罗达一无所有,两人终身受创"
+      "effect": "一年沉默分居、离婚与债务陷阱,罗达一无所有,两人终身受创",
+      "title_en": "Masters's Cold Revenge",
+      "cause_en": "Masters judges that the quantum of solace between husband and wife has reached zero.",
+      "effect_en": "A year of silent separation, divorce and a debt trap leave Rhoda with nothing, and both are scarred for life."
     },
     {
       "id": "for-your-eyes-only:rhoda-remarriage",
@@ -973,7 +1294,10 @@
       "chapter": 3,
       "title": "罗达再婚",
       "cause": "Burford夫人资助她到牙买加酒店工作,结识加拿大富商Harvey Miller",
-      "effect": "罗达嫁入富家,晚宴上与邦德同席而不被认出"
+      "effect": "罗达嫁入富家,晚宴上与邦德同席而不被认出",
+      "title_en": "Rhoda Marries Again",
+      "cause_en": "Mrs Burford helps her to a hotel job in Jamaica, where she meets the Canadian millionaire Harvey Miller.",
+      "effect_en": "Rhoda marries into wealth and sits at dinner beside Bond without being recognised."
     },
     {
       "id": "for-your-eyes-only:kristatos-briefing",
@@ -982,7 +1306,10 @@
       "chapter": 4,
       "title": "Kristatos诬告Colombo",
       "cause": "Kristatos需向美方交出大目标以掩护自己的毒网,并除掉知情太多的Colombo",
-      "effect": "邦德一度把Colombo当作目标,Colombo窃听后设局反制"
+      "effect": "邦德一度把Colombo当作目标,Colombo窃听后设局反制",
+      "title_en": "Kristatos Denounces Colombo",
+      "cause_en": "Kristatos needs to hand the Americans a big target to cover his own drug network, and to remove Colombo, who knows too much.",
+      "effect_en": "Bond takes Colombo for his target at first, until Colombo, having recorded the talk, turns the tables on him."
     },
     {
       "id": "for-your-eyes-only:lido-chase",
@@ -991,7 +1318,10 @@
       "chapter": 4,
       "title": "Lido沙丘追杀",
       "cause": "Colombo派三名手下在Bagni Alberoni截捕邦德",
-      "effect": "一人踩中旧地雷炸死,邦德被俘至Colombina号,真相揭开"
+      "effect": "一人踩中旧地雷炸死,邦德被俘至Colombina号,真相揭开",
+      "title_en": "The Chase on the Lido Dunes",
+      "cause_en": "Colombo sends three of his men to seize Bond at the Bagni Alberoni.",
+      "effect_en": "One man is blown up by an old mine, and Bond is captured and taken aboard the Colombina, where the truth comes out."
     },
     {
       "id": "for-your-eyes-only:santa-maria-raid",
@@ -1000,7 +1330,10 @@
       "chapter": 4,
       "title": "Santa Maria港突袭",
       "cause": "Colombo掌握阿尔巴尼亚毒船卸货情报,率船黎明突袭",
-      "effect": "毒船沉没、仓库爆炸、Kristatos被邦德击毙,毒网摧毁"
+      "effect": "毒船沉没、仓库爆炸、Kristatos被邦德击毙,毒网摧毁",
+      "title_en": "The Raid on Santa Maria",
+      "cause_en": "Colombo knows when the Albanian drug ship will unload, and leads his ship in at dawn.",
+      "effect_en": "The drug ship is sunk, the warehouse explodes, Kristatos is shot dead by Bond, and the network is destroyed."
     },
     {
       "id": "for-your-eyes-only:rarity-found",
@@ -1009,7 +1342,10 @@
       "chapter": 5,
       "title": "找到Hildebrand Rarity",
       "cause": "Krest首次戴面罩下水,在礁区发现目标鱼",
-      "effect": "Krest以鱼藤酮毒杀整片礁区,邦德暗中放走活鱼又取回一条毒死标本"
+      "effect": "Krest以鱼藤酮毒杀整片礁区,邦德暗中放走活鱼又取回一条毒死标本",
+      "title_en": "The Hildebrand Rarity Is Found",
+      "cause_en": "Krest, wearing a mask for the first time, finds the fish on the reef.",
+      "effect_en": "Krest poisons the whole reef with rotenone, while Bond secretly drives the live fish away and recovers a poisoned specimen."
     },
     {
       "id": "for-your-eyes-only:krest-murder",
@@ -1018,7 +1354,10 @@
       "chapter": 5,
       "title": "Krest被毒鱼塞口杀死",
       "cause": "Krest长期虐待妻子并整晚羞辱同行者,凶手身份原文未明言",
-      "effect": "邦德伪造吊床断裂坠海现场,三人返港等待验尸,凶手成谜"
+      "effect": "邦德伪造吊床断裂坠海现场,三人返港等待验尸,凶手成谜",
+      "title_en": "Krest Is Killed with the Poison Fish",
+      "cause_en": "Krest has abused his wife for years and spent the evening humiliating his companions; the text never names the killer.",
+      "effect_en": "Bond fakes a broken hammock and a fall overboard, the three sail back to port to await the inquest, and the killer remains a mystery."
     },
     {
       "id": "thunderball:shrublands-cure",
@@ -1027,7 +1366,10 @@
       "chapter": 1,
       "title": "邦德被强制疗养",
       "cause": "邦德体检报告极差，每天60支烟与半瓶烈酒，血压160/90",
-      "effect": "M强制邦德去灌木林疗养两周，邦德在疗养院撞见利普"
+      "effect": "M强制邦德去灌木林疗养两周，邦德在疗养院撞见利普",
+      "title_en": "Bond is ordered to take the cure",
+      "cause_en": "Bond's medical report is appalling: sixty cigarettes a day and half a bottle of spirits, with blood pressure of 160/90.",
+      "effect_en": "M orders Bond to spend two weeks at the Shrublands clinic, where Bond runs into Lippe."
     },
     {
       "id": "thunderball:lippe-attack",
@@ -1036,7 +1378,10 @@
       "chapter": 3,
       "title": "利普谋杀邦德未遂",
       "cause": "邦德在电话亭向总部查询利普腕下纹身，被利普偷听",
-      "effect": "利普将牵引床调至200磅企图谋杀邦德未遂，邦德以土耳其浴室高温报复，利普二度烧伤入院"
+      "effect": "利普将牵引床调至200磅企图谋杀邦德未遂，邦德以土耳其浴室高温报复，利普二度烧伤入院",
+      "title_en": "Lippe's attempt to murder Bond fails",
+      "cause_en": "Lippe overhears Bond telephoning Headquarters to ask about the tattoo under his wrist.",
+      "effect_en": "Lippe turns the traction machine up to 200 lb in an attempt to murder Bond; the attempt fails, and Bond takes revenge by locking Lippe in the Turkish bath at high heat, leaving him with second-degree burns and in hospital."
     },
     {
       "id": "thunderball:borraud-execution",
@@ -1045,7 +1390,10 @@
       "chapter": 6,
       "title": "布洛菲尔德处决博罗",
       "cause": "SPECTRE绑架布隆伯格17岁女儿并索得100万美元赎金，期间女孩遭强奸",
-      "effect": "布洛菲尔德退还50万美元并以电椅处决12号博罗"
+      "effect": "布洛菲尔德退还50万美元并以电椅处决12号博罗",
+      "title_en": "Blofeld executes Borraud",
+      "cause_en": "SPECTRE kidnaps the seventeen-year-old daughter of Blomberg and extracts a $1,000,000 ransom, during which the girl is raped.",
+      "effect_en": "Blofeld returns $500,000 of the ransom and has No. 12, Borraud, executed in the electric chair."
     },
     {
       "id": "thunderball:plan-omega-delay",
@@ -1054,7 +1402,10 @@
       "chapter": 6,
       "title": "欧米茄计划延期",
       "cause": "利普因与邦德冲突烧伤住院，无法按期寄出勒索信",
-      "effect": "欧米茄计划延期一周，佩塔基以流感病毒请病假等待"
+      "effect": "欧米茄计划延期一周，佩塔基以流感病毒请病假等待",
+      "title_en": "Operation Omega is delayed",
+      "cause_en": "Lippe is in hospital with burns after his clash with Bond and cannot post the blackmail letter on time.",
+      "effect_en": "Operation Omega is put back a week, and Petacchi calls in sick with flu to wait."
     },
     {
       "id": "thunderball:vindicator-hijack",
@@ -1063,7 +1414,10 @@
       "chapter": 9,
       "title": "轰炸机被劫持",
       "cause": "佩塔基受SPECTRE以100万美元、新护照与里约机票收买",
-      "effect": "佩塔基以氰化物毒死5名机组人员，驾机在比米尼附近迫降，随即被瓦尔加斯刺死，核弹被取走"
+      "effect": "佩塔基以氰化物毒死5名机组人员，驾机在比米尼附近迫降，随即被瓦尔加斯刺死，核弹被取走",
+      "title_en": "The bomber is hijacked",
+      "cause_en": "Petacchi is bought by SPECTRE with $1,000,000, a new passport and a ticket to Rio de Janeiro.",
+      "effect_en": "Petacchi kills the five-man crew with cyanide gas, ditches the bomber off Bimini, and is then stabbed to death by Vargas; the atomic bombs are removed."
     },
     {
       "id": "thunderball:nuclear-blackmail",
@@ -1072,7 +1426,10 @@
       "chapter": 7,
       "title": "核勒索信",
       "cause": "SPECTRE寄给英国首相的勒索信要求1亿英镑金条，限期1959年6月10日17时",
-      "effect": "英美启动霹雳弹行动，全球搜寻飞机与核弹，M派邦德去巴哈马"
+      "effect": "英美启动霹雳弹行动，全球搜寻飞机与核弹，M派邦德去巴哈马",
+      "title_en": "The nuclear blackmail letter",
+      "cause_en": "SPECTRE's letter to the British Prime Minister demands £100 million in gold bars, with a deadline of 5 p.m. on 10 June 1959.",
+      "effect_en": "Britain and the United States launch Operation Thunderball, searching the world for the aircraft and the bombs, and M sends Bond to the Bahamas."
     },
     {
       "id": "thunderball:lippe-killed",
@@ -1081,7 +1438,10 @@
       "chapter": 8,
       "title": "利普被SPECTRE灭口",
       "cause": "利普出院后跟踪邦德企图枪杀报仇",
-      "effect": "SPECTRE的6号骑摩托车以手榴弹炸死利普，邦德险些丧命"
+      "effect": "SPECTRE的6号骑摩托车以手榴弹炸死利普，邦德险些丧命",
+      "title_en": "Lippe is silenced by SPECTRE",
+      "cause_en": "After leaving hospital, Lippe follows Bond and tries to shoot him in revenge.",
+      "effect_en": "SPECTRE's No. 6 kills Lippe with a grenade from a motorcycle, and Bond narrowly escapes death."
     },
     {
       "id": "thunderball:wreck-found",
@@ -1090,7 +1450,10 @@
       "chapter": 17,
       "title": "发现失事飞机残骸",
       "cause": "邦德怀疑飞碟号，莱特认出股东特劳特实为物理学家科策",
-      "effect": "邦德乘水上飞机搜索，在比米尼以南发现伪装篷布下的失事飞机，确认核弹已被取走"
+      "effect": "邦德乘水上飞机搜索，在比米尼以南发现伪装篷布下的失事飞机，确认核弹已被取走",
+      "title_en": "The wrecked bomber is found",
+      "cause_en": "Bond suspects the Disco Volante, and Leiter recognises the shareholder Traut as the physicist Kotze.",
+      "effect_en": "Bond searches by seaplane and finds the wrecked bomber under a camouflage tarpaulin south of Bimini, confirming that the bombs have been removed."
     },
     {
       "id": "thunderball:domino-turns",
@@ -1099,7 +1462,10 @@
       "chapter": 19,
       "title": "多米诺转为邦德内应",
       "cause": "多米诺得知兄长被拉戈下令杀害",
-      "effect": "多米诺同意携带盖革计数器登船做内应"
+      "effect": "多米诺同意携带盖革计数器登船做内应",
+      "title_en": "Domino becomes Bond's agent",
+      "cause_en": "Domino learns that her brother was killed on Largo's orders.",
+      "effect_en": "Domino agrees to go aboard carrying a Geiger counter as Bond's inside agent."
     },
     {
       "id": "thunderball:domino-tortured",
@@ -1108,7 +1474,10 @@
       "chapter": 21,
       "title": "多米诺遭折磨",
       "cause": "多米诺携带的盖革计数器被发现",
-      "effect": "拉戈以雪茄与冰块折磨逼供，多米诺一言不发；拉戈命人将其装入核弹铅壳灭口的计划未能实施"
+      "effect": "拉戈以雪茄与冰块折磨逼供，多米诺一言不发；拉戈命人将其装入核弹铅壳灭口的计划未能实施",
+      "title_en": "Domino is tortured",
+      "cause_en": "The Geiger counter Domino is carrying is discovered.",
+      "effect_en": "Largo tortures her with a cigar and ice to make her talk; she says nothing, and Largo's plan to dispose of her in the lead casing of an atomic bomb is not carried out."
     },
     {
       "id": "thunderball:manta-pursuit",
@@ -1117,7 +1486,10 @@
       "chapter": 22,
       "title": "曼塔号追踪飞碟号",
       "cause": "飞碟号于17时55分出航北上，曼塔号雷达跟踪",
-      "effect": "邦德与莱特率9名潜水员出击，在大巴哈马岛外拦截布放核弹的潜水队"
+      "effect": "邦德与莱特率9名潜水员出击，在大巴哈马岛外拦截布放核弹的潜水队",
+      "title_en": "The Manta shadows the Disco",
+      "cause_en": "The Disco Volante sails north at full speed at 17:55, tracked by the Manta's radar.",
+      "effect_en": "Bond and Leiter take nine divers out to intercept the diving party laying the atomic bomb off Grand Bahama."
     },
     {
       "id": "thunderball:underwater-battle",
@@ -1126,7 +1498,10 @@
       "chapter": 23,
       "title": "水下决战与拉戈之死",
       "cause": "拉戈率15人潜水队拖运核弹前往大巴哈马导弹基地布放",
-      "effect": "水下混战，拉戈企图拖走核弹雪橇，多米诺挣脱束缚潜出，以鱼枪刺穿拉戈脖颈将其杀死，两枚核弹被回收"
+      "effect": "水下混战，拉戈企图拖走核弹雪橇，多米诺挣脱束缚潜出，以鱼枪刺穿拉戈脖颈将其杀死，两枚核弹被回收",
+      "title_en": "The underwater battle and Largo's death",
+      "cause_en": "Largo leads a fifteen-man diving party towing the atomic bomb to lay it off the Grand Bahama missile base.",
+      "effect_en": "In the underwater fighting Largo tries to tow the bomb sled away; Domino breaks free and swims out, killing Largo with a spear through the neck, and both atomic bombs are recovered."
     },
     {
       "id": "spy-who-loved-me:storm-knockout",
@@ -1135,7 +1510,10 @@
       "chapter": "One",
       "title": "暴风雨中触电晕倒",
       "cause": "薇薇安误将霓虹灯开关拨至空房状态时恰逢闪电",
-      "effect": "她晕倒约十分钟，头部撞出肿包，由此发现空房灯成为打手到访的诱因"
+      "effect": "她晕倒约十分钟，头部撞出肿包，由此发现空房灯成为打手到访的诱因",
+      "title_en": "Knocked out by the storm",
+      "cause_en": "Vivienne throws the neon VACANCY switch to the vacant position just as lightning strikes",
+      "effect_en": "She is unconscious for about ten minutes and bangs her head; the lighted VACANCY sign later draws the two hoodlums to the motel."
     },
     {
       "id": "spy-who-loved-me:derek-breakup",
@@ -1144,7 +1522,10 @@
       "chapter": "Three",
       "title": "德里克分手",
       "cause": "德里克父母反对外国姑娘，且他早已与邻家女儿半订婚",
-      "effect": "薇薇安失恋半年才恢复，立志靠头脑与毅力在伦敦立足"
+      "effect": "薇薇安失恋半年才恢复，立志靠头脑与毅力在伦敦立足",
+      "title_en": "Derek breaks off the affair",
+      "cause_en": "Derek's parents object to a foreign girl, and he is already semi-engaged to the girl next door",
+      "effect_en": "It takes Vivienne six months to recover; she resolves to make her way in London by her brains and determination."
     },
     {
       "id": "spy-who-loved-me:kurt-abandonment",
@@ -1153,7 +1534,10 @@
       "chapter": "Five",
       "title": "库尔特抛弃怀孕的薇薇安",
       "cause": "薇薇安怀孕，库尔特以混血观念为由拒绝结婚",
-      "effect": "薇薇安被解雇并赴苏黎世堕胎，决心离开启程南下北美"
+      "effect": "薇薇安被解雇并赴苏黎世堕胎，决心离开启程南下北美",
+      "title_en": "Kurt abandons the pregnant Vivienne",
+      "cause_en": "Vivienne is pregnant, and Kurt refuses to marry her on grounds of mixed blood",
+      "effect_en": "Vivienne is dismissed and goes to Zurich for an abortion, resolving to leave and travel south through North America."
     },
     {
       "id": "spy-who-loved-me:toronto-shootout",
@@ -1162,7 +1546,10 @@
       "chapter": "Eleven",
       "title": "多伦多枪战",
       "cause": "SPECTRE受克格勃委托刺杀鲍里斯，邦德冒充目标守株待兔",
-      "effect": "乌尔曼被击毙，一名骑警牺牲，鲍里斯获救，邦德南下赴华盛顿"
+      "effect": "乌尔曼被击毙，一名骑警牺牲，鲍里斯获救，邦德南下赴华盛顿",
+      "title_en": "The Toronto gunfight",
+      "cause_en": "SPECTRE takes the KGB's contract to murder Boris, and Bond impersonates the target to draw the killers out",
+      "effect_en": "Uhlmann is killed, a Mountie dies, Boris is saved, and Bond drives south to Washington."
     },
     {
       "id": "spy-who-loved-me:hoodlums-arrive",
@@ -1171,7 +1558,10 @@
       "chapter": "Eight",
       "title": "两名打手到访",
       "cause": "空房灯亮着，两人冒充保险公司人员进门",
-      "effect": "薇薇安被困旅馆，遭威胁与监视"
+      "effect": "薇薇安被困旅馆，遭威胁与监视",
+      "title_en": "The two hoodlums arrive",
+      "cause_en": "The VACANCY sign is lit, and the two men present themselves as men from the insurance company",
+      "effect_en": "Vivienne is trapped in the motel, threatened and watched."
     },
     {
       "id": "spy-who-loved-me:escape-attempt",
@@ -1180,7 +1570,10 @@
       "chapter": "Nine",
       "title": "薇薇安逃入树林被抓回",
       "cause": "趁打手吃饭时从未锁的后门逃跑",
-      "effect": "遭枪击追捕后被抓回，霍勒毒打她致昏迷"
+      "effect": "遭枪击追捕后被抓回，霍勒毒打她致昏迷",
+      "title_en": "Vivienne runs to the woods and is caught",
+      "cause_en": "While the men eat she slips out of the unlocked back door",
+      "effect_en": "She is chased with gunfire and caught by Sluggsy; Horror beats her unconscious."
     },
     {
       "id": "spy-who-loved-me:bond-arrival",
@@ -1189,7 +1582,10 @@
       "chapter": "Ten",
       "title": "邦德到访",
       "cause": "租车爆胎，见空房灯求宿",
-      "effect": "薇薇安以手势暗示邦德进门，打手暂缓动手，邦德获知内情"
+      "effect": "薇薇安以手势暗示邦德进门，打手暂缓动手，邦德获知内情",
+      "title_en": "Bond arrives",
+      "cause_en": "His hired car gets a puncture, and he sees the lighted VACANCY sign and asks for a room",
+      "effect_en": "Vivienne silently signals Bond to come in; the men hold off for the moment, and Bond learns what is happening."
     },
     {
       "id": "spy-who-loved-me:arson",
@@ -1198,7 +1594,10 @@
       "chapter": "Twelve",
       "title": "旅馆纵火",
       "cause": "桑吉内蒂策划骗保，打手以铝热剂逐屋纵火，计划将薇薇安烧死伪装成打翻油灯失火",
-      "effect": "邦德救出薇薇安，旅馆大部烧毁，邦德识破骗保计划"
+      "effect": "邦德救出薇薇安，旅馆大部烧毁，邦德识破骗保计划",
+      "title_en": "The motel is set on fire",
+      "cause_en": "Sanguinetti's insurance fraud: the men set fire cabin by cabin with thermite, planning to burn Vivienne alive and blame an overturned oil lamp",
+      "effect_en": "Bond rescues Vivienne, most of the motel burns down, and Bond sees through the insurance fraud."
     },
     {
       "id": "spy-who-loved-me:night-battle",
@@ -1207,7 +1606,10 @@
       "chapter": "Thirteen",
       "title": "午夜枪战与沉车",
       "cause": "打手搬电视机销赃时被邦德拦截，双方开火",
-      "effect": "霍勒被击中后驾车坠湖溺亡，斯拉格西一度逃脱"
+      "effect": "霍勒被击中后驾车坠湖溺亡，斯拉格西一度逃脱",
+      "title_en": "The midnight gunfight and the car in the lake",
+      "cause_en": "Bond intercepts the men as they carry off television sets to sell, and both sides open fire",
+      "effect_en": "Horror is shot and drives the car into the lake, where he drowns; Sluggsy escapes for the moment."
     },
     {
       "id": "spy-who-loved-me:sluggsy-returns",
@@ -1216,7 +1618,10 @@
       "chapter": "Fourteen",
       "title": "斯拉格西夜袭3号房",
       "cause": "斯拉格西由沉车气穴逃生，潜回行刺",
-      "effect": "邦德开枪将其击毙于窗外，两人相拥入睡"
+      "effect": "邦德开枪将其击毙于窗外，两人相拥入睡",
+      "title_en": "Sluggsy attacks Cabin 3 at night",
+      "cause_en": "Sluggsy escapes from an air pocket in the sunken car and comes back to kill them",
+      "effect_en": "Bond shoots him dead outside the window; the two fall asleep in each other's arms."
     },
     {
       "id": "spy-who-loved-me:police-arrival",
@@ -1225,7 +1630,10 @@
       "chapter": "Fifteen",
       "title": "警方接手与薇薇安离开",
       "cause": "邦德清晨赴格伦斯福尔斯报案并通知华盛顿",
-      "effect": "菲希夫妇被控共谋诈骗，桑吉内蒂在逃面临死罪指控，薇薇安中午骑车离开"
+      "effect": "菲希夫妇被控共谋诈骗，桑吉内蒂在逃面临死罪指控，薇薇安中午骑车离开",
+      "title_en": "The police take over and Vivienne leaves",
+      "cause_en": "Bond reports to the police in Glens Falls in the morning and notifies Washington",
+      "effect_en": "The Phanceys are charged with conspiracy to defraud, Sanguinetti is on the run facing a capital charge, and Vivienne rides away at noon."
     },
     {
       "id": "on-her-majestys-secret-service:beach-kidnapping",
@@ -1234,7 +1642,10 @@
       "chapter": 1,
       "title": "海滩绑架",
       "cause": "邦德在赌场代崔西支付2万新法郎赌债，两人相识并过夜；次日崔西准备按童年誓言游向大海自杀",
-      "effect": "邦德跟踪保护她，德拉科派人将两人一并“请”到货车，父女身世揭开"
+      "effect": "邦德跟踪保护她，德拉科派人将两人一并“请”到货车，父女身世揭开",
+      "title_en": "The Beach Kidnapping",
+      "cause_en": "Bond pays Tracy's 20,000-new-franc gambling debt at the casino, and the two spend the night together; the next day Tracy means to swim out to sea to drown herself, as she vowed as a child.",
+      "effect_en": "Bond follows to protect her, and Draco's men take them both to the lorry, where the story of father and daughter comes out."
     },
     {
       "id": "on-her-majestys-secret-service:coup-du-deshonneur",
@@ -1243,7 +1654,10 @@
       "chapter": 3,
       "title": "耻辱一击",
       "cause": "邦德在百家乐桌上赢得460万法郎，崔西叫Banco输掉2万新法郎却无钱支付",
-      "effect": "崔西面临赌场黑名单的“耻辱一击”，邦德谎称合伙替她付账，两人结识"
+      "effect": "崔西面临赌场黑名单的“耻辱一击”，邦德谎称合伙替她付账，两人结识",
+      "title_en": "The Coup du Deshonneur",
+      "cause_en": "Bond wins 4,600,000 francs at baccarat, while Tracy calls banco, loses 20,000 new francs, and has no money to pay.",
+      "effect_en": "Tracy faces the blacklisting 'coup du deshonneur' of the French casinos, until Bond pretends they were playing in partnership and pays her debt, and the two become acquainted."
     },
     {
       "id": "on-her-majestys-secret-service:draco-proposal",
@@ -1252,7 +1666,10 @@
       "chapter": 5,
       "title": "德拉科的求婚提议",
       "cause": "崔西女婴死于脊髓脑膜炎，万念俱灰，留下遗书准备在鲁瓦亚勒投海",
-      "effect": "德拉科绑架邦德求他拯救崔西，开出100万英镑黄金嫁妆，邦德拒绝婚事但答应约会；德拉科提供布洛菲尔德在瑞士的情报"
+      "effect": "德拉科绑架邦德求他拯救崔西，开出100万英镑黄金嫁妆，邦德拒绝婚事但答应约会；德拉科提供布洛菲尔德在瑞士的情报",
+      "title_en": "Draco's Proposal",
+      "cause_en": "Tracy's baby daughter died of spinal meningitis, and, in despair, she left a suicide note and prepared to drown herself at Royale.",
+      "effect_en": "Draco kidnaps Bond and begs him to save Tracy, offering a dowry of a million pounds in gold; Bond refuses the marriage but agrees to dinner, and Draco gives him the news that Blofeld is in Switzerland."
     },
     {
       "id": "on-her-majestys-secret-service:heraldic-trap",
@@ -1261,7 +1678,10 @@
       "chapter": 7,
       "title": "纹章陷阱",
       "cause": "布洛菲尔德通过苏黎世律师向纹章院申请确认布勒维尔伯爵爵位，留下线索",
-      "effect": "邦德化名希拉里·布雷爵士，以纹章使者身份获准面见布洛菲尔德，行动代号CORONA"
+      "effect": "邦德化名希拉里·布雷爵士，以纹章使者身份获准面见布洛菲尔德，行动代号CORONA",
+      "title_en": "The Heraldic Trap",
+      "cause_en": "Blofeld applies through Zurich solicitors to the College of Arms to have his title as Comte de Bleuville confirmed, leaving a trail.",
+      "effect_en": "Bond, as Sir Hilary Bray, is received by Blofeld as an envoy of the College, under the operation codenamed CORONA."
     },
     {
       "id": "on-her-majestys-secret-service:bond-meets-blofeld",
@@ -1270,7 +1690,10 @@
       "chapter": 11,
       "title": "邦德面见布洛菲尔德",
       "cause": "邦德以耳垂特征取信布洛菲尔德，获邀留住一周",
-      "effect": "邦德得以深入诊所，发现十名女孩、催眠治疗与实验室，为揭开生物战计划奠基"
+      "effect": "邦德得以深入诊所，发现十名女孩、催眠治疗与实验室，为揭开生物战计划奠基",
+      "title_en": "Bond Meets Blofeld",
+      "cause_en": "Bond wins Blofeld's confidence with the ear-lobe evidence and is invited to stay for a week.",
+      "effect_en": "Bond works his way deep into the clinic, discovering the ten girls, the hypnosis treatment and the laboratory, laying the groundwork for exposing the biological-warfare plan."
     },
     {
       "id": "on-her-majestys-secret-service:bertil-death",
@@ -1279,7 +1702,10 @@
       "chapter": 11,
       "title": "贝尔蒂尔之死",
       "cause": "贝尔蒂尔夜间骚扰女孩莎拉",
-      "effect": "贝尔蒂尔被推下雪橇道摔死，邦德认定这是布洛菲尔德维持纪律的处决"
+      "effect": "贝尔蒂尔被推下雪橇道摔死，邦德认定这是布洛菲尔德维持纪律的处决",
+      "title_en": "The Death of Bertil",
+      "cause_en": "Bertil molests the girl Sarah in the night.",
+      "effect_en": "Bertil is pushed down the bob-run to his death, which Bond reads as Blofeld's way of keeping discipline."
     },
     {
       "id": "on-her-majestys-secret-service:hypnosis-revealed",
@@ -1288,7 +1714,10 @@
       "chapter": 14,
       "title": "催眠真相揭露",
       "cause": "邦德夜访鲁比房间，午夜催眠录音响起",
-      "effect": "邦德发现催眠真相：女孩们被灌输热爱过敏原、改良品种、保守秘密的指令"
+      "effect": "邦德发现催眠真相：女孩们被灌输热爱过敏原、改良品种、保守秘密的指令",
+      "title_en": "The Hypnosis Revealed",
+      "cause_en": "Bond visits Ruby's room at night, and the midnight hypnosis tape begins to play.",
+      "effect_en": "Bond discovers the truth of the hypnosis: the girls are instructed to love the things they were allergic to, to improve the breed, and to keep the secret."
     },
     {
       "id": "on-her-majestys-secret-service:campbell-captured",
@@ -1297,7 +1726,10 @@
       "chapter": 14,
       "title": "坎贝尔被捕",
       "cause": "坎贝尔跟踪俄国人鲍里斯上尉采购物资，藏身缆车被发现",
-      "effect": "坎贝尔被殴打审讯，邦德为保身份否认认识他，坎贝尔最终死亡；邦德决定当夜逃亡"
+      "effect": "坎贝尔被殴打审讯，邦德为保身份否认认识他，坎贝尔最终死亡；邦德决定当夜逃亡",
+      "title_en": "Campbell Captured",
+      "cause_en": "Campbell, trailing the Russian Captain Boris on his purchases, hides in a cable car and is found.",
+      "effect_en": "Campbell is beaten and taken for interrogation; to protect his cover, Bond denies knowing him, and Campbell dies; Bond decides to escape that night."
     },
     {
       "id": "on-her-majestys-secret-service:ski-escape",
@@ -1306,7 +1738,10 @@
       "chapter": 16,
       "title": "雪夜滑雪逃亡",
       "cause": "坎贝尔被捕后邦德身份危在旦夕，守卫电话称十分钟后来抓英国人",
-      "effect": "邦德打死守卫，偷雪橇滑下雪山诊所，经历照明弹、榴弹与雪崩脱险"
+      "effect": "邦德打死守卫，偷雪橇滑下雪山诊所，经历照明弹、榴弹与雪崩脱险",
+      "title_en": "The Night Ski Escape",
+      "cause_en": "With Campbell captured, Bond's cover is in danger, and a guard telephones that men are coming for the Englishman in ten minutes.",
+      "effect_en": "Bond kills the guard, steals a pair of skis and skis down from Piz Gloria, escaping flares, grenades and an avalanche."
     },
     {
       "id": "on-her-majestys-secret-service:mercedes-gorge",
@@ -1315,7 +1750,10 @@
       "chapter": 18,
       "title": "奔驰坠谷",
       "cause": "崔西受父亲之命到萨马登寻找邦德，恰在溜冰舞会认出他",
-      "effect": "两人驾车逃亡，邦德调转路标使追击奔驰坠入峡谷，三名追兵死亡"
+      "effect": "两人驾车逃亡，邦德调转路标使追击奔驰坠入峡谷，三名追兵死亡",
+      "title_en": "The Mercedes in the Gorge",
+      "cause_en": "Tracy, sent by her father to find Bond, recognises him at the skating ball in Samaden.",
+      "effect_en": "The two drive away together, and Bond turns a road sign so that the pursuing black Mercedes plunges into the gorge, killing all three men."
     },
     {
       "id": "on-her-majestys-secret-service:proposal",
@@ -1324,7 +1762,10 @@
       "chapter": 19,
       "title": "机场求婚",
       "cause": "邦德在苏黎世机场早餐时认定崔西是他一直在寻找的女人",
-      "effect": "崔西答应求婚，约定在慕尼黑领事馆结婚，婚后去基茨比厄尔度蜜月"
+      "effect": "崔西答应求婚，约定在慕尼黑领事馆结婚，婚后去基茨比厄尔度蜜月",
+      "title_en": "The Proposal at the Airport",
+      "cause_en": "Over breakfast at Zurich airport, Bond realises Tracy is the woman he has been looking for all his life.",
+      "effect_en": "Tracy accepts his proposal, agreeing to wait at the Vier Jahreszeiten in Munich and to marry him at the Consulate, honeymooning afterwards in Kitzbuhel."
     },
     {
       "id": "on-her-majestys-secret-service:bw-theory",
@@ -1333,7 +1774,10 @@
       "chapter": 21,
       "title": "生物战理论确立",
       "cause": "邦德带回女孩名单与实验室所见，501与富兰克林会商",
-      "effect": "识破生物战计划：女孩们是无意识的病毒携带者，宝莉·塔斯克疑似已传播禽瘟，300万只火鸡被宰杀"
+      "effect": "识破生物战计划：女孩们是无意识的病毒携带者，宝莉·塔斯克疑似已传播禽瘟，300万只火鸡被宰杀",
+      "title_en": "The Biological Warfare Theory",
+      "cause_en": "Bond brings home the list of the girls and what he saw in the laboratory, and 501 and Franklin confer.",
+      "effect_en": "The biological-warfare plan is uncovered: the girls are unwitting virus carriers, Polly Tasker is suspected of having already spread fowl pest, and three million turkeys have been slaughtered."
     },
     {
       "id": "on-her-majestys-secret-service:piz-gloria-raid",
@@ -1342,7 +1786,10 @@
       "chapter": 25,
       "title": "突袭雪山诊所",
       "cause": "M批准非官方清算，邦德请德拉科出动科西嘉联盟",
-      "effect": "七人突袭队乘秘密军组织直升机夜袭雪山诊所，炸毁诊所、实验室与缆车站，但布洛菲尔德逃往意大利"
+      "effect": "七人突袭队乘秘密军组织直升机夜袭雪山诊所，炸毁诊所、实验室与缆车站，但布洛菲尔德逃往意大利",
+      "title_en": "The Raid on Piz Gloria",
+      "cause_en": "M approves an unofficial reckoning, and Bond asks Draco to lend the Union Corse.",
+      "effect_en": "Seven men fly in by an OAS helicopter and raid Piz Gloria at night, blowing up the clinic, the laboratory and the cable station, but Blofeld escapes to Italy."
     },
     {
       "id": "on-her-majestys-secret-service:tracy-death",
@@ -1351,7 +1798,10 @@
       "chapter": 27,
       "title": "崔西遇害",
       "cause": "邦德与崔西元旦在慕尼黑英国总领事客厅成婚，驾车前往基茨比厄尔度蜜月",
-      "effect": "红色玛莎拉蒂超车开枪，崔西中弹身亡；邦德抱着她说“我们有的是时间”"
+      "effect": "红色玛莎拉蒂超车开枪，崔西中弹身亡；邦德抱着她说“我们有的是时间”",
+      "title_en": "The Death of Tracy",
+      "cause_en": "Bond and Tracy are married at the British Consulate General in Munich on New Year's Day and drive towards Kitzbuhel for their honeymoon.",
+      "effect_en": "A red Maserati overtakes them and fires; Tracy is shot dead, and Bond, holding her, says 'We've got all the time in the world.'"
     },
     {
       "id": "you-only-live-twice:impossible-mission",
@@ -1360,7 +1810,10 @@
       "chapter": 3,
       "title": "M委派不可能的任务",
       "cause": "邦德丧妻后精神崩溃，莫洛尼向M建议给邦德一个看似不可能的重要任务",
-      "effect": "邦德获代理晋升外交部门，以澳大利亚外交官身份前往日本索取MAGIC44"
+      "effect": "邦德获代理晋升外交部门，以澳大利亚外交官身份前往日本索取MAGIC44",
+      "title_en": "M Gives Bond the Impossible Mission",
+      "cause_en": "Bond is falling apart after his wife's death, and Molony advises M to give him one apparently impossible, vital assignment.",
+      "effect_en": "Bond receives an acting promotion to the Diplomatic Section and travels to Japan as an Australian diplomat to obtain MAGIC 44."
     },
     {
       "id": "you-only-live-twice:magic44-sample",
@@ -1369,7 +1822,10 @@
       "chapter": 5,
       "title": "田中出示MAGIC44样本密电",
       "cause": "田中向邦德展示MAGIC44破译的苏联密电，内容是200兆吨核武器试验与讹诈英国的计划",
-      "effect": "邦德凭记忆把密电内容经迪科传回伦敦，西方迅速采取反制，苏联推迟外交讹诈"
+      "effect": "邦德凭记忆把密电内容经迪科传回伦敦，西方迅速采取反制，苏联推迟外交讹诈",
+      "title_en": "Tanaka Shows the Sample MAGIC 44 Decrypt",
+      "cause_en": "Tanaka shows Bond a MAGIC 44 decrypt of a Soviet message about a 200-megaton weapon test and a plan to blackmail Britain.",
+      "effect_en": "Bond memorises the decrypt and sends it to London through Dikko; the West acts swiftly and the Soviet diplomatic blackmail is postponed."
     },
     {
       "id": "you-only-live-twice:bargain-castle-of-death",
@@ -1378,7 +1834,10 @@
       "chapter": 8,
       "title": "以刺杀换MAGIC44的交易",
       "cause": "日本已渗透英国澳门蓝色通道情报网，邦德无物可换，田中提出以刺杀换MAGIC44",
-      "effect": "邦德接受交易，潜入死亡城堡杀死萨特汉博士，换取日本移交MAGIC44"
+      "effect": "邦德接受交易，潜入死亡城堡杀死萨特汉博士，换取日本移交MAGIC44",
+      "title_en": "The Bargain: Assassination for MAGIC 44",
+      "cause_en": "Japan has already penetrated Britain's Macao Blue Route network, leaving Bond with nothing to trade, and Tanaka offers murder in exchange for MAGIC 44.",
+      "effect_en": "Bond accepts the bargain and agrees to enter the Castle of Death and kill Dr Shatterhand in return for Japan handing over MAGIC 44."
     },
     {
       "id": "you-only-live-twice:transformation",
@@ -1387,7 +1846,10 @@
       "chapter": 9,
       "title": "邦德化装成日本渔民工人",
       "cause": "邦德是外国人，在日本极易被认出，必须化装成日本人潜入",
-      "effect": "邦德染肤、剪发、扮成福冈聋哑煤矿工人，化名塔罗·托多罗基"
+      "effect": "邦德染肤、剪发、扮成福冈聋哑煤矿工人，化名塔罗·托多罗基",
+      "title_en": "Bond Is Made Up as a Japanese Labourer",
+      "cause_en": "As a foreigner, Bond would be recognised at once in Japan and must pass as Japanese to get near the castle.",
+      "effect_en": "Bond's skin is dyed and his hair cut, and he becomes Taro Todoroki, a deaf-mute coalminer from Fukuoka."
     },
     {
       "id": "you-only-live-twice:black-dragon-tail-killed",
@@ -1396,7 +1858,10 @@
       "chapter": 12,
       "title": "跟踪的黑龙会特工被杀",
       "cause": "黑龙会特工一路跟踪田中与邦德，邦德识破后设伏拦截",
-      "effect": "特工被警察刺死，身上搜出邦德被窃的钱包与记录田中行踪的日记，邦德意识到城堡主人早有防备"
+      "effect": "特工被警察刺死，身上搜出邦德被窃的钱包与记录田中行踪的日记，邦德意识到城堡主人早有防备",
+      "title_en": "The Black Dragon Tail Is Killed",
+      "cause_en": "A Black Dragon agent tails Tanaka and Bond all the way, and Bond sees through the tail and sets a trap.",
+      "effect_en": "The agent is stabbed to death by a policeman; his body yields Bond's stolen wallet and a diary of Tanaka's movements, and Bond realises the castle's master is already on his guard."
     },
     {
       "id": "you-only-live-twice:blofeld-identified",
@@ -1405,7 +1870,10 @@
       "chapter": 12,
       "title": "邦德认出布洛菲尔德",
       "cause": "邦德在安藤警视处看到萨特汉博士夫妇的护照照片",
-      "effect": "邦德认出两人就是布洛菲尔德与艾玛·布朗特，决定隐瞒身份、私自复仇"
+      "effect": "邦德认出两人就是布洛菲尔德与艾玛·布朗特，决定隐瞒身份、私自复仇",
+      "title_en": "Bond Recognises Blofeld",
+      "cause_en": "Bond sees the passport photographs of Dr and Frau Shatterhand at Superintendent Ando's office.",
+      "effect_en": "He recognises the couple as Blofeld and Irma Bunt and decides to keep the discovery secret and take his revenge himself."
     },
     {
       "id": "you-only-live-twice:arrival-kuro",
@@ -1414,7 +1882,10 @@
       "chapter": 13,
       "title": "邦德抵达黑岛",
       "cause": "邦德需在城堡对面等待合适天气与夜色潜入",
-      "effect": "邦德住进黑岛铃木家，结识喜悦子并与她出海潜水"
+      "effect": "邦德住进黑岛铃木家，结识喜悦子并与她出海潜水",
+      "title_en": "Bond Reaches Kuro Island",
+      "cause_en": "Bond must wait on the far side of the strait for the right weather and a moonlit night to swim to the castle.",
+      "effect_en": "He lodges with the Suzuki family on Kuro, meets Kissy and goes diving for abalone with her."
     },
     {
       "id": "you-only-live-twice:swim-to-castle",
@@ -1423,7 +1894,10 @@
       "chapter": 15,
       "title": "夜游至死亡城堡",
       "cause": "喜悦子坚持陪邦德夜游，并约定每晚午夜在城墙下等他一小时",
-      "effect": "邦德得以在喜悦子引导下穿越海流抵达城墙，事后喜悦子在海中救起他"
+      "effect": "邦德得以在喜悦子引导下穿越海流抵达城墙，事后喜悦子在海中救起他",
+      "title_en": "The Night Swim to the Castle of Death",
+      "cause_en": "Kissy insists on swimming with Bond to the castle and promises to wait for an hour at midnight below the wall each night.",
+      "effect_en": "Guided by Kissy through the currents, Bond reaches the wall; afterwards Kissy pulls him from the sea."
     },
     {
       "id": "you-only-live-twice:infiltration-garden",
@@ -1432,7 +1906,10 @@
       "chapter": 16,
       "title": "潜入毒花园",
       "cause": "邦德爬上城墙潜入毒花园侦察",
-      "effect": "邦德目睹食人鱼湖与喷气孔自杀，在园丁棚藏身并找到城堡低处小门"
+      "effect": "邦德目睹食人鱼湖与喷气孔自杀，在园丁棚藏身并找到城堡低处小门",
+      "title_en": "Infiltration of the Poison Garden",
+      "cause_en": "Bond climbs the castle wall to reconnoitre the poison garden.",
+      "effect_en": "He watches the piranha lake and a suicide in a fumarole, hides in a gardener's hut and finds the low door into the castle."
     },
     {
       "id": "you-only-live-twice:near-discovery",
@@ -1441,7 +1918,10 @@
       "chapter": 17,
       "title": "布洛菲尔德险些发现邦德",
       "cause": "布洛菲尔德夫妇巡视花园，布洛菲尔德发现园丁棚门开着",
-      "effect": "布洛菲尔德用剑刺穿麻袋，险些刺中藏身的邦德，邦德决定当夜行动"
+      "effect": "布洛菲尔德用剑刺穿麻袋，险些刺中藏身的邦德，邦德决定当夜行动",
+      "title_en": "Blofeld Nearly Discovers Bond",
+      "cause_en": "Blofeld and his wife inspect the garden, and Blofeld notices the door of the gardener's hut standing open.",
+      "effect_en": "Blofeld drives his sword through the sacks, narrowly missing the hidden Bond, who resolves to act that night."
     },
     {
       "id": "you-only-live-twice:oubliette-capture",
@@ -1450,7 +1930,10 @@
       "chapter": 18,
       "title": "坠入地牢被俘",
       "cause": "邦德由小门潜入城堡，踩中走廊翻板陷阱",
-      "effect": "邦德坠入地牢被俘，艾玛·布朗特认出他的身份"
+      "effect": "邦德坠入地牢被俘，艾玛·布朗特认出他的身份",
+      "title_en": "Capture in the Oubliette",
+      "cause_en": "Bond enters the castle by the low door and steps on a trapdoor in the corridor.",
+      "effect_en": "He falls into the oubliette and is captured; Irma Bunt recognises him as James Bond."
     },
     {
       "id": "you-only-live-twice:question-room",
@@ -1459,7 +1942,10 @@
       "chapter": 19,
       "title": "审讯室间歇泉逼供",
       "cause": "布洛菲尔德要验证邦德是否真的聋哑",
-      "effect": "邦德在间歇泉喷发前起身，暴露自己听得懂英语，布洛菲尔德推断他是为复仇而来"
+      "effect": "邦德在间歇泉喷发前起身，暴露自己听得懂英语，布洛菲尔德推断他是为复仇而来",
+      "title_en": "The Question Room Interrogation",
+      "cause_en": "Blofeld wants to test whether Bond is truly deaf and dumb.",
+      "effect_en": "Bond rises just before the geyser erupts, betraying that he understands English, and Blofeld concludes he has come for revenge."
     },
     {
       "id": "you-only-live-twice:death-castle-assault",
@@ -1468,7 +1954,10 @@
       "chapter": 20,
       "title": "死亡城堡决战",
       "cause": "布洛菲尔德决定亲手用武士刀斩首邦德",
-      "effect": "邦德夺棍击昏艾玛·布朗特，徒手扼死布洛菲尔德，随后关闭间歇泉阀门引发城堡爆炸"
+      "effect": "邦德夺棍击昏艾玛·布朗特，徒手扼死布洛菲尔德，随后关闭间歇泉阀门引发城堡爆炸",
+      "title_en": "The Duel in the Castle of Death",
+      "cause_en": "Blofeld decides to behead Bond himself with his samurai sword.",
+      "effect_en": "Bond knocks Irma Bunt out with his stave and strangles Blofeld with his bare hands, then shuts the geyser valve and the castle explodes."
     },
     {
       "id": "you-only-live-twice:obituary",
@@ -1477,7 +1966,10 @@
       "chapter": 21,
       "title": "M发表邦德讣告",
       "cause": "邦德乘氢气球逃生时中弹坠海，伦敦方面失去他的消息",
-      "effect": "M发表讣告，宣布邦德失踪、推定死亡，任务百分之百成功"
+      "effect": "M发表讣告，宣布邦德失踪、推定死亡，任务百分之百成功",
+      "title_en": "M Publishes Bond's Obituary",
+      "cause_en": "Bond escapes on the helium balloon, is shot and falls into the sea, and London hears nothing more of him.",
+      "effect_en": "M publishes the obituary, announcing Bond missing and presumed dead and the mission one hundred per cent successful."
     },
     {
       "id": "you-only-live-twice:rescue-amnesia",
@@ -1486,7 +1978,10 @@
       "chapter": 22,
       "title": "喜悦子救起失忆的邦德",
       "cause": "喜悦子在城墙下等候时看到邦德坠海，游去救起失忆的他",
-      "effect": "邦德以塔罗·托多罗基的身份在黑岛生活数月，喜悦子怀孕，后因符拉迪沃斯托克一词决定离岛寻回记忆"
+      "effect": "邦德以塔罗·托多罗基的身份在黑岛生活数月，喜悦子怀孕，后因符拉迪沃斯托克一词决定离岛寻回记忆",
+      "title_en": "Kissy Rescues the Amnesiac Bond",
+      "cause_en": "Kissy, waiting below the wall, sees Bond fall into the sea and swims out to save him.",
+      "effect_en": "Bond lives on Kuro as Taro Todoroki for months, Kissy becomes pregnant, and at last the word Vladivostok sends him off the island to recover his memory."
     },
     {
       "id": "man-with-golden-gun:bond-returns",
@@ -1495,7 +1990,10 @@
       "chapter": 1,
       "title": "邦德回国报到",
       "cause": "邦德在日本任务后失踪约一年，被克格勃在符拉迪沃斯托克捡到并洗脑，奉命回国刺杀M",
-      "effect": "通过联络处与汤森少校两道甄别获准见M，为第2章刺杀未遂埋下伏笔"
+      "effect": "通过联络处与汤森少校两道甄别获准见M，为第2章刺杀未遂埋下伏笔",
+      "title_en": "Bond Reports Back in London",
+      "cause_en": "After being wounded in the head in Japan, Bond lost his memory, was picked up by police in Vladivostok and brainwashed by the KGB, and was sent home to assassinate M.",
+      "effect_en": "He passes vetting by the Liaison Section and Major Townsend and is admitted to see M, setting up the assassination attempt in Chapter 2."
     },
     {
       "id": "man-with-golden-gun:assassination-attempt-m",
@@ -1504,7 +2002,10 @@
       "chapter": 2,
       "title": "刺杀M未遂",
       "cause": "克格勃洗脑使邦德相信M是战争贩子、自己应为和平清除“头号”目标",
-      "effect": "M以防弹玻璃挡住氰化物喷射；邦德昏倒后被送往The Park接受电休克治疗，M决定派他去对付斯卡拉曼加赎罪"
+      "effect": "M以防弹玻璃挡住氰化物喷射；邦德昏倒后被送往The Park接受电休克治疗，M决定派他去对付斯卡拉曼加赎罪",
+      "title_en": "The Attempt on M's Life",
+      "cause_en": "Brainwashing convinced Bond that M was a warmonger and the number-one target to be removed in the cause of peace.",
+      "effect_en": "M drops the armour-plate glass and blocks the cyanide jet; Bond collapses and is sent to The Park for electroshock treatment, and M decides to send him after Scaramanga to redeem himself."
     },
     {
       "id": "man-with-golden-gun:ect-treatment",
@@ -1513,7 +2014,10 @@
       "chapter": 4,
       "title": "电休克治疗康复",
       "cause": "洗脑与失忆使邦德无法恢复特工身份",
-      "effect": "30天24次电休克后邦德恢复记忆与对克格勃的仇恨，并在Maidstone靶场恢复枪法，随后赴加勒比海执行任务"
+      "effect": "30天24次电休克后邦德恢复记忆与对克格勃的仇恨，并在Maidstone靶场恢复枪法，随后赴加勒比海执行任务",
+      "title_en": "Recovery Through Electroshock Treatment",
+      "cause_en": "Brainwashing and amnesia left Bond unable to resume his identity as an agent.",
+      "effect_en": "After twenty-four shocks in thirty days Bond recovers his memory and his hatred of the KGB, restores his shooting at the Maidstone range, and leaves for the Caribbean on his assignment."
     },
     {
       "id": "man-with-golden-gun:ross-murder",
@@ -1522,7 +2026,10 @@
       "chapter": 9,
       "title": "罗斯指挥官被害",
       "cause": "罗斯去特立尼达追踪斯卡拉曼加",
-      "effect": "斯卡拉曼加在会议上亲口承认十天前杀害罗斯并沉尸La Brea沥青湖；邦德确认其罪行，J站由古德奈特代管"
+      "effect": "斯卡拉曼加在会议上亲口承认十天前杀害罗斯并沉尸La Brea沥青湖；邦德确认其罪行，J站由古德奈特代管",
+      "title_en": "The Murder of Commander Ross",
+      "cause_en": "Ross went to Trinidad to track Scaramanga.",
+      "effect_en": "Scaramanga admits at the meeting that he killed Ross ten days earlier and sank the body in the La Brea pitch lake; Bond has his crime confirmed, and Goodnight runs Station J in Ross's place."
     },
     {
       "id": "man-with-golden-gun:scaramanga-meets-bond",
@@ -1531,7 +2038,10 @@
       "chapter": 5,
       "title": "妓院初遇斯卡拉曼加",
       "cause": "BWIA电报把邦德引到3-1/2 Love Lane",
-      "effect": "斯卡拉曼加射杀Tiffy的宠物鸟立威，邦德以Mark Hazard身份接近成功，为受雇当保镖铺路"
+      "effect": "斯卡拉曼加射杀Tiffy的宠物鸟立威，邦德以Mark Hazard身份接近成功，为受雇当保镖铺路",
+      "title_en": "First Meeting with Scaramanga at the Brothel",
+      "cause_en": "The BWIA telegram led Bond to No. 3-1/2 Love Lane.",
+      "effect_en": "Scaramanga shoots Tiffy's pet birds dead to show off, and Bond, as Mark Hazard, makes his approach successfully, paving the way to being hired as bodyguard."
     },
     {
       "id": "man-with-golden-gun:hired-bodyguard",
@@ -1540,7 +2050,10 @@
       "chapter": 6,
       "title": "邦德受雇为保镖",
       "cause": "斯卡拉曼加需一名可靠外人守股东会议的门",
-      "effect": "邦德得以潜入The Group核心，偷听会议并取得录音证据"
+      "effect": "邦德得以潜入The Group核心，偷听会议并取得录音证据",
+      "title_en": "Bond Hired as Bodyguard",
+      "cause_en": "Scaramanga needed a reliable outsider to guard the door at the shareholders' meeting.",
+      "effect_en": "Bond gets inside the heart of The Group, eavesdrops on the meeting, and obtains taped evidence."
     },
     {
       "id": "man-with-golden-gun:rotkopf-murder",
@@ -1549,7 +2062,10 @@
       "chapter": 9,
       "title": "Rotkopf在会议上被杀",
       "cause": "Rotkopf拒绝认购1000万美元优先票据并威胁诉诸法律，斯卡拉曼加以古巴口号“Rapido! Seguro! Economica!”为号开枪",
-      "effect": "其余股东慑服并认购票据；尸体拟喂鳄鱼；邦德在门外全程偷听，录音成为罪证"
+      "effect": "其余股东慑服并认购票据；尸体拟喂鳄鱼；邦德在门外全程偷听，录音成为罪证",
+      "title_en": "Rotkopf Murdered at the Meeting",
+      "cause_en": "Rotkopf refused to subscribe to the ten-million-dollar preference note issue and threatened legal action; Scaramanga gave the signal with the Cuban slogan 'Rapido! Seguro! Economica!'.",
+      "effect_en": "The other shareholders are cowed into subscribing; the body is to be fed to the crocodiles; Bond overhears everything from outside the door, and the tape becomes evidence."
     },
     {
       "id": "man-with-golden-gun:goodnight-warning",
@@ -1558,7 +2074,10 @@
       "chapter": 10,
       "title": "古德奈特夜闯报信",
       "cause": "总部Triple-X急电警告Hendriks奉命杀死邦德，古德奈特连夜驱车120英里赶来",
-      "effect": "邦德得知自己反被猎杀；斯卡拉曼加藏身房内听到动静，次日对邦德身份起疑"
+      "effect": "邦德得知自己反被猎杀；斯卡拉曼加藏身房内听到动静，次日对邦德身份起疑",
+      "title_en": "Goodnight's Night Visit with the Warning",
+      "cause_en": "A Most Immediate Triple-X signal from Headquarters warned that Hendriks was ordered to kill Bond, and Goodnight drove 120 miles through the night to deliver it.",
+      "effect_en": "Bond learns he is himself the hunted man; Scaramanga, hiding in the room, hears the stir, and suspects Bond's identity the next day."
     },
     {
       "id": "man-with-golden-gun:bullet-removed",
@@ -1567,7 +2086,10 @@
       "chapter": 11,
       "title": "邦德取出斯卡拉曼加枪中一发子弹",
       "cause": "邦德判断二十四小时内必有一场生死枪战，需争取哪怕一秒优势",
-      "effect": "斯卡拉曼加在火车站朝天试枪时未察觉异常；但其金枪在后续枪战中仍能开火，邦德的优势有限"
+      "effect": "斯卡拉曼加在火车站朝天试枪时未察觉异常；但其金枪在后续枪战中仍能开火，邦德的优势有限",
+      "title_en": "Bond Removes a Bullet from Scaramanga's Gun",
+      "cause_en": "Bond judged that within twenty-four hours there would be a life-or-death gunfight and wanted even a second's advantage.",
+      "effect_en": "Scaramanga test-fired his gun at the station without noticing anything wrong; but the golden gun still fired in the gunfight that followed, so Bond's advantage was limited."
     },
     {
       "id": "man-with-golden-gun:train-battle",
@@ -1576,7 +2098,10 @@
       "chapter": 14,
       "title": "火车上的枪战",
       "cause": "斯卡拉曼加计划在火车出游中以“猎杀”邦德取乐，铁轨上绑着冒充古德奈特的塑料人体模型作诱饵",
-      "effect": "邦德击毙Hendriks，莱特击毙Gengerella并缴械三名股东；邦德左肩中弹；火车无人驾驶冲向被炸断的Orange River桥坠河"
+      "effect": "邦德击毙Hendriks，莱特击毙Gengerella并缴械三名股东；邦德左肩中弹；火车无人驾驶冲向被炸断的Orange River桥坠河",
+      "title_en": "The Gunfight on the Train",
+      "cause_en": "Scaramanga planned to kill Bond for sport on the train excursion, using a plastic dummy of Goodnight bound on the rails as bait.",
+      "effect_en": "Bond kills Hendriks, Leiter kills Gengerella and disarms the three other shareholders; Bond is shot in the left shoulder; the driverless train runs on towards the Orange River bridge that Leiter has mined."
     },
     {
       "id": "man-with-golden-gun:bridge-blown",
@@ -1585,7 +2110,10 @@
       "chapter": 14,
       "title": "Orange River桥被炸断",
       "cause": "莱特上午借故在桥上埋设炸药，计划断绝火车去路",
-      "effect": "Binion、Garfinkel、Paradise随火车坠河身亡；莱特跳车摔断左腿；斯卡拉曼加带伤跳车逃入沼泽"
+      "effect": "Binion、Garfinkel、Paradise随火车坠河身亡；莱特跳车摔断左腿；斯卡拉曼加带伤跳车逃入沼泽",
+      "title_en": "The Orange River Bridge Is Blown",
+      "cause_en": "Leiter planted explosives on the bridge that morning, planning to cut off the train's escape route.",
+      "effect_en": "Binion, Garfinkel and Paradise plunge into the river with the train and die; Leiter breaks his left leg jumping; Scaramanga, wounded, jumps clear and escapes into the morass."
     },
     {
       "id": "man-with-golden-gun:scaramanga-duel",
@@ -1594,7 +2122,10 @@
       "chapter": 15,
       "title": "沼泽决斗",
       "cause": "斯卡拉曼加重伤躲入红树林，邦德奉命清除他并为Margesson等人复仇",
-      "effect": "斯卡拉曼加先以假祈祷诱敌，用藏于脑后的金色Derringer射伤邦德右腹（毒弹）；邦德五枪击中其心脏将其击毙，自己重伤昏迷"
+      "effect": "斯卡拉曼加先以假祈祷诱敌，用藏于脑后的金色Derringer射伤邦德右腹（毒弹）；邦德五枪击中其心脏将其击毙，自己重伤昏迷",
+      "title_en": "The Duel in the Morass",
+      "cause_en": "The wounded Scaramanga hid in the mangroves, and Bond, ordered to eliminate him, was determined to avenge Margesson and the others.",
+      "effect_en": "Scaramanga lures Bond with a pretended prayer and wounds him in the right abdomen with the poisoned bullet from the golden Derringer hidden behind his head; Bond kills him with five shots through the heart and collapses, badly wounded."
     },
     {
       "id": "man-with-golden-gun:hospital-inquiry",
@@ -1603,7 +2134,10 @@
       "chapter": 16,
       "title": "病床边司法调查与授勋",
       "cause": "首相Bustamante要求澄清岛内外谣言，维护牙买加声誉",
-      "effect": "官方口径称行动全程受牙买加刑事调查局指挥；邦德、莱特、Nicholson获牙买加警察奖章；邦德保住性命，莱特小腿骨折"
+      "effect": "官方口径称行动全程受牙买加刑事调查局指挥；邦德、莱特、Nicholson获牙买加警察奖章；邦德保住性命，莱特小腿骨折",
+      "title_en": "The Bedside Inquiry and the Medals",
+      "cause_en": "Prime Minister Bustamante wanted the rumours at home and abroad cleared up and Jamaica's reputation protected.",
+      "effect_en": "The official version puts the whole operation under the Jamaican Criminal Investigation Department; Bond, Leiter and Nicholson receive the Jamaica Police Medal; Bond survives, and Leiter has a broken lower leg."
     },
     {
       "id": "man-with-golden-gun:knighthood-declined",
@@ -1612,7 +2146,10 @@
       "chapter": 17,
       "title": "邦德谢绝爵士爵位",
       "cause": "首相提议女王授予邦德KCMG爵位，M来电转达并征询是否接受",
-      "effect": "邦德以苏格兰乡下人、珍视隐私与匿名为由谢绝；M表示理解；邦德接受去古德奈特Mona Dam别墅休养三周"
+      "effect": "邦德以苏格兰乡下人、珍视隐私与匿名为由谢绝；M表示理解；邦德接受去古德奈特Mona Dam别墅休养三周",
+      "title_en": "Bond Declines the Knighthood",
+      "cause_en": "The Prime Minister proposed that the Queen grant Bond a KCMG, and M cabled to ask whether he would accept.",
+      "effect_en": "Bond declines, as a Scottish peasant who values his privacy and anonymity; M understands; Bond accepts Goodnight's invitation to convalesce for three weeks at her villa near Mona Dam."
     },
     {
       "id": "octopussy:octopussy-gold-theft",
@@ -1621,7 +2158,10 @@
       "chapter": 1,
       "title": "盗金与谋杀Oberhauser",
       "cause": "Smythe在缴获的盖世太保文件中发现VALUTA纸条，标明Wilde Kaiser山Franziskaner Halt东100米石堆下武器箱藏两根24K金条",
-      "effect": "Smythe以逮捕为名带走Oberhauser，登山途中在冰川上方两枪射杀其颅底并推尸入冰裂缝，盗走金条并藏于树林岩石间"
+      "effect": "Smythe以逮捕为名带走Oberhauser，登山途中在冰川上方两枪射杀其颅底并推尸入冰裂缝，盗走金条并藏于树林岩石间",
+      "title_en": "The theft of the gold and the murder of Oberhauser",
+      "cause_en": "In the captured Gestapo papers Smythe found a VALUTA note stating that two bars of 24-carat gold lay in a weapons case under a cairn 100 metres east of the Franziskaner Halt on the Wilde Kaiser.",
+      "effect_en": "Smythe took Oberhauser away on the pretext of arresting him, shot him twice in the base of the skull above the glacier and pushed his body into a crevasse, then stole the gold and hid it among rocks in the woods."
     },
     {
       "id": "octopussy:octopussy-gold-smuggling",
@@ -1630,7 +2170,10 @@
       "chapter": 1,
       "title": "金条走私与分销",
       "cause": "金条难以走私出境，Smythe暂缓复员，借军情通行证重返德国慕尼黑联合审讯中心任职半年，取回金条藏于手提箱带回伦敦",
-      "effect": "金条藏于肯辛顿姑妈公寓地下室，婚后携妻移居牙买加，经Foo兄弟向澳门分销，每季度得1000牙买加镑，佣金10%，后被扣至900镑"
+      "effect": "金条藏于肯辛顿姑妈公寓地下室，婚后携妻移居牙买加，经Foo兄弟向澳门分销，每季度得1000牙买加镑，佣金10%，后被扣至900镑",
+      "title_en": "Smuggling and selling the gold",
+      "cause_en": "The gold was hard to smuggle out of the country, so Smythe put off his demobilisation, used his intelligence passes to return to Germany and work for six months at the Combined Interrogation Centre in Munich, and fetched the bars back to London in a suitcase.",
+      "effect_en": "The bars were hidden in the basement of an aunt's flat in Kensington; after his marriage Smythe moved to Jamaica and sold the gold through the Foo brothers to Macao, receiving 1,000 Jamaican pounds a quarter at 10 per cent commission, later cut to 900 pounds."
     },
     {
       "id": "octopussy:octopussy-confession",
@@ -1639,7 +2182,10 @@
       "chapter": 1,
       "title": "邦德取证与Smythe自白",
       "cause": "Oberhauser遗体当年春天随冰川融化现身，文件与子弹锁定Smythe；邦德提及已与Foo兄弟谈话，Smythe知事已败露",
-      "effect": "Smythe完整供认罪行，邦德称约一周后有人押其回伦敦，案件移交皇家海军陆战队军事法庭与检察机关"
+      "effect": "Smythe完整供认罪行，邦德称约一周后有人押其回伦敦，案件移交皇家海军陆战队军事法庭与检察机关",
+      "title_en": "Bond's investigation and Smythe's confession",
+      "cause_en": "Oberhauser's body emerged from the glacier that spring, and the papers and the bullets identified Smythe; when Bond mentioned that he had talked to the Foo brothers, Smythe knew the game was up.",
+      "effect_en": "Smythe confessed everything; Bond told him that in about a week someone would be sent to bring him back to London, and the case would go to a Royal Marines court-martial and the Public Prosecutor."
     },
     {
       "id": "octopussy:octopussy-death",
@@ -1648,7 +2194,10 @@
       "chapter": 1,
       "title": "Smythe被蝎子鱼毒死并葬身章鱼之口",
       "cause": "邦德离去后Smythe按原计划出海捕蝎子鱼喂章鱼，被毒刺刺中胸口；毒发约15分钟内致命，他仍挣扎着把鱼送到章鱼洞口",
-      "effect": "章鱼拖住其手臂将其拉入水中溺亡；尸体被两名牙买加青年发现，当地报纸写成found drowned，邦德在档案末页同样写下found drowned并私下认定为自杀"
+      "effect": "章鱼拖住其手臂将其拉入水中溺亡；尸体被两名牙买加青年发现，当地报纸写成found drowned，邦德在档案末页同样写下found drowned并私下认定为自杀",
+      "title_en": "Smythe is killed by the scorpionfish and the octopus",
+      "cause_en": "After Bond left, Smythe went out as planned to spear a scorpionfish to feed the octopus and was stung in the chest; the poison kills in about fifteen minutes, but he still struggled to carry the fish to the octopus's hole.",
+      "effect_en": "The octopus seized his arm and dragged him under the water, where he drowned; his body was found by two young Jamaicans, the local paper reported him 'found drowned', and Bond wrote the same verdict on the last page of the file, privately assuming suicide."
     },
     {
       "id": "octopussy:living-daylights-briefing",
@@ -1657,7 +2206,10 @@
       "chapter": 2,
       "title": "M.下达狙杀Trigger命令",
       "cause": "272的越境信使是双面间谍，KGB已知越境时间地点并布下Operation Extase，派Trigger守候射杀272",
-      "effect": "邦德受命在Trigger得手前将其杀死，赴Bisley练枪后乘午夜航班赴柏林设伏"
+      "effect": "邦德受命在Trigger得手前将其杀死，赴Bisley练枪后乘午夜航班赴柏林设伏",
+      "title_en": "M. orders the killing of Trigger",
+      "cause_en": "272's courier was a double agent, so the KGB knew the time and place of the crossing and mounted Operation Extase, with Trigger waiting to shoot 272.",
+      "effect_en": "Bond was ordered to kill Trigger before she could kill 272, and after practising at Bisley he flew to Berlin on a midnight flight to lie in wait."
     },
     {
       "id": "octopussy:living-daylights-cello-girl",
@@ -1666,7 +2218,10 @@
       "chapter": 2,
       "title": "发现大提琴手即Trigger",
       "cause": "邦德连续三夜以狙击镜观察到金发女大提琴手随女子管弦乐队进出各部大楼，第三夜枪口伸出时瞄准镜中现出其金发侧影",
-      "effect": "邦德认出Trigger就是该女子，乐队演出与大提琴盒实为枪声掩护与运枪手段"
+      "effect": "邦德认出Trigger就是该女子，乐队演出与大提琴盒实为枪声掩护与运枪手段",
+      "title_en": "The cellist is revealed as Trigger",
+      "cause_en": "For three nights Bond watched through the sniperscope as the blonde cellist came and went with the women's orchestra; on the third night, as the gun muzzle slid out of the window, the scope showed her fair hair in profile.",
+      "effect_en": "Bond realised that Trigger was the girl herself, and that the orchestra's performances and the cello case were a cover for the gunfire and a means of carrying the weapon."
     },
     {
       "id": "octopussy:living-daylights-spared",
@@ -1675,7 +2230,10 @@
       "chapter": 2,
       "title": "邦德改动瞄准放生Trigger",
       "cause": "邦德不忍射杀心仪的女子，在开火瞬间偏移瞄准，只击碎Kalashnikov并可能伤及其左手",
-      "effect": "272成功越境，邦德遭对方火力扫射后乘装甲车撤离；Sender须报告其违令，邦德自认将失去Double-O编号"
+      "effect": "272成功越境，邦德遭对方火力扫射后乘装甲车撤离；Sender须报告其违令，邦德自认将失去Double-O编号",
+      "title_en": "Bond alters his aim and spares Trigger",
+      "cause_en": "Bond could not bring himself to kill the woman he had fallen for; at the moment of firing he moved his aim and only smashed the Kalashnikov, possibly wounding her left hand.",
+      "effect_en": "272 crossed successfully; Bond was raked by return fire and left in an armoured car with Sender, who must report his disobedience, and Bond expected to lose his Double-O number."
     },
     {
       "id": "octopussy:property-emerald-arrival",
@@ -1684,7 +2242,10 @@
       "chapter": 3,
       "title": "Emerald Sphere现身伦敦",
       "cause": "Fabergé绿宝石地球仪由巴黎挂号寄给Freudenstein，申报价值10万英镑，海关依内政部令开包检查，Fanshawe鉴定为真品",
-      "effect": "M.认定此为KGB付给Freudenstein三年无酬服务的巨额报酬，证明KGB已完全相信Purple Cipher情报，可升级欺骗等级"
+      "effect": "M.认定此为KGB付给Freudenstein三年无酬服务的巨额报酬，证明KGB已完全相信Purple Cipher情报，可升级欺骗等级",
+      "title_en": "The Emerald Sphere appears in London",
+      "cause_en": "A Fabergé Emerald Sphere arrived by registered post from Paris addressed to Freudenstein, with a declared value of 100,000 pounds; Customs opened it under a Home Office warrant, and Fanshawe identified it as genuine.",
+      "effect_en": "M. concluded that it was the KGB's payment for three years of unpaid service from Freudenstein, proving that the KGB wholly believed the Purple Cipher material, so the deception could be stepped up."
     },
     {
       "id": "octopussy:property-underbidder-trap",
@@ -1693,7 +2254,10 @@
       "chapter": 3,
       "title": "邦德设下抬价者陷阱",
       "cause": "邦德推断唯一知情者驻伦敦负责人必会亲赴拍卖会抬价，以防Wartski低价得手",
-      "effect": "M.批准计划，邦德携Snowman赴会，以拍卖师目光与竞价暗号锁定抬价者"
+      "effect": "M.批准计划，邦德携Snowman赴会，以拍卖师目光与竞价暗号锁定抬价者",
+      "title_en": "Bond sets the underbidder trap",
+      "cause_en": "Bond reasoned that the only man who knew about Freudenstein, the Resident Director in London, would have to attend the auction in person to bid the price up, for fear Wartski might get the Sphere cheaply.",
+      "effect_en": "M. approved the plan, and Bond went to the sale with Snowman to identify the underbidder by the auctioneer's eyes and the bidding code."
     },
     {
       "id": "octopussy:property-identification",
@@ -1702,7 +2266,10 @@
       "chapter": 3,
       "title": "锁定并跟踪Malinowski",
       "cause": "竞价至15.5万英镑时后排矮壮男子摘下墨镜示意退出，MI5摄影师拍下动作，邦德认出其为农业参赞Malinowski",
-      "effect": "邦德尾随其出租车进入苏联大使馆，证据齐备，外交部可宣布其为不受欢迎人物"
+      "effect": "邦德尾随其出租车进入苏联大使馆，证据齐备，外交部可宣布其为不受欢迎人物",
+      "title_en": "Malinowski is identified and followed",
+      "cause_en": "When the bidding reached 155,000 pounds, the stocky man at the back took off his dark glasses to signal that he was dropping out; the MI5 photographer recorded the gesture, and Bond recognised him as the Agricultural Attache, Malinowski.",
+      "effect_en": "Bond followed his taxi to the Soviet Embassy, completing the evidence the Foreign Office needed to declare him persona non grata."
     }
   ]
 }

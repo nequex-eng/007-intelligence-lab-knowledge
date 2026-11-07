@@ -1,6 +1,6 @@
 // 007知识库检索测试（Node零依赖）
 // 用法：node scripts/retrieval-tests.js
-// 覆盖：人物ID、别名、小说名称、章节编号、时间线、人物关系、组织、地点、装备、事件、事实类型canon/inference、同名区分。
+// 覆盖：人物ID、别名（中英双语）、小说名称（中英）、章节编号、时间线（中英）、人物关系（双向/中英）、组织、地点、装备、事件、事实类型canon/inference、同名区分、双语字段完整性。
 'use strict';
 const fs = require('fs');
 const path = require('path');
@@ -26,7 +26,12 @@ const IDX = {
 };
 const norm = (s) => String(s).trim().toLowerCase();
 const aliasByKind = {};
-for (const e of aliasesDoc.aliases) (aliasByKind[e.kind] = aliasByKind[e.kind] || new Map()).set(norm(e.alias), e);
+for (const e of aliasesDoc.aliases) {
+  const m = (aliasByKind[e.kind] = aliasByKind[e.kind] || new Map());
+  m.set(norm(e.alias), e);
+  // 双语解析：alias_en与alias同等索引，指向同一条目（含歧义候选）
+  if (e.alias_en) m.set(norm(e.alias_en), e);
+}
 function resolveId(id, kind) {
   if (IDX[kind] && IDX[kind].has(id)) return { id, via: 'id' };
   const e = aliasByKind[kind] && aliasByKind[kind].get(norm(id));
@@ -137,6 +142,107 @@ test('全书级事实：dr-no#59/#60 chapter为全书且quote留空', () => {
   const n = novels[6];
   const ok = n.facts[59].chapter === '全书' && n.facts[59].quote === null && n.facts[60].chapter === '全书' && n.facts[60].quote === null;
   return { ok, detail: `chapter=${n.facts[59].chapter}/${n.facts[60].chapter}` };
+});
+// 15. 人物ID查询（英文）：bond角色与出场标题英文
+test('人物ID（英文）：bond角色英文含Major character，皇家赌场出场标题为Casino Royale', () => {
+  const c = IDX.characters.get('bond');
+  const app = c.appearances.find((a) => a.novel === 'casino-royale');
+  return { ok: c.roles_en.includes('Major character') && app.title_en === 'Casino Royale' && app.role_en === 'Major character', detail: `roles_en=${c.roles_en.slice(0, 2)}，title_en=${app.title_en}` };
+});
+// 16. 英文别名查询
+test('英文别名：Kerim Bey/The Wizard of Ice/NATO均解析到同一规范id', () => {
+  const a = resolveId('Kerim Bey', 'characters');
+  const b = resolveId('The Wizard of Ice', 'characters');
+  const c = resolveId('NATO', 'organizations');
+  return { ok: a && a.id === 'darko-kerim' && b && b.id === 'kronsteen' && c && c.id === 'nato', detail: `kerim=${a && a.id}，kronsteen=${b && b.id}，nato=${c && c.id}` };
+});
+// 17. 中文别名查询
+test('中文别名：军械官/塔尼娅/花斑帮均解析到同一规范id', () => {
+  const a = resolveId('军械官', 'characters');
+  const b = resolveId('塔尼娅', 'characters');
+  const c = resolveId('花斑帮', 'organizations');
+  return { ok: a && a.id === 'boothroyd' && b && b.id === 'tatiana-romanov' && c && c.id === 'spangled-mob', detail: `军械官=${a && a.id}，塔尼娅=${b && b.id}，花斑帮=${c && c.id}` };
+});
+// 18. 歧义别名中英一致
+test('歧义别名中英一致：Spang与spang brothers返回同一候选清单', () => {
+  const a = resolveId('Spang', 'characters');
+  const b = resolveId('spang brothers', 'characters');
+  const want = JSON.stringify(['jack-spang', 'seraffimo-spang']);
+  return { ok: a && JSON.stringify([...a.candidates].sort()) === want && b && JSON.stringify([...b.candidates].sort()) === want, detail: `Spang=${a && a.candidates}，spang brothers=${b && b.candidates}` };
+});
+// 19. 小说名称中英查询
+test('小说名称（英文）：Casino Royale/From Russia with Love对应27/28章', () => {
+  const a = findNovelByTitle('Casino Royale');
+  const b = findNovelByTitle('From Russia with Love');
+  return { ok: a && a.novel_id === 'casino-royale' && a.chapters.length === 27 && b && b.novel_id === 'from-russia-with-love' && b.chapters.length === 28, detail: `CR=${a && a.chapters.length}章，FRWL=${b && b.chapters.length}章` };
+});
+// 20. 章节编号查询（英文书名定位）
+test('章节编号（英文书名）：Dr No第VII章为NIGHT PASSAGE，Goldfinger共23章', () => {
+  const a = findNovelByTitle('Dr No');
+  const c = a && a.chapters.find((x) => String(x.no) === 'VII');
+  const g = findNovelByTitle('Goldfinger');
+  return { ok: c && c.title === 'NIGHT PASSAGE' && g && g.chapters.length === 23, detail: `VII=${c && c.title}，Goldfinger=${g && g.chapters.length}章` };
+});
+// 21. 时间线查询（英文）
+test('时间线（英文）：casino-royale标题为Casino Royale，bond截止为Octopussy and The Living Daylights (1966)', () => {
+  const e = timelineDoc.entries.find((x) => x.novel === 'casino-royale');
+  const b = timelineDoc.characters.find((x) => x.id === 'bond');
+  const q = timelineDoc.characters.find((x) => x.id === 'q');
+  return { ok: e && e.title_en === 'Casino Royale' && b && b.timeline_cutoff_en === 'Octopussy and The Living Daylights (1966)' && q && q.note_en, detail: `title_en=${e && e.title_en}，cutoff_en=${b && b.timeline_cutoff_en}` };
+});
+// 22. 人物关系双向查询（中英）
+test('人物关系双向（中英）：bond与felix-leiter中英类型一致', () => {
+  const a = relationsOf('bond').find((r) => r.with === 'felix-leiter');
+  const b = relationsOf('felix-leiter').find((r) => r.with === 'bond');
+  const zh = new Set([...(a ? a.relations : []), ...(b ? b.relations : [])].map((r) => r.type));
+  const en = new Set([...(a ? a.relations : []), ...(b ? b.relations : [])].map((r) => r.type_en));
+  return { ok: !!a && !!b && zh.has('盟友') && zh.has('挚友与战友') && en.has('Ally') && en.has('Best friend and comrade-in-arms'), detail: `zh=${[...zh]}，en=${[...en]}` };
+});
+// 23. 组织查询（英文）
+test('组织（英文）：nato英文全称正确，出场role_en非空', () => {
+  const o = IDX.organizations.get('nato');
+  const ss = IDX.organizations.get('secret-service');
+  return { ok: o && o.name_en === 'North Atlantic Treaty Organization' && o.appearances.every((a) => a.role_en) && ss.appearances.every((a) => a.role_en), detail: `name_en=${o && o.name_en}` };
+});
+// 24. 地点查询（英文）
+test('地点（英文）：london/miami国家英文正确，有国家者均有country_en', () => {
+  const l = IDX.locations.get('london');
+  const m = IDX.locations.get('miami');
+  const all = locs.filter((x) => x.country).every((x) => x.country_en) && locs.every((x) => x.appearances.every((a) => a.role_en));
+  return { ok: l && l.country_en === 'United Kingdom' && m && m.country_en === 'United States' && all, detail: `london=${l && l.country_en}，miami=${m && m.country_en}` };
+});
+// 25. 装备查询（英文）
+test('装备（英文）：walther-ppk类别为Weapon，注释英文提及Boothroyd', () => {
+  const e = IDX.equipment.get('walther-ppk');
+  const allKind = eqs.every((x) => x.kind_en);
+  const allNote = eqs.every((x) => x.appearances.every((a) => a.note === null || a.note_en));
+  return { ok: e && e.kind_en === 'Weapon' && e.appearances[0].note_en.includes('Boothroyd') && allKind && allNote, detail: `kind_en=${e && e.kind_en}` };
+});
+// 26. 事件查询（英文书名定位）
+test('事件（英文书名）：Thunderball可定位thunderball:nuclear-blackmail事件章节', () => {
+  const e = eventsIdx.find((x) => x.id === 'thunderball:nuclear-blackmail');
+  const n = findNovelByTitle('Thunderball');
+  const ok = e && n && n.novel_id === 'thunderball' && n.chapters.some((c) => String(c.no) === String(e.chapter));
+  return { ok: !!ok, detail: `novel_id=${n && n.novel_id}，chapter=${e && e.chapter}` };
+});
+// 27. 事实类型canon/inference筛选（英文实体可查）
+test('事实类型筛选（英文）：inference共11条，人物实体均有name_en', () => {
+  let infer = 0, bad = 0;
+  for (const n of Object.values(novels)) for (const f of n.facts) {
+    if (f.canon_or_inference !== 'inference') continue;
+    infer++;
+    const c = IDX.characters.get(f.entity);
+    if (c && !c.name_en) bad++;
+  }
+  return { ok: infer === 11 && bad === 0, detail: `inference=${infer}，缺name_en=${bad}` };
+});
+// 28. 双语字段完整性
+test('双语完整性：角色/别名/关系/时间线英文均已补齐', () => {
+  const charsOk = chars.every((c) => c.roles_en.length === c.roles.length && c.appearances.every((a) => a.role_en && a.title_en));
+  const aliasOk = aliasesDoc.aliases.every((x) => x.alias_en);
+  const relOk = relsDoc.pairs.every((p) => p.relations.every((r) => r.type_en));
+  const tlOk = timelineDoc.entries.every((e) => e.title_en) && timelineDoc.characters.every((c) => c.name_en && c.timeline_cutoff_en);
+  return { ok: charsOk && aliasOk && relOk && tlOk, detail: `chars=${charsOk}，alias=${aliasOk}，rels=${relOk}，timeline=${tlOk}` };
 });
 console.log(`\n检索测试：${pass}通过，${fail}失败，共${pass + fail}条`);
 process.exit(fail ? 1 : 0);

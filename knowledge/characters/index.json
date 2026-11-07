@@ -46,7 +46,9 @@
           "title_zh": "皇家赌场",
           "role": "主要人物",
           "first_chapter": 1,
-          "last_chapter": 27
+          "last_chapter": 27,
+          "role_en": "Major character",
+          "title_en": "Casino Royale"
         },
         {
           "novel": "live-and-let-die",
@@ -54,7 +56,9 @@
           "title_zh": "生死关头",
           "role": "主要人物",
           "first_chapter": "I",
-          "last_chapter": "XXIII"
+          "last_chapter": "XXIII",
+          "role_en": "Major character",
+          "title_en": "Live and Let Die"
         },
         {
           "novel": "moonraker",
@@ -62,7 +66,9 @@
           "title_zh": "月亮牌",
           "role": "主要人物",
           "first_chapter": "I",
-          "last_chapter": "XXV"
+          "last_chapter": "XXV",
+          "role_en": "Major character",
+          "title_en": "Moonraker"
         },
         {
           "novel": "diamonds-are-forever",
@@ -70,7 +76,9 @@
           "title_zh": "金刚钻",
           "role": "主要人物",
           "first_chapter": 2,
-          "last_chapter": 25
+          "last_chapter": 25,
+          "role_en": "Major character",
+          "title_en": "Diamonds Are Forever"
         },
         {
           "novel": "from-russia-with-love",
@@ -78,7 +86,9 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "主要人物",
           "first_chapter": "Four",
-          "last_chapter": "Twenty-Eight"
+          "last_chapter": "Twenty-Eight",
+          "role_en": "Major character",
+          "title_en": "From Russia with Love"
         },
         {
           "novel": "dr-no",
@@ -86,7 +96,9 @@
           "title_zh": "诺博士",
           "role": "主要人物",
           "first_chapter": "II",
-          "last_chapter": "XX"
+          "last_chapter": "XX",
+          "role_en": "Major character",
+          "title_en": "Dr No"
         },
         {
           "novel": "goldfinger",
@@ -94,7 +106,9 @@
           "title_zh": "金手指",
           "role": "主要人物",
           "first_chapter": "ONE",
-          "last_chapter": "TWENTY-THREE"
+          "last_chapter": "TWENTY-THREE",
+          "role_en": "Major character",
+          "title_en": "Goldfinger"
         },
         {
           "novel": "for-your-eyes-only",
@@ -102,7 +116,9 @@
           "title_zh": "只为你的双眼",
           "role": "主要人物",
           "first_chapter": 1,
-          "last_chapter": 5
+          "last_chapter": 5,
+          "role_en": "Major character",
+          "title_en": "For Your Eyes Only"
         },
         {
           "novel": "thunderball",
@@ -110,7 +126,9 @@
           "title_zh": "霹雳弹",
           "role": "主要人物",
           "first_chapter": 1,
-          "last_chapter": 24
+          "last_chapter": 24,
+          "role_en": "Major character",
+          "title_en": "Thunderball"
         },
         {
           "novel": "spy-who-loved-me",
@@ -118,7 +136,9 @@
           "title_zh": "爱我的间谍",
           "role": "主要人物（第10章登场）",
           "first_chapter": "Ten",
-          "last_chapter": "Fifteen"
+          "last_chapter": "Fifteen",
+          "role_en": "Major character (introduced in Chapter 10)",
+          "title_en": "The Spy Who Loved Me"
         },
         {
           "novel": "on-her-majestys-secret-service",
@@ -126,7 +146,9 @@
           "title_zh": "女王密使",
           "role": "主要人物",
           "first_chapter": 1,
-          "last_chapter": 27
+          "last_chapter": 27,
+          "role_en": "Major character",
+          "title_en": "On Her Majesty's Secret Service"
         },
         {
           "novel": "you-only-live-twice",
@@ -134,7 +156,9 @@
           "title_zh": "雷霆谷",
           "role": "主要人物",
           "first_chapter": 1,
-          "last_chapter": 22
+          "last_chapter": 22,
+          "role_en": "Major character",
+          "title_en": "You Only Live Twice"
         },
         {
           "novel": "man-with-golden-gun",
@@ -142,7 +166,9 @@
           "title_zh": "金枪人",
           "role": "主要人物",
           "first_chapter": 1,
-          "last_chapter": 17
+          "last_chapter": 17,
+          "role_en": "Major character",
+          "title_en": "The Man with the Golden Gun"
         },
         {
           "novel": "octopussy",
@@ -150,8 +176,15 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "主要人物，三篇皆为主角",
           "first_chapter": 1,
-          "last_chapter": 3
+          "last_chapter": 3,
+          "role_en": "Major character; protagonist of all three stories",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Major character",
+        "Major character (introduced in Chapter 10)",
+        "Major character; protagonist of all three stories"
       ]
     },
     {
@@ -178,7 +211,9 @@
           "title_zh": "皇家赌场",
           "role": "主要人物",
           "first_chapter": 2,
-          "last_chapter": 27
+          "last_chapter": 27,
+          "role_en": "Major character",
+          "title_en": "Casino Royale"
         },
         {
           "novel": "live-and-let-die",
@@ -186,7 +221,9 @@
           "title_zh": "生死关头",
           "role": "主要人物",
           "first_chapter": "II",
-          "last_chapter": "XXIII"
+          "last_chapter": "XXIII",
+          "role_en": "Major character",
+          "title_en": "Live and Let Die"
         },
         {
           "novel": "moonraker",
@@ -194,7 +231,9 @@
           "title_zh": "月亮牌",
           "role": "主要人物",
           "first_chapter": "I",
-          "last_chapter": "XXV"
+          "last_chapter": "XXV",
+          "role_en": "Major character",
+          "title_en": "Moonraker"
         },
         {
           "novel": "diamonds-are-forever",
@@ -202,7 +241,9 @@
           "title_zh": "金刚钻",
           "role": "主要人物",
           "first_chapter": 2,
-          "last_chapter": 25
+          "last_chapter": 25,
+          "role_en": "Major character",
+          "title_en": "Diamonds Are Forever"
         },
         {
           "novel": "from-russia-with-love",
@@ -210,7 +251,9 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "主要人物",
           "first_chapter": "Four",
-          "last_chapter": "Twenty-Four"
+          "last_chapter": "Twenty-Four",
+          "role_en": "Major character",
+          "title_en": "From Russia with Love"
         },
         {
           "novel": "dr-no",
@@ -218,7 +261,9 @@
           "title_zh": "诺博士",
           "role": "主要人物",
           "first_chapter": "II",
-          "last_chapter": "XX"
+          "last_chapter": "XX",
+          "role_en": "Major character",
+          "title_en": "Dr No"
         },
         {
           "novel": "goldfinger",
@@ -226,7 +271,9 @@
           "title_zh": "金手指",
           "role": "主要人物",
           "first_chapter": "FIVE",
-          "last_chapter": "TWENTY-TWO"
+          "last_chapter": "TWENTY-TWO",
+          "role_en": "Major character",
+          "title_en": "Goldfinger"
         },
         {
           "novel": "for-your-eyes-only",
@@ -234,7 +281,9 @@
           "title_zh": "只为你的双眼",
           "role": "次要人物",
           "first_chapter": 2,
-          "last_chapter": 4
+          "last_chapter": 4,
+          "role_en": "Minor character",
+          "title_en": "For Your Eyes Only"
         },
         {
           "novel": "thunderball",
@@ -242,7 +291,9 @@
           "title_zh": "霹雳弹",
           "role": "主要人物",
           "first_chapter": 1,
-          "last_chapter": 8
+          "last_chapter": 8,
+          "role_en": "Major character",
+          "title_en": "Thunderball"
         },
         {
           "novel": "on-her-majestys-secret-service",
@@ -250,7 +301,9 @@
           "title_zh": "女王密使",
           "role": "主要人物",
           "first_chapter": 8,
-          "last_chapter": 22
+          "last_chapter": 22,
+          "role_en": "Major character",
+          "title_en": "On Her Majesty's Secret Service"
         },
         {
           "novel": "you-only-live-twice",
@@ -258,7 +311,9 @@
           "title_zh": "雷霆谷",
           "role": "次要人物",
           "first_chapter": 2,
-          "last_chapter": 21
+          "last_chapter": 21,
+          "role_en": "Minor character",
+          "title_en": "You Only Live Twice"
         },
         {
           "novel": "man-with-golden-gun",
@@ -266,7 +321,9 @@
           "title_zh": "金枪人",
           "role": "主要人物",
           "first_chapter": 1,
-          "last_chapter": 17
+          "last_chapter": 17,
+          "role_en": "Major character",
+          "title_en": "The Man with the Golden Gun"
         },
         {
           "novel": "octopussy",
@@ -274,8 +331,15 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "主要人物，第2、3篇出现",
           "first_chapter": 2,
-          "last_chapter": 3
+          "last_chapter": 3,
+          "role_en": "Major character; appears in the second and third stories",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Major character",
+        "Major character; appears in the second and third stories",
+        "Minor character"
       ]
     },
     {
@@ -298,7 +362,9 @@
           "title_zh": "皇家赌场",
           "role": "次要人物",
           "first_chapter": 3,
-          "last_chapter": 3
+          "last_chapter": 3,
+          "role_en": "Minor character",
+          "title_en": "Casino Royale"
         },
         {
           "novel": "live-and-let-die",
@@ -306,7 +372,9 @@
           "title_zh": "生死关头",
           "role": "次要人物",
           "first_chapter": "II",
-          "last_chapter": "IX"
+          "last_chapter": "IX",
+          "role_en": "Minor character",
+          "title_en": "Live and Let Die"
         },
         {
           "novel": "moonraker",
@@ -314,7 +382,9 @@
           "title_zh": "月亮牌",
           "role": "次要人物",
           "first_chapter": "II",
-          "last_chapter": "II"
+          "last_chapter": "II",
+          "role_en": "Minor character",
+          "title_en": "Moonraker"
         },
         {
           "novel": "diamonds-are-forever",
@@ -322,7 +392,9 @@
           "title_zh": "金刚钻",
           "role": "次要人物",
           "first_chapter": 3,
-          "last_chapter": 3
+          "last_chapter": 3,
+          "role_en": "Minor character",
+          "title_en": "Diamonds Are Forever"
         },
         {
           "novel": "from-russia-with-love",
@@ -330,7 +402,9 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "次要人物",
           "first_chapter": "Twelve",
-          "last_chapter": "Twelve"
+          "last_chapter": "Twelve",
+          "role_en": "Minor character",
+          "title_en": "From Russia with Love"
         },
         {
           "novel": "dr-no",
@@ -338,7 +412,9 @@
           "title_zh": "诺博士",
           "role": "次要人物",
           "first_chapter": "II",
-          "last_chapter": "II"
+          "last_chapter": "II",
+          "role_en": "Minor character",
+          "title_en": "Dr No"
         },
         {
           "novel": "goldfinger",
@@ -346,7 +422,9 @@
           "title_zh": "金手指",
           "role": "次要人物",
           "first_chapter": "FIVE",
-          "last_chapter": "FIVE"
+          "last_chapter": "FIVE",
+          "role_en": "Minor character",
+          "title_en": "Goldfinger"
         },
         {
           "novel": "thunderball",
@@ -354,7 +432,9 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 1,
-          "last_chapter": 8
+          "last_chapter": 8,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         },
         {
           "novel": "on-her-majestys-secret-service",
@@ -362,7 +442,9 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 8,
-          "last_chapter": 8
+          "last_chapter": 8,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         },
         {
           "novel": "you-only-live-twice",
@@ -370,7 +452,9 @@
           "title_zh": "雷霆谷",
           "role": "次要人物",
           "first_chapter": 2,
-          "last_chapter": 3
+          "last_chapter": 3,
+          "role_en": "Minor character",
+          "title_en": "You Only Live Twice"
         },
         {
           "novel": "man-with-golden-gun",
@@ -378,7 +462,9 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 1,
-          "last_chapter": 17
+          "last_chapter": 17,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         },
         {
           "novel": "octopussy",
@@ -386,8 +472,14 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "次要人物，第3篇",
           "first_chapter": 3,
-          "last_chapter": 3
+          "last_chapter": 3,
+          "role_en": "Minor character; third story",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Minor character",
+        "Minor character; third story"
       ]
     },
     {
@@ -411,7 +503,9 @@
           "title_zh": "皇家赌场",
           "role": "主要人物",
           "first_chapter": 4,
-          "last_chapter": 13
+          "last_chapter": 13,
+          "role_en": "Major character",
+          "title_en": "Casino Royale"
         },
         {
           "novel": "live-and-let-die",
@@ -419,7 +513,9 @@
           "title_zh": "生死关头",
           "role": "主要人物",
           "first_chapter": "I",
-          "last_chapter": "XVII"
+          "last_chapter": "XVII",
+          "role_en": "Major character",
+          "title_en": "Live and Let Die"
         },
         {
           "novel": "diamonds-are-forever",
@@ -427,7 +523,9 @@
           "title_zh": "金刚钻",
           "role": "主要人物",
           "first_chapter": 8,
-          "last_chapter": 21
+          "last_chapter": 21,
+          "role_en": "Major character",
+          "title_en": "Diamonds Are Forever"
         },
         {
           "novel": "goldfinger",
@@ -435,7 +533,9 @@
           "title_zh": "金手指",
           "role": "主要人物",
           "first_chapter": "TWENTY-ONE",
-          "last_chapter": "TWENTY-TWO"
+          "last_chapter": "TWENTY-TWO",
+          "role_en": "Major character",
+          "title_en": "Goldfinger"
         },
         {
           "novel": "thunderball",
@@ -443,7 +543,9 @@
           "title_zh": "霹雳弹",
           "role": "主要人物",
           "first_chapter": 12,
-          "last_chapter": 24
+          "last_chapter": 24,
+          "role_en": "Major character",
+          "title_en": "Thunderball"
         },
         {
           "novel": "man-with-golden-gun",
@@ -451,8 +553,13 @@
           "title_zh": "金枪人",
           "role": "主要人物",
           "first_chapter": 8,
-          "last_chapter": 16
+          "last_chapter": 16,
+          "role_en": "Major character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -471,7 +578,9 @@
           "title_zh": "月亮牌",
           "role": "次要人物",
           "first_chapter": "I",
-          "last_chapter": "I"
+          "last_chapter": "I",
+          "role_en": "Minor character",
+          "title_en": "Moonraker"
         },
         {
           "novel": "from-russia-with-love",
@@ -479,7 +588,9 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "次要人物",
           "first_chapter": "Eleven",
-          "last_chapter": "Eleven"
+          "last_chapter": "Eleven",
+          "role_en": "Minor character",
+          "title_en": "From Russia with Love"
         },
         {
           "novel": "dr-no",
@@ -487,7 +598,9 @@
           "title_zh": "诺博士",
           "role": "次要人物",
           "first_chapter": "XIII",
-          "last_chapter": "XIV"
+          "last_chapter": "XIV",
+          "role_en": "Minor character",
+          "title_en": "Dr No"
         },
         {
           "novel": "thunderball",
@@ -495,7 +608,9 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 7,
-          "last_chapter": 8
+          "last_chapter": 8,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         },
         {
           "novel": "on-her-majestys-secret-service",
@@ -503,7 +618,9 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 20,
-          "last_chapter": 20
+          "last_chapter": 20,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         },
         {
           "novel": "man-with-golden-gun",
@@ -511,8 +628,13 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 2,
-          "last_chapter": 17
+          "last_chapter": 17,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -536,7 +658,9 @@
           "title_zh": "皇家赌场",
           "role": "次要人物",
           "first_chapter": 3,
-          "last_chapter": 3
+          "last_chapter": 3,
+          "role_en": "Minor character",
+          "title_en": "Casino Royale"
         },
         {
           "novel": "moonraker",
@@ -544,7 +668,9 @@
           "title_zh": "月亮牌",
           "role": "次要人物",
           "first_chapter": "II",
-          "last_chapter": "IX"
+          "last_chapter": "IX",
+          "role_en": "Minor character",
+          "title_en": "Moonraker"
         },
         {
           "novel": "diamonds-are-forever",
@@ -552,7 +678,9 @@
           "title_zh": "金刚钻",
           "role": "次要人物",
           "first_chapter": 3,
-          "last_chapter": 24
+          "last_chapter": 24,
+          "role_en": "Minor character",
+          "title_en": "Diamonds Are Forever"
         },
         {
           "novel": "dr-no",
@@ -560,7 +688,9 @@
           "title_zh": "诺博士",
           "role": "次要人物",
           "first_chapter": "III",
-          "last_chapter": "III"
+          "last_chapter": "III",
+          "role_en": "Minor character",
+          "title_en": "Dr No"
         },
         {
           "novel": "goldfinger",
@@ -568,7 +698,9 @@
           "title_zh": "金手指",
           "role": "次要人物",
           "first_chapter": "TWELVE",
-          "last_chapter": "TWELVE"
+          "last_chapter": "TWELVE",
+          "role_en": "Minor character",
+          "title_en": "Goldfinger"
         },
         {
           "novel": "you-only-live-twice",
@@ -576,7 +708,9 @@
           "title_zh": "雷霆谷",
           "role": "次要人物",
           "first_chapter": 3,
-          "last_chapter": 3
+          "last_chapter": 3,
+          "role_en": "Minor character",
+          "title_en": "You Only Live Twice"
         },
         {
           "novel": "man-with-golden-gun",
@@ -584,7 +718,9 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 2,
-          "last_chapter": 3
+          "last_chapter": 3,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         },
         {
           "novel": "octopussy",
@@ -592,8 +728,14 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "次要人物，第2篇",
           "first_chapter": 2,
-          "last_chapter": 2
+          "last_chapter": 2,
+          "role_en": "Minor character; second story",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Minor character",
+        "Minor character; second story"
       ]
     },
     {
@@ -617,7 +759,9 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 6,
-          "last_chapter": 23
+          "last_chapter": 23,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         },
         {
           "novel": "you-only-live-twice",
@@ -625,7 +769,9 @@
           "title_zh": "雷霆谷",
           "role": "次要人物",
           "first_chapter": 2,
-          "last_chapter": 21
+          "last_chapter": 21,
+          "role_en": "Minor character",
+          "title_en": "You Only Live Twice"
         },
         {
           "novel": "man-with-golden-gun",
@@ -633,7 +779,9 @@
           "title_zh": "金枪人",
           "role": "主要人物",
           "first_chapter": 1,
-          "last_chapter": 17
+          "last_chapter": 17,
+          "role_en": "Major character",
+          "title_en": "The Man with the Golden Gun"
         },
         {
           "novel": "octopussy",
@@ -641,8 +789,15 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "次要人物，第3篇",
           "first_chapter": 3,
-          "last_chapter": 3
+          "last_chapter": 3,
+          "role_en": "Minor character; third story",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Major character",
+        "Minor character",
+        "Minor character; third story"
       ]
     },
     {
@@ -664,7 +819,9 @@
           "title_zh": "月亮牌",
           "role": "次要人物",
           "first_chapter": "I",
-          "last_chapter": "XXV"
+          "last_chapter": "XXV",
+          "role_en": "Minor character",
+          "title_en": "Moonraker"
         },
         {
           "novel": "from-russia-with-love",
@@ -672,7 +829,9 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "次要人物",
           "first_chapter": "Thirteen",
-          "last_chapter": "Thirteen"
+          "last_chapter": "Thirteen",
+          "role_en": "Minor character",
+          "title_en": "From Russia with Love"
         },
         {
           "novel": "thunderball",
@@ -680,8 +839,13 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 7,
-          "last_chapter": 7
+          "last_chapter": 7,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -700,7 +864,9 @@
           "title_zh": "诺博士",
           "role": "次要人物",
           "first_chapter": "II",
-          "last_chapter": "II"
+          "last_chapter": "II",
+          "role_en": "Minor character",
+          "title_en": "Dr No"
         },
         {
           "novel": "you-only-live-twice",
@@ -708,7 +874,9 @@
           "title_zh": "雷霆谷",
           "role": "次要人物",
           "first_chapter": 2,
-          "last_chapter": 2
+          "last_chapter": 2,
+          "role_en": "Minor character",
+          "title_en": "You Only Live Twice"
         },
         {
           "novel": "man-with-golden-gun",
@@ -716,8 +884,13 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 2,
-          "last_chapter": 4
+          "last_chapter": 4,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -744,7 +917,9 @@
           "title_zh": "霹雳弹",
           "role": "主要人物",
           "first_chapter": 5,
-          "last_chapter": 24
+          "last_chapter": 24,
+          "role_en": "Major character",
+          "title_en": "Thunderball"
         },
         {
           "novel": "on-her-majestys-secret-service",
@@ -752,7 +927,9 @@
           "title_zh": "女王密使",
           "role": "主要人物",
           "first_chapter": 2,
-          "last_chapter": 27
+          "last_chapter": 27,
+          "role_en": "Major character",
+          "title_en": "On Her Majesty's Secret Service"
         },
         {
           "novel": "you-only-live-twice",
@@ -760,8 +937,13 @@
           "title_zh": "雷霆谷",
           "role": "主要人物",
           "first_chapter": 7,
-          "last_chapter": 20
+          "last_chapter": 20,
+          "role_en": "Major character",
+          "title_en": "You Only Live Twice"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -781,7 +963,9 @@
           "title_zh": "皇家赌场",
           "role": "主要人物",
           "first_chapter": 4,
-          "last_chapter": 26
+          "last_chapter": 26,
+          "role_en": "Major character",
+          "title_en": "Casino Royale"
         },
         {
           "novel": "from-russia-with-love",
@@ -789,8 +973,14 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "次要人物",
           "first_chapter": "Four",
-          "last_chapter": "Twenty-Eight"
+          "last_chapter": "Twenty-Eight",
+          "role_en": "Minor character",
+          "title_en": "From Russia with Love"
         }
+      ],
+      "roles_en": [
+        "Major character",
+        "Minor character"
       ]
     },
     {
@@ -809,7 +999,9 @@
           "title_zh": "生死关头",
           "role": "主要人物",
           "first_chapter": "XVI",
-          "last_chapter": "XXIII"
+          "last_chapter": "XXIII",
+          "role_en": "Major character",
+          "title_en": "Live and Let Die"
         },
         {
           "novel": "dr-no",
@@ -817,8 +1009,13 @@
           "title_zh": "诺博士",
           "role": "主要人物",
           "first_chapter": "IV",
-          "last_chapter": "XII"
+          "last_chapter": "XII",
+          "role_en": "Major character",
+          "title_en": "Dr No"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -840,7 +1037,9 @@
           "title_zh": "月亮牌",
           "role": "次要人物",
           "first_chapter": "IX",
-          "last_chapter": "XXV"
+          "last_chapter": "XXV",
+          "role_en": "Minor character",
+          "title_en": "Moonraker"
         },
         {
           "novel": "diamonds-are-forever",
@@ -848,8 +1047,13 @@
           "title_zh": "金刚钻",
           "role": "次要人物",
           "first_chapter": 2,
-          "last_chapter": 3
+          "last_chapter": 3,
+          "role_en": "Minor character",
+          "title_en": "Diamonds Are Forever"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -868,7 +1072,9 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "次要人物",
           "first_chapter": "Three",
-          "last_chapter": "Three"
+          "last_chapter": "Three",
+          "role_en": "Minor character",
+          "title_en": "From Russia with Love"
         },
         {
           "novel": "man-with-golden-gun",
@@ -876,8 +1082,13 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 1,
-          "last_chapter": 1
+          "last_chapter": 1,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -903,7 +1114,9 @@
           "title_zh": "女王密使",
           "role": "主要人物",
           "first_chapter": 1,
-          "last_chapter": 27
+          "last_chapter": 27,
+          "role_en": "Major character",
+          "title_en": "On Her Majesty's Secret Service"
         },
         {
           "novel": "you-only-live-twice",
@@ -911,8 +1124,14 @@
           "title_zh": "雷霆谷",
           "role": "次要人物（已故，仅在回忆与讣告中出现）",
           "first_chapter": 2,
-          "last_chapter": 21
+          "last_chapter": 21,
+          "role_en": "Minor character (deceased; appears only in recollection and obituary)",
+          "title_en": "You Only Live Twice"
         }
+      ],
+      "roles_en": [
+        "Major character",
+        "Minor character (deceased; appears only in recollection and obituary)"
       ]
     },
     {
@@ -936,7 +1155,9 @@
           "title_zh": "女王密使",
           "role": "主要人物",
           "first_chapter": 9,
-          "last_chapter": 26
+          "last_chapter": 26,
+          "role_en": "Major character",
+          "title_en": "On Her Majesty's Secret Service"
         },
         {
           "novel": "you-only-live-twice",
@@ -944,8 +1165,13 @@
           "title_zh": "雷霆谷",
           "role": "主要人物",
           "first_chapter": 7,
-          "last_chapter": 20
+          "last_chapter": 20,
+          "role_en": "Major character",
+          "title_en": "You Only Live Twice"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -968,8 +1194,13 @@
           "title_zh": "皇家赌场",
           "role": "主要人物",
           "first_chapter": 4,
-          "last_chapter": 27
+          "last_chapter": 27,
+          "role_en": "Major character",
+          "title_en": "Casino Royale"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -992,8 +1223,13 @@
           "title_zh": "皇家赌场",
           "role": "主要人物",
           "first_chapter": 1,
-          "last_chapter": 18
+          "last_chapter": 18,
+          "role_en": "Major character",
+          "title_en": "Casino Royale"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -1012,8 +1248,13 @@
           "title_zh": "皇家赌场",
           "role": "次要人物",
           "first_chapter": 2,
-          "last_chapter": 21
+          "last_chapter": 21,
+          "role_en": "Minor character",
+          "title_en": "Casino Royale"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1032,8 +1273,13 @@
           "title_zh": "皇家赌场",
           "role": "次要人物",
           "first_chapter": null,
-          "last_chapter": null
+          "last_chapter": null,
+          "role_en": "Minor character",
+          "title_en": "Casino Royale"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1054,8 +1300,13 @@
           "title_zh": "皇家赌场",
           "role": "主要人物",
           "first_chapter": 18,
-          "last_chapter": 18
+          "last_chapter": 18,
+          "role_en": "Major character",
+          "title_en": "Casino Royale"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -1074,8 +1325,13 @@
           "title_zh": "皇家赌场",
           "role": "次要人物",
           "first_chapter": 4,
-          "last_chapter": 19
+          "last_chapter": 19,
+          "role_en": "Minor character",
+          "title_en": "Casino Royale"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1094,8 +1350,13 @@
           "title_zh": "皇家赌场",
           "role": "次要人物",
           "first_chapter": 4,
-          "last_chapter": 19
+          "last_chapter": 19,
+          "role_en": "Minor character",
+          "title_en": "Casino Royale"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1117,8 +1378,13 @@
           "title_zh": "皇家赌场",
           "role": "次要人物",
           "first_chapter": 22,
-          "last_chapter": 26
+          "last_chapter": 26,
+          "role_en": "Minor character",
+          "title_en": "Casino Royale"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1137,8 +1403,13 @@
           "title_zh": "皇家赌场",
           "role": "次要人物",
           "first_chapter": 19,
-          "last_chapter": 19
+          "last_chapter": 19,
+          "role_en": "Minor character",
+          "title_en": "Casino Royale"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1157,8 +1428,13 @@
           "title_zh": "皇家赌场",
           "role": "次要人物",
           "first_chapter": 19,
-          "last_chapter": 19
+          "last_chapter": 19,
+          "role_en": "Minor character",
+          "title_en": "Casino Royale"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1177,8 +1453,13 @@
           "title_zh": "皇家赌场",
           "role": "次要人物",
           "first_chapter": 22,
-          "last_chapter": 27
+          "last_chapter": 27,
+          "role_en": "Minor character",
+          "title_en": "Casino Royale"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1197,8 +1478,13 @@
           "title_zh": "皇家赌场",
           "role": "次要人物",
           "first_chapter": 22,
-          "last_chapter": 26
+          "last_chapter": 26,
+          "role_en": "Minor character",
+          "title_en": "Casino Royale"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1217,8 +1503,13 @@
           "title_zh": "皇家赌场",
           "role": "次要人物",
           "first_chapter": 1,
-          "last_chapter": 1
+          "last_chapter": 1,
+          "role_en": "Minor character",
+          "title_en": "Casino Royale"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1240,8 +1531,13 @@
           "title_zh": "皇家赌场",
           "role": "次要人物",
           "first_chapter": 11,
-          "last_chapter": 19
+          "last_chapter": 19,
+          "role_en": "Minor character",
+          "title_en": "Casino Royale"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1263,8 +1559,13 @@
           "title_zh": "皇家赌场",
           "role": "次要人物",
           "first_chapter": 11,
-          "last_chapter": 19
+          "last_chapter": 19,
+          "role_en": "Minor character",
+          "title_en": "Casino Royale"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1287,8 +1588,13 @@
           "title_zh": "生死关头",
           "role": "主要人物",
           "first_chapter": "I",
-          "last_chapter": "XXII"
+          "last_chapter": "XXII",
+          "role_en": "Major character",
+          "title_en": "Live and Let Die"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -1311,7 +1617,9 @@
           "title_zh": "生死关头",
           "role": "主要人物",
           "first_chapter": "VII",
-          "last_chapter": "XXIII"
+          "last_chapter": "XXIII",
+          "role_en": "Major character",
+          "title_en": "Live and Let Die"
         },
         {
           "novel": "dr-no",
@@ -1319,8 +1627,14 @@
           "title_zh": "诺博士",
           "role": "次要人物",
           "first_chapter": "VII",
-          "last_chapter": "VII"
+          "last_chapter": "VII",
+          "role_en": "Minor character",
+          "title_en": "Dr No"
         }
+      ],
+      "roles_en": [
+        "Major character",
+        "Minor character"
       ]
     },
     {
@@ -1339,8 +1653,13 @@
           "title_zh": "生死关头",
           "role": "次要人物",
           "first_chapter": "I",
-          "last_chapter": "IV"
+          "last_chapter": "IV",
+          "role_en": "Minor character",
+          "title_en": "Live and Let Die"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1359,8 +1678,13 @@
           "title_zh": "生死关头",
           "role": "次要人物",
           "first_chapter": "I",
-          "last_chapter": "I"
+          "last_chapter": "I",
+          "role_en": "Minor character",
+          "title_en": "Live and Let Die"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1382,7 +1706,9 @@
           "title_zh": "生死关头",
           "role": "主要人物",
           "first_chapter": "XVI",
-          "last_chapter": "XXIII"
+          "last_chapter": "XXIII",
+          "role_en": "Major character",
+          "title_en": "Live and Let Die"
         },
         {
           "novel": "dr-no",
@@ -1390,8 +1716,14 @@
           "title_zh": "诺博士",
           "role": "次要人物",
           "first_chapter": "I",
-          "last_chapter": "XV"
+          "last_chapter": "XV",
+          "role_en": "Minor character",
+          "title_en": "Dr No"
         }
+      ],
+      "roles_en": [
+        "Major character",
+        "Minor character"
       ]
     },
     {
@@ -1412,8 +1744,13 @@
           "title_zh": "生死关头",
           "role": "次要人物",
           "first_chapter": "VI",
-          "last_chapter": "IX"
+          "last_chapter": "IX",
+          "role_en": "Minor character",
+          "title_en": "Live and Let Die"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1434,8 +1771,13 @@
           "title_zh": "生死关头",
           "role": "次要人物",
           "first_chapter": "V",
-          "last_chapter": "IX"
+          "last_chapter": "IX",
+          "role_en": "Minor character",
+          "title_en": "Live and Let Die"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1456,8 +1798,13 @@
           "title_zh": "生死关头",
           "role": "次要人物",
           "first_chapter": "V",
-          "last_chapter": "IX"
+          "last_chapter": "IX",
+          "role_en": "Minor character",
+          "title_en": "Live and Let Die"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1476,8 +1823,13 @@
           "title_zh": "生死关头",
           "role": "次要人物",
           "first_chapter": "V",
-          "last_chapter": "IX"
+          "last_chapter": "IX",
+          "role_en": "Minor character",
+          "title_en": "Live and Let Die"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1496,8 +1848,13 @@
           "title_zh": "生死关头",
           "role": "次要人物",
           "first_chapter": "IV",
-          "last_chapter": "IX"
+          "last_chapter": "IX",
+          "role_en": "Minor character",
+          "title_en": "Live and Let Die"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1516,8 +1873,13 @@
           "title_zh": "生死关头",
           "role": "次要人物",
           "first_chapter": "X",
-          "last_chapter": "XV"
+          "last_chapter": "XV",
+          "role_en": "Minor character",
+          "title_en": "Live and Let Die"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1536,8 +1898,13 @@
           "title_zh": "生死关头",
           "role": "次要人物",
           "first_chapter": "V",
-          "last_chapter": "IX"
+          "last_chapter": "IX",
+          "role_en": "Minor character",
+          "title_en": "Live and Let Die"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1558,8 +1925,13 @@
           "title_zh": "生死关头",
           "role": "次要人物",
           "first_chapter": "X",
-          "last_chapter": "XIII"
+          "last_chapter": "XIII",
+          "role_en": "Minor character",
+          "title_en": "Live and Let Die"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1580,8 +1952,13 @@
           "title_zh": "生死关头",
           "role": "次要人物",
           "first_chapter": "V",
-          "last_chapter": "VI"
+          "last_chapter": "VI",
+          "role_en": "Minor character",
+          "title_en": "Live and Let Die"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1600,8 +1977,13 @@
           "title_zh": "生死关头",
           "role": "次要人物",
           "first_chapter": "IV",
-          "last_chapter": "XIII"
+          "last_chapter": "XIII",
+          "role_en": "Minor character",
+          "title_en": "Live and Let Die"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1620,8 +2002,13 @@
           "title_zh": "生死关头",
           "role": "次要人物",
           "first_chapter": "XII",
-          "last_chapter": "XII"
+          "last_chapter": "XII",
+          "role_en": "Minor character",
+          "title_en": "Live and Let Die"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1640,8 +2027,13 @@
           "title_zh": "生死关头",
           "role": "次要人物",
           "first_chapter": "IV",
-          "last_chapter": "IV"
+          "last_chapter": "IV",
+          "role_en": "Minor character",
+          "title_en": "Live and Let Die"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1660,8 +2052,13 @@
           "title_zh": "生死关头",
           "role": "次要人物",
           "first_chapter": "II",
-          "last_chapter": "II"
+          "last_chapter": "II",
+          "role_en": "Minor character",
+          "title_en": "Live and Let Die"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1682,8 +2079,13 @@
           "title_zh": "生死关头",
           "role": "次要人物",
           "first_chapter": "II",
-          "last_chapter": "XXII"
+          "last_chapter": "XXII",
+          "role_en": "Minor character",
+          "title_en": "Live and Let Die"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1706,8 +2108,13 @@
           "title_zh": "月亮牌",
           "role": "主要反派",
           "first_chapter": "II",
-          "last_chapter": "XXIV"
+          "last_chapter": "XXIV",
+          "role_en": "Main villain",
+          "title_en": "Moonraker"
         }
+      ],
+      "roles_en": [
+        "Main villain"
       ]
     },
     {
@@ -1730,8 +2137,13 @@
           "title_zh": "月亮牌",
           "role": "主要人物",
           "first_chapter": "IX",
-          "last_chapter": "XXV"
+          "last_chapter": "XXV",
+          "role_en": "Major character",
+          "title_en": "Moonraker"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -1750,8 +2162,13 @@
           "title_zh": "月亮牌",
           "role": "次要人物",
           "first_chapter": "III",
-          "last_chapter": "VII"
+          "last_chapter": "VII",
+          "role_en": "Minor character",
+          "title_en": "Moonraker"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1772,8 +2189,13 @@
           "title_zh": "月亮牌",
           "role": "次要人物",
           "first_chapter": "IV",
-          "last_chapter": "VII"
+          "last_chapter": "VII",
+          "role_en": "Minor character",
+          "title_en": "Moonraker"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1794,8 +2216,13 @@
           "title_zh": "月亮牌",
           "role": "次要人物",
           "first_chapter": "IV",
-          "last_chapter": "VII"
+          "last_chapter": "VII",
+          "role_en": "Minor character",
+          "title_en": "Moonraker"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1817,8 +2244,13 @@
           "title_zh": "月亮牌",
           "role": "次要人物",
           "first_chapter": "XI",
-          "last_chapter": "XXIV"
+          "last_chapter": "XXIV",
+          "role_en": "Minor character",
+          "title_en": "Moonraker"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1839,8 +2271,13 @@
           "title_zh": "月亮牌",
           "role": "次要人物",
           "first_chapter": "XI",
-          "last_chapter": "XXIV"
+          "last_chapter": "XXIV",
+          "role_en": "Minor character",
+          "title_en": "Moonraker"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1859,8 +2296,13 @@
           "title_zh": "月亮牌",
           "role": "次要人物",
           "first_chapter": "IX",
-          "last_chapter": "XIII"
+          "last_chapter": "XIII",
+          "role_en": "Minor character",
+          "title_en": "Moonraker"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1879,8 +2321,13 @@
           "title_zh": "月亮牌",
           "role": "次要人物",
           "first_chapter": "IX",
-          "last_chapter": "IX"
+          "last_chapter": "IX",
+          "role_en": "Minor character",
+          "title_en": "Moonraker"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1899,8 +2346,13 @@
           "title_zh": "月亮牌",
           "role": "次要人物",
           "first_chapter": "X",
-          "last_chapter": "X"
+          "last_chapter": "X",
+          "role_en": "Minor character",
+          "title_en": "Moonraker"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1919,8 +2371,13 @@
           "title_zh": "月亮牌",
           "role": "次要人物",
           "first_chapter": "IV",
-          "last_chapter": "XIX"
+          "last_chapter": "XIX",
+          "role_en": "Minor character",
+          "title_en": "Moonraker"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1939,8 +2396,13 @@
           "title_zh": "月亮牌",
           "role": "次要人物",
           "first_chapter": "XXV",
-          "last_chapter": "XXV"
+          "last_chapter": "XXV",
+          "role_en": "Minor character",
+          "title_en": "Moonraker"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1959,8 +2421,13 @@
           "title_zh": "月亮牌",
           "role": "次要人物",
           "first_chapter": "I",
-          "last_chapter": "I"
+          "last_chapter": "I",
+          "role_en": "Minor character",
+          "title_en": "Moonraker"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -1982,8 +2449,13 @@
           "title_zh": "金刚钻",
           "role": "主要人物",
           "first_chapter": 3,
-          "last_chapter": 25
+          "last_chapter": 25,
+          "role_en": "Major character",
+          "title_en": "Diamonds Are Forever"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -2005,8 +2477,13 @@
           "title_zh": "金刚钻",
           "role": "主要反派",
           "first_chapter": 2,
-          "last_chapter": 25
+          "last_chapter": 25,
+          "role_en": "Main villain",
+          "title_en": "Diamonds Are Forever"
         }
+      ],
+      "roles_en": [
+        "Main villain"
       ]
     },
     {
@@ -2027,8 +2504,13 @@
           "title_zh": "金刚钻",
           "role": "主要反派",
           "first_chapter": 6,
-          "last_chapter": 20
+          "last_chapter": 20,
+          "role_en": "Main villain",
+          "title_en": "Diamonds Are Forever"
         }
+      ],
+      "roles_en": [
+        "Main villain"
       ]
     },
     {
@@ -2050,8 +2532,13 @@
           "title_zh": "金刚钻",
           "role": "次要人物",
           "first_chapter": 5,
-          "last_chapter": 14
+          "last_chapter": 14,
+          "role_en": "Minor character",
+          "title_en": "Diamonds Are Forever"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2073,8 +2560,13 @@
           "title_zh": "金刚钻",
           "role": "次要人物",
           "first_chapter": 6,
-          "last_chapter": 24
+          "last_chapter": 24,
+          "role_en": "Minor character",
+          "title_en": "Diamonds Are Forever"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2096,8 +2588,13 @@
           "title_zh": "金刚钻",
           "role": "次要人物",
           "first_chapter": 6,
-          "last_chapter": 24
+          "last_chapter": 24,
+          "role_en": "Minor character",
+          "title_en": "Diamonds Are Forever"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2116,8 +2613,13 @@
           "title_zh": "金刚钻",
           "role": "次要人物",
           "first_chapter": 3,
-          "last_chapter": 19
+          "last_chapter": 19,
+          "role_en": "Minor character",
+          "title_en": "Diamonds Are Forever"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2138,8 +2640,13 @@
           "title_zh": "金刚钻",
           "role": "次要人物",
           "first_chapter": 15,
-          "last_chapter": 21
+          "last_chapter": 21,
+          "role_en": "Minor character",
+          "title_en": "Diamonds Are Forever"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2160,8 +2667,13 @@
           "title_zh": "金刚钻",
           "role": "次要人物",
           "first_chapter": 11,
-          "last_chapter": 13
+          "last_chapter": 13,
+          "role_en": "Minor character",
+          "title_en": "Diamonds Are Forever"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2182,8 +2694,13 @@
           "title_zh": "金刚钻",
           "role": "次要人物",
           "first_chapter": 11,
-          "last_chapter": 12
+          "last_chapter": 12,
+          "role_en": "Minor character",
+          "title_en": "Diamonds Are Forever"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2204,8 +2721,13 @@
           "title_zh": "金刚钻",
           "role": "次要人物",
           "first_chapter": 12,
-          "last_chapter": 12
+          "last_chapter": 12,
+          "role_en": "Minor character",
+          "title_en": "Diamonds Are Forever"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2224,8 +2746,13 @@
           "title_zh": "金刚钻",
           "role": "次要人物",
           "first_chapter": 18,
-          "last_chapter": 19
+          "last_chapter": 19,
+          "role_en": "Minor character",
+          "title_en": "Diamonds Are Forever"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2244,8 +2771,13 @@
           "title_zh": "金刚钻",
           "role": "次要人物",
           "first_chapter": 18,
-          "last_chapter": 19
+          "last_chapter": 19,
+          "role_en": "Minor character",
+          "title_en": "Diamonds Are Forever"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2264,8 +2796,13 @@
           "title_zh": "金刚钻",
           "role": "次要人物",
           "first_chapter": 1,
-          "last_chapter": 2
+          "last_chapter": 2,
+          "role_en": "Minor character",
+          "title_en": "Diamonds Are Forever"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2284,8 +2821,13 @@
           "title_zh": "金刚钻",
           "role": "次要人物",
           "first_chapter": 3,
-          "last_chapter": 4
+          "last_chapter": 4,
+          "role_en": "Minor character",
+          "title_en": "Diamonds Are Forever"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2304,8 +2846,13 @@
           "title_zh": "金刚钻",
           "role": "次要人物",
           "first_chapter": 3,
-          "last_chapter": 3
+          "last_chapter": 3,
+          "role_en": "Minor character",
+          "title_en": "Diamonds Are Forever"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2324,8 +2871,13 @@
           "title_zh": "金刚钻",
           "role": "次要人物",
           "first_chapter": 1,
-          "last_chapter": 25
+          "last_chapter": 25,
+          "role_en": "Minor character",
+          "title_en": "Diamonds Are Forever"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2344,8 +2896,13 @@
           "title_zh": "金刚钻",
           "role": "次要人物",
           "first_chapter": 1,
-          "last_chapter": 1
+          "last_chapter": 1,
+          "role_en": "Minor character",
+          "title_en": "Diamonds Are Forever"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2369,8 +2926,13 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "主要人物",
           "first_chapter": "Eight",
-          "last_chapter": "Twenty-Eight"
+          "last_chapter": "Twenty-Eight",
+          "role_en": "Major character",
+          "title_en": "From Russia with Love"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -2392,8 +2954,13 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "主要人物",
           "first_chapter": "Four",
-          "last_chapter": "Twenty-Eight"
+          "last_chapter": "Twenty-Eight",
+          "role_en": "Major character",
+          "title_en": "From Russia with Love"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -2421,8 +2988,13 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "主要人物",
           "first_chapter": "One",
-          "last_chapter": "Twenty-Seven"
+          "last_chapter": "Twenty-Seven",
+          "role_en": "Major character",
+          "title_en": "From Russia with Love"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -2444,8 +3016,13 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "主要人物",
           "first_chapter": "Four",
-          "last_chapter": "Ten"
+          "last_chapter": "Ten",
+          "role_en": "Major character",
+          "title_en": "From Russia with Love"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -2467,8 +3044,13 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "主要人物",
           "first_chapter": "Four",
-          "last_chapter": "Seven"
+          "last_chapter": "Seven",
+          "role_en": "Major character",
+          "title_en": "From Russia with Love"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -2490,8 +3072,13 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "主要人物",
           "first_chapter": "Twelve",
-          "last_chapter": "Twenty-Three"
+          "last_chapter": "Twenty-Three",
+          "role_en": "Major character",
+          "title_en": "From Russia with Love"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -2510,8 +3097,13 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "次要人物",
           "first_chapter": "Four",
-          "last_chapter": "Six"
+          "last_chapter": "Six",
+          "role_en": "Minor character",
+          "title_en": "From Russia with Love"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2530,8 +3122,13 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "次要人物",
           "first_chapter": "Four",
-          "last_chapter": "Six"
+          "last_chapter": "Six",
+          "role_en": "Minor character",
+          "title_en": "From Russia with Love"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2550,8 +3147,13 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "次要人物",
           "first_chapter": "Four",
-          "last_chapter": "Six"
+          "last_chapter": "Six",
+          "role_en": "Minor character",
+          "title_en": "From Russia with Love"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2570,8 +3172,13 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "次要人物",
           "first_chapter": "Four",
-          "last_chapter": "Six"
+          "last_chapter": "Six",
+          "role_en": "Minor character",
+          "title_en": "From Russia with Love"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2590,8 +3197,13 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "次要人物",
           "first_chapter": "Eleven",
-          "last_chapter": "Eleven"
+          "last_chapter": "Eleven",
+          "role_en": "Minor character",
+          "title_en": "From Russia with Love"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2613,8 +3225,13 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "次要人物",
           "first_chapter": "Twenty-Four",
-          "last_chapter": "Twenty-Four"
+          "last_chapter": "Twenty-Four",
+          "role_en": "Minor character",
+          "title_en": "From Russia with Love"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2633,8 +3250,13 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "次要人物",
           "first_chapter": "Seventeen",
-          "last_chapter": "Eighteen"
+          "last_chapter": "Eighteen",
+          "role_en": "Minor character",
+          "title_en": "From Russia with Love"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2653,8 +3275,13 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "次要人物",
           "first_chapter": "Seventeen",
-          "last_chapter": "Nineteen"
+          "last_chapter": "Nineteen",
+          "role_en": "Minor character",
+          "title_en": "From Russia with Love"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2673,8 +3300,13 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "次要人物",
           "first_chapter": "Eighteen",
-          "last_chapter": "Eighteen"
+          "last_chapter": "Eighteen",
+          "role_en": "Minor character",
+          "title_en": "From Russia with Love"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2693,8 +3325,13 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "次要人物",
           "first_chapter": "Eighteen",
-          "last_chapter": "Eighteen"
+          "last_chapter": "Eighteen",
+          "role_en": "Minor character",
+          "title_en": "From Russia with Love"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2713,8 +3350,13 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "次要人物",
           "first_chapter": "Sixteen",
-          "last_chapter": "Twenty-Three"
+          "last_chapter": "Twenty-Three",
+          "role_en": "Minor character",
+          "title_en": "From Russia with Love"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2733,8 +3375,13 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "次要人物",
           "first_chapter": "Sixteen",
-          "last_chapter": "Twenty-Two"
+          "last_chapter": "Twenty-Two",
+          "role_en": "Minor character",
+          "title_en": "From Russia with Love"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2753,8 +3400,13 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "次要人物",
           "first_chapter": "Eight",
-          "last_chapter": "Eight"
+          "last_chapter": "Eight",
+          "role_en": "Minor character",
+          "title_en": "From Russia with Love"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2773,8 +3425,13 @@
           "title_zh": "来自俄罗斯的爱情",
           "role": "次要人物",
           "first_chapter": "Seven",
-          "last_chapter": "Seven"
+          "last_chapter": "Seven",
+          "role_en": "Minor character",
+          "title_en": "From Russia with Love"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2796,8 +3453,13 @@
           "title_zh": "诺博士",
           "role": "主要人物",
           "first_chapter": "VIII",
-          "last_chapter": "XX"
+          "last_chapter": "XX",
+          "role_en": "Major character",
+          "title_en": "Dr No"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -2819,8 +3481,13 @@
           "title_zh": "诺博士",
           "role": "主要人物",
           "first_chapter": "III",
-          "last_chapter": "XIX"
+          "last_chapter": "XIX",
+          "role_en": "Major character",
+          "title_en": "Dr No"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -2842,8 +3509,13 @@
           "title_zh": "诺博士",
           "role": "次要人物",
           "first_chapter": "II",
-          "last_chapter": "XX"
+          "last_chapter": "XX",
+          "role_en": "Minor character",
+          "title_en": "Dr No"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2862,8 +3534,13 @@
           "title_zh": "诺博士",
           "role": "次要人物",
           "first_chapter": "I",
-          "last_chapter": "XV"
+          "last_chapter": "XV",
+          "role_en": "Minor character",
+          "title_en": "Dr No"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2882,8 +3559,13 @@
           "title_zh": "诺博士",
           "role": "次要人物",
           "first_chapter": "V",
-          "last_chapter": "XX"
+          "last_chapter": "XX",
+          "role_en": "Minor character",
+          "title_en": "Dr No"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2902,8 +3584,13 @@
           "title_zh": "诺博士",
           "role": "次要人物",
           "first_chapter": "V",
-          "last_chapter": "XX"
+          "last_chapter": "XX",
+          "role_en": "Minor character",
+          "title_en": "Dr No"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2922,8 +3609,13 @@
           "title_zh": "诺博士",
           "role": "次要人物",
           "first_chapter": "V",
-          "last_chapter": "XV"
+          "last_chapter": "XV",
+          "role_en": "Minor character",
+          "title_en": "Dr No"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2942,8 +3634,13 @@
           "title_zh": "诺博士",
           "role": "次要人物",
           "first_chapter": "IV",
-          "last_chapter": "XV"
+          "last_chapter": "XV",
+          "role_en": "Minor character",
+          "title_en": "Dr No"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2962,8 +3659,13 @@
           "title_zh": "诺博士",
           "role": "次要人物",
           "first_chapter": "IV",
-          "last_chapter": "IV"
+          "last_chapter": "IV",
+          "role_en": "Minor character",
+          "title_en": "Dr No"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -2982,8 +3684,13 @@
           "title_zh": "诺博士",
           "role": "次要人物",
           "first_chapter": "XIII",
-          "last_chapter": "XIII"
+          "last_chapter": "XIII",
+          "role_en": "Minor character",
+          "title_en": "Dr No"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3002,8 +3709,13 @@
           "title_zh": "诺博士",
           "role": "次要人物",
           "first_chapter": "XIII",
-          "last_chapter": "XIII"
+          "last_chapter": "XIII",
+          "role_en": "Minor character",
+          "title_en": "Dr No"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3022,8 +3734,13 @@
           "title_zh": "诺博士",
           "role": "次要人物",
           "first_chapter": "XIV",
-          "last_chapter": "XVI"
+          "last_chapter": "XVI",
+          "role_en": "Minor character",
+          "title_en": "Dr No"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3042,8 +3759,13 @@
           "title_zh": "诺博士",
           "role": "次要人物",
           "first_chapter": "III",
-          "last_chapter": "III"
+          "last_chapter": "III",
+          "role_en": "Minor character",
+          "title_en": "Dr No"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3062,8 +3784,13 @@
           "title_zh": "诺博士",
           "role": "次要人物",
           "first_chapter": "I",
-          "last_chapter": "XX"
+          "last_chapter": "XX",
+          "role_en": "Minor character",
+          "title_en": "Dr No"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3082,8 +3809,13 @@
           "title_zh": "诺博士",
           "role": "次要人物",
           "first_chapter": "XI",
-          "last_chapter": "XI"
+          "last_chapter": "XI",
+          "role_en": "Minor character",
+          "title_en": "Dr No"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3105,8 +3837,13 @@
           "title_zh": "金手指",
           "role": "主要人物",
           "first_chapter": "TWO",
-          "last_chapter": "TWENTY-THREE"
+          "last_chapter": "TWENTY-THREE",
+          "role_en": "Major character",
+          "title_en": "Goldfinger"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -3129,8 +3866,13 @@
           "title_zh": "金手指",
           "role": "主要人物",
           "first_chapter": "SEVEN",
-          "last_chapter": "TWENTY-THREE"
+          "last_chapter": "TWENTY-THREE",
+          "role_en": "Major character",
+          "title_en": "Goldfinger"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -3149,8 +3891,13 @@
           "title_zh": "金手指",
           "role": "主要人物",
           "first_chapter": "FOUR",
-          "last_chapter": "FOURTEEN"
+          "last_chapter": "FOURTEEN",
+          "role_en": "Major character",
+          "title_en": "Goldfinger"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -3172,8 +3919,13 @@
           "title_zh": "金手指",
           "role": "主要人物",
           "first_chapter": "TWELVE",
-          "last_chapter": "TWENTY-ONE"
+          "last_chapter": "TWENTY-ONE",
+          "role_en": "Major character",
+          "title_en": "Goldfinger"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -3195,8 +3947,13 @@
           "title_zh": "金手指",
           "role": "主要人物",
           "first_chapter": "SEVENTEEN",
-          "last_chapter": "TWENTY-THREE"
+          "last_chapter": "TWENTY-THREE",
+          "role_en": "Major character",
+          "title_en": "Goldfinger"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -3215,8 +3972,13 @@
           "title_zh": "金手指",
           "role": "次要人物",
           "first_chapter": "ONE",
-          "last_chapter": "TWELVE"
+          "last_chapter": "TWELVE",
+          "role_en": "Minor character",
+          "title_en": "Goldfinger"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3235,8 +3997,13 @@
           "title_zh": "金手指",
           "role": "次要人物",
           "first_chapter": "SIX",
-          "last_chapter": "SEVEN"
+          "last_chapter": "SEVEN",
+          "role_en": "Minor character",
+          "title_en": "Goldfinger"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3255,8 +4022,13 @@
           "title_zh": "金手指",
           "role": "次要人物",
           "first_chapter": "SEVEN",
-          "last_chapter": "NINE"
+          "last_chapter": "NINE",
+          "role_en": "Minor character",
+          "title_en": "Goldfinger"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3275,8 +4047,13 @@
           "title_zh": "金手指",
           "role": "次要人物",
           "first_chapter": "EIGHT",
-          "last_chapter": "NINE"
+          "last_chapter": "NINE",
+          "role_en": "Minor character",
+          "title_en": "Goldfinger"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3295,8 +4072,13 @@
           "title_zh": "金手指",
           "role": "次要人物",
           "first_chapter": "EIGHT",
-          "last_chapter": "NINE"
+          "last_chapter": "NINE",
+          "role_en": "Minor character",
+          "title_en": "Goldfinger"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3318,8 +4100,13 @@
           "title_zh": "金手指",
           "role": "次要人物",
           "first_chapter": "SEVENTEEN",
-          "last_chapter": "NINETEEN"
+          "last_chapter": "NINETEEN",
+          "role_en": "Minor character",
+          "title_en": "Goldfinger"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3338,8 +4125,13 @@
           "title_zh": "金手指",
           "role": "次要人物",
           "first_chapter": "SEVENTEEN",
-          "last_chapter": "TWENTY-ONE"
+          "last_chapter": "TWENTY-ONE",
+          "role_en": "Minor character",
+          "title_en": "Goldfinger"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3360,8 +4152,13 @@
           "title_zh": "金手指",
           "role": "次要人物",
           "first_chapter": "SEVENTEEN",
-          "last_chapter": "TWENTY-ONE"
+          "last_chapter": "TWENTY-ONE",
+          "role_en": "Minor character",
+          "title_en": "Goldfinger"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3380,8 +4177,13 @@
           "title_zh": "金手指",
           "role": "次要人物",
           "first_chapter": "SEVENTEEN",
-          "last_chapter": "TWENTY-ONE"
+          "last_chapter": "TWENTY-ONE",
+          "role_en": "Minor character",
+          "title_en": "Goldfinger"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3400,8 +4202,13 @@
           "title_zh": "金手指",
           "role": "次要人物",
           "first_chapter": "SEVENTEEN",
-          "last_chapter": "TWENTY-ONE"
+          "last_chapter": "TWENTY-ONE",
+          "role_en": "Minor character",
+          "title_en": "Goldfinger"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3420,8 +4227,13 @@
           "title_zh": "金手指",
           "role": "次要人物",
           "first_chapter": "NINETEEN",
-          "last_chapter": "NINETEEN"
+          "last_chapter": "NINETEEN",
+          "role_en": "Minor character",
+          "title_en": "Goldfinger"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3440,8 +4252,13 @@
           "title_zh": "金手指",
           "role": "次要人物",
           "first_chapter": "TWELVE",
-          "last_chapter": "TWELVE"
+          "last_chapter": "TWELVE",
+          "role_en": "Minor character",
+          "title_en": "Goldfinger"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3460,8 +4277,13 @@
           "title_zh": "金手指",
           "role": "次要人物",
           "first_chapter": "ONE",
-          "last_chapter": "ONE"
+          "last_chapter": "ONE",
+          "role_en": "Minor character",
+          "title_en": "Goldfinger"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3480,8 +4302,13 @@
           "title_zh": "金手指",
           "role": "次要人物",
           "first_chapter": "ONE",
-          "last_chapter": "ONE"
+          "last_chapter": "ONE",
+          "role_en": "Minor character",
+          "title_en": "Goldfinger"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3502,8 +4329,13 @@
           "title_zh": "金手指",
           "role": "次要人物",
           "first_chapter": "FIVE",
-          "last_chapter": "FIVE"
+          "last_chapter": "FIVE",
+          "role_en": "Minor character",
+          "title_en": "Goldfinger"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3524,8 +4356,13 @@
           "title_zh": "只为你的双眼",
           "role": "次要人物",
           "first_chapter": 1,
-          "last_chapter": 1
+          "last_chapter": 1,
+          "role_en": "Minor character",
+          "title_en": "For Your Eyes Only"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3546,8 +4383,13 @@
           "title_zh": "只为你的双眼",
           "role": "次要人物",
           "first_chapter": 1,
-          "last_chapter": 1
+          "last_chapter": 1,
+          "role_en": "Minor character",
+          "title_en": "For Your Eyes Only"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3566,8 +4408,13 @@
           "title_zh": "只为你的双眼",
           "role": "次要人物",
           "first_chapter": 1,
-          "last_chapter": 1
+          "last_chapter": 1,
+          "role_en": "Minor character",
+          "title_en": "For Your Eyes Only"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3586,8 +4433,13 @@
           "title_zh": "只为你的双眼",
           "role": "次要人物(受害者)",
           "first_chapter": 1,
-          "last_chapter": 1
+          "last_chapter": 1,
+          "role_en": "Minor character (victim)",
+          "title_en": "For Your Eyes Only"
         }
+      ],
+      "roles_en": [
+        "Minor character (victim)"
       ]
     },
     {
@@ -3606,8 +4458,13 @@
           "title_zh": "只为你的双眼",
           "role": "反派",
           "first_chapter": 1,
-          "last_chapter": 1
+          "last_chapter": 1,
+          "role_en": "Villain",
+          "title_en": "For Your Eyes Only"
         }
+      ],
+      "roles_en": [
+        "Villain"
       ]
     },
     {
@@ -3629,8 +4486,13 @@
           "title_zh": "只为你的双眼",
           "role": "次要人物(受害者)",
           "first_chapter": 2,
-          "last_chapter": 2
+          "last_chapter": 2,
+          "role_en": "Minor character (victim)",
+          "title_en": "For Your Eyes Only"
         }
+      ],
+      "roles_en": [
+        "Minor character (victim)"
       ]
     },
     {
@@ -3649,8 +4511,13 @@
           "title_zh": "只为你的双眼",
           "role": "次要人物(受害者)",
           "first_chapter": 2,
-          "last_chapter": 2
+          "last_chapter": 2,
+          "role_en": "Minor character (victim)",
+          "title_en": "For Your Eyes Only"
         }
+      ],
+      "roles_en": [
+        "Minor character (victim)"
       ]
     },
     {
@@ -3671,8 +4538,13 @@
           "title_zh": "只为你的双眼",
           "role": "主要人物",
           "first_chapter": 2,
-          "last_chapter": 2
+          "last_chapter": 2,
+          "role_en": "Major character",
+          "title_en": "For Your Eyes Only"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -3693,8 +4565,13 @@
           "title_zh": "只为你的双眼",
           "role": "反派",
           "first_chapter": 2,
-          "last_chapter": 2
+          "last_chapter": 2,
+          "role_en": "Villain",
+          "title_en": "For Your Eyes Only"
         }
+      ],
+      "roles_en": [
+        "Villain"
       ]
     },
     {
@@ -3713,8 +4590,13 @@
           "title_zh": "只为你的双眼",
           "role": "反派",
           "first_chapter": 2,
-          "last_chapter": 2
+          "last_chapter": 2,
+          "role_en": "Villain",
+          "title_en": "For Your Eyes Only"
         }
+      ],
+      "roles_en": [
+        "Villain"
       ]
     },
     {
@@ -3735,8 +4617,13 @@
           "title_zh": "只为你的双眼",
           "role": "次要人物",
           "first_chapter": 2,
-          "last_chapter": 2
+          "last_chapter": 2,
+          "role_en": "Minor character",
+          "title_en": "For Your Eyes Only"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3755,8 +4642,13 @@
           "title_zh": "只为你的双眼",
           "role": "次要人物(讲述者)",
           "first_chapter": 3,
-          "last_chapter": 3
+          "last_chapter": 3,
+          "role_en": "Minor character (storyteller)",
+          "title_en": "For Your Eyes Only"
         }
+      ],
+      "roles_en": [
+        "Minor character (storyteller)"
       ]
     },
     {
@@ -3777,8 +4669,13 @@
           "title_zh": "只为你的双眼",
           "role": "主要人物(第3篇主角)",
           "first_chapter": 3,
-          "last_chapter": 3
+          "last_chapter": 3,
+          "role_en": "Major character (protagonist of the third story)",
+          "title_en": "For Your Eyes Only"
         }
+      ],
+      "roles_en": [
+        "Major character (protagonist of the third story)"
       ]
     },
     {
@@ -3800,8 +4697,13 @@
           "title_zh": "只为你的双眼",
           "role": "主要人物(第3篇主角)",
           "first_chapter": 3,
-          "last_chapter": 3
+          "last_chapter": 3,
+          "role_en": "Major character (protagonist of the third story)",
+          "title_en": "For Your Eyes Only"
         }
+      ],
+      "roles_en": [
+        "Major character (protagonist of the third story)"
       ]
     },
     {
@@ -3822,8 +4724,13 @@
           "title_zh": "只为你的双眼",
           "role": "次要人物",
           "first_chapter": 3,
-          "last_chapter": 3
+          "last_chapter": 3,
+          "role_en": "Minor character",
+          "title_en": "For Your Eyes Only"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3842,8 +4749,13 @@
           "title_zh": "只为你的双眼",
           "role": "次要人物",
           "first_chapter": 3,
-          "last_chapter": 3
+          "last_chapter": 3,
+          "role_en": "Minor character",
+          "title_en": "For Your Eyes Only"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3864,8 +4776,13 @@
           "title_zh": "只为你的双眼",
           "role": "反派",
           "first_chapter": 4,
-          "last_chapter": 4
+          "last_chapter": 4,
+          "role_en": "Villain",
+          "title_en": "For Your Eyes Only"
         }
+      ],
+      "roles_en": [
+        "Villain"
       ]
     },
     {
@@ -3887,8 +4804,13 @@
           "title_zh": "只为你的双眼",
           "role": "主要人物",
           "first_chapter": 4,
-          "last_chapter": 4
+          "last_chapter": 4,
+          "role_en": "Major character",
+          "title_en": "For Your Eyes Only"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -3909,8 +4831,13 @@
           "title_zh": "只为你的双眼",
           "role": "次要人物",
           "first_chapter": 4,
-          "last_chapter": 4
+          "last_chapter": 4,
+          "role_en": "Minor character",
+          "title_en": "For Your Eyes Only"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -3932,8 +4859,13 @@
           "title_zh": "只为你的双眼",
           "role": "反派",
           "first_chapter": 5,
-          "last_chapter": 5
+          "last_chapter": 5,
+          "role_en": "Villain",
+          "title_en": "For Your Eyes Only"
         }
+      ],
+      "roles_en": [
+        "Villain"
       ]
     },
     {
@@ -3957,8 +4889,13 @@
           "title_zh": "只为你的双眼",
           "role": "主要人物",
           "first_chapter": 5,
-          "last_chapter": 5
+          "last_chapter": 5,
+          "role_en": "Major character",
+          "title_en": "For Your Eyes Only"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -3980,8 +4917,13 @@
           "title_zh": "只为你的双眼",
           "role": "次要人物",
           "first_chapter": 5,
-          "last_chapter": 5
+          "last_chapter": 5,
+          "role_en": "Minor character",
+          "title_en": "For Your Eyes Only"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4000,8 +4942,13 @@
           "title_zh": "只为你的双眼",
           "role": "次要人物(仅提及)",
           "first_chapter": 5,
-          "last_chapter": 5
+          "last_chapter": 5,
+          "role_en": "Minor character (mentioned only)",
+          "title_en": "For Your Eyes Only"
         }
+      ],
+      "roles_en": [
+        "Minor character (mentioned only)"
       ]
     },
     {
@@ -4020,8 +4967,13 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 2,
-          "last_chapter": 4
+          "last_chapter": 4,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4043,8 +4995,13 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 2,
-          "last_chapter": 4
+          "last_chapter": 4,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4065,8 +5022,13 @@
           "title_zh": "霹雳弹",
           "role": "主要人物",
           "first_chapter": 2,
-          "last_chapter": 8
+          "last_chapter": 8,
+          "role_en": "Major character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -4087,8 +5049,13 @@
           "title_zh": "霹雳弹",
           "role": "主要人物",
           "first_chapter": 10,
-          "last_chapter": 23
+          "last_chapter": 23,
+          "role_en": "Major character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -4109,8 +5076,13 @@
           "title_zh": "霹雳弹",
           "role": "主要人物",
           "first_chapter": 11,
-          "last_chapter": 24
+          "last_chapter": 24,
+          "role_en": "Major character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -4131,8 +5103,13 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 8,
-          "last_chapter": 17
+          "last_chapter": 17,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4151,8 +5128,13 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 11,
-          "last_chapter": 20
+          "last_chapter": 20,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4171,8 +5153,13 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 11,
-          "last_chapter": 12
+          "last_chapter": 12,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4191,8 +5178,13 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 12,
-          "last_chapter": 12
+          "last_chapter": 12,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4211,8 +5203,13 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 16,
-          "last_chapter": 17
+          "last_chapter": 17,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4234,8 +5231,13 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 5,
-          "last_chapter": 24
+          "last_chapter": 24,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4257,8 +5259,13 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 5,
-          "last_chapter": 6
+          "last_chapter": 6,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4279,8 +5286,13 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 6,
-          "last_chapter": 6
+          "last_chapter": 6,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4301,8 +5313,13 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 6,
-          "last_chapter": 6
+          "last_chapter": 6,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4323,8 +5340,13 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 21,
-          "last_chapter": 21
+          "last_chapter": 21,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4343,8 +5365,13 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 6,
-          "last_chapter": 6
+          "last_chapter": 6,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4363,8 +5390,13 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 6,
-          "last_chapter": 6
+          "last_chapter": 6,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4385,8 +5417,13 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 9,
-          "last_chapter": 9
+          "last_chapter": 9,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4405,8 +5442,13 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 9,
-          "last_chapter": 10
+          "last_chapter": 10,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4425,8 +5467,13 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 20,
-          "last_chapter": 22
+          "last_chapter": 22,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4445,8 +5492,13 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 22,
-          "last_chapter": 23
+          "last_chapter": 23,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4465,8 +5517,13 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 24,
-          "last_chapter": 24
+          "last_chapter": 24,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4485,8 +5542,13 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 14,
-          "last_chapter": 14
+          "last_chapter": 14,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4505,8 +5567,13 @@
           "title_zh": "霹雳弹",
           "role": "次要人物",
           "first_chapter": 15,
-          "last_chapter": 15
+          "last_chapter": 15,
+          "role_en": "Minor character",
+          "title_en": "Thunderball"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4527,8 +5594,13 @@
           "title_zh": "爱我的间谍",
           "role": "主要人物（叙述者）",
           "first_chapter": "One",
-          "last_chapter": "Fifteen"
+          "last_chapter": "Fifteen",
+          "role_en": "Major character (narrator)",
+          "title_en": "The Spy Who Loved Me"
         }
+      ],
+      "roles_en": [
+        "Major character (narrator)"
       ]
     },
     {
@@ -4549,8 +5621,13 @@
           "title_zh": "爱我的间谍",
           "role": "反派（打手头目）",
           "first_chapter": "Eight",
-          "last_chapter": "Thirteen"
+          "last_chapter": "Thirteen",
+          "role_en": "Villain (head henchman)",
+          "title_en": "The Spy Who Loved Me"
         }
+      ],
+      "roles_en": [
+        "Villain (head henchman)"
       ]
     },
     {
@@ -4571,8 +5648,13 @@
           "title_zh": "爱我的间谍",
           "role": "反派（打手）",
           "first_chapter": "Eight",
-          "last_chapter": "Fourteen"
+          "last_chapter": "Fourteen",
+          "role_en": "Villain (henchman)",
+          "title_en": "The Spy Who Loved Me"
         }
+      ],
+      "roles_en": [
+        "Villain (henchman)"
       ]
     },
     {
@@ -4593,8 +5675,13 @@
           "title_zh": "爱我的间谍",
           "role": "次要人物（旅馆经理）",
           "first_chapter": "One",
-          "last_chapter": "Fifteen"
+          "last_chapter": "Fifteen",
+          "role_en": "Minor character (hotel manager)",
+          "title_en": "The Spy Who Loved Me"
         }
+      ],
+      "roles_en": [
+        "Minor character (hotel manager)"
       ]
     },
     {
@@ -4615,8 +5702,13 @@
           "title_zh": "爱我的间谍",
           "role": "次要人物（旅馆经理夫人）",
           "first_chapter": "One",
-          "last_chapter": "Fifteen"
+          "last_chapter": "Fifteen",
+          "role_en": "Minor character (hotel manager's wife)",
+          "title_en": "The Spy Who Loved Me"
         }
+      ],
+      "roles_en": [
+        "Minor character (hotel manager's wife)"
       ]
     },
     {
@@ -4635,8 +5727,13 @@
           "title_zh": "爱我的间谍",
           "role": "幕后反派（未出场）",
           "first_chapter": "Seven",
-          "last_chapter": "Fifteen"
+          "last_chapter": "Fifteen",
+          "role_en": "Behind-the-scenes villain (never appears)",
+          "title_en": "The Spy Who Loved Me"
         }
+      ],
+      "roles_en": [
+        "Behind-the-scenes villain (never appears)"
       ]
     },
     {
@@ -4655,8 +5752,13 @@
           "title_zh": "爱我的间谍",
           "role": "次要人物（薇薇安初恋）",
           "first_chapter": "Two",
-          "last_chapter": "Four"
+          "last_chapter": "Four",
+          "role_en": "Minor character (Vivienne's first love)",
+          "title_en": "The Spy Who Loved Me"
         }
+      ],
+      "roles_en": [
+        "Minor character (Vivienne's first love)"
       ]
     },
     {
@@ -4675,8 +5777,13 @@
           "title_zh": "爱我的间谍",
           "role": "次要人物（薇薇安第二任情人）",
           "first_chapter": "Four",
-          "last_chapter": "Six"
+          "last_chapter": "Six",
+          "role_en": "Minor character (Vivienne's second lover)",
+          "title_en": "The Spy Who Loved Me"
         }
+      ],
+      "roles_en": [
+        "Minor character (Vivienne's second lover)"
       ]
     },
     {
@@ -4695,8 +5802,13 @@
           "title_zh": "爱我的间谍",
           "role": "次要人物（仅在回忆中出现）",
           "first_chapter": "Five",
-          "last_chapter": "Five"
+          "last_chapter": "Five",
+          "role_en": "Minor character (appears only in recollection)",
+          "title_en": "The Spy Who Loved Me"
         }
+      ],
+      "roles_en": [
+        "Minor character (appears only in recollection)"
       ]
     },
     {
@@ -4715,8 +5827,13 @@
           "title_zh": "爱我的间谍",
           "role": "次要人物（薇薇安挚友）",
           "first_chapter": "Two",
-          "last_chapter": "Five"
+          "last_chapter": "Five",
+          "role_en": "Minor character (Vivienne's close friend)",
+          "title_en": "The Spy Who Loved Me"
         }
+      ],
+      "roles_en": [
+        "Minor character (Vivienne's close friend)"
       ]
     },
     {
@@ -4735,8 +5852,13 @@
           "title_zh": "爱我的间谍",
           "role": "次要人物（薇薇安上司）",
           "first_chapter": "Four",
-          "last_chapter": "Four"
+          "last_chapter": "Four",
+          "role_en": "Minor character (Vivienne's employer)",
+          "title_en": "The Spy Who Loved Me"
         }
+      ],
+      "roles_en": [
+        "Minor character (Vivienne's employer)"
       ]
     },
     {
@@ -4757,8 +5879,13 @@
           "title_zh": "爱我的间谍",
           "role": "次要人物（薇薇安姨妈）",
           "first_chapter": "Two",
-          "last_chapter": "Six"
+          "last_chapter": "Six",
+          "role_en": "Minor character (Vivienne's aunt)",
+          "title_en": "The Spy Who Loved Me"
         }
+      ],
+      "roles_en": [
+        "Minor character (Vivienne's aunt)"
       ]
     },
     {
@@ -4777,8 +5904,13 @@
           "title_zh": "爱我的间谍",
           "role": "次要人物（仅在邦德讲述中出现）",
           "first_chapter": "Eleven",
-          "last_chapter": "Eleven"
+          "last_chapter": "Eleven",
+          "role_en": "Minor character (appears only in Bond's account)",
+          "title_en": "The Spy Who Loved Me"
         }
+      ],
+      "roles_en": [
+        "Minor character (appears only in Bond's account)"
       ]
     },
     {
@@ -4797,8 +5929,13 @@
           "title_zh": "爱我的间谍",
           "role": "次要人物（仅在邦德讲述中出现）",
           "first_chapter": "Eleven",
-          "last_chapter": "Eleven"
+          "last_chapter": "Eleven",
+          "role_en": "Minor character (appears only in Bond's account)",
+          "title_en": "The Spy Who Loved Me"
         }
+      ],
+      "roles_en": [
+        "Minor character (appears only in Bond's account)"
       ]
     },
     {
@@ -4817,8 +5954,13 @@
           "title_zh": "爱我的间谍",
           "role": "次要人物（警方负责人）",
           "first_chapter": "Fifteen",
-          "last_chapter": "Fifteen"
+          "last_chapter": "Fifteen",
+          "role_en": "Minor character (police chief)",
+          "title_en": "The Spy Who Loved Me"
         }
+      ],
+      "roles_en": [
+        "Minor character (police chief)"
       ]
     },
     {
@@ -4837,8 +5979,13 @@
           "title_zh": "爱我的间谍",
           "role": "次要人物（州警）",
           "first_chapter": "Fifteen",
-          "last_chapter": "Fifteen"
+          "last_chapter": "Fifteen",
+          "role_en": "Minor character (state trooper)",
+          "title_en": "The Spy Who Loved Me"
         }
+      ],
+      "roles_en": [
+        "Minor character (state trooper)"
       ]
     },
     {
@@ -4857,8 +6004,13 @@
           "title_zh": "爱我的间谍",
           "role": "次要人物（州警）",
           "first_chapter": "Fifteen",
-          "last_chapter": "Fifteen"
+          "last_chapter": "Fifteen",
+          "role_en": "Minor character (state trooper)",
+          "title_en": "The Spy Who Loved Me"
         }
+      ],
+      "roles_en": [
+        "Minor character (state trooper)"
       ]
     },
     {
@@ -4880,8 +6032,13 @@
           "title_zh": "女王密使",
           "role": "主要人物",
           "first_chapter": 4,
-          "last_chapter": 27
+          "last_chapter": 27,
+          "role_en": "Major character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -4902,8 +6059,13 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 7,
-          "last_chapter": 23
+          "last_chapter": 23,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4924,8 +6086,13 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 6,
-          "last_chapter": 7
+          "last_chapter": 7,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4944,8 +6111,13 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 10,
-          "last_chapter": 15
+          "last_chapter": 15,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4964,8 +6136,13 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 10,
-          "last_chapter": 26
+          "last_chapter": 26,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -4984,8 +6161,13 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 10,
-          "last_chapter": 15
+          "last_chapter": 15,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5004,8 +6186,13 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 10,
-          "last_chapter": 15
+          "last_chapter": 15,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5024,8 +6211,13 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 10,
-          "last_chapter": 15
+          "last_chapter": 15,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5044,8 +6236,13 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 10,
-          "last_chapter": 15
+          "last_chapter": 15,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5064,8 +6261,13 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 15,
-          "last_chapter": 15
+          "last_chapter": 15,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5084,8 +6286,13 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 15,
-          "last_chapter": 15
+          "last_chapter": 15,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5104,8 +6311,13 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 11,
-          "last_chapter": 11
+          "last_chapter": 11,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5124,8 +6336,13 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 13,
-          "last_chapter": 22
+          "last_chapter": 22,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5146,8 +6363,13 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 14,
-          "last_chapter": 19
+          "last_chapter": 19,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5169,8 +6391,13 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 19,
-          "last_chapter": 25
+          "last_chapter": 25,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5192,8 +6419,13 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 21,
-          "last_chapter": 21
+          "last_chapter": 21,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5214,8 +6446,13 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 21,
-          "last_chapter": 22
+          "last_chapter": 22,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5236,8 +6473,13 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 23,
-          "last_chapter": 26
+          "last_chapter": 26,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5258,8 +6500,13 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 23,
-          "last_chapter": 24
+          "last_chapter": 24,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5278,8 +6525,13 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 24,
-          "last_chapter": 24
+          "last_chapter": 24,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5298,8 +6550,13 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 23,
-          "last_chapter": 23
+          "last_chapter": 23,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5321,8 +6578,13 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 26,
-          "last_chapter": 27
+          "last_chapter": 27,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5341,8 +6603,13 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 11,
-          "last_chapter": 11
+          "last_chapter": 11,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5361,8 +6628,13 @@
           "title_zh": "女王密使",
           "role": "次要人物",
           "first_chapter": 15,
-          "last_chapter": 21
+          "last_chapter": 21,
+          "role_en": "Minor character",
+          "title_en": "On Her Majesty's Secret Service"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5381,8 +6653,13 @@
           "title_zh": "雷霆谷",
           "role": "主要人物",
           "first_chapter": 1,
-          "last_chapter": 22
+          "last_chapter": 22,
+          "role_en": "Major character",
+          "title_en": "You Only Live Twice"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -5403,8 +6680,13 @@
           "title_zh": "雷霆谷",
           "role": "主要人物",
           "first_chapter": 1,
-          "last_chapter": 22
+          "last_chapter": 22,
+          "role_en": "Major character",
+          "title_en": "You Only Live Twice"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -5425,8 +6707,13 @@
           "title_zh": "雷霆谷",
           "role": "主要人物",
           "first_chapter": 12,
-          "last_chapter": 22
+          "last_chapter": 22,
+          "role_en": "Major character",
+          "title_en": "You Only Live Twice"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -5445,8 +6732,13 @@
           "title_zh": "雷霆谷",
           "role": "次要人物",
           "first_chapter": 1,
-          "last_chapter": 1
+          "last_chapter": 1,
+          "role_en": "Minor character",
+          "title_en": "You Only Live Twice"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5465,8 +6757,13 @@
           "title_zh": "雷霆谷",
           "role": "次要人物",
           "first_chapter": 1,
-          "last_chapter": 1
+          "last_chapter": 1,
+          "role_en": "Minor character",
+          "title_en": "You Only Live Twice"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5485,8 +6782,13 @@
           "title_zh": "雷霆谷",
           "role": "次要人物",
           "first_chapter": 9,
-          "last_chapter": 9
+          "last_chapter": 9,
+          "role_en": "Minor character",
+          "title_en": "You Only Live Twice"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5505,8 +6807,13 @@
           "title_zh": "雷霆谷",
           "role": "次要人物",
           "first_chapter": 18,
-          "last_chapter": 19
+          "last_chapter": 19,
+          "role_en": "Minor character",
+          "title_en": "You Only Live Twice"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5525,8 +6832,13 @@
           "title_zh": "雷霆谷",
           "role": "次要人物",
           "first_chapter": 19,
-          "last_chapter": 19
+          "last_chapter": 19,
+          "role_en": "Minor character",
+          "title_en": "You Only Live Twice"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5545,8 +6857,13 @@
           "title_zh": "雷霆谷",
           "role": "次要人物",
           "first_chapter": 13,
-          "last_chapter": 22
+          "last_chapter": 22,
+          "role_en": "Minor character",
+          "title_en": "You Only Live Twice"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5565,8 +6882,13 @@
           "title_zh": "雷霆谷",
           "role": "次要人物",
           "first_chapter": 12,
-          "last_chapter": 13
+          "last_chapter": 13,
+          "role_en": "Minor character",
+          "title_en": "You Only Live Twice"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5585,8 +6907,13 @@
           "title_zh": "雷霆谷",
           "role": "次要人物",
           "first_chapter": 13,
-          "last_chapter": 22
+          "last_chapter": 22,
+          "role_en": "Minor character",
+          "title_en": "You Only Live Twice"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5605,8 +6932,13 @@
           "title_zh": "雷霆谷",
           "role": "次要人物",
           "first_chapter": 13,
-          "last_chapter": 22
+          "last_chapter": 22,
+          "role_en": "Minor character",
+          "title_en": "You Only Live Twice"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5625,8 +6957,13 @@
           "title_zh": "雷霆谷",
           "role": "次要人物",
           "first_chapter": 22,
-          "last_chapter": 22
+          "last_chapter": 22,
+          "role_en": "Minor character",
+          "title_en": "You Only Live Twice"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5645,8 +6982,13 @@
           "title_zh": "雷霆谷",
           "role": "动物",
           "first_chapter": 14,
-          "last_chapter": 22
+          "last_chapter": 22,
+          "role_en": "Animal",
+          "title_en": "You Only Live Twice"
         }
+      ],
+      "roles_en": [
+        "Animal"
       ]
     },
     {
@@ -5665,8 +7007,13 @@
           "title_zh": "雷霆谷",
           "role": "次要人物（仅提及）",
           "first_chapter": 2,
-          "last_chapter": 2
+          "last_chapter": 2,
+          "role_en": "Minor character (mentioned only)",
+          "title_en": "You Only Live Twice"
         }
+      ],
+      "roles_en": [
+        "Minor character (mentioned only)"
       ]
     },
     {
@@ -5691,8 +7038,13 @@
           "title_zh": "金枪人",
           "role": "主要人物",
           "first_chapter": 3,
-          "last_chapter": 15
+          "last_chapter": 15,
+          "role_en": "Major character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -5711,8 +7063,13 @@
           "title_zh": "金枪人",
           "role": "主要人物",
           "first_chapter": 7,
-          "last_chapter": 14
+          "last_chapter": 14,
+          "role_en": "Major character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Major character"
       ]
     },
     {
@@ -5731,8 +7088,13 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 4,
-          "last_chapter": 9
+          "last_chapter": 9,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5753,8 +7115,13 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 8,
-          "last_chapter": 16
+          "last_chapter": 16,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5775,8 +7142,13 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 5,
-          "last_chapter": 6
+          "last_chapter": 6,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5795,8 +7167,13 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 4,
-          "last_chapter": 11
+          "last_chapter": 11,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5815,8 +7192,13 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 7,
-          "last_chapter": 14
+          "last_chapter": 14,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5835,8 +7217,13 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 7,
-          "last_chapter": 14
+          "last_chapter": 14,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5855,8 +7242,13 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 7,
-          "last_chapter": 9
+          "last_chapter": 9,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5875,8 +7267,13 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 7,
-          "last_chapter": 14
+          "last_chapter": 14,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5897,8 +7294,13 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 7,
-          "last_chapter": 14
+          "last_chapter": 14,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5919,8 +7321,13 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 3,
-          "last_chapter": 15
+          "last_chapter": 15,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5941,8 +7348,13 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 1,
-          "last_chapter": 1
+          "last_chapter": 1,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5961,8 +7373,13 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 1,
-          "last_chapter": 1
+          "last_chapter": 1,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -5981,8 +7398,13 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 6,
-          "last_chapter": 6
+          "last_chapter": 6,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -6001,8 +7423,13 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 16,
-          "last_chapter": 16
+          "last_chapter": 16,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -6021,8 +7448,13 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 16,
-          "last_chapter": 16
+          "last_chapter": 16,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -6041,8 +7473,13 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 16,
-          "last_chapter": 16
+          "last_chapter": 16,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -6061,8 +7498,13 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 3,
-          "last_chapter": 3
+          "last_chapter": 3,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -6081,8 +7523,13 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 2,
-          "last_chapter": 11
+          "last_chapter": 11,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -6101,8 +7548,13 @@
           "title_zh": "金枪人",
           "role": "次要人物",
           "first_chapter": 1,
-          "last_chapter": 1
+          "last_chapter": 1,
+          "role_en": "Minor character",
+          "title_en": "The Man with the Golden Gun"
         }
+      ],
+      "roles_en": [
+        "Minor character"
       ]
     },
     {
@@ -6124,8 +7576,13 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "主要人物，第1篇中心人物",
           "first_chapter": 1,
-          "last_chapter": 1
+          "last_chapter": 1,
+          "role_en": "Major character; central figure of the first story",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Major character; central figure of the first story"
       ]
     },
     {
@@ -6144,8 +7601,13 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "主要人物，第1篇被害人",
           "first_chapter": 1,
-          "last_chapter": 1
+          "last_chapter": 1,
+          "role_en": "Major character; victim in the first story",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Major character; victim in the first story"
       ]
     },
     {
@@ -6166,8 +7628,13 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "次要人物，第1篇亡妻",
           "first_chapter": 1,
-          "last_chapter": 1
+          "last_chapter": 1,
+          "role_en": "Minor character; deceased wife in the first story",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Minor character; deceased wife in the first story"
       ]
     },
     {
@@ -6186,8 +7653,13 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "次要人物，第1篇",
           "first_chapter": 1,
-          "last_chapter": 1
+          "last_chapter": 1,
+          "role_en": "Minor character; first story",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Minor character; first story"
       ]
     },
     {
@@ -6206,8 +7678,13 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "次要人物，第1篇",
           "first_chapter": 1,
-          "last_chapter": 1
+          "last_chapter": 1,
+          "role_en": "Minor character; first story",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Minor character; first story"
       ]
     },
     {
@@ -6228,8 +7705,13 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "次要人物，第1篇",
           "first_chapter": 1,
-          "last_chapter": 1
+          "last_chapter": 1,
+          "role_en": "Minor character; first story",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Minor character; first story"
       ]
     },
     {
@@ -6248,8 +7730,13 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "次要人物，第1篇，仅回忆中出现",
           "first_chapter": 1,
-          "last_chapter": 1
+          "last_chapter": 1,
+          "role_en": "Minor character; first story, appears only in recollection",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Minor character; first story, appears only in recollection"
       ]
     },
     {
@@ -6268,8 +7755,13 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "次要人物，第1篇，仅笔记中出现",
           "first_chapter": 1,
-          "last_chapter": 1
+          "last_chapter": 1,
+          "role_en": "Minor character; first story, appears only in notes",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Minor character; first story, appears only in notes"
       ]
     },
     {
@@ -6288,8 +7780,13 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "次要人物，第1篇，仅提及",
           "first_chapter": 1,
-          "last_chapter": 1
+          "last_chapter": 1,
+          "role_en": "Minor character; first story, mentioned only",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Minor character; first story, mentioned only"
       ]
     },
     {
@@ -6310,8 +7807,13 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "主要人物，第2篇敌方狙击手",
           "first_chapter": 2,
-          "last_chapter": 2
+          "last_chapter": 2,
+          "role_en": "Major character; enemy sniper in the second story",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Major character; enemy sniper in the second story"
       ]
     },
     {
@@ -6330,8 +7832,13 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "主要人物，第2篇被营救对象",
           "first_chapter": 2,
-          "last_chapter": 2
+          "last_chapter": 2,
+          "role_en": "Major character; rescue target in the second story",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Major character; rescue target in the second story"
       ]
     },
     {
@@ -6350,8 +7857,13 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "主要人物，第2篇邦德搭档",
           "first_chapter": 2,
-          "last_chapter": 2
+          "last_chapter": 2,
+          "role_en": "Major character; Bond's partner in the second story",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Major character; Bond's partner in the second story"
       ]
     },
     {
@@ -6370,8 +7882,13 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "次要人物，第2篇，仅提及",
           "first_chapter": 2,
-          "last_chapter": 2
+          "last_chapter": 2,
+          "role_en": "Minor character; second story, mentioned only",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Minor character; second story, mentioned only"
       ]
     },
     {
@@ -6390,8 +7907,13 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "次要人物，第2篇",
           "first_chapter": 2,
-          "last_chapter": 2
+          "last_chapter": 2,
+          "role_en": "Minor character; second story",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Minor character; second story"
       ]
     },
     {
@@ -6412,8 +7934,13 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "主要人物，第3篇",
           "first_chapter": 3,
-          "last_chapter": 3
+          "last_chapter": 3,
+          "role_en": "Major character; third story",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Major character; third story"
       ]
     },
     {
@@ -6432,8 +7959,13 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "主要人物，第3篇被识别对象",
           "first_chapter": 3,
-          "last_chapter": 3
+          "last_chapter": 3,
+          "role_en": "Major character; identified person in the third story",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Major character; identified person in the third story"
       ]
     },
     {
@@ -6454,8 +7986,13 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "主要人物，第3篇",
           "first_chapter": 3,
-          "last_chapter": 3
+          "last_chapter": 3,
+          "role_en": "Major character; third story",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Major character; third story"
       ]
     },
     {
@@ -6474,8 +8011,13 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "主要人物，第3篇揭发者",
           "first_chapter": 3,
-          "last_chapter": 3
+          "last_chapter": 3,
+          "role_en": "Major character; exposer in the third story",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Major character; exposer in the third story"
       ]
     },
     {
@@ -6494,8 +8036,13 @@
           "title_zh": "八爪女与黎明生死线",
           "role": "次要人物，第3篇",
           "first_chapter": 3,
-          "last_chapter": 3
+          "last_chapter": 3,
+          "role_en": "Minor character; third story",
+          "title_en": "Octopussy and The Living Daylights"
         }
+      ],
+      "roles_en": [
+        "Minor character; third story"
       ]
     }
   ]

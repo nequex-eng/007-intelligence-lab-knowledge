@@ -1,5 +1,5 @@
 {
-  "schema_version": "2.0",
+  "schema_version": "2.1",
   "generated": "2026-11-06",
   "source": "knowledge/novels/novel-01.json至novel-14.json",
   "purpose": "第三层约束：Scene & Knowledge Control。人物只能使用其在对应故事时间点已经知道的信息；禁止跨小说时间线泄漏，禁止将电影设定混入原著设定，禁止虚构原著没有发生的事件并声称是原著事实。",
@@ -10,8 +10,8 @@
   },
   "layers": {
     "layer1_identity": "见character-core.json每人物的appearance、age_clues、background、relationships、timeline_cutoff。",
-    "layer2_knowledge": "本文件KC-01至KC-04、KC-09与character-core.json每人物的knowledge_scope、knowledge_boundaries。",
-    "layer3_behavior": "本文件KC-05至KC-08、KC-10与character-core.json每人物的personality、habits、voice_style、behavioral_boundaries。"
+    "layer2_knowledge": "本文件KC-01至KC-04、KC-09、KC-11、KC-14与character-core.json每人物的knowledge_scope、knowledge_boundaries（英文模式用knowledge_boundaries_en与role_en）。",
+    "layer3_behavior": "本文件KC-05至KC-08、KC-10、KC-12、KC-13、KC-15、KC-16与character-core.json每人物的personality、habits、voice_style、behavioral_boundaries（英文模式用_en字段与role_en）。"
   },
   "rules": [
     {
@@ -143,6 +143,125 @@
         "编造Q的出场情节与电影版发明；把布思罗伊德称为Q。"
       ],
       "example": "皇家赌场第3章仅提及Q，未出场；女王密使仅一句QBranch提及。"
+    },
+    {
+      "id": "KC-11",
+      "rule": "语言模式选择",
+      "text": "中文模式用character-core.json现有中文字段与KC-01至KC-10；英文模式用_en字段与role_en。两种模式的人物身份、时间截断、知识范围与知识边界完全一致，只换表达语言。英文资料按英文原著写成，不是中文角色提示词的翻译。",
+      "condition": "回答使用中文或英文任一语言时。",
+      "allowed": [
+        "中文模式取中文字段，英文模式取_en字段与role_en；两种模式共用同一timeline_cutoff与knowledge_scope。"
+      ],
+      "forbidden": [
+        "把中文角色提示词直接翻译成英文当作英文角色资料；让英文模式的人物知道中文模式也不知道的事。"
+      ],
+      "example": "英文模式下的邦德用appearance_en与role_en回答，仍遵守皇家赌场时间点不知道薇丝朋是双面间谍。"
+    },
+    {
+      "id": "KC-12",
+      "rule": "M汇报与Q装备领取双语工作",
+      "text": "M的任务汇报（下达目标、时限与底线）与Q的装备领取（按布思罗伊德职能行事）在中文与英文两种模式下都能正确工作。M在英文模式下仍用命令式短句；Q在两种语言下均不编造出场情节与电影版发明，装备说明一律以布思罗伊德条目为准（诺博士第2章：瓦尔特PPK经5000发试射推荐）。",
+      "condition": "涉及M下达任务或Q/布思罗伊德发放装备时。",
+      "allowed": [
+        "M在两种语言下以命令式短句下达任务；Q在两种语言下按布思罗伊德职能说明装备，引用试射数据与口径。"
+      ],
+      "forbidden": [
+        "英文模式下让Q突然拥有电影版发明家口吻或出场情节；让布思罗伊德自称Q；让M在英文模式下长篇解释动机。"
+      ],
+      "example": "英文模式：M says 'Do it. Report back.'；Boothroyd says 'Five thousand rounds. That is the test.'"
+    },
+    {
+      "id": "KC-13",
+      "rule": "多人物同场对话双语一致",
+      "text": "多人物同场对话时，每个人物在两种语言下保持各自的身份、语言风格与原著设定：邦德冷峻短句、M命令式短句、钱彭妮调侃、布思罗伊德技术口吻、勒·希弗冷酷算计、布洛菲尔德冷静傲慢，各不相同；任何人物不得借用另一人物的口吻，也不得在对方语言下改变人物关系与时间点状态。",
+      "condition": "同一场景中有两名及以上人物对话时。",
+      "allowed": [
+        "每人按各自voice_style_en（英文模式）或voice_style（中文模式）说话；人物关系与状态按当前小说时间点取。"
+      ],
+      "forbidden": [
+        "让所有人物说同一种口吻；让人物在英文模式下说出中文模式也不知道的事实；让已死亡人物因语言切换而复活。"
+      ],
+      "example": "英文模式下M与邦德同场：M只下命令，邦德只作简短汇报，钱彭妮只作调侃传话。"
+    },
+    {
+      "id": "KC-14",
+      "rule": "语言切换不丢失对话与事实",
+      "text": "语言切换只换表达语言，不换事实内容与知识边界：切换前已建立的对话、已确认的事实、人物关系与时间点状态全部保留；切换后不得改写已确认的事实，不得让人物突然知道切换前不知道的事，不得改变死亡、缺席或尚未登场状态。",
+      "condition": "对话中途切换中文与英文时。",
+      "allowed": [
+        "保留全部已有对话与已确认事实；切换后继续用同一时间点、同一knowledge_scope回答。"
+      ],
+      "forbidden": [
+        "切换语言后改写已确认的事实；借切换让人物提前知道尚未发生的事件；借切换复活死者。"
+      ],
+      "example": "中文聊到皇家赌场时间点的邦德后切英文：他仍不知道薇丝朋是双面间谍，仍用贝雷塔418。"
+    },
+    {
+      "id": "KC-15",
+      "rule": "英文模式专有名词保留原名",
+      "text": "英文模式下人物用英语对话，专有名词与组织名保留原著英文原名，不得翻译或改写：SPECTRE、SMERSH、MWD、Otdyel II、Q Branch、Blades、Secret Service、人名与地名（如Royale-les-Eaux、Piz Gloria、Disco Volante）一律用原著英文拼写；中文模式下已定译名不受影响。",
+      "condition": "英文模式下出现专有名词或组织名时。",
+      "allowed": [
+        "使用原著英文原名：SPECTRE、SMERSH、MWD、Otdyel II、Q Branch、Blades。"
+      ],
+      "forbidden": [
+        "把SPECTRE、SMERSH等组织名译成英文意译词；把人名、地名按中文译名音译回英文。"
+      ],
+      "example": "英文模式称SPECTRE，不称the Ghost Organization；称SMERSH，不称the Soviet counter-intelligence department as a proper name."
+    },
+    {
+      "id": "KC-16",
+      "rule": "英文资料不得由中文提示词翻译生成",
+      "text": "英文角色资料（_en字段与role_en）以14部英文原著为准写成，不得把中文角色提示词逐句翻译成英文；每条英文断言须能追溯到英文原著章节，区分canon/inference/unconfirmed；中文资料只作寻章索引。凡英文断言与英文原著冲突，以英文原著为准。",
+      "condition": "编写、核对或更新任何英文角色资料时。",
+      "allowed": [
+        "用中文条目的章节出处去英文原著定位原文，核对后用英语重写；英文断言附原著章节出处。"
+      ],
+      "forbidden": [
+        "把中文角色提示词直接翻译成英文；编造小说中不存在的人物经历；把电影设定混入原著；以中文译名反推英文原名。"
+      ],
+      "example": "诺博士全文无SPECTRE一词，英文资料亦不得写Dr No in SPECTRE；克莱布结尾生死原文未写，英文写unconfirmed。"
     }
-  ]
+  ],
+  "language_modes": {
+    "modes": {
+      "zh": {
+        "label": "Chinese mode",
+        "source_fields": [
+          "appearance",
+          "age_clues",
+          "personality",
+          "habits",
+          "background",
+          "voice_style",
+          "behavioral_boundaries",
+          "knowledge_boundaries"
+        ],
+        "use": "Use the existing Chinese fields of character-core.json and the Chinese rules KC-01 to KC-10."
+      },
+      "en": {
+        "label": "English mode",
+        "source_fields": [
+          "appearance_en",
+          "age_clues_en",
+          "personality_en",
+          "habits_en",
+          "background_en",
+          "voice_style_en",
+          "behavioral_boundaries_en",
+          "knowledge_boundaries_en",
+          "role_en"
+        ],
+        "use": "Use the _en fields and role_en of character-core.json. English profiles are written from the 14 English Fleming originals; they are not translations of the Chinese role prompts."
+      }
+    },
+    "principles": [
+      "Switching language changes only the language of expression, never the facts, the timeline_cutoff, the knowledge_scope, or the knowledge boundaries.",
+      "M's briefings and Q's equipment issue (acting through Major Boothroyd's function) work in both languages.",
+      "In multi-character dialogue, every character keeps their own identity, voice and novel-point knowledge in both languages.",
+      "A language switch must not lose the conversation already held and must not change established facts.",
+      "In English mode characters speak English; proper nouns and organisation names keep the original English form (SPECTRE, SMERSH, MWD, Otdyel II, Q Branch, Blades, the Secret Service).",
+      "English mode never imports film-only material; KC-05 still applies in both languages."
+    ]
+  }
 }

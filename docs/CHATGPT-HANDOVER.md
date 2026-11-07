@@ -13,11 +13,13 @@
 - docs/CHARACTER-INDEX.md：人物索引（去重后279人）。
 - docs/TIMELINE.md：时间线（出版顺序为主轴，故事内年份以原文为准）。
 - docs/KNOWLEDGE-COVERAGE.md：覆盖率、实体总数、20条事实抽查、5组跨小说抽查、已知局限。
-- docs/VALIDATION-REPORT.md：自动化验证与修复记录（2026-11-06：`npm run validate`12/12项通过、检索测试15/15通过、fact-fixes 137条应用记录、悬空引用处理、尚未解决问题）。
+- docs/VALIDATION-REPORT.md：自动化验证与修复记录（2026-11-06：`npm run validate`12/12项通过、检索测试15/15通过、fact-fixes 137条应用记录、悬空引用处理、尚未解决问题；2026-11-07双语化验收：`npm run validate`19/19项通过、检索测试29/29通过、中英覆盖率前后对比、双语已知缺口）。
+- docs/BILINGUAL-MAPPING.md：中英对应关系与稳定ID清单（2026-11-07新增：中英字段对照表、语言切换规则摘要、英文覆盖率总表、已知缺口清单）。
+- docs/DATA-SCHEMA.md：字段字典，第十三节为双语字段（兼容方案、映射表、命名收敛决定）。
 - knowledge/manifest.json：14部清单机器可读版。
-- knowledge/canon-rules/character-core.json：第一层约束（32位核心人物，v2.0）。
-- knowledge/canon-rules/knowledge-control.json：第三层约束（10条规则，v2.0）。
-- knowledge/canon-rules/adaptation-boundaries.json：原著与电影差异边界（10条已核验）。
+- knowledge/canon-rules/character-core.json：第一层约束（32位核心人物，v2.0，英文资料1.0版：平行_en字段、role_en 8键对象、timeline_cutoff_en）。
+- knowledge/canon-rules/knowledge-control.json：第三层约束（16条规则，v2.1，KC-01至KC-16，含language_modes双语模式）。
+- knowledge/canon-rules/adaptation-boundaries.json：原著与电影差异边界（10条已核验；英文版未补）。
 - knowledge/resolution/：检索索引（aliases.json 258条别名、relationships.json 311对关系、timeline.json 14部时间线），见docs/DATA-SCHEMA.md第十二节。
 - scripts/validate.js、scripts/retrieval-tests.js、package.json：自动化验收（`npm run validate`、`npm run test:retrieval`）。
 
@@ -29,7 +31,8 @@
 - knowledge/resolution/relationships.json：人物关系双向索引（311对）；knowledge/resolution/timeline.json：按小说顺序的32位核心人物状态与知识截断点，与character-core的knowledge_scope一致。
 - knowledge/timeline/index.json：14部时间线总索引。
 - knowledge/events/index.json：事件总索引，189件，事件id为小说id加事件id。
-- 事实七字段：source_novel（小说id）、chapter（章节号，保留原文形态）、entity（事实主体id）、fact（事实陈述）、timeline_position（故事内时间位置）、confidence（high、medium、low）、canon_or_inference（canon为原文明确事实，inference为合理推测）。引用原文只保留必要短句（每句不超过25个英文词）并记录章节。
+- 事实七字段：source_novel（小说id）、chapter（章节号，保留原文形态）、entity（事实主体id）、fact（事实陈述）、fact_en（英文事实陈述，同对象内，与fact共用七个关键字段）、timeline_position（故事内时间位置）、confidence（high、medium、low）、canon_or_inference（canon为原文明确事实，inference为合理推测）。引用原文只保留必要短句（每句不超过25个英文词）并记录章节。
+- 双语取数规则：中文模式用中文字段，英文模式用_en字段与role_en；两种模式共用同一timeline_cutoff与knowledge_scope，只换表达语言，不换事实内容与知识边界。英文资料按14部英文原著写成，不是中文角色提示词的翻译；专有名词与组织名在英文模式下保留原著英文原名（SPECTRE、SMERSH、MWD、Otdyel II、Q Branch、Blades）。中英字段对照与语言切换规则见docs/BILINGUAL-MAPPING.md第二、三节。
 
 ## 四、如何用它驱动对话（三层约束）
 
@@ -39,10 +42,13 @@
 4. 人物不知道自己不在场小说的内情，只能按听闻转述并注明来源。
 5. 电影设定一律隔离：DB5、激光桌、太空情节、火山基地、潜艇、莲花跑车、诺博士归入幽灵党等电影独有元素不得当原著用。已核验差异见adaptation-boundaries.json；未核验的不得冒充已核对。
 6. 原文内部矛盾不调和：如实记录两种说法并标明出处，不得擅自统一或修正。
+7. 双语模式（KC-11至KC-16）：中文模式用中文字段，英文模式用_en字段与role_en；英文资料按英文原著写成，不得把中文角色提示词直接翻译成英文；英文断言须能追溯到英文原著章节，区分canon/inference/unconfirmed。
+8. M汇报与Q装备领取双语工作：M在两种语言下均用命令式短句下达任务；Q按布思罗伊德职能行事（诺博士第2章：瓦尔特PPK经5000发试射推荐），不编造出场情节与电影版发明。
+9. 多人物同场与语言切换：同场每人保持各自身份、语言风格与原著设定，不得借用他人口吻；语言切换只换表达语言，保留已有对话、已确认事实、人物关系与时间点状态，不得借切换改写事实、提前知情或复活死者。
 
 ## 五、如何维护这套知识库
 
-- 修正事实：先读原文对应章节确认，再改对应novel JSON的facts条目（七字段齐全），同步更新相关总索引，修正后跑`npm run validate`（12项自动化验证，须全部通过）与`node scripts/retrieval-tests.js`（15条检索测试），并在docs/KNOWLEDGE-COVERAGE.md与docs/VALIDATION-REPORT.md中记录修正。
+- 修正事实：先读原文对应章节确认，再改对应novel JSON的facts条目（七字段齐全，fact_en同步改写，不得只改中文不改英文），同步更新相关总索引，修正后跑`npm run validate`（19项自动化验证，须全部通过）与`node scripts/retrieval-tests.js`（29条检索测试），并在docs/KNOWLEDGE-COVERAGE.md与docs/VALIDATION-REPORT.md中记录修正。
 - 新增小说或换版核对：八爪女第4篇007 in New York待换版核对——拿到新版后先核对全文是否含该篇，再补novel-14.json与相关索引，不得凭记忆补写。
 - 新增人物：先确认该人物在原文中的首次登场章节与全名，再写入对应novel JSON的characters与总索引；别名以原文拼写为准，写入knowledge/resolution/aliases.json（注明依据）。
 - 新增改编差异：必须从原文对比确认后才写入adaptation-boundaries.json；未系统核对的只写本部未核对电影差异，不得冒充已核对。
@@ -64,3 +70,12 @@
 - q的timeline_cutoff语义待确认：q从未以present登场（仅皇家赌场mentioned_only），其cutoff金枪人（1965年）不按最后出场小说解释。
 - 事实entity字段存在10个不同主题词取值（coins、secatur、moonraker、train、zachary-smith、bomb、boneyard、note、sharks、disco-volante，共22处引用），非人物或组织id，收紧须逐条重定entity并补索引。
 - 行数口径已解决（2026-11-06）：manifest.json各本lines字段原各多1行，已修正为与wc -l实测一致，总计18849行。
+- 双语已知缺口（2026-11-07登记，第二波范围）：story_timeline_en只有小说02有；adaptation_differences_en 13/14（小说12纯字符串列表未补）；通讯name_en 36/78；canon_vs_inference topic_en 88/107（小说06、13未补）；小说14 stories子结构80处无英文；小说级地点country_en 0/203、装备kind_en 0/148；小说级人物aliases数组264条无aliases_en；adaptation-boundaries.json无英文；knowledge-control规则文本无英文版；核心人物knowledge_scope known/unknown清单929项与sources数组无英文版。必填英文槽位8459/8459（100%），全部可统计英文槽位8597/10356（83.0%），详见docs/BILINGUAL-MAPPING.md第四、五节。
+
+## 八、双语接管说明（2026-11-07新增）
+
+数据结构：英文资料以平行`_en`后缀字段写在同一对象内，不引入嵌套`{zh,en}`对象；事实的`fact_en`与`fact`同属一条事实对象，共用source_novel、chapter、entity、timeline_position、confidence、canon_or_inference七个关键字段；核心人物另有`role_en`对象（8键：identity_background、personality_traits、speech_patterns、motivations、relationships、canonical_events_timeline、confirmed_facts、forbidden_assumptions）。组织/地点中文`role`的英文版在小说05、07、09为`role_en`，其余11部为`description_en`；装备/车辆/通讯中文`note`的英文版同理（小说05、07、09为`note_en`，其余11部为`description_en`）；验证脚本同时接受两种写法，不做批量改名。完整映射见docs/DATA-SCHEMA.md第十三节。
+
+文件路径：双语字段分布在knowledge/novels/novel-01.json至novel-14.json、knowledge/characters/index.json、knowledge/organizations/index.json、knowledge/locations/index.json、knowledge/equipment/index.json、knowledge/events/index.json、knowledge/canon-rules/character-core.json、knowledge/resolution/aliases.json、knowledge/resolution/relationships.json、knowledge/resolution/timeline.json；knowledge/canon-rules/knowledge-control.json为v2.1（KC-01至KC-16，含language_modes）；中英对应关系总表见docs/BILINGUAL-MAPPING.md。
+
+接口及使用方式：中文模式用中文资料、英文模式用英文资料，取数字段见本文件第三、四节；M汇报与Q装备领取双语工作（见第四节第8条）；多人物同场每人保持各自口吻与时间点状态（见第四节第9条）；语言切换不丢对话、不改变原著事实（见第四节第9条）；英文模式专有名词保留原著英文原名。英文覆盖率与已知缺口见docs/BILINGUAL-MAPPING.md第四、五节；验证入口为`npm run validate`（19项）与`node scripts/retrieval-tests.js`（29条）。

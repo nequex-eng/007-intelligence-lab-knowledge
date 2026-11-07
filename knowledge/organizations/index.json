@@ -15,85 +15,99 @@
           "novel": "casino-royale",
           "novel_no": 1,
           "role": "邦德与M所属机构，策划并执行击败勒·希弗的行动，S处负责苏联方向",
-          "first_chapter": 1
+          "first_chapter": 1,
+          "role_en": "Bond and M's organisation, which plans and carries out the operation to defeat Le Chiffre, with S Section covering the Soviet side."
         },
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
           "role": "邦德所属机构，M为首脑；A站负责美国，C站负责加勒比地区",
-          "first_chapter": "II"
+          "first_chapter": "II",
+          "role_en": "Bond's organisation, headed by M; Station A covers America and Station C the Caribbean."
         },
         {
           "novel": "moonraker",
           "novel_no": 3,
           "role": "邦德与M所属机构,总部在摄政公园附近,00部门负责暗杀任务",
-          "first_chapter": "I"
+          "first_chapter": "I",
+          "role_en": "Bond and M's organisation, headquartered near Regent's Park, with the Double-O Section handling assassinations."
         },
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
           "role": "邦德所属机构，M任首脑；受首相授权调查钻石走私，邦德为007特工",
-          "first_chapter": 2
+          "first_chapter": 2,
+          "role_en": "Bond's organisation, headed by M; authorised by the Prime Minister to investigate diamond smuggling, with Bond as agent 007."
         },
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
           "role": "邦德所属机构，首脑为M；为SMERSH诱杀行动的打击目标",
-          "first_chapter": "Four"
+          "first_chapter": "Four",
+          "role_en": "Bond's organisation, headed by M; the target of SMERSH's operation to lure Bond to his death."
         },
         {
           "novel": "dr-no",
           "novel_no": 6,
           "role": "邦德所属机构，总部在摄政公园；加勒比站站长斯特兰威斯失踪后派邦德调查；第三处为斯特兰威斯的主管部门",
-          "first_chapter": "I"
+          "first_chapter": "I",
+          "role_en": "Bond's organisation, headquartered at Regent's Park; after Caribbean station chief Strangways disappears it sends Bond to investigate, and Section Three is Strangways's controlling section."
         },
         {
           "novel": "goldfinger",
           "novel_no": 7,
           "role": "邦德的上级机构，M领导，派邦德调查金手指",
-          "first_chapter": "ONE"
+          "first_chapter": "ONE",
+          "role_en": "Bond's superior organisation, led by M, which sends Bond to investigate Goldfinger."
         },
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
           "role": "邦德所属机构;第1篇F站为其巴黎外站,第2篇M以个人名义动用其资源为友复仇,第4篇奉首相之命调查毒品案",
-          "first_chapter": 1
+          "first_chapter": 1,
+          "role_en": "Bond's organisation; in the first story Station F is its Paris outpost, in the second M uses its resources in his own name to avenge a friend, and in the fourth it investigates the drugs case on the Prime Minister's orders."
         },
         {
           "novel": "thunderball",
           "novel_no": 9,
           "role": "邦德所属机构，执行霹雳弹行动的英方主体",
-          "first_chapter": 1
+          "first_chapter": 1,
+          "role_en": "Bond's organisation, the British body running Operation Thunderball."
         },
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
           "role": "邦德所属机构；原文未出现全称，仅称总部与编号007，邦德称其为my outfit",
-          "first_chapter": "Eleven"
+          "first_chapter": "Eleven",
+          "role_en": "Bond's organisation; its full name never appears in the text, only 'Headquarters' and the number 007, and Bond calls it 'my outfit'."
         },
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
           "role": "邦德所属机构，对外掩护为Universal Export；行动代号先为Bedlam，后为CORONA",
-          "first_chapter": 2
+          "first_chapter": 2,
+          "role_en": "Bond's organisation, with Universal Export as its outward cover; the operation is first codenamed Bedlam, then CORONA."
         },
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
           "role": "邦德所属机构，以国防部为掩护，M为首脑",
-          "first_chapter": 2
+          "first_chapter": 2,
+          "role_en": "Bond's organisation, using the Ministry of Defence as cover, headed by M."
         },
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
           "role": "邦德所属机构；总部设于伦敦，M任局长，下设Double-O处、联络处、加勒比海与中美洲处及牙买加J站",
-          "first_chapter": 1
+          "first_chapter": 1,
+          "role_en": "Bond's organisation, headquartered in London under M as chief, with the Double-O Section, Liaison Section, Caribbean and Central America Section, and Jamaica Station J."
         },
         {
           "novel": "octopussy",
           "novel_no": 14,
           "role": "第1篇邦德所属机构，称国防部为掩护，MOB Force为其与联合行动总部合办；第2篇Station WB为其柏林站；第3篇总部为Freudenstein任职与Purple Cipher行动之地",
-          "first_chapter": 1
+          "first_chapter": 1,
+          "role_en": "Bond's organisation in the first story, using the Ministry of Defence as cover, with MOB Force run jointly with Combined Operations Headquarters; in the second story Station WB is its Berlin station; in the third, its headquarters is where Freudenstein works and the Purple Cipher operation runs."
         }
       ]
     },
@@ -108,61 +122,71 @@
           "novel": "casino-royale",
           "novel_no": 1,
           "role": "美方情报机构，派莱特协助邦德，并在邦德破产时提供3200万法郎资金",
-          "first_chapter": 2
+          "first_chapter": 2,
+          "role_en": "American intelligence agency, sending Leiter to help Bond and providing 32 million francs when Bond is cleaned out."
         },
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
           "role": "莱特所属机构，与FBI联合办案，负责海外部分",
-          "first_chapter": "I"
+          "first_chapter": "I",
+          "role_en": "Leiter's agency, working cases jointly with the FBI and handling the overseas side."
         },
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
           "role": "莱特原雇主，因其伤残只提供文职，莱特离职",
-          "first_chapter": 8
+          "first_chapter": 8,
+          "role_en": "Leiter's former employer; because of his injuries it offers only desk work, so Leiter leaves."
         },
         {
           "novel": "goldfinger",
           "novel_no": 7,
           "role": "莱特所属机构，与M联络后把案子上报至總統",
-          "first_chapter": "FIVE"
+          "first_chapter": "FIVE",
+          "role_en": "Leiter's agency; after contacting M it reports the case to the President."
         },
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
           "role": "第4篇罗马站与缉毒局合作,局长Alan Dulles向M推荐Kristatos为联络人",
-          "first_chapter": 4
+          "first_chapter": 4,
+          "role_en": "Fourth story: the Rome station works with the narcotics bureau; Director Alan Dulles recommends Kristatos to M as liaison."
         },
         {
           "novel": "thunderball",
           "novel_no": 9,
           "role": "与英方合作执行霹雳弹行动，莱特为其代表，调动曼塔号与战斗机中队",
-          "first_chapter": 8
+          "first_chapter": 8,
+          "role_en": "Works with the British on Operation Thunderball; Leiter is its representative, deploying the Manta and a fighter squadron."
         },
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
           "role": "邦德嘱薇薇安向警方报出其身份时可联系的美国机构；邦德赴华盛顿即向其对应部门汇报",
-          "first_chapter": "Twelve"
+          "first_chapter": "Twelve",
+          "role_en": "The American agency Bond tells Vivienne to name to the police if she reports his identity; on reaching Washington Bond reports to its counterpart department."
         },
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
           "role": "日本情报的实际控制方，不许田中把MAGIC44转交给英国，邦德的行动须瞒着它",
-          "first_chapter": 3
+          "first_chapter": 3,
+          "role_en": "The real controlling power of Japanese intelligence, forbidding Tanaka to hand MAGIC 44 to Britain; Bond's operation must be kept from it."
         },
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
           "role": "莱特与Nicholson所属；派两人卧底Thunderbird酒店调查The Group与克格勃-黑手党勾结",
-          "first_chapter": 3
+          "first_chapter": 3,
+          "role_en": "Leiter and Nicholson belong to it; it sends the two under cover into the Thunderbird Hotel to investigate The Group's collusion with the KGB and the Mafia."
         },
         {
           "novel": "octopussy",
           "novel_no": 14,
           "role": "第3篇：Purple Cipher的SITREP名义收件方，华盛顿的初级职员收到后不读即销毁，莫斯科方面则敬奉KGB高官",
-          "first_chapter": 3
+          "first_chapter": 3,
+          "role_en": "Third story: nominal addressee of the Purple Cipher SITREP; a junior clerk in Washington destroys it unread, while in Moscow it is treated with reverence by KGB chiefs."
         }
       ]
     },
@@ -177,31 +201,36 @@
           "novel": "casino-royale",
           "novel_no": 1,
           "role": "苏联反间谍与复仇机构，俄语“间谍之死”缩写，处决挪用公款的勒·希弗与两名枪手，并在邦德手背刻字",
-          "first_chapter": 2
+          "first_chapter": 2,
+          "role_en": "Soviet counter-espionage and vengeance organ, its name an abbreviation of the Russian for 'Death to Spies'; it executes Le Chiffre for embezzlement along with two gunmen, and carves a mark on the back of Bond's hand."
         },
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
           "role": "苏联惩罚机关，全称Smyert Spionam，意为间谍之死；Mr Big为其已知成员，邦德的私人复仇目标",
-          "first_chapter": "II"
+          "first_chapter": "II",
+          "role_en": "Soviet punishment organ, full name Smyert Spionam, meaning 'Death to Spies'; Mr Big is a known member, and Bond's personal target for revenge."
         },
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
           "role": "苏联政府官方谋杀机构，苏联最秘密部门，1955年约4万人；策划并执行诱杀邦德行动；总部莫斯科斯列坚卡街13号",
-          "first_chapter": "One"
+          "first_chapter": "One",
+          "role_en": "The Soviet government's official murder bureau, its most secret department, about 40,000 strong in 1955; it plans and runs the operation to lure Bond to his death; headquarters at 13 Sretenka Street, Moscow."
         },
         {
           "novel": "goldfinger",
           "novel_no": 7,
           "role": "苏联锄奸机构，M推断金手指是其司库，为其海外中心提供资金",
-          "first_chapter": "SEVEN"
+          "first_chapter": "SEVEN",
+          "role_en": "Soviet 'liquidation' organ; M deduces that Goldfinger is its treasurer, funding its overseas centres."
         },
         {
           "novel": "thunderball",
           "novel_no": 9,
           "role": "SPECTRE成员来源之一，前苏联肃反人员3名，1958年被解散",
-          "first_chapter": 5
+          "first_chapter": 5,
+          "role_en": "One of SPECTRE's recruiting sources: three former Soviet SMERSH men; disbanded in 1958."
         }
       ]
     },
@@ -216,25 +245,29 @@
           "novel": "live-and-let-die",
           "novel_no": 2,
           "role": "Dexter所属机构，负责美国境内一端，局长为胡佛",
-          "first_chapter": "I"
+          "first_chapter": "I",
+          "role_en": "Dexter's agency, handling the American end; its director is Hoover."
         },
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
           "role": "美国方面调查斯班格帮；M下令邦德遇险即移交FBI，莱特称FBI已介入赛马案但进展有限",
-          "first_chapter": 2
+          "first_chapter": 2,
+          "role_en": "American side investigating the Spang mob; M orders Bond handed over to the FBI if in danger, and Leiter says the FBI is already on the racing case but making little headway."
         },
         {
           "novel": "goldfinger",
           "novel_no": 7,
           "role": "与萊特合作设局，在诺克斯堡设伏",
-          "first_chapter": "TWENTY-TWO"
+          "first_chapter": "TWENTY-TWO",
+          "role_en": "Works with Leiter to set the trap, ambushing at Fort Knox."
         },
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
           "role": "莫罗中尉称邦德在联邦调查局有关系，案件因此惊动华盛顿",
-          "first_chapter": "Fifteen"
+          "first_chapter": "Fifteen",
+          "role_en": "Lieutenant Morrow says Bond has connections in the FBI, which brings the case to Washington's attention."
         }
       ]
     },
@@ -249,25 +282,29 @@
           "novel": "thunderball",
           "novel_no": 9,
           "role": "本部反派组织，策划劫机与核勒索，全称为反情报、恐怖、报复与勒索特别执行部",
-          "first_chapter": 5
+          "first_chapter": 5,
+          "role_en": "The book's villainous organisation, planning the hijack and nuclear blackmail; full name Special Executive for Counter-intelligence, Terrorism, Revenge and Extortion."
         },
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
           "role": "独立间谍网络，全称反间谍、恐怖主义、报复与勒索特别机构；以10万镑接受克格勃委托刺杀鲍里斯；首领在霹雳弹行动中逃脱",
-          "first_chapter": "Eleven"
+          "first_chapter": "Eleven",
+          "role_en": "Independent spy network, full name Special Executive for Counter-intelligence, Terrorism, Revenge and Extortion, accepting a 100,000-pound KGB commission to kill Boris; its leader escapes after Operation Thunderball."
         },
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
           "role": "布洛菲尔德领导的犯罪组织，霹雳弹行动后重建；雪山诊所职员多为其旧部",
-          "first_chapter": 2
+          "first_chapter": 2,
+          "role_en": "Criminal organisation led by Blofeld, rebuilt after Operation Thunderball; many of the Piz Gloria clinic staff are its old hands."
         },
         {
           "novel": "you-only-live-twice",
           "novel_no": 12,
           "role": "布洛菲尔德创立的组织，全称反情报、恐怖主义、报复与勒索特别机构，本部中只在邦德回忆中提及，布洛菲尔德已脱离组织单干",
-          "first_chapter": 12
+          "first_chapter": 12,
+          "role_en": "Organisation founded by Blofeld, full name Special Executive for Counter-intelligence, Terrorism, Revenge and Extortion, mentioned in this book only in Bond's recollection; Blofeld has left it to work alone."
         }
       ]
     },
@@ -282,19 +319,22 @@
           "novel": "moonraker",
           "novel_no": 3,
           "role": "国内反间谍机构,曾推荐3名安全官候选人,后同意邦德任命",
-          "first_chapter": "IX"
+          "first_chapter": "IX",
+          "role_en": "Domestic counter-espionage agency; once recommended three candidates for security officer, then agrees to Bond's appointment."
         },
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
           "role": "英国国内安全部门，会议中被提及为优秀机构；非行动直接参与方",
-          "first_chapter": "Five"
+          "first_chapter": "Five",
+          "role_en": "British domestic security service, mentioned in the meeting as an excellent organisation; not directly involved in the operation."
         },
         {
           "novel": "octopussy",
           "novel_no": 14,
           "role": "第3篇：将Fanshawe转介至M.，拍卖会派摄影师持Sunday Times记者证拍照并派司机尾随Malinowski",
-          "first_chapter": 3
+          "first_chapter": 3,
+          "role_en": "Third story: refers Fanshawe to M; sends a photographer with a Sunday Times press card to the auction and a driver to tail Malinowski."
         }
       ]
     },
@@ -309,19 +349,22 @@
           "novel": "spy-who-loved-me",
           "novel_no": 10,
           "role": "苏联秘密情报机构；其巴黎站负责人出价买凶刺杀叛逃者鲍里斯",
-          "first_chapter": "Eleven"
+          "first_chapter": "Eleven",
+          "role_en": "Soviet secret intelligence service; its Paris station chief offers money for the murder of the defector Boris."
         },
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
           "role": "洗脑邦德并派他刺杀M；通过哈瓦那中心与Hendriks遥控The Group，首脑为Semichastny；约有十万人员",
-          "first_chapter": 1
+          "first_chapter": 1,
+          "role_en": "Brainwashes Bond and sends him to kill M; controls The Group remotely through the Havana centre and Hendriks; headed by Semichastny, with about a hundred thousand personnel."
         },
         {
           "novel": "octopussy",
           "novel_no": 14,
           "role": "第2篇：派Trigger执行Operation Extase射杀272；第3篇：Freudenstein的上线，Malinowski为其驻伦敦负责人",
-          "first_chapter": 2
+          "first_chapter": 2,
+          "role_en": "Second story: sends Trigger to carry out Operation Extase, shooting 272; third story: Freudenstein's control, with Malinowski its London resident."
         }
       ]
     },
@@ -336,13 +379,15 @@
           "novel": "casino-royale",
           "novel_no": 1,
           "role": "薇丝朋效力的苏联机构，以其波兰恋人性命要挟她充当双面间谍，通过巴黎Invalides 55200号电话遥控她",
-          "first_chapter": 27
+          "first_chapter": 27,
+          "role_en": "Soviet organ Vesper serves, blackmailing her with her Polish lover's life to act as a double agent, controlling her by telephone via Paris Invalides 55200."
         },
         {
           "novel": "live-and-let-die",
           "novel_no": 2,
           "role": "1951年被策反的苏联特工所属机构，该特工后被Mr Big推下地铁站台身亡",
-          "first_chapter": "III"
+          "first_chapter": "III",
+          "role_en": "The agency of the Soviet agent recruited in 1951, who was later pushed off a subway platform by Mr Big and killed."
         }
       ]
     },
@@ -357,13 +402,15 @@
           "novel": "casino-royale",
           "novel_no": 1,
           "role": "法方情报机构，与英方联合办案，提供马蒂斯与医生，负责现场掩盖与追捕",
-          "first_chapter": 2
+          "first_chapter": 2,
+          "role_en": "French intelligence service, working the case jointly with the British, supplying Mathis and a doctor, and handling the cover-up and pursuit on the spot."
         },
         {
           "novel": "from-russia-with-love",
           "novel_no": 5,
           "role": "法国情报机关，首脑雷尼·马蒂斯；结尾协助邦德抓捕克莱布并处理斯佩克特机",
-          "first_chapter": "Five"
+          "first_chapter": "Five",
+          "role_en": "French intelligence service, headed by Rene Mathis; at the end it helps Bond arrest Klebb and deal with the Spektor."
         }
       ]
     },
@@ -378,13 +425,15 @@
           "novel": "moonraker",
           "novel_no": 3,
           "role": "瓦兰斯领导,安插盖拉潜伏并负责基地外围调查",
-          "first_chapter": "IX"
+          "first_chapter": "IX",
+          "role_en": "Led by Vallance; it plants Gala under cover and handles the investigation around the base."
         },
         {
           "novel": "diamonds-are-forever",
           "novel_no": 4,
           "role": "瓦兰斯任助理警务处长，掌握弗兰克斯线报并逮捕其人，安排邦德顶替",
-          "first_chapter": 2
+          "first_chapter": 2,
+          "role_en": "Vallance is its Assistant Commissioner; it holds the Franks tip-off, arrests him, and arranges for Bond to take his place."
         }
       ]
     },
@@ -399,13 +448,15 @@
           "novel": "moonraker",
           "novel_no": 3,
           "role": "负责基地外围警戒与发射当日雷达操作",
-          "first_chapter": "IX"
+          "first_chapter": "IX",
+          "role_en": "Responsible for perimeter security at the base and radar operation on launch day."
         },
         {
           "novel": "thunderball",
           "novel_no": 9,
           "role": "失踪轰炸机所属军种，第5试验中队驻博斯科姆唐",
-          "first_chapter": 7
+          "first_chapter": 7,
+          "role_en": "Service owning the missing bomber; No. 5 Trials Squadron is based at Boscombe Down."
         }
       ]
     },
@@ -420,19 +471,22 @@
           "novel": "diamonds-are-forever",
           "novel_no": 4,
           "role": "本部反派组织，杰克与塞拉菲莫·斯班格共管，经营钻石走私、赌博、赛马骗局、毒品与卖淫，在纽约、拉斯维加斯、迈阿密、底特律、芝加哥有分支",
-          "first_chapter": 6
+          "first_chapter": 6,
+          "role_en": "The book's villainous organisation, run jointly by Jack and Seraffimo Spang, dealing in diamond smuggling, gambling, racing fraud, drugs and prostitution, with branches in New York, Las Vegas, Miami, Detroit and Chicago."
         },
         {
           "novel": "goldfinger",
           "novel_no": 7,
           "role": "首脑杰克·斯特拉普加入大满贯行动",
-          "first_chapter": "SEVENTEEN"
+          "first_chapter": "SEVENTEEN",
+          "role_en": "Its head, Jack Strap, joins Operation Grand Slam."
         },
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
           "role": "斯卡拉曼加在美国当全职枪手的老东家，以拉斯维加斯Tiara酒店赌场记分员为掩护",
-          "first_chapter": 3
+          "first_chapter": 3,
+          "role_en": "Scaramanga's former employer as a full-time gunman in America, cover being a tally clerk at the Tiara Hotel casino in Las Vegas."
         }
       ]
     },
@@ -447,13 +501,15 @@
           "novel": "diamonds-are-forever",
           "novel_no": 4,
           "role": "莱特的雇主，绰号The Eye that Never Sleeps；为莱特订女王号船票、接邦德行李并协助蒂芙尼办护照",
-          "first_chapter": 8
+          "first_chapter": 8,
+          "role_en": "Leiter's employer, nicknamed 'The Eye that Never Sleeps'; it books Leiter's Queen Elizabeth ticket, collects Bond's luggage and helps Tiffany with her passport."
         },
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
           "role": "莱特的正式雇主；他同时为中情局预备役",
-          "first_chapter": 9
+          "first_chapter": 9,
+          "role_en": "Leiter's official employer; he is also a CIA reservist."
         }
       ]
     },
@@ -468,13 +524,15 @@
           "novel": "from-russia-with-love",
           "novel_no": 5,
           "role": "苏联陆军总参谋部情报部门，首脑斯拉文将军；参与定目标会议",
-          "first_chapter": "Four"
+          "first_chapter": "Four",
+          "role_en": "Intelligence arm of the Soviet General Staff, headed by General Slavin; it takes part in the target-setting meeting."
         },
         {
           "novel": "for-your-eyes-only",
           "novel_no": 8,
           "role": "第1篇邦德推测地堡小组的上级控制机关,原文仅为推测未证实",
-          "first_chapter": 1
+          "first_chapter": 1,
+          "role_en": "The superior controlling authority over the bunker party, as Bond guesses in the first story; only a guess in the text, unconfirmed."
         }
       ]
     },
@@ -489,13 +547,15 @@
           "novel": "dr-no",
           "novel_no": 6,
           "role": "秘密情报局的掩护公司；邦德护照职业为进出口商人，供职于此；邦德登记时称M为该公司董事总经理",
-          "first_chapter": "IV"
+          "first_chapter": "IV",
+          "role_en": "Cover company of the Secret Service; Bond's passport occupation is import-export merchant employed by it, and on registering he describes M as its managing director."
         },
         {
           "novel": "goldfinger",
           "novel_no": 7,
           "role": "秘密情报局的掩护公司，邦德对外身份的雇主",
-          "first_chapter": "ONE"
+          "first_chapter": "ONE",
+          "role_en": "Cover company of the Secret Service, Bond's ostensible employer."
         }
       ]
     },
@@ -510,13 +570,15 @@
           "novel": "goldfinger",
           "novel_no": 7,
           "role": "美国黑手党，首脑索洛先生参会并加入大满贯行动",
-          "first_chapter": "SEVENTEEN"
+          "first_chapter": "SEVENTEEN",
+          "role_en": "American Mafia; its head, Mr Solo, attends the meeting and joins Operation Grand Slam."
         },
         {
           "novel": "thunderball",
           "novel_no": 9,
           "role": "SPECTRE成员来源之一，提供3名成员",
-          "first_chapter": 5
+          "first_chapter": 5,
+          "role_en": "One of SPECTRE's recruiting sources, providing three members."
         }
       ]
     },
@@ -531,13 +593,15 @@
           "novel": "for-your-eyes-only",
           "novel_no": 8,
           "role": "第2篇协助邦德越境,提供武器、证件、地图与走私路线,并以侦察机航拍Echo Lake",
-          "first_chapter": 2
+          "first_chapter": 2,
+          "role_en": "Second story: helps Bond cross the border, supplying weapons, papers, maps and smuggling routes, and photographing Echo Lake from a reconnaissance aircraft."
         },
         {
           "novel": "spy-who-loved-me",
           "novel_no": 10,
           "role": "渥太华方面通报乌尔曼行踪；其特别支部与邦德合作，在多伦多鲍里斯公寓设伏，行动中两死一伤",
-          "first_chapter": "Eleven"
+          "first_chapter": "Eleven",
+          "role_en": "Ottawa reports Ullmann's movements; its Special Branch works with Bond, ambushing at Boris's Toronto flat, with two dead and one wounded in the operation."
         }
       ]
     },
@@ -552,13 +616,15 @@
           "novel": "for-your-eyes-only",
           "novel_no": 8,
           "role": "第4篇其缉毒人员与内政部、卫生部向M施压要求派邦德查毒品案",
-          "first_chapter": 4
+          "first_chapter": 4,
+          "role_en": "Fourth story: its drug-squad officers join the Home Office and the Ministry of Health in pressing M to send Bond on the drugs case."
         },
         {
           "novel": "octopussy",
           "novel_no": 14,
           "role": "第1篇：邦德称案件将经苏格兰场移交检察机关；第3篇：邦德冒充CID联络人时称须直接向Ronald Vallance爵士核实身份",
-          "first_chapter": 1
+          "first_chapter": 1,
+          "role_en": "First story: Bond says the case will go through Scotland Yard to the Director of Public Prosecutions; third story: impersonating a CID liaison, Bond says his identity must be verified directly with Sir Ronald Vallance."
         }
       ]
     },
@@ -573,13 +639,15 @@
           "novel": "thunderball",
           "novel_no": 9,
           "role": "SPECTRE成员来源之一，提供3名成员",
-          "first_chapter": 5
+          "first_chapter": 5,
+          "role_en": "One of SPECTRE's recruiting sources, providing three members."
         },
         {
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
           "role": "德拉科领导的科西嘉犯罪组织；绑架邦德父女相见，后出动七人突袭雪山诊所",
-          "first_chapter": 4
+          "first_chapter": 4,
+          "role_en": "Corsican criminal organisation led by Draco; it kidnaps Bond and reunites father and daughter, then sends seven men to raid Piz Gloria."
         }
       ]
     },
@@ -594,7 +662,8 @@
           "novel": "casino-royale",
           "novel_no": 1,
           "role": "负责苏联事务的处室，制定摧毁勒·希弗计划，薇丝朋为其处长私人助理",
-          "first_chapter": 2
+          "first_chapter": 2,
+          "role_en": "Section handling Soviet affairs, drawing up the plan to destroy Le Chiffre; Vesper is the private assistant to its chief."
         }
       ]
     },
@@ -609,7 +678,8 @@
           "novel": "casino-royale",
           "novel_no": 1,
           "role": "共产党控制的重工业与运输业工会，勒·希弗任司库，拥有5万名会员，战时可控制法国北部边境广大地区",
-          "first_chapter": 2
+          "first_chapter": 2,
+          "role_en": "Communist-controlled heavy-industry and transport union; Le Chiffre is its treasurer, with 50,000 members, able in wartime to control a wide area of the French northern border."
         }
       ]
     },
@@ -624,7 +694,8 @@
           "novel": "casino-royale",
           "novel_no": 1,
           "role": "勒·希弗用挪用的5000万法郎买下的诺曼底与布列塔尼妓院连锁，1946年禁娼法后破产",
-          "first_chapter": 2
+          "first_chapter": 2,
+          "role_en": "Chain of Normandy and Brittany brothels bought by Le Chiffre with 50 million embezzled francs; bankrupted after the 1946 law closing brothels."
         }
       ]
     },
@@ -639,7 +710,8 @@
           "novel": "casino-royale",
           "novel_no": 1,
           "role": "流亡埃及银行家与商人集团，租下皇家莱索赌场百家乐与两张顶级chemindefer赌台，勒·希弗向其买下庄家",
-          "first_chapter": 2
+          "first_chapter": 2,
+          "role_en": "Group of exiled Egyptian bankers and businessmen, leasing the baccarat and two top chemin de fer tables at the Casino Royale-les-Eaux; Le Chiffre buys the bank from them."
         }
       ]
     },
@@ -654,7 +726,8 @@
           "novel": "casino-royale",
           "novel_no": 1,
           "role": "皇家莱索赌场经营方，试图以高额赌局夺回多维尔与勒图凯的市场",
-          "first_chapter": 2
+          "first_chapter": 2,
+          "role_en": "Operators of the Casino Royale-les-Eaux, trying to win back the Deauville and Le Touquet market with high-stakes play."
         }
       ]
     },
@@ -669,13 +742,15 @@
           "novel": "casino-royale",
           "novel_no": 1,
           "role": "行动的政治背景，击败勒·希弗符合北约国家利益，莱特任职于北约联合情报部门",
-          "first_chapter": 2
+          "first_chapter": 2,
+          "role_en": "The political background to the operation: defeating Le Chiffre serves NATO's interests, and Leiter works in NATO's joint intelligence section."
         },
         {
           "novel": "thunderball",
           "novel_no": 9,
           "role": "失踪飞机执行北约训练飞行任务，佩塔基为北约借调观察员",
-          "first_chapter": 7
+          "first_chapter": 7,
+          "role_en": "The missing aircraft was on a NATO training flight; Petacchi is a NATO seconded observer."
         }
       ]
     },
@@ -690,7 +765,8 @@
           "novel": "live-and-let-die",
           "novel_no": 2,
           "role": "美国战时特工部门，1943年因Mr Big法语流利将其派往马赛",
-          "first_chapter": "III"
+          "first_chapter": "III",
+          "role_en": "American wartime agent department, which sent Mr Big to Marseilles in 1943 because of his fluent French."
         }
       ]
     },
@@ -705,7 +781,8 @@
           "novel": "live-and-let-die",
           "novel_no": 2,
           "role": "Mr Big领导的伏都教派，信徒相信他是Baron Samedi本人，为其权力基础",
-          "first_chapter": "II"
+          "first_chapter": "II",
+          "role_en": "Voodoo sect led by Mr Big; its followers believe he is Baron Samedi himself, the basis of his power."
         }
       ]
     },
@@ -720,7 +797,8 @@
           "novel": "live-and-let-die",
           "novel_no": 2,
           "role": "St Petersburg仓库企业，名义上售卖活饵、贝壳与热带鱼，实为金币走私中转站，毒鱼缸底藏金币，地板下有鲨鱼池",
-          "first_chapter": "IV"
+          "first_chapter": "IV",
+          "role_en": "St Petersburg warehouse firm, ostensibly selling live bait, shells and tropical fish, in fact a transit station for smuggled gold coins hidden under the poison-fish tank, with a shark pool under the floor."
         }
       ]
     },
@@ -735,7 +813,8 @@
           "novel": "live-and-let-die",
           "novel_no": 2,
           "role": "其特别支部追踪金币流入，请求英方协助",
-          "first_chapter": "II"
+          "first_chapter": "II",
+          "role_en": "Its Special Branch tracks the inflow of gold coins and asks the British for help."
         }
       ]
     },
@@ -750,7 +829,8 @@
           "novel": "live-and-let-die",
           "novel_no": 2,
           "role": "提供Secatur号进出港报告，St Petersburg有大型海岸警卫站",
-          "first_chapter": "IV"
+          "first_chapter": "IV",
+          "role_en": "Supplies arrival and departure reports on the Secatur; St Petersburg has a large Coast Guard station."
         }
       ]
     },
@@ -765,7 +845,8 @@
           "novel": "live-and-let-die",
           "novel_no": 2,
           "role": "局长Monahan下令全面配合，凶杀组中尉Binswanger提供Mr Big档案",
-          "first_chapter": "IV"
+          "first_chapter": "IV",
+          "role_en": "Commissioner Monahan orders full cooperation; Homicide Lieutenant Binswanger supplies the Mr Big file."
         }
       ]
     },
@@ -780,7 +861,8 @@
           "novel": "moonraker",
           "novel_no": 3,
           "role": "月亮牌项目主管部,派驻塔隆为安全官,审核火箭设计",
-          "first_chapter": "IX"
+          "first_chapter": "IX",
+          "role_en": "Department in charge of the Moonraker project, posting Tallon as security officer and vetting the rocket design."
         }
       ]
     },
@@ -795,7 +877,8 @@
           "novel": "moonraker",
           "novel_no": 3,
           "role": "德拉克斯在丹吉尔的贸易公司,垄断Columbite并做空英镑2000万英镑",
-          "first_chapter": "X"
+          "first_chapter": "X",
+          "role_en": "Drax's Tangier trading company, monopolising columbite and shorting sterling by 20 million pounds."
         }
       ]
     },
@@ -810,7 +893,8 @@
           "novel": "moonraker",
           "novel_no": 3,
           "role": "德拉克斯战时所属机构,在Skorzeny手下从事恐怖与破坏活动",
-          "first_chapter": "XXII"
+          "first_chapter": "XXII",
+          "role_en": "Drax's wartime organisation, carrying out terror and sabotage under Skorzeny."
         }
       ]
     },
@@ -825,7 +909,8 @@
           "novel": "moonraker",
           "novel_no": 3,
           "role": "德拉克斯曾受训的特种部队,计划穿英军制服登陆英国",
-          "first_chapter": "XXII"
+          "first_chapter": "XXII",
+          "role_en": "Special force in which Drax once trained, planning to land in Britain in British uniform."
         }
       ]
     },
@@ -840,7 +925,8 @@
           "novel": "diamonds-are-forever",
           "novel_no": 4,
           "role": "斯班格兄弟5年前买下的珠宝商，伦敦（哈顿花园）、纽约（西46街）、巴黎（里沃利街）三地经营，走私钻石经此切割销售",
-          "first_chapter": 2
+          "first_chapter": 2,
+          "role_en": "Jeweller bought by the Spang brothers five years ago, trading in London (Hatton Garden), New York (West 46th Street) and Paris (Rue de Rivoli); smuggled diamonds are cut and sold through it."
         }
       ]
     },
@@ -855,7 +941,8 @@
           "novel": "diamonds-are-forever",
           "novel_no": 4,
           "role": "伦敦钻石销售垄断机构，每年贸易5000万英镑；其负责人雅各比向M展示钻石，董事长年报称矿场每年因走私损失200万英镑以上",
-          "first_chapter": 2
+          "first_chapter": 2,
+          "role_en": "London monopoly for diamond sales, trading 50 million pounds a year; its man Jacoby shows M a diamond, and the chairman's annual report says the mines lose over 2 million pounds a year to smuggling."
         }
       ]
     },
@@ -870,7 +957,8 @@
           "novel": "diamonds-are-forever",
           "novel_no": 4,
           "role": "聘用前军情五处人员西利托整顿非洲钻石矿",
-          "first_chapter": 2
+          "first_chapter": 2,
+          "role_en": "Employs former MI5 man Sillitoe to put the African diamond mines in order."
         }
       ]
     },
@@ -885,7 +973,8 @@
           "novel": "diamonds-are-forever",
           "novel_no": 4,
           "role": "斯班格兄弟拥有的非法赌马电讯服务，为内华达与加州场外投注商服务",
-          "first_chapter": 6
+          "first_chapter": 6,
+          "role_en": "Illegal horse-racing wire service owned by the Spang brothers, serving off-course bookmakers in Nevada and California."
         }
       ]
     },
@@ -900,7 +989,8 @@
           "novel": "from-russia-with-love",
           "novel_no": 5,
           "role": "行动与处决部，首脑为罗莎·克莱布；格蘭特隶属该部；诱杀行动的执行部门",
-          "first_chapter": "Three"
+          "first_chapter": "Three",
+          "role_en": "Department of Operations and Executions, headed by Rosa Klebb; Grant belongs to it, and it executes the operation to lure Bond to his death."
         }
       ]
     },
@@ -915,7 +1005,8 @@
           "novel": "from-russia-with-love",
           "novel_no": 5,
           "role": "苏联秘密情报机关；塔蒂亚娜隶属该部中央索引处；尼基京为其情报首脑；格蘭特最初投奔的部门",
-          "first_chapter": "One"
+          "first_chapter": "One",
+          "role_en": "Soviet secret intelligence service; Tatiana belongs to its central index section, Nikitin is its intelligence chief, and it is the department Grant first defects to."
         }
       ]
     },
@@ -930,7 +1021,8 @@
           "novel": "from-russia-with-love",
           "novel_no": 5,
           "role": "苏联外交部情报部门，首脑沃兹德维申斯基将军；参与定目标会议并评估西方情报机关",
-          "first_chapter": "Four"
+          "first_chapter": "Four",
+          "role_en": "Intelligence arm of the Soviet Foreign Ministry, headed by General Vozdvishensky; it takes part in the target-setting meeting and assesses Western intelligence services."
         }
       ]
     },
@@ -945,7 +1037,8 @@
           "novel": "dr-no",
           "novel_no": 6,
           "role": "美国鸟类保护组织，租赁蟹礁岛一角作玫瑰琵鹭保护区，派两名看守员驻岛；因看守员遇害与调查员坠机而不断向美国大使与殖民地部施压，最终把案子推给秘密情报局",
-          "first_chapter": "III"
+          "first_chapter": "III",
+          "role_en": "American bird-protection society, leasing a corner of Crab Key as a roseate spoonbill sanctuary with two wardens on the island; after the wardens are murdered and an investigator's plane crashes, it presses the American ambassador and the Colonial Office until the case is passed to the Secret Service."
         }
       ]
     },
@@ -960,7 +1053,8 @@
           "novel": "dr-no",
           "novel_no": 6,
           "role": "将奥杜邦协会的投诉转交给秘密情报局；邦德赴牙买加的安排经其与总督协调",
-          "first_chapter": "III"
+          "first_chapter": "III",
+          "role_en": "Passes the Audubon Society's complaint to the Secret Service; Bond's Jamaica trip is arranged through it and the Governor."
         }
       ]
     },
@@ -975,7 +1069,8 @@
           "novel": "dr-no",
           "novel_no": 6,
           "role": "纽约两大帮会之一，诺博士青年时任其司库并盗走100万美元黄金，后遭其追杀断手",
-          "first_chapter": "XV"
+          "first_chapter": "XV",
+          "role_en": "One of New York's two great gangs; Dr No was its treasurer in his youth and stole $1 million in gold, after which it hunted him down and shot off his hands."
         }
       ]
     },
@@ -990,7 +1085,8 @@
           "novel": "dr-no",
           "novel_no": 6,
           "role": "纽约另一大帮会，20世纪20年代末与协胜堂爆发帮会战争，双方数百人被杀",
-          "first_chapter": "XV"
+          "first_chapter": "XV",
+          "role_en": "New York's other great gang; in the late 1920s it fought a gang war with the Hip Sings, with hundreds killed on both sides."
         }
       ]
     },
@@ -1005,7 +1101,8 @@
           "novel": "dr-no",
           "novel_no": 6,
           "role": "邦德在蟹礁岛被俘后虚构的供职单位与永久地址，化名约翰·布莱斯自称鸟类学家",
-          "first_chapter": "XIII"
+          "first_chapter": "XIII",
+          "role_en": "The employer and permanent address Bond invents after his capture on Crab Key, posing as the ornithologist John Bryce."
         }
       ]
     },
@@ -1020,7 +1117,8 @@
           "novel": "dr-no",
           "novel_no": 6,
           "role": "调查斯特兰威斯失踪案，采信私奔说；结尾警长主张立即逮捕涉案的牙买加人并打捞莫纳水库",
-          "first_chapter": "III"
+          "first_chapter": "III",
+          "role_en": "Investigates Strangways's disappearance, accepting the elopement theory; at the end the superintendent urges the immediate arrest of the Jamaicans involved and the dragging of the Mona Reservoir."
         }
       ]
     },
@@ -1035,7 +1133,8 @@
           "novel": "goldfinger",
           "novel_no": 7,
           "role": "发现黄金外流并委托情报局调查，史密瑟斯的研究部实为银行的情报系统",
-          "first_chapter": "SIX"
+          "first_chapter": "SIX",
+          "role_en": "Discovers gold flowing out of the country and commissions the Service to investigate; Smithers's research department is in fact the Bank's intelligence system."
         }
       ]
     },
@@ -1050,7 +1149,8 @@
           "novel": "goldfinger",
           "novel_no": 7,
           "role": "莱特的工作单位，邦德密信的收件地址",
-          "first_chapter": "TWENTY"
+          "first_chapter": "TWENTY",
+          "role_en": "Leiter's workplace, the address for Bond's secret letter."
         }
       ]
     },
@@ -1065,23 +1165,27 @@
           "novel": "diamonds-are-forever",
           "novel_no": 4,
           "role": "与斯班格帮、克利夫兰帮并列最高级别的美国帮派；弗拉索与麦戈尼格尔出自该帮",
-          "first_chapter": 6
+          "first_chapter": 6,
+          "role_en": "American gang ranked alongside the Spang and Cleveland mobs at the highest level; Frasso and McGonigle came from it."
         },
         {
           "novel": "goldfinger",
           "novel_no": 7,
           "role": "首脑斯普林格拒绝加入后被灭口",
-          "first_chapter": "SEVENTEEN"
+          "first_chapter": "SEVENTEEN",
+          "role_en": "Its head, Springer, is murdered after refusing to join."
         },
         {
           "novel": "thunderball",
           "novel_no": 9,
-          "role": "布洛菲尔德点名：Magnus Blomberg为底特律紫帮成员（第6章）"
+          "role": "布洛菲尔德点名：Magnus Blomberg为底特律紫帮成员（第6章）",
+          "role_en": "Named by Blofeld: Magnus Blomberg is a member of the Detroit Purple Gang (Chapter 6)."
         },
         {
           "novel": "man-with-golden-gun",
           "novel_no": 13,
-          "role": "斯卡拉曼加1958年与底特律紫帮对头Ramon Rodriguez决斗（第3章档案）；会议上提及Sam Binion与紫帮的关系"
+          "role": "斯卡拉曼加1958年与底特律紫帮对头Ramon Rodriguez决斗（第3章档案）；会议上提及Sam Binion与紫帮的关系",
+          "role_en": "Scaramanga duelled Ramon Rodriguez of the rival Detroit Purple Gang in 1958 (Chapter 3 file); the meeting mentions Sam Binion's connection to the gang."
         }
       ]
     },
@@ -1096,7 +1200,8 @@
           "novel": "goldfinger",
           "novel_no": 7,
           "role": "首脑杰德·午夜首个加入大满贯行动",
-          "first_chapter": "SEVENTEEN"
+          "first_chapter": "SEVENTEEN",
+          "role_en": "Its head, Jed Midnight, is the first to join Operation Grand Slam."
         }
       ]
     },
@@ -1111,7 +1216,8 @@
           "novel": "goldfinger",
           "novel_no": 7,
           "role": "首脑比利·林加入大满贯行动",
-          "first_chapter": "SEVENTEEN"
+          "first_chapter": "SEVENTEEN",
+          "role_en": "Its head, Billy Ring, joins Operation Grand Slam."
         }
       ]
     },
@@ -1126,7 +1232,8 @@
           "novel": "goldfinger",
           "novel_no": 7,
           "role": "普茜·加洛率领的全女性帮派，为行动提供护士人手",
-          "first_chapter": "SEVENTEEN"
+          "first_chapter": "SEVENTEEN",
+          "role_en": "All-woman gang led by Pussy Galore, supplying nurses for the operation."
         }
       ]
     },
@@ -1141,7 +1248,8 @@
           "novel": "goldfinger",
           "novel_no": 7,
           "role": "金手指参股的印度包机公司，其星座式客机座椅由金改制后运往印度",
-          "first_chapter": "THIRTEEN"
+          "first_chapter": "THIRTEEN",
+          "role_en": "Indian charter airline in which Goldfinger holds shares; its Constellation seats, rebuilt in gold, are flown to India."
         }
       ]
     },
@@ -1156,7 +1264,8 @@
           "novel": "goldfinger",
           "novel_no": 7,
           "role": "金手指在瑞士科佩的工厂，拆解劳斯莱斯并改制金座椅",
-          "first_chapter": "THIRTEEN"
+          "first_chapter": "THIRTEEN",
+          "role_en": "Goldfinger's factory at Coppet in Switzerland, dismantling Rolls-Royces and rebuilding the gold seats."
         }
       ]
     },
@@ -1171,7 +1280,8 @@
           "novel": "goldfinger",
           "novel_no": 7,
           "role": "金手指在雷卡尔弗的工厂，名义为合金冶炼，实为黄金加工",
-          "first_chapter": "SEVEN"
+          "first_chapter": "SEVEN",
+          "role_en": "Goldfinger's factory at Reculver, nominally alloy smelting, in fact gold processing."
         }
       ]
     },
@@ -1186,7 +1296,8 @@
           "novel": "for-your-eyes-only",
           "novel_no": 8,
           "role": "第1篇案发地,每周三清晨向F站运送最高机密情报的出发地,其安全处由Schreiber上校负责",
-          "first_chapter": 1
+          "first_chapter": 1,
+          "role_en": "Scene of the first story; departure point of the top-secret material sent to Station F every Wednesday morning, its security under Colonel Schreiber."
         }
       ]
     },
@@ -1201,7 +1312,8 @@
           "novel": "for-your-eyes-only",
           "novel_no": 8,
           "role": "第4篇隶属财政部的缉毒机构,在意大利有行动队,Kristatos为其头号线人",
-          "first_chapter": 4
+          "first_chapter": 4,
+          "role_en": "Fourth story: narcotics agency under the Treasury, with an action team in Italy; Kristatos is its top informant."
         }
       ]
     },
@@ -1216,7 +1328,8 @@
           "novel": "for-your-eyes-only",
           "novel_no": 8,
           "role": "第5篇Krest注资1000万美元的避税基金会,游艇即以基金会资金建造并以科学考察名义出航",
-          "first_chapter": 5
+          "first_chapter": 5,
+          "role_en": "Fifth story: tax-avoidance foundation funded by Krest with $10 million; the yacht is built with its money and sails under the guise of scientific research."
         }
       ]
     },
@@ -1231,7 +1344,8 @@
           "novel": "for-your-eyes-only",
           "novel_no": 8,
           "role": "第5篇Krest自称受其委托采集标本的美国自然历史机构,Hildebrand Rarity原定寄往该机构",
-          "first_chapter": 5
+          "first_chapter": 5,
+          "role_en": "Fifth story: American natural-history institution Krest claims to be collecting specimens for; the Hildebrand Rarity was to be sent to it."
         }
       ]
     },
@@ -1246,7 +1360,8 @@
           "novel": "thunderball",
           "novel_no": 9,
           "role": "SPECTRE的公开掩护组织，设于巴黎奥斯曼大道136号之二",
-          "first_chapter": 5
+          "first_chapter": 5,
+          "role_en": "SPECTRE's public front organisation, at 136 bis Boulevard Haussmann, Paris."
         }
       ]
     },
@@ -1261,7 +1376,8 @@
           "novel": "thunderball",
           "novel_no": 9,
           "role": "澳门犯罪帮会，利普为其成员，SPECTRE次级特工的来源之一",
-          "first_chapter": 2
+          "first_chapter": 2,
+          "role_en": "Macao criminal gang; Lippe is a member, and it is one source of SPECTRE's junior agents."
         }
       ]
     },
@@ -1276,7 +1392,8 @@
           "novel": "thunderball",
           "novel_no": 9,
           "role": "SPECTRE成员来源之一，提供3名前成员",
-          "first_chapter": 5
+          "first_chapter": 5,
+          "role_en": "One of SPECTRE's recruiting sources, providing three former members."
         }
       ]
     },
@@ -1291,7 +1408,8 @@
           "novel": "thunderball",
           "novel_no": 9,
           "role": "布洛菲尔德二战时在土耳其建立的情报网，后转为SPECTRE土耳其组",
-          "first_chapter": 5
+          "first_chapter": 5,
+          "role_en": "Intelligence network Blofeld built in Turkey during the war, later becoming SPECTRE's Turkish section."
         }
       ]
     },
@@ -1306,7 +1424,8 @@
           "novel": "thunderball",
           "novel_no": 9,
           "role": "SPECTRE土耳其组经营的中东海洛因通道，出口在贝鲁特",
-          "first_chapter": 5
+          "first_chapter": 5,
+          "role_en": "Middle East heroin route run by SPECTRE's Turkish section, with its outlet in Beirut."
         }
       ]
     },
@@ -1321,7 +1440,8 @@
           "novel": "spy-who-loved-me",
           "novel_no": 10,
           "role": "霍勒谎称的保险公司名；梦松旅馆纵火骗保的目标保险公司，旅馆估值约50万美元",
-          "first_chapter": "Twelve"
+          "first_chapter": "Twelve",
+          "role_en": "The insurance company name Horror invents; the target insurer for the Dreamy Pines motel arson fraud, the motel being valued at about $500,000."
         }
       ]
     },
@@ -1336,7 +1456,8 @@
           "novel": "spy-who-loved-me",
           "novel_no": 10,
           "role": "西德报业合作社出资的独立通讯社；薇薇安任伦敦办事处二号职员，周薪30镑",
-          "first_chapter": "Four"
+          "first_chapter": "Four",
+          "role_en": "Independent news agency funded by a West German press cooperative; Vivienne is second-in-command at its London office, at 30 pounds a week."
         }
       ]
     },
@@ -1351,7 +1472,8 @@
           "novel": "spy-who-loved-me",
           "novel_no": 10,
           "role": "切尔西地方周报；薇薇安任编辑助理后升署名记者，周薪20畿尼",
-          "first_chapter": "Four"
+          "first_chapter": "Four",
+          "role_en": "Chelsea local weekly; Vivienne works as editorial assistant, then rises to bylined reporter, at 20 guineas a week."
         }
       ]
     },
@@ -1366,7 +1488,8 @@
           "novel": "spy-who-loved-me",
           "novel_no": 10,
           "role": "多伦多最凶悍的帮派，与芝加哥、底特律帮派有关联；受雇刺杀鲍里斯，枪战中一死两重伤",
-          "first_chapter": "Eleven"
+          "first_chapter": "Eleven",
+          "role_en": "Toronto's fiercest gang, linked to the Chicago and Detroit mobs; hired to kill Boris, losing one dead and two badly wounded in the shoot-out."
         }
       ]
     },
@@ -1381,7 +1504,8 @@
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
           "role": "受理布洛菲尔德爵位申请的机构；黑貂·蛇怪策划化名行动，邦德冒充其纹章官",
-          "first_chapter": 6
+          "first_chapter": 6,
+          "role_en": "Body handling Blofeld's application for a title; Sable Basilisk plans the alias operation, with Bond impersonating its herald."
         }
       ]
     },
@@ -1396,7 +1520,8 @@
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
           "role": "苏黎世站，站长亚历山大·缪尔；二号人物坎贝尔在雪山诊所被捕身亡",
-          "first_chapter": 6
+          "first_chapter": 6,
+          "role_en": "Zurich station, headed by Alexander Muir; its second-in-command, Campbell, is captured at Piz Gloria and dies."
         }
       ]
     },
@@ -1411,7 +1536,8 @@
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
           "role": "富兰克林所在部门，提供禽瘟疫情与生物战分析，协调扣留女孩",
-          "first_chapter": 21
+          "first_chapter": 21,
+          "role_en": "Franklin's department, providing analysis of the fowl-pest outbreak and biological warfare, and coordinating the detention of the girls."
         }
       ]
     },
@@ -1426,7 +1552,8 @@
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
           "role": "向德拉科出借军用直升机与飞行员",
-          "first_chapter": 24
+          "first_chapter": 24,
+          "role_en": "Lends Draco a military helicopter and pilot."
         }
       ]
     },
@@ -1441,7 +1568,8 @@
           "novel": "on-her-majestys-secret-service",
           "novel_no": 11,
           "role": "拒绝向英国提供布洛菲尔德行踪与银行户头信息；艾玛·布朗特持其通行证通关",
-          "first_chapter": 6
+          "first_chapter": 6,
+          "role_en": "Refuses Britain information on Blofeld's movements and bank accounts; Irma Bunt passes customs on its laissez-passer."
         }
       ]
     },
@@ -1456,7 +1584,8 @@
           "novel": "you-only-live-twice",
           "novel_no": 12,
           "role": "田中虎领导的日本秘密情报机构，掌控MAGIC44并负责对付死亡城堡",
-          "first_chapter": 5
+          "first_chapter": 5,
+          "role_en": "Japanese secret intelligence service led by Tiger Tanaka, controlling MAGIC 44 and tasked with the Castle of Death."
         }
       ]
     },
@@ -1471,7 +1600,8 @@
           "novel": "you-only-live-twice",
           "novel_no": 12,
           "role": "迪科·亨德森领导的驻东京机构，为邦德提供外交掩护与通讯渠道",
-          "first_chapter": 4
+          "first_chapter": 4,
+          "role_en": "Tokyo-based organisation led by Dikko Henderson, giving Bond diplomatic cover and a communications channel."
         }
       ]
     },
@@ -1486,7 +1616,8 @@
           "novel": "you-only-live-twice",
           "novel_no": 12,
           "role": "战前已解散的日本极端秘密会社，其余党约20人受雇为死亡城堡守卫，并派特工跟踪田中",
-          "first_chapter": 7
+          "first_chapter": 7,
+          "role_en": "Japanese extremist secret society disbanded before the war; some 20 of its remnants are hired as guards of the Castle of Death, and it sends an agent to tail Tanaka."
         }
       ]
     },
@@ -1501,7 +1632,8 @@
           "novel": "man-with-golden-gun",
           "novel_no": 13,
           "role": "斯卡拉曼加的直接雇主；1959年后他以DSS“执法者”身份执行暗杀",
-          "first_chapter": 3
+          "first_chapter": 3,
+          "role_en": "Scaramanga's direct employer; after 1959 he carries out assassinations as a DSS 'enforcer'."
         }
       ]
     },
@@ -1516,7 +1648,8 @@
           "novel": "man-with-golden-gun",
           "novel_no": 13,
           "role": "斯卡拉曼加任主席的跨国犯罪投资集团，七名股东（Hendriks、Binion、Gengerella、Rotkopf、Garfinkel、Paradise与斯卡拉曼加），从事食糖期货操纵、甘蔗纵火、毒品与赌场阴谋",
-          "first_chapter": 9
+          "first_chapter": 9,
+          "role_en": "Multinational criminal investment group chaired by Scaramanga, with seven shareholders (Hendriks, Binion, Gengerella, Rotkopf, Garfinkel, Paradise and Scaramanga), dealing in sugar-futures rigging, cane burning, drugs and casino schemes."
         }
       ]
     },
@@ -1531,7 +1664,8 @@
           "novel": "man-with-golden-gun",
           "novel_no": 13,
           "role": "通过Gengerella首次与克格勃结盟；斯卡拉曼加与Hendriks均认为其只认钱",
-          "first_chapter": 9
+          "first_chapter": 9,
+          "role_en": "First allies with the KGB through Gengerella; both Scaramanga and Hendriks consider it interested only in money."
         }
       ]
     },
@@ -1546,7 +1680,8 @@
           "novel": "man-with-golden-gun",
           "novel_no": 13,
           "role": "牙买加Frome糖厂业主，产量约占牙买加食糖四分之一；其甘蔗田屡遭纵火",
-          "first_chapter": 4
+          "first_chapter": 4,
+          "role_en": "Owner of the Frome sugar factory in Jamaica, producing about a quarter of Jamaica's sugar; its cane fields are repeatedly set on fire."
         }
       ]
     },
@@ -1561,7 +1696,8 @@
           "novel": "man-with-golden-gun",
           "novel_no": 13,
           "role": "牙买加留须、吸大麻的教派，聚居金斯敦外Dungle；斯卡拉曼加以大麻供应换取其成员纵火烧甘蔗田",
-          "first_chapter": 6
+          "first_chapter": 6,
+          "role_en": "Bearded, ganja-smoking Jamaican sect, settled in the Dungle outside Kingston; Scaramanga trades ganja supplies for its members burning cane fields."
         }
       ]
     },
@@ -1576,7 +1712,8 @@
           "novel": "octopussy",
           "novel_no": 14,
           "role": "第1篇：秘密情报机构与联合行动总部合办，战后清理盖世太保与Abwehr藏匿点；下辖六支分队，Smythe任A Force二号人物",
-          "first_chapter": 1
+          "first_chapter": 1,
+          "role_en": "First story: run jointly by the Secret Service and Combined Operations Headquarters, clearing Gestapo and Abwehr hideouts after the war; six parties under it, with Smythe second-in-command of A Force."
         }
       ]
     },
@@ -1591,7 +1728,8 @@
           "novel": "octopussy",
           "novel_no": 14,
           "role": "第1篇：Smythe所属军种，战后将接手其军事法庭审判",
-          "first_chapter": 1
+          "first_chapter": 1,
+          "role_en": "First story: Smythe's service, which will take over his court martial after the war."
         }
       ]
     },
@@ -1606,7 +1744,8 @@
           "novel": "octopussy",
           "novel_no": 14,
           "role": "第2篇：秘密情报机构柏林站，站长Tanqueray，二号人物Sender，负责接应272与安排狙击阵地",
-          "first_chapter": 2
+          "first_chapter": 2,
+          "role_en": "Second story: the Secret Service's Berlin station, headed by Tanqueray with Sender as second-in-command, receiving 272 and arranging the sniping position."
         }
       ]
     },
@@ -1621,7 +1760,8 @@
           "novel": "octopussy",
           "novel_no": 14,
           "role": "第3篇：负责运作双面特工，编造Purple Cipher的SITREP内容并设局让Freudenstein盗走密码本钥匙",
-          "first_chapter": 3
+          "first_chapter": 3,
+          "role_en": "Third story: runs the double agent, fabricating the Purple Cipher SITREP and setting the trap for Freudenstein to steal the codebook key."
         }
       ]
     },
@@ -1636,7 +1776,8 @@
           "novel": "octopussy",
           "novel_no": 14,
           "role": "第3篇：拍卖Emerald Sphere的拍卖行，Lot 42以15.5万英镑成交",
-          "first_chapter": 3
+          "first_chapter": 3,
+          "role_en": "Third story: the auction house selling the Emerald Sphere; Lot 42 goes for 155,000 pounds."
         }
       ]
     },
@@ -1651,7 +1792,8 @@
           "novel": "octopussy",
           "novel_no": 14,
           "role": "第3篇：世界最大Fabergé经销商，受客户委托竞拍Emerald Sphere并最终以15.5万英镑拍得",
-          "first_chapter": 3
+          "first_chapter": 3,
+          "role_en": "Third story: the world's largest Faberge dealer, bidding for the Emerald Sphere on a client's behalf and finally winning it for 155,000 pounds."
         }
       ]
     }

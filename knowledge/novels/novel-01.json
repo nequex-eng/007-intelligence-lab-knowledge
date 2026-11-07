@@ -16,168 +16,196 @@
     "method": "按章节sed分段读"
   },
   "story_timeline": "备忘录写于行动前两周；勒·希弗计划6月15日或之后在皇家莱索赌场赢5000万法郎补亏空；邦德提前数日抵达，抵达后第二天上午马蒂斯登门，同一天中午结识薇丝朋，下午遭遇保加利亚人炸弹袭击，当晚与勒·希弗进行百家乐对决至次日凌晨约2时30分；凌晨约4时薇丝朋被绑架，邦德驾车追赶约5时在钉刺路障处翻车被俘，上午约7时起在别墅受酷刑约1小时，随后SMERSH特工枪杀勒·希弗；邦德昏迷约两天，第3天上午苏醒，第8天首次见薇丝朋，约3周后痊愈，7月与薇丝朋同住海边客栈约一周，某周日夜薇丝朋服安眠药自杀，次日清晨邦德读遗书并向伦敦报告。原文未明示故事年份，1953年为出版年，时间线按原文月份与前后关系整理。",
+  "synopsis_en": "James Bond of the British Secret Service is sent to Royale-les-Eaux, a French seaside resort, with a single task: to bankrupt Le Chiffre, a Soviet paymaster who has embezzled fifty million francs of trade-union funds and lost them on a chain of brothels ruined by France's 1946 anti-prostitution law. Le Chiffre plans to win the money back at the baccarat table; Bond must beat him there, with twenty-five million francs from the Treasury and the help of René Mathis of the Deuxième Bureau, CIA man Felix Leiter, and Vesper Lynd, a radio expert sent from London. Bond wins the climactic game - then loses everything that matters. Le Chiffre kidnaps Vesper, captures Bond, and tortures him for the cheque holding his winnings, until a SMERSH assassin arrives to execute Le Chiffre for treason and marks Bond's hand with the Russian letter Ш. Recovering in a clinic, Bond falls in love with Vesper and plans to marry her, only to find her dead by her own hand one Sunday morning. Her farewell letter confesses everything: she was a Soviet double agent, blackmailed through her Polish lover, a prisoner in Russia. Bond reports her death to London and turns his hatred on SMERSH itself.",
   "chapters": [
     {
       "no": 1,
       "title": "THE SECRET AGENT",
       "start_line": 1,
-      "summary": "凌晨3时邦德在皇家莱索赌场观察勒·希弗赢钱，自己两日赢300万法郎；回Splendide酒店45号房，收到牙买加发来的电报，确认1000万法郎资金在途；检查房间防窃听布置（头发、滑石粉、抽水马桶水位），枕下藏锯短枪管的点38柯尔特警用转轮手枪。"
+      "summary": "凌晨3时邦德在皇家莱索赌场观察勒·希弗赢钱，自己两日赢300万法郎；回Splendide酒店45号房，收到牙买加发来的电报，确认1000万法郎资金在途；检查房间防窃听布置（头发、滑石粉、抽水马桶水位），枕下藏锯短枪管的点38柯尔特警用转轮手枪。",
+      "summary_en": "At 3 a.m. Bond watches Le Chiffre winning at the Casino Royale; he is himself three million francs up after two days. Back in room 45 at the Hôtel Splendide, he finds a cable from Jamaica confirming ten million francs on its way, and checks his room for signs of a search - a hair in a drawer, talcum powder, the lavatory cistern - before sleeping with a sawn-barrel .38 Colt Police Positive under his pillow."
     },
     {
       "no": 2,
       "title": "DOSSIER FOR M",
       "start_line": 48,
-      "summary": "S处备忘录：勒·希弗挪用苏联列宁格勒第三处拨给阿尔萨斯工会的5000万法郎买下诺曼底与布列塔尼妓院连锁Cordon Jaune，1946年4月13日法国第46685号法律关闭妓院致其血本无归；附录A为勒·希弗档案（约45岁、达豪难民营出身、失忆后取此名），附录B介绍SMERSH（俄语“间谍之死”，首脑贝利亚，下辖五个处）。"
+      "summary": "S处备忘录：勒·希弗挪用苏联列宁格勒第三处拨给阿尔萨斯工会的5000万法郎买下诺曼底与布列塔尼妓院连锁Cordon Jaune，1946年4月13日法国第46685号法律关闭妓院致其血本无归；附录A为勒·希弗档案（约45岁、达豪难民营出身、失忆后取此名），附录B介绍SMERSH（俄语“间谍之死”，首脑贝利亚，下辖五个处）。",
+      "summary_en": "A memorandum from the Head of Station S to M: Le Chiffre has embezzled fifty million francs of Soviet money entrusted to the Alsace trade union and lost it on the Cordon Jaune chain of brothels, ruined by France's Law No. 46685 of 13 April 1946. Appendix A profiles Le Chiffre - about 45, a Dachau displaced person with no memory, now treasurer of the union - and Appendix B describes SMERSH, \"Death to Spies\", headed by Beria, with five departments."
     },
     {
       "no": 3,
       "title": "NUMBER 007",
       "start_line": 118,
-      "summary": "M批准以赌桌击败勒·希弗的计划，选中007邦德，资金上限2500万法郎，先给1000万；邦德战前曾在蒙特卡洛赌场蹲守两个月破获罗马尼亚人作弊团伙；M说会派人负责邦德的通讯，邦德希望是马蒂斯。"
+      "summary": "M批准以赌桌击败勒·希弗的计划，选中007邦德，资金上限2500万法郎，先给1000万；邦德战前曾在蒙特卡洛赌场蹲守两个月破获罗马尼亚人作弊团伙；M说会派人负责邦德的通讯，邦德希望是马蒂斯。",
+      "summary_en": "M approves the plan to ruin Le Chiffre at the baccarat table and picks 007, James Bond, with up to twenty-five million francs - ten to start, ten more to follow. Bond recalls two months spent before the war in Monte Carlo watching a Romanian cheating team; M says someone will handle Bond's communications, and Bond hopes it will be Mathis."
     },
     {
       "no": 4,
       "title": "L'ENNEMI ÉCOUTE",
       "start_line": 158,
-      "summary": "邦德抵达两天后，马蒂斯扮作Radio Stentor无线电推销员登门，用收音机高音量干扰楼上蒙茨夫妇的窃听器，告知邦德已被监听，助手是无线电专家薇丝朋·琳德，另有美国人费利克斯·莱特在场，勒·希弗住在海岸公路约10英里外的别墅。"
+      "summary": "邦德抵达两天后，马蒂斯扮作Radio Stentor无线电推销员登门，用收音机高音量干扰楼上蒙茨夫妇的窃听器，告知邦德已被监听，助手是无线电专家薇丝朋·琳德，另有美国人费利克斯·莱特在场，勒·希弗住在海岸公路约10英里外的别墅。",
+      "summary_en": "Two days after Bond's arrival, Mathis calls at his room disguised as a Radio Stentor salesman, drowning the listening device in the Muntzes' room above with a radio at full volume. He warns Bond the room is bugged, introduces his radio expert assistant Vesper Lynd, and mentions the American Felix Leiter; Le Chiffre lives in a villa about ten miles away on the coast road."
     },
     {
       "no": 5,
       "title": "THE GIRL FROM HEADQUARTERS",
       "start_line": 205,
-      "summary": "介绍皇家莱索历史（渔村、第二帝国度假地、硫磺泉、1950年巴黎财团复兴赌场）；邦德驾4.5升机械增压宾利侦察勒·希弗别墅；中午在Hermitage酒吧经马蒂斯介绍认识薇丝朋，约其共进晚餐；酒吧窗户被爆炸震碎。"
+      "summary": "介绍皇家莱索历史（渔村、第二帝国度假地、硫磺泉、1950年巴黎财团复兴赌场）；邦德驾4.5升机械增压宾利侦察勒·希弗别墅；中午在Hermitage酒吧经马蒂斯介绍认识薇丝朋，约其共进晚餐；酒吧窗户被爆炸震碎。",
+      "summary_en": "Royale-les-Eaux is introduced - a fishing village turned Second Empire resort with sulphur springs, revived in 1950 by a Paris syndicate. Bond drives his supercharged 4.5-litre Bentley to reconnoitre Le Chiffre's villa; at noon Mathis introduces him to Vesper Lynd in the Hermitage bar and Bond invites her to dinner; the bar window is shattered by an explosion."
     },
     {
       "no": 6,
       "title": "TWO MEN IN STRAW HATS",
       "start_line": 249,
-      "summary": "邦德回酒店途中，两名戴草帽、提红蓝相机包的保加利亚人引爆炸弹，炸弹提前爆炸，两人当场炸死，邦德仅受惊；马蒂斯令警方对外称保加利亚共产党人内讧，并全力抓捕第三人。"
+      "summary": "邦德回酒店途中，两名戴草帽、提红蓝相机包的保加利亚人引爆炸弹，炸弹提前爆炸，两人当场炸死，邦德仅受惊；马蒂斯令警方对外称保加利亚共产党人内讧，并全力抓捕第三人。",
+      "summary_en": "On his way back to the hotel, two Bulgarians in straw hats carrying red and blue camera cases detonate a bomb meant for Bond; it goes off early and kills them both, leaving Bond unhurt. Mathis has the police put it about that the two were Bulgarian Communists who quarrelled, and orders a hunt for a third man."
     },
     {
       "no": 7,
       "title": "ROUGE ET NOIR",
       "start_line": 281,
-      "summary": "邦德按摩、睡眠恢复后晚间玩轮盘，用压两个打（dozen）的方法赢100万法郎；结识美国人费利克斯·莱特，邦德发明以3份戈登金酒、1份伏特加、半份Kina Lillet调制的马提尼，后以薇丝朋命名。"
+      "summary": "邦德按摩、睡眠恢复后晚间玩轮盘，用压两个打（dozen）的方法赢100万法郎；结识美国人费利克斯·莱特，邦德发明以3份戈登金酒、1份伏特加、半份Kina Lillet调制的马提尼，后以薇丝朋命名。",
+      "summary_en": "After a massage and sleep, Bond plays roulette in the evening, winning a million francs by backing two dozens, and meets the American Felix Leiter. He invents a martini of three measures of Gordon's gin, one of vodka and half a measure of Kina Lillet, and later names it after Vesper."
     },
     {
       "no": 8,
       "title": "PINK LIGHTS AND CHAMPAGNE",
       "start_line": 333,
-      "summary": "邦德佩带点25贝雷塔手枪赴约；晚餐时薇丝朋说出自己的名字源于出生在暴风雨之夜，邦德借用Vesper为鸡尾酒命名；两人吃鱼子酱、牛腰肉、草莓，喝1943年Taittinger香槟。"
+      "summary": "邦德佩带点25贝雷塔手枪赴约；晚餐时薇丝朋说出自己的名字源于出生在暴风雨之夜，邦德借用Vesper为鸡尾酒命名；两人吃鱼子酱、牛腰肉、草莓，喝1943年Taittinger香槟。",
+      "summary_en": "Bond carries his flat .25 Beretta in a shoulder holster to dinner. Over caviar, beef and strawberries, with 1943 Taittinger champagne, Vesper tells him her name comes from the stormy evening of her birth - and Bond borrows it for his cocktail."
     },
     {
       "no": 9,
       "title": "THE GAME IS BACCARAT",
       "start_line": 383,
-      "summary": "薇丝朋转述第三名保加利亚人被捕后招供：红蓝两包皆为烈性炸弹，所谓烟雾弹是骗局，两人本就注定与邦德同归于尽；邦德向薇丝朋讲解百家乐规则与计划：勒·希弗花100万法郎买下庄家，资本约2400万法郎，邦德要正面击垮其赌本。"
+      "summary": "薇丝朋转述第三名保加利亚人被捕后招供：红蓝两包皆为烈性炸弹，所谓烟雾弹是骗局，两人本就注定与邦德同归于尽；邦德向薇丝朋讲解百家乐规则与计划：勒·希弗花100万法郎买下庄家，资本约2400万法郎，邦德要正面击垮其赌本。",
+      "summary_en": "Vesper reports that the third Bulgarian has been caught and has confessed: both parcels were high explosive; the talk of a smoke bomb was a lie, and the two men were meant to die with Bond. Bond explains baccarat to Vesper and the plan: Le Chiffre has paid a million francs for the bank and holds about twenty-four million; Bond means to break him outright."
     },
     {
       "no": 10,
       "title": "THE HIGH TABLE",
       "start_line": 430,
-      "summary": "百家乐开局，介绍同桌赌客（希腊船主、丹弗斯勋爵夫妇、杜邦夫妇、卡梅尔·德莱恩、印度土王、托梅利等）；勒·希弗坐庄，邦德坐6号位，开局500万法郎赌注，邦德首注200万法郎以天生9点获胜。"
+      "summary": "百家乐开局，介绍同桌赌客（希腊船主、丹弗斯勋爵夫妇、杜邦夫妇、卡梅尔·德莱恩、印度土王、托梅利等）；勒·希弗坐庄，邦德坐6号位，开局500万法郎赌注，邦德首注200万法郎以天生9点获胜。",
+      "summary_en": "The baccarat game opens. The players round the high table are introduced - a Greek shipowner, Lord and Lady Danvers, the Du Ponts, Carmel Delane, an Indian maharajah and others. Le Chiffre takes the bank; Bond sits at number six. The bank opens at five million francs; Bond's first bet of two million wins on a natural nine."
     },
     {
       "no": 11,
       "title": "MOMENT OF TRUTH",
       "start_line": 479,
-      "summary": "牌局持续约两小时，邦德一度赢400万法郎、资本达2800万法郎；随后连输，1200万法郎在两手内输光，最后一注1600万法郎以6点对庄家9点落败，邦德被清空。"
+      "summary": "牌局持续约两小时，邦德一度赢400万法郎、资本达2800万法郎；随后连输，1200万法郎在两手内输光，最后一注1600万法郎以6点对庄家9点落败，邦德被清空。",
+      "summary_en": "The game runs about two hours; Bond is at one point four million francs up, with capital of twenty-eight million, then loses steadily - twelve million francs in two coups - and his last sixteen-million-franc bet falls, six to the bank's nine. He is cleaned out."
     },
     {
       "no": 12,
       "title": "THE DEADLY TUBE",
       "start_line": 537,
-      "summary": "莱特以“马歇尔援助”名义送来3200万法郎匿名信封，邦德得以继续；勒·希弗只需再赢800万法郎即达目标；决胜局前持拐杖的枪手用消音手枪顶住邦德脊柱逼其撤注，邦德猛然后仰撞断拐杖枪脱身，枪被马蒂斯取走，子弹为达姆弹。"
+      "summary": "莱特以“马歇尔援助”名义送来3200万法郎匿名信封，邦德得以继续；勒·希弗只需再赢800万法郎即达目标；决胜局前持拐杖的枪手用消音手枪顶住邦德脊柱逼其撤注，邦德猛然后仰撞断拐杖枪脱身，枪被马蒂斯取走，子弹为达姆弹。",
+      "summary_en": "Leiter sends an anonymous envelope with thirty-two million francs - \"Marshall Aid\" - and Bond can play on. Le Chiffre needs only eight million more to reach his target. Before the decisive coup, a gunman with a cane presses a silenced pistol into Bond's spine and orders him to withdraw his bet; Bond throws himself backwards, snapping the cane gun across the chair, and escapes. Mathis takes the gun away; the bullet is a dum-dum."
     },
     {
       "no": 13,
       "title": "'A WHISPER OF LOVE, A WHISPER OF HATE'",
       "start_line": 598,
-      "summary": "凌晨2时决胜局：邦德两张Q为0点，补一张红桃9，勒·希弗持3点补牌得5成8点，邦德以9点获胜；勒·希弗追加1000万法郎最后一注，邦德再以天生9点对庄家两张K获胜，赢走全部赌注共7000多万法郎，勒·希弗离席。"
+      "summary": "凌晨2时决胜局：邦德两张Q为0点，补一张红桃9，勒·希弗持3点补牌得5成8点，邦德以9点获胜；勒·希弗追加1000万法郎最后一注，邦德再以天生9点对庄家两张K获胜，赢走全部赌注共7000多万法郎，勒·希弗离席。",
+      "summary_en": "At 2 a.m., the decisive coup: Bond holds two queens - nothing - draws the nine of hearts, \"a whisper of love, a whisper of hate\". Le Chiffre, holding three, draws a five for eight; Bond's nine wins. Le Chiffre stakes a last ten million; Bond wins again with a natural nine against the banker's two kings, taking over seventy million francs in all. Le Chiffre leaves the table in silence."
     },
     {
       "no": 14,
       "title": "'LA VIE EN ROSE?'",
       "start_line": 673,
-      "summary": "邦德与薇丝朋到Roi Galant夜总会庆祝，薇丝朋心不在焉；一封伪造的马蒂斯字条把薇丝朋骗出大厅，邦德追出时只见一辆雪铁龙载着挣扎的薇丝朋驶向海岸公路，薇丝朋的晚装包被抛出车外，内有伪造字条。"
+      "summary": "邦德与薇丝朋到Roi Galant夜总会庆祝，薇丝朋心不在焉；一封伪造的马蒂斯字条把薇丝朋骗出大厅，邦德追出时只见一辆雪铁龙载着挣扎的薇丝朋驶向海岸公路，薇丝朋的晚装包被抛出车外，内有伪造字条。",
+      "summary_en": "Bond and Vesper celebrate at the Roi Galant nightclub, where Vesper is distracted. A forged note in Mathis's handwriting lures her out of the hall; Bond follows to see a Citroën speeding away down the coast road with Vesper struggling inside, her evening bag thrown from the car, the forged note inside it."
     },
     {
       "no": 15,
       "title": "BLACK HARE AND GREY HOUND",
       "start_line": 708,
-      "summary": "邦德驾宾利以约120英里时速追赶雪铁龙，车上勒·希弗驾车、两名枪手与被裙子蒙头的薇丝朋同车；勒·希弗在岔路口命人撒下钉刺链毯后拐入小路埋伏，邦德未及刹车。"
+      "summary": "邦德驾宾利以约120英里时速追赶雪铁龙，车上勒·希弗驾车、两名枪手与被裙子蒙头的薇丝朋同车；勒·希弗在岔路口命人撒下钉刺链毯后拐入小路埋伏，邦德未及刹车。",
+      "summary_en": "Bond gives chase in the Bentley at about 120 miles an hour. In the Citroën are Le Chiffre driving, two gunmen, and Vesper with her dress pulled over her head. At a crossroads Le Chiffre has a carpet of spiked chainmail spread across the road, then turns down a side lane to wait in ambush; Bond has no time to brake."
     },
     {
       "no": 16,
       "title": "THE CRAWLING OF THE SKIN",
       "start_line": 740,
-      "summary": "宾利压上钉刺后翻车，邦德被拖出并绑缚，凌晨约5时被押至勒·希弗租住的别墅Les Noctambules；邦德试图冲向薇丝朋被两名枪手轻易制服，勒·希弗命人将其剥光绑在挖去藤面的椅子上。"
+      "summary": "宾利压上钉刺后翻车，邦德被拖出并绑缚，凌晨约5时被押至勒·希弗租住的别墅Les Noctambules；邦德试图冲向薇丝朋被两名枪手轻易制服，勒·希弗命人将其剥光绑在挖去藤面的椅子上。",
+      "summary_en": "The Bentley hits the spikes and overturns. Bond is dragged out and bound, and at about 5 a.m. is taken to Le Chiffre's rented villa, Les Noctambules. He tries to reach Vesper and is easily overpowered by the two gunmen; Le Chiffre orders him stripped and tied to a chair with its cane seat cut out."
     },
     {
       "no": 17,
       "title": "'MY DEAR BOY'",
       "start_line": 789,
-      "summary": "勒·希弗用三尺藤地毯拍反复抽打邦德下体逼问4000万法郎支票藏处；邦德始终不说；勒·希弗称已搜查邦德房间并编好说辞（邦德输光后自愿赠票离境），威胁下一步对薇丝朋下手；邦德昏厥约10分钟后被弄醒。"
+      "summary": "勒·希弗用三尺藤地毯拍反复抽打邦德下体逼问4000万法郎支票藏处；邦德始终不说；勒·希弗称已搜查邦德房间并编好说辞（邦德输光后自愿赠票离境），威胁下一步对薇丝朋下手；邦德昏厥约10分钟后被弄醒。",
+      "summary_en": "Le Chiffre beats Bond's groin with a three-foot carpet beater, demanding to know where the forty-million-franc cheque is hidden. Bond says nothing. Le Chiffre tells him his room has been searched and a story prepared - that Bond gave him the cheque willingly after losing - and threatens Vesper next. Bond faints for about ten minutes and is revived."
     },
     {
       "no": 18,
       "title": "A CRAGLIKE FACE",
       "start_line": 876,
-      "summary": "勒·希弗正要以刻刀阉割邦德时，一名戴黑面罩、着浅黄雨衣的SMERSH特工出现，宣布勒·希弗为叛徒与窃贼，以消音手枪一枪击毙勒·希弗；特工在邦德右手背刻下俄文字母Ш（倒M形），称邦德先后两次靠运气与失误获救，随后离去。"
+      "summary": "勒·希弗正要以刻刀阉割邦德时，一名戴黑面罩、着浅黄雨衣的SMERSH特工出现，宣布勒·希弗为叛徒与窃贼，以消音手枪一枪击毙勒·希弗；特工在邦德右手背刻下俄文字母Ш（倒M形），称邦德先后两次靠运气与失误获救，随后离去。",
+      "summary_en": "As Le Chiffre is about to castrate Bond with a knife, a SMERSH agent in a black mask and fawn mackintosh appears, denounces Le Chiffre as a traitor and thief, and shoots him through the forehead with a silenced pistol. He cuts the Russian letter Ш into the back of Bond's right hand, tells him he has twice been saved by luck and by mistake, and leaves."
     },
     {
       "no": 19,
       "title": "THE WHITE TENT",
       "start_line": 909,
-      "summary": "邦德昏迷两天后在皇家莱索疗养院苏醒，护士吉布森与法籍医生照料；马蒂斯告知：两名枪手各中一发点35子弹死于后脑，薇丝朋未受侵犯；对外宣称勒·希弗枪杀同伙后自杀；邦德说出支票藏在房门号牌之后。"
+      "summary": "邦德昏迷两天后在皇家莱索疗养院苏醒，护士吉布森与法籍医生照料；马蒂斯告知：两名枪手各中一发点35子弹死于后脑，薇丝朋未受侵犯；对外宣称勒·希弗枪杀同伙后自杀；邦德说出支票藏在房门号牌之后。",
+      "summary_en": "Bond wakes in the Royale-les-Eaux clinic after two days unconscious, nursed by Nurse Gibson and a young French doctor. Mathis tells him the two gunmen were each shot once in the back of the head with a .35 bullet, and that Vesper was not molested; officially Le Chiffre is said to have shot his accomplices and killed himself. Bond reveals the cheque is hidden behind his room's number plate."
     },
     {
       "no": 20,
       "title": "THE NATURE OF EVIL",
       "start_line": 961,
-      "summary": "邦德与马蒂斯长谈善恶：邦德讲述在纽约与斯德哥尔摩执行两次杀人任务获颁双0编号的往事，称想辞职；马蒂斯反驳，称世上确有真正的恶人，邦德终将继续追捕他们；邦德认出右手刻痕为俄文字母Ш，意为间谍。"
+      "summary": "邦德与马蒂斯长谈善恶：邦德讲述在纽约与斯德哥尔摩执行两次杀人任务获颁双0编号的往事，称想辞职；马蒂斯反驳，称世上确有真正的恶人，邦德终将继续追捕他们；邦德认出右手刻痕为俄文字母Ш，意为间谍。",
+      "summary_en": "Bond and Mathis argue about good and evil. Bond tells of the two killings that earned him his Double-O number - in New York and Stockholm - and says he wants to resign. Mathis answers that there are genuinely evil men in the world, and that Bond will go on hunting them. Bond recognizes the mark on his hand as the Russian letter Ш - a spy's brand."
     },
     {
       "no": 21,
       "title": "VESPER",
       "start_line": 1013,
-      "summary": "第8天邦德首次见薇丝朋；薇丝朋讲述被绑经过（裙子蒙头、扔包求救、在别墅未受侵犯、听到一声遥远的尖叫），邦德为她开脱并在报告中为她遮掩；两人约定康复后去海边，薇丝朋暗示以身相许。"
+      "summary": "第8天邦德首次见薇丝朋；薇丝朋讲述被绑经过（裙子蒙头、扔包求救、在别墅未受侵犯、听到一声遥远的尖叫），邦德为她开脱并在报告中为她遮掩；两人约定康复后去海边，薇丝朋暗示以身相许。",
+      "summary_en": "On the eighth day Bond sees Vesper for the first time since the kidnapping. She describes the abduction - her dress pulled over her head, throwing her bag out of the window, hearing one distant scream in the villa - and Bond covers for her in his report. They agree to go to the seaside when he recovers; Vesper hints she will give herself to him."
     },
     {
       "no": 22,
       "title": "THE HASTENING SALOON",
       "start_line": 1072,
-      "summary": "邦德迅速康复，写报告时为薇丝朋粉饰绑架经过；约3周后医生宣布痊愈，正值7月；两人乘车去海边客栈，途中薇丝朋疑心被一辆黑色轿车跟踪，邦德认为是错觉，客栈名为L'Auberge du Fruit Défendu，店主为独臂的维索瓦夫妇。"
+      "summary": "邦德迅速康复，写报告时为薇丝朋粉饰绑架经过；约3周后医生宣布痊愈，正值7月；两人乘车去海边客栈，途中薇丝朋疑心被一辆黑色轿车跟踪，邦德认为是错觉，客栈名为L'Auberge du Fruit Défendu，店主为独臂的维索瓦夫妇。",
+      "summary_en": "Bond recovers fast, softening the kidnapping in his written report to protect Vesper. About three weeks later the doctor declares him cured, in July. They drive to a small inn on the coast, Vesper fancying a black car is following them; Bond thinks it is her imagination. The inn is L'Auberge du Fruit Défendu, kept by the one-armed Monsieur Versoix and his wife."
     },
     {
       "no": 23,
       "title": "TIDE OF PASSION",
       "start_line": 1121,
-      "summary": "抵达客栈当晚两人在薇丝朋房中热吻，邦德下海游泳冷静，决心求婚；邦德发现薇丝朋浴室里有安眠药Nembutal，起初只当她神经受惊。"
+      "summary": "抵达客栈当晚两人在薇丝朋房中热吻，邦德下海游泳冷静，决心求婚；邦德发现薇丝朋浴室里有安眠药Nembutal，起初只当她神经受惊。",
+      "summary_en": "On their first night at the inn they kiss in Vesper's room; Bond swims in the sea to cool off and resolves to propose. He notices Nembutal sleeping pills in Vesper's bathroom, and at first takes them for a sign of nerves after her ordeal."
     },
     {
       "no": 24,
       "title": "FRUIT DÉFENDU",
       "start_line": 1157,
-      "summary": "两人共进龙虾晚餐，薇丝朋忽而感伤，说“人是岛屿”，又说自己不配被宠爱；当晚两人同床，次日清晨邦德独自下海游泳，回来时决心当天求婚。"
+      "summary": "两人共进龙虾晚餐，薇丝朋忽而感伤，说“人是岛屿”，又说自己不配被宠爱；当晚两人同床，次日清晨邦德独自下海游泳，回来时决心当天求婚。",
+      "summary_en": "Over a lobster dinner Vesper turns melancholy, saying that people are islands, and that she does not deserve to be loved. That night they sleep together; next morning Bond swims alone at dawn and returns determined to propose that day."
     },
     {
       "no": 25,
       "title": "'BLACKPATCH'",
       "start_line": 1209,
-      "summary": "清晨邦德撞见薇丝朋在电话间打电话，她谎称打给马蒂斯要借裙子；午餐时戴黑眼罩的独眼男子出现，薇丝朋认出他就是跟踪者，惊恐万分；店主称该男子为瑞士钟表推销员；邦德查出电话实际打往巴黎Invalides号码且无人接听，薇丝朋的说法是谎言。"
+      "summary": "清晨邦德撞见薇丝朋在电话间打电话，她谎称打给马蒂斯要借裙子；午餐时戴黑眼罩的独眼男子出现，薇丝朋认出他就是跟踪者，惊恐万分；店主称该男子为瑞士钟表推销员；邦德查出电话实际打往巴黎Invalides号码且无人接听，薇丝朋的说法是谎言。",
+      "summary_en": "In the morning Bond catches Vesper telephoning; she claims she rang Mathis to borrow a dress. At lunch a man with a black eye-patch appears; Vesper recognizes him as the man who followed them and is terrified. The patron calls him a Swiss watch salesman. Bond learns the call really went to an Invalides number in Paris and went unanswered - Vesper lied."
     },
     {
       "no": 26,
       "title": "'SLEEP WELL, MY DARLING'",
       "start_line": 1259,
-      "summary": "此后数日两人关系破裂又修补；马蒂斯查出跟踪者名叫阿道夫·盖特勒，瑞士人，租用黑色标致车，苏黎世银行有其账户；周日盖特勒再次出现，薇丝朋崩溃后求邦德给她时间思考，当晚两人重归于好，薇丝朋说明早会坦白一切，邦德道晚安离去。"
+      "summary": "此后数日两人关系破裂又修补；马蒂斯查出跟踪者名叫阿道夫·盖特勒，瑞士人，租用黑色标致车，苏黎世银行有其账户；周日盖特勒再次出现，薇丝朋崩溃后求邦德给她时间思考，当晚两人重归于好，薇丝朋说明早会坦白一切，邦德道晚安离去。",
+      "summary_en": "In the days that follow, the lovers quarrel and make up. Mathis identifies the watcher as Adolph Gettler, a Swiss who hired a black Peugeot and holds an account with a Zurich bank. On Sunday Gettler appears again; Vesper breaks down and begs Bond to give her time to think. That night they are reconciled, and Vesper promises to tell him everything in the morning; Bond says good night and leaves."
     },
     {
       "no": 27,
       "title": "THE BLEEDING HEART",
       "start_line": 1309,
-      "summary": "次日清晨薇丝朋服安眠药自杀，留下一封致邦德的遗书：她是MWD双面间谍，因波兰籍空军恋人被苏联扣为人质而被迫合作，泄露了邦德的身份与任务，策划了绑架，后因爱上邦德而拒绝继续合作，知SMERSH将至而自杀；邦德致电伦敦报告“3030曾是双面间谍，现已死亡”，决心追捕SMERSH。"
+      "summary": "次日清晨薇丝朋服安眠药自杀，留下一封致邦德的遗书：她是MWD双面间谍，因波兰籍空军恋人被苏联扣为人质而被迫合作，泄露了邦德的身份与任务，策划了绑架，后因爱上邦德而拒绝继续合作，知SMERSH将至而自杀；邦德致电伦敦报告“3030曾是双面间谍，现已死亡”，决心追捕SMERSH。",
+      "summary_en": "Next morning Vesper takes an overdose of sleeping pills. Her letter to Bond confesses she is an MWD double agent, blackmailed because her Polish RAF lover is held hostage in Russia; she betrayed Bond's identity and mission, staged the kidnapping, then refused to go on working for them because she had fallen in love with him, and killed herself knowing SMERSH would come for her. Bond telephones London to report \"3030 was a double... the bitch is dead now\", and resolves to hunt down SMERSH."
     }
   ],
   "characters": [
@@ -191,11 +219,17 @@
         "牙买加百万富翁（掩护身份）"
       ],
       "role": "主要人物",
+      "role_en": "Major character",
       "appearance": "灰蓝色眼睛，黑色头发有一绺总垂在右眉上方形成逗号状，右脸颊有一道细长竖疤，面容略带海盗气，薇丝朋称其像霍奇·卡迈克尔但更冷酷无情",
+      "appearance_en": "Grey-blue eyes and black hair with a lock that always falls over his right eyebrow in a comma shape; a thin vertical scar on his right cheek; a somewhat piratical face - Vesper says he looks like Hoagy Carmichael, but colder and more ruthless.",
       "age_clues": "原文未给具体年龄；战前已在蒙特卡洛执行任务，战后执行过纽约与斯德哥尔摩暗杀任务",
+      "age_clues_en": "The novel gives no exact age; he was already on operations in Monte Carlo before the war, and carried out assassination assignments in New York and Stockholm after it.",
       "personality": "冷静、精确、注重细节、嗜赌、自负；对女性起初只视为消遣，后对薇丝朋动真情；酷刑后一度怀疑善恶与辞职",
+      "personality_en": "Calm, precise and attentive to detail; a gambler and self-confident. At first he treats women as a pastime, then falls genuinely in love with Vesper; after the torture he doubts good and evil and talks of resigning.",
       "habits": "每天抽约70支莫兰定制巴尔干与土耳其混合烟，爱喝马提尼与香槟，讲究饮食，冷水浴，睡前检查房间防窃听布置，枕下藏枪",
+      "habits_en": "Smokes about seventy of Morland's Balkan and Turkish mixture cigarettes a day; fond of martinis and champagne; particular about food; takes cold baths; checks his room for listening devices before bed; sleeps with a gun under his pillow.",
       "background": "英国秘密情报局双0特工；曾在牙买加工作；掩护身份为牙买加种植园主之子，父亲靠烟草与食糖发家；曾在蒙特卡洛与马蒂斯合作破获罗马尼亚作弊团伙",
+      "background_en": "A Double-O agent of the British Secret Service; formerly worked in Jamaica. His cover is the son of a Jamaican plantation owner whose father made his money from tobacco and sugar. He worked with Mathis in Monte Carlo before the war to break a Romanian cheating ring.",
       "first_appearance_chapter": 1,
       "last_appearance_chapter": 27,
       "relationships": [
@@ -236,11 +270,17 @@
         "Mademoiselle Lynd"
       ],
       "role": "主要人物",
+      "role_en": "Major character",
       "appearance": "黑发齐颈剪裁，宽阔深蓝眼睛，皮肤微晒，嘴唇宽而感性，不涂指甲油，戴金链与右手无名指宽托帕石戒指；初见穿灰色野蚕丝裙，晚餐穿黑色天鹅绒裙配钻石项链",
+      "appearance_en": "Black hair cut square at the neck, wide deep-blue eyes, lightly tanned skin, wide sensual lips, unvarnished nails, a gold chain and a wide topaz ring on the ring finger of her right hand. At their first meeting she wears a grey wild-silk dress; for dinner, a black velvet dress with a diamond necklace.",
       "age_clues": "原文未给具体年龄；战后一年加入MWD前曾在英国皇家海军女子服务队（WRNS）任职",
+      "age_clues_en": "The novel gives no exact age; a year after the war she had served in the WRNS, the Women's Royal Naval Service, before joining the MWD.",
       "personality": "冷静、克制、 ironical式疏离，工作认真；内心因双面身份与恋人被扣为人质而长期恐惧，末段情绪崩溃",
+      "personality_en": "Calm, reserved and ironically detached; conscientious at her work. Inside she lives in long fear over her double life and her lover held hostage, and breaks down emotionally towards the end.",
       "habits": "深吸烟，抽邦德的烟；服用安眠药Nembutal；每天去海滩游泳",
+      "habits_en": "Smokes deeply, taking Bond's cigarettes; takes Nembutal sleeping pills; swims at the beach every day.",
       "background": "S处处长私人助理，后转为MWD双面间谍；恋人为波兰籍皇家空军军官，有两枚优异服务勋章，战后被M派回波兰后被捕，苏联以其性命要挟薇丝朋合作；每月15日收到恋人来信",
+      "background_en": "Personal assistant to the Head of Station S, later a double agent for the MWD. Her lover is a Polish officer in the RAF with two DSOs; after the war M had him dropped back into Poland, where he was arrested, and the Russians blackmailed Vesper with his life. A letter from him arrives on the fifteenth of each month.",
       "first_appearance_chapter": 4,
       "last_appearance_chapter": 27,
       "relationships": [
@@ -271,11 +311,17 @@
         "Herr Ziffer"
       ],
       "role": "主要人物",
+      "role_en": "Major character",
       "appearance": "约45岁，身高5英尺8英寸，体重18英石，面色极苍白，红棕色短发，眼极深棕色、眼白环绕虹膜，嘴小而女性化，假牙昂贵，耳小耳垂大，双手小而多毛；常穿深色双排扣西装，用去尼古丁烟嘴抽Caporal香烟，频繁吸入苯丙胺吸入剂",
+      "appearance_en": "About 45 years old, 5 ft 8 in tall, 18 stone, extremely pale, with short red-brown hair, very dark brown eyes with the whites showing all round the iris, a small rather feminine mouth and expensive false teeth, small ears with large lobes, and small, hairy hands. He usually wears a dark double-breasted suit, smokes Caporals through a denicotinizing holder, and frequently inhales from a benzedrine inhaler.",
       "age_clues": "约45岁；1945年6月首次以失忆难民身份出现于达豪难民营",
+      "age_clues_en": "About 45; he first appeared as an amnesiac displaced person at the Dachau DP camp in June 1945.",
       "personality": "冷静、精于算计、嗜赌、性欲旺盛、施虐倾向（鞭笞癖），从不笑，极少微笑",
+      "personality_en": "Calm, calculating, a gambler, with strong sexual appetites and sadistic tendencies - a flagellant; he never laughs and rarely smiles.",
       "habits": "赌博、抽烟、吸入苯丙胺、随身带三片Eversharp剃须刀片（帽带、左鞋跟、烟盒各一），总有两名武装保镖随行",
+      "habits_en": "Gambling, smoking, inhaling benzedrine; he carries three Eversharp razor blades - in his hatband, in the heel of his left shoe and in his cigarette case - and is always accompanied by two armed bodyguards.",
       "background": "出身不明，1945年9月持无国籍护照304596号转移至斯特拉斯堡，自称“勒·希弗”（意为“我只是护照上的一个数字”）；苏联列宁格勒第三处控制的特工，阿尔萨斯工会司库与出纳；1946年挪用5000万法郎投资妓院失败",
+      "background_en": "Of unknown origin; in September 1945 he was transferred to Strasbourg on Stateless Passport No. 304596, calling himself 'Le Chiffre' - 'since I am only a number on a passport'. A Soviet agent controlled by Leningrad Section III; treasurer and paymaster of the Alsace trade union. In 1946 he embezzled fifty million francs and lost it on brothels.",
       "first_appearance_chapter": 1,
       "last_appearance_chapter": 18,
       "relationships": [
@@ -302,11 +348,17 @@
       "name_zh": "M",
       "aliases": [],
       "role": "主要人物",
+      "role_en": "Major character",
       "appearance": "原文未详述外貌，仅称其目光锐利冷静",
+      "appearance_en": "The novel gives no detailed description of his appearance, only that his gaze is keen and cool.",
       "age_clues": "未知",
+      "age_clues_en": "Unknown",
       "personality": "冷峻、务实、精于算概率与识人，称击败勒·希弗的计划“疯狂但值得一试”",
+      "personality_en": "Cold, practical and a shrewd judge of odds and of men; he calls the plan to beat Le Chiffre \"mad, but worth trying\".",
       "habits": "在摄政公园附近阴沉大楼顶层办公；对下属直呼其名下达任务",
+      "habits_en": "Works from the top floor of a gloomy building near Regent's Park; gives his subordinates their orders by their Christian names.",
       "background": "英国秘密情报局首脑，国防部下属机构负责人；批准赌桌行动并向财政部争取资金，安排薇丝朋协助邦德，亲自致电马蒂斯嘉奖邦德",
+      "background_en": "Head of the British Secret Service, an adjunct of the Ministry of Defence. He approves the baccarat operation, obtains the funds from the Treasury, arranges for Vesper to assist Bond, and telephones Mathis personally to congratulate Bond.",
       "first_appearance_chapter": 2,
       "last_appearance_chapter": 27,
       "relationships": [
@@ -330,11 +382,17 @@
         "René Mathis"
       ],
       "role": "主要人物",
+      "role_en": "Major character",
       "appearance": "原文未详述外貌，举止热情、幽默",
+      "appearance_en": "The novel gives no detailed description of his appearance; his manner is warm and humorous.",
       "age_clues": "未知",
+      "age_clues_en": "Unknown",
       "personality": "机智、忠诚、富有幽默感，善用伪装与反监听手段",
+      "personality_en": "Quick-witted, loyal and full of humour; skilled at disguise and counter-surveillance.",
       "habits": "抽Caporal香烟",
+      "habits_en": "Smokes Caporal cigarettes.",
       "background": "法国第二局特工，邦德在蒙特卡洛旧识；以Radio Stentor无线电推销员为掩护在皇家莱索协助邦德，发现楼上窃听器，组织警方掩盖爆炸真相，率队在别墅找到邦德",
+      "background_en": "An agent of the French Deuxième Bureau and an old acquaintance of Bond's from Monte Carlo. Working under cover as a Radio Stentor salesman at Royale-les-Eaux, he finds the listening device above Bond's room, organizes the police cover-up of the explosion, and leads the party that finds Bond at the villa.",
       "first_appearance_chapter": 4,
       "last_appearance_chapter": 26,
       "relationships": [
@@ -358,11 +416,17 @@
         "Felix Leiter"
       ],
       "role": "主要人物",
+      "role_en": "Major character",
       "appearance": "约35岁，高瘦骨感，浅黄头发，灰色眼睛略斜，下巴与颧骨锋利，嘴宽而歪斜，穿浅褐色轻便西装",
+      "appearance_en": "About 35, tall, lean and bony, with sandy hair, grey eyes set slightly on a slant, a sharp chin and cheekbones, and a wide, crooked mouth; he wears a light brown lounge suit.",
       "age_clues": "约35岁",
+      "age_clues_en": "About 35",
       "personality": "沉稳、坦率、忠诚，抽烟成链",
+      "personality_en": "Steady, frank and loyal; a chain smoker.",
       "habits": "抽Chesterfield香烟，喝Haig and Haig威士忌加冰",
+      "habits_en": "Smokes Chesterfield cigarettes and drinks Haig and Haig whisky on the rocks.",
       "background": "美国中央情报局特工，驻枫丹白露北约联合情报部门；得克萨斯人，加入情报界前为美国海军陆战队队员；受命听从邦德指挥",
+      "background_en": "An agent of the American Central Intelligence Agency, serving with the Joint Intelligence Staff of NATO at Fontainebleau. A Texan, formerly a United States Marine before joining intelligence; under orders to take his instructions from Bond.",
       "first_appearance_chapter": 4,
       "last_appearance_chapter": 13,
       "relationships": [
@@ -381,11 +445,17 @@
         "Penny"
       ],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "本可称美丽，只因双眼冷静、直接而带审视意味",
+      "appearance_en": "She could be called beautiful, except that her eyes are cool, direct and appraising.",
       "age_clues": "未知",
+      "age_clues_en": "Unknown",
       "personality": "机敏、友善",
+      "personality_en": "Quick-witted and friendly.",
       "habits": "未知",
+      "habits_en": "Unknown",
       "background": "M的私人秘书，与参谋长比尔同室办公；告知S处长M此时心情不错可以晋见",
+      "background_en": "M's private secretary, sharing an office with Bill, the Chief of Staff; she tells the Head of Station S that M is in a good mood and can be seen.",
       "first_appearance_chapter": 3,
       "last_appearance_chapter": 3,
       "relationships": [
@@ -409,11 +479,17 @@
         "Chief of Staff"
       ],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "年轻工兵军官",
+      "appearance_en": "A young sapper officer.",
       "age_clues": "未知",
+      "age_clues_en": "Unknown",
       "personality": "幽默，经历过1944年破坏行动负伤",
+      "personality_en": "Humorous; wounded in a demolition operation in 1944.",
       "habits": "未知",
+      "habits_en": "Unknown",
       "background": "M的参谋长，曾任参谋长委员会秘书处成员，1944年破坏行动中负伤",
+      "background_en": "M's Chief of Staff, formerly a member of the secretariat of the Chiefs of Staff Committee; wounded in a demolition operation in 1944.",
       "first_appearance_chapter": 3,
       "last_appearance_chapter": 3,
       "relationships": [
@@ -430,11 +506,17 @@
       "name_zh": "S处处长",
       "aliases": [],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "高瘦独臂男子（第19章马蒂斯描述自伦敦来者）",
+      "appearance_en": "A tall, thin, one-armed man - as Mathis describes the visitor from London in Chapter 19.",
       "age_clues": "未知",
+      "age_clues_en": "Unknown",
       "personality": "热衷于自己的计划，行事果断",
+      "personality_en": "Enthusiastic about his own plan and decisive in action.",
       "habits": "未知",
+      "habits_en": "Unknown",
       "background": "秘密情报局S处（负责苏联）处长，摧毁勒·希弗计划的制定者，薇丝朋的上司；邦德住院期间曾来皇家莱索探望薇丝朋并安排护士",
+      "background_en": "Head of Station S of the Secret Service, responsible for the Soviet Union, and author of the plan to destroy Le Chiffre; Vesper's chief. He visited Vesper at Royale-les-Eaux while Bond was in hospital and arranged for a nurse.",
       "first_appearance_chapter": 2,
       "last_appearance_chapter": 21,
       "relationships": [
@@ -456,11 +538,17 @@
       "name_zh": "Q",
       "aliases": [],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "未知",
+      "appearance_en": "Unknown",
       "age_clues": "未知",
+      "age_clues_en": "Unknown",
       "personality": "未知",
+      "personality_en": "Unknown",
       "habits": "未知",
+      "habits_en": "Unknown",
       "background": "仅在第3章被M提及，邦德出发前应找Q安排房间、火车与装备；本部中未出场、无台词",
+      "background_en": "Mentioned only in Chapter 3, when M tells Bond to see Q before leaving to arrange rooms, trains and equipment; Q does not appear in the novel and has no dialogue.",
       "first_appearance_chapter": null,
       "last_appearance_chapter": null,
       "relationships": []
@@ -473,11 +561,17 @@
         "the man with the craglike face"
       ],
       "role": "主要人物",
+      "role_en": "Major character",
       "appearance": "戴窄黑面罩，帽檐下露出峭壁般的脸，穿浅黄雨衣，灰衣袖、脏白衬衫袖口，宽大多毛的手",
+      "appearance_en": "Wears a narrow black mask, with a craglike face under the brim of his hat, a fawn mackintosh, grey sleeves and dirty white shirt cuffs, and broad, hairy hands.",
       "age_clues": "未知",
+      "age_clues_en": "Unknown",
       "personality": "冷酷、寡言、行动精确",
+      "personality_en": "Cold, taciturn and precise in action.",
       "habits": "使用消音手枪与细匕首",
+      "habits_en": "Uses a silenced pistol and a thin stiletto.",
       "background": "受苏联派遣处决勒·希弗的SMERSH特工；先枪杀两名枪手（各一发点35子弹击中后脑），再一枪击毙勒·希弗，在邦德右手背刻下俄文字母Ш后离去，无人追踪到其行踪",
+      "background_en": "A SMERSH agent sent from the Soviet Union to execute Le Chiffre. He first shoots the two gunmen, one .35 bullet each in the back of the head, then kills Le Chiffre with a single shot, and cuts the Russian letter Ш into the back of Bond's right hand before leaving; no trace of him is ever found.",
       "first_appearance_chapter": 18,
       "last_appearance_chapter": 18,
       "relationships": [
@@ -499,11 +593,17 @@
       "name_zh": "蒙茨先生",
       "aliases": [],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "德国人",
+      "appearance_en": "A German.",
       "age_clues": "未知",
+      "age_clues_en": "Unknown",
       "personality": "未知",
+      "personality_en": "Unknown",
       "habits": "未知",
+      "habits_en": "Unknown",
       "background": "住在邦德楼上房间的监听者，与妻子配合用无线拾音器与线录机监听邦德房间；事后被捕，原文称只是受雇的小角色",
+      "background_en": "The eavesdropper in the room above Bond's, working with his wife, listening to Bond's room with a radio pickup and wire recorder; afterwards arrested. The novel calls him only a hired small fry.",
       "first_appearance_chapter": 4,
       "last_appearance_chapter": 19,
       "relationships": [
@@ -520,11 +620,17 @@
       "name_zh": "蒙茨夫人",
       "aliases": [],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "来自中欧，可能是捷克人",
+      "appearance_en": "From Central Europe, possibly Czech.",
       "age_clues": "未知",
+      "age_clues_en": "Unknown",
       "personality": "未知",
+      "personality_en": "Unknown",
       "habits": "未知",
+      "habits_en": "Unknown",
       "background": "蒙茨之妻，假装卧病在床以便轮流戴耳机监听邦德；事后与丈夫一同被捕",
+      "background_en": "Muntz's wife, who pretends to be ill in bed so that they can take turns wearing the headphones and listening to Bond; arrested with her husband.",
       "first_appearance_chapter": 4,
       "last_appearance_chapter": 19,
       "relationships": [
@@ -544,11 +650,17 @@
         "Blackpatch"
       ],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "中年男子，深棕色头发后梳，牙齿大而白，右眼戴黑色眼罩，以单片镜方式固定",
+      "appearance_en": "A middle-aged man with dark brown hair brushed back, large white teeth, and a black patch over his right eye, fixed like a monocle.",
       "age_clues": "未知",
+      "age_clues_en": "Unknown",
       "personality": "沉静、从容",
+      "personality_en": "Calm and self-possessed.",
       "habits": "未知",
+      "habits_en": "Unknown",
       "background": "瑞士钟表推销员（自称），租用黑色标致车，苏黎世银行有其名下少用的账户；实为监视薇丝朋的苏联方面人员，在客栈两次出现令薇丝朋惊恐",
+      "background_en": "A Swiss watch salesman - by his own account - who hired a black Peugeot and holds a little-used account with a bank in Zurich. Apparently a Soviet-side man detailed to watch Vesper, appearing twice at the inn and terrifying her.",
       "first_appearance_chapter": 22,
       "last_appearance_chapter": 26,
       "relationships": [
@@ -565,11 +677,17 @@
       "name_zh": "吉布森护士",
       "aliases": [],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "漂亮",
+      "appearance_en": "Pretty.",
       "age_clues": "未知",
+      "age_clues_en": "Unknown",
       "personality": "温柔、尽责",
+      "personality_en": "Gentle and conscientious.",
       "habits": "未知",
+      "habits_en": "Unknown",
       "background": "自英国派至皇家莱索疗养院照顾邦德的护士之一，邦德苏醒时首先与她交谈",
+      "background_en": "One of the nurses sent from England to look after Bond at the Royale-les-Eaux clinic; she is the first person Bond talks to when he wakes.",
       "first_appearance_chapter": 19,
       "last_appearance_chapter": 19,
       "relationships": [
@@ -586,11 +704,17 @@
       "name_zh": "法籍医生（第二局派驻）",
       "aliases": [],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "年轻、面容聪慧",
+      "appearance_en": "Young, with an intelligent face.",
       "age_clues": "未知",
+      "age_clues_en": "Unknown",
       "personality": "直率、专业",
+      "personality_en": "Frank and professional.",
       "habits": "未知",
+      "habits_en": "Unknown",
       "background": "第二局抽调的医生，在皇家莱索疗养院治疗邦德，告知其伤势可完全康复但需长期忍痛",
+      "background_en": "A doctor seconded by the Deuxième Bureau who treats Bond at the Royale-les-Eaux clinic, telling him his injuries will heal completely but that he must expect pain for a long time.",
       "first_appearance_chapter": 19,
       "last_appearance_chapter": 19,
       "relationships": [
@@ -607,11 +731,17 @@
       "name_zh": "维索瓦先生",
       "aliases": [],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "中年男子，独臂",
+      "appearance_en": "A middle-aged man with one arm.",
       "age_clues": "未知",
+      "age_clues_en": "Unknown",
       "personality": "热情好客",
+      "personality_en": "Warm and hospitable.",
       "habits": "未知",
+      "habits_en": "Unknown",
       "background": "海边客栈L'Auberge du Fruit Défendu店主，自由法国老兵，在马达加斯加作战失去一臂，皇家莱索警察局长之友",
+      "background_en": "Proprietor of the inn L'Auberge du Fruit Défendu, a Free French veteran who lost an arm fighting in Madagascar, and a friend of the chief of police at Royale-les-Eaux.",
       "first_appearance_chapter": 22,
       "last_appearance_chapter": 27,
       "relationships": [
@@ -633,11 +763,17 @@
       "name_zh": "维索瓦夫人",
       "aliases": [],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "比丈夫年轻，矮胖、美丽、目光温暖",
+      "appearance_en": "Younger than her husband, short, plump, beautiful, with warm eyes.",
       "age_clues": "未知",
+      "age_clues_en": "Unknown",
       "personality": "热情、体贴",
+      "personality_en": "Warm and attentive.",
       "habits": "未知",
+      "habits_en": "Unknown",
       "background": "客栈女主人，擅长烹饪龙虾与法式菜肴，与丈夫无子女",
+      "background_en": "The innkeeper's wife, a fine cook of lobster and French dishes; she and her husband have no children.",
       "first_appearance_chapter": 22,
       "last_appearance_chapter": 26,
       "relationships": [
@@ -654,11 +790,17 @@
       "name_zh": "福塞特",
       "aliases": [],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "未知",
+      "appearance_en": "Unknown",
       "age_clues": "未知",
+      "age_clues_en": "Unknown",
       "personality": "谨慎、守口如瓶",
+      "personality_en": "Cautious and discreet.",
       "habits": "未知",
+      "habits_en": "Unknown",
       "background": "牙买加《每日拾穗者报》图片部主任，原开曼群岛渔民与海军情报文员，受秘密情报局训练后负责中转邦德与伦敦之间的电报，月薪20英镑另加10英镑通讯补贴",
+      "background_en": "Head of the picture desk on the Daily Gleaner in Kingston, Jamaica; formerly a Cayman Islands turtle fisherman and a Naval Intelligence paymaster's clerk. Trained by the Secret Service, he relays cables between Bond and London, paid twenty pounds a month plus a ten-pound communications allowance.",
       "first_appearance_chapter": 1,
       "last_appearance_chapter": 1,
       "relationships": [
@@ -678,11 +820,17 @@
         "the man with the stick"
       ],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "矮壮、肤色深、扁头、头发厚而油腻，留浓黑八字胡，牙齿极差，手背多毛，拄一根粗马六甲拐杖",
+      "appearance_en": "Short and stocky, dark-skinned, with a flat head, thick greasy hair, a heavy black moustache, very bad teeth and hairy backs to his hands; he leans on a thick Malacca cane.",
       "age_clues": "未知",
+      "age_clues_en": "Unknown",
       "personality": "残忍、精于近身格斗",
+      "personality_en": "Cruel and expert at close fighting.",
       "habits": "未知",
+      "habits_en": "Unknown",
       "background": "勒·希弗的两名保镖之一，拐杖实为消音手枪，在牌桌上企图枪杀邦德未遂，后在别墅看守薇丝朋，被SMERSH特工一枪击毙",
+      "background_en": "One of Le Chiffre's two bodyguards. His cane is in fact a silenced pistol; he tries to shoot Bond at the baccarat table and fails, later guards Vesper at the villa, and is shot dead by the SMERSH agent.",
       "first_appearance_chapter": 11,
       "last_appearance_chapter": 19,
       "relationships": [
@@ -707,11 +855,17 @@
         "the tall gunman"
       ],
       "role": "次要人物",
+      "role_en": "Minor character",
       "appearance": "高瘦、面色木然灰暗、眼神闪烁，动作不安",
+      "appearance_en": "Tall and thin, with a wooden, sallow face, shifty eyes and restless movements.",
       "age_clues": "未知",
+      "age_clues_en": "Unknown",
       "personality": "冷酷、精准、缺乏感情，邦德推测其吸食大麻",
+      "personality_en": "Cold, precise and unemotional; Bond guesses he smokes hashish.",
       "habits": "未知",
+      "habits_en": "Unknown",
       "background": "勒·希弗的两名保镖之一，勒·希弗称其为巴兹尔；负责将邦德剥光绑椅并协助酷刑，后在别墅被SMERSH特工一枪击毙",
+      "background_en": "One of Le Chiffre's two bodyguards, called Basil by Le Chiffre. He strips Bond and ties him to the chair and helps with the torture, and is afterwards shot dead by the SMERSH agent at the villa.",
       "first_appearance_chapter": 11,
       "last_appearance_chapter": 19,
       "relationships": [
@@ -729,6 +883,7 @@
       "name_en": "Secret Service",
       "name_zh": "英国秘密情报局",
       "role": "邦德与M所属机构，策划并执行击败勒·希弗的行动，S处负责苏联方向",
+      "description_en": "The organization Bond and M belong to; it plans and carries out the operation to beat Le Chiffre, with Station S handling the Soviet side.",
       "first_chapter": 1
     },
     {
@@ -736,6 +891,7 @@
       "name_en": "Station S",
       "name_zh": "S处",
       "role": "负责苏联事务的处室，制定摧毁勒·希弗计划，薇丝朋为其处长私人助理",
+      "description_en": "The section responsible for Soviet affairs; it devises the plan to destroy Le Chiffre, and Vesper is personal assistant to its head.",
       "first_chapter": 2
     },
     {
@@ -743,6 +899,7 @@
       "name_en": "SMERSH",
       "name_zh": "SMERSH",
       "role": "苏联反间谍与复仇机构，俄语“间谍之死”缩写，处决挪用公款的勒·希弗与两名枪手，并在邦德手背刻字",
+      "description_en": "The Soviet counter-espionage and vengeance organization - its name is short for the Russian for \"Death to Spies\". It executes Le Chiffre for embezzling funds and kills his two gunmen, and brands the back of Bond's hand.",
       "first_chapter": 2
     },
     {
@@ -750,6 +907,7 @@
       "name_en": "MWD",
       "name_zh": "MWD",
       "role": "薇丝朋效力的苏联机构，以其波兰恋人性命要挟她充当双面间谍，通过巴黎Invalides 55200号电话遥控她",
+      "description_en": "The Soviet organization Vesper works for; it blackmails her into becoming a double agent with her Polish lover's life, and controls her by telephone from the Paris Invalides number 55200.",
       "first_chapter": 27
     },
     {
@@ -757,6 +915,7 @@
       "name_en": "Deuxième Bureau",
       "name_zh": "法国第二局",
       "role": "法方情报机构，与英方联合办案，提供马蒂斯与医生，负责现场掩盖与追捕",
+      "description_en": "The French intelligence service, working jointly with the British on the case; it supplies Mathis and the doctor, and handles the local cover-up and pursuit.",
       "first_chapter": 2
     },
     {
@@ -764,6 +923,7 @@
       "name_en": "Central Intelligence Agency",
       "name_zh": "美国中央情报局",
       "role": "美方情报机构，派莱特协助邦德，并在邦德破产时提供3200万法郎资金",
+      "description_en": "The American intelligence service; it sends Leiter to assist Bond and provides the thirty-two million francs when Bond is cleaned out.",
       "first_chapter": 2
     },
     {
@@ -771,6 +931,7 @@
       "name_en": "Syndicat des Ouvriers d'Alsace",
       "name_zh": "阿尔萨斯工人工会",
       "role": "共产党控制的重工业与运输业工会，勒·希弗任司库，拥有5万名会员，战时可控制法国北部边境广大地区",
+      "description_en": "The Communist-controlled union of heavy and transport industry workers in Alsace, with Le Chiffre as its treasurer; it has 50,000 members and in wartime could control a wide sector of France's northern frontier.",
       "first_chapter": 2
     },
     {
@@ -778,6 +939,7 @@
       "name_en": "Cordon Jaune",
       "name_zh": "黄带妓院连锁",
       "role": "勒·希弗用挪用的5000万法郎买下的诺曼底与布列塔尼妓院连锁，1946年禁娼法后破产",
+      "description_en": "The chain of brothels in Normandy and Brittany that Le Chiffre bought with the fifty million francs he embezzled; it went bankrupt after the anti-prostitution law of 1946.",
       "first_chapter": 2
     },
     {
@@ -785,6 +947,7 @@
       "name_en": "Mahomet Ali Syndicate",
       "name_zh": "穆罕默德·阿里辛迪加",
       "role": "流亡埃及银行家与商人集团，租下皇家莱索赌场百家乐与两张顶级chemindefer赌台，勒·希弗向其买下庄家",
+      "description_en": "A group of émigré Egyptian bankers and businessmen who lease the baccarat and two top chemin de fer tables at the Casino Royale; Le Chiffre buys the bank from them.",
       "first_chapter": 2
     },
     {
@@ -792,6 +955,7 @@
       "name_en": "Société des Bains de Mers de Royale",
       "name_zh": "皇家莱索海滨公司",
       "role": "皇家莱索赌场经营方，试图以高额赌局夺回多维尔与勒图凯的市场",
+      "description_en": "The company that runs the Casino Royale, trying to win the high gambling back from Deauville and Le Touquet with big-money games.",
       "first_chapter": 2
     },
     {
@@ -799,6 +963,7 @@
       "name_en": "North Atlantic Treaty Organization",
       "name_zh": "北大西洋公约组织",
       "role": "行动的政治背景，击败勒·希弗符合北约国家利益，莱特任职于北约联合情报部门",
+      "description_en": "The political background of the operation; defeating Le Chiffre serves the interests of the NATO nations, and Leiter serves with NATO's Joint Intelligence Staff.",
       "first_chapter": 2
     }
   ],
@@ -809,7 +974,8 @@
       "name_zh": "皇家莱索",
       "country": "法国",
       "fictional": true,
-      "role": "故事主场景，索姆河口附近的海滨小镇，赌场与两家大酒店所在地"
+      "role": "故事主场景，索姆河口附近的海滨小镇，赌场与两家大酒店所在地",
+      "description_en": "The main setting of the story, a seaside town near the mouth of the Somme, home to the casino and the two great hotels."
     },
     {
       "id": "casino-royale",
@@ -817,7 +983,8 @@
       "name_zh": "皇家赌场",
       "country": "法国",
       "fictional": true,
-      "role": "百家乐对决、爆炸与暗杀未遂的发生地，白色鎏金维多利亚式建筑"
+      "role": "百家乐对决、爆炸与暗杀未遂的发生地，白色鎏金维多利亚式建筑",
+      "description_en": "The scene of the baccarat duel, the bomb attack and the attempted murder; a white, gilt Victorian building."
     },
     {
       "id": "hotel-splendide",
@@ -825,7 +992,8 @@
       "name_zh": "Splendide酒店",
       "country": "法国",
       "fictional": true,
-      "role": "邦德下榻处，45号房被蒙茨夫妇窃听，支票藏于房门号牌之后"
+      "role": "邦德下榻处，45号房被蒙茨夫妇窃听，支票藏于房门号牌之后",
+      "description_en": "Bond's hotel; his room 45 is bugged by the Muntzes, and the cheque is hidden behind its number plate."
     },
     {
       "id": "hotel-hermitage",
@@ -833,7 +1001,8 @@
       "name_zh": "Hermitage酒店",
       "country": "法国",
       "fictional": true,
-      "role": "邦德与薇丝朋初次见面的酒吧所在地，窗户被爆炸震碎"
+      "role": "邦德与薇丝朋初次见面的酒吧所在地，窗户被爆炸震碎",
+      "description_en": "The hotel whose bar is where Bond first meets Vesper; its window is shattered by the explosion."
     },
     {
       "id": "les-noctambules",
@@ -841,7 +1010,8 @@
       "name_zh": "夜行者别墅",
       "country": "法国",
       "fictional": true,
-      "role": "勒·希弗租住的别墅，邦德受酷刑与勒·希弗被处决之地，位于海岸公路以南约10英里"
+      "role": "勒·希弗租住的别墅，邦德受酷刑与勒·希弗被处决之地，位于海岸公路以南约10英里",
+      "description_en": "The villa rented by Le Chiffre, about ten miles south of Royale-les-Eaux on the coast road; the scene of Bond's torture and of Le Chiffre's execution."
     },
     {
       "id": "auberge-du-fruit-defendu",
@@ -849,7 +1019,8 @@
       "name_zh": "禁果客栈",
       "country": "法国",
       "fictional": true,
-      "role": "邦德与薇丝朋康复后同住的海边小客栈，薇丝朋在此自杀"
+      "role": "邦德与薇丝朋康复后同住的海边小客栈，薇丝朋在此自杀",
+      "description_en": "The small seaside inn where Bond and Vesper stay after his recovery; Vesper kills herself there."
     },
     {
       "id": "london",
@@ -857,7 +1028,8 @@
       "name_zh": "伦敦",
       "country": "英国",
       "fictional": false,
-      "role": "秘密情报局总部所在地，摄政公园附近大楼，M与S处办公地"
+      "role": "秘密情报局总部所在地，摄政公园附近大楼，M与S处办公地",
+      "description_en": "The headquarters of the Secret Service, in a building near Regent's Park, where M and Station S work."
     },
     {
       "id": "paris",
@@ -865,7 +1037,8 @@
       "name_zh": "巴黎",
       "country": "法国",
       "fictional": false,
-      "role": "马蒂斯与第二局总部所在地，薇丝朋受MWD遥控的电话打往巴黎Invalides号码"
+      "role": "马蒂斯与第二局总部所在地，薇丝朋受MWD遥控的电话打往巴黎Invalides号码",
+      "description_en": "The headquarters of Mathis and the Deuxième Bureau; the number Vesper is controlled from is a Paris Invalides number."
     },
     {
       "id": "strasbourg",
@@ -873,7 +1046,8 @@
       "name_zh": "斯特拉斯堡",
       "country": "法国",
       "fictional": false,
-      "role": "勒·希弗的活动基地与阿尔萨斯工会中心，勒·希弗死讯在此引起轰动"
+      "role": "勒·希弗的活动基地与阿尔萨斯工会中心，勒·希弗死讯在此引起轰动",
+      "description_en": "Le Chiffre's base of operations and the centre of the Alsace union; news of his death causes a sensation there."
     },
     {
       "id": "dachau",
@@ -881,7 +1055,8 @@
       "name_zh": "达豪",
       "country": "德国",
       "fictional": false,
-      "role": "勒·希弗1945年6月首次以失忆难民身份出现的难民营"
+      "role": "勒·希弗1945年6月首次以失忆难民身份出现的难民营",
+      "description_en": "The displaced persons' camp where Le Chiffre first appeared as an amnesiac refugee in June 1945."
     },
     {
       "id": "jamaica",
@@ -889,7 +1064,8 @@
       "name_zh": "牙买加",
       "country": "牙买加",
       "fictional": false,
-      "role": "邦德掩护身份来源地与通讯中转地，福塞特在金斯敦《每日拾穗者报》任职"
+      "role": "邦德掩护身份来源地与通讯中转地，福塞特在金斯敦《每日拾穗者报》任职",
+      "description_en": "The source of Bond's cover identity and the relay point for his communications; Fawcett works on the Daily Gleaner in Kingston."
     },
     {
       "id": "monte-carlo",
@@ -897,7 +1073,8 @@
       "name_zh": "蒙特卡洛",
       "country": "摩纳哥",
       "fictional": false,
-      "role": "邦德战前与马蒂斯合作破获罗马尼亚作弊团伙之地"
+      "role": "邦德战前与马蒂斯合作破获罗马尼亚作弊团伙之地",
+      "description_en": "Where Bond worked with Mathis before the war to break a Romanian cheating ring."
     }
   ],
   "equipment": [
@@ -906,98 +1083,114 @@
       "name_en": "Beretta 418",
       "name_zh": "贝雷塔418手枪",
       "kind": "武器",
-      "note": "邦德配枪，点25口径扁平自动手枪，镂空握把，左肩皮套携带；被俘时被勒·希弗收走"
+      "note": "邦德配枪，点25口径扁平自动手枪，镂空握把，左肩皮套携带；被俘时被勒·希弗收走",
+      "description_en": "Bond's pistol, a flat .25 automatic with a skeleton grip, carried in a shoulder holster; it is taken from him by Le Chiffre when he is captured."
     },
     {
       "id": "colt-police-positive",
       "name_en": "Colt Police Positive .38",
       "name_zh": "柯尔特警用转轮手枪",
       "kind": "武器",
-      "note": "点38口径锯短枪管，邦德睡前藏于枕下"
+      "note": "点38口径锯短枪管，邦德睡前藏于枕下",
+      "description_en": "A sawn-barrel .38 revolver, which Bond keeps under his pillow at night."
     },
     {
       "id": "colt-army-special",
       "name_en": "Colt Army Special .45",
       "name_zh": "柯尔特陆军特种转轮手枪",
       "kind": "武器",
-      "note": "长枪管点45口径，藏于宾利仪表板下暗置枪套，邦德追车时取出"
+      "note": "长枪管点45口径，藏于宾利仪表板下暗置枪套，邦德追车时取出",
+      "description_en": "A long-barrelled .45 revolver, kept in a hidden holster under the Bentley's dashboard; Bond takes it out during the chase."
     },
     {
       "id": "cane-gun",
       "name_en": "Malacca cane gun",
       "name_zh": "马六甲拐杖枪",
       "kind": "武器",
-      "note": "科西嘉枪手的拐杖实为消音手枪，枪管由软橡胶隔板组成，子弹为达姆弹，牌桌暗杀时被邦德撞断"
+      "note": "科西嘉枪手的拐杖实为消音手枪，枪管由软橡胶隔板组成，子弹为达姆弹，牌桌暗杀时被邦德撞断",
+      "description_en": "The Corsican gunman's cane is in fact a silenced pistol, its barrel made of soft rubber baffles, firing dum-dum bullets; Bond snaps it across his chair at the baccarat table."
     },
     {
       "id": "smersh-pistol",
       "name_en": "Silenced pistol (.35)",
       "name_zh": "SMERSH消音手枪",
       "kind": "武器",
-      "note": "SMERSH特工所用，枪声仅如牙膏管冒泡，两名枪手各中一发点35子弹死于后脑，勒·希弗眉心中弹"
+      "note": "SMERSH特工所用，枪声仅如牙膏管冒泡，两名枪手各中一发点35子弹死于后脑，勒·希弗眉心中弹",
+      "description_en": "The silenced pistol used by the SMERSH agent; its report is no louder than a bubble of air escaping from a tube of toothpaste. Each of the two gunmen takes one .35 bullet in the back of the head, and Le Chiffre is shot between the eyes."
     },
     {
       "id": "carpet-beater",
       "name_en": "Carpet beater",
       "name_zh": "藤地毯拍",
       "kind": "刑具",
-      "note": "三英尺长藤制地毯拍，勒·希弗用以抽打邦德下体逼供"
+      "note": "三英尺长藤制地毯拍，勒·希弗用以抽打邦德下体逼供",
+      "description_en": "A three-foot cane carpet beater, which Le Chiffre uses to beat Bond's groin to force him to talk."
     },
     {
       "id": "stiletto",
       "name_en": "Stiletto",
       "name_zh": "细匕首",
       "kind": "武器",
-      "note": "SMERSH特工用以在邦德右手背刻下俄文字母Ш"
+      "note": "SMERSH特工用以在邦德右手背刻下俄文字母Ш",
+      "description_en": "The thin stiletto with which the SMERSH agent cuts the Russian letter Ш into the back of Bond's right hand."
     },
     {
       "id": "wire-recorder",
       "name_en": "Wire recorder",
       "name_zh": "线录机",
       "kind": "监听设备",
-      "note": "蒙茨夫妇用无线拾音器经烟囱连接放大器与线录机监听邦德房间"
+      "note": "蒙茨夫妇用无线拾音器经烟囱连接放大器与线录机监听邦德房间",
+      "description_en": "The wire recorder the Muntzes use, with a radio pickup behind the electric fire in Bond's room and wires running up the chimney to an amplifier in their room above."
     },
     {
       "id": "vesper-martini",
       "name_en": "Vesper Martini",
       "name_zh": "薇丝朋马提尼",
       "kind": "饮品",
-      "note": "邦德发明：3份戈登金酒、1份伏特加、半份Kina Lillet，摇至冰冷，加大片薄柠檬皮，以薇丝朋之名命名"
+      "note": "邦德发明：3份戈登金酒、1份伏特加、半份Kina Lillet，摇至冰冷，加大片薄柠檬皮，以薇丝朋之名命名",
+      "description_en": "Bond's invention: three measures of Gordon's gin, one of vodka and half a measure of Kina Lillet, shaken until ice-cold, with a large thin slice of lemon peel; named after Vesper."
     }
   ],
   "vehicles": [
     {
       "name_en": "Bentley 4.5 litre",
       "name_zh": "宾利4.5升",
-      "note": "邦德座驾，1933年近新时购入，Amherst Villiers机械增压，战时封存，战舰灰敞篷双门跑车，巡航90英里时速，追车时达120英里时速，后翻车损毁送鲁昂修理"
+      "note": "邦德座驾，1933年近新时购入，Amherst Villiers机械增压，战时封存，战舰灰敞篷双门跑车，巡航90英里时速，追车时达120英里时速，后翻车损毁送鲁昂修理",
+      "description_en": "Bond's car, bought almost new in 1933, a 4.5-litre Bentley with a supercharger by Amherst Villiers, laid up during the war; a battleship-grey open two-seater tourer that cruises at 90 miles an hour and reaches 120 in the chase, before overturning and being sent to Rouen for repair."
     },
     {
       "name_en": "Citroën",
       "name_zh": "雪铁龙",
-      "note": "勒·希弗绑架薇丝朋所用轿车，前轮驱动，载三名男子与薇丝朋逃往别墅"
+      "note": "勒·希弗绑架薇丝朋所用轿车，前轮驱动，载三名男子与薇丝朋逃往别墅",
+      "description_en": "The front-wheel-drive saloon Le Chiffre uses to kidnap Vesper, carrying three men and Vesper away to the villa."
     },
     {
       "name_en": "Peugeot",
       "name_zh": "标致",
-      "note": "盖特勒租用的黑色轿车，巴黎牌照，跟踪邦德与薇丝朋至海边客栈"
+      "note": "盖特勒租用的黑色轿车，巴黎牌照，跟踪邦德与薇丝朋至海边客栈",
+      "description_en": "The black saloon, with Paris plates, hired by Gettler to follow Bond and Vesper to the seaside inn."
     }
   ],
   "communications": [
     {
       "name": "电报",
-      "note": "邦德与伦敦之间经牙买加中转的电报，以雪茄产量为暗语传递资金数额，如“哈瓦那雪茄产量1000万”表示1000万法郎在途"
+      "note": "邦德与伦敦之间经牙买加中转的电报，以雪茄产量为暗语传递资金数额，如“哈瓦那雪茄产量1000万”表示1000万法郎在途",
+      "description_en": "Cables between Bond and London are relayed through Jamaica, with cigar production as a code for sums of money - \"Havana cigar production ten million\" means ten million francs on its way."
     },
     {
       "name": "电话",
-      "note": "薇丝朋按MWD指令每天两次打往巴黎Invalides 55200号；邦德结尾用明线致电伦敦联络官报告薇丝朋之死"
+      "note": "薇丝朋按MWD指令每天两次打往巴黎Invalides 55200号；邦德结尾用明线致电伦敦联络官报告薇丝朋之死",
+      "description_en": "On MWD orders Vesper telephones the Paris Invalides number 55200 twice a day; at the end Bond telephones the London liaison officer on an open line to report Vesper's death."
     },
     {
       "name": "窃听",
-      "note": "蒙茨夫妇在邦德房间电暖器后安装无线拾音器，经烟囱连至楼上放大器与线录机监听"
+      "note": "蒙茨夫妇在邦德房间电暖器后安装无线拾音器，经烟囱连至楼上放大器与线录机监听",
+      "description_en": "The Muntzes fit a radio pickup behind the electric fire in Bond's room, wired up the chimney to an amplifier and wire recorder in their room above."
     },
     {
       "name": "书信",
-      "note": "薇丝朋每月15日收到波兰恋人来信，以此确认其仍活着；薇丝朋遗书以“Pour Lui”封缄留给邦德"
+      "note": "薇丝朋每月15日收到波兰恋人来信，以此确认其仍活着；薇丝朋遗书以“Pour Lui”封缄留给邦德",
+      "description_en": "Vesper receives a letter from her Polish lover on the fifteenth of each month, by which she knows he is still alive; her farewell letter to Bond is sealed and addressed \"Pour Lui\"."
     }
   ],
   "mission": {
@@ -1012,90 +1205,138 @@
     ],
     "outcome": "邦德在百家乐决胜局以9点击败勒·希弗，赢走7000多万法郎；勒·希弗绑架薇丝朋并酷刑逼问邦德未果，随后被SMERSH特工枪杀；工会丑闻公开，法国共产党阵脚大乱；薇丝朋被揭为双面间谍后自杀；邦德决心追捕SMERSH"
   },
+  "mission_en": {
+    "objective_en": "To beat Le Chiffre at the baccarat table so that he cannot make good the fifty million francs he embezzled from the union's funds - destroying his reputation, bankrupting the Communist-controlled Alsace trade union he runs, and shaking a potential fifth column in northern France.",
+    "investigation_en": "Station S learned from 1860, a Eurasian mistress of Le Chiffre's controlled by Station F, that he was selling jewellery and his Antibes villa; with the Deuxième Bureau it traced his 1946 embezzlement and the ruin of his brothel investment. Bond arrived early at Royale-les-Eaux to practise at roulette and observe Le Chiffre, with Mathis and Leiter assisting.",
+    "key_clues_en": [
+      "Le Chiffre was selling his jewellery and his villa at Antibes",
+      "The Cordon Jaune brothel investment was ruined by the anti-prostitution law of 13 April 1946",
+      "Le Chiffre drew the union's last twenty-five million francs and rented a villa near Royale-les-Eaux",
+      "Le Chiffre planned, on or after 15 June, to win fifty million francs from twenty-five million at baccarat",
+      "A senior SMERSH official was reported travelling from Warsaw to Strasbourg via the Eastern sector of Berlin"
+    ],
+    "outcome_en": "Bond beat Le Chiffre in the decisive coup with a nine, winning over seventy million francs. Le Chiffre kidnapped Vesper and tortured Bond without result, and was then shot dead by a SMERSH agent. The union scandal became public and threw the French Communist Party into disarray; Vesper was exposed as a double agent and killed herself; Bond resolved to hunt SMERSH."
+  },
   "events": [
     {
       "id": "bomb-attack",
       "chapter": 6,
       "title": "保加利亚人炸弹袭击",
+      "title_en": "Bomb Attack by the Bulgarians",
       "cause": "勒·希弗方面雇佣三名保加利亚人刺杀邦德，两人各持一包炸弹，误以为蓝包是烟雾弹",
-      "effect": "两包皆为烈性炸弹，蓝包被引爆时两人同归于尽，邦德毫发无损，第三人被捕后招供"
+      "cause_en": "Le Chiffre's people hired three Bulgarians to kill Bond; two of them carried a parcel of explosives each, believing the blue parcel to be a smoke bomb.",
+      "effect": "两包皆为烈性炸弹，蓝包被引爆时两人同归于尽，邦德毫发无损，第三人被捕后招供",
+      "effect_en": "Both parcels were high explosive; the blue one killed the two men when it went off, Bond escaped unhurt, and the third man was arrested and confessed."
     },
     {
       "id": "baccarat-duel",
       "chapter": 10,
       "title": "百家乐对决",
+      "title_en": "The Baccarat Duel",
       "cause": "邦德奉命以赌桌击败勒·希弗，勒·希弗买下庄家，邦德坐6号位正面迎战",
-      "effect": "邦德一度赢400万法郎又连输1200万法郎被清空，莱特送来3200万法郎后邦德在决胜局以9点获胜"
+      "cause_en": "Bond was ordered to beat Le Chiffre at the tables; Le Chiffre bought the bank and Bond took seat number six to face him.",
+      "effect": "邦德一度赢400万法郎又连输1200万法郎被清空，莱特送来3200万法郎后邦德在决胜局以9点获胜",
+      "effect_en": "Bond was at one point four million francs up, then lost twelve million and was cleaned out; after Leiter brought thirty-two million francs, Bond won the decisive coup with a nine."
     },
     {
       "id": "cane-gun-attempt",
       "chapter": 12,
       "title": "拐杖枪暗杀未遂",
+      "title_en": "Attempted Murder with the Cane Gun",
       "cause": "勒·希弗不甘失败，命枪手在决胜局前以消音手枪顶住邦德脊柱逼其撤注",
-      "effect": "邦德猛然后仰撞断拐杖枪脱身，枪手逃走，邦德得以继续决胜局"
+      "cause_en": "Unwilling to lose, Le Chiffre had a gunman press a silenced pistol to Bond's spine before the decisive coup and order him to withdraw his bet.",
+      "effect": "邦德猛然后仰撞断拐杖枪脱身，枪手逃走，邦德得以继续决胜局",
+      "effect_en": "Bond threw himself backwards, snapping the cane gun across his chair; the gunman fled and Bond was able to play the decisive coup."
     },
     {
       "id": "vesper-kidnapping",
       "chapter": 14,
       "title": "薇丝朋被绑架",
+      "title_en": "Vesper Is Kidnapped",
       "cause": "薇丝朋受MWD指使，以伪造的马蒂斯字条将自己骗出夜总会，实为诱捕邦德的圈套",
-      "effect": "邦德驾宾利追赶，压上钉刺路障翻车被俘"
+      "cause_en": "On MWD orders, Vesper lured herself out of the nightclub with a forged note in Mathis's handwriting - a trap to catch Bond.",
+      "effect": "邦德驾宾利追赶，压上钉刺路障翻车被俘",
+      "effect_en": "Bond gave chase in his Bentley, ran over the spiked chainmail carpet and overturned, and was captured."
     },
     {
       "id": "bentley-crash",
       "chapter": 16,
       "title": "宾利翻车被俘",
+      "title_en": "The Bentley Crashes and Bond Is Captured",
       "cause": "勒·希弗在岔路口撒下钉刺链毯，邦德高速驶过时轮胎被撕裂翻车",
-      "effect": "邦德与薇丝朋一同被押至Les Noctambules别墅，邦德被剥光绑椅受刑"
+      "cause_en": "Le Chiffre had a carpet of spiked chainmail spread across the road at a crossroads; Bond drove over it at high speed and his tyres were torn to shreds.",
+      "effect": "邦德与薇丝朋一同被押至Les Noctambules别墅，邦德被剥光绑椅受刑",
+      "effect_en": "Bond and Vesper were taken together to the villa Les Noctambules, where Bond was stripped and tied to a chair for torture."
     },
     {
       "id": "torture",
       "chapter": 17,
       "title": "酷刑逼供",
+      "title_en": "Torture",
       "cause": "勒·希弗要逼问邦德藏匿的4000万法郎支票下落",
-      "effect": "邦德受藤地毯拍抽打约1小时始终不说，昏厥后被弄醒，勒·希弗正要以刻刀阉割时被打断"
+      "cause_en": "Le Chiffre wanted to force Bond to reveal where the forty-million-franc cheque was hidden.",
+      "effect": "邦德受藤地毯拍抽打约1小时始终不说，昏厥后被弄醒，勒·希弗正要以刻刀阉割时被打断",
+      "effect_en": "Bond was beaten with a carpet beater for about an hour and said nothing; he fainted and was revived, and Le Chiffre was about to castrate him with a knife when he was interrupted."
     },
     {
       "id": "smersh-execution",
       "chapter": 18,
       "title": "SMERSH处决勒·希弗",
+      "title_en": "SMERSH Executes Le Chiffre",
       "cause": "勒·希弗挪用苏联资金且行动失败，SMERSH派特工清理门户",
-      "effect": "勒·希弗与两名枪手被枪杀，邦德右手背被刻上俄文字母Ш，邦德获救"
+      "cause_en": "Le Chiffre had embezzled Soviet funds and failed; SMERSH sent an agent to settle accounts with him.",
+      "effect": "勒·希弗与两名枪手被枪杀，邦德右手背被刻上俄文字母Ш，邦德获救",
+      "effect_en": "Le Chiffre and his two gunmen were shot dead; the Russian letter Ш was cut into the back of Bond's right hand, and Bond was left alive."
     },
     {
       "id": "bond-recovery",
       "chapter": 19,
       "title": "邦德苏醒与康复",
+      "title_en": "Bond Wakes and Recovers",
       "cause": "农民发现翻覆的宾利报警，马蒂斯率队在别墅找到邦德",
-      "effect": "邦德昏迷两天后苏醒，对外宣称勒·希弗杀同伙后自杀，邦德说出支票藏于房门号牌之后，约3周后痊愈"
+      "cause_en": "A farmer found the overturned Bentley and raised the alarm; Mathis led a party to the villa and found Bond.",
+      "effect": "邦德昏迷两天后苏醒，对外宣称勒·希弗杀同伙后自杀，邦德说出支票藏于房门号牌之后，约3周后痊愈",
+      "effect_en": "Bond woke after two days unconscious; officially Le Chiffre was said to have shot his accomplices and killed himself. Bond revealed the cheque was behind his room's number plate, and recovered in about three weeks."
     },
     {
       "id": "moral-debate",
       "chapter": 20,
       "title": "善恶之辩",
+      "title_en": "The Debate on Good and Evil",
       "cause": "酷刑经历使邦德怀疑英雄与恶棍之分，表示想辞职",
-      "effect": "马蒂斯以亲身经历劝说邦德，邦德暂被说服，但结尾薇丝朋之死使其决心转而追捕SMERSH"
+      "cause_en": "The torture left Bond doubting the difference between heroes and villains, and he talked of resigning.",
+      "effect": "马蒂斯以亲身经历劝说邦德，邦德暂被说服，但结尾薇丝朋之死使其决心转而追捕SMERSH",
+      "effect_en": "Mathis argued from his own experience that truly evil men exist; Bond was talked round for the time being, but Vesper's death at the end turned him towards hunting SMERSH."
     },
     {
       "id": "romance",
       "chapter": 23,
       "title": "海边热恋",
+      "title_en": "Love at the Seaside",
       "cause": "康复后两人同住禁果客栈，邦德决心求婚",
-      "effect": "两人同床，邦德确认身体已恢复，但薇丝朋因双面身份日渐恐惧疏远"
+      "cause_en": "Once recovered, Bond and Vesper stayed together at the inn L'Auberge du Fruit Défendu, and Bond resolved to propose to her.",
+      "effect": "两人同床，邦德确认身体已恢复，但薇丝朋因双面身份日渐恐惧疏远",
+      "effect_en": "They became lovers and Bond was sure his body had recovered, but Vesper grew daily more frightened and distant because of her double life."
     },
     {
       "id": "gettler-surveillance",
       "chapter": 25,
       "title": "盖特勒监视",
+      "title_en": "Gettler's Surveillance",
       "cause": "MWD方面派盖特勒跟踪监视薇丝朋，薇丝朋每天两次打往巴黎的电话无人接听",
-      "effect": "薇丝朋确认无法逃脱，精神崩溃，决定在坦白前夜与邦德重归于好"
+      "cause_en": "The MWD sent Gettler to watch Vesper, and her twice-daily calls to Paris went unanswered.",
+      "effect": "薇丝朋确认无法逃脱，精神崩溃，决定在坦白前夜与邦德重归于好",
+      "effect_en": "Vesper realized there was no escape, broke down, and decided to spend one last night with Bond before confessing."
     },
     {
       "id": "vesper-suicide",
       "chapter": 27,
       "title": "薇丝朋之死与遗书",
+      "title_en": "Vesper's Death and Her Letter",
       "cause": "薇丝朋因双面身份暴露在即、恋人将被处死、SMERSH威胁将至而绝望",
-      "effect": "薇丝朋服安眠药自杀，遗书揭露其为MWD双面间谍及全部经过，邦德向伦敦报告并决心追捕SMERSH"
+      "cause_en": "Vesper despaired because her double life was about to be exposed, her lover would be killed, and SMERSH was coming for her.",
+      "effect": "薇丝朋服安眠药自杀，遗书揭露其为MWD双面间谍及全部经过，邦德向伦敦报告并决心追捕SMERSH",
+      "effect_en": "Vesper took an overdose of sleeping pills; her letter exposed her as an MWD double agent and told the whole story, and Bond reported to London and resolved to hunt SMERSH."
     }
   ],
   "facts": [
@@ -1104,6 +1345,7 @@
       "chapter": 1,
       "entity": "bond",
       "fact": "邦德在皇家莱索赌场两日赢300万法郎，玩红黑轮盘渐进投注法",
+      "fact_en": "Bond is exactly three million francs up after two days at the Casino Royale, playing a progressive system on red at roulette.",
       "timeline_position": "6月中旬",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1115,6 +1357,7 @@
       "chapter": 1,
       "entity": "bond",
       "fact": "邦德住Splendide酒店45号房，枕下藏锯短枪管的点38柯尔特警用转轮手枪",
+      "fact_en": "Bond stays in room 45 at the Hôtel Splendide and sleeps with a sawn-barrel .38 Colt Police Positive under his pillow.",
       "timeline_position": "6月中旬",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1126,6 +1369,7 @@
       "chapter": 1,
       "entity": "bond",
       "fact": "邦德每天抽约70支烟，睡前抽第70支",
+      "fact_en": "Bond smokes about seventy cigarettes a day, lighting his seventieth before bed.",
       "timeline_position": "6月中旬",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1137,6 +1381,7 @@
       "chapter": 1,
       "entity": "fawcett",
       "fact": "邦德与伦敦的通讯经牙买加福塞特中转，福塞特为《每日拾穗者报》图片部主任",
+      "fact_en": "Bond's communications with London pass through Fawcett in Jamaica, head of the picture desk on the Daily Gleaner.",
       "timeline_position": "6月中旬",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1148,6 +1393,7 @@
       "chapter": 2,
       "entity": "le-chiffre",
       "fact": "勒·希弗1946年1月挪用列宁格勒第三处拨给工会的5000万法郎买下妓院连锁Cordon Jaune",
+      "fact_en": "In January 1946 Le Chiffre embezzled fifty million francs entrusted by Leningrad Section III to the union and used it to buy control of the Cordon Jaune brothel chain.",
       "timeline_position": "1946年1月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1159,6 +1405,7 @@
       "chapter": 2,
       "entity": "le-chiffre",
       "fact": "1946年4月13日法国第46685号禁娼法令关闭妓院，勒·希弗投资血本无归",
+      "fact_en": "On 13 April 1946, France's Law No. 46685 closed the brothels, wiping out Le Chiffre's investment.",
       "timeline_position": "1946年4月13日",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1170,6 +1417,7 @@
       "chapter": 2,
       "entity": "le-chiffre",
       "fact": "勒·希弗约45岁，1945年6月以失忆难民身份出现于达豪难民营，9月持无国籍护照304596号转移至斯特拉斯堡",
+      "fact_en": "Le Chiffre is about 45; he first appeared as an amnesiac displaced person at the Dachau DP camp in June 1945, and in September was transferred to Strasbourg on Stateless Passport No. 304596.",
       "timeline_position": "1945年",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1181,6 +1429,7 @@
       "chapter": 2,
       "entity": "le-chiffre",
       "fact": "勒·希弗身高5英尺8英寸，体重18英石，红棕色短发，眼白环绕虹膜，随身带三片剃须刀片",
+      "fact_en": "Le Chiffre is 5 ft 8 in tall, weighs 18 stone, has short red-brown hair and eyes whose whites show all round the iris, and carries three razor blades.",
       "timeline_position": "1946年前",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1192,6 +1441,7 @@
       "chapter": 2,
       "entity": "smersh",
       "fact": "SMERSH为俄语“间谍之死”缩写，受贝利亚直接领导，总部在列宁格勒，下辖五个处",
+      "fact_en": "SMERSH is short for the Russian for \"Death to Spies\"; it answers directly to Beria, is headquartered in Leningrad, and is divided into five departments.",
       "timeline_position": "1953年前",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1203,6 +1453,7 @@
       "chapter": 2,
       "entity": "soda",
       "fact": "阿尔萨斯工会有5万名会员，战时可控制法国北部边境广大地区",
+      "fact_en": "The Alsace trade union has 50,000 members and in wartime could control a wide sector of France's northern frontier.",
       "timeline_position": "1953年前",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1214,6 +1465,7 @@
       "chapter": 2,
       "entity": "le-chiffre",
       "fact": "勒·希弗计划6月15日或之后以2500万法郎本金在百家乐赢5000万法郎",
+      "fact_en": "Le Chiffre plans, on or after 15 June, to win fifty million francs at baccarat on a capital of twenty-five million.",
       "timeline_position": "6月15日",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1225,6 +1477,7 @@
       "chapter": 9,
       "entity": "bond",
       "fact": "邦德获颁双0编号的原因是执行过两次冷血杀人任务：纽约日本密码专家与斯德哥尔摩挪威双面间谍",
+      "fact_en": "Bond owes his Double-O number to two cold-blooded killings: a Japanese cipher expert in New York and a Norwegian double agent in Stockholm.",
       "timeline_position": "战后",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1236,6 +1489,7 @@
       "chapter": 3,
       "entity": "m",
       "fact": "M批准赌桌行动，邦德资金上限2500万法郎，先给1000万，另1000万随后汇至",
+      "fact_en": "M approves the baccarat operation, giving Bond up to twenty-five million francs - ten to start, with a further ten to follow.",
       "timeline_position": "行动前两周",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1247,6 +1501,7 @@
       "chapter": 3,
       "entity": "bond",
       "fact": "邦德战前曾在蒙特卡洛赌场蹲守两个月破获罗马尼亚人用隐形墨水与墨镜作弊的团伙",
+      "fact_en": "Before the war Bond spent two months in the Casino at Monte Carlo watching a Romanian team cheat with invisible ink.",
       "timeline_position": "战前",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1258,6 +1513,7 @@
       "chapter": 4,
       "entity": "muntz",
       "fact": "蒙茨夫妇在邦德房间电暖器后安装无线拾音器，经烟囱连至楼上放大器与线录机监听",
+      "fact_en": "The Muntzes have fitted a radio pickup behind the electric fire in Bond's room, wired up the chimney to an amplifier and wire recorder in their room above.",
       "timeline_position": "6月中旬",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1269,6 +1525,7 @@
       "chapter": 4,
       "entity": "mathis",
       "fact": "马蒂斯以Radio Stentor无线电推销员为掩护登门，用收音机高音量干扰窃听器",
+      "fact_en": "Mathis calls on Bond disguised as a Radio Stentor salesman and drowns the listening device with a radio turned up to full volume.",
       "timeline_position": "6月中旬",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1280,6 +1537,7 @@
       "chapter": 4,
       "entity": "vesper-lynd",
       "fact": "薇丝朋为无线电专家，是M派给邦德的助手与通讯员",
+      "fact_en": "Vesper Lynd is a wireless expert, assigned by M as Bond's assistant and communications officer.",
       "timeline_position": "6月中旬",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1291,6 +1549,7 @@
       "chapter": 5,
       "entity": "bond",
       "fact": "邦德座驾为1933年购入的4.5升机械增压宾利，战舰灰敞篷跑车，巡航90英里时速",
+      "fact_en": "Bond's car is a 4.5-litre supercharged Bentley, bought almost new in 1933, a battleship-grey open tourer that cruises at 90 miles an hour.",
       "timeline_position": "1933年购入",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1302,6 +1561,7 @@
       "chapter": 5,
       "entity": "vesper-lynd",
       "fact": "薇丝朋黑发齐颈，深蓝眼睛，初见穿灰色野蚕丝裙，戴金链与托帕石戒指",
+      "fact_en": "Vesper has black hair cut square and low on the nape of her neck and deep blue eyes; when Bond first meets her she wears a grey wild-silk dress, a gold chain and a topaz ring.",
       "timeline_position": "6月中旬",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1313,6 +1573,7 @@
       "chapter": 6,
       "entity": "bond",
       "fact": "两名保加利亚刺客的炸弹提前爆炸，两人当场炸死，邦德未受伤，第三人随后被捕",
+      "fact_en": "The two Bulgarian assassins' bomb goes off prematurely, killing them both on the spot; Bond is unhurt, and the third man is later arrested.",
       "timeline_position": "6月中旬",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1324,6 +1585,7 @@
       "chapter": 7,
       "entity": "bond",
       "fact": "邦德发明的马提尼配方为3份戈登金酒、1份伏特加、半份Kina Lillet，加柠檬皮",
+      "fact_en": "Bond's martini is three measures of Gordon's gin, one of vodka and half a measure of Kina Lillet, with a thin slice of lemon peel.",
       "timeline_position": "6月中旬",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1335,6 +1597,7 @@
       "chapter": 7,
       "entity": "felix-leiter",
       "fact": "费利克斯·莱特约35岁，得克萨斯人，前美国海军陆战队队员，任职于北约联合情报部门",
+      "fact_en": "Felix Leiter is about 35, a Texan and former US Marine, serving with the Joint Intelligence Staff of NATO.",
       "timeline_position": "6月中旬",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1346,6 +1609,7 @@
       "chapter": 8,
       "entity": "vesper-lynd",
       "fact": "薇丝朋之名源于她出生在暴风雨之夜，邦德借用Vesper为鸡尾酒命名",
+      "fact_en": "Vesper's name comes from the stormy evening of her birth; Bond borrows \"Vesper\" for his cocktail.",
       "timeline_position": "6月中旬",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1357,6 +1621,7 @@
       "chapter": 8,
       "entity": "bond",
       "fact": "邦德佩带点25贝雷塔自动手枪赴晚餐，枪藏于左肩皮套",
+      "fact_en": "Bond wears a flat .25 Beretta automatic in a shoulder holster to dinner.",
       "timeline_position": "6月中旬",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1368,6 +1633,7 @@
       "chapter": 9,
       "entity": "vesper-lynd",
       "fact": "薇丝朋为S处处长私人助理，因处长想让本处参与行动而被派来",
+      "fact_en": "Vesper is personal assistant to the Head of Station S, sent on the operation because her chief wanted his section in on it.",
       "timeline_position": "6月中旬",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1379,6 +1645,7 @@
       "chapter": 9,
       "entity": "le-chiffre",
       "fact": "勒·希弗花100万法郎向埃及辛迪加买下百家乐庄家，资本约2400万法郎",
+      "fact_en": "Le Chiffre paid a million francs to the Egyptian syndicate for the baccarat bank, leaving him capital of about twenty-four million francs.",
       "timeline_position": "6月中旬",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1390,6 +1657,7 @@
       "chapter": 11,
       "entity": "bond",
       "fact": "百家乐开局赌注50万法郎，邦德坐6号位，首注200万法郎以天生9点击败庄家",
+      "fact_en": "The baccarat bank opens at five million francs; Bond, seated at number six, wins his first bet of two million on a natural nine.",
       "timeline_position": "6月中旬深夜",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1401,6 +1669,7 @@
       "chapter": 11,
       "entity": "bond",
       "fact": "邦德在两手牌内输掉1200万法郎，最后一注1600万法郎以6点对庄家9点落败被清空",
+      "fact_en": "Bond loses twelve million francs in two coups, then his last sixteen-million-franc bet falls, six against the bank's nine, leaving him cleaned out.",
       "timeline_position": "凌晨约1时",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1412,6 +1681,7 @@
       "chapter": 12,
       "entity": "felix-leiter",
       "fact": "莱特以“马歇尔援助”名义送来3200万法郎，使邦德得以继续对决",
+      "fact_en": "Leiter sends thirty-two million francs in the name of \"Marshall Aid\", allowing Bond to go on with the game.",
       "timeline_position": "凌晨约1时",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1423,6 +1693,7 @@
       "chapter": 12,
       "entity": "bond",
       "fact": "邦德猛然后仰撞断拐杖枪，躲过枪手以消音手枪顶住脊柱的暗杀，子弹为达姆弹",
+      "fact_en": "Bond throws himself backwards and snaps the cane gun, escaping a gunman who holds a silenced pistol to his spine; the bullet is a dum-dum.",
       "timeline_position": "凌晨约2时",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1434,6 +1705,7 @@
       "chapter": 13,
       "entity": "bond",
       "fact": "决胜局邦德两张Q为0点，补一张红桃9成9点，勒·希弗持3点补牌得5成8点，邦德获胜",
+      "fact_en": "In the decisive coup Bond holds two queens - nothing - and draws the nine of hearts for nine; Le Chiffre, holding three, draws a five for eight, and Bond wins.",
       "timeline_position": "凌晨2时",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1445,6 +1717,7 @@
       "chapter": 13,
       "entity": "bond",
       "fact": "邦德最终赢走7000多万法郎，其中4000多万法郎以支票形式兑付",
+      "fact_en": "Bond wins over seventy million francs in all, more than forty million of it paid by cheque.",
       "timeline_position": "凌晨约2时30分",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1456,6 +1729,7 @@
       "chapter": 14,
       "entity": "vesper-lynd",
       "fact": "薇丝朋被伪造的马蒂斯字条骗出夜总会后遭绑架，晚装包被抛出车外",
+      "fact_en": "Vesper is lured out of the nightclub by a forged note in Mathis's hand and kidnapped; her evening bag is thrown from the car.",
       "timeline_position": "凌晨约4时",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1467,6 +1741,7 @@
       "chapter": 15,
       "entity": "bond",
       "fact": "邦德驾宾利以约120英里时速追赶雪铁龙，车上备有长枪管点45柯尔特手枪",
+      "fact_en": "Bond chases the Citroën in his Bentley at about 120 miles an hour, with a long-barrelled .45 Colt under the dashboard.",
       "timeline_position": "凌晨约4时",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1478,6 +1753,7 @@
       "chapter": 16,
       "entity": "bond",
       "fact": "宾利压上钉刺链毯后翻车，邦德被俘并押至Les Noctambules别墅，时约凌晨5时",
+      "fact_en": "The Bentley runs over the carpet of spiked chainmail and overturns; Bond is captured and taken to the villa Les Noctambules at about 5 a.m.",
       "timeline_position": "凌晨约5时",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1489,6 +1765,7 @@
       "chapter": 17,
       "entity": "le-chiffre",
       "fact": "勒·希弗用藤地毯拍抽打邦德下体约1小时逼问4000万法郎支票下落，邦德始终不说",
+      "fact_en": "Le Chiffre beats Bond's groin with a carpet beater for about an hour, trying to make him reveal where the forty-million-franc cheque is hidden; Bond says nothing.",
       "timeline_position": "上午约6时至7时",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1500,6 +1777,7 @@
       "chapter": 17,
       "entity": "le-chiffre",
       "fact": "勒·希弗派人搜查邦德房间，拆毁家具与衣物仍未找到支票",
+      "fact_en": "Le Chiffre's men search Bond's room, taking the furniture apart and cutting up his clothes, curtains and bedding, and still find no cheque.",
       "timeline_position": "上午约6时",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1511,6 +1789,7 @@
       "chapter": 18,
       "entity": "smersh-agent",
       "fact": "SMERSH特工一枪击毙勒·希弗，子弹命中眉心，两名枪手各中一发点35子弹死于后脑",
+      "fact_en": "The SMERSH agent shoots Le Chiffre through the forehead; each of the two gunmen is killed by a single .35 bullet in the back of the head.",
       "timeline_position": "上午约7时",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1522,6 +1801,7 @@
       "chapter": 18,
       "entity": "bond",
       "fact": "SMERSH特工在邦德右手背刻下俄文字母Ш，形如倒M带尾，意为间谍标记",
+      "fact_en": "The SMERSH agent cuts the Russian letter Ш into the back of Bond's right hand - an inverted M with a tail - as a spy's mark.",
       "timeline_position": "上午约7时",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1533,6 +1813,7 @@
       "chapter": 19,
       "entity": "bond",
       "fact": "邦德昏迷约两天后在皇家莱索疗养院苏醒，由吉布森护士照料",
+      "fact_en": "Bond lies unconscious for about two days before waking in the clinic at Royale-les-Eaux, where Nurse Gibson looks after him.",
       "timeline_position": "酷刑后第3天",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1544,6 +1825,7 @@
       "chapter": 19,
       "entity": "bond",
       "fact": "邦德将4000万法郎支票藏于房门号牌之后，勒·希弗与马蒂斯搜查房间均未发现",
+      "fact_en": "Bond hid the forty-million-franc cheque behind the number plate of his room door; neither Le Chiffre's men nor Mathis's search found it.",
       "timeline_position": "牌局当夜",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1555,6 +1837,7 @@
       "chapter": 19,
       "entity": "le-chiffre",
       "fact": "对外宣称勒·希弗枪杀两名同伙后自杀，以掩盖SMERSH处决真相",
+      "fact_en": "The official story is that Le Chiffre shot his two accomplices and then killed himself, to conceal the SMERSH execution.",
       "timeline_position": "酷刑后数日",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1566,6 +1849,7 @@
       "chapter": 20,
       "entity": "bond",
       "fact": "邦德在纽约以300码距离射杀日本密码专家，在斯德哥尔摩以刀杀死挪威双面间谍，由此获颁双0编号",
+      "fact_en": "Bond killed the Japanese cipher expert in New York from 300 yards away, and knifed the Norwegian double agent in Stockholm; the two killings earned him his Double-O number.",
       "timeline_position": "战后",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1577,6 +1861,7 @@
       "chapter": 21,
       "entity": "vesper-lynd",
       "fact": "薇丝朋称绑架时裙子被蒙过头顶、自己扔包求救，在别墅未受侵犯，仅听到一声遥远的尖叫",
+      "fact_en": "Vesper says her dress was pulled over her head during the kidnapping, that she threw her bag out of the window, and that in the villa she was not molested and heard only one distant scream.",
       "timeline_position": "酷刑后第8天",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1588,6 +1873,7 @@
       "chapter": 22,
       "entity": "bond",
       "fact": "邦德约3周后痊愈，时值7月，与薇丝朋同往海边客栈度假",
+      "fact_en": "Bond recovers in about three weeks, and by July he and Vesper leave for a holiday at the seaside inn.",
       "timeline_position": "7月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1599,6 +1885,7 @@
       "chapter": 22,
       "entity": "versoix",
       "fact": "客栈店主维索瓦为独臂自由法国老兵，在马达加斯加作战失去一臂",
+      "fact_en": "The innkeeper, Monsieur Versoix, is a one-armed Free French veteran who lost his arm fighting in Madagascar.",
       "timeline_position": "7月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1610,6 +1897,7 @@
       "chapter": 24,
       "entity": "vesper-lynd",
       "fact": "薇丝朋浴室里放有安眠药Nembutal，邦德初见时只当她神经受惊",
+      "fact_en": "Vesper keeps Nembutal sleeping pills in her bathroom; Bond first takes them as a sign of nerves after her ordeal.",
       "timeline_position": "7月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1621,6 +1909,7 @@
       "chapter": 26,
       "entity": "gettler",
       "fact": "跟踪者名叫阿道夫·盖特勒，瑞士人，租用黑色标致车，苏黎世银行有其账户，自称钟表推销员",
+      "fact_en": "The watcher is Adolph Gettler, a Swiss who hired a black Peugeot and holds an account with a Zurich bank, posing as a watch salesman.",
       "timeline_position": "7月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1632,6 +1921,7 @@
       "chapter": 25,
       "entity": "vesper-lynd",
       "fact": "薇丝朋清晨打往巴黎的电话实际为Invalides号码且无人接听，其称打给马蒂斯借裙子的说法是谎言",
+      "fact_en": "Vesper's early-morning call to Paris was really to an Invalides number and went unanswered; her claim that she rang Mathis to borrow a dress is a lie.",
       "timeline_position": "7月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1643,6 +1933,7 @@
       "chapter": 27,
       "entity": "vesper-lynd",
       "fact": "薇丝朋为MWD双面间谍，战后一年被招募，因波兰籍空军恋人被扣为人质而被迫合作，每月15日收到恋人来信",
+      "fact_en": "Vesper is an MWD double agent, recruited a year after the war and blackmailed because her Polish RAF lover is held hostage; a letter from him arrives on the fifteenth of each month.",
       "timeline_position": "战后至1953年",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1654,6 +1945,7 @@
       "chapter": 27,
       "entity": "vesper-lynd",
       "fact": "薇丝朋泄露邦德身份与掩护，致使对方提前在邦德房间安装窃听器，并策划绑架",
+      "fact_en": "Vesper betrayed Bond's identity and cover, which is why the enemy knew about him before he arrived and had time to fit the microphones - and she staged the kidnapping.",
       "timeline_position": "6月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1665,6 +1957,7 @@
       "chapter": 27,
       "entity": "vesper-lynd",
       "fact": "薇丝朋受MWD遥控的巴黎电话为Invalides 55200，伦敦联络点为查令十字街450号报刊亭",
+      "fact_en": "The Paris number Vesper was controlled from is Invalides 55200; the London contact point is a newsagent's at 450 Charing Cross Place.",
       "timeline_position": "1953年",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1676,6 +1969,7 @@
       "chapter": 27,
       "entity": "vesper-lynd",
       "fact": "薇丝朋服安眠药自杀，遗书以“Pour Lui”封缄留给邦德",
+      "fact_en": "Vesper kills herself with sleeping pills; her farewell letter, addressed simply \"Pour Lui\", is left for Bond.",
       "timeline_position": "7月某周日夜",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1687,6 +1981,7 @@
       "chapter": 27,
       "entity": "bond",
       "fact": "邦德致电伦敦报告“3030曾是双面间谍，现已死亡”，并决心追捕SMERSH",
+      "fact_en": "Bond telephones London to report \"3030 was a double... the bitch is dead now\", and resolves to hunt SMERSH.",
       "timeline_position": "7月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1698,6 +1993,7 @@
       "chapter": 27,
       "entity": "bond",
       "fact": "邦德在遗书后认定SMERSH是苏联机器的鞭子，决定以追捕SMERSH为新目标",
+      "fact_en": "After reading the letter, Bond decides that SMERSH is the whip of the Soviet machine and takes hunting it down as his new mission.",
       "timeline_position": "7月",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1709,6 +2005,7 @@
       "chapter": 5,
       "entity": "royale-les-eaux",
       "fact": "皇家莱索位于索姆河口附近，1950年巴黎财团复兴赌场与两家酒店",
+      "fact_en": "Royale-les-Eaux lies near the mouth of the Somme; its casino and two hotels were revived by a Paris syndicate in 1950.",
       "timeline_position": "1950年",
       "confidence": "high",
       "canon_or_inference": "canon",
@@ -1719,46 +2016,65 @@
   "canon_vs_inference": [
     {
       "topic": "故事年份",
+      "topic_en": "The year of the story",
       "status": "inference",
-      "note": "原文未明示故事年份，仅给出1945年、1946年、1950年等历史节点；1953年为出版年，本文件时间线以1953年夏表述为推断"
+      "note": "原文未明示故事年份，仅给出1945年、1946年、1950年等历史节点；1953年为出版年，本文件时间线以1953年夏表述为推断",
+      "note_en": "The novel never states the year of the story; it gives only historical points such as 1945, 1946 and 1950. 1953 is the year of publication, so dating the story to the summer of 1953 is an inference."
     },
     {
       "topic": "Q的身份与职责",
+      "topic_en": "Q's identity and duties",
       "status": "inference",
-      "note": "原文第3章仅提及邦德出发前应找Q安排房间、火车与装备，未出场、无外貌与台词，其具体职务为推断"
+      "note": "原文第3章仅提及邦德出发前应找Q安排房间、火车与装备，未出场、无外貌与台词，其具体职务为推断",
+      "note_en": "Chapter 3 only says that Bond should see Q before leaving, to arrange rooms, trains and equipment. Q never appears, and has no description or dialogue, so his exact duties are a matter of inference."
     },
     {
       "topic": "S处处长为独臂男子",
+      "topic_en": "The Head of Station S is a one-armed man",
       "status": "canon",
-      "note": "第19章马蒂斯称自伦敦来者为高瘦独臂男子并指其为薇丝朋的上司，结合第21章薇丝朋称S处处长曾探望她，可确认此人即S处处长"
+      "note": "第19章马蒂斯称自伦敦来者为高瘦独臂男子并指其为薇丝朋的上司，结合第21章薇丝朋称S处处长曾探望她，可确认此人即S处处长",
+      "note_en": "In Chapter 19 Mathis describes a tall, thin, one-armed visitor from London as Vesper's chief, and in Chapter 21 Vesper says the Head of Station S visited her, confirming that the visitor is the Head of Station S."
     },
     {
       "topic": "薇丝朋代号3030",
+      "topic_en": "Vesper's code number is 3030",
       "status": "inference",
-      "note": "邦德结尾电话称“3030曾是双面间谍”，结合上下文指薇丝朋，但原文未在别处明言3030即薇丝朋的代号"
+      "note": "邦德结尾电话称“3030曾是双面间谍”，结合上下文指薇丝朋，但原文未在别处明言3030即薇丝朋的代号",
+      "note_en": "Bond's closing telephone report calls her \"3030\", and the context points to Vesper, but the novel never states elsewhere that 3030 is her code number."
     },
     {
       "topic": "蒙茨夫妇被捕",
+      "topic_en": "The Muntzes are arrested",
       "status": "canon",
-      "note": "第19章马蒂斯称已将蒙茨夫妇抓获，只是受雇的小角色"
+      "note": "第19章马蒂斯称已将蒙茨夫妇抓获，只是受雇的小角色",
+      "note_en": "In Chapter 19 Mathis says the Muntzes have been taken - only hired small fry."
     },
     {
       "topic": "盖特勒为苏联方面人员",
+      "topic_en": "Gettler is a Soviet-side man",
       "status": "inference",
-      "note": "原文仅证实其跟踪薇丝朋、瑞士身份与银行账户，薇丝朋遗书称SMERSH将至，未明言盖特勒隶属MWD或SMERSH，故其隶属为推断"
+      "note": "原文仅证实其跟踪薇丝朋、瑞士身份与银行账户，薇丝朋遗书称SMERSH将至，未明言盖特勒隶属MWD或SMERSH，故其隶属为推断",
+      "note_en": "The novel only proves that he follows Vesper, and gives his Swiss identity and bank account; Vesper's letter says only that SMERSH is coming for her, and never states that Gettler belongs to the MWD or to SMERSH, so his affiliation is an inference."
     },
     {
       "topic": "邦德年龄",
+      "topic_en": "Bond's age",
       "status": "inference",
-      "note": "原文未给邦德具体年龄，本文件未写具体数字，仅记录其战前已执行任务的线索"
+      "note": "原文未给邦德具体年龄，本文件未写具体数字，仅记录其战前已执行任务的线索",
+      "note_en": "The novel gives no exact age for Bond; this file records no figure, only the clue that he was already on operations before the war."
     },
     {
       "topic": "勒·希弗死因对外说法",
+      "topic_en": "The official account of Le Chiffre's death",
       "status": "canon",
-      "note": "马蒂斯称对外宣称勒·希弗枪杀同伙后自杀，真实死因为SMERSH枪杀，两者均在原文中明确"
+      "note": "马蒂斯称对外宣称勒·希弗枪杀同伙后自杀，真实死因为SMERSH枪杀，两者均在原文中明确",
+      "note_en": "Mathis says the official story is that Le Chiffre shot his accomplices and then killed himself; the true cause of death - murder by SMERSH - is also stated plainly in the novel."
     }
   ],
   "adaptation_differences": [
     "本部未核对电影差异"
+  ],
+  "adaptation_differences_en": [
+    "Film differences have not been checked for this novel."
   ]
 }

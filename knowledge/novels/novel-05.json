@@ -6,52 +6,72 @@
     {
       "note": "原文只写6月10日与8月12日星期四，未写年份；作者注称本书写于1956年初，故故事时间推断为1956年夏，但8月12日星期四与1956年日历不符（1956年8月12日为星期日），属原文内部时间瑕疵，不强行修正。",
       "status": "inference",
-      "topic": "故事年份"
+      "topic": "故事年份",
+      "topic_en": "The year of the story",
+      "note_en": "The novel gives only 10 June and Thursday, 12 August, with no year; the author's note says the book was written in early 1956, so the story is inferred to take place in the summer of 1956 - but Thursday, 12 August does not match the 1956 calendar (12 August 1956 was a Sunday), an internal inconsistency in the novel that is not forced into agreement."
     },
     {
       "note": "格蘭特在第Twenty-Six章称塔蒂亚娜明知自己在为SMERSH工作、须去伦敦从事间谍活动，但不知偷拍与谋杀计划；塔蒂亚娜本人始终不敢说出SMERSH之名，二者一致。",
       "status": "canon",
-      "topic": "塔蒂亚娜是否知晓SMERSH involvement"
+      "topic": "塔蒂亚娜是否知晓SMERSH involvement",
+      "topic_en": "Whether Tatiana knew of SMERSH's involvement",
+      "note_en": "In Chapter Twenty-Six Grant says Tatiana knew she was working for SMERSH and had to go to London to spy, but did not know about the filming and the murder plan; Tatiana herself never dares to speak the name of SMERSH, and the two accounts agree."
     },
     {
       "note": "原文只给其化名梅尔基奥尔·本茨与德国护照身份，真实姓名未写，本JSON以化名立条并注明。",
       "status": "inference",
-      "topic": "本茨真实姓名"
+      "topic": "本茨真实姓名",
+      "topic_en": "Benz's real name",
+      "note_en": "The novel gives only his alias Melchior Benz and his German passport identity, not his real name; this JSON lists him under the alias and says so."
     },
     {
       "note": "原文未给其姓名与护照信息，只写其脖后与面部生疖、坐一等车厢、无德语能力；本JSON未为其单独建人物条，仅在事件与事实中记录。",
       "status": "inference",
-      "topic": "疖子男子身份"
+      "topic": "疖子男子身份",
+      "topic_en": "Identity of the man with boils",
+      "note_en": "The novel gives neither his name nor his passport details, only the boils on the back of his neck and his face, his first-class compartment and his inability to speak German; this JSON gives him no separate character entry and records him only in the events and facts."
     },
     {
       "note": "原文未写明邦德年龄，只写其1938年起为情报局工作、档案照片最早为1946年；本JSON年龄线索栏如实写未写明，不推算。",
       "status": "inference",
-      "topic": "邦德年龄"
+      "topic": "邦德年龄",
+      "topic_en": "Bond's age",
+      "note_en": "The novel does not state Bond's age, only that he has worked for the Secret Service since 1938 and that the earliest photograph in his file dates from 1946; the age-clues field in this JSON states that it is not given, and does not estimate it."
     },
     {
       "note": "原文两处拼写不一：第Thirteen章先作Leolia Ponsonby，后作Loelia Ponsonby；本JSON取后一拼写为名，另注变体。",
       "status": "canon",
-      "topic": "庞森比姓名拼写"
+      "topic": "庞森比姓名拼写",
+      "topic_en": "Spelling of Ponsonby's name",
+      "note_en": "The novel spells it two ways: 'Leolia Ponsonby' in Chapter Thirteen first, then 'Loelia Ponsonby'; this JSON takes the later spelling for her name and notes the variant."
     },
     {
       "note": "原文第Seventeen章克里姆转述时一处作Vevra，其余均作Vavra；本JSON取Vavra为名。",
       "status": "canon",
-      "topic": "瓦夫拉姓名拼写"
+      "topic": "瓦夫拉姓名拼写",
+      "topic_en": "Spelling of Vavra's name",
+      "note_en": "When Kerim reports his words in Chapter Seventeen the novel once spells it 'Vevra'; everywhere else it is 'Vavra', which this JSON uses for his name."
     },
     {
       "note": "原文称列车约凌晨1时抵伊多迈尼边境站后发现尸体，事实条时间写为8月17日凌晨系按行程推算，原文未给具体日期。",
       "status": "inference",
-      "topic": "克里姆之死时间"
+      "topic": "克里姆之死时间",
+      "topic_en": "Time of Kerim's death",
+      "note_en": "The novel says only that the body is found after the train reaches the Idomeni frontier station at about 1 a.m.; the fact entry's date of the early hours of 17 August is worked out from the journey, and the novel gives no exact date."
     },
     {
       "note": "克莱布称其祖父母与皇室远亲，克朗斯汀称其姓罗曼诺夫属旧贵族；原文未给更具体谱系。",
       "status": "canon",
-      "topic": "塔蒂亚娜祖父母与沙皇家族关系"
+      "topic": "塔蒂亚娜祖父母与沙皇家族关系",
+      "topic_en": "Tatiana's grandparents and the Tsar's family",
+      "note_en": "Klebb says her grandparents were distant relations of the royal family, and Kronsteen says her surname Romanov belongs to the old aristocracy; the novel gives no more precise genealogy."
     },
     {
       "note": "仅为格蘭特单方面说法，原文结尾拆弹组取走机器后未写拆解结果；本JSON只记录格蘭特的说法，不作定论。",
       "status": "canon",
-      "topic": "斯佩克特机是否真会爆炸"
+      "topic": "斯佩克特机是否真会爆炸",
+      "topic_en": "Whether the Spektor would really explode",
+      "note_en": "This is only Grant's own claim, and at the end the bomb-disposal squad takes the machine away without the novel reporting what they find inside; this JSON records Grant's claim only, and draws no conclusion."
     }
   ],
   "chapters": [
@@ -59,169 +79,197 @@
       "no": "One",
       "start_line": 18,
       "summary": "克里米亚海岸别墅，裸体晒太阳的男子接受女按摩师按摩，手表显示6月10日下午2时30分；电话响起，他被召往莫斯科；点明其真实身份为多诺万·格蘭特，即“红”格蘭特，代号克拉斯诺·格拉尼茨基，SMERSH首席刽子手。",
-      "title": "Roseland"
+      "title": "Roseland",
+      "summary_en": "On the Crimean coast, a naked man sunbathing beside a villa pool is summoned to Moscow by telephone; he is Donovan Grant, known as Red Grant, codenamed Krassno Granitski, SMERSH's Chief Executioner."
     },
     {
       "no": "Two",
       "start_line": 78,
       "summary": "格蘭特乘伊尔-12飞机自辛菲罗波尔飞莫斯科；回顾其生平：生于奥赫马克洛伊，母为爱尔兰女招待，父为德国举重运动员；少年时满月杀人绰号“月亮杀手”；1945年18岁生日夺北爱尔兰轻重量级拳击冠军；后入皇家通信兵团任司机，在柏林携军事情报袋投奔苏联。",
-      "title": "The Slaughterer"
+      "title": "The Slaughterer",
+      "summary_en": "Grant flies from Simferopol to Moscow in an Ilyushin 12; his life is recalled: born at Aughmacloy to an Irish waitress mother and a German professional weight-lifter father, the boy 'Moon Killer' who murdered at the full moon, Northern Ireland light-heavyweight boxing champion on his eighteenth birthday in 1945, later a Royal Corps of Signals driver who defected to the Russians in Berlin with a bag of military dispatches."
     },
     {
       "no": "Three",
       "start_line": 172,
       "summary": "格蘭特受命以利刃刺杀西柏林间谍鲍姆加滕博士，通过考验；一年审查与列宁格勒外国人情报学校、库奇诺恐怖破坏学校受训；1951至1952年获苏联国籍，1953年晋升少校、月薪5000卢布并获配克里米亚别墅。",
-      "title": "Post-Graduate Studies"
+      "title": "Post-Graduate Studies",
+      "summary_en": "Grant proves himself by stabbing Dr Baumgarten, a British spy in West Berlin, with a knife; after a year of vetting and training at the Intelligence School for Foreigners in Leningrad and the School for Terror and Diversion at Kuchino, he takes Soviet citizenship in 1951-52 and is promoted major in 1953 on 5,000 roubles a month, with a villa in the Crimea."
     },
     {
       "no": "Four",
       "start_line": 272,
       "summary": "介绍SMERSH总部：莫斯科斯列坚卡街13号，首脑为格鲁博扎博伊希科夫将军（G将军）；G将军召集GRU、RUMID与MGB首脑会议，传达主席团命令：三个月内在敌方领土实施一次引人注目的恐怖行动，以挽回情报机关连串失败（古曾科、福克斯、霍赫洛夫、彼得罗夫事件）。",
-      "title": "The Moguls of Death"
+      "title": "The Moguls of Death",
+      "summary_en": "SMERSH headquarters at No. 13 Sretenka Ulitsa, Moscow, and its chief, General Grubozaboyschikov - 'G.' - who summons the heads of the G.R.U., R.U.M.I.D. and the M.G.B. and passes on the Presidium's order: a conspicuous act of terrorism on enemy territory within three months, to redeem a run of intelligence failures including the Gouzenko, Fuchs, Khokhlov and Petrov cases."
     },
     {
       "no": "Five",
       "start_line": 353,
       "summary": "会议商定打击目标为英国秘密情报局；M因难造丑闻被排除，邦德被提名为目标；G将军调阅邦德档案，众人确认其为该局英雄式人物。",
-      "title": "Konspiratsia"
+      "title": "Konspiratsia",
+      "summary_en": "The conference settles on the British Secret Service as its target; M is ruled out because no scandal can be manufactured around him, and Bond is proposed instead; G. sends for Bond's file, and all agree he is the Service's heroic figure."
     },
     {
       "no": "Six",
       "start_line": 437,
       "summary": "宣读邦德档案要点：身高183厘米、体重76公斤、右颊三英寸伤疤、配.25贝雷塔、1938年起为英国情报局工作、代号007、1953年获CMG勋章；全体签署死刑令，G将军改为“蒙羞而死”；谢罗夫将军电话批准，任务交克莱布与策划者克朗斯汀。",
-      "title": "Death Warrant"
+      "title": "Death Warrant",
+      "summary_en": "Bond's file is read out: 183 centimetres tall, 76 kilograms, a three-inch scar on his right cheek, armed with a .25 Beretta, in the Service since 1938, holder of the secret number 007 and of the C.M.G. since 1953; all sign the death warrant, G. amending it to death 'with ignominy'; General Serov approves by telephone, and the operation is handed to Klebb and the planner Kronsteen."
     },
     {
       "no": "Seven",
       "start_line": 543,
       "summary": "克朗斯汀在莫斯科国际象棋锦标赛决赛击败格鲁吉亚冠军马卡罗夫，三连冠；被召至SMERSH总部；克莱布生平简介；克朗斯汀提出陷阱大纲：杀人之外更要毁掉邦德名誉，需以足够诱人的饵引其离英，需一名会说流利英语的杀手与一名极美的姑娘。",
-      "title": "The Wizard of Ice"
+      "title": "The Wizard of Ice",
+      "summary_en": "Kronsteen beats the Georgian champion Makharov in the final of the Moscow chess championship with the Meran Variation, move 41 R-Kt8, for his third successive title; summoned to SMERSH headquarters, he and Klebb - whose career is sketched - outline the trap: killing Bond is not enough, his reputation must be destroyed, and that needs a tempting lure, a fluent English-speaking killer and a supremely beautiful girl."
     },
     {
       "no": "Eight",
       "start_line": 637,
       "summary": "介绍塔蒂亚娜·罗曼诺娃：24岁，MGB中央索引处英译科下士，月薪1200卢布，住莫斯科萨多瓦亚-切尔诺格里亚兹卡亚街女子宿舍；容貌被比作年轻时的葛丽泰·嘉宝，曾学芭蕾与花样滑冰；晚8时30分被教授杰尼金通知去八楼1875房见克莱布上校。",
-      "title": "The Beautiful Lure"
+      "title": "The Beautiful Lure",
+      "summary_en": "Tatiana Romanova is introduced: twenty-four, a corporal in the English translation section of the M.G.B. Central Index on 1,200 roubles a month, living in a single room in the women's barracks on Sadovaya-Chernogriazskaya; compared in looks to the young Greta Garbo, a former ballet student and keen figure-skater; at 8.30 p.m. Professor Denikin sends her to Room 1875 on the eighth floor to see Colonel Klebb."
     },
     {
       "no": "Nine",
       "start_line": 711,
       "summary": "克莱布以晋升上尉为饵招募塔蒂亚娜：爱上照片中的邦德、引诱他、随他去英国、提供假情报、再转往加拿大；克莱布逼问其情史与性生活；随后克莱布穿橙色透明睡衣现身调情，塔蒂亚娜夺门逃走。",
-      "title": "A Labour of Love"
+      "title": "A Labour of Love",
+      "summary_en": "Klebb recruits Tatiana with the bait of promotion to captain: she must fall in love with the Bond of the photograph, seduce him, follow him to England, feed him false information and then move on to Canada; Klebb interrogates her about her love life and sex life, then appears in a transparent orange nightdress and makes advances; Tatiana flees the room."
     },
     {
       "no": "Ten",
       "start_line": 885,
       "summary": "克莱布以黄铜指节套重击格蘭特腹部验其体格；命格蘭特扮英国特工，由一名原英国外交部人员训练，行动定于8月底；克朗斯汀定伊斯坦布尔为首次接触地、将清除英国驻站站长、刺杀地点选在法国或其附近、以外壳为饵交出一台斯佩克特密码机；主席团已批准，行动正式启动。",
-      "title": "The Fuse Burns"
+      "title": "The Fuse Burns",
+      "summary_en": "Klebb tests Grant's physique with a heavy blow to the stomach from a brass knuckle-duster; Grant is to pose as a British agent, coached by a former Foreign Office man, with the operation set for the end of August; Kronsteen fixes Istanbul as the first contact point, says the British station chief there will be removed, picks France or nearby as the killing ground, and offers the outer case of a Spektor machine as bait; the Presidium has approved, and the operation is under way."
     },
     {
       "no": "Eleven",
       "start_line": 984,
       "summary": "8月12日星期四早7时30分，邦德在伦敦国王路切尔西公寓醒来，百无聊赖；管家梅伊报告一名电视推销员六次上门；早餐细节；蒂芙尼·凯斯已于7月底乘船回美国；邦德被M派入特鲁普主持的伯吉斯与麦克莱恩案调查委员会，下午2时30分开会。",
-      "title": "The Soft Life"
+      "title": "The Soft Life",
+      "summary_en": "At 7.30 a.m. on Thursday, 12 August, Bond wakes bored in his Chelsea flat off the King's Road; his housekeeper May reports a television salesman who has called six times; breakfast in detail; Tiffany Case sailed back to America at the end of July; M puts Bond on Troop's Committee of Inquiry into the Burgess and Maclean case, meeting at 2.30 p.m."
     },
     {
       "no": "Twelve",
       "start_line": 1064,
       "summary": "M召见邦德：伊斯坦布尔站长克里姆来报，一名自称爱上邦德的俄国女密码员愿携全新斯佩克特密码机投诚，条件是邦德亲自去伊斯坦布尔接她；她在加拉塔大桥晚8时渡轮上与克里姆接头，于奥尔塔科伊下船；邦德接受任务。",
-      "title": "A Piece of Cake"
+      "title": "A Piece of Cake",
+      "summary_en": "M summons Bond: Kerim in Istanbul reports that a Russian girl cipher clerk who claims to have fallen in love with Bond will defect with a brand-new Spektor machine, provided Bond comes to Istanbul in person to collect her; she is to meet Kerim on the 8 p.m. ferry from the Galata Bridge and get off at Ortakoy; Bond accepts the mission."
     },
     {
       "no": "Thirteen",
       "start_line": 1175,
       "summary": "8月13日星期五，邦德乘BEA130号维克斯子爵飞机自伦敦经罗马、雅典飞伊斯坦布尔；Q处改装的手提箱藏50发.25子弹、两把威尔金森飞刀、氰化物药片（邦德已冲入马桶）、贝雷塔消音器与50枚金镑；抵耶希尔科伊机场，克里姆的旧劳斯莱斯接站，身后有兰布雷塔跟踪。",
-      "title": "`B.E.A. Takes You There ...'"
+      "title": "`B.E.A. Takes You There ...'",
+      "summary_en": "On Friday, 13 August, Bond flies B.E.A. Flight 130, a Viscount, from London via Rome and Athens to Istanbul; his Q Branch attache case conceals fifty rounds of .25 ammunition, two Wilkinson throwing knives, a cyanide pill - which Bond flushes down the lavatory - a Beretta silencer and fifty gold sovereigns; at Yesilkoy airport Kerim's old Rolls-Royce meets him, followed by Lambrettas."
     },
     {
       "no": "Fourteen",
       "start_line": 1249,
       "summary": "邦德住克里斯特尔帕拉斯酒店；上午9时见站长达科·克里姆：土耳其父、英国母，战前即任T站站长，办公室设于加拉塔大桥边香料仓库；前一日有人在其办公室外墙装粘性炸弹未遂；克里姆给邦德1000土耳其镑，称塔蒂亚娜自发报后无音信。",
-      "title": "Darko Kerim"
+      "title": "Darko Kerim",
+      "summary_en": "Bond stays at the Kristal Palas hotel; at 9 a.m. he meets station chief Darko Kerim - Turkish father, English mother, head of Station T since before the war, working from a spice warehouse by the Galata Bridge; the day before, someone fixed a limpet bomb to the wall outside his office; Kerim gives Bond 1,000 Turkish pounds and says Tatiana has not been heard from since her signal."
     },
     {
       "no": "Fifteen",
       "start_line": 1343,
       "summary": "克里姆讲述身世：生于特拉布宗，父为剑鱼渔民，母为英国女家庭教师，15个孩子中排行得名“达科”；被前任站长丹西少校招募，以马戏大力士为掩护刺探苏联；克里姆为邦德办好化名护照：大卫·萨默塞特公司董事，妻卡罗琳·萨默塞特；酒店将其房间换至12号蜜月套房；午餐于香料市场。",
-      "title": "Background to a Spy"
+      "title": "Background to a Spy",
+      "summary_en": "Kerim tells his story: born at Trebizond, son of a swordfish fisherman and an English governess, one of fifteen children, nicknamed 'Darko' for his dark skin; recruited by the previous station chief, Major Dansey, he spied on the Russians under cover as a circus strong man; Kerim arranges Bond's alias passport - David Somerset, company director, wife Caroline Somerset - and the hotel moves Bond's things to No. 12, the honeymoon suite; lunch in the Spice Bazaar."
     },
     {
       "no": "Sixteen",
       "start_line": 1437,
       "summary": "克里姆带邦德走地道：自仓库书柜后暗门下行，经老鼠成群的古排水道至俄国中心办公室下方；潜望镜（土耳其海军剩余物资）窥见下午2时30分俄方六人会议；上方还埋有一枚无线电遥控大炸弹；塔蒂亚娜送信号进来，邦德首次亲眼见到她。",
-      "title": "The Tunnel of Rats"
+      "title": "The Tunnel of Rats",
+      "summary_en": "Kerim takes Bond through a tunnel from behind the bookcase in his warehouse, down an ancient rat-infested drain to a chamber beneath the Russian Centre, where a submarine periscope - Turkish Navy surplus - looks up into a 2.30 p.m. meeting of six Russians; a large radio-controlled bomb is also buried above them; Tatiana brings in a signal, and Bond sees her in person for the first time."
     },
     {
       "no": "Seventeen",
       "start_line": 1517,
       "summary": "邦德思索俄国人看塔蒂亚娜时那种轻蔑的眼神；晚8时克里姆带邦德去吉卜赛首领瓦夫拉处：部落两名少女为争一男子当晚决斗至死；瓦夫拉告知炸弹为“无面人”首领、保加利亚难民克里连库所安。",
-      "title": "Killing Time"
+      "title": "Killing Time",
+      "summary_en": "Bond puzzles over the contemptuous way the Russians looked at Tatiana; at 8 p.m. Kerim takes him to Vavra, head of the gipsies, where two girls of the tribe are to fight to the death that night over a man; Vavra tells them the bomb was planted by Krilencu, a Bulgarian 'refugee' and leader of the 'faceless ones'."
     },
     {
       "no": "Eighteen",
       "start_line": 1613,
       "summary": "佐拉与维达裸体决斗，邦德求情后瓦夫拉同意判平局；保加利亚人炸开围墙突袭，邦德开枪救下克里姆两次，十名保加利亚人被杀、五名吉卜赛人死亡；克里连库逃走；瓦夫拉预言：克里姆当心“雪之子”，邦德当心“为月亮所拥有的人”；克里姆当夜去杀克里连库。",
-      "title": "Strong Sensations"
+      "title": "Strong Sensations",
+      "summary_en": "Zora and Vida fight naked, and on Bond's plea Vavra agrees to call the duel a draw; Bulgarian gunmen blast through the wall and attack, Bond saves Kerim's life twice, ten Bulgarians are killed and five gipsies die; Krilencu escapes; Vavra warns Kerim to beware 'a son of the snows' and Bond to beware 'one who is possessed by the moon'; Kerim sets out that night to kill Krilencu."
     },
     {
       "no": "Nineteen",
       "start_line": 1729,
       "summary": "克里姆以伪装成手杖的.308温彻斯特88型消音步枪加红外瞄准镜，在玛丽莲·梦露《尼亚加拉》巨幅海报活板门处射杀自藏身处逃出的克里连库；邦德凌晨2时回酒店，发现塔蒂亚娜已在其床上等候。",
-      "title": "The Mouth of Marilyn Monroe"
+      "title": "The Mouth of Marilyn Monroe",
+      "summary_en": "Kerim kills Krilencu with a silenced .308 Winchester 88 disguised as a walking-stick, fitted with an infra-red Sniperscope, firing through a trapdoor in a giant poster of Marilyn Monroe in Niagara as Krilencu flees his hiding place; Bond returns to his hotel at 2 a.m. to find Tatiana waiting in his bed."
     },
     {
       "no": "Twenty",
       "start_line": 1827,
       "summary": "塔蒂亚娜只戴黑丝带与黑丝袜躺在邦德床上；她坚持当晚9时乘东方快车走，称晚6时值夜班时可偷出斯佩克特机，以萨默塞特夫妇身份同行；两人亲热；床头金框假镜后两名SMERSH摄影师以电影摄影机全程偷拍。",
-      "title": "Black on Pink"
+      "title": "Black on Pink",
+      "summary_en": "Tatiana, wearing only a black ribbon and black stockings, lies in Bond's bed; she insists they leave on the 9 p.m. Orient Express that night, saying she can steal the Spektor during her 6 p.m. night shift, and they will travel as Mr and Mrs Somerset; they make love while two SMERSH cameramen film them through the gold-framed false mirror over the bed."
     },
     {
       "no": "Twenty-One",
       "start_line": 1969,
       "summary": "东方快车晚9时自锡尔凯吉站出发，7号包厢；塔蒂亚娜最后一刻上车，行李架上有装斯佩克特机的包；克里姆告知车上有三名MGB人员：持德国护照的“梅尔基奥尔·本茨”（6号）、“库尔特·戈德法布”（12号）及一名脖生疖子的男子；克里姆以查票为名骗走第三人的车票。",
-      "title": "Orient Express"
+      "title": "Orient Express",
+      "summary_en": "The Orient Express leaves Sirkeci Station at 9 p.m., compartment 7; Tatiana boards at the last moment with the Spektor in a bag on the luggage rack; Kerim warns that three M.G.B. men are aboard - 'Melchior Benz' with a German passport (compartment 6), 'Kurt Goldfarb' (compartment 12) and a man with boils on his neck; Kerim tricks the third man out of his ticket under the pretence of checking it."
     },
     {
       "no": "Twenty-Two",
       "start_line": 2101,
       "summary": "凌晨边境站乌尊克普吕，克里姆以伪造证件为由使戈德法布与疖子男子被赶下车，本茨行贿未遂后被短暂扣留又放行；列车分段，北行经保加利亚的一段被留下，邦德一行经希腊南下。",
-      "title": "Out of Turkey"
+      "title": "Out of Turkey",
+      "summary_en": "At the Uzunkopru frontier station in the small hours, Kerim has Goldfarb and the man with boils thrown off the train for forged papers; Benz's attempted bribe fails and he is briefly detained, then released."
     },
     {
       "no": "Twenty-Three",
       "start_line": 2179,
       "summary": "希腊境内相对平静，克里姆警告众人只是棋盘上的棋子；凌晨1时希腊边境伊多迈尼，列车员报克里姆出事：本茨以匕首刺其颈静脉，克里姆临死反刺其第五肋，两人同死于头等包厢。",
-      "title": "Out of Greece"
+      "title": "Out of Greece",
+      "summary_en": "In Greece all is comparatively quiet, though Kerim warns them they are only pawns on a chessboard; at about 1 a.m. at the Greek frontier station of Idomeni, the conductor reports trouble: Benz has stabbed Kerim in the jugular vein with a dagger, and Kerim, dying, has stabbed Benz in the fifth rib; both die in the first-class compartment."
     },
     {
       "no": "Twenty-Four",
       "start_line": 2279,
       "summary": "下午3时抵贝尔格莱德，克里姆之子斯特凡·特伦波（“坦波”）接应至其公寓；邦德以暗语电话向M报告：搭档病重、三名对方人员一死两离队，M提议派增援，邦德坚持走完全程；晚9时续程；的里雅斯特一名金发男子登车，邦德误以为是M派来的帮手。",
-      "title": "Out of Danger?"
+      "title": "Out of Danger?",
+      "summary_en": "At 3 p.m. in Belgrade, Kerim's son Stefan Trempo - 'Tempo' - meets them and takes them to his flat; Bond telephones M in code, reporting that his partner is seriously ill and that of the three enemy men one is dead and two have left the train; M offers reinforcements, but Bond insists on playing the journey out; they leave again at 9 p.m.; at Trieste a fair-haired man boards, whom Bond mistakes for M's reinforcement."
     },
     {
       "no": "Twenty-Five",
       "start_line": 2375,
       "summary": "金发男子以当月口令接头，自称“诺曼·纳什上尉”，出示皇家汽车俱乐部名片，戴皇家炮兵团温莎结领带；出示《晚邮报》头版：伊斯坦布尔苏联办事处大爆炸、全部人员死亡（克里姆地道炸弹被引爆）；塔蒂亚娜指出俄语中Nash即“我们的人”，邦德未在意。",
-      "title": "A Tie with a Windsor Knot"
+      "title": "A Tie with a Windsor Knot",
+      "summary_en": "The fair-haired man makes contact with the password of the month, introduces himself as 'Captain Norman Nash', shows a Royal Automobile Club card and wears a Royal Artillery tie with a Windsor knot; he shows Bond the front page of the Evening Post: the Soviet office in Istanbul has been blown up with everyone inside - Kerim's tunnel bomb, detonated after his death; Tatiana points out that in Russian 'Nash' means 'ours', but Bond pays no attention."
     },
     {
       "no": "Twenty-Six",
       "start_line": 2581,
       "summary": "晚餐时纳什在塔蒂亚娜酒中下水合氯醛致其昏睡；邦德将贝雷塔交给纳什守夜；纳什亮出藏于《战争与和平》中的书枪，开枪击碎邦德手表以示威，坦白自己即格蘭特、SMERSH首席刽子手；道出全盘计划：辛普朗隧道内杀邦德、伪造情杀自杀、斯佩克特机装有炸弹、次日中午巴黎丽兹酒店204房向克莱布汇报；邦德以藏在书中的香烟盒挡住射向心脏的子弹，装死倒地。",
-      "title": "The Killing Bottle"
+      "title": "The Killing Bottle",
+      "summary_en": "At dinner Nash drugs Tatiana's wine with chloral hydrate, putting her to sleep, and talks Bond into handing him his Beretta for the night watch; then he produces the book-gun hidden in War and Peace, shoots Bond's watch off his wrist as a demonstration, and confesses that he is Grant, SMERSH's Chief Executioner; he lays out the whole plan - kill Bond in the Simplon Tunnel, fake a murder-suicide, the Spektor is booby-trapped with a bomb, and he is to report to Klebb at noon the next day in Room 204 of the Ritz Hotel in Paris; Bond stops the bullet aimed at his heart with the cigarette case hidden in the book and plays dead."
     },
     {
       "no": "Twenty-Seven",
       "start_line": 2729,
       "summary": "格蘭特俯身欲杀塔蒂亚娜时，邦德以Q处飞刀刺其腹股沟动脉，再夺书枪连射将其击毙；邦德清理包厢血迹，将尸体藏于铺位；洛桑、瓦洛布边检无事；清晨第戎下车，谎称金发男子是医生在铺位休息，列车员放行。",
-      "title": "Ten Pints of Blood"
+      "title": "Ten Pints of Blood",
+      "summary_en": "As Grant bends over to kill Tatiana, Bond stabs him in the femoral artery in the groin with a Q Branch throwing knife, then seizes the book-gun and shoots him dead; Bond cleans the blood from the compartment and hides the body in the bunk; the frontier checks at Lausanne and Vallorbe pass without incident; at Dijon in the early morning he gets off, telling the conductor that the fair-haired man is a doctor resting in the bunk."
     },
     {
       "no": "Twenty-Eight",
       "start_line": 2825,
       "summary": "巴黎丽兹酒店204房中午12时，克莱布化装成梅特施泰因伯爵夫人织毛衣，电话实为枪、毛衣针淬毒；邦德以椅子将其顶在墙上制服；马蒂斯带洗衣工来接人；克莱布鞋尖毒刃划伤邦德右小腿，邦德毒发倒地，全书结束，生死未交代。",
-      "title": "La Tricoteuse"
+      "title": "La Tricoteuse",
+      "summary_en": "At noon in Room 204 of the Ritz Hotel in Paris, Klebb, disguised as the Comtesse Metterstein, sits knitting; her telephone is in fact a gun and her knitting needles are poisoned; Bond pins her to the wall with a chair and overpowers her; Mathis arrives with laundry-men to take her away; Klebb's poisoned shoe-blade scratches Bond's right calf, the poison takes hold, and Bond collapses as the book ends, his fate left unresolved."
     }
   ],
   "characters": [
@@ -268,7 +316,13 @@
           "with": "rosa-klebb"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Principal character",
+      "appearance_en": "Black hair, parted on the left, with a comma of hair falling over his right eyebrow; a three-inch white scar on his right cheek; blue eyes under long black brows; 183 centimetres tall, 76 kilograms, lean in build; a scar on his left shoulder and traces of plastic surgery on the back of his right hand.",
+      "age_clues_en": "The novel does not state his age; he has worked for the British Secret Service since 1938, and the earliest photograph in his file dates from 1946.",
+      "personality_en": "Bored by peace, a gambler, strongly curious, vain and stubborn, willing to risk everything to solve a mystery and play the game out.",
+      "habits_en": "A heavy smoker (Morland cigarettes with three gold bands), strong black coffee, one egg boiled for three and a third minutes at breakfast, press-ups and leg lifts for exercise, and a hot-then-cold morning bath.",
+      "background_en": "A member of the 00 section of the British Secret Service, holder of the number 007, awarded the C.M.G. in 1953; he has defeated Le Chiffre, the Harlem agent (Mr Big), the Drax rocket project and a diamond-smuggling ring; he lives in a flat in the square off the King's Road, Chelsea, kept by his housekeeper May."
     },
     {
       "age_clues": "24岁",
@@ -304,7 +358,13 @@
           "with": "darko-kerim"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Principal character",
+      "appearance_en": "Long dark-brown hair falling to her shoulders, a face like the young Greta Garbo; large deep-blue eyes, a wide mouth, fair skin; tall and upright in build, a former ballet student and a keen figure-skater; the novel says the muscles of her behind are as hard as a man's.",
+      "age_clues_en": "24 years old.",
+      "personality_en": "Naive, devout, romantic and quick to blush, unsophisticated yet genuinely in love with Bond; loyal to her country, afraid of SMERSH, and unable to bring herself to speak its name.",
+      "habits_en": "Does not smoke in public; loves jazz and classical music; figure-skating.",
+      "background_en": "A corporal in the English translation section of the M.G.B. Central Index, on 1,200 roubles a month; her grandparents were distant relations of the Tsar's family; she speaks English and French; Klebb chooses her as the lure, promising promotion to captain if the operation succeeds."
     },
     {
       "age_clues": "四十多岁末，按西班牙内战时期推算",
@@ -343,7 +403,13 @@
           "with": "grubozaboyschikov"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Principal character",
+      "appearance_en": "In her late forties, about five feet four inches tall, squat; orange hair drawn into a tight bun; yellowish-brown eyes behind square spectacles; a large nose with coarse pores, a wet mouth, and down on her lip stained with tobacco; her figure is compared to a cello; in the final chapter she is disguised as a white-haired old woman wearing pale-blue tinted bifocals.",
+      "age_clues_en": "In her late forties, estimated from the period of the Spanish Civil War.",
+      "personality_en": "Cold, cruel, sexually frigid - Kronsteen calls her a 'neuter' - power-hungry, lazy and slovenly in her habits; she enjoys torture and breaks prisoners down by playing the mother.",
+      "habits_en": "Uses poisoned needles and a poisoned shoe, among other concealed weapons; in interrogations she directs the torture instruments by number.",
+      "background_en": "A double agent planted by the OGPU inside the POUM during the Spanish Civil War, assistant to Andres Nin from 1935 to 1937; after Nin's murder she rose steadily, and after Beria's death in 1953 she became head of Otdyel II (Operations and Executions) of SMERSH."
     },
     {
       "age_clues": "1945年18岁生日夺拳击冠军，推算约生于1927年；故事时约29岁",
@@ -383,7 +449,13 @@
           "with": "kronsteen"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Principal character",
+      "appearance_en": "Sandy-red curly hair close to the scalp, milk-white skin that tans red-brown; very pale blue eyes and a huge, powerfully muscled body; a small patch of golden hair runs from the nape of his neck to just above his buttocks; Bond describes him as an athlete's build.",
+      "age_clues_en": "He won the boxing championship on his eighteenth birthday in 1945, which puts his birth in about 1927; he is about twenty-nine at the time of the story.",
+      "personality_en": "Sexually frigid, narcissistic, manic-depressive, with an urge to kill tied to the cycle of the full moon; he loves killing, regards it as his calling, and is as dependent on SMERSH as on a drug.",
+      "habits_en": "Kills at the full moon; smokes Troika cigarettes with gold mouthpieces; collects small gold objects.",
+      "background_en": "Born at Aughmacloy, son of a South Irish waitress and a German professional weight-lifter, 'Strong Man O'Donovan'; as a boy he was nicknamed the 'Moon Killer'; a driver in the Royal Corps of Signals, he defected to the Russians with a bag of military dispatches; after murdering Baumgarten he joined Otdyel II of SMERSH, was promoted major in 1953 on 5,000 roubles a month, and was given a villa in the Crimea."
     },
     {
       "age_clues": "原文未写明年龄；有妻有子",
@@ -412,7 +484,13 @@
           "with": "grubozaboyschikov"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Principal character",
+      "appearance_en": "A large head, a broad bulging forehead, slanting black eyes, and a worm-like vein in his right temple; when playing chess he rests his face on his hands with his lips pursed.",
+      "age_clues_en": "The novel does not state his age; he has a wife and children.",
+      "personality_en": "Cold as ice, treats people as chess pieces, sparing with words but every word carries weight; he analyses others by instinct (self-preservation, sex, gregariousness) and by the four temperaments.",
+      "habits_en": "A chess master, Moscow champion three years running; when thinking he looks up at the ceiling.",
+      "background_en": "Head of the Planning Department of SMERSH, with the honorary rank of colonel; in public life a professional chess player; an expert in the Meran Variation, he beats Makharov with move 41 R-Kt8."
     },
     {
       "age_clues": "约五十岁",
@@ -446,7 +524,13 @@
           "with": "kronsteen"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Principal character",
+      "appearance_en": "About fifty, solidly built, bald, with protruding brown eyes; a khaki tunic with dark-blue cavalry trousers with a red stripe and black riding boots; three rows of medal ribbons on his chest, including two Orders of Lenin, the Order of Suvorov, the Order of the Red Banner, and the British C.B.E. and the American Medal for Merit.",
+      "age_clues_en": "About fifty years old.",
+      "personality_en": "Skilled in political intrigue, a showman, cold and decisive.",
+      "habits_en": "Smokes Moskva-Volga cigarettes, using an American Zippo lighter; every meeting is tape-recorded.",
+      "background_en": "Head of SMERSH; he rose after Stalin's death and Beria's fall, with Serov's backing; his office is on the second floor of No. 13 Sretenka Ulitsa."
     },
     {
       "age_clues": "原文未写明年龄；有众多子女，长子已成年任职",
@@ -480,7 +564,13 @@
           "with": "m"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Principal character",
+      "appearance_en": "More than two inches taller than Bond and twice as broad; blue eyes, a hooked nose, black curly hair, a small gold ring in his right ear; a gipsy-like face full of life; his eyes are bloodshot from indulgence.",
+      "age_clues_en": "The novel does not state his age; he has many children, the eldest already working.",
+      "personality_en": "Generous, pleasure-loving, quick-witted, loyal, fond of women and drink; he regards M as second only to God.",
+      "habits_en": "Eats only raw food (raw fish, raw meat, yoghurt); smokes Diplomate cigarettes; loves raki and gambling risks.",
+      "background_en": "Born at Trebizond, son of a swordfish fisherman and an English governess; one of fifteen children, nicknamed 'Darko' for his dark skin; recruited by the previous station chief, Major Dansey; head of Station T in Istanbul since before the war, working under cover as a spice merchant, with his children and relatives as his staff."
     },
     {
       "age_clues": "年长，已届退休之年的海军将领",
@@ -506,7 +596,13 @@
           "with": "darko-kerim"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Principal character",
+      "appearance_en": "The novel does not describe his looks in detail; a seaman's calm, wrinkled face, smoking a pipe.",
+      "age_clues_en": "An elderly naval officer of retirement age.",
+      "personality_en": "Calm, curious and willing to gamble, ready to leave the decision to the agent in the field.",
+      "habits_en": "Smokes a pipe; his office has a tropical ceiling fan and Venetian blinds.",
+      "background_en": "Head of the British Secret Service, an admiral; his office is on the top floor above Regent's Park."
     },
     {
       "age_clues": "原文未写",
@@ -527,7 +623,13 @@
           "with": "grubozaboyschikov"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Supporting character",
+      "appearance_en": "Not stated in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Not stated in the novel.",
+      "habits_en": "Not stated in the novel.",
+      "background_en": "An army general, head of the Committee of State Security and a member of the Presidium; he took part in the purges of the 1930s, the Moscow show trials and the 1944 deportations from the North Caucasus; with Bulganin and Khrushchev he rules the Soviet Union."
     },
     {
       "age_clues": "原文未写",
@@ -548,7 +650,13 @@
           "with": "grubozaboyschikov"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Supporting character",
+      "appearance_en": "Not stated in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Not stated in the novel.",
+      "habits_en": "Not stated in the novel.",
+      "background_en": "Head of intelligence of the M.G.B.; at the conference he proposes Bond as the target and recommends striking at the British Secret Service."
     },
     {
       "age_clues": "原文未写",
@@ -569,7 +677,13 @@
           "with": "nikitin"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Supporting character",
+      "appearance_en": "Not stated in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Cautious, unwilling to commit the General Staff.",
+      "habits_en": "Not stated in the novel.",
+      "background_en": "Head of the G.R.U., the intelligence department of the Soviet General Staff."
     },
     {
       "age_clues": "原文未写",
@@ -590,7 +704,13 @@
           "with": "grubozaboyschikov"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Supporting character",
+      "appearance_en": "Not stated in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Experienced, worldly-wise, tired of murder.",
+      "habits_en": "Smokes Kazbek cigarettes.",
+      "background_en": "Head of R.U.M.I.D. (the Foreign Ministry intelligence service); a thirty-year intelligence career, with postings in London, New York and Stockholm, and involvement with the Sorge and 'Lucy' networks and the Burgess and Maclean operation."
     },
     {
       "age_clues": "原文未写",
@@ -611,7 +731,13 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Supporting character",
+      "appearance_en": "Not stated in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Not stated in the novel.",
+      "habits_en": "Not stated in the novel.",
+      "background_en": "M's private secretary; she announces Bond when he goes up to see M."
     },
     {
       "age_clues": "原文未写",
@@ -632,7 +758,13 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Supporting character",
+      "appearance_en": "Not stated in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Superstitious, worried about travelling on Friday the thirteenth.",
+      "habits_en": "Not stated in the novel.",
+      "background_en": "Bond's secretary; she objects to Bond flying on Friday the thirteenth and kisses him goodbye; the novel spells her name two ways (Leolia and Loelia) - see canon_vs_inference."
     },
     {
       "age_clues": "老年",
@@ -653,7 +785,13 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Supporting character",
+      "appearance_en": "An elderly Scottish woman with iron-grey hair and a handsome, serious face.",
+      "age_clues_en": "Elderly.",
+      "personality_en": "Loyal, strict and devout.",
+      "habits_en": "She never calls Bond 'sir', only adding a hint of an 's' to the end of a word; she wears an old-fashioned black uniform; she insists on reporting suspicious callers to Bond.",
+      "background_en": "Bond's housekeeper; she has kept his London flat for many years."
     },
     {
       "age_clues": "原文未写",
@@ -674,7 +812,13 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Supporting character",
+      "appearance_en": "Not stated in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Not stated in the novel.",
+      "habits_en": "Not stated in the novel.",
+      "background_en": "Head of the French Deuxieme Bureau, an old friend of Bond's; at the end he arranges the laundry-men and the military aircraft to take Klebb away."
     },
     {
       "age_clues": "原文未写",
@@ -695,7 +839,13 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Supporting character",
+      "appearance_en": "Not stated in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "An office tyrant of a man, severe, obsessed with detail, and disagreeable.",
+      "habits_en": "Not stated in the novel.",
+      "background_en": "A retired Royal Navy paymaster captain, administrative head of the Secret Service; he chairs the Committee of Inquiry into the Burgess and Maclean case and quarrels with Bond over employing intellectuals."
     },
     {
       "age_clues": "原文未写",
@@ -719,7 +869,13 @@
           "with": "darko-kerim"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Supporting character",
+      "appearance_en": "Solidly built and cheerful, with Kerim's blue eyes, a mop of tangled fair hair and a brown face.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Not stated in the novel.",
+      "habits_en": "Not stated in the novel.",
+      "background_en": "Kerim's son, the Belgrade contact; he drives a shabby Morris Oxford saloon."
     },
     {
       "age_clues": "原文未写",
@@ -740,7 +896,13 @@
           "with": "darko-kerim"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Supporting character",
+      "appearance_en": "Dressed in Macedonian style - white shirt, wide trousers, soft leather boots; black hair like snakes, a large black beard, a hooked nose; a gold ring on the thumb of his right hand and a curved knife at his waist.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Not stated in the novel.",
+      "habits_en": "Not stated in the novel.",
+      "background_en": "Head of a gipsy tribe and an important source of Kerim's; he presides over the tribe's trials and duels."
     },
     {
       "age_clues": "原文未写",
@@ -761,7 +923,13 @@
           "with": "darko-kerim"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Supporting character",
+      "appearance_en": "Not described in detail; short and stocky.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Not stated in the novel.",
+      "habits_en": "Not stated in the novel.",
+      "background_en": "Head of a Bulgarian 'refugee' gang, leader of the 'faceless ones'; on Russian orders he twice tries to kill Kerim without success and bombs his office; Kerim shoots him dead the same night."
     },
     {
       "age_clues": "原文未写",
@@ -782,7 +950,13 @@
           "with": "vida"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Supporting character",
+      "appearance_en": "Tall and solidly built, with a leonine face and black hair to her shoulders.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Not stated in the novel.",
+      "habits_en": "Not stated in the novel.",
+      "background_en": "A girl of the gipsy tribe who fights Vida for the same man; Bond's plea has the duel called a draw."
     },
     {
       "age_clues": "原文未写",
@@ -803,7 +977,13 @@
           "with": "zora"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Supporting character",
+      "appearance_en": "Small and quick as a leopard, with black hair to her shoulders.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Cunning and ferocious.",
+      "habits_en": "Not stated in the novel.",
+      "background_en": "A girl of the gipsy tribe who fights Zora for the same man; Bond's plea has the duel called a draw."
     },
     {
       "age_clues": "原文未写",
@@ -824,7 +1004,13 @@
           "with": "darko-kerim"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Supporting character",
+      "appearance_en": "Large-boned, with a brown Stalin-style beard, grey eyes, smoking a small wooden pipe; he travels on a German passport as a salesman.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Not stated in the novel.",
+      "habits_en": "Smokes a pipe.",
+      "background_en": "A senior M.G.B. agent, the highest-ranking of the three Russians on the train, in compartment 6; in the small hours at Idomeni he stabs Kerim and is stabbed to death by Kerim in return; the novel does not give his real name."
     },
     {
       "age_clues": "原文未写",
@@ -845,7 +1031,13 @@
           "with": "benz"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Supporting character",
+      "appearance_en": "Dark-skinned, with an Armenian face, gold teeth and sharp almond eyes.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Not stated in the novel.",
+      "habits_en": "Not stated in the novel.",
+      "background_en": "An M.G.B. agent travelling on a German passport as a building engineer, in compartment 12; he is thrown off the train at Uzunkopru when his papers are said to be lost."
     },
     {
       "age_clues": "原文未写",
@@ -866,7 +1058,13 @@
           "with": "tatiana-romanov"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Supporting character",
+      "appearance_en": "Not stated in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Not stated in the novel.",
+      "habits_en": "Not stated in the novel.",
+      "background_en": "Tatiana's superior in the M.G.B. Central Index; he telephones her to send her to see Klebb."
     },
     {
       "age_clues": "原文未写",
@@ -887,7 +1085,13 @@
           "with": "kronsteen"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Supporting character",
+      "appearance_en": "Not stated in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Not stated in the novel.",
+      "habits_en": "Not stated in the novel.",
+      "background_en": "The Georgian chess champion, beaten by Kronsteen in the final of the Moscow championship."
     },
     {
       "age_clues": "原文未写",
@@ -908,33 +1112,51 @@
           "with": "red-grant"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Supporting character",
+      "appearance_en": "Not stated in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Not stated in the novel.",
+      "habits_en": "Not stated in the novel.",
+      "background_en": "The M.G.B. colonel who first interviews Grant after his defection, a bowl of roses on his desk; later Grant's contact."
     }
   ],
   "communications": [
     {
       "name": "MGB直通电话",
-      "note": "格蘭特在克里米亚别墅接到的莫斯科直通线路；克莱布办公室亦有直通电话"
+      "note": "格蘭特在克里米亚别墅接到的莫斯科直通线路；克莱布办公室亦有直通电话",
+      "name_en": "M.G.B. direct line",
+      "note_en": "The secure Moscow line on which Grant is summoned from his villa in the Crimea; Klebb's office has a direct line too."
     },
     {
       "name": "V.Ch.专线",
-      "note": "G将军与谢罗夫将军通话用的政府专线"
+      "note": "G将军与谢罗夫将军通话用的政府专线",
+      "name_en": "V.Ch. government line",
+      "note_en": "The government line General G. uses to speak to General Serov."
     },
     {
       "name": "Telekrypton电传机",
-      "note": "克莱布办公室内的密码电传设备，实时打出明文信号"
+      "note": "克莱布办公室内的密码电传设备，实时打出明文信号",
+      "name_en": "Telekrypton teleprinter",
+      "note_en": "The cipher teleprinter in Klebb's office, which types out signals in plain text as they arrive."
     },
     {
       "name": "一次性密码本",
-      "note": "克里姆按塔蒂亚娜要求以一次性密码本亲自编码发往伦敦的信号，不留副本"
+      "note": "克里姆按塔蒂亚娜要求以一次性密码本亲自编码发往伦敦的信号，不留副本",
+      "name_en": "One-time pad",
+      "note_en": "Kerim codes Tatiana's signal to London himself on a one-time pad, keeping no copy."
     },
     {
       "name": "当月口令",
-      "note": "英国特工间每月更换的识别短语；格蘭特称SMERSH每年一月杀一名英方小特工套取全年口令"
+      "note": "英国特工间每月更换的识别短语；格蘭特称SMERSH每年一月杀一名英方小特工套取全年口令",
+      "name_en": "Password of the month",
+      "note_en": "The recognition phrases English agents change on the first of each month; Grant says SMERSH kills one minor British agent each January to obtain the passwords for the whole year."
     },
     {
       "name": "电话监听",
-      "note": "格蘭特称SMERSH数周来一直在监听坦波在贝尔格莱德的电话，截获邦德致电M的暗语通话"
+      "note": "格蘭特称SMERSH数周来一直在监听坦波在贝尔格莱德的电话，截获邦德致电M的暗语通话",
+      "name_en": "Telephone tapping",
+      "note_en": "Grant says SMERSH has been tapping Tempo's telephone in Belgrade for weeks, intercepting Bond's coded call to M."
     }
   ],
   "equipment": [
@@ -943,98 +1165,112 @@
       "kind": "武器",
       "name_en": "Beretta 418",
       "name_zh": "贝雷塔418手枪",
-      "note": "邦德配枪，.25口径半自动，弹匣8发，左腋枪套；结尾被邦德交给纳什，后用于伪造自杀现场的计划"
+      "note": "邦德配枪，.25口径半自动，弹匣8发，左腋枪套；结尾被邦德交给纳什，后用于伪造自杀现场的计划",
+      "note_en": "Bond's gun, a .25 semi-automatic with an eight-round magazine, carried in a left armpit holster; at the end Bond hands it to Nash, and it is meant to be used to stage the fake suicide."
     },
     {
       "id": "beretta-silencer",
       "kind": "武器配件",
       "name_en": "Beretta silencer",
       "name_zh": "贝雷塔消音器",
-      "note": "藏于棕榄牌剃须膏管中，由Q处提供"
+      "note": "藏于棕榄牌剃须膏管中，由Q处提供",
+      "note_en": "Hidden in a tube of Palmolive shaving cream, supplied by Q Branch."
     },
     {
       "id": "q-attach-case",
       "kind": "装备",
       "name_en": "Q Branch attaché case",
       "name_zh": "Q处手提箱",
-      "note": "斯韦恩与阿德尼制，夹层藏50发.25子弹、两把威尔金森飞刀、氰化物药片暗格与50枚金镑"
+      "note": "斯韦恩与阿德尼制，夹层藏50发.25子弹、两把威尔金森飞刀、氰化物药片暗格与50枚金镑",
+      "note_en": "Made by Swaine and Adeney, with fifty rounds of .25 ammunition, two Wilkinson throwing knives, a cyanide pill compartment and fifty gold sovereigns hidden in its lining."
     },
     {
       "id": "throwing-knives",
       "kind": "武器",
       "name_en": "Wilkinson throwing knives",
       "name_zh": "威尔金森飞刀",
-      "note": "藏于手提箱两侧，邦德以其中一把刺中格蘭特腹股沟动脉反杀"
+      "note": "藏于手提箱两侧，邦德以其中一把刺中格蘭特腹股沟动脉反杀",
+      "note_en": "Hidden in the sides of the attache case; Bond stabs Grant in the femoral artery in the groin with one of them."
     },
     {
       "id": "book-gun",
       "kind": "武器",
       "name_en": "Book-gun (War and Peace)",
       "name_zh": "书枪（《战争与和平》）",
-      "note": "格蘭特的武器，书脊藏枪管，电池击发，10发.25达姆弹；邦德夺枪后以其射杀格蘭特"
+      "note": "格蘭特的武器，书脊藏枪管，电池击发，10发.25达姆弹；邦德夺枪后以其射杀格蘭特",
+      "note_en": "Grant's weapon, the barrel hidden in the spine of War and Peace, fired by battery, ten .25 dum-dum rounds; Bond takes it from Grant and shoots him with it."
     },
     {
       "id": "spektor",
       "kind": "密码设备",
       "name_en": "Spektor cipher machine",
       "name_zh": "斯佩克特密码机",
-      "note": "苏联全新密码机，诱饵核心；格蘭特透露机内装有炸弹，待英国密码专家拆解时爆炸；结尾由法国第二局拆弹组取走"
+      "note": "苏联全新密码机，诱饵核心；格蘭特透露机内装有炸弹，待英国密码专家拆解时爆炸；结尾由法国第二局拆弹组取走",
+      "note_en": "The brand-new Soviet cipher machine, the heart of the bait; Grant reveals that it contains a bomb, set to explode when British cipher experts take it apart; at the end it is taken away by the Deuxieme Bureau's bomb-disposal squad."
     },
     {
       "id": "poison-needles",
       "kind": "武器",
       "name_en": "Poisoned knitting needles",
       "name_zh": "淬毒毛衣针",
-      "note": "克莱布在丽兹酒店所用，针尖烧灼变色，疑为德国神经毒剂，划破即致命"
+      "note": "克莱布在丽兹酒店所用，针尖烧灼变色，疑为德国神经毒剂，划破即致命",
+      "note_en": "Used by Klebb at the Ritz Hotel, their tips blackened by burning, apparently a German nerve poison, deadly at a scratch."
     },
     {
       "id": "telephone-gun",
       "kind": "武器",
       "name_en": "Telephone-gun",
       "name_zh": "电话枪",
-      "note": "克莱布在丽兹酒店204房的伪装电话，可发射子弹"
+      "note": "克莱布在丽兹酒店204房的伪装电话，可发射子弹",
+      "note_en": "Klebb's disguised telephone in Room 204 of the Ritz Hotel, which can fire a bullet."
     },
     {
       "id": "poison-shoe",
       "kind": "武器",
       "name_en": "Poison shoe blade",
       "name_zh": "毒鞋刃",
-      "note": "克莱布靴尖弹出的半英寸毒刃，划伤邦德右小腿致其毒发倒地"
+      "note": "克莱布靴尖弹出的半英寸毒刃，划伤邦德右小腿致其毒发倒地",
+      "note_en": "A half-inch poisoned blade that springs from the toe of Klebb's boot and scratches Bond's right calf, leaving him poisoned and collapsing."
     },
     {
       "id": "sniperscope",
       "kind": "光学设备",
       "name_en": "Sniperscope",
       "name_zh": "红外瞄准镜",
-      "note": "德国造红外镜，克里姆用于夜间瞄准克里连库"
+      "note": "德国造红外镜，克里姆用于夜间瞄准克里连库",
+      "note_en": "A German-made infra-red sight, used by Kerim to aim at Krilencu in the dark."
     },
     {
       "id": "winchester-88",
       "kind": "武器",
       "name_en": "Winchester 88 rifle",
       "name_zh": "温彻斯特88型步枪",
-      "note": "克里姆伪装成手杖的消音步枪，.308短弹3发，安卡拉改装；射杀克里连库"
+      "note": "克里姆伪装成手杖的消音步枪，.308短弹3发，安卡拉改装；射杀克里连库",
+      "note_en": "Kerim's silenced rifle disguised as a walking-stick, firing .308 short cartridges, three rounds, converted in Ankara; used to shoot Krilencu."
     },
     {
       "id": "limpet-bomb",
       "kind": "爆炸物",
       "name_en": "Limpet bomb",
       "name_zh": "粘性炸弹",
-      "note": "克里连库装于克里姆办公室外墙，定时引爆未遂"
+      "note": "克里连库装于克里姆办公室外墙，定时引爆未遂",
+      "note_en": "Fixed by Krilencu to the wall outside Kerim's office, set to explode on a timer but without success."
     },
     {
       "id": "tunnel-bomb",
       "kind": "爆炸物",
       "name_en": "Tunnel bomb",
       "name_zh": "地道炸弹",
-      "note": "克里姆埋于俄国中心办公室下方的巨型炸弹，由办公室抽屉内无线电遥控引爆；克里姆死后其手下引爆，炸毁苏联办事处"
+      "note": "克里姆埋于俄国中心办公室下方的巨型炸弹，由办公室抽屉内无线电遥控引爆；克里姆死后其手下引爆，炸毁苏联办事处",
+      "note_en": "The huge bomb Kerim buries beneath the Russian Centre, detonated by radio from a drawer in his office; after Kerim's death his men set it off, destroying the Soviet office."
     },
     {
       "id": "periscope",
       "kind": "侦察设备",
       "name_en": "Submarine periscope",
       "name_zh": "潜艇潜望镜",
-      "note": "土耳其海军剩余物资，克里姆装于地道中窥视俄国中心办公室"
+      "note": "土耳其海军剩余物资，克里姆装于地道中窥视俄国中心办公室",
+      "note_en": "Turkish Navy surplus, fitted by Kerim in the tunnel to watch the Russian Centre office above."
     }
   ],
   "events": [
@@ -1043,84 +1279,120 @@
       "chapter": "Four",
       "effect": "会议选定英国秘密情报局为打击对象，邦德被提名为目标",
       "id": "smersh-conference",
-      "title": "SMERSH会议定下恐怖行动"
+      "title": "SMERSH会议定下恐怖行动",
+      "title_en": "SMERSH Conference Decides on a Terrorist Act",
+      "cause_en": "The Presidium considers the intelligence services' run of failures a disgrace to the Soviet Union and orders a conspicuous act of terrorism against a Western intelligence service.",
+      "effect_en": "The conference chooses the British Secret Service as its target, and Bond is proposed as the victim."
     },
     {
       "cause": "会议认定邦德是英国秘密情报局的英雄式人物，杀之并毁其名誉可重创该局神话",
       "chapter": "Six",
       "effect": "死刑令写明“蒙羞而死”，谢罗夫批准，任务交克莱布与克朗斯汀",
       "id": "death-warrant",
-      "title": "邦德死刑令签署"
+      "title": "邦德死刑令签署",
+      "title_en": "Bond's Death Warrant Is Signed",
+      "cause_en": "The conference judges Bond the heroic figure of the British Secret Service, so that killing him and destroying his reputation would shatter the Service's myth.",
+      "effect_en": "The death warrant is amended to read 'to be killed WITH IGNOMINY', approved by Serov, and the operation is handed to Klebb and Kronsteen."
     },
     {
       "cause": "克朗斯汀的陷阱需要一名极美的姑娘作饵",
       "chapter": "Nine",
       "effect": "塔蒂亚娜受命引诱邦德、随其去英国并提供假情报，实为诱杀计划的诱饵",
       "id": "tatiana-recruited",
-      "title": "塔蒂亚娜被招募"
+      "title": "塔蒂亚娜被招募",
+      "title_en": "Tatiana Is Recruited",
+      "cause_en": "Kronsteen's trap needs an extremely beautiful girl as bait.",
+      "effect_en": "Tatiana is ordered to seduce Bond, follow him to England and supply false information - in reality she is the bait for a murder plot."
     },
     {
       "cause": "俄方突然对克里姆宣战，克里连库在其办公室外墙安装粘性炸弹",
       "chapter": "Fourteen",
       "effect": "克里姆当时正在沙发上与一名罗马尼亚姑娘在一起而幸免，办公室重装；克里姆警觉敌方有异动",
       "id": "kerim-bomb-attempt",
-      "title": "克里姆办公室炸弹未遂"
+      "title": "克里姆办公室炸弹未遂",
+      "title_en": "Attempt to Bomb Kerim's Office",
+      "cause_en": "The Russians declare war on Kerim, and Krilencu fixes a limpet bomb to the wall outside his office.",
+      "effect_en": "Kerim happens to be on the sofa with a Romanian girl and escapes; the office is rebuilt, and Kerim realises the enemy is moving against him."
     },
     {
       "cause": "俄方下令杀死为克里姆工作的吉卜赛首领瓦夫拉及其手下，并杀克里姆，但不得伤害邦德",
       "chapter": "Eighteen",
       "effect": "十名保加利亚人被杀、五名吉卜赛人死亡，邦德两次救下克里姆；克里姆决心杀死克里连库",
       "id": "gypsy-attack",
-      "title": "吉卜赛营地袭击"
+      "title": "吉卜赛营地袭击",
+      "title_en": "Attack on the Gipsy Camp",
+      "cause_en": "The Russians order the gipsy chief Vavra and his men killed, and Kerim killed too, but Bond is not to be harmed.",
+      "effect_en": "Ten Bulgarians are killed and five gipsies die; Bond saves Kerim's life twice, and Kerim resolves to kill Krilencu."
     },
     {
       "cause": "克里连库两次刺杀克里姆未遂，克里姆决定先下手",
       "chapter": "Nineteen",
       "effect": "克里姆以消音步枪在海报活板门处射杀克里连库",
       "id": "krilencu-killed",
-      "title": "克里连库被杀"
+      "title": "克里连库被杀",
+      "title_en": "Krilencu Is Killed",
+      "cause_en": "After two failed attempts on Kerim's life, Kerim decides to strike first.",
+      "effect_en": "Kerim shoots Krilencu with a silenced rifle through the trapdoor in the Marilyn Monroe poster."
     },
     {
       "cause": "SMERSH需拍下邦德与塔蒂亚娜亲热的影片作为丑闻证据",
       "chapter": "Twenty",
       "effect": "两人亲热全程被假镜后的电影摄影机拍下，影片后被格蘭特带上火车",
       "id": "hotel-filming",
-      "title": "蜜月套房偷拍"
+      "title": "蜜月套房偷拍",
+      "title_en": "Filming in the Honeymoon Suite",
+      "cause_en": "SMERSH needs film of Bond and Tatiana in bed as evidence for the scandal.",
+      "effect_en": "Their lovemaking is filmed throughout by a cine camera behind the false mirror, and Grant later carries the film onto the train."
     },
     {
       "cause": "克里姆以伪造证件与无票乘车为由，买通列车员与警察",
       "chapter": "Twenty-Two",
       "effect": "戈德法布与疖子男子被赶下车，本茨行贿未遂后获释留下",
       "id": "uzunkopru-removals",
-      "title": "乌尊克普吕赶下两名苏联人"
+      "title": "乌尊克普吕赶下两名苏联人",
+      "title_en": "Two Russians Thrown Off at Uzunkopru",
+      "cause_en": "Kerim bribes the conductor and the police, using forged papers and travelling without a ticket as his pretexts.",
+      "effect_en": "Goldfarb and the man with boils are thrown off the train; Benz's attempted bribe fails, but he is released and stays aboard."
     },
     {
       "cause": "本茨在伊多迈尼边境站夜袭熟睡的克里姆，以匕首刺其颈静脉",
       "chapter": "Twenty-Three",
       "effect": "克里姆临死反刺本茨第五肋，两人同死；邦德失去保护人，仍决定走完全程",
       "id": "kerim-benz-deaths",
-      "title": "克里姆与本茨同归于尽"
+      "title": "克里姆与本茨同归于尽",
+      "title_en": "Kerim and Benz Die Together",
+      "cause_en": "At Idomeni, Benz attacks the sleeping Kerim in the night, stabbing him in the jugular vein with a dagger.",
+      "effect_en": "Kerim, dying, stabs Benz in the fifth rib; both die, and Bond loses his protector yet decides to see the journey through."
     },
     {
       "cause": "克里姆死后，其手下按预定计划引爆埋于俄国中心办公室下方的炸弹",
       "chapter": "Twenty-Five",
       "effect": "《晚邮报》头版报道苏联办事处被毁、全部人员死亡；塔蒂亚娜的朋友可能同死其中",
       "id": "istanbul-centre-explosion",
-      "title": "伊斯坦布尔苏联办事处爆炸"
+      "title": "伊斯坦布尔苏联办事处爆炸",
+      "title_en": "Explosion at the Soviet Office in Istanbul",
+      "cause_en": "After Kerim's death, his men detonate the bomb buried beneath the Russian Centre, as planned.",
+      "effect_en": "The Evening Post front page reports the Soviet office destroyed and everyone inside killed; Tatiana's friends may have died in it."
     },
     {
       "cause": "格蘭特化名纳什登车，取得邦德信任与配枪，在隧道内开枪杀邦德",
       "chapter": "Twenty-Six",
       "effect": "邦德以香烟盒挡子弹装死，以飞刀与书枪反杀格蘭特；诱杀计划破产",
       "id": "orient-express-murder",
-      "title": "辛普朗隧道刺杀与反杀"
+      "title": "辛普朗隧道刺杀与反杀",
+      "title_en": "Attempted Murder and Counter-Killing in the Simplon Tunnel",
+      "cause_en": "Grant, posing as Nash, wins Bond's trust and his gun, and plans to shoot Bond in the tunnel.",
+      "effect_en": "Bond stops the bullet with his cigarette case, plays dead, and kills Grant with a throwing knife and the book-gun; the murder plot collapses."
     },
     {
       "cause": "邦德按格蘭特供出的接头时间地点去丽兹酒店204房见克莱布",
       "chapter": "Twenty-Eight",
       "effect": "邦德制服克莱布并交马蒂斯带走，但被其鞋尖毒刃划伤右小腿，毒发倒地，全书结束",
       "id": "klebb-paris",
-      "title": "巴黎丽兹酒店克莱布被擒与邦德中毒"
+      "title": "巴黎丽兹酒店克莱布被擒与邦德中毒",
+      "title_en": "Klebb Captured and Bond Poisoned at the Paris Ritz",
+      "cause_en": "Bond goes to Room 204 of the Ritz Hotel at the time and place Grant named for his rendezvous with Klebb.",
+      "effect_en": "Bond overpowers Klebb and hands her to Mathis, but her poisoned shoe-blade scratches his right calf, he collapses from the poison, and the book ends."
     }
   ],
   "facts": [
@@ -1133,7 +1405,8 @@
       "quote": "Chief Executioner of SMERSH",
       "quote_source": "第One章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "6月10日"
+      "timeline_position": "6月10日",
+      "fact_en": "Donovan Grant, also known as 'Red' Grant, codenamed Krassno Granitski, is SMERSH's Chief Executioner."
     },
     {
       "canon_or_inference": "canon",
@@ -1144,7 +1417,8 @@
       "quote": "2.30 on June 10th",
       "quote_source": "第One章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "6月10日"
+      "timeline_position": "6月10日",
+      "fact_en": "Grant's watch shows 2.30 p.m. on 10 June as he sunbathes at his villa in the Crimea, the moon three-quarters full."
     },
     {
       "canon_or_inference": "canon",
@@ -1155,7 +1429,8 @@
       "quote": "south-eastern coast of the Crimea",
       "quote_source": "第Two章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "6月10日"
+      "timeline_position": "6月10日",
+      "fact_en": "Grant's villa stands on the south-eastern coast of the Crimea, between Feodosia and Yalta, about forty miles from Simferopol airport."
     },
     {
       "canon_or_inference": "canon",
@@ -1166,7 +1441,8 @@
       "quote": "German professional weight-lifter",
       "quote_source": "第Two章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "约1927年"
+      "timeline_position": "约1927年",
+      "fact_en": "Grant was born at Aughmacloy, the son of a South Irish waitress and a German professional weight-lifter, 'Strong Man O'Donovan'."
     },
     {
       "canon_or_inference": "canon",
@@ -1177,7 +1453,8 @@
       "quote": "Grant won the championship in 1945",
       "quote_source": "第Two章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "1945年"
+      "timeline_position": "1945年",
+      "fact_en": "Grant won the Northern Ireland light-heavyweight boxing championship on his eighteenth birthday in 1945."
     },
     {
       "canon_or_inference": "canon",
@@ -1188,7 +1465,8 @@
       "quote": "Flat 5 at No. 22 Kurfürstendamm",
       "quote_source": "第Three章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "约1947年"
+      "timeline_position": "约1947年",
+      "fact_en": "After defecting to the Russians with a bag of military dispatches, Grant murdered Dr Baumgarten, a British spy, in Flat 5 at No. 22 Kurfurstendamm, West Berlin, with an American-made knife."
     },
     {
       "canon_or_inference": "canon",
@@ -1199,7 +1477,8 @@
       "quote": "5000 roubles a month",
       "quote_source": "第Three章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "1953年"
+      "timeline_position": "1953年",
+      "fact_en": "Grant was promoted major in 1953 on 5,000 roubles a month, and given a villa in the Crimea and two bodyguards."
     },
     {
       "canon_or_inference": "canon",
@@ -1210,7 +1489,8 @@
       "quote": "No. 13 on this wide, dull street",
       "quote_source": "第Four章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "1955年"
+      "timeline_position": "1955年",
+      "fact_en": "SMERSH headquarters stands at No. 13 Sretenka Ulitsa, Moscow, and in 1955 the organisation employed about 40,000 men and women."
     },
     {
       "canon_or_inference": "canon",
@@ -1221,7 +1501,8 @@
       "quote": "Colonel General Grubozaboyschikov",
       "quote_source": "第Four章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "6月10日夜"
+      "timeline_position": "6月10日夜",
+      "fact_en": "The head of SMERSH is General Grubozaboyschikov, known to his staff as General G."
     },
     {
       "canon_or_inference": "canon",
@@ -1232,7 +1513,8 @@
       "quote": "a conspicuous act of terrorism to be carried out in enemy territory",
       "quote_source": "第Four章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "6月10日夜"
+      "timeline_position": "6月10日夜",
+      "fact_en": "The Presidium has ordered the intelligence services to carry out an act of terrorism against a Western intelligence service within three months, to redeem failures such as the Gouzenko, Fuchs, Khokhlov and Petrov cases."
     },
     {
       "canon_or_inference": "canon",
@@ -1243,7 +1525,8 @@
       "quote": "Height: 183 centimetres; weight: 76 kilograms",
       "quote_source": "第Six章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "6月10日夜"
+      "timeline_position": "6月10日夜",
+      "fact_en": "Bond's file: 183 centimetres tall, 76 kilograms, blue eyes, black hair, a three-inch scar on his right cheek, armed with a .25 Beretta automatic, magazine of eight rounds."
     },
     {
       "canon_or_inference": "canon",
@@ -1254,7 +1537,8 @@
       "quote": "holds the secret number ``007''",
       "quote_source": "第Six章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "1953年"
+      "timeline_position": "1953年",
+      "fact_en": "Bond has worked for the British Secret Service since 1938, holds the secret number 007, and received the C.M.G. in 1953; the file says two other British agents hold 00 licences to kill."
     },
     {
       "canon_or_inference": "canon",
@@ -1265,7 +1549,8 @@
       "quote": "To be killed WITH IGNOMINY",
       "quote_source": "第Six章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "6月10日夜"
+      "timeline_position": "6月10日夜",
+      "fact_en": "The death warrant is signed by all present; General G. changes 'to be killed' to 'to be killed WITH IGNOMINY', and General Serov approves by telephone."
     },
     {
       "canon_or_inference": "canon",
@@ -1276,7 +1561,8 @@
       "quote": "Champion of Moscow two years running",
       "quote_source": "第Seven章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "6月10日夜"
+      "timeline_position": "6月10日夜",
+      "fact_en": "Kronsteen beats the Georgian champion Makharov with the Meran Variation, move 41 R-Kt8, to win his third successive Moscow chess championship."
     },
     {
       "canon_or_inference": "canon",
@@ -1287,7 +1573,8 @@
       "quote": "Head of the Operations Department of SMERSH",
       "quote_source": "第Seven章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "1953年"
+      "timeline_position": "1953年",
+      "fact_en": "Klebb was an OGPU double agent planted inside the POUM during the Spanish Civil War, assistant to Andres Nin from 1935 to 1937; after Beria's death in 1953 she became head of Otdyel II of SMERSH."
     },
     {
       "canon_or_inference": "canon",
@@ -1298,7 +1585,8 @@
       "quote": "extremely beautiful girl",
       "quote_source": "第Seven章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "6月10日夜"
+      "timeline_position": "6月10日夜",
+      "fact_en": "Kronsteen's outline of the trap: besides killing Bond, his reputation must be destroyed; a lure must draw him out of England, and the plan needs a fluent English-speaking killer and an extremely beautiful girl."
     },
     {
       "canon_or_inference": "canon",
@@ -1309,7 +1597,8 @@
       "quote": "Corporal of State Security Tatiana Romanova",
       "quote_source": "第Eight章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "6月"
+      "timeline_position": "6月",
+      "fact_en": "Tatiana Romanova is twenty-four, a corporal in the English translation section of the M.G.B. Central Index, on 1,200 roubles a month, living in a single room on the third floor of the women's barracks in Moscow."
     },
     {
       "canon_or_inference": "canon",
@@ -1320,7 +1609,8 @@
       "quote": "a year in the ballet school in Leningrad",
       "quote_source": "第Eight章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "6月"
+      "timeline_position": "6月",
+      "fact_en": "Tatiana spent a year at the ballet school in Leningrad and gave it up after growing an inch over the five-feet-six limit; she is now on the first Dynamo women's figure-skating team."
     },
     {
       "canon_or_inference": "canon",
@@ -1331,7 +1621,8 @@
       "quote": "falling in love with this man",
       "quote_source": "第Nine章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "6月"
+      "timeline_position": "6月",
+      "fact_en": "Klebb recruits Tatiana: fall in love with Bond, seduce him, follow him to England and supply false information, with promotion to captain promised on success."
     },
     {
       "canon_or_inference": "canon",
@@ -1342,7 +1633,8 @@
       "quote": "Three men, Comrade Colonel",
       "quote_source": "第Nine章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "6月"
+      "timeline_position": "6月",
+      "fact_en": "Klebb makes Tatiana list her love life: three men, at seventeen, twenty-two and twenty-three, and demands their names so they can be held as hostages."
     },
     {
       "canon_or_inference": "canon",
@@ -1353,7 +1645,8 @@
       "quote": "heavy brass knuckleduster",
       "quote_source": "第Ten章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "6月11日"
+      "timeline_position": "6月11日",
+      "fact_en": "Klebb strikes Grant hard in the stomach with a heavy brass knuckle-duster to test his physique; Grant barely reacts; he is ordered to pose as a British agent, coached by a former Foreign Office man, with the operation set for the end of August."
     },
     {
       "canon_or_inference": "canon",
@@ -1364,7 +1657,8 @@
       "quote": "handing over the outer case of a Spektor",
       "quote_source": "第Ten章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "6月11日"
+      "timeline_position": "6月11日",
+      "fact_en": "Kronsteen fixes Istanbul as the first contact point, says the head of Station T in Istanbul will be removed, chooses France or nearby as the killing ground, and offers the outer case of a Spektor machine as bait."
     },
     {
       "canon_or_inference": "canon",
@@ -1375,7 +1669,8 @@
       "quote": "Thursday, August 12th",
       "quote_source": "第Eleven章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月12日"
+      "timeline_position": "8月12日",
+      "fact_en": "At 7.30 a.m. on Thursday, 12 August, Bond wakes in his flat in the square off the King's Road, Chelsea; Tiffany Case sailed back to America at the end of July."
     },
     {
       "canon_or_inference": "canon",
@@ -1386,7 +1681,8 @@
       "quote": "Committee of Inquiry under Paymaster Captain Troop",
       "quote_source": "第Eleven章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月12日"
+      "timeline_position": "8月12日",
+      "fact_en": "Bond is put by M on Paymaster Captain Troop's Committee of Inquiry into the Burgess and Maclean case, meeting at 2.30 p.m. that day in Room 412."
     },
     {
       "canon_or_inference": "canon",
@@ -1397,7 +1693,8 @@
       "quote": "take a round ticket on the 8 p.m. ferry",
       "quote_source": "第Twelve章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月10日"
+      "timeline_position": "8月10日",
+      "fact_en": "Darko Kerim, head of Station T, is the son of a Turkish father and an English mother and has held the post since before the war; Tatiana meets him on the 8 p.m. ferry from the Galata Bridge and gets off at Ortakoy."
     },
     {
       "canon_or_inference": "canon",
@@ -1408,7 +1705,8 @@
       "quote": "hero of a book by some Russian fellow called Lermontov",
       "quote_source": "第Twelve章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月12日"
+      "timeline_position": "8月12日",
+      "fact_en": "Tatiana's cover story: six years in the English translation section of the M.G.B. Central Index, she fell in love with Bond from his file photograph, and her hero is the hero of a novel by Lermontov."
     },
     {
       "canon_or_inference": "canon",
@@ -1419,7 +1717,8 @@
       "quote": "brand new Spektor machine",
       "quote_source": "第Twelve章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月12日"
+      "timeline_position": "8月12日",
+      "fact_en": "Tatiana promises to defect with a brand-new Spektor cipher machine; M and Bond judge that the machine could break top-secret Soviet traffic and is worth the risk."
     },
     {
       "canon_or_inference": "canon",
@@ -1430,7 +1729,8 @@
       "quote": "10.30 B.E.A. Flight 130",
       "quote_source": "第Thirteen章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月13日"
+      "timeline_position": "8月13日",
+      "fact_en": "On Friday, 13 August, Bond flies B.E.A. Flight 130, a Viscount, from London via Rome and Athens to Istanbul; his Q Branch attache case conceals fifty rounds of ammunition, two throwing knives, a cyanide pill and fifty gold sovereigns."
     },
     {
       "canon_or_inference": "canon",
@@ -1441,7 +1741,8 @@
       "quote": "washed this pill down the lavatory",
       "quote_source": "第Thirteen章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月13日"
+      "timeline_position": "8月13日",
+      "fact_en": "As soon as he takes delivery of the case, Bond washes the cyanide pill down the lavatory; the silencer is hidden in a tube of Palmolive shaving cream."
     },
     {
       "canon_or_inference": "canon",
@@ -1452,7 +1753,8 @@
       "quote": "Fixed a limpet bomb on the wall outside",
       "quote_source": "第Fourteen章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月14日"
+      "timeline_position": "8月14日",
+      "fact_en": "Kerim's office is in a spice warehouse beside the Galata Bridge; Krilencu fixed a limpet bomb to the wall outside it the day before, without success; Kerim gives Bond 1,000 Turkish pounds."
     },
     {
       "canon_or_inference": "canon",
@@ -1463,7 +1765,8 @@
       "quote": "I come from Trebizond",
       "quote_source": "第Fifteen章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月14日"
+      "timeline_position": "8月14日",
+      "fact_en": "Kerim was born at Trebizond, the son of a swordfish fisherman and an English governess; one of fifteen children, he was nicknamed 'Darko' for his dark skin; he was recruited by the previous station chief, Major Dansey."
     },
     {
       "canon_or_inference": "canon",
@@ -1474,7 +1777,8 @@
       "quote": "David Somerset. Profession, Company Director",
       "quote_source": "第Fifteen章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月14日"
+      "timeline_position": "8月14日",
+      "fact_en": "Bond's alias passport is in the name of David Somerset, company director, with wife Caroline Somerset; his hotel room is changed to No. 12, the honeymoon suite."
     },
     {
       "canon_or_inference": "canon",
@@ -1485,7 +1789,8 @@
       "quote": "submarine periscope, fully withdrawn",
       "quote_source": "第Sixteen章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月14日"
+      "timeline_position": "8月14日",
+      "fact_en": "Kerim has built a tunnel from behind the bookcase in his warehouse to a chamber beneath the Russian Centre, where he watches through a submarine periscope, Turkish Navy surplus; a large radio-controlled bomb is buried above."
     },
     {
       "canon_or_inference": "canon",
@@ -1496,7 +1801,8 @@
       "quote": "A Bulgarian ``refugee'' called Krilencu",
       "quote_source": "第Seventeen章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月14日夜"
+      "timeline_position": "8月14日夜",
+      "fact_en": "Vavra tells Kerim that the bomb was planted personally by Krilencu, a Bulgarian 'refugee' and leader of the 'faceless ones'."
     },
     {
       "canon_or_inference": "canon",
@@ -1507,7 +1813,8 @@
       "quote": "beware of a son of the snows",
       "quote_source": "第Eighteen章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月14日夜"
+      "timeline_position": "8月14日夜",
+      "fact_en": "The gipsy chief Vavra warns them: Kerim must beware 'a son of the snows', and Bond must beware 'one who is possessed by the moon'."
     },
     {
       "canon_or_inference": "canon",
@@ -1518,7 +1825,8 @@
       "quote": "Ten were killed tonight",
       "quote_source": "第Eighteen章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月14日夜"
+      "timeline_position": "8月14日夜",
+      "fact_en": "In the attack on the gipsy camp ten Bulgarians are killed and five gipsies die; Bond saves Kerim's life twice, and Vavra, at Bond's request, calls the duel between Zora and Vida a draw."
     },
     {
       "canon_or_inference": "canon",
@@ -1529,7 +1837,8 @@
       "quote": "Barrel from the new 88 Winchester",
       "quote_source": "第Nineteen章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月15日凌晨"
+      "timeline_position": "8月15日凌晨",
+      "fact_en": "Kerim kills Krilencu with a silenced .308 Winchester 88 disguised as a walking-stick, fitted with an infra-red Sniperscope, firing through a trapdoor in the Marilyn Monroe poster for Niagara."
     },
     {
       "canon_or_inference": "canon",
@@ -1540,7 +1849,8 @@
       "quote": "It leaves at nine tonight",
       "quote_source": "第Twenty章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月15日凌晨"
+      "timeline_position": "8月15日凌晨",
+      "fact_en": "At 2 a.m. Tatiana lies in Bond's bed wearing only a black ribbon and black stockings, insisting they leave on the 9 p.m. Orient Express that night, saying she can steal the Spektor during her 6 p.m. night shift."
     },
     {
       "canon_or_inference": "canon",
@@ -1551,7 +1861,8 @@
       "quote": "behind the gold-framed false mirror",
       "quote_source": "第Twenty章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月15日凌晨"
+      "timeline_position": "8月15日凌晨",
+      "fact_en": "While Bond and Tatiana make love, two SMERSH cameramen film them throughout with a cine camera from behind the gold-framed false mirror over the bed."
     },
     {
       "canon_or_inference": "canon",
@@ -1562,7 +1873,8 @@
       "quote": "Melchior Benz, salesman",
       "quote_source": "第Twenty-One章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月15日晚"
+      "timeline_position": "8月15日晚",
+      "fact_en": "Three M.G.B. men are on the train: 'Melchior Benz' with a German passport (compartment 6), 'Kurt Goldfarb' (compartment 12), and a man with boils on his neck."
     },
     {
       "canon_or_inference": "canon",
@@ -1573,7 +1885,8 @@
       "quote": "I am certain these men do not mean us harm",
       "quote_source": "第Twenty-One章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月15日晚"
+      "timeline_position": "8月15日晚",
+      "fact_en": "Tatiana assures Bond that the bag does contain the Spektor, and that the three Russians are escorts travelling to Germany who mean them no harm."
     },
     {
       "canon_or_inference": "canon",
@@ -1584,7 +1897,8 @@
       "quote": "Two birds down, he thought. Two out of three",
       "quote_source": "第Twenty-Two章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月16日黎明"
+      "timeline_position": "8月16日黎明",
+      "fact_en": "At Uzunkopru, Kerim has Goldfarb and the man with boils thrown off the train on the pretext of forged papers; Benz's attempted bribe fails and he is released after a short detention."
     },
     {
       "canon_or_inference": "canon",
@@ -1595,7 +1909,8 @@
       "quote": "dagger protruded from his neck near the jugular vein",
       "quote_source": "第Twenty-Three章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月17日凌晨"
+      "timeline_position": "8月17日凌晨",
+      "fact_en": "At about 1 a.m. at Idomeni on the Greek frontier, Benz stabs Kerim in the jugular vein with a dagger; Kerim, dying, stabs Benz in the fifth rib; both die in the first-class compartment."
     },
     {
       "canon_or_inference": "canon",
@@ -1606,7 +1921,8 @@
       "quote": "Stefan Trempo at your service",
       "quote_source": "第Twenty-Four章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月17日下午"
+      "timeline_position": "8月17日下午",
+      "fact_en": "The man who meets them in Belgrade is Kerim's son Stefan Trempo, nicknamed 'Tempo', who drives a shabby Morris Oxford saloon."
     },
     {
       "canon_or_inference": "canon",
@@ -1617,7 +1933,8 @@
       "quote": "Would you and your wife like to take another way home?",
       "quote_source": "第Twenty-Four章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月17日下午"
+      "timeline_position": "8月17日下午",
+      "fact_en": "In Belgrade Bond telephones M in code, reporting that his partner is seriously ill and that of the three enemy men one is dead and two have left the train; M leaves the decision whether to go on to Bond."
     },
     {
       "canon_or_inference": "canon",
@@ -1628,7 +1945,8 @@
       "quote": "Captain Norman Nash",
       "quote_source": "第Twenty-Five章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月18日"
+      "timeline_position": "8月18日",
+      "fact_en": "Grant boards at Trieste as 'Captain Norman Nash', shows a Royal Automobile Club card, wears a Royal Artillery tie with a Windsor knot, and makes contact with Bond using the password of the month."
     },
     {
       "canon_or_inference": "canon",
@@ -1639,7 +1957,8 @@
       "quote": "UFFICIO SOVIETICO DISTRUTTO",
       "quote_source": "第Twenty-Five章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月18日"
+      "timeline_position": "8月18日",
+      "fact_en": "The Evening Post front page reports that the Soviet office in Istanbul has been blown up with everyone inside - Kerim's tunnel bomb, detonated after his death."
     },
     {
       "canon_or_inference": "canon",
@@ -1650,7 +1969,8 @@
       "quote": "Nash means ``ours''",
       "quote_source": "第Twenty-Five章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月18日"
+      "timeline_position": "8月18日",
+      "fact_en": "Tatiana warns Bond that in Russian 'Nash' means 'ours', and that the name is a bad omen; Bond pays no attention."
     },
     {
       "canon_or_inference": "canon",
@@ -1661,7 +1981,8 @@
       "quote": "Fed her a pinch of chloral hydrate",
       "quote_source": "第Twenty-Six章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月18日夜"
+      "timeline_position": "8月18日夜",
+      "fact_en": "Grant drugs Tatiana's wine with a pinch of chloral hydrate, putting her to sleep, and tricks Bond out of his Beretta; his book-gun, hidden in War and Peace, fires ten .25 dum-dum bullets by battery."
     },
     {
       "canon_or_inference": "canon",
@@ -1672,7 +1993,8 @@
       "quote": "the Spektor's booby-trapped",
       "quote_source": "第Twenty-Six章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月18日夜"
+      "timeline_position": "8月18日夜",
+      "fact_en": "Grant confesses the whole plan: kill Bond in the Simplon Tunnel, kill Tatiana with Bond's gun and throw her body from the window, fake a murder-suicide with a blackmail letter written by SMERSH; the Spektor is booby-trapped to explode when British experts take it apart."
     },
     {
       "canon_or_inference": "canon",
@@ -1683,7 +2005,8 @@
       "quote": "Room 204 at the Ritz Hotel",
       "quote_source": "第Twenty-Six章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月18日夜"
+      "timeline_position": "8月18日夜",
+      "fact_en": "Grant says SMERSH kills one minor British agent every January to extract the passwords of the month for the whole year; he himself is to report to Klebb at noon the next day in Room 204 of the Ritz Hotel, then travel on to Berlin with her."
     },
     {
       "canon_or_inference": "canon",
@@ -1694,7 +2017,8 @@
       "quote": "bullet must have gone through the cigarette case",
       "quote_source": "第Twenty-Seven章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月19日凌晨"
+      "timeline_position": "8月19日凌晨",
+      "fact_en": "Bond stops the bullet aimed at his heart with the metal cigarette case hidden in the book, and plays dead; when Grant bends over to kill Tatiana, Bond stabs him in the femoral artery in the groin with a throwing knife, then seizes the book-gun and shoots him dead."
     },
     {
       "canon_or_inference": "canon",
@@ -1705,7 +2029,8 @@
       "quote": "My friend, the one with fair hair, is a doctor",
       "quote_source": "第Twenty-Seven章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月19日清晨"
+      "timeline_position": "8月19日清晨",
+      "fact_en": "Bond cleans the blood from the compartment, hides Grant's body in the bunk, and gets off at Dijon in the early morning, telling the conductor that the fair-haired man is a doctor resting in the bunk."
     },
     {
       "canon_or_inference": "canon",
@@ -1716,7 +2041,8 @@
       "quote": "I, Monsieur, am the Comtesse Metterstein",
       "quote_source": "第Twenty-Eight章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月19日中午"
+      "timeline_position": "8月19日中午",
+      "fact_en": "Klebb, disguised as the Comtesse Metterstein, sits knitting in Room 204 of the Ritz Hotel; her telephone is in fact a gun and her knitting needles are poisoned; Bond pins her against the wall with a chair and overpowers her."
     },
     {
       "canon_or_inference": "canon",
@@ -1727,7 +2053,8 @@
       "quote": "Farewell, Mister Bond",
       "quote_source": "第Twenty-Eight章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月19日中午"
+      "timeline_position": "8月19日中午",
+      "fact_en": "A half-inch poisoned blade springs from the toe of Klebb's boot and scratches Bond's right calf; Bond collapses from the poison as the book ends, his fate left unresolved."
     },
     {
       "canon_or_inference": "canon",
@@ -1738,7 +2065,8 @@
       "quote": "The girl was sleeping in a bedroom at the Embassy",
       "quote_source": "第Twenty-Eight章",
       "source_novel": "from-russia-with-love",
-      "timeline_position": "8月19日中午"
+      "timeline_position": "8月19日中午",
+      "fact_en": "Tatiana is put to sleep in a bedroom at the British Embassy, the Spektor is taken away by the Deuxieme Bureau's bomb-disposal squad, and before going to the Ritz Bond arranges with Mathis for laundry-men and a military aircraft to take Klebb away."
     }
   ],
   "kind": "长篇",
@@ -1750,7 +2078,8 @@
       "id": "crimea-villa",
       "name_en": "Crimea villa",
       "name_zh": "克里米亚别墅",
-      "role": "格蘭特的住所，位于费奥多西亚与雅尔塔之间东南海岸，官方度假别墅；故事开篇地"
+      "role": "格蘭特的住所，位于费奥多西亚与雅尔塔之间东南海岸，官方度假别墅；故事开篇地",
+      "role_en": "Grant's home, between Feodosia and Yalta on the south-eastern coast, an official holiday villa; where the story opens."
     },
     {
       "country": "苏联",
@@ -1758,7 +2087,8 @@
       "id": "moscow-smersh-hq",
       "name_en": "No. 13 Sretenka Ulitsa, Moscow",
       "name_zh": "莫斯科斯列坚卡街13号",
-      "role": "SMERSH总部，G将军办公室与会议室所在地，死刑令签署地"
+      "role": "SMERSH总部，G将军办公室与会议室所在地，死刑令签署地",
+      "role_en": "SMERSH headquarters, where General G.'s office and conference room stand and the death warrant is signed."
     },
     {
       "country": "英国",
@@ -1766,7 +2096,8 @@
       "id": "london-chelsea-flat",
       "name_en": "Bond's flat, Chelsea",
       "name_zh": "邦德切尔西公寓",
-      "role": "邦德住所，位于国王路广场；MGB派电视推销员监视此处"
+      "role": "邦德住所，位于国王路广场；MGB派电视推销员监视此处",
+      "role_en": "Bond's home in the square off the King's Road; the M.G.B. sends a television salesman to watch it."
     },
     {
       "country": "英国",
@@ -1774,7 +2105,8 @@
       "id": "london-hq",
       "name_en": "Secret Service headquarters, Regent's Park",
       "name_zh": "秘密情报局总部",
-      "role": "M办公室所在地，邦德接受任务处"
+      "role": "M办公室所在地，邦德接受任务处",
+      "role_en": "Where M's office stands and Bond receives his mission."
     },
     {
       "country": "土耳其",
@@ -1782,7 +2114,8 @@
       "id": "istanbul",
       "name_en": "Istanbul",
       "name_zh": "伊斯坦布尔",
-      "role": "首次接触地；克里姆T站驻地；塔蒂亚娜与邦德会合、东方快车出发地"
+      "role": "首次接触地；克里姆T站驻地；塔蒂亚娜与邦德会合、东方快车出发地",
+      "role_en": "The first contact point; Kerim's Station T; where Tatiana joins Bond and the Orient Express departs."
     },
     {
       "country": "土耳其",
@@ -1790,7 +2123,8 @@
       "id": "kristal-palas",
       "name_en": "Kristal Palas hotel",
       "name_zh": "克里斯特尔帕拉斯酒店",
-      "role": "邦德下榻酒店，位于佩拉高地；12号蜜月套房为SMERSH偷拍布景，床头假镜后藏摄影机"
+      "role": "邦德下榻酒店，位于佩拉高地；12号蜜月套房为SMERSH偷拍布景，床头假镜后藏摄影机",
+      "role_en": "Bond's hotel on the heights of Pera; No. 12, the honeymoon suite, is SMERSH's filming set, with a camera hidden behind the false mirror over the bed."
     },
     {
       "country": "土耳其",
@@ -1798,7 +2132,8 @@
       "id": "galata-bridge",
       "name_en": "Galata Bridge",
       "name_zh": "加拉塔大桥",
-      "role": "塔蒂亚娜与克里姆首次接头的渡轮出发点；克里姆办公室所在地附近"
+      "role": "塔蒂亚娜与克里姆首次接头的渡轮出发点；克里姆办公室所在地附近",
+      "role_en": "Where the ferry carrying Tatiana to her first meeting with Kerim departs; Kerim's office stands nearby."
     },
     {
       "country": "土耳其",
@@ -1806,7 +2141,8 @@
       "id": "sirkeci-station",
       "name_en": "Sirkeci Station",
       "name_zh": "锡尔凯吉车站",
-      "role": "东方快车始发站，晚9时出发"
+      "role": "东方快车始发站，晚9时出发",
+      "role_en": "Where the Orient Express starts, departing at 9 p.m."
     },
     {
       "country": null,
@@ -1814,7 +2150,8 @@
       "id": "orient-express",
       "name_en": "Orient Express",
       "name_zh": "东方快车",
-      "role": "伊斯坦布尔至巴黎列车，每周三班，全程1400英里；克里姆之死、格蘭特刺杀与反杀均发生于车上"
+      "role": "伊斯坦布尔至巴黎列车，每周三班，全程1400英里；克里姆之死、格蘭特刺杀与反杀均发生于车上",
+      "role_en": "The train from Istanbul to Paris, running three times a week over 1,400 miles; Kerim's death, Grant's attempt on Bond and the counter-killing all happen aboard it."
     },
     {
       "country": "土耳其",
@@ -1822,7 +2159,8 @@
       "id": "uzunkopru",
       "name_en": "Uzunkopru",
       "name_zh": "乌尊克普吕",
-      "role": "土耳其边境站，两名MGB人员在此被赶下车"
+      "role": "土耳其边境站，两名MGB人员在此被赶下车",
+      "role_en": "The Turkish frontier station where two M.G.B. men are thrown off the train."
     },
     {
       "country": "南斯拉夫",
@@ -1830,7 +2168,8 @@
       "id": "belgrade",
       "name_en": "Belgrade",
       "name_zh": "贝尔格莱德",
-      "role": "列车中转站，克里姆之子坦波接应邦德与塔蒂亚娜；邦德在此致电M"
+      "role": "列车中转站，克里姆之子坦波接应邦德与塔蒂亚娜；邦德在此致电M",
+      "role_en": "The train's stopping point, where Kerim's son Tempo meets Bond and Tatiana and Bond telephones M."
     },
     {
       "country": "意大利",
@@ -1838,7 +2177,8 @@
       "id": "trieste",
       "name_en": "Trieste",
       "name_zh": "的里雅斯特",
-      "role": "格蘭特化名纳什登车处"
+      "role": "格蘭特化名纳什登车处",
+      "role_en": "Where Grant boards the train as 'Nash'."
     },
     {
       "country": "意大利与瑞士之间",
@@ -1846,7 +2186,8 @@
       "id": "simplon-tunnel",
       "name_en": "Simplon Tunnel",
       "name_zh": "辛普朗隧道",
-      "role": "格蘭特计划杀害邦德的地点，反被邦德杀死处"
+      "role": "格蘭特计划杀害邦德的地点，反被邦德杀死处",
+      "role_en": "Where Grant plans to kill Bond, and is killed by Bond instead."
     },
     {
       "country": "法国",
@@ -1854,7 +2195,8 @@
       "id": "dijon",
       "name_en": "Dijon",
       "name_zh": "第戎",
-      "role": "邦德与塔蒂亚娜下车处，格蘭特尸体被留在车上"
+      "role": "邦德与塔蒂亚娜下车处，格蘭特尸体被留在车上",
+      "role_en": "Where Bond and Tatiana get off the train, leaving Grant's body aboard."
     },
     {
       "country": "法国",
@@ -1862,7 +2204,8 @@
       "id": "paris-ritz",
       "name_en": "Ritz Hotel, Paris, Room 204",
       "name_zh": "巴黎丽兹酒店204房",
-      "role": "克莱布与格蘭特约定的汇报地点；邦德在此制服克莱布并被毒鞋刺伤"
+      "role": "克莱布与格蘭特约定的汇报地点；邦德在此制服克莱布并被毒鞋刺伤",
+      "role_en": "Where Klebb is to meet Grant for his report; Bond overpowers her there and is wounded by her poisoned shoe."
     },
     {
       "country": "英国（北爱尔兰边境村庄）",
@@ -1870,7 +2213,8 @@
       "id": "aughmacloy",
       "name_en": "Aughmacloy",
       "name_zh": "奥赫马克洛伊",
-      "role": "格蘭特出生与成长地，少年“月亮杀手”作案地"
+      "role": "格蘭特出生与成长地，少年“月亮杀手”作案地",
+      "role_en": "Where Grant was born and grew up, and where the boy 'Moon Killer' committed his murders."
     },
     {
       "country": "德国",
@@ -1878,7 +2222,8 @@
       "id": "berlin",
       "name_en": "Berlin",
       "name_zh": "柏林",
-      "role": "格蘭特投奔苏联处；鲍姆加滕被刺处"
+      "role": "格蘭特投奔苏联处；鲍姆加滕被刺处",
+      "role_en": "Where Grant defects to the Russians; and where Baumgarten is murdered."
     },
     {
       "country": "苏联",
@@ -1886,7 +2231,8 @@
       "id": "leningrad-school",
       "name_en": "Intelligence School for Foreigners, Leningrad",
       "name_zh": "列宁格勒外国人情报学校",
-      "role": "格蘭特受训地"
+      "role": "格蘭特受训地",
+      "role_en": "Where Grant is trained (the Intelligence School for Foreigners)."
     },
     {
       "country": "苏联",
@@ -1894,7 +2240,8 @@
       "id": "kuchino-school",
       "name_en": "School for Terror and Diversion, Kuchino",
       "name_zh": "库奇诺恐怖破坏学校",
-      "role": "格蘭特在莫斯科郊外受训地，教官为福托耶夫上校与戈德洛夫斯基中校"
+      "role": "格蘭特在莫斯科郊外受训地，教官为福托耶夫上校与戈德洛夫斯基中校",
+      "role_en": "Where Grant is trained outside Moscow in terror and sabotage, under Colonel Fotoyev and Lieutenant-Colonel Godlovsky."
     },
     {
       "country": "土耳其",
@@ -1902,7 +2249,8 @@
       "id": "trebizond",
       "name_en": "Trebizond",
       "name_zh": "特拉布宗",
-      "role": "克里姆故乡，父为剑鱼渔民"
+      "role": "克里姆故乡，父为剑鱼渔民",
+      "role_en": "Kerim's birthplace, where his father was a swordfish fisherman."
     }
   ],
   "mission": {
@@ -1927,56 +2275,64 @@
       "id": "smersh",
       "name_en": "SMERSH",
       "name_zh": "SMERSH",
-      "role": "苏联政府官方谋杀机构，苏联最秘密部门，1955年约4万人；策划并执行诱杀邦德行动；总部莫斯科斯列坚卡街13号"
+      "role": "苏联政府官方谋杀机构，苏联最秘密部门，1955年约4万人；策划并执行诱杀邦德行动；总部莫斯科斯列坚卡街13号",
+      "role_en": "The Soviet government's official murder organisation, the most secret department in the Soviet Union, about 40,000 strong in 1955; it plans and carries out the plot to lure Bond to his death; headquarters at No. 13 Sretenka Ulitsa, Moscow."
     },
     {
       "first_chapter": "Three",
       "id": "smersh-otdyel-ii",
       "name_en": "SMERSH Otdyel II",
       "name_zh": "SMERSH第二部",
-      "role": "行动与处决部，首脑为罗莎·克莱布；格蘭特隶属该部；诱杀行动的执行部门"
+      "role": "行动与处决部，首脑为罗莎·克莱布；格蘭特隶属该部；诱杀行动的执行部门",
+      "role_en": "The Operations and Executions Department, headed by Rosa Klebb; Grant belongs to it, and it executes the plot against Bond."
     },
     {
       "first_chapter": "One",
       "id": "mgb",
       "name_en": "M.G.B.",
       "name_zh": "国家安全部",
-      "role": "苏联秘密情报机关；塔蒂亚娜隶属该部中央索引处；尼基京为其情报首脑；格蘭特最初投奔的部门"
+      "role": "苏联秘密情报机关；塔蒂亚娜隶属该部中央索引处；尼基京为其情报首脑；格蘭特最初投奔的部门",
+      "role_en": "The Soviet secret intelligence service; Tatiana works in its Central Index, Nikitin is its intelligence chief, and it is the first department Grant approaches after his defection."
     },
     {
       "first_chapter": "Four",
       "id": "gru",
       "name_en": "G.R.U.",
       "name_zh": "格鲁乌",
-      "role": "苏联陆军总参谋部情报部门，首脑斯拉文将军；参与定目标会议"
+      "role": "苏联陆军总参谋部情报部门，首脑斯拉文将军；参与定目标会议",
+      "role_en": "The intelligence department of the Soviet General Staff, headed by General Slavin; it takes part in the conference that chooses the target."
     },
     {
       "first_chapter": "Four",
       "id": "rumid",
       "name_en": "R.U.M.I.D.",
       "name_zh": "外交部情报局",
-      "role": "苏联外交部情报部门，首脑沃兹德维申斯基将军；参与定目标会议并评估西方情报机关"
+      "role": "苏联外交部情报部门，首脑沃兹德维申斯基将军；参与定目标会议并评估西方情报机关",
+      "role_en": "The intelligence service of the Soviet Foreign Ministry, headed by General Vozdvishensky; it takes part in the conference and assesses the Western intelligence services."
     },
     {
       "first_chapter": "Four",
       "id": "british-secret-service",
       "name_en": "British Secret Service",
       "name_zh": "英国秘密情报局",
-      "role": "邦德所属机构，首脑为M；为SMERSH诱杀行动的打击目标"
+      "role": "邦德所属机构，首脑为M；为SMERSH诱杀行动的打击目标",
+      "role_en": "Bond's organisation, headed by M; the target of SMERSH's murder plot."
     },
     {
       "first_chapter": "Five",
       "id": "mi5",
       "name_en": "M.I.5",
       "name_zh": "军情五处",
-      "role": "英国国内安全部门，会议中被提及为优秀机构；非行动直接参与方"
+      "role": "英国国内安全部门，会议中被提及为优秀机构；非行动直接参与方",
+      "role_en": "The British domestic security service, described at the conference as an excellent organisation; not directly involved in the operation."
     },
     {
       "first_chapter": "Five",
       "id": "deuxieme-bureau",
       "name_en": "Deuxième Bureau",
       "name_zh": "法国第二局",
-      "role": "法国情报机关，首脑雷尼·马蒂斯；结尾协助邦德抓捕克莱布并处理斯佩克特机"
+      "role": "法国情报机关，首脑雷尼·马蒂斯；结尾协助邦德抓捕克莱布并处理斯佩克特机",
+      "role_en": "The French intelligence service, headed by Rene Mathis; at the end it helps Bond capture Klebb and deal with the Spektor."
     }
   ],
   "publication_year": 1957,
@@ -1995,43 +2351,69 @@
     {
       "name_en": "Ilyushin 12 (V-BO)",
       "name_zh": "伊尔-12（V-BO）",
-      "note": "接格蘭特自辛菲罗波尔军用机场飞莫斯科的双引擎飞机"
+      "note": "接格蘭特自辛菲罗波尔军用机场飞莫斯科的双引擎飞机",
+      "note_en": "The twin-engined aircraft that carries Grant from the military airfield at Simferopol to Moscow."
     },
     {
       "name_en": "MiG 17",
       "name_zh": "米格-17",
-      "note": "辛菲罗波尔机场四架编队降落的喷气战斗机"
+      "note": "辛菲罗波尔机场四架编队降落的喷气战斗机",
+      "note_en": "Four jet fighters landing in formation at Simferopol airport."
     },
     {
       "name_en": "BEA Flight 130, Viscount",
       "name_zh": "BEA130号班机维克斯子爵式",
-      "note": "邦德自伦敦经罗马、雅典飞伊斯坦布尔的四引擎涡桨客机，8月13日星期五10时30分出发"
+      "note": "邦德自伦敦经罗马、雅典飞伊斯坦布尔的四引擎涡桨客机，8月13日星期五10时30分出发",
+      "note_en": "The four-engined turboprop airliner that carries Bond from London via Rome and Athens to Istanbul, departing at 10.30 a.m. on Friday, 13 August."
     },
     {
       "name_en": "Orient Express",
       "name_zh": "东方快车",
-      "note": "伊斯坦布尔至巴黎列车，德国机车牵引，卧铺车厢为国际卧铺车公司深蓝车厢"
+      "note": "伊斯坦布尔至巴黎列车，德国机车牵引，卧铺车厢为国际卧铺车公司深蓝车厢",
+      "note_en": "The Istanbul-Paris train, hauled by a German locomotive, with dark-blue sleeping cars of the Compagnie Internationale des Wagons-Lits."
     },
     {
       "name_en": "Rolls Royce coupé-de-ville",
       "name_zh": "劳斯莱斯双门轿跑",
-      "note": "克里姆的旧黑色藤编劳斯莱斯，1920年代款，接送邦德"
+      "note": "克里姆的旧黑色藤编劳斯莱斯，1920年代款，接送邦德",
+      "note_en": "Kerim's old black wickerwork Rolls-Royce, a 1920s model, which carries Bond about Istanbul."
     },
     {
       "name_en": "Lambretta scooters",
       "name_zh": "兰布雷塔小摩托",
-      "note": "俄国“无面人”跟踪用车队"
+      "note": "俄国“无面人”跟踪用车队",
+      "note_en": "The scooters used by the Russian 'faceless ones' to follow Bond."
     },
     {
       "name_en": "ZIS saloon",
       "name_zh": "吉斯轿车",
-      "note": "接格蘭特去机场的破旧轿车"
+      "note": "接格蘭特去机场的破旧轿车",
+      "note_en": "The shabby saloon that takes Grant to the airport."
     },
     {
       "name_en": "Morris Oxford saloon",
       "name_zh": "莫里斯牛津轿车",
-      "note": "坦波在贝尔格莱德接应用的破旧轿车"
+      "note": "坦波在贝尔格莱德接应用的破旧轿车",
+      "note_en": "The shabby saloon Tempo uses to meet Bond in Belgrade."
     }
   ],
-  "words": 80305
+  "words": 80305,
+  "synopsis_en": "SMERSH, the Soviet Union's official murder organisation, is ordered to carry out a spectacular act of terrorism against a Western intelligence service. Its planners choose James Bond of the British Secret Service: he is to be lured out of England, killed, and disgraced. The bait is Tatiana Romanova, a beautiful young cipher clerk in the M.G.B., who is ordered to pretend she has fallen in love with Bond from his file photograph and will defect to London with a brand-new Spektor cipher machine. Bond flies to Istanbul, where station chief Darko Kerim helps him meet Tatiana, only for the two of them to be filmed in bed by hidden SMERSH cameras. They board the Orient Express with the Spektor, Kerim is murdered on the train, and a supposed British reinforcement who joins at Trieste turns out to be Red Grant, SMERSH's chief executioner, who plans to kill Bond in the Simplon Tunnel and stage it as a murder-suicide. Bond kills Grant instead, reaches Paris with Tatiana and the machine, and walks into a final trap at the Ritz Hotel, where Rosa Klebb wounds him with a poisoned blade in her shoe. The novel ends with Bond collapsing, his fate unresolved.",
+  "mission_en": {
+    "objective_en": "Bond's mission: travel to Istanbul and bring back Tatiana Romanova, a Russian cipher clerk who claims to have fallen in love with him and offers to defect with a brand-new Spektor cipher machine. SMERSH's real objective: use Tatiana as bait to lure Bond out of England, have Grant kill him in the Simplon Tunnel and stage it as a murder-suicide, destroying Bond's reputation and the standing of the British Secret Service, while the booby-trapped Spektor kills the British cipher experts who take it apart.",
+    "investigation_en": "M and the heads of section meet and can find no explanation for the Russian move, so they decide to take the gamble; in Istanbul Bond and Kerim test Tatiana's story - the ferry rendezvous, the periscope view into the Russian Centre, questioning Tatiana on the train; Kerim removes two of the M.G.B. men from the train; in Belgrade Bond asks M for instructions and decides to play the journey out; at Trieste he mistakes Grant for M's reinforcement and hands him his gun.",
+    "key_clues_en": [
+      "Tatiana will only travel by the Orient Express, never by air, insisting on a four-day train journey.",
+      "Three M.G.B. men are travelling on the same train, Benz in compartment 6 next door to Bond.",
+      "Tatiana will not speak the name of SMERSH, saying she will tell Bond everything once they reach London.",
+      "A camera is hidden behind the false mirror over the bed in the No. 12 honeymoon suite.",
+      "The name 'Nash' means 'ours' in Russian.",
+      "Kerim is attacked twice and the gipsy camp is raided, yet Bond is expressly not to be harmed.",
+      "Grant knows the password of the month and is aware of M's reinforcement arrangements."
+    ],
+    "outcome_en": "Bond kills Grant in the Simplon Tunnel, gets off at Dijon with Tatiana and the Spektor, and reaches Paris, where Tatiana is put up at the British Embassy and the Spektor is handed to the Deuxieme Bureau's bomb-disposal squad; Bond overpowers Klebb in Room 204 of the Ritz Hotel but is scratched on the right calf by the poisoned blade in her shoe, collapses from the poison, and the book ends there, his fate unresolved; Kerim and Benz die together on the train, Goldfarb and the man with boils are thrown off and their fate is unknown, and the Soviet office in Istanbul is destroyed by Kerim's tunnel bomb."
+  },
+  "adaptation_differences_en": [
+    "The film differences for this novel were not checked: this task read the novel only and did not compare the text with the 1963 film item by item, so no film differences are stated."
+  ]
 }

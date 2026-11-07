@@ -6,42 +6,50 @@
     {
       "note": "第1章邦德亲口报出Admiral Sir Miles Messervy，与此前记录一致；第3章Blades侍者亦称其Sir Miles",
       "status": "canon",
-      "topic": "M全名"
+      "topic": "M全名",
+      "note_en": "In Chapter 1 Bond himself gives the name Admiral Sir Miles Messervy, matching earlier records; in Chapter 3 a waiter at Blades also calls him Sir Miles."
     },
     {
       "note": "经grep核对：字符串Scaramanga在原文中出现152次；短语golden gun出现11次；此前记录的152次应指人名出现次数，非金枪出现次数",
       "status": "canon",
-      "topic": "“152次”"
+      "topic": "“152次”",
+      "note_en": "Checked by grep: the string 'Scaramanga' occurs 152 times in the source text, and the phrase 'golden gun' 11 times; the earlier figure of 152 refers to occurrences of the name, not of the gun."
     },
     {
       "note": "依据：第4章《Gleaner》称戴高乐“刚刚”宣布承认红色中国（史实为1964年1月27日），拍卖广告为5月27日星期三（1964年5月27日确为星期三），且飓风Flora为1963年9月至10月；小说出版于1965年，故事内时间当为1964年5月",
       "status": "inference",
-      "topic": "故事主线年份1964年5月"
+      "topic": "故事主线年份1964年5月",
+      "note_en": "Evidence: in Chapter 4 the Gleaner says de Gaulle has 'just' announced recognition of Red China (in fact 27 January 1964), the auction advertisement is dated Wednesday 27 May (27 May 1964 was indeed a Wednesday), and Hurricane Flora was September–October 1963; the novel was published in 1965, so the main action falls in May 1964."
     },
     {
       "note": "依据：第3章档案称098地区视察官被斯卡拉曼加双膝中弹致残退役；第15章邦德称Margesson被双膝与双肘中弹后逼其爬行吻靴。两人受害方式高度吻合，但原文未明言Margesson即098，故标inference",
       "status": "inference",
-      "topic": "Margesson即档案编号098"
+      "topic": "Margesson即档案编号098",
+      "note_en": "Evidence: the Chapter 3 file says area inspection officer 098 was crippled by bullets in both knees and retired; in Chapter 15 Bond says Margesson was shot through both knees and both elbows and made to crawl and kiss Scaramanga's boots. The two accounts match closely, but the novel never states that Margesson is 098, so this is marked inference."
     },
     {
       "note": "第15章斯卡拉曼加自称邦德将是第50个；此为其自述，未经第三方核实，事实条中如实记录为自称",
       "status": "canon",
-      "topic": "斯卡拉曼加杀人总数49人"
+      "topic": "斯卡拉曼加杀人总数49人",
+      "note_en": "In Chapter 15 Scaramanga says himself that Bond will be his fiftieth victim; this is his own claim, not verified by any third party, and the fact entries record it as a self-claim."
     },
     {
       "note": "第14章写明火车坠河时三人仍在车上；第16章司法调查称其余人员因莱特炸桥丧生，邦德与莱特当庭确认调查结论属实",
       "status": "canon",
-      "topic": "Binion、Garfinkel、Paradise死于火车坠河"
+      "topic": "Binion、Garfinkel、Paradise死于火车坠河",
+      "note_en": "Chapter 14 states that the three were still on the train when it plunged into the river; Chapter 16's judicial inquiry says the others died because Leiter blew the bridge, and Bond and Leiter confirm the inquiry's findings in court."
     },
     {
       "note": "依据：第11章邦德称母亲在伦敦医院摔伤是为蒙混斯卡拉曼加而编造的说辞；第17章邦德自述为苏格兰乡下人且无家庭牵挂，结合其以母亲住院为借口的虚构性，推断母亲已不在世，但原文未明言，故标inference",
       "status": "inference",
-      "topic": "邦德母亲已去世"
+      "topic": "邦德母亲已去世",
+      "note_en": "Evidence: in Chapter 11 Bond says his mother fell and was injured in a London hospital as a cover story invented to deceive Scaramanga; in Chapter 17 Bond calls himself a Scottish peasant with no family ties. Combined with the invented nature of the hospital story, this suggests his mother is no longer alive, but the novel never says so outright, so this is marked inference."
     },
     {
       "note": "Q本人未出场；第4章邦德仅调侃一句“I can just see Q Branch dreaming it up”，指Q部门而非Q本人，故人物表未列Q",
       "status": "canon",
-      "topic": "Q在本部中是否出场"
+      "topic": "Q在本部中是否出场",
+      "note_en": "Q himself does not appear; in Chapter 4 Bond only jokes 'I can just see Q Branch dreaming it up', referring to Q Branch, not to Q, so Q is not listed among the characters."
     }
   ],
   "chapters": [
@@ -49,103 +57,120 @@
       "no": 1,
       "start_line": 1,
       "summary": "失踪约一年、已被报纸宣布死亡的邦德回到伦敦，从丽兹酒店打电话到国防部联络处自称007，要求见M。他报出M全名Admiral Sir Miles Messervy、M办公室旧房间号与钱彭妮，并答对双面间谍Maria Freudenstadt之死，获准去Kensington Cloisters44号接受“Soft Man”汤森少校甄别。安检发现他右衣袋藏有一支无枪托的古怪手枪，他神情呆滞、对自己惯用的Morland特制香烟毫无反应。",
-      "title": "Can I Help You?"
+      "title": "Can I Help You?",
+      "summary_en": "After about a year missing — his death already announced in the press — James Bond returns to London and telephones the Ministry of Defence from the Ritz, asking to see M. He names M as Admiral Sir Miles Messervy, gives his old office room number and Moneypenny, and correctly answers the test question about the death of the double agent Maria Freudenstadt, and is sent to No. 44 Kensington Cloisters to be vetted by the 'Soft Man', Major Townsend. A fluoroscope finds a strange buttless pistol in his right coat pocket; he seems dazed and shows no reaction to his usual Morland Special cigarettes."
     },
     {
       "no": 2,
       "start_line": 56,
       "summary": "参谋长比尔·坦纳力劝M不要亲自见邦德，但M坚持听取汇报。邦德自述在日本任务中头部受伤失忆，在符拉迪沃斯托克被警察捡到后转交克格勃，在列宁格勒Nevsky Prospekt的研究所接受“治疗”并被说服为和平效力。随后他掏出氰化物喷射手枪企图刺杀M，M按下椅下按钮放下防弹玻璃挡住毒液，邦德随即昏倒。M下令不追究、送邦德去The Park接受James Molony爵士治疗，并决定康复后派他去对付斯卡拉曼加。",
-      "title": "Attentat!"
+      "title": "Attentat!",
+      "summary_en": "Chief of Staff Bill Tanner urges M not to see Bond in person, but M insists on hearing his report. Bond says he was wounded in the head in Japan, lost his memory, was picked up by police in Vladivostok and handed to the KGB, and was 'treated' at an institute on the Nevsky Prospekt in Leningrad, where he was persuaded to work for peace. He then draws a cyanide-spraying pistol and tries to kill M; M drops the armour-plate glass shield from the ceiling, the poison splashes harmlessly, and Bond collapses. M orders no charges: Bond is to be treated by Sir James Molony at The Park and, once cured, sent after Scaramanga."
     },
     {
       "no": 3,
       "start_line": 96,
       "summary": "M在Blades俱乐部午餐后回办公室阅读斯卡拉曼加的绝密档案：自由职业杀手，受古巴DSS控制、为克格勃效力，自1959年起杀害多名特工；武器为镀金长枪管单动式Colt.45，子弹为24克拉金芯包银、尖端十字切割的达姆弹；约35岁、身高6英尺3英寸、左乳下两英寸处有第三个乳头；出身加泰罗尼亚马戏团家庭，16岁因大象Max在Trieste发狂被警察击毙、他开枪打死警察后逃往美国，后为拉斯维加斯Spangled Mob当枪手，1958年决斗杀死Ramon Rodriguez后逃往加勒比海，1959年定居哈瓦那成为DSS的“执法者”。C.C.教授的评注认为他是恋枪癖与偏执狂，M批示Action并怀疑自己是否签了邦德的死亡令。",
-      "title": "\"Pistols\" Scaramanga"
+      "title": "\"Pistols\" Scaramanga",
+      "summary_en": "After lunch at Blades, M reads Scaramanga's Top Secret file in his office: a freelance killer controlled by the Cuban D.S.S. and working for the KGB, responsible for the murder of several agents since 1959. His weapon is a gold-plated, long-barrelled, single-action Colt .45 firing home-made dum-dum bullets with 24-carat gold cores jacketed in silver and cross-cut at the tip. He is about 35, six feet three inches tall, with a third nipple two inches below his left breast. Born to a Catalan circus family, he shot a policeman at sixteen in Trieste after the police killed his elephant Max, fled to America, worked as a gunman for the Spangled Mob in Las Vegas, killed Ramon Rodriguez in a duel in 1958, and settled in Havana in 1959 as the D.S.S.'s 'enforcer'. C.C.'s commentary diagnoses gun fetishism and paranoia; M minutes the file 'Action' and wonders whether he has just signed Bond's death warrant."
     },
     {
       "no": 4,
       "start_line": 135,
       "summary": "邦德在金斯敦机场转机去哈瓦那，在《Gleaner》报上看到3-1/2 Love Lane将于5月27日星期三拍卖的广告，又在留言架上发现一张写给“Scaramanga”的BWIA电报：“样品将于明午起在3-1/2 S.L.M.备妥”。他取消去哈瓦那的机票，联系J站：负责人罗斯指挥官失踪，助手竟是旧秘书玛丽·古德奈特。邦德回忆在The Park接受24次电休克治疗后恢复对克格勃的仇恨，并在Maidstone警局靶场练枪。两人在Morgan's Harbour共进晚餐，古德奈特告知Frome糖厂负责人Tony Hugill、甘蔗纵火与食糖期货博弈的背景，并透露3-1/2 Love Lane是萨凡纳拉马一家著名妓院。",
-      "title": "The Stars Foretell"
+      "title": "The Stars Foretell",
+      "summary_en": "Changing planes at Kingston airport on his way to Havana, Bond reads in the Gleaner that No. 3-1/2 Love Lane, Savannah La Mar, is to be auctioned on Wednesday, 27 May, and finds a BWIA telegram addressed to 'Scaramanga' on the message rack: 'The samples will be available at 3-1/2 S.L.M. as from midday tomorrow.' He cancels his Havana flight and contacts Station J: its head, Commander Ross, is missing, and his assistant turns out to be Bond's former secretary, Mary Goodnight. Bond recalls the twenty-four electroshock treatments at The Park that restored his hatred of the KGB, and his target practice at the Maidstone police range. Over dinner at Morgan's Harbour, Goodnight briefs him on Tony Hugill of the Frome sugar estate, cane-burning and the sugar-futures game, and tells him that 3-1/2 Love Lane is a well-known brothel in Savannah La Mar."
     },
     {
       "no": 5,
       "start_line": 208,
       "summary": "邦德驱车120英里到萨凡纳拉马，走进Love Lane3-1/2号的Dreamland咖啡馆兼妓院，结识女经理Tiffy（本名Artificial，母亲以花名给六个女儿取名，轮到她时想不出花名便叫Artificial）。傍晚斯卡拉曼加从楼上下来，为炫耀枪法用金枪当场射杀Tiffy的两只宠物鸟Joe和May。邦德以“Mark Hazard、Transworld Consortium保险调查员”的身份与他周旋，斯卡拉曼加起疑但未识破。",
-      "title": "No. 3-1/2 Love Lane"
+      "title": "No. 3-1/2 Love Lane",
+      "summary_en": "Bond drives 120 miles to Savannah La Mar and enters the Dreamland café and brothel at No. 3-1/2 Love Lane, where he meets the manageress, Tiffy — real name Artificial, so called because her mother, having named her six daughters after flowers, could think of no flower for her. In the evening Scaramanga comes downstairs and, to show off his marksmanship, shoots dead Tiffy's two pet birds, Joe and May, with the golden gun. Bond, posing as 'Mark Hazard, insurance investigator for the Transworld Consortium', fences with him; Scaramanga is suspicious but does not see through the cover."
     },
     {
       "no": 6,
       "start_line": 265,
       "summary": "邦德激将斯卡拉曼加，斯卡拉曼加为1000美元雇他当保镖，负责在Negril附近Bloody Bay新建的Thunderbird酒店股东会议期间守门防窃听。Tiffy悄悄告诉邦德：斯卡拉曼加的手提箱里有一名Rasta今早留下的价值1000英镑的大麻。邦德坐斯卡拉曼加的红色Thunderbird敞篷车前往酒店，途中一度想从背后开枪，但因好奇心与不愿冷血杀人而作罢。",
-      "title": "The Easy Grand"
+      "title": "The Easy Grand",
+      "summary_en": "Bond needles Scaramanga, who hires him for a thousand dollars as bodyguard for the shareholders' meeting at the new Thunderbird Hotel near Negril at Bloody Bay, to guard the door against eavesdropping. Tiffy quietly tells Bond that Scaramanga's suitcase holds a thousand pounds' worth of ganja left that morning by a Rasta. Bond rides to the hotel in Scaramanga's red Thunderbird convertible and, on the way, is tempted to shoot him in the back of the head, but holds off — curiosity, and a dislike of cold-blooded murder."
     },
     {
       "no": 7,
       "start_line": 321,
       "summary": "Thunderbird酒店外表堂皇实为半拉子工程：东翼还是板条灰泥，餐厅与夜总会只是仓促搭成的布景。邦德住24号房，斯卡拉曼加住对面20号房；邦德发现房内电话被装了窃听器。次日清晨他看见斯卡拉曼加在蹦床上锻炼，第三个乳头清晰可见。斯卡拉曼加带他看会议室（圆桌与七把椅子），坦言会议室的窃听器是自己装的，并介绍六名股东：Hendriks（荷兰人，代表欧洲资金）、Sam Binion（底特律）、Leroy Gengerella（迈阿密）、Ruby Rotkopf（拉斯维加斯酒店业）、Hal Garfinkel（芝加哥，工会资金）、Louis Paradise（凤凰城，老虎机业）。",
-      "title": "Un-real Estate"
+      "title": "Un-real Estate",
+      "summary_en": "The Thunderbird Hotel looks grand by night but is a half-finished shell in daylight: the east wing is still lath and plaster, and the restaurant and nightclub are hastily dressed stage sets. Bond is given Room 24, opposite Scaramanga's Room 20; he finds a microphone hidden in his telephone. Next morning he watches Scaramanga exercising on a trampoline, the third nipple plainly visible. Scaramanga shows him the conference room — a round table and seven chairs — admits the bug there is his own, and introduces the six shareholders: Hendriks (a Dutchman, representing European money), Sam Binion (Detroit), Leroy Gengerella (Miami), Ruby Rotkopf (Las Vegas hotels), Hal Garfinkel (Chicago, union money) and Louis Paradise (Phoenix, slot machines)."
     },
     {
       "no": 8,
       "start_line": 355,
       "summary": "六名股东陆续抵达，邦德一一记录外貌特征；Hendriks对斯卡拉曼加发号施令的姿态引起邦德注意，判断其背后是“机器”（克格勃或黑手党）。午餐时股东们抱怨酒店工程烂尾、第二抵押贷款将耗尽。邦德发现自己房间上午被人专业搜查过（剃须刀柄上的刻痕移位一毫米）。经理把邦德叫进办公室：自称Travis的助理经理竟是老友费利克斯·莱特，右手为钢钩，名义上是Morgan Guaranty Trust借调来的临时会计。",
-      "title": "Pass the Canapes!"
+      "title": "Pass the Canapes!",
+      "summary_en": "The six shareholders arrive, and Bond notes down each man's appearance; Hendriks's peremptory manner towards Scaramanga catches his eye, and Bond guesses that behind him stands 'the Machine' — the KGB or the Mafia. At lunch the shareholders complain about the unfinished hotel and the second mortgage that is running out. Bond finds his room has been professionally searched that morning — the nick on his razor handle has moved a millimetre from the maker's 'Z'. The manager summons him to the office: the assistant manager who calls himself Travis is his old friend Felix Leiter, his right hand a steel hook, ostensibly a temporary accountant on loan from Morgan Guaranty Trust."
     },
     {
       "no": 9,
       "start_line": 409,
       "summary": "邦德在会议室门外用香槟酒杯贴门偷听。Hendriks警告说有一名叫James Bond的英国特工正在这一带找斯卡拉曼加；斯卡拉曼加炫耀自己十天前刚处决了前来追踪他的罗斯指挥官，尸体沉入特立尼达东部La Brea的沥青湖。会议核心是食糖阴谋：The Group的六艘满载原糖的船停在美国港口外等待7月期货再涨10美分，并以Rastafari纵火破坏牙买加与特立尼达甘蔗田抬价。随后斯卡拉曼加为逼股东认购1000万美元、年息10%的优先票据，当场开枪打死拒绝的Ruby Rotkopf，尸体拟喂鳄鱼，并扬言周末结束后也要除掉邦德。莱特与中情局特工Nick Nicholson（化名Stanley Jones，酒店经理）早已分流窃听线路全程录音。",
-      "title": "Minutes of the Meeting"
+      "title": "Minutes of the Meeting",
+      "summary_en": "Bond listens at the conference-room door with a champagne glass pressed against it. Hendriks warns that a British agent named James Bond is in the area looking for Scaramanga; Scaramanga boasts that ten days ago he disposed of Commander Ross, who had been tracking him, sinking the body in the La Brea pitch lake in eastern Trinidad. The heart of the meeting is the sugar plot: six of The Group's ships, loaded with raw sugar, are riding at anchor outside American ports, waiting for July futures to rise another ten cents, while Rastafari arsonists burn the cane fields of Jamaica and Trinidad to push the price up. When Ruby Rotkopf refuses to subscribe to a ten-million-dollar, ten-percent preference note issue, Scaramanga shoots him dead on the spot — the body to be fed to the crocodiles — and threatens to dispose of Bond too after the weekend. Leiter and the CIA man Nick Nicholson (posing as the hotel manager, Stanley Jones) have bled off the bug's circuit and taped the whole meeting."
     },
     {
       "no": 10,
       "start_line": 446,
       "summary": "晚宴后邦德在歌舞表演上逞能：借斯卡拉曼加的金枪一枪打落女歌手头顶的假菠萝，赢得满堂喝彩，也暴露了自己的枪法。午夜后古德奈特从窗户爬进邦德房间，带来总部Triple-X急电：克格勃高层Hendriks正在这一带，任务是找到并杀死邦德。她话未说完，斯卡拉曼加的声音从床尾黑暗中响起。",
-      "title": "Belly-Lick, etc."
+      "title": "Belly-Lick, etc.",
+      "summary_en": "After dinner Bond shows off at the cabaret: borrowing Scaramanga's golden gun, he shoots the false pineapple off the singer's head with a single shot, winning applause — and betraying his marksmanship. After midnight Mary Goodnight climbs in through his window with a Most Immediate Triple-X signal from Headquarters: Hendriks of the KGB is in the area, and his job is to find and kill Bond. Before she can finish, Scaramanga's voice sounds from the darkness at the foot of the bed."
     },
     {
       "no": 11,
       "start_line": 481,
       "summary": "斯卡拉曼加通过衣柜背后的暗门潜入邦德房间。邦德与古德奈特编造未婚夫妻探望的说辞蒙混过关，斯卡拉曼加放古德奈特从窗户离开，但明言怀疑“Mark Hazard”就是James Bond。次日清晨邦德趁斯卡拉曼加锻炼时潜入20号房，取出其金枪弹膛中下一发待击子弹。Hendriks在大堂打一通俄语长途电话后神色大变；莱特在男厕告诉邦德：莫斯科已下令除掉他，Semichastny亲自盯着此事。邦德决定不逃走，莱特则去Frome找Hugill取装备，准备在当天下午的火车出游中动手。",
-      "title": "Ballcock, and Other, Trouble"
+      "title": "Ballcock, and Other, Trouble",
+      "summary_en": "Scaramanga has slipped into Bond's room through a secret door — the whole back of the wardrobe. Bond and Goodnight improvise a story about being an engaged couple, she visiting because his mother has had a fall in a London hospital; Scaramanga lets her leave by the window but says plainly that he suspects 'Mark Hazard' is James Bond. Next morning, while Scaramanga exercises, Bond slips into Room 20 and removes the next round to come up in the golden gun's cylinder. Hendriks makes a long-distance call in Russian from the lobby and comes away looking shaken; in the men's room Leiter tells Bond that Moscow has ordered his death, with Semichastny himself watching the matter. Bond decides not to run; Leiter goes to Frome to collect equipment from Hugill, ready to act during that afternoon's train excursion."
     },
     {
       "no": 12,
       "start_line": 521,
       "summary": "邦德再次贴门偷听斯卡拉曼加与Hendriks的单独会谈。Hendriks确认邦德身份的依据是游泳时看到的体表伤疤与右脸疤痕，并质问斯卡拉曼加为何把特工带进The Group核心。两人还谈及“Plan Orange”（在Reynolds Metal、Kaiser Bauxite与Alumina of Jamaica的铝土矿设施中埋设炸药，每五年更换一次）、向Pedro Cays运送上百磅大麻（克格勃出资100万美元，斯卡拉曼加抽10%佣金）、以每人10万美元贿赂牙买加官员推动赌场合法化，以及物色墨西哥的Arosio先生为新的七号股东。斯卡拉曼加定于当天下午火车出游时杀死邦德。",
-      "title": "In a Glass, Very Darkly"
+      "title": "In a Glass, Very Darkly",
+      "summary_en": "Bond eavesdrops again on a private talk between Scaramanga and Hendriks. Hendriks says Bond's identity is confirmed by the scars on his body and the scar down the right side of his face, seen through field glasses while Bond was swimming, and demands to know why Scaramanga brought an agent into the heart of The Group. They also discuss 'Plan Orange' — explosives planted in the bauxite plants of Reynolds Metal, Kaiser Bauxite and Alumina of Jamaica, to be replaced every five years — a KGB plan to ship hundreds of pounds of ganja via the Pedro Cays (a million dollars' initial outlay, Scaramanga to take ten percent), bribing Jamaican officials with a hundred thousand dollars a head to legalise casinos, and finding a Mr Arosio of Mexico as a new seventh shareholder. Scaramanga fixes that afternoon's train trip as the time to kill Bond."
     },
     {
       "no": 13,
       "start_line": 552,
       "summary": "一行人乘车到Thunderbird Halt车站，登上仿Denver、South Park and Pacific窄轨机车复制的小火车“Belle”1号机车，沿三英尺轨距的甘蔗田线路驶往Green Island Harbour。斯卡拉曼加坐镇尾部刹车车，邦德被安排在机车上与Rastafari司机同处，Hendriks坐在煤水车后第一排。斯卡拉曼加朝天鸣枪试枪（邦德取走的那发子弹未被察觉）、射杀一只兀鹫，又朝邦德头顶开枪恐吓。前方铁轨上出现一具被绑的金发裸体女尸——斯卡拉曼加宣称那就是玛丽·古德奈特。",
-      "title": "Hear the Train Blow!"
+      "title": "Hear the Train Blow!",
+      "summary_en": "The party drives to Thunderbird Halt station and boards the little train — a replica of a Denver, South Park and Pacific narrow-gauge locomotive, No. 1, the 'Belle' — running on three-foot track through the cane fields to Green Island Harbour. Scaramanga rides in the brake van at the rear, Bond is put on the locomotive with the Rastafari driver, and Hendriks sits in the first row behind the tender. Scaramanga test-fires his gun into the air (not noticing the round Bond removed), shoots a vulture, and fires over Bond's head to frighten him. Ahead on the rails lies the naked body of a blonde woman, bound — Scaramanga claims it is Mary Goodnight."
     },
     {
       "no": 14,
       "start_line": 591,
       "summary": "邦德为救人抢夺机车控制权，开枪打死拔枪的Hendriks（子弹正中两眼之间），Rastafari司机被斯卡拉曼加的子弹击中喉咙身亡，邦德左肩中弹。火车碾过“女尸”才发现那是塑料人体模型——莱特按斯卡拉曼加命令布置的道具。莱特一直藏在刹车车后，开枪打死Gengerella并缴了其余三名股东的枪。邦德跳车落入大沼泽，莱特跳车时摔断左腿，斯卡拉曼加带伤跳车逃走；无人驾驶的火车在Orange River桥上触动莱特事先埋设的炸药，桥断车毁，Binion、Garfinkel与Paradise随车坠河身亡。邦德留下莱特后独自追踪斯卡拉曼加。",
-      "title": "The Great Morass"
+      "title": "The Great Morass",
+      "summary_en": "To save the woman, Bond seizes control of the locomotive, shooting Hendriks dead — a bullet between the eyes — as he draws his gun; the Rastafari driver is killed by a shot from Scaramanga through the throat, and Bond is hit in the left shoulder. The train runs over the 'body', which turns out to be a plastic dummy — a prop Leiter had set up on Scaramanga's orders. Leiter, who has been riding hidden behind the brake van, shoots Gengerella dead and disarms the other three shareholders. Bond jumps from the train into the Great Morass; Leiter breaks his left leg jumping; Scaramanga, wounded, jumps clear and escapes. The driverless train runs onto the Orange River bridge, where it sets off the explosives Leiter planted that morning; the bridge collapses and Binion, Garfinkel and Paradise plunge into the river and drown. Bond leaves Leiter and sets off alone after Scaramanga."
     },
     {
       "no": 15,
       "start_line": 621,
       "summary": "邦德在沼泽空地找到重伤的斯卡拉曼加：右胸中弹、衬衫血透，但他仍用靴筒里的细刃匕首精准刺死一条五英尺长的Epicrates属蟒蛇，生吃蛇肉补充体力。邦德缴了他的匕首后与之对谈：斯卡拉曼加自称一生已杀49人、邦德将是第50个，并先后开价100万美元、600万美元买命，邦德拒绝。斯卡拉曼加以天主教徒临终祈祷为名求一分钟，趁邦德松懈从脑后掏出藏着的微型金色Derringer开枪，毒弹击中邦德右腹；邦德倒地后连开五枪，斯卡拉曼加心脏中弹身亡。",
-      "title": "Crab-meat"
+      "title": "Crab-meat",
+      "summary_en": "In a clearing in the morass Bond finds the badly wounded Scaramanga — shot through the right chest, his shirt soaked with blood — who nevertheless kills a five-foot Epicrates boa with a slim stiletto from his boot and eats the snake raw to regain his strength. Bond takes the knife and talks with him: Scaramanga claims forty-nine kills, with Bond to be his fiftieth, and offers a million dollars, then six million, for his life; Bond refuses. Asking for a minute to say a Catholic's dying prayer, Scaramanga pulls a miniature golden Derringer hidden behind his head and fires; the poisoned bullet hits Bond in the right side of the abdomen. As he falls, Bond fires five shots; one strikes Scaramanga through the heart and kills him."
     },
     {
       "no": 16,
       "start_line": 663,
       "summary": "Negril警员Percival Sampson最先赶到现场，发现两具尸体。邦德昏迷一周后在金斯敦医院苏醒：子弹涂有足以毒死一匹马的蛇毒，幸得萨凡纳拉马的Lister Smith医生及时注射大剂量抗蛇毒血清才保住性命，子弹未伤及内脏与肾脏。十天后，警察总监、最高法院法官Morris Cargill、华盛顿来的Bannister上校与伦敦派来的C站负责人Alec Hill在病床边举行司法调查，官方口径称行动全程受牙买加刑事调查局指挥，并授予邦德、莱特与Nicholson牙买加警察奖章。莱特小腿复合骨折，十天后可拄拐行走。",
-      "title": "The Wrapup"
+      "title": "The Wrapup",
+      "summary_en": "Negril constable Percival Sampson is first on the scene and finds the two bodies. Bond wakes in Kingston hospital after a week unconscious: the bullet was coated with enough snake venom to kill a horse, and only a large, prompt dose of antivenin from Dr Lister Smith of Savannah La Mar saved his life; no vital organ or kidney was hit. Ten days later the Commissioner of Police, Supreme Court Justice Morris Cargill, Colonel Bannister from Washington and Alec Hill, the new head of Station C from London, hold a judicial inquiry at his bedside; the official version puts the whole operation under the Jamaican Criminal Investigation Department, and Bond, Leiter and Nicholson are awarded the Jamaica Police Medal. Leiter has a compound fracture of the lower leg and will be on crutches in ten days."
     },
     {
       "no": 17,
       "start_line": 698,
       "summary": "又一周后，古德奈特带来M的Eyes Only亲电：M称赞邦德出色完成艰难危险的行动、完全恢复名誉，并转达首相提议：女王拟授予邦德KCMG爵士爵位（电文以“KATIE加于CHARLIE MICHAEL GEORGE之前”表述）。邦德以苏格兰乡下人、珍视隐私与匿名、不愿被称为Sir James Bond为由谢绝爵位。古德奈特邀请他到Mona Dam附近的别墅休养三周，邦德接受；小说结尾点明：来自任何女人的爱对邦德都不够，同一个风景总会看厌。",
-      "title": "Endit"
+      "title": "Endit",
+      "summary_en": "A week later Goodnight brings M's Eyes Only personal signal, decoded on the Triple-X machine: M praises Bond for a difficult and dangerous operation carried out to his entire satisfaction, restoring his good name, and passes on the Prime Minister's proposal that the Queen grant Bond a knighthood, a KCMG — rendered in the signal as 'KATIE before CHARLIE MICHAEL GEORGE'. Bond declines, calling himself a Scottish peasant who treasures his privacy and anonymity and refuses to be Sir James Bond. Goodnight invites him to convalesce for three weeks at her villa near Mona Dam, and he accepts; the novel closes on the thought that no woman's love is ever enough for Bond, and that the same view always palls."
     }
   ],
   "characters": [
@@ -187,7 +212,13 @@
           "with": "scaramanga"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Major character",
+      "appearance_en": "Grey-blue eyes, a scar down the right side of his face, and scars over his body; lean, with a tanned face; after his recovery his eyes regain their old sharpness.",
+      "age_clues_en": "The novel gives no exact age; he calls himself a Scottish peasant, already holds the CMG, and is a Commander in the Special Branch of the R.N.V.R.",
+      "personality_en": "Stubborn, intensely curious, dislikes cold-blooded killing but carries out his orders once given; his hatred of the KGB burns again after treatment; he guards his privacy and anonymity.",
+      "habits_en": "Smokes Morland Special cigarettes (three gold rings), about twenty-five a day; drinks Walker's deluxe bourbon and pink gin; uses a Hoffritz safety razor; sleeps with his Walther PPK under his pillow.",
+      "background_en": "Agent of the Secret Service's Double-O Section; wounded in the head and brainwashed by the KGB during a mission in Japan, missing for about a year before being sent home to assassinate M, then cured by electroshock treatment; he has a flat in Chelsea, where his housekeeper is the Scotswoman May; his mother is dead (in Chapter 11 Bond lies that she has had a fall in a London hospital)."
     },
     {
       "age_clues": "档案记约35岁；16岁离家赴美，1958年决斗时约28岁",
@@ -224,7 +255,13 @@
           "with": "tiffy"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Major character",
+      "appearance_en": "About 35, six feet three inches tall, lean and fit; light brown eyes, reddish crew-cut hair, long sideburns, gaunt sombre face, thin brown pencil moustache, ears very flat to the head; a third nipple two inches below his left breast; very large, powerful hands with immaculate nails; ambidextrous.",
+      "age_clues_en": "The file puts him at about 35; he left home at sixteen and was about 28 at the time of the 1958 duel.",
+      "personality_en": "Cold-blooded, vain, superstitious about the link between his shooting and his sexual potency, believing intercourse before a killing improves his eye; conceited, quick-tempered, fond of showing off; even when badly wounded and dying he stays cool and cunning, luring his enemy with a pretended prayer.",
+      "habits_en": "Invariably has intercourse with a woman before a killing; smokes slim cheroots, letting the smoke dribble out and inhaling it up his nostrils; twirls the golden gun on his forefinger to show off; wears a high white silk stock with a miniature gold pistol pin; does exercises on a trampoline.",
+      "background_en": "Son of Enrico Scaramanga, a Catalan circus manager; as a boy he was a trick shot, the bottom man of the human pyramid, and the mahout of the elephant Max; at sixteen, in Trieste, he shot dead the policeman who killed Max, fled to Naples and stowed away to America; he worked as a gunman for the Spangled Mob at the Tiara Hotel casino in Las Vegas, killed Ramon Rodriguez in a duel by moonlight on the third green of the Thunderbird golf course in 1958 and was paid $100,000, and settled in Havana in 1959 as an 'enforcer' for the D.S.S."
     },
     {
       "age_clues": "原文未给具体年龄；曾任邦德秘书三年",
@@ -250,7 +287,13 @@
           "with": "ross"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Major character",
+      "appearance_en": "Golden hair, wide-apart blue eyes, healthy colouring, an open smile; her tropical uniform is a pink-gin-coloured dress with a single string of pearls.",
+      "age_clues_en": "The novel gives no exact age; she was Bond's secretary for three years.",
+      "personality_en": "Straightforward, brave, quick-witted; she invents the fiancée story on the spot to save the situation; she does not smoke and rarely drinks.",
+      "habits_en": "Immaculately dressed even in the Kingston heat; handles the High Commissioner's cipher work as well as the flowers and place cards.",
+      "background_en": "Formerly Bond's secretary in the Double-O Section; after Bond went missing she was posted to Station J in Jamaica as assistant to the missing Commander Ross, effectively the station's number two; she has a villa near Mona Dam."
     },
     {
       "age_clues": "原文未给具体年龄；与邦德合作多年",
@@ -278,7 +321,13 @@
           "with": "nicholson"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Major character",
+      "appearance_en": "Tall and lean, with a bronzed Texan face and straight fair hair; his right hand is a steel hook.",
+      "age_clues_en": "The novel gives no exact age; he has worked with Bond for many years.",
+      "personality_en": "Humorous, loyal, unflappable in a crisis; a fine shot with his left hand.",
+      "habits_en": "Uses his steel hook as a rest for a long-barrelled pistol; works under FBI cover.",
+      "background_en": "American, now with Pinkerton's and on the CIA reserve; he lost his right hand on an earlier mission with Bond; here he works under cover as 'Travis', assistant manager of the Thunderbird Hotel, ostensibly a temporary accountant on loan from Morgan Guaranty Trust, in fact sent by the CIA to investigate The Group."
     },
     {
       "age_clues": "原文未给具体年龄",
@@ -304,7 +353,13 @@
           "with": "bond"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Major character",
+      "appearance_en": "Short and fat, pale-faced, square-jawed, with very pale blue eyes; usually wears a dark suit out of keeping with the climate and a grey Homburg hat.",
+      "age_clues_en": "The novel gives no exact age.",
+      "personality_en": "Taciturn, stiff, heavily bureaucratic; orders Scaramanga about as if he were a subordinate.",
+      "habits_en": "Speaks with a heavy Central European accent, saying 'pliss' and 'Sank you'; drinks Schweppes Bitter Lemon.",
+      "background_en": "Ostensibly a Dutchman living in The Hague, representing European (Swiss) money; in fact the KGB Resident Director for the Caribbean, based at The Hague and in charge of the Havana centre; sent to Jamaica by Moscow to supervise The Group and order Bond's death."
     },
     {
       "age_clues": "原文未给具体年龄；在Blades俱乐部喝“Infuriator”阿尔及利亚红酒十年如一日只喝半瓶",
@@ -334,7 +389,13 @@
           "with": "tanner"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Major character",
+      "appearance_en": "Iron-grey hair, with a bald patch polished by years of naval caps; clear blue sailor's eyes.",
+      "age_clues_en": "The novel gives no exact age; Porterfield at Blades has looked after him for ten years, always with the same half-carafe of Algerian red wine.",
+      "personality_en": "Cold, decisive, and loyal to his own; severe with Bond yet protective of him.",
+      "habits_en": "At Blades he eats grilled Dover sole and Stilton cheese; smokes a pipe; minutes in green ink; always pays with a five-pound note so as to receive crisp new change.",
+      "background_en": "Chief of the Secret Service; his predecessor was shot dead in the same office chair by a deranged officer, which is why the office is fitted with armour-plate glass concealed in the ceiling."
     },
     {
       "age_clues": "原文未给具体年龄",
@@ -362,7 +423,13 @@
           "with": "m"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "A good-looking girl with dark hair.",
+      "age_clues_en": "The novel gives no exact age.",
+      "personality_en": "Loyal and sharp; she is the first to sense that something is wrong with Bond.",
+      "habits_en": "Types the routine correspondence in M's outer office.",
+      "background_en": "M's secretary; still in her post while Bond was missing."
     },
     {
       "age_clues": "任二把手已十年以上",
@@ -391,7 +458,13 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "A tired, worried face.",
+      "age_clues_en": "He has been M's number two for more than ten years.",
+      "personality_en": "Cautious, loyal, and meticulously thorough in his work.",
+      "habits_en": "Has a listening switch in his office so he can hear what is said in M's room.",
+      "background_en": "Chief of Staff of the Secret Service (M's number two) and a friend of Bond's; with M he alone knows all the secrets and keeps the Top Secret record known as The War Book."
     },
     {
       "age_clues": null,
@@ -412,7 +485,10 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "personality_en": "A leading neurologist, soft-spoken in manner.",
+      "background_en": "A leading neurologist; at The Park in Kent he gave Bond electroshock treatment — twenty-four shocks in thirty days, more than the eighteen allowed under American law — and had an analyst explain to Bond how he had been brainwashed."
     },
     {
       "age_clues": null,
@@ -433,7 +509,10 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "personality_en": "Kind and patient, in charge of the brainwashing operation.",
+      "background_en": "A KGB colonel; after Bond's treatment at the Leningrad institute he was in charge of him for months, indoctrinating him with pacifism, describing in detail the British services' whole procedure for vetting visitors, and instructing him to stay at the Ritz and return home on a false Frank Westmacott passport to assassinate M."
     },
     {
       "age_clues": null,
@@ -459,7 +538,9 @@
           "with": "scaramanga"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "background_en": "Head of Station J in Jamaica; he went to Trinidad the previous week to track Scaramanga and vanished; the Station sent a Red Warning; in fact he was killed by Scaramanga ten days earlier and his body sunk in the La Brea pitch lake."
     },
     {
       "age_clues": null,
@@ -487,7 +568,11 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "A neat American, his face and suit equally immaculate.",
+      "personality_en": "An electronics expert, efficient in his work.",
+      "background_en": "A CIA man working as the Thunderbird Hotel's manager under the front name 'Stanley Jones'; he bled off Scaramanga's bug circuit to a tape recorder in his own filing cabinet and taped the whole shareholders' meeting."
     },
     {
       "age_clues": null,
@@ -515,7 +600,12 @@
           "with": "scaramanga"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "A pretty girl of one-eighth black blood, with large brown eyes slightly uptilted, silken black hair, coffee-and-cream skin, and slender wrists and ankles; her teeth are sharpened by chewing raw sugar cane.",
+      "personality_en": "Witty, kind-hearted, superstitious; devoted to her birds.",
+      "habits_en": "Keeps two Jamaican grackles, Joe and May, feeding them ginger cake every evening; wears a shocking-pink short frock.",
+      "background_en": "Manageress of the brothel and café at No. 3-1/2 Love Lane; her mother named her six daughters after flowers and, running out of flower names, called her Artificial, shortened at school to Tiffy; her employer is Cornelius Brown, whose wife Agatha, having become a Catholic, insists on selling the brothel to pay for a new church roof."
     },
     {
       "age_clues": null,
@@ -536,7 +626,10 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "personality_en": "Friendly and reliable.",
+      "background_en": "Head of the Frome sugar estate (WISCO); served in Naval Intelligence during the war, on commando work; he supplies Leiter with the materials for blowing the bridge."
     },
     {
       "age_clues": null,
@@ -557,7 +650,11 @@
           "with": "hendriks"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Of Italian origin, with a tight mouth and a mean expression.",
+      "personality_en": "Aggressive, chasing quick money and quick turnover.",
+      "background_en": "Owner of Gengerella Enterprises in Miami, a Mafia capo; the key link between the Mafia and the KGB within The Group; shot dead on the train by Leiter."
     },
     {
       "age_clues": null,
@@ -572,7 +669,10 @@
       "name_zh": "萨姆·比尼恩",
       "personality": null,
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Bat ears, a scar down the left cheek, and a limp.",
+      "background_en": "A Detroit real-estate man worth about twenty million dollars; a shareholder in The Group; he died when the train plunged into the Orange River."
     },
     {
       "age_clues": null,
@@ -593,7 +693,11 @@
           "with": "scaramanga"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Thick neck, totally bald.",
+      "personality_en": "Shrewd and tough, daring to stand up to Scaramanga face to face.",
+      "background_en": "A Las Vegas hotelier; a shareholder in The Group, holding the hotel's second mortgage; shot dead in the meeting room by Scaramanga for refusing to subscribe to the ten-million-dollar preference note issue, his body to be fed to the crocodiles."
     },
     {
       "age_clues": null,
@@ -608,7 +712,10 @@
       "name_zh": "哈尔·加芬克尔",
       "personality": null,
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "The toughest of the group, with bad teeth and a gun under his right armpit.",
+      "background_en": "A Chicago labour-relations man representing Teamster union money; a shareholder in The Group; he died when the train plunged into the river."
     },
     {
       "age_clues": null,
@@ -625,7 +732,11 @@
       "name_zh": "路易斯·帕拉戴斯",
       "personality": "好色、迷信，自称虔诚天主教徒而拒绝参与处理尸体",
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "A showman type, confident, with a false smile and a diamond ring.",
+      "personality_en": "Lecherous and superstitious; calls himself a devout Catholic and refuses to take part in disposing of a body.",
+      "background_en": "Owner of Paradise Slots in Phoenix, the biggest slot-machine man in America; a shareholder in The Group; he died when the train plunged into the river, after offering Bond a million dollars to save him."
     },
     {
       "age_clues": null,
@@ -648,7 +759,9 @@
           "with": "scaramanga"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "background_en": "A Secret Service area inspection officer (file number 098); Scaramanga shot him through both knees and both elbows, crippled him and made him crawl and kiss his boots, after which he retired; the file records the knee wounds, and Bond in Chapter 15 adds that the elbows were shot too (whether the two are the same man is marked inference in canon_vs_inference)."
     },
     {
       "age_clues": null,
@@ -665,7 +778,12 @@
       "name_zh": "汤森少校",
       "personality": "外表温和、眼神冷峻如枪管",
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Tall and friendly, with wide-apart pale-brown eyes, a military moustache, a rimless monocle on a thin black cord, brushed-back thinning sandy hair, and a double-breasted blue suit.",
+      "personality_en": "Gentle in manner, with eyes as cold and steady as gun barrels.",
+      "habits_en": "Smokes Senior Service cigarettes.",
+      "background_en": "The Secret Service's 'Soft Man' for vetting visitors, at Room B, No. 44 Kensington Cloisters; he tested Bond's identity with the Morland cigarettes and the death of Maria Freudenstadt."
     },
     {
       "age_clues": null,
@@ -680,7 +798,10 @@
       "name_zh": "沃克上尉",
       "personality": "前战俘审讯员，机敏老练",
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "personality_en": "A former prisoner-of-war interrogator, sharp and experienced.",
+      "background_en": "A Liaison Section officer at the Ministry of Defence; he took Bond's call, switched on the tape recorder, and alerted the Special Branch at Scotland Yard to trace the call and put a tail on the caller."
     },
     {
       "age_clues": null,
@@ -695,7 +816,9 @@
       "name_zh": "艾德娜妈妈",
       "personality": null,
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "background_en": "The leading obeah woman of the Orange Hill district; Tiffy swore to go to her to put a curse on Scaramanga."
     },
     {
       "age_clues": null,
@@ -710,7 +833,9 @@
       "name_zh": "利斯特·史密斯医生",
       "personality": null,
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "background_en": "A doctor in Savannah La Mar; after Bond was hit by the poisoned bullet he recognised the snake-venom symptoms and injected a large dose of antivenin, saving Bond's life."
     },
     {
       "age_clues": null,
@@ -725,7 +850,9 @@
       "name_zh": "珀西瓦尔·桑普森警员",
       "personality": null,
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "background_en": "A Negril policeman; first on the scene in the morass after the duel, he found Bond and Scaramanga's bodies (Bond unconscious) and blew his whistle to raise the alarm."
     },
     {
       "age_clues": null,
@@ -740,7 +867,9 @@
       "name_zh": "莫里斯·卡吉尔法官",
       "personality": null,
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "background_en": "A justice of the Supreme Court of Jamaica; he chaired the judicial inquiry held at Bond's bedside and declared it closed."
     },
     {
       "age_clues": null,
@@ -755,7 +884,11 @@
       "name_zh": "C.C.",
       "personality": "博学、好美食、判断常被M欣赏",
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "personality_en": "Learned, fond of good food, and his judgements are usually valued by M.",
+      "habits_en": "Takes long lunches at the Garrick Club.",
+      "background_en": "A former Regius Professor of History at Oxford, now a consultant at Headquarters; he wrote the long commentary on Scaramanga's file, tracing his homicidal bent to the circus elephant incident, diagnosing gun fetishism on Freudian lines, and recommending that Scaramanga be eliminated as soon as possible."
     },
     {
       "age_clues": null,
@@ -770,7 +903,9 @@
       "name_zh": "谢米恰斯内",
       "personality": null,
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "background_en": "Head of the KGB (M mentions 'Comrade Semichastny and his troops' in Chapter 2); the Russian telephone call Leiter overheard shows that he personally ordered Bond's death."
     },
     {
       "age_clues": null,
@@ -791,7 +926,10 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "personality_en": "Loyal, firmly convinced that Bond was still alive.",
+      "background_en": "The Scottish housekeeper of Bond's Chelsea flat; while Bond was missing she kept the flat going out of her own savings."
     },
     {
       "age_clues": null,
@@ -806,37 +944,46 @@
       "name_zh": "玛丽亚·弗洛伊登施塔特",
       "personality": null,
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "background_en": "A dead double agent who worked for the KGB's First Department; news of her death was Major Townsend's key test question in vetting Bond's identity."
     }
   ],
   "communications": [
     {
       "name": "电话与总机甄别",
-      "note": "邦德从丽兹酒店打国防部总机电话；联络处上尉沃克同时启动录音并通知苏格兰场特别支部追踪电话、派人跟踪"
+      "note": "邦德从丽兹酒店打国防部总机电话；联络处上尉沃克同时启动录音并通知苏格兰场特别支部追踪电话、派人跟踪",
+      "description_en": "Bond telephoned the Ministry of Defence switchboard from the Ritz; Liaison officer Captain Walker switched on the tape recorder and alerted the Special Branch to trace the call and put a tail on him."
     },
     {
       "name": "BWIA电报留言",
-      "note": "金斯敦机场留言架上写给Scaramanga的电报：“样品将于明午起在3-1/2 S.L.M.备妥”"
+      "note": "金斯敦机场留言架上写给Scaramanga的电报：“样品将于明午起在3-1/2 S.L.M.备妥”",
+      "description_en": "A telegram addressed to Scaramanga on the message rack at Kingston airport: 'The samples will be available at 3-1/2 S.L.M. as from midday tomorrow.'"
     },
     {
       "name": "Triple-X急电",
-      "note": "总部以Most Immediate Triple-X急电警告邦德：Hendriks奉命找到并杀死他；古德奈特连夜送达Thunderbird酒店"
+      "note": "总部以Most Immediate Triple-X急电警告邦德：Hendriks奉命找到并杀死他；古德奈特连夜送达Thunderbird酒店",
+      "description_en": "Headquarters warned Bond by Most Immediate Triple-X signal that Hendriks was ordered to find and kill him; Goodnight delivered it to the Thunderbird Hotel through the night."
     },
     {
       "name": "俄语长途电话",
-      "note": "Hendriks在大堂电话亭接哈瓦那打来的俄语长途电话，莫斯科直接下令确认邦德身份并除掉他"
+      "note": "Hendriks在大堂电话亭接哈瓦那打来的俄语长途电话，莫斯科直接下令确认邦德身份并除掉他",
+      "description_en": "Hendriks took a long-distance call in Russian from Havana in the hotel lobby; Moscow directly ordered Bond's identity confirmed and his death."
     },
     {
       "name": "窃听录音",
-      "note": "斯卡拉曼加的窃听器被Nicholson分流录音；会议录音带拟送往华盛顿"
+      "note": "斯卡拉曼加的窃听器被Nicholson分流录音；会议录音带拟送往华盛顿",
+      "description_en": "Scaramanga's bug was bled off by Nicholson to a tape recorder; the meeting tapes were to be sent to Washington."
     },
     {
       "name": "新闻通告与D notice",
-      "note": "M授意向Press Association发布邦德归国通告，并发D notice要求媒体不得揣测与追踪邦德下落"
+      "note": "M授意向Press Association发布邦德归国通告，并发D notice要求媒体不得揣测与追踪邦德下落",
+      "description_en": "M had the Press Association announce Bond's return and issued a D notice asking the press not to speculate or try to trace Bond's whereabouts."
     },
     {
       "name": "belinograph传真指纹",
-      "note": "符拉迪沃斯托克克格勃用belinograph把邦德指纹传往莫斯科比对"
+      "note": "符拉迪沃斯托克克格勃用belinograph把邦德指纹传往莫斯科比对",
+      "description_en": "The Vladivostok KGB belinographed Bond's fingerprints to Moscow for comparison."
     }
   ],
   "equipment": [
@@ -845,63 +992,72 @@
       "kind": "武器",
       "name_en": "Golden Gun",
       "name_zh": "金枪",
-      "note": "镀金长枪管单动式Colt.45左轮，斯卡拉曼加的标志性武器；子弹为自制：24克拉软金弹芯包银、尖端十字切割的达姆弹，追求最大杀伤；另有一支微型金色Derringer藏于脑后"
+      "note": "镀金长枪管单动式Colt.45左轮，斯卡拉曼加的标志性武器；子弹为自制：24克拉软金弹芯包银、尖端十字切割的达姆弹，追求最大杀伤；另有一支微型金色Derringer藏于脑后",
+      "description_en": "A gold-plated, long-barrelled, single-action Colt .45 revolver, Scaramanga's signature weapon; its bullets are home-made — soft 24-carat gold cores jacketed in silver and cross-cut at the tip on the dum-dum principle, for maximum wounding effect; he also has a miniature golden Derringer hidden behind his head."
     },
     {
       "id": "golden-derringer",
       "kind": "武器",
       "name_en": "Golden Derringer",
       "name_zh": "金色袖珍Derringer",
-      "note": "斯卡拉曼加藏于脑后（耳后）的微型金色手枪；第15章他假装祈祷时掏出此枪射中邦德右腹，子弹涂有蛇毒"
+      "note": "斯卡拉曼加藏于脑后（耳后）的微型金色手枪；第15章他假装祈祷时掏出此枪射中邦德右腹，子弹涂有蛇毒",
+      "description_en": "A miniature golden pistol Scaramanga kept hidden behind his head (behind his ear); in Chapter 15 he drew it while pretending to pray and shot Bond in the right abdomen with a poison-coated bullet."
     },
     {
       "id": "cyanide-pistol",
       "kind": "武器",
       "name_en": "Cyanide bulb-butted pistol",
       "name_zh": "氰化物球形枪托手枪",
-      "note": "克格勃给邦德的刺杀武器：短鼻、球形枪托、无正常枪托外形，喷出黏稠棕色氰化物液体；被M办公室天花板落下的防弹玻璃挡住，邦德吸入毒气昏倒"
+      "note": "克格勃给邦德的刺杀武器：短鼻、球形枪托、无正常枪托外形，喷出黏稠棕色氰化物液体；被M办公室天花板落下的防弹玻璃挡住，邦德吸入毒气昏倒",
+      "description_en": "The KGB's assassination weapon for Bond: short-nosed, with a bulb-shaped butt and no normal butt shape, spraying a viscous brown cyanide liquid; it was blocked by the armour-plate glass dropped from M's office ceiling, and Bond inhaled the fumes and collapsed."
     },
     {
       "id": "walther-ppk",
       "kind": "武器",
       "name_en": "Walther PPK",
       "name_zh": "瓦尔特PPK",
-      "note": "邦德的配枪，7.65毫米口径；第15章决斗中邦德以此枪五发击毙斯卡拉曼加"
+      "note": "邦德的配枪，7.65毫米口径；第15章决斗中邦德以此枪五发击毙斯卡拉曼加",
+      "description_en": "Bond's service pistol, 7.65 mm calibre; in Chapter 15 Bond killed Scaramanga with five shots from it."
     },
     {
       "id": "silver-greyhound",
       "kind": "证件与徽章",
       "name_en": "Silver Greyhound",
       "name_zh": "银灰狗徽章",
-      "note": "英国信使沿用三百年的徽章；邦德持外交护照以“Courier Bond”身份活动时的掩护标志"
+      "note": "英国信使沿用三百年的徽章；邦德持外交护照以“Courier Bond”身份活动时的掩护标志",
+      "description_en": "The British courier's emblem, used for three hundred years; Bond's cover mark while travelling on a diplomatic passport as 'Courier Bond'."
     },
     {
       "id": "triple-x-machine",
       "kind": "通讯设备",
       "name_en": "Triple-X deciphering machine",
       "name_zh": "Triple-X译码机",
-      "note": "形似打字机的密码机；第17章古德奈特用它译出M的Eyes Only亲电"
+      "note": "形似打字机的密码机；第17章古德奈特用它译出M的Eyes Only亲电",
+      "description_en": "A cipher machine shaped like a typewriter; in Chapter 17 Goodnight uses it to decode M's Eyes Only personal signal."
     },
     {
       "id": "bug-recorder",
       "kind": "窃听设备",
       "name_en": "Telephone bug and tape recorder",
       "name_zh": "电话窃听器与录音机",
-      "note": "斯卡拉曼加在邦德房内电话与会议室电话下装窃听器；Nicholson把线路分流到自己文件柜里的录音机，全程录下股东会议"
+      "note": "斯卡拉曼加在邦德房内电话与会议室电话下装窃听器；Nicholson把线路分流到自己文件柜里的录音机，全程录下股东会议",
+      "description_en": "Scaramanga planted telephone bugs in Bond's room and in the conference room; Nicholson bled off the circuit to a tape recorder in his own filing cabinet and taped the whole shareholders' meeting."
     },
     {
       "id": "hoffritz-razor",
       "kind": "间谍工具与日用品",
       "name_en": "Hoffritz safety razor",
       "name_zh": "Hoffritz安全剃须刀",
-      "note": "邦德的剃须刀，刀柄可藏微缩胶卷等小物；邦德以刀柄刻痕移位一毫米发现房间被人专业搜查"
+      "note": "邦德的剃须刀，刀柄可藏微缩胶卷等小物；邦德以刀柄刻痕移位一毫米发现房间被人专业搜查",
+      "description_en": "Bond's safety razor, its handle a hiding place for microfilm and other small items; Bond discovered his room had been professionally searched when the nick on the handle had moved a millimetre from the maker's 'Z'."
     },
     {
       "id": "armour-glass",
       "kind": "防护装置",
       "name_en": "Armour-plate glass shield",
       "name_zh": "防弹玻璃盾",
-      "note": "M办公室天花板暗藏的防弹玻璃，按钮在M座椅扶手下；挡住邦德的氰化物喷射，M的前任曾在同一张椅子上被枪杀"
+      "note": "M办公室天花板暗藏的防弹玻璃，按钮在M座椅扶手下；挡住邦德的氰化物喷射，M的前任曾在同一张椅子上被枪杀",
+      "description_en": "The armour-plate glass shield concealed in the ceiling of M's office, dropped by a button under M's chair arm; it blocked Bond's cyanide spray, and M's predecessor had been shot dead in the same chair."
     }
   ],
   "events": [
@@ -910,98 +1066,140 @@
       "chapter": 1,
       "effect": "通过联络处与汤森少校两道甄别获准见M，为第2章刺杀未遂埋下伏笔",
       "id": "bond-returns",
-      "title": "邦德回国报到"
+      "title": "邦德回国报到",
+      "title_en": "Bond Reports Back in London",
+      "cause_en": "After being wounded in the head in Japan, Bond lost his memory, was picked up by police in Vladivostok and brainwashed by the KGB, and was sent home to assassinate M.",
+      "effect_en": "He passes vetting by the Liaison Section and Major Townsend and is admitted to see M, setting up the assassination attempt in Chapter 2."
     },
     {
       "cause": "克格勃洗脑使邦德相信M是战争贩子、自己应为和平清除“头号”目标",
       "chapter": 2,
       "effect": "M以防弹玻璃挡住氰化物喷射；邦德昏倒后被送往The Park接受电休克治疗，M决定派他去对付斯卡拉曼加赎罪",
       "id": "assassination-attempt-m",
-      "title": "刺杀M未遂"
+      "title": "刺杀M未遂",
+      "title_en": "The Attempt on M's Life",
+      "cause_en": "Brainwashing convinced Bond that M was a warmonger and the number-one target to be removed in the cause of peace.",
+      "effect_en": "M drops the armour-plate glass and blocks the cyanide jet; Bond collapses and is sent to The Park for electroshock treatment, and M decides to send him after Scaramanga to redeem himself."
     },
     {
       "cause": "洗脑与失忆使邦德无法恢复特工身份",
       "chapter": 4,
       "effect": "30天24次电休克后邦德恢复记忆与对克格勃的仇恨，并在Maidstone靶场恢复枪法，随后赴加勒比海执行任务",
       "id": "ect-treatment",
-      "title": "电休克治疗康复"
+      "title": "电休克治疗康复",
+      "title_en": "Recovery Through Electroshock Treatment",
+      "cause_en": "Brainwashing and amnesia left Bond unable to resume his identity as an agent.",
+      "effect_en": "After twenty-four shocks in thirty days Bond recovers his memory and his hatred of the KGB, restores his shooting at the Maidstone range, and leaves for the Caribbean on his assignment."
     },
     {
       "cause": "罗斯去特立尼达追踪斯卡拉曼加",
       "chapter": 9,
       "effect": "斯卡拉曼加在会议上亲口承认十天前杀害罗斯并沉尸La Brea沥青湖；邦德确认其罪行，J站由古德奈特代管",
       "id": "ross-murder",
-      "title": "罗斯指挥官被害"
+      "title": "罗斯指挥官被害",
+      "title_en": "The Murder of Commander Ross",
+      "cause_en": "Ross went to Trinidad to track Scaramanga.",
+      "effect_en": "Scaramanga admits at the meeting that he killed Ross ten days earlier and sank the body in the La Brea pitch lake; Bond has his crime confirmed, and Goodnight runs Station J in Ross's place."
     },
     {
       "cause": "BWIA电报把邦德引到3-1/2 Love Lane",
       "chapter": 5,
       "effect": "斯卡拉曼加射杀Tiffy的宠物鸟立威，邦德以Mark Hazard身份接近成功，为受雇当保镖铺路",
       "id": "scaramanga-meets-bond",
-      "title": "妓院初遇斯卡拉曼加"
+      "title": "妓院初遇斯卡拉曼加",
+      "title_en": "First Meeting with Scaramanga at the Brothel",
+      "cause_en": "The BWIA telegram led Bond to No. 3-1/2 Love Lane.",
+      "effect_en": "Scaramanga shoots Tiffy's pet birds dead to show off, and Bond, as Mark Hazard, makes his approach successfully, paving the way to being hired as bodyguard."
     },
     {
       "cause": "斯卡拉曼加需一名可靠外人守股东会议的门",
       "chapter": 6,
       "effect": "邦德得以潜入The Group核心，偷听会议并取得录音证据",
       "id": "hired-bodyguard",
-      "title": "邦德受雇为保镖"
+      "title": "邦德受雇为保镖",
+      "title_en": "Bond Hired as Bodyguard",
+      "cause_en": "Scaramanga needed a reliable outsider to guard the door at the shareholders' meeting.",
+      "effect_en": "Bond gets inside the heart of The Group, eavesdrops on the meeting, and obtains taped evidence."
     },
     {
       "cause": "Rotkopf拒绝认购1000万美元优先票据并威胁诉诸法律，斯卡拉曼加以古巴口号“Rapido! Seguro! Economica!”为号开枪",
       "chapter": 9,
       "effect": "其余股东慑服并认购票据；尸体拟喂鳄鱼；邦德在门外全程偷听，录音成为罪证",
       "id": "rotkopf-murder",
-      "title": "Rotkopf在会议上被杀"
+      "title": "Rotkopf在会议上被杀",
+      "title_en": "Rotkopf Murdered at the Meeting",
+      "cause_en": "Rotkopf refused to subscribe to the ten-million-dollar preference note issue and threatened legal action; Scaramanga gave the signal with the Cuban slogan 'Rapido! Seguro! Economica!'.",
+      "effect_en": "The other shareholders are cowed into subscribing; the body is to be fed to the crocodiles; Bond overhears everything from outside the door, and the tape becomes evidence."
     },
     {
       "cause": "总部Triple-X急电警告Hendriks奉命杀死邦德，古德奈特连夜驱车120英里赶来",
       "chapter": 10,
       "effect": "邦德得知自己反被猎杀；斯卡拉曼加藏身房内听到动静，次日对邦德身份起疑",
       "id": "goodnight-warning",
-      "title": "古德奈特夜闯报信"
+      "title": "古德奈特夜闯报信",
+      "title_en": "Goodnight's Night Visit with the Warning",
+      "cause_en": "A Most Immediate Triple-X signal from Headquarters warned that Hendriks was ordered to kill Bond, and Goodnight drove 120 miles through the night to deliver it.",
+      "effect_en": "Bond learns he is himself the hunted man; Scaramanga, hiding in the room, hears the stir, and suspects Bond's identity the next day."
     },
     {
       "cause": "邦德判断二十四小时内必有一场生死枪战，需争取哪怕一秒优势",
       "chapter": 11,
       "effect": "斯卡拉曼加在火车站朝天试枪时未察觉异常；但其金枪在后续枪战中仍能开火，邦德的优势有限",
       "id": "bullet-removed",
-      "title": "邦德取出斯卡拉曼加枪中一发子弹"
+      "title": "邦德取出斯卡拉曼加枪中一发子弹",
+      "title_en": "Bond Removes a Bullet from Scaramanga's Gun",
+      "cause_en": "Bond judged that within twenty-four hours there would be a life-or-death gunfight and wanted even a second's advantage.",
+      "effect_en": "Scaramanga test-fired his gun at the station without noticing anything wrong; but the golden gun still fired in the gunfight that followed, so Bond's advantage was limited."
     },
     {
       "cause": "斯卡拉曼加计划在火车出游中以“猎杀”邦德取乐，铁轨上绑着冒充古德奈特的塑料人体模型作诱饵",
       "chapter": 14,
       "effect": "邦德击毙Hendriks，莱特击毙Gengerella并缴械三名股东；邦德左肩中弹；火车无人驾驶冲向被炸断的Orange River桥坠河",
       "id": "train-battle",
-      "title": "火车上的枪战"
+      "title": "火车上的枪战",
+      "title_en": "The Gunfight on the Train",
+      "cause_en": "Scaramanga planned to kill Bond for sport on the train excursion, using a plastic dummy of Goodnight bound on the rails as bait.",
+      "effect_en": "Bond kills Hendriks, Leiter kills Gengerella and disarms the three other shareholders; Bond is shot in the left shoulder; the driverless train runs on towards the Orange River bridge that Leiter has mined."
     },
     {
       "cause": "莱特上午借故在桥上埋设炸药，计划断绝火车去路",
       "chapter": 14,
       "effect": "Binion、Garfinkel、Paradise随火车坠河身亡；莱特跳车摔断左腿；斯卡拉曼加带伤跳车逃入沼泽",
       "id": "bridge-blown",
-      "title": "Orange River桥被炸断"
+      "title": "Orange River桥被炸断",
+      "title_en": "The Orange River Bridge Is Blown",
+      "cause_en": "Leiter planted explosives on the bridge that morning, planning to cut off the train's escape route.",
+      "effect_en": "Binion, Garfinkel and Paradise plunge into the river with the train and die; Leiter breaks his left leg jumping; Scaramanga, wounded, jumps clear and escapes into the morass."
     },
     {
       "cause": "斯卡拉曼加重伤躲入红树林，邦德奉命清除他并为Margesson等人复仇",
       "chapter": 15,
       "effect": "斯卡拉曼加先以假祈祷诱敌，用藏于脑后的金色Derringer射伤邦德右腹（毒弹）；邦德五枪击中其心脏将其击毙，自己重伤昏迷",
       "id": "scaramanga-duel",
-      "title": "沼泽决斗"
+      "title": "沼泽决斗",
+      "title_en": "The Duel in the Morass",
+      "cause_en": "The wounded Scaramanga hid in the mangroves, and Bond, ordered to eliminate him, was determined to avenge Margesson and the others.",
+      "effect_en": "Scaramanga lures Bond with a pretended prayer and wounds him in the right abdomen with the poisoned bullet from the golden Derringer hidden behind his head; Bond kills him with five shots through the heart and collapses, badly wounded."
     },
     {
       "cause": "首相Bustamante要求澄清岛内外谣言，维护牙买加声誉",
       "chapter": 16,
       "effect": "官方口径称行动全程受牙买加刑事调查局指挥；邦德、莱特、Nicholson获牙买加警察奖章；邦德保住性命，莱特小腿骨折",
       "id": "hospital-inquiry",
-      "title": "病床边司法调查与授勋"
+      "title": "病床边司法调查与授勋",
+      "title_en": "The Bedside Inquiry and the Medals",
+      "cause_en": "Prime Minister Bustamante wanted the rumours at home and abroad cleared up and Jamaica's reputation protected.",
+      "effect_en": "The official version puts the whole operation under the Jamaican Criminal Investigation Department; Bond, Leiter and Nicholson receive the Jamaica Police Medal; Bond survives, and Leiter has a broken lower leg."
     },
     {
       "cause": "首相提议女王授予邦德KCMG爵位，M来电转达并征询是否接受",
       "chapter": 17,
       "effect": "邦德以苏格兰乡下人、珍视隐私与匿名为由谢绝；M表示理解；邦德接受去古德奈特Mona Dam别墅休养三周",
       "id": "knighthood-declined",
-      "title": "邦德谢绝爵士爵位"
+      "title": "邦德谢绝爵士爵位",
+      "title_en": "Bond Declines the Knighthood",
+      "cause_en": "The Prime Minister proposed that the Queen grant Bond a KCMG, and M cabled to ask whether he would accept.",
+      "effect_en": "Bond declines, as a Scottish peasant who values his privacy and anonymity; M understands; Bond accepts Goodnight's invitation to convalesce for three weeks at her villa near Mona Dam."
     }
   ],
   "facts": [
@@ -1014,7 +1212,8 @@
       "quote": "Admiral Sir Miles Messervy. He is head of a department in your Ministry.",
       "quote_source": "第1章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年11月"
+      "timeline_position": "1964年11月",
+      "fact_en": "M's full name is Admiral Sir Miles Messervy, given by Bond himself during the telephone vetting."
     },
     {
       "canon_or_inference": "canon",
@@ -1025,7 +1224,8 @@
       "quote": "You've been officially posted as 'missing believed killed.'",
       "quote_source": "第1章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年11月"
+      "timeline_position": "1964年11月",
+      "fact_en": "Bond returned home after being missing for about a year; his death had been announced in the press a year earlier, and his obituary appeared in The Times."
     },
     {
       "canon_or_inference": "canon",
@@ -1036,7 +1236,8 @@
       "quote": "his forged British passport that said his name was Frank Westmacott, company director",
       "quote_source": "第1章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年11月"
+      "timeline_position": "1964年11月",
+      "fact_en": "Bond came home on a forged British passport in the name of Frank Westmacott, company director."
     },
     {
       "canon_or_inference": "canon",
@@ -1047,7 +1248,8 @@
       "quote": "the charming \"Colonel Boris\" who had been in charge of him for the past few months",
       "quote_source": "第1章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年11月之前"
+      "timeline_position": "1964年11月之前",
+      "fact_en": "KGB Colonel Boris was in charge of Bond for several months after his treatment at the Leningrad institute, and briefed him in detail on the British services' vetting procedures."
     },
     {
       "canon_or_inference": "canon",
@@ -1058,7 +1260,8 @@
       "quote": "She was a double, working for K.G.B. Section One Hundred",
       "quote_source": "第1章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年11月"
+      "timeline_position": "1964年11月",
+      "fact_en": "The double agent Maria Freudenstadt is dead; she worked for KGB Section One Hundred, and news of her death was the key test question used to verify Bond's identity."
     },
     {
       "canon_or_inference": "canon",
@@ -1069,7 +1272,8 @@
       "quote": "I got picked up by the police on the waterfront at Vladivostok.",
       "quote_source": "第2章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1963年11月至1964年11月"
+      "timeline_position": "1963年11月至1964年11月",
+      "fact_en": "Bond says he was wounded in the head during his mission in Japan, lost his memory, and was picked up by police on the waterfront at Vladivostok and handed to the KGB."
     },
     {
       "canon_or_inference": "canon",
@@ -1080,7 +1284,8 @@
       "quote": "the great sheet of armor-plate glass hurtled down from the baffled slit in the ceiling",
       "quote_source": "第2章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年11月"
+      "timeline_position": "1964年11月",
+      "fact_en": "Brainwashed, Bond tried to assassinate M with a cyanide-spraying pistol, but the armour-plate glass dropped by a button under M's chair blocked the jet, and Bond inhaled the fumes and collapsed."
     },
     {
       "canon_or_inference": "canon",
@@ -1091,7 +1296,8 @@
       "quote": "Put him back on half pay for the time being, in his old Section.",
       "quote_source": "第2章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年11月"
+      "timeline_position": "1964年11月",
+      "fact_en": "M decided not to charge Bond with treason or attempted murder, putting him back on half pay with a year's back pay, and sent him after Scaramanga to redeem himself."
     },
     {
       "canon_or_inference": "canon",
@@ -1102,7 +1308,8 @@
       "quote": "My predecessor died in that chair. Then it was a simple bullet",
       "quote_source": "第2章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年11月（回忆往事）"
+      "timeline_position": "1964年11月（回忆往事）",
+      "fact_en": "M's predecessor was shot dead in the same office chair by a deranged officer, which is why the office is fitted with armour-plate glass."
     },
     {
       "canon_or_inference": "canon",
@@ -1113,7 +1320,8 @@
       "quote": "a gold-plated, long-barrelled, single-action Colt .45",
       "quote_source": "第3章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年11月（档案）"
+      "timeline_position": "1964年11月（档案）",
+      "fact_en": "Scaramanga's golden gun is a gold-plated, long-barrelled, single-action Colt .45; its bullets have soft 24-carat gold cores jacketed in silver and cross-cut at the tip on the dum-dum principle, loaded by Scaramanga himself."
     },
     {
       "canon_or_inference": "canon",
@@ -1124,7 +1332,8 @@
       "quote": "a third nipple about two inches below his left breast",
       "quote_source": "第3章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年11月（档案）"
+      "timeline_position": "1964年11月（档案）",
+      "fact_en": "The file puts Scaramanga at about 35, six feet three inches tall, with a third nipple about two inches below his left breast, taken in voodoo as a sign of invulnerability and great sexual prowess."
     },
     {
       "canon_or_inference": "canon",
@@ -1135,7 +1344,8 @@
       "quote": "Is responsible for the death of 267 (British Guiana), 398 (Trinidad), 943 (Jamaica), and 768 and 742 (Havana)",
       "quote_source": "第3章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1959年至1964年"
+      "timeline_position": "1959年至1964年",
+      "fact_en": "Scaramanga has worked for the Cuban D.S.S. since Castro came to power in 1959; the file lists the agents he killed — 267 (British Guiana), 398 (Trinidad), 943 (Jamaica), 768 and 742 (Havana) — and the maiming of area inspection officer 098."
     },
     {
       "canon_or_inference": "canon",
@@ -1146,7 +1356,8 @@
       "quote": "drew one of his pistols and shot the policeman through the heart",
       "quote_source": "第3章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "约1945年（16岁时）"
+      "timeline_position": "约1945年（16岁时）",
+      "fact_en": "At sixteen, in Trieste, Scaramanga shot dead the policeman who killed his elephant Max, then fled to Naples and stowed away to America."
     },
     {
       "canon_or_inference": "canon",
@@ -1157,7 +1368,8 @@
       "quote": "Scaramanga got two bullets into the heart of his opponent before the latter had fired a shot.",
       "quote_source": "第3章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1958年"
+      "timeline_position": "1958年",
+      "fact_en": "In 1958, by moonlight on the third green of the Thunderbird golf course in Las Vegas, Scaramanga put two bullets into the heart of Ramon Rodriguez in a duel before his opponent could fire, and was paid $100,000 by the Spangled Mob before fleeing the United States."
     },
     {
       "canon_or_inference": "canon",
@@ -1168,7 +1380,8 @@
       "quote": "invariably has sexual intercourse shortly before a killing in the belief that it improves his \"eye.\"",
       "quote_source": "第3章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年11月（档案评注）"
+      "timeline_position": "1964年11月（档案评注）",
+      "fact_en": "Scaramanga invariably has sexual intercourse shortly before a killing, believing it improves his eye; C.C. reads this as gun fetishism compensating for sexual inadequacy."
     },
     {
       "canon_or_inference": "canon",
@@ -1179,7 +1392,8 @@
       "quote": "Twenty-four bashes at his brain from the black box in thirty days.",
       "quote_source": "第4章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年11月至12月"
+      "timeline_position": "1964年11月至12月",
+      "fact_en": "Bond received electroconvulsive treatment at The Park — twenty-four shocks in thirty days, more than the eighteen allowed by American law — after which his memory and his hatred of the KGB returned."
     },
     {
       "canon_or_inference": "canon",
@@ -1190,7 +1404,8 @@
       "quote": "For six weeks, Bond had been chasing his man round the Caribbean and Central America.",
       "quote_source": "第4章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年4月至5月"
+      "timeline_position": "1964年4月至5月",
+      "fact_en": "Bond chased Scaramanga for six weeks around the Caribbean and Central America, missing him by a day in Trinidad and by a matter of hours in Caracas, before deciding to seek him out in his Havana home ground."
     },
     {
       "canon_or_inference": "canon",
@@ -1201,7 +1416,8 @@
       "quote": "THE SAMPLES WILL BE AVAILABLE AT 3-1/2 S.L.M. AS FROM MIDDAY TOMORROW.",
       "quote_source": "第4章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "At Kingston airport Bond found a BWIA telegram addressed to Scaramanga on the message rack: 'The samples will be available at 3-1/2 S.L.M. as from midday tomorrow' — S.L.M. being Savannah La Mar."
     },
     {
       "canon_or_inference": "canon",
@@ -1212,7 +1428,8 @@
       "quote": "Commander Ross's assistant. Can I help you?",
       "quote_source": "第4章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "Mary Goodnight has been posted to Station J in Jamaica as Commander Ross's assistant; Bond meets her again by telephone at Kingston airport."
     },
     {
       "canon_or_inference": "canon",
@@ -1223,7 +1440,8 @@
       "quote": "He went off last week on some job to Trinidad. It was to try and locate a man called Scaramanga.",
       "quote_source": "第4章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "Commander Ross went to Trinidad a week earlier to track Scaramanga and has been missing for two days; the Station has sent a Red Warning, and Headquarters has told them to wait another week."
     },
     {
       "canon_or_inference": "canon",
@@ -1234,7 +1452,8 @@
       "quote": "He would now be \"Mark Hazard\" of the \"Transworld Consortium,\"",
       "quote_source": "第4章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "Bond now works under the name Mark Hazard of the Transworld Consortium (successor to Universal Export), travelling on a diplomatic passport as a courier."
     },
     {
       "canon_or_inference": "canon",
@@ -1245,7 +1464,8 @@
       "quote": "she called me Artificial",
       "quote_source": "第5章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "The brothel's manageress, Tiffy, is really called Artificial: her mother named her six daughters after flowers and, running out of flower names, called her Artificial; at school the name was shortened to Tiffy."
     },
     {
       "canon_or_inference": "canon",
@@ -1256,7 +1476,8 @@
       "quote": "The two birds disintegrated against the violet backdrop of the dusk",
       "quote_source": "第5章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "In the Dreamland café Scaramanga shot dead Tiffy's two pet Jamaican grackles, Joe and May, with the golden gun, to show off his marksmanship."
     },
     {
       "canon_or_inference": "canon",
@@ -1267,7 +1488,8 @@
       "quote": "Care to earn yourself a grand —a thousand bucks?",
       "quote_source": "第6章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "Scaramanga hired Bond for a thousand dollars to act as bodyguard during the Thunderbird Hotel shareholders' meeting, guarding the door against eavesdropping."
     },
     {
       "canon_or_inference": "canon",
@@ -1278,7 +1500,8 @@
       "quote": "That's a thousand pounds' worth of ganja he's got in the bag.",
       "quote_source": "第6章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "Tiffy told Bond that Scaramanga's suitcase held a thousand pounds' worth of ganja, left that morning by a Rasta."
     },
     {
       "canon_or_inference": "canon",
@@ -1289,7 +1512,8 @@
       "quote": "Behind the plate was a small microphone joined by leads to the main cable inside the cradle.",
       "quote_source": "第7章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "Bond has Room 24 at the Thunderbird Hotel, opposite Scaramanga's Room 20, and found a microphone hidden in his telephone."
     },
     {
       "canon_or_inference": "canon",
@@ -1300,7 +1524,8 @@
       "quote": "It's bugged all right. By me. Got to have a record of what's said.",
       "quote_source": "第7章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "Scaramanga admitted that the bug in the conference room was his own, planted so he would have a record of what was said."
     },
     {
       "canon_or_inference": "canon",
@@ -1311,7 +1536,8 @@
       "quote": "First there's Mr. Hendriks. Dutchman. Represents the European money, mostly Swiss.",
       "quote_source": "第7章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "The Group's six shareholders are Hendriks (European money), Sam Binion (Detroit real estate), Leroy Gengerella (Miami entertainment), Ruby Rotkopf (Las Vegas hotels), Hal Garfinkel (Chicago union money) and Louis Paradise (Phoenix slot machines)."
     },
     {
       "canon_or_inference": "canon",
@@ -1322,7 +1548,8 @@
       "quote": "The name is Leiter, Mr. Felix Leiter. Temporary accountant on loan from Morgan Guaranty Trust",
       "quote_source": "第8章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "Felix Leiter works at the Thunderbird Hotel as assistant manager under the name 'Travis', ostensibly a temporary accountant on loan from Morgan Guaranty Trust; his right hand is a steel hook."
     },
     {
       "canon_or_inference": "canon",
@@ -1333,7 +1560,8 @@
       "quote": "The nick was now a millimetre to the right of the \"Z.\"",
       "quote_source": "第8章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "Bond discovered his room had been professionally searched that morning: the nick on his razor handle had moved a millimetre from the 'Z' of the maker's name."
     },
     {
       "canon_or_inference": "canon",
@@ -1344,7 +1572,8 @@
       "quote": "There is a man that is called James Bond that is looking for him in this territory.",
       "quote_source": "第9章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "At the meeting Hendriks warned that a British agent called James Bond was in the area looking for Scaramanga, and that Moscow rated him highly."
     },
     {
       "canon_or_inference": "canon",
@@ -1355,7 +1584,8 @@
       "quote": "Only ten days ago, I disposed of one of them who came nosing after me. Man called Ross.",
       "quote_source": "第9章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "Scaramanga admitted that ten days earlier he had disposed of Commander Ross, who had come snooping after him, sinking the body in the La Brea pitch lake in eastern Trinidad."
     },
     {
       "canon_or_inference": "canon",
@@ -1366,7 +1596,8 @@
       "quote": "These ships, Mr. Hendriks, will not dock and unload until sugar futures, July futures, have risen another ten cents.",
       "quote_source": "第9章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "Six of The Group's ships, loaded with raw sugar, are riding at anchor outside American ports and will not dock and unload until July sugar futures have risen another ten cents — the 'floating crop game'."
     },
     {
       "canon_or_inference": "canon",
@@ -1377,7 +1608,8 @@
       "quote": "They've got a slogan for it in Cuba—Rapido! Seguro! Economica!",
       "quote_source": "第9章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "With the Cuban slogan 'Rapido! Seguro! Economica!' as his cue, Scaramanga shot Ruby Rotkopf dead in the meeting for refusing to subscribe to the preference note issue; the body was to be fed to the crocodiles."
     },
     {
       "canon_or_inference": "canon",
@@ -1388,7 +1620,8 @@
       "quote": "Mr. Hendriks at The Hague was in fact Resident Director for the Caribbean and in charge of the Havana centre.",
       "quote_source": "第9章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "Hendriks is in fact the KGB Resident Director for the Caribbean, based at The Hague and in charge of the Havana centre; Leiter's and Nicholson's task is to break up the first alliance between the KGB and the Mafia."
     },
     {
       "canon_or_inference": "canon",
@@ -1399,7 +1632,8 @@
       "quote": "had bled off the microphone cable to his own tape recorder in the filing cabinet",
       "quote_source": "第9章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "CIA man Nick Nicholson, fronting as the hotel manager Stanley Jones, bled off Scaramanga's microphone cable to a tape recorder in his own filing cabinet and taped the whole shareholders' meeting."
     },
     {
       "canon_or_inference": "canon",
@@ -1410,7 +1644,8 @@
       "quote": "I aimed for the top half of the pineanple.",
       "quote_source": "第10章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "At the cabaret Bond borrowed Scaramanga's golden gun and shot the false pineapple off the singer's head with a single shot, betraying his marksmanship."
     },
     {
       "canon_or_inference": "canon",
@@ -1421,7 +1656,8 @@
       "quote": "among his other jobs is to find you and, er, well, kill you.",
       "quote_source": "第10章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "At 3:30 in the morning Goodnight climbed in through Bond's window with a Most Immediate Triple-X signal from Headquarters: Hendriks's job, among others, was to find Bond and kill him."
     },
     {
       "canon_or_inference": "canon",
@@ -1432,7 +1668,8 @@
       "quote": "It was the simplest of secret doors—just the whole of the back of the cupboard",
       "quote_source": "第11章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "Scaramanga entered Bond's room through a secret door — the whole back of the wardrobe — undetectable from Bond's side."
     },
     {
       "canon_or_inference": "canon",
@@ -1443,7 +1680,8 @@
       "quote": "he picked up the gun, and slipped out the round in the cylinder that would next come up for firing.",
       "quote_source": "第11章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "While Scaramanga was exercising in the morning, Bond slipped into Room 20, picked up the golden gun and removed the round in the cylinder that would next come up for firing, then put the gun back exactly as he found it."
     },
     {
       "canon_or_inference": "canon",
@@ -1454,7 +1692,8 @@
       "quote": "They were talking Russian, but your name and number kept on cropping up.",
       "quote_source": "第11章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "The long-distance call Hendriks took from Havana was in Russian and came from Moscow: Semichastny had ordered Bond's death, and Leiter, listening in, kept hearing Bond's name and number."
     },
     {
       "canon_or_inference": "canon",
@@ -1465,7 +1704,8 @@
       "quote": "The wounds on his body are clearly to be seen. The scar down the right side of the face leaves no doubt.",
       "quote_source": "第12章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "Hendriks confirmed Bond's identity from the wounds on his body and the scar down the right side of his face, seen through field glasses while Bond was swimming, and blamed Scaramanga for the lapse."
     },
     {
       "canon_or_inference": "canon",
@@ -1476,7 +1716,8 @@
       "quote": "Everything's in order at Reynolds Metal, Kaiser Bauxite, and Alumina of Jamaica.",
       "quote_source": "第12章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "\"Plan Orange\" means explosives planted in the bauxite plants of Reynolds Metal, Kaiser Bauxite and Alumina of Jamaica, to be replaced in the demolition chambers every five years."
     },
     {
       "canon_or_inference": "canon",
@@ -1487,7 +1728,8 @@
       "quote": "I have instructions to make an initial outlay of a million dollars",
       "quote_source": "第12章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "The KGB asked Scaramanga to raise the ganja supply from pounds to hundredweights, shipped via the Pedro Cays, with a million dollars' initial outlay and ten percent commission for Scaramanga."
     },
     {
       "canon_or_inference": "canon",
@@ -1498,7 +1740,8 @@
       "quote": "Bond read the speed gauge. It said twenty.",
       "quote_source": "第13章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "The little train, locomotive No. 1 'Belle', ran on three-foot-gauge track towards Green Island Harbour at twenty miles an hour; Scaramanga rode in the brake van at the rear, and Bond was placed on the locomotive."
     },
     {
       "canon_or_inference": "canon",
@@ -1509,7 +1752,8 @@
       "quote": "Bond put a bullet between the man's cold eyes.",
       "quote_source": "第14章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "On the train Bond shot Hendriks dead as he drew his gun, a bullet between the eyes; the Rastafari driver was killed by a shot from Scaramanga through the throat."
     },
     {
       "canon_or_inference": "canon",
@@ -1520,7 +1764,8 @@
       "quote": "I said quick. There's Mr. Gengerella gone to meet his maker.",
       "quote_source": "第14章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "Leiter, hidden behind the brake van throughout, shot Gengerella dead and disarmed Binion, Garfinkel and Paradise; the 'naked body of Goodnight' on the rails was a plastic dummy Leiter had set up on Scaramanga's orders."
     },
     {
       "canon_or_inference": "canon",
@@ -1531,7 +1776,8 @@
       "quote": "the beautiful Belle, a smashed toy, folded upon itself and, with a giant splintering of iron and woodwork",
       "quote_source": "第14章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "Bond jumped from the train with a bullet wound in his left shoulder and landed in the Great Morass; Leiter broke his left leg jumping; Scaramanga, wounded, jumped clear and escaped; the driverless train hit the explosives Leiter had planted on the Orange River bridge and plunged into the river, killing Binion, Garfinkel and Paradise."
     },
     {
       "canon_or_inference": "canon",
@@ -1542,7 +1788,8 @@
       "quote": "It transfixed the head of the snake exactly in the centre of the brain",
       "quote_source": "第15章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "The wounded Scaramanga, shot through the right chest with his shirt soaked in blood, killed a five-foot Epicrates boa with a slim stiletto from his boot and ate the snake raw."
     },
     {
       "canon_or_inference": "canon",
@@ -1553,7 +1800,8 @@
       "quote": "With you, it'll make the round fifty.",
       "quote_source": "第15章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "Scaramanga claimed forty-nine kills in his life, with Bond to be his fiftieth, and offered a million dollars, then six million, for his life; Bond refused both offers."
     },
     {
       "canon_or_inference": "canon",
@@ -1564,7 +1812,8 @@
       "quote": "You put a shot through both of his knees and both of his elbows.",
       "quote_source": "第15章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月（回忆往事）"
+      "timeline_position": "1964年5月（回忆往事）",
+      "fact_en": "Bond accused Scaramanga of putting a shot through both of Margesson's knees and both of his elbows, then making him crawl and kiss his boots — one reason Bond was determined to execute him."
     },
     {
       "canon_or_inference": "canon",
@@ -1575,7 +1824,8 @@
       "quote": "the tiny golden Derringer roared, and James Bond spun round as if he had taken a right to the jaw",
       "quote_source": "第15章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "Pretending to say a Catholic's dying prayer, Scaramanga drew the miniature golden Derringer hidden behind his head and fired; the poisoned bullet hit Bond in the right abdomen, and Bond, falling, fired five shots that struck Scaramanga through the heart and killed him."
     },
     {
       "canon_or_inference": "canon",
@@ -1586,7 +1836,8 @@
       "quote": "That bullet was dipped in enough poison to kill a horse.",
       "quote_source": "第16章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月至6月"
+      "timeline_position": "1964年5月至6月",
+      "fact_en": "The bullet that hit Bond was dipped in enough snake venom to kill a horse; he survived only because Dr Lister Smith of Savannah La Mar promptly injected a large dose of antivenin, and the bullet damaged no vital organ or kidney, only muscle."
     },
     {
       "canon_or_inference": "canon",
@@ -1597,7 +1848,8 @@
       "quote": "A week later, James Bond regained consciousness.",
       "quote_source": "第16章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年6月"
+      "timeline_position": "1964年6月",
+      "fact_en": "Bond regained consciousness in Kingston hospital a week later; ten days after that a judicial inquiry ordered by the Prime Minister was held at his bedside, and Bond, Leiter and Nicholson received the Jamaica Police Medal; Leiter had a compound fracture of the lower leg."
     },
     {
       "canon_or_inference": "canon",
@@ -1608,7 +1860,8 @@
       "quote": "THE PRIME MINISTER PROPOSES TO RECOMMEND TO HER MAJESTY QUEEN ELIZABETH THE IMMEDIATE GRANT OF A KNIGHTHOOD",
       "quote_source": "第17章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年6月"
+      "timeline_position": "1964年6月",
+      "fact_en": "M's signal said the Prime Minister proposed to recommend to Queen Elizabeth the immediate grant of a knighthood — a KCMG, rendered in the signal as 'KATIE before CHARLIE MICHAEL GEORGE' — and Bond declined it, calling himself a Scottish peasant who valued his privacy and anonymity."
     },
     {
       "canon_or_inference": "canon",
@@ -1619,7 +1872,8 @@
       "quote": "He wore it perhaps once a year, together with his two rows of lettuce",
       "quote_source": "第17章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年6月"
+      "timeline_position": "1964年6月",
+      "fact_en": "Bond already holds the CMG, which he wears perhaps once a year, with his two rows of medals, at the annual dinner of the Twin Snakes Club at Blades; his housekeeper May looks after the medals."
     },
     {
       "canon_or_inference": "canon",
@@ -1630,7 +1884,8 @@
       "quote": "For James Bond, the same view would always pall.",
       "quote_source": "第17章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年6月"
+      "timeline_position": "1964年6月",
+      "fact_en": "Goodnight invited Bond to convalesce for three weeks at her villa near Mona Dam, and he accepted; the novel ends with the thought that for James Bond the same view would always pall — no woman's love is ever enough for him."
     },
     {
       "canon_or_inference": "canon",
@@ -1641,7 +1896,8 @@
       "quote": "that was about one hundred thousand men and women 'making war'",
       "quote_source": "第2章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年11月"
+      "timeline_position": "1964年11月",
+      "fact_en": "M put the KGB's strength at about a hundred thousand men and women, and mentioned the murder of Horcher and Stutz in Munich the previous month."
     },
     {
       "canon_or_inference": "canon",
@@ -1652,7 +1908,8 @@
       "quote": "the fact that de Gaulle had just sensationally announced his recognition of Red China was boxed well down the page.",
       "quote_source": "第4章",
       "source_novel": "man-with-golden-gun",
-      "timeline_position": "1964年5月"
+      "timeline_position": "1964年5月",
+      "fact_en": "The Gleaner's front page that day was given over to the new ganja laws, while de Gaulle's announcement of recognition of Red China was boxed well down the page."
     }
   ],
   "kind": "长篇",
@@ -1664,7 +1921,8 @@
       "id": "london-hq",
       "name_en": "Secret Service Headquarters, London",
       "name_zh": "伦敦秘密情报局总部",
-      "role": "邦德回国报到与刺杀M未遂的发生地；M办公室在八楼，旧房间号为12号"
+      "role": "邦德回国报到与刺杀M未遂的发生地；M办公室在八楼，旧房间号为12号",
+      "description_en": "Where Bond reports back and where the attempt on M takes place; M's office is on the eighth floor, its old room number 12."
     },
     {
       "country": "英国",
@@ -1672,7 +1930,8 @@
       "id": "kensington-cloisters",
       "name_en": "44 Kensington Cloisters",
       "name_zh": "肯辛顿修道院44号",
-      "role": "秘密情报局甄别来访者的据点，前身为帝国噪音防治联盟总部，地下室改建为拘留室；邦德在此接受汤森少校甄别"
+      "role": "秘密情报局甄别来访者的据点，前身为帝国噪音防治联盟总部，地下室改建为拘留室；邦德在此接受汤森少校甄别",
+      "description_en": "The Secret Service's vetting station for visitors, formerly the headquarters of the Empire League for Noise Abatement, its basement converted into detention cells; Bond is vetted here by Major Townsend."
     },
     {
       "country": "英国",
@@ -1680,7 +1939,8 @@
       "id": "ritz-london",
       "name_en": "Ritz Hotel, London",
       "name_zh": "伦敦丽兹酒店",
-      "role": "克格勃指示邦德回国后的落脚点；特别支部在此搜查其伪造护照"
+      "role": "克格勃指示邦德回国后的落脚点；特别支部在此搜查其伪造护照",
+      "description_en": "Where the KGB told Bond to stay on his return; the Special Branch searched his forged passport here."
     },
     {
       "country": "英国",
@@ -1688,7 +1948,8 @@
       "id": "the-park",
       "name_en": "The Park, Kent",
       "name_zh": "肯特郡The Park疗养院",
-      "role": "伪装成疗养院的秘密医疗机构；邦德在此接受30天24次电休克治疗解除洗脑"
+      "role": "伪装成疗养院的秘密医疗机构；邦德在此接受30天24次电休克治疗解除洗脑",
+      "description_en": "A secret medical establishment disguised as a convalescent home; Bond receives twenty-four electroshock treatments here in thirty days to undo the brainwashing."
     },
     {
       "country": "英国",
@@ -1696,7 +1957,8 @@
       "id": "blades",
       "name_en": "Blades Club",
       "name_zh": "Blades俱乐部",
-      "role": "M常去的俱乐部；第3章M在此午餐后回办公室读斯卡拉曼加档案"
+      "role": "M常去的俱乐部；第3章M在此午餐后回办公室读斯卡拉曼加档案",
+      "description_en": "M's club; in Chapter 3 M lunches here before returning to his office to read the Scaramanga file."
     },
     {
       "country": "牙买加",
@@ -1704,7 +1966,8 @@
       "id": "kingston",
       "name_en": "Kingston",
       "name_zh": "金斯敦",
-      "role": "牙买加首都与J站所在地；邦德经金斯敦国际机场转机，在Morgan's Harbour住宿，结尾在金斯敦医院养伤"
+      "role": "牙买加首都与J站所在地；邦德经金斯敦国际机场转机，在Morgan's Harbour住宿，结尾在金斯敦医院养伤",
+      "description_en": "Capital of Jamaica and home of Station J; Bond changes planes at Kingston International Airport, stays at Morgan's Harbour, and convalesces in Kingston hospital at the end."
     },
     {
       "country": "牙买加",
@@ -1712,7 +1975,8 @@
       "id": "savannah-la-mar",
       "name_en": "Savannah La Mar",
       "name_zh": "萨凡纳拉马",
-      "role": "西海岸小镇；3-1/2 Love Lane妓院所在地，邦德在此初遇斯卡拉曼加"
+      "role": "西海岸小镇；3-1/2 Love Lane妓院所在地，邦德在此初遇斯卡拉曼加",
+      "description_en": "A small town on the west coast; No. 3-1/2 Love Lane, the brothel where Bond first meets Scaramanga, is here."
     },
     {
       "country": "牙买加",
@@ -1720,7 +1984,8 @@
       "id": "love-lane",
       "name_en": "No. 3-1/2 Love Lane",
       "name_zh": "爱情巷3-1/2号",
-      "role": "Dreamland咖啡馆兼妓院；BWIA电报称“样品”将于明午起在此备妥；斯卡拉曼加在此射杀Tiffy的宠物鸟"
+      "role": "Dreamland咖啡馆兼妓院；BWIA电报称“样品”将于明午起在此备妥；斯卡拉曼加在此射杀Tiffy的宠物鸟",
+      "description_en": "The Dreamland café and brothel; the BWIA telegram said the 'samples' would be ready here from midday tomorrow; Scaramanga shot Tiffy's pet birds dead here."
     },
     {
       "country": "牙买加",
@@ -1728,7 +1993,8 @@
       "id": "frome",
       "name_en": "Frome",
       "name_zh": "弗罗姆",
-      "role": "WISCO糖厂所在地；邦德以保险调查员身份作掩护，莱特去此地取炸桥物资"
+      "role": "WISCO糖厂所在地；邦德以保险调查员身份作掩护，莱特去此地取炸桥物资",
+      "description_en": "Home of the WISCO sugar estate; Bond uses an insurance investigation here as his cover, and Leiter comes here to collect the bridge-blowing equipment."
     },
     {
       "country": "牙买加",
@@ -1736,7 +2002,8 @@
       "id": "thunderbird-hotel",
       "name_en": "Thunderbird Hotel, Bloody Bay, Negril",
       "name_zh": "内格里尔血腥湾Thunderbird酒店",
-      "role": "The Group股东会议举办地；半拉子工程，邦德住24号房，斯卡拉曼加住20号房，会议室在餐厅旁"
+      "role": "The Group股东会议举办地；半拉子工程，邦德住24号房，斯卡拉曼加住20号房，会议室在餐厅旁",
+      "description_en": "Where The Group's shareholders meet; a half-finished building, Bond in Room 24, Scaramanga in Room 20, the conference room beside the restaurant."
     },
     {
       "country": "牙买加",
@@ -1744,7 +2011,8 @@
       "id": "green-island",
       "name_en": "Green Island Harbour",
       "name_zh": "绿岛港",
-      "role": "小火车终点与深海钓鱼出发港；斯卡拉曼加停有40英尺Chris-Craft游艇Thunder Bird"
+      "role": "小火车终点与深海钓鱼出发港；斯卡拉曼加停有40英尺Chris-Craft游艇Thunder Bird",
+      "description_en": "The little train's terminus and a deep-sea fishing port; Scaramanga keeps his 40-foot Chris-Craft yacht Thunder Bird here."
     },
     {
       "country": "牙买加",
@@ -1752,7 +2020,8 @@
       "id": "great-morass",
       "name_en": "The Great Morass",
       "name_zh": "大沼泽",
-      "role": "火车线路沿途的沼泽地；邦德跳车落入此处，决斗发生在沼泽边的红树林空地"
+      "role": "火车线路沿途的沼泽地；邦德跳车落入此处，决斗发生在沼泽边的红树林空地",
+      "description_en": "The marshland along the railway; Bond jumps from the train into it, and the duel takes place in a mangrove clearing on its edge."
     },
     {
       "country": "牙买加",
@@ -1760,7 +2029,8 @@
       "id": "orange-river",
       "name_en": "Orange River",
       "name_zh": "奥兰治河",
-      "role": "莱特炸断其铁桥，无人驾驶的火车坠河，Binion、Garfinkel与Paradise身亡"
+      "role": "莱特炸断其铁桥，无人驾驶的火车坠河，Binion、Garfinkel与Paradise身亡",
+      "description_en": "Leiter blew up its railway bridge; the driverless train plunged into the river, and Binion, Garfinkel and Paradise died."
     },
     {
       "country": "古巴",
@@ -1768,7 +2038,8 @@
       "id": "havana",
       "name_en": "Havana",
       "name_zh": "哈瓦那",
-      "role": "斯卡拉曼加的大本营与DSS所在地；Hendriks的克格勃哈瓦那中心所在地；邦德原计划以信使身份前往"
+      "role": "斯卡拉曼加的大本营与DSS所在地；Hendriks的克格勃哈瓦那中心所在地；邦德原计划以信使身份前往",
+      "description_en": "Scaramanga's base and the seat of the D.S.S.; Hendriks's KGB Havana centre is here; Bond originally planned to go there as a courier."
     },
     {
       "country": "特立尼达",
@@ -1776,7 +2047,8 @@
       "id": "la-brea",
       "name_en": "La Brea pitch lake, Trinidad",
       "name_zh": "特立尼达拉布雷亚沥青湖",
-      "role": "罗斯指挥官尸体沉没处"
+      "role": "罗斯指挥官尸体沉没处",
+      "description_en": "Where Commander Ross's body was sunk."
     },
     {
       "country": "苏联",
@@ -1784,7 +2056,8 @@
       "id": "leningrad",
       "name_en": "Leningrad",
       "name_zh": "列宁格勒",
-      "role": "Nevsky Prospekt研究所所在地，邦德在此被洗脑"
+      "role": "Nevsky Prospekt研究所所在地，邦德在此被洗脑",
+      "description_en": "Home of the institute on the Nevsky Prospekt where Bond was brainwashed."
     },
     {
       "country": "苏联",
@@ -1792,7 +2065,8 @@
       "id": "vladivostok",
       "name_en": "Vladivostok",
       "name_zh": "符拉迪沃斯托克",
-      "role": "邦德失忆后在海滨被警察捡到之地，随后转交当地克格勃（Morskaya Ulitsa大楼）"
+      "role": "邦德失忆后在海滨被警察捡到之地，随后转交当地克格勃（Morskaya Ulitsa大楼）",
+      "description_en": "Where Bond, having lost his memory, was picked up by police on the waterfront and handed to the local KGB (in the building on Morskaya Ulitsa)."
     },
     {
       "country": "美国",
@@ -1800,7 +2074,8 @@
       "id": "las-vegas",
       "name_en": "Las Vegas",
       "name_zh": "拉斯维加斯",
-      "role": "斯卡拉曼加早年为Spangled Mob当枪手的城市；1958年在Thunderbird高尔夫球场决斗杀死Ramon Rodriguez"
+      "role": "斯卡拉曼加早年为Spangled Mob当枪手的城市；1958年在Thunderbird高尔夫球场决斗杀死Ramon Rodriguez",
+      "description_en": "Where Scaramanga worked as a gunman for the Spangled Mob; in 1958 he killed Ramon Rodriguez in a duel on the Thunderbird golf course."
     },
     {
       "country": "意大利",
@@ -1808,7 +2083,8 @@
       "id": "trieste",
       "name_en": "Trieste",
       "name_zh": "的里雅斯特",
-      "role": "少年斯卡拉曼加大象Max发狂、他开枪杀警的马戏团巡演地"
+      "role": "少年斯卡拉曼加大象Max发狂、他开枪杀警的马戏团巡演地",
+      "description_en": "Where the young Scaramanga's elephant Max ran amok and he shot the policeman who killed it, during a circus visit."
     },
     {
       "country": "牙买加",
@@ -1816,7 +2092,8 @@
       "id": "pedro-cays",
       "name_en": "Pedro Cays",
       "name_zh": "佩德罗礁",
-      "role": "克格勃计划接收上百磅大麻的中转点"
+      "role": "克格勃计划接收上百磅大麻的中转点",
+      "description_en": "The rendezvous the KGB planned for receiving hundreds of pounds of ganja."
     }
   ],
   "mission": {
@@ -1840,49 +2117,56 @@
       "id": "sis",
       "name_en": "Secret Service",
       "name_zh": "秘密情报局",
-      "role": "邦德所属机构；总部设于伦敦，M任局长，下设Double-O处、联络处、加勒比海与中美洲处及牙买加J站"
+      "role": "邦德所属机构；总部设于伦敦，M任局长，下设Double-O处、联络处、加勒比海与中美洲处及牙买加J站",
+      "description_en": "Bond's service; headquartered in London, headed by M, with the Double-O Section, the Liaison Section, the Caribbean and Central American Section and Station J in Jamaica."
     },
     {
       "first_chapter": 1,
       "id": "kgb",
       "name_en": "KGB",
       "name_zh": "克格勃",
-      "role": "洗脑邦德并派他刺杀M；通过哈瓦那中心与Hendriks遥控The Group，首脑为Semichastny；约有十万人员"
+      "role": "洗脑邦德并派他刺杀M；通过哈瓦那中心与Hendriks遥控The Group，首脑为Semichastny；约有十万人员",
+      "description_en": "Brainwashed Bond and sent him to assassinate M; controls The Group remotely through the Havana centre and Hendriks; its head is Semichastny; it has about a hundred thousand personnel."
     },
     {
       "first_chapter": 3,
       "id": "dss",
       "name_en": "D.S.S.",
       "name_zh": "古巴国家安全局",
-      "role": "斯卡拉曼加的直接雇主；1959年后他以DSS“执法者”身份执行暗杀"
+      "role": "斯卡拉曼加的直接雇主；1959年后他以DSS“执法者”身份执行暗杀",
+      "description_en": "Scaramanga's direct employer; after 1959 he worked as its 'enforcer', carrying out assassinations."
     },
     {
       "first_chapter": 3,
       "id": "cia",
       "name_en": "C.I.A.",
       "name_zh": "中央情报局",
-      "role": "莱特与Nicholson所属；派两人卧底Thunderbird酒店调查The Group与克格勃-黑手党勾结"
+      "role": "莱特与Nicholson所属；派两人卧底Thunderbird酒店调查The Group与克格勃-黑手党勾结",
+      "description_en": "Leiter's and Nicholson's service; it sent both men under cover to the Thunderbird Hotel to investigate The Group and the KGB-Mafia alliance."
     },
     {
       "first_chapter": 9,
       "id": "the-group",
       "name_en": "The Group",
       "name_zh": "集团",
-      "role": "斯卡拉曼加任主席的跨国犯罪投资集团，七名股东（Hendriks、Binion、Gengerella、Rotkopf、Garfinkel、Paradise与斯卡拉曼加），从事食糖期货操纵、甘蔗纵火、毒品与赌场阴谋"
+      "role": "斯卡拉曼加任主席的跨国犯罪投资集团，七名股东（Hendriks、Binion、Gengerella、Rotkopf、Garfinkel、Paradise与斯卡拉曼加），从事食糖期货操纵、甘蔗纵火、毒品与赌场阴谋",
+      "description_en": "A multinational criminal investment syndicate chaired by Scaramanga, with seven shareholders (Hendriks, Binion, Gengerella, Rotkopf, Garfinkel, Paradise and Scaramanga), engaged in sugar-futures manipulation, cane-burning, drugs and a casino plot."
     },
     {
       "first_chapter": 9,
       "id": "mafia",
       "name_en": "Mafia",
       "name_zh": "黑手党",
-      "role": "通过Gengerella首次与克格勃结盟；斯卡拉曼加与Hendriks均认为其只认钱"
+      "role": "通过Gengerella首次与克格勃结盟；斯卡拉曼加与Hendriks均认为其只认钱",
+      "description_en": "Allied with the KGB for the first time through Gengerella; Scaramanga and Hendriks both consider it interested only in money."
     },
     {
       "first_chapter": 3,
       "id": "spangled-mob",
       "name_en": "The Spangled Mob",
       "name_zh": "亮片帮",
-      "role": "斯卡拉曼加在美国当全职枪手的老东家，以拉斯维加斯Tiara酒店赌场记分员为掩护"
+      "role": "斯卡拉曼加在美国当全职枪手的老东家，以拉斯维加斯Tiara酒店赌场记分员为掩护",
+      "description_en": "Scaramanga's old employer in America, where he worked as a full-time gunman under cover as a pitboy in the Tiara Hotel casino in Las Vegas."
     },
     {
       "aliases": [
@@ -1892,35 +2176,40 @@
       "id": "wisco",
       "name_en": "West Indian Sugar Company",
       "name_zh": "西印度制糖公司",
-      "role": "牙买加Frome糖厂业主，产量约占牙买加食糖四分之一；其甘蔗田屡遭纵火"
+      "role": "牙买加Frome糖厂业主，产量约占牙买加食糖四分之一；其甘蔗田屡遭纵火",
+      "description_en": "Owner of the Frome sugar estate in Jamaica, producing about a quarter of the island's sugar; its cane fields are repeatedly set on fire."
     },
     {
       "first_chapter": 9,
       "id": "pinkertons",
       "name_en": "Pinkerton's",
       "name_zh": "平克顿侦探社",
-      "role": "莱特的正式雇主；他同时为中情局预备役"
+      "role": "莱特的正式雇主；他同时为中情局预备役",
+      "description_en": "Leiter's official employer; he is also on the CIA reserve."
     },
     {
       "first_chapter": 6,
       "id": "rastafari",
       "name_en": "Rastafari",
       "name_zh": "拉斯塔法里教派",
-      "role": "牙买加留须、吸大麻的教派，聚居金斯敦外Dungle；斯卡拉曼加以大麻供应换取其成员纵火烧甘蔗田"
+      "role": "牙买加留须、吸大麻的教派，聚居金斯敦外Dungle；斯卡拉曼加以大麻供应换取其成员纵火烧甘蔗田",
+      "description_en": "A Jamaican sect of bearded ganja-smokers, living mostly at the Dungle outside Kingston; Scaramanga supplies them with ganja in exchange for their burning the cane fields."
     },
     {
       "id": "purple-gang",
       "name_en": "The Purple Gang, Detroit",
       "name_zh": "底特律紫帮",
       "role": "斯卡拉曼加1958年与底特律紫帮对头Ramon Rodriguez决斗；会议上提及Sam Binion与紫帮的关系",
-      "first_chapter": 3
+      "first_chapter": 3,
+      "description_en": "Scaramanga dueled Ramon Rodriguez of the Detroit Purple Gang in 1958; Sam Binion's connection with the Purple Gang is mentioned at the meeting."
     },
     {
       "id": "pinkerton",
       "name_en": "Pinkerton's",
       "name_zh": "平克顿侦探公司",
       "role": "莱特的正式雇主；他同时为中情局预备役",
-      "first_chapter": 9
+      "first_chapter": 9,
+      "description_en": "Leiter's official employer; he is also on the CIA reserve."
     }
   ],
   "publication_year": 1965,
@@ -1939,33 +2228,56 @@
     {
       "name_en": "BWIA flight Trinidad–Kingston",
       "name_zh": "英属西印度航空特立尼达至金斯敦航班",
-      "note": "邦德乘此航班抵达金斯敦机场"
+      "note": "邦德乘此航班抵达金斯敦机场",
+      "description_en": "The flight Bond took to Kingston airport."
     },
     {
       "name_en": "Sunbeam Alpine",
       "name_zh": "Sunbeam Alpine跑车",
-      "note": "已故Strangways的旧车，现为J站车辆，古德奈特使用并借给邦德"
+      "note": "已故Strangways的旧车，现为J站车辆，古德奈特使用并借给邦德",
+      "description_en": "The late Strangways's old car, now a Station J car, used by Goodnight and lent to Bond."
     },
     {
       "name_en": "Red Thunderbird convertible",
       "name_zh": "红色Thunderbird敞篷车",
-      "note": "斯卡拉曼加的座车，天线上有Thunderbird酒店金字红旗"
+      "note": "斯卡拉曼加的座车，天线上有Thunderbird酒店金字红旗",
+      "description_en": "Scaramanga's car, with a gold-on-red Thunderbird Hotel pennant on its aerial."
     },
     {
       "name_en": "The Belle No. 1 locomotive and train",
       "name_zh": "“Belle”1号机车与小火车",
-      "note": "仿Denver、South Park and Pacific窄轨机车复制的三英尺轨距小火车，机车名Belle，配一节敞篷车厢与一节刹车车；从Thunderbird Halt开往Green Island Harbour，时速20英里"
+      "note": "仿Denver、South Park and Pacific窄轨机车复制的三英尺轨距小火车，机车名Belle，配一节敞篷车厢与一节刹车车；从Thunderbird Halt开往Green Island Harbour，时速20英里",
+      "description_en": "A replica of a Denver, South Park and Pacific narrow-gauge locomotive on three-foot track, the locomotive named Belle, with an open carriage and a brake van; it ran from Thunderbird Halt to Green Island Harbour at twenty miles an hour."
     },
     {
       "name_en": "Thunder Bird, 40-foot Chris-Craft Roamer",
       "name_zh": "40英尺Chris-Craft Roamer游艇“Thunder Bird”",
-      "note": "斯卡拉曼加停在Green Island Harbour的深海钓鱼艇"
+      "note": "斯卡拉曼加停在Green Island Harbour的深海钓鱼艇",
+      "description_en": "Scaramanga's 40-foot Chris-Craft Roamer deep-sea fishing boat, moored at Green Island Harbour."
     },
     {
       "name_en": "Red Roses laundry van",
       "name_zh": "Red Roses洗衣车",
-      "note": "特别支部监视邦德用的伪装车辆，车内装Canonflex长焦相机"
+      "note": "特别支部监视邦德用的伪装车辆，车内装Canonflex长焦相机",
+      "description_en": "A disguise vehicle used by the Special Branch to watch Bond, fitted with a Canonflex telephoto camera."
     }
   ],
-  "words": 49604
+  "words": 49604,
+  "synopsis_en": "After a year missing and presumed dead, James Bond returns to London — brainwashed by the KGB and sent to assassinate M. He survives the attempt, is deprogrammed by electroconvulsive therapy, and is sent to redeem himself by eliminating Francisco 'Pistols' Scaramanga, the Man with the Golden Gun, a freelance assassin working for the Cuban D.S.S. and the KGB. Tracking him to Jamaica, Bond poses as Mark Hazard, an insurance investigator, and is hired as Scaramanga's bodyguard for a shareholders' meeting of the criminal syndicate The Group at the half-built Thunderbird Hotel in Negril. Eavesdropping on the meeting, Bond uncovers a sugar-futures racket, a ganja-smuggling scheme and a sabotage plan, while Moscow orders his death. The climax comes on a narrow-gauge train to Green Island Harbour: a gunfight, a blown bridge, and a final duel in the Great Morass, where Bond kills Scaramanga with five shots but is himself badly wounded by a poisoned bullet from a hidden golden Derringer. He survives on antivenin, is decorated by Jamaica, and declines a knighthood.",
+  "mission_en": {
+    "objective_en": "In Chapter 2 M orders that, once cured, Bond is to 'eliminate' Scaramanga, thereby redeeming his attempt on M's life and winning back his Double-O status; Bond himself must first find Scaramanga and carry out the killing.",
+    "investigation_en": "Bond spent six weeks tracking Scaramanga around the Caribbean and Central America, missing him by a day in Trinidad and by hours in Caracas; a BWIA telegram found at Kingston airport led him to No. 3-1/2 Love Lane, Savannah La Mar, where he met Scaramanga in the brothel and was hired as his bodyguard. Inside the Thunderbird Hotel shareholders' meeting he eavesdropped on two sessions with a champagne glass at the door, confirming The Group's sugar, drug, casino and sabotage plots, while joining forces with the undercover CIA men Leiter and Nicholson, who taped the meeting.",
+    "key_clues_en": [
+      "The BWIA telegram: 'The samples will be available at 3-1/2 S.L.M. as from midday tomorrow' — S.L.M. is Savannah La Mar.",
+      "The Gleaner advertisement for the auction of No. 3-1/2 Love Lane on Wednesday, 27 May.",
+      "Scaramanga's own admission that he killed Commander Ross ten days earlier and sank the body in the La Brea pitch lake.",
+      "Hendriks's long-distance call in Russian from the hotel lobby: Moscow confirms Bond's identity and orders his death.",
+      "Hendriks identified Bond from the scars on his body and the scar down the right side of his face, seen through field glasses while Bond was swimming.",
+      "Scaramanga's conference-room bug was bled off by Nicholson to a tape recorder, capturing the murder of Rotkopf and the confession of Ross's murder."
+    ],
+    "outcome_en": "On the train Bond killed Hendriks, Leiter killed Gengerella and disarmed the other shareholders, and the blown Orange River bridge sent Binion, Garfinkel and Paradise to their deaths in the river; in the morass Bond killed Scaramanga with five shots, but was himself badly wounded by the poisoned bullet. Bond, Leiter and Nicholson received the Jamaica Police Medal, and Bond declined the KCMG the Queen proposed to confer on him."
+  },
+  "adaptation_differences_en": [
+    "The film differences for this novel have not been checked."
+  ]
 }

@@ -49,7 +49,8 @@
       ],
       "mentioned_only": [
         "q"
-      ]
+      ],
+      "title_en": "Casino Royale"
     },
     {
       "novel_no": 2,
@@ -97,7 +98,8 @@
         "tracy",
         "vivienne-michel"
       ],
-      "mentioned_only": []
+      "mentioned_only": [],
+      "title_en": "Live and Let Die"
     },
     {
       "novel_no": 3,
@@ -145,7 +147,8 @@
         "tracy",
         "vivienne-michel"
       ],
-      "mentioned_only": []
+      "mentioned_only": [],
+      "title_en": "Moonraker"
     },
     {
       "novel_no": 4,
@@ -193,7 +196,8 @@
         "tracy",
         "vivienne-michel"
       ],
-      "mentioned_only": []
+      "mentioned_only": [],
+      "title_en": "Diamonds Are Forever"
     },
     {
       "novel_no": 5,
@@ -241,7 +245,8 @@
         "tracy",
         "vivienne-michel"
       ],
-      "mentioned_only": []
+      "mentioned_only": [],
+      "title_en": "From Russia with Love"
     },
     {
       "novel_no": 6,
@@ -289,7 +294,8 @@
         "tracy",
         "vivienne-michel"
       ],
-      "mentioned_only": []
+      "mentioned_only": [],
+      "title_en": "Dr No"
     },
     {
       "novel_no": 7,
@@ -337,7 +343,8 @@
         "tracy",
         "vivienne-michel"
       ],
-      "mentioned_only": []
+      "mentioned_only": [],
+      "title_en": "Goldfinger"
     },
     {
       "novel_no": 8,
@@ -385,7 +392,8 @@
         "tracy",
         "vivienne-michel"
       ],
-      "mentioned_only": []
+      "mentioned_only": [],
+      "title_en": "For Your Eyes Only"
     },
     {
       "novel_no": 9,
@@ -433,7 +441,8 @@
         "tracy",
         "vivienne-michel"
       ],
-      "mentioned_only": []
+      "mentioned_only": [],
+      "title_en": "Thunderball"
     },
     {
       "novel_no": 10,
@@ -481,7 +490,8 @@
         "scaramanga",
         "tracy"
       ],
-      "mentioned_only": []
+      "mentioned_only": [],
+      "title_en": "The Spy Who Loved Me"
     },
     {
       "novel_no": 11,
@@ -529,7 +539,8 @@
         "dexter-smythe",
         "scaramanga"
       ],
-      "mentioned_only": []
+      "mentioned_only": [],
+      "title_en": "On Her Majesty's Secret Service"
     },
     {
       "novel_no": 12,
@@ -577,7 +588,8 @@
         "dexter-smythe",
         "scaramanga"
       ],
-      "mentioned_only": []
+      "mentioned_only": [],
+      "title_en": "You Only Live Twice"
     },
     {
       "novel_no": 13,
@@ -625,7 +637,8 @@
       "not_yet_introduced": [
         "dexter-smythe"
       ],
-      "mentioned_only": []
+      "mentioned_only": [],
+      "title_en": "The Man with the Golden Gun"
     },
     {
       "novel_no": 14,
@@ -672,7 +685,8 @@
         "vesper-lynd"
       ],
       "not_yet_introduced": [],
-      "mentioned_only": []
+      "mentioned_only": [],
+      "title_en": "Octopussy and The Living Daylights"
     }
   ],
   "characters": [
@@ -683,7 +697,9 @@
       "first_present_novel_no": 1,
       "last_present_novel_no": 14,
       "death_novel_no": null,
-      "note": null
+      "note": null,
+      "name_en": "James Bond",
+      "timeline_cutoff_en": "Octopussy and The Living Daylights (1966)"
     },
     {
       "id": "m",
@@ -692,7 +708,9 @@
       "first_present_novel_no": 1,
       "last_present_novel_no": 14,
       "death_novel_no": null,
-      "note": null
+      "note": null,
+      "name_en": "M",
+      "timeline_cutoff_en": "Octopussy and The Living Daylights (1966)"
     },
     {
       "id": "moneypenny",
@@ -701,7 +719,9 @@
       "first_present_novel_no": 1,
       "last_present_novel_no": 14,
       "death_novel_no": null,
-      "note": null
+      "note": null,
+      "name_en": "Miss Moneypenny",
+      "timeline_cutoff_en": "Octopussy (1966)"
     },
     {
       "id": "q",
@@ -710,7 +730,10 @@
       "first_present_novel_no": null,
       "last_present_novel_no": null,
       "death_novel_no": null,
-      "note": "14部中从未以present登场；timeline_cutoff语义待确认（见VALIDATION-REPORT尚未解决问题）"
+      "note": "14部中从未以present登场；timeline_cutoff语义待确认（见VALIDATION-REPORT尚未解决问题）",
+      "name_en": "Q",
+      "timeline_cutoff_en": "The Man with the Golden Gun (1965)",
+      "note_en": "Never appears as present in any of the 14 novels; timeline_cutoff semantics to be confirmed (see VALIDATION-REPORT, unresolved issues)."
     },
     {
       "id": "felix-leiter",
@@ -719,7 +742,9 @@
       "first_present_novel_no": 1,
       "last_present_novel_no": 13,
       "death_novel_no": null,
-      "note": null
+      "note": null,
+      "name_en": "Felix Leiter",
+      "timeline_cutoff_en": "The Man with the Golden Gun (1965)"
     },
     {
       "id": "le-chiffre",
@@ -728,7 +753,9 @@
       "first_present_novel_no": 1,
       "last_present_novel_no": 1,
       "death_novel_no": 2,
-      "note": null
+      "note": null,
+      "name_en": "Le Chiffre",
+      "timeline_cutoff_en": "Casino Royale (1953)"
     },
     {
       "id": "dr-no",
@@ -737,7 +764,9 @@
       "first_present_novel_no": 6,
       "last_present_novel_no": 6,
       "death_novel_no": 7,
-      "note": null
+      "note": null,
+      "name_en": "Dr Julius No",
+      "timeline_cutoff_en": "Dr No (1958)"
     },
     {
       "id": "auric-goldfinger",
@@ -746,7 +775,9 @@
       "first_present_novel_no": 7,
       "last_present_novel_no": 7,
       "death_novel_no": 8,
-      "note": null
+      "note": null,
+      "name_en": "Auric Goldfinger",
+      "timeline_cutoff_en": "Goldfinger (1959)"
     },
     {
       "id": "blofeld",
@@ -755,7 +786,9 @@
       "first_present_novel_no": 9,
       "last_present_novel_no": 12,
       "death_novel_no": 13,
-      "note": null
+      "note": null,
+      "name_en": "Ernst Stavro Blofeld",
+      "timeline_cutoff_en": "You Only Live Twice (1964)"
     },
     {
       "id": "vesper-lynd",
@@ -764,7 +797,9 @@
       "first_present_novel_no": 1,
       "last_present_novel_no": 1,
       "death_novel_no": 2,
-      "note": null
+      "note": null,
+      "name_en": "Vesper Lynd",
+      "timeline_cutoff_en": "Casino Royale (1953)"
     },
     {
       "id": "tatiana-romanov",
@@ -773,7 +808,9 @@
       "first_present_novel_no": 5,
       "last_present_novel_no": 5,
       "death_novel_no": null,
-      "note": null
+      "note": null,
+      "name_en": "Tatiana Romanova",
+      "timeline_cutoff_en": "From Russia with Love (1957)"
     },
     {
       "id": "tracy",
@@ -782,7 +819,9 @@
       "first_present_novel_no": 11,
       "last_present_novel_no": 11,
       "death_novel_no": 12,
-      "note": null
+      "note": null,
+      "name_en": "Tracy di Vicenzo",
+      "timeline_cutoff_en": "You Only Live Twice (1964)"
     },
     {
       "id": "mathis",
@@ -791,7 +830,9 @@
       "first_present_novel_no": 1,
       "last_present_novel_no": 5,
       "death_novel_no": null,
-      "note": null
+      "note": null,
+      "name_en": "René Mathis",
+      "timeline_cutoff_en": "From Russia with Love (1957)"
     },
     {
       "id": "mr-big",
@@ -800,7 +841,9 @@
       "first_present_novel_no": 2,
       "last_present_novel_no": 2,
       "death_novel_no": 3,
-      "note": null
+      "note": null,
+      "name_en": "Buonaparte Ignace Gallia",
+      "timeline_cutoff_en": "Live and Let Die (1954)"
     },
     {
       "id": "solitaire",
@@ -809,7 +852,9 @@
       "first_present_novel_no": 2,
       "last_present_novel_no": 6,
       "death_novel_no": null,
-      "note": null
+      "note": null,
+      "name_en": "Simone Latrelle",
+      "timeline_cutoff_en": "Dr No (1958)"
     },
     {
       "id": "drax",
@@ -818,7 +863,9 @@
       "first_present_novel_no": 3,
       "last_present_novel_no": 3,
       "death_novel_no": 4,
-      "note": null
+      "note": null,
+      "name_en": "Hugo Drax",
+      "timeline_cutoff_en": "Moonraker (1955)"
     },
     {
       "id": "gala-brand",
@@ -827,7 +874,9 @@
       "first_present_novel_no": 3,
       "last_present_novel_no": 3,
       "death_novel_no": null,
-      "note": null
+      "note": null,
+      "name_en": "Gala Brand",
+      "timeline_cutoff_en": "Moonraker (1955)"
     },
     {
       "id": "jack-spang",
@@ -836,7 +885,9 @@
       "first_present_novel_no": 4,
       "last_present_novel_no": 4,
       "death_novel_no": 5,
-      "note": null
+      "note": null,
+      "name_en": "Jack Spang",
+      "timeline_cutoff_en": "Diamonds Are Forever (1956)"
     },
     {
       "id": "seraffimo-spang",
@@ -845,7 +896,9 @@
       "first_present_novel_no": 4,
       "last_present_novel_no": 4,
       "death_novel_no": 5,
-      "note": null
+      "note": null,
+      "name_en": "Seraffimo Spang",
+      "timeline_cutoff_en": "Diamonds Are Forever (1956)"
     },
     {
       "id": "tiffany-case",
@@ -854,7 +907,9 @@
       "first_present_novel_no": 4,
       "last_present_novel_no": 4,
       "death_novel_no": null,
-      "note": null
+      "note": null,
+      "name_en": "Tiffany Case",
+      "timeline_cutoff_en": "Diamonds Are Forever (1956)"
     },
     {
       "id": "rosa-klebb",
@@ -863,7 +918,9 @@
       "first_present_novel_no": 5,
       "last_present_novel_no": 5,
       "death_novel_no": null,
-      "note": null
+      "note": null,
+      "name_en": "Rosa Klebb",
+      "timeline_cutoff_en": "From Russia with Love (1957)"
     },
     {
       "id": "kronsteen",
@@ -872,7 +929,9 @@
       "first_present_novel_no": 5,
       "last_present_novel_no": 5,
       "death_novel_no": null,
-      "note": null
+      "note": null,
+      "name_en": "Kronsteen",
+      "timeline_cutoff_en": "From Russia with Love (1957)"
     },
     {
       "id": "red-grant",
@@ -881,7 +940,9 @@
       "first_present_novel_no": 5,
       "last_present_novel_no": 5,
       "death_novel_no": 6,
-      "note": null
+      "note": null,
+      "name_en": "Donovan Grant",
+      "timeline_cutoff_en": "From Russia with Love (1957)"
     },
     {
       "id": "honeychile-rider",
@@ -890,7 +951,9 @@
       "first_present_novel_no": 6,
       "last_present_novel_no": 6,
       "death_novel_no": null,
-      "note": null
+      "note": null,
+      "name_en": "Honeychile Rider",
+      "timeline_cutoff_en": "Dr No (1958)"
     },
     {
       "id": "boothroyd",
@@ -899,7 +962,9 @@
       "first_present_novel_no": 6,
       "last_present_novel_no": 6,
       "death_novel_no": null,
-      "note": null
+      "note": null,
+      "name_en": "Major Boothroyd",
+      "timeline_cutoff_en": "Dr No (1958)"
     },
     {
       "id": "pussy-galore",
@@ -908,7 +973,9 @@
       "first_present_novel_no": 7,
       "last_present_novel_no": 7,
       "death_novel_no": null,
-      "note": null
+      "note": null,
+      "name_en": "Pussy Galore",
+      "timeline_cutoff_en": "Goldfinger (1959)"
     },
     {
       "id": "largo",
@@ -917,7 +984,9 @@
       "first_present_novel_no": 9,
       "last_present_novel_no": 9,
       "death_novel_no": 10,
-      "note": null
+      "note": null,
+      "name_en": "Emilio Largo",
+      "timeline_cutoff_en": "Thunderball (1961)"
     },
     {
       "id": "vivienne-michel",
@@ -926,7 +995,9 @@
       "first_present_novel_no": 10,
       "last_present_novel_no": 10,
       "death_novel_no": null,
-      "note": null
+      "note": null,
+      "name_en": "Vivienne Michel",
+      "timeline_cutoff_en": "The Spy Who Loved Me (1962)"
     },
     {
       "id": "irma-bunt",
@@ -935,7 +1006,9 @@
       "first_present_novel_no": 11,
       "last_present_novel_no": 12,
       "death_novel_no": 13,
-      "note": null
+      "note": null,
+      "name_en": "Irma Bunt",
+      "timeline_cutoff_en": "You Only Live Twice (1964)"
     },
     {
       "id": "mary-goodnight",
@@ -944,7 +1017,9 @@
       "first_present_novel_no": 11,
       "last_present_novel_no": 14,
       "death_novel_no": null,
-      "note": null
+      "note": null,
+      "name_en": "Mary Goodnight",
+      "timeline_cutoff_en": "Octopussy and The Living Daylights (1966)"
     },
     {
       "id": "scaramanga",
@@ -953,7 +1028,9 @@
       "first_present_novel_no": 13,
       "last_present_novel_no": 13,
       "death_novel_no": 14,
-      "note": null
+      "note": null,
+      "name_en": "Francisco Scaramanga",
+      "timeline_cutoff_en": "The Man with the Golden Gun (1965)"
     },
     {
       "id": "dexter-smythe",
@@ -962,7 +1039,9 @@
       "first_present_novel_no": 14,
       "last_present_novel_no": 14,
       "death_novel_no": null,
-      "note": null
+      "note": null,
+      "name_en": "Major Dexter Smythe",
+      "timeline_cutoff_en": "Octopussy and The Living Daylights (1966)"
     }
   ]
 }

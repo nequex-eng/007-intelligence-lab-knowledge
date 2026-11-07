@@ -16,126 +16,147 @@
     "method": "按章节sed分段读"
   },
   "story_timeline": "故事当年3月1日伦敦开场，邦德此前在医院休养约3个月；斯特兰威斯与特鲁布拉德约3周前在牙买加遇害；邦德3月初抵达牙买加，训练1周后乘独木舟夜渡约30英里登上蟹礁岛，在岛上约3天后逃出并返回牙买加，向总督汇报后安排军方清岛；全书主线约3周。诺博士背景时间线：生于北京，上海帮会时期后赴纽约，20世纪20年代末帮会战争期间盗走帮会金库100万美元黄金并遭断手枪击，改容后在密尔沃基读医，1943年以1万英镑购下蟹礁岛，在岛上经营14年；书中另有两处时间表述与此不完全一致，见canon_vs_inference。",
+  "synopsis_en": "In March 1958, Commander John Strangways, the Secret Service's Regional Control Officer for the Caribbean, and his assistant Mary Trueblood are murdered in Kingston, Jamaica, and their bodies sunk in the Mona Reservoir. In London, James Bond - just out of hospital after nearly three months recovering from fugu poisoning - is stripped of the Beretta he has carried for fifteen years and issued a Walther PPK and a Smith & Wesson Centennial Airweight. M sends him to Jamaica as acting Head of Station, ostensibly on holiday, to find out what happened. The trail leads to Crab Key, a guano island bought in 1943 by Dr Julius No, a German-Chinese former tong treasurer with steel pincers for hands, who is using the island to jam American guided-missile tests at Turks Island for the Russians. After surviving poisoned fruit, a centipede in his bed and the murder of his decoys, Bond crosses thirty miles of sea by canoe with his Cayman Island guide Quarrel, meets the shell-diver Honeychile Rider, and is captured by No's flame-throwing armoured marsh buggy disguised as a dragon. Quarrel is burned alive; Bond and Honey are taken into No's mountain fortress, where No condemns Honey to the black crabs and Bond to an endurance obstacle course. Bond survives the electrified grille, the hot ventilation shaft, the tarantulas and a giant squid, then buries Dr No alive under tons of guano from a crane, escapes with Honey, and reports to the Governor so that HMS Narvik can clear the island.",
   "chapters": [
     {
       "no": "I",
       "title": "I HEAR YOU LOUD AND CLEAR",
       "start_line": 2,
-      "summary": "牙买加金斯顿里士满路，女王俱乐部桥牌局中，地区负责人约翰·斯特兰威斯按惯例于18时15分离席去做每日18时30分与伦敦的无线电定时联络；三名伪装成盲乞丐的中非混血杀手在街头用带消音器的左轮将其射杀，装入棺材运走；其助手玛丽·特鲁布拉德在斯特兰威斯住所的电台前也被杀手枪杀，住所纵火，密码本与文件被焚，尸体与斯特兰威斯同装一棺沉入莫纳水库。"
+      "summary": "牙买加金斯顿里士满路，女王俱乐部桥牌局中，地区负责人约翰·斯特兰威斯按惯例于18时15分离席去做每日18时30分与伦敦的无线电定时联络；三名伪装成盲乞丐的中非混血杀手在街头用带消音器的左轮将其射杀，装入棺材运走；其助手玛丽·特鲁布拉德在斯特兰威斯住所的电台前也被杀手枪杀，住所纵火，密码本与文件被焚，尸体与斯特兰威斯同装一棺沉入莫纳水库。",
+      "summary_en": "On Richmond Road in Kingston, Commander John Strangways leaves the Queen's Club bridge game at 6:15 p.m., as he does every evening, to make his 6:30 p.m. radio contact with London. Three killers disguised as blind beggars shoot him dead in the street with silenced revolvers and carry his body away in a coffin. His assistant Mary Trueblood is shot at the radio set in Strangways's house, the house is burned with its codebooks and files, and both bodies are sunk in the same weighted coffin in the Mona Reservoir."
     },
     {
       "no": "II",
       "title": "CHOICE OF WEAPONS",
       "start_line": 51,
-      "summary": "3周后伦敦3月1日，M在办公室先与神经科医生詹姆斯·莫洛尼爵士通话，确认邦德腿伤痊愈但承受巨大压力，毒物为河豚毒素四氨基吡啶类毒药Tetrodotoxin，是俄国女特工所下，幸得一名法国人人工呼吸抢救；随后M以调查委员会结论为由收缴邦德用了15年的贝雷塔0.25口径手枪，军械官布思罗伊德少校改配瓦尔特PPK7.65毫米手枪与史密斯-韦森Centennial Airweight0.38口径无击锤转轮手枪，配伯恩斯-马丁三联快拔枪套，限1周内练熟。"
+      "summary": "3周后伦敦3月1日，M在办公室先与神经科医生詹姆斯·莫洛尼爵士通话，确认邦德腿伤痊愈但承受巨大压力，毒物为河豚毒素四氨基吡啶类毒药Tetrodotoxin，是俄国女特工所下，幸得一名法国人人工呼吸抢救；随后M以调查委员会结论为由收缴邦德用了15年的贝雷塔0.25口径手枪，军械官布思罗伊德少校改配瓦尔特PPK7.65毫米手枪与史密斯-韦森Centennial Airweight0.38口径无击锤转轮手枪，配伯恩斯-马丁三联快拔枪套，限1周内练熟。",
+      "summary_en": "Three weeks later, on 1 March in London, M first telephones the neurologist Sir James Molony, who confirms that Bond has recovered from the fugu poison - tetrodotoxin - given him by a Russian woman agent, and was saved by a Frenchman's artificial respiration. M then takes away the Beretta .25 Bond has carried for fifteen years, on the findings of a court of inquiry after it jammed, and the Armourer, Major Boothroyd, issues him a Walther PPK 7.65 mm and a Smith & Wesson Centennial Airweight .38 revolver, with a Berns Martin triple-draw holster, giving him a week to learn them."
     },
     {
       "no": "III",
       "title": "HOLIDAY TASK",
       "start_line": 133,
-      "summary": "M与参谋长向邦德交代斯特兰威斯案：两人失踪3周，官方认定为私奔，总督与警方均持此说，但定时联络中断与桥牌局中途离席等细节不合私奔逻辑；唯一线索是斯特兰威斯生前最后任务——奥杜邦协会关于蟹礁岛玫瑰琵鹭保护区的投诉，岛主为德中混血的诺博士，1943年以1万英镑购岛经营鸟粪；圣诞节前一名看守员全身烧伤逃回牙买加后死亡，称营地遭喷火巨龙袭击，随后两名奥杜邦调查员乘比奇飞机在岛上坠毁身亡；邦德获命赴牙买加任代理站长调查。"
+      "summary": "M与参谋长向邦德交代斯特兰威斯案：两人失踪3周，官方认定为私奔，总督与警方均持此说，但定时联络中断与桥牌局中途离席等细节不合私奔逻辑；唯一线索是斯特兰威斯生前最后任务——奥杜邦协会关于蟹礁岛玫瑰琵鹭保护区的投诉，岛主为德中混血的诺博士，1943年以1万英镑购岛经营鸟粪；圣诞节前一名看守员全身烧伤逃回牙买加后死亡，称营地遭喷火巨龙袭击，随后两名奥杜邦调查员乘比奇飞机在岛上坠毁身亡；邦德获命赴牙买加任代理站长调查。",
+      "summary_en": "M and the Chief of Staff brief Bond on the Strangways case: the two have been missing for three weeks and are officially supposed to have eloped, but the broken radio contact and Strangways leaving a bridge game mid-hand do not fit. The only lead is Strangways's last case - the Audubon Society's complaint about the roseate spoonbill sanctuary on Crab Key, an island bought in 1943 for 10,000 pounds by a German-Chinese, Dr No. A warden was burned alive by a fire-breathing dragon just before Christmas, and two Audubon investigators then died when their Beechcraft crashed on the island. Bond is ordered to Jamaica as acting Head of Station."
     },
     {
       "no": "IV",
       "title": "RECEPTION COMMITTEE",
       "start_line": 179,
-      "summary": "邦德乘超级星座号抵达金斯顿，化名进出口商人，雇员夸雷尔在机场接应；一名自称《每日拾穗者报》摄影记者的中国姑娘安娜贝尔·钟两次为其拍照；邦德发现接应的车竟是斯特兰威斯的黑色太阳光Alpine，意识到行踪已暴露，甩掉一辆跟踪的空出租车后入住蓝山酒店；当晚与夸雷尔在欢乐船夜总会吃饭，夸雷尔讲述蟹礁岛的可怕传闻，钟姑娘再次出现拍照，夸雷尔用扭臂逼问未果，姑娘用闪光灯泡砸伤夸雷尔面颊后逃走，扬言有人会收拾他们。"
+      "summary": "邦德乘超级星座号抵达金斯顿，化名进出口商人，雇员夸雷尔在机场接应；一名自称《每日拾穗者报》摄影记者的中国姑娘安娜贝尔·钟两次为其拍照；邦德发现接应的车竟是斯特兰威斯的黑色太阳光Alpine，意识到行踪已暴露，甩掉一辆跟踪的空出租车后入住蓝山酒店；当晚与夸雷尔在欢乐船夜总会吃饭，夸雷尔讲述蟹礁岛的可怕传闻，钟姑娘再次出现拍照，夸雷尔用扭臂逼问未果，姑娘用闪光灯泡砸伤夸雷尔面颊后逃走，扬言有人会收拾他们。",
+      "summary_en": "Bond flies to Kingston by Super-Constellation under cover as an import and export merchant and is met by Quarrel, his Cayman Island boatman from the treasure hunt five years before. A Chinese girl calling herself Annabel Chung, a freelance photographer for the Daily Gleaner, photographs him twice. Bond realises his car is Strangways's own black Sunbeam Alpine, so his arrival is already known; he shakes off a trailing empty taxi and books into the Blue Hills Hotel. Over dinner at Pus-Feller's Joy Boat nightclub, Quarrel tells him the frightening stories about Crab Key, and the Chung girl photographs him again before smashing a flashbulb into Quarrel's cheek and running off."
     },
     {
       "no": "V",
       "title": "FACTS AND FIGURES",
       "start_line": 289,
-      "summary": "邦德认定斯特兰威斯夫妇已被谋杀，诺博士为唯一嫌疑人；上午拜会代理总督，对方坚持私奔结论并急于结案；殖民地秘书普莱德尔-史密斯详细介绍鸟粪生意：蟹礁岛鸟粪硝酸盐含量低，诺博士以每吨50美元售往安特卫普，近年跌至38至40美元，岛上约10万只鸬鹚价值约150万美元；但蟹礁岛档案的封皮仍在、内文已被取空，最后经手人正是斯特兰威斯，而秘书塔罗小姐也是中国人，邦德确认总督府内有诺博士的眼线。"
+      "summary": "邦德认定斯特兰威斯夫妇已被谋杀，诺博士为唯一嫌疑人；上午拜会代理总督，对方坚持私奔结论并急于结案；殖民地秘书普莱德尔-史密斯详细介绍鸟粪生意：蟹礁岛鸟粪硝酸盐含量低，诺博士以每吨50美元售往安特卫普，近年跌至38至40美元，岛上约10万只鸬鹚价值约150万美元；但蟹礁岛档案的封皮仍在、内文已被取空，最后经手人正是斯特兰威斯，而秘书塔罗小姐也是中国人，邦德确认总督府内有诺博士的眼线。",
+      "summary_en": "Now sure that Strangways and Trueblood were murdered, Bond calls on the Acting Governor, who insists on the elopement theory and wants the case closed. The Colonial Secretary, Pleydell-Smith, explains the guano business: Crab Key guano sells at about $50 a ton, lately down to $38-40 c.i.f. Antwerp, and the island's hundred thousand guanays are worth about a million and a half dollars. But the Crab Key file is empty - covers only, the contents removed, last handled by Strangways - and the secretary who took the file, the Chinese Miss Taro, tells Bond that Dr No has eyes inside King's House."
     },
     {
       "no": "VI",
       "title": "THE FINGER ON THE TRIGGER",
       "start_line": 361,
-      "summary": "邦德在牙买加学院查阅1910年蟹礁岛测绘图：全岛约50平方英里，东四分之三为沼泽浅湖，西端500英尺高山，鸟粪矿最后开采于1880年，距牙买加北岸加利纳角约30英里、距古巴约60英里；回酒店发现总督府送来的水果篮，细查发现每颗水果都有针孔，行李箱锁有被撬痕迹，确认有人下毒；他将水果寄交公共化验师，并决定暂不向M汇报，夜里一条约5至6英寸长的蜈蚣爬上他的身体，他屏息不动直至其爬离才将其打死。"
+      "summary": "邦德在牙买加学院查阅1910年蟹礁岛测绘图：全岛约50平方英里，东四分之三为沼泽浅湖，西端500英尺高山，鸟粪矿最后开采于1880年，距牙买加北岸加利纳角约30英里、距古巴约60英里；回酒店发现总督府送来的水果篮，细查发现每颗水果都有针孔，行李箱锁有被撬痕迹，确认有人下毒；他将水果寄交公共化验师，并决定暂不向M汇报，夜里一条约5至6英寸长的蜈蚣爬上他的身体，他屏息不动直至其爬离才将其打死。",
+      "summary_en": "At the Jamaica Institute Bond studies the 1910 survey map of Crab Key: about fifty square miles, three-quarters swamp and shallow lake to the east, a 500-foot guano mountain to the west, last worked in 1880, about thirty miles north of Galina Point and sixty miles south of Cuba. Back at his hotel he finds a fruit basket sent in the Governor's name; every piece of fruit has a pinhole, and his suitcase lock has been forced. That night a centipede five or six inches long climbs over his body in bed; he lies motionless until it leaves, then kills it."
     },
     {
       "no": "VII",
       "title": "NIGHT PASSAGE",
       "start_line": 410,
-      "summary": "邦德安排两名替身驾驶太阳光车前往蒙特哥贝制造假行踪，自己与夸雷尔租下北岸摩根港的博德泽特别墅进行1周体能训练，并为夸雷尔购买5000英镑人寿保险；报纸称替身所驾太阳光车在魔鬼跑道遭失控卡车撞下深谷，两名替身本·吉本斯与约西亚·史密斯死亡；化验电报称每件水果所含氰化物足可毒死一匹马；训练结束后两人于黑夜乘独木舟横渡约30英里海面，黎明前在蟹礁岛南海岸河口附近的黑沙滩登陆并藏好独木舟。"
+      "summary": "邦德安排两名替身驾驶太阳光车前往蒙特哥贝制造假行踪，自己与夸雷尔租下北岸摩根港的博德泽特别墅进行1周体能训练，并为夸雷尔购买5000英镑人寿保险；报纸称替身所驾太阳光车在魔鬼跑道遭失控卡车撞下深谷，两名替身本·吉本斯与约西亚·史密斯死亡；化验电报称每件水果所含氰化物足可毒死一匹马；训练结束后两人于黑夜乘独木舟横渡约30英里海面，黎明前在蟹礁岛南海岸河口附近的黑沙滩登陆并藏好独木舟。",
+      "summary_en": "Bond hires two look-alikes to drive the Sunbeam to Montego Bay as decoys, and rents the Beau Desert bungalow at Morgan's Harbour for a week of training with Quarrel, taking out a 5,000-pound life-insurance policy on him. The newspaper reports the decoys' Sunbeam run off the Devil's Racecourse by a runaway lorry, both men killed, and a telegram from Pleydell-Smith says every piece of fruit contained enough cyanide to kill a horse. On a dark night Bond and Quarrel paddle a dugout canoe some thirty miles and land before dawn on the black-sand beach near the river mouth on Crab Key's south coast."
     },
     {
       "no": "VIII",
       "title": "THE ELEGANT VENUS",
       "start_line": 479,
-      "summary": "邦德在海滩醒来，遇见裸体采集贝壳的金发姑娘哈妮·莱德，她采集的紫粉色贝壳名为优雅维纳斯蛤，在迈阿密每枚完美标本可卖5美元；她自述来岛约1年，圣诞节前夜曾在看守员营地附近亲眼看见喷火巨龙：黑金色、双眼发光、长鼻、短翼、尖尾，烧毁鸟巢与树林；她不知邦德身份，两人互通姓名，远处传来搜捕艇的柴油机声。"
+      "summary": "邦德在海滩醒来，遇见裸体采集贝壳的金发姑娘哈妮·莱德，她采集的紫粉色贝壳名为优雅维纳斯蛤，在迈阿密每枚完美标本可卖5美元；她自述来岛约1年，圣诞节前夜曾在看守员营地附近亲眼看见喷火巨龙：黑金色、双眼发光、长鼻、短翼、尖尾，烧毁鸟巢与树林；她不知邦德身份，两人互通姓名，远处传来搜捕艇的柴油机声。",
+      "summary_en": "Waking on the beach, Bond meets a naked girl collecting shells: Honeychile Rider, who has come alone by canoe from Jamaica to gather Venus Elegans - the Elegant Venus - worth five dollars a perfect specimen in Miami. She has been visiting the island for about a year and, on Christmas Eve, watched a black-and-gold dragon with glowing eyes, a long snout, short wings and a pointed tail breathe fire over the wardens' camp. In the distance they hear the diesel of a search launch."
     },
     {
       "no": "IX",
       "title": "CLOSE SHAVES",
       "start_line": 553,
-      "summary": "诺博士的搜捕艇发现哈妮独木舟的藏匿处，用斯潘道机枪向海滩扫射，邦德与哈妮伏沙躲过；哈妮的独木舟被打成两截；三人沿河向上游涉水前进，途中以竹管呼吸潜水躲过带杜宾犬的搜捕队；邦德从河边望见西端鸟粪山、昆西特棚屋与德科维尔轨道，确认岛上确有工业设施；一行人向湖边看守员营地进发。"
+      "summary": "诺博士的搜捕艇发现哈妮独木舟的藏匿处，用斯潘道机枪向海滩扫射，邦德与哈妮伏沙躲过；哈妮的独木舟被打成两截；三人沿河向上游涉水前进，途中以竹管呼吸潜水躲过带杜宾犬的搜捕队；邦德从河边望见西端鸟粪山、昆西特棚屋与德科维尔轨道，确认岛上确有工业设施；一行人向湖边看守员营地进发。",
+      "summary_en": "Dr No's converted MTB launch, its radar having picked up Honey's canoe, rakes the beach with a tripod Spandau machine gun and saws her canoe in two. Bond, Honey and Quarrel hide in the sand, then wade up the river, breathing through bamboo tubes under water to escape the search party and its Doberman pinschers. From the river Bond sees the guano mountain, the Quonset huts and the Decauville track, proof that the island is industrialised, and they make for the wardens' camp by the lake."
     },
     {
       "no": "X",
       "title": "DRAGON SPOOR",
       "start_line": 622,
-      "summary": "搜捕队过后，一名落单的守卫悄悄折返，用靴子踩到潜伏的邦德，邦德近距离开枪将其击毙，缴获一支美国雷明顿0.300口径卡宾枪；三人继续沿河前进，发现巨龙留下的车辙：两道约2英尺宽的平滑轮印加一道约3英寸宽的中央轮印，呈直线穿越沼泽并没入湖水，沿途灌木被烧焦；抵达湖边沙洲上的看守员营地废墟，找到未开封的罐头、睡袋与一个装有5美元与3牙买加镑的小钱包，确认看守员是仓促逃离或被杀。"
+      "summary": "搜捕队过后，一名落单的守卫悄悄折返，用靴子踩到潜伏的邦德，邦德近距离开枪将其击毙，缴获一支美国雷明顿0.300口径卡宾枪；三人继续沿河前进，发现巨龙留下的车辙：两道约2英尺宽的平滑轮印加一道约3英寸宽的中央轮印，呈直线穿越沼泽并没入湖水，沿途灌木被烧焦；抵达湖边沙洲上的看守员营地废墟，找到未开封的罐头、睡袋与一个装有5美元与3牙买加镑的小钱包，确认看守员是仓促逃离或被杀。",
+      "summary_en": "After the search party passes, a guard creeps back and steps on Bond where he lies hidden; Bond shoots him at point-blank range and Quarrel takes his U.S. Army Remington .300 carbine. Following the river they find the dragon's tracks: two smooth wheel ruts about two feet wide with a three-inch centre track, running straight across the marsh into the lake past scorched bushes and burnt birds' nests. At the ruined wardens' camp on a sandspit they find unopened tins, sleeping bags and a wallet holding five dollars and three Jamaican pounds - signs of a hurried flight or a killing."
     },
     {
       "no": "XI",
       "title": "AMIDST THE ALIEN CANE",
       "start_line": 683,
-      "summary": "夜宿营地，邦德向哈妮坦承自己是伦敦派来的调查人员；哈妮讲述身世：5岁时父母死于博德泽特大宅火灾，自幼与黑人保姆住在废墟地窖，15岁保姆去世后遭白人监工曼德强暴并打断鼻梁，后用黑寡妇蜘蛛毒死对方；靠采集贝壳卖给迈阿密商人攒钱，目标是攒500英镑去纽约做鼻子整形手术，之后想当应召女郎赚钱买回博德泽特；她读旧百科全书自学至T字母开头，熟悉动植物；两人约定回到牙买加后再见，哈妮称邦德欠她奴隶时间。"
+      "summary": "夜宿营地，邦德向哈妮坦承自己是伦敦派来的调查人员；哈妮讲述身世：5岁时父母死于博德泽特大宅火灾，自幼与黑人保姆住在废墟地窖，15岁保姆去世后遭白人监工曼德强暴并打断鼻梁，后用黑寡妇蜘蛛毒死对方；靠采集贝壳卖给迈阿密商人攒钱，目标是攒500英镑去纽约做鼻子整形手术，之后想当应召女郎赚钱买回博德泽特；她读旧百科全书自学至T字母开头，熟悉动植物；两人约定回到牙买加后再见，哈妮称邦德欠她奴隶时间。",
+      "summary_en": "Overnight at the camp, Bond tells Honey he is an investigator from London, and she tells her life: her parents died in the fire that burned the Beau Desert Great House when she was five; she grew up in the cellar with her black nanny, who died when she was fifteen; the white overseer Mander raped her and broke her nose, and she killed him with a black widow spider - he took a week to die. She taught herself from an old encyclopedia, up to the letter T, and sells shells to save 500 pounds for a nose operation in New York, after which she means to work as a call girl to buy back Beau Desert. She makes Bond promise to see her again in Jamaica - 'slave-time' he now owes her."
     },
     {
       "no": "XII",
       "title": "THE THING",
       "start_line": 767,
-      "summary": "午夜巨龙渡湖而来，邦德认出它是伪装成龙的装甲沼泽车，配火焰喷射器与柴油发动机，轮胎为巨大实心橡胶轮；夸雷尔开枪无效，邦德打碎其车灯仍无法阻止，巨龙喷火将夸雷尔活活烧死；邦德与哈妮被迫投降交出史密斯-韦森手枪，被押上沼泽车，穿过湖面与山路进入西端棚屋区，经岩石通道进入山体内部。"
+      "summary": "午夜巨龙渡湖而来，邦德认出它是伪装成龙的装甲沼泽车，配火焰喷射器与柴油发动机，轮胎为巨大实心橡胶轮；夸雷尔开枪无效，邦德打碎其车灯仍无法阻止，巨龙喷火将夸雷尔活活烧死；邦德与哈妮被迫投降交出史密斯-韦森手枪，被押上沼泽车，穿过湖面与山路进入西端棚屋区，经岩石通道进入山体内部。",
+      "summary_en": "At midnight the dragon crosses the lake: an armoured marsh buggy disguised as a dragon, with a diesel engine, huge solid rubber tyres and a flamethrower. Quarrel's rifle fire bounces off its armoured dome, and a jet of flame burns him alive. Bond and Honey surrender, give up the Smith & Wesson, and are driven in the buggy across the lake and up the mountain to the Quonset huts, then through a rock passage into the heart of the mountain."
     },
     {
       "no": "XIII",
       "title": "MINK-LINED PRISON",
       "start_line": 841,
-      "summary": "山体内部竟是豪华疗养院式接待处，接待员罗斯修女与莉莉修女以病人礼遇接待两人，邦德化名鸟类学家约翰·布莱斯，称代表奥杜邦协会，妻子为哈妮，以M的真名作紧急联系人并称其为叔叔；两人被安置在14号与15号奶油套房，房间无窗、无内侧门把手，早餐中被下药昏睡；上午10时诺博士悄悄进入房间，用胸前电筒与钢钳手检查熟睡的两人。"
+      "summary": "山体内部竟是豪华疗养院式接待处，接待员罗斯修女与莉莉修女以病人礼遇接待两人，邦德化名鸟类学家约翰·布莱斯，称代表奥杜邦协会，妻子为哈妮，以M的真名作紧急联系人并称其为叔叔；两人被安置在14号与15号奶油套房，房间无窗、无内侧门把手，早餐中被下药昏睡；上午10时诺博士悄悄进入房间，用胸前电筒与钢钳手检查熟睡的两人。",
+      "summary_en": "Inside the mountain is a luxurious sanatorium-style reception run by Sister Rose and Sister Lily, who treat the prisoners as patients. Bond registers as John Bryce, an ornithologist representing the Audubon Society, with Honey as his wife, giving M's real name as their next of kin, described as their uncle. They are put in the Cream Suite, rooms 14 and 15 - windowless, with no inside door handles - and their breakfast is drugged. At ten o'clock Dr No himself slips into the darkened room and examines their sleeping bodies by torchlight with his steel pincers."
     },
     {
       "no": "XIV",
       "title": "COME INTO MY PARLOUR",
       "start_line": 932,
-      "summary": "下午4时30分醒来，邦德与哈妮被带去与诺博士共进晚餐；诺博士的书房一整面墙为深入海底20英尺的装甲玻璃水族窗，造价100万美元；诺博士身高至少比邦德高6英寸，秃头、黄皮肤、无手，以钢钳义肢代替，眼睛为隐形眼镜下无表情的黑色眼窝，自称能看穿谎言；他点破邦德的秘密情报局身份，邦德点了伏特加干马提尼并要求摇匀不搅拌；保镖萨姆-萨姆随身携带对讲机待命。"
+      "summary": "下午4时30分醒来，邦德与哈妮被带去与诺博士共进晚餐；诺博士的书房一整面墙为深入海底20英尺的装甲玻璃水族窗，造价100万美元；诺博士身高至少比邦德高6英寸，秃头、黄皮肤、无手，以钢钳义肢代替，眼睛为隐形眼镜下无表情的黑色眼窝，自称能看穿谎言；他点破邦德的秘密情报局身份，邦德点了伏特加干马提尼并要求摇匀不搅拌；保镖萨姆-萨姆随身携带对讲机待命。",
+      "summary_en": "Waking at 4:30 p.m., Bond and Honey are taken to dinner with Dr No at 7:45. His study has a whole wall of armoured glass running twenty feet down into the sea - a living aquarium that cost a million dollars. Dr No is at least six inches taller than Bond, bald, deep yellow-skinned, with no hands but articulated steel pincers, and eyes that ring like metal when he taps them: contact lenses over black, expressionless sockets. His bodyguard Sam-sam waits on a walkie-talkie. Dr No unmasks Bond as a Secret Service man, and Bond orders a vodka dry Martini - shaken, not stirred."
     },
     {
       "no": "XV",
       "title": "PANDORA'S BOX",
       "start_line": 992,
-      "summary": "诺博士讲述生平：德国传教士与中国良家女子之私生子，生于北京，上海帮会出身，30岁任纽约Hip Sings帮会司库，20年代末帮会战争中盗走100万美元黄金，遭酷刑、断手、枪击心脏，因心脏长在右侧而幸存，靠珍邮变卖黄金并改容，在密尔沃基读医后以医生身份环游世界，1943年购下蟹礁岛经营鸟粪14年；为驱赶玳瑁琵鹭保护区，他用沼泽车烧毁看守员营地并制造飞机坠毁事故；他承认斯特兰威斯夫妇沉尸莫纳水库，并透露岛上真正的生意是为俄国人干扰特克斯岛美军导弹试验。"
+      "summary": "诺博士讲述生平：德国传教士与中国良家女子之私生子，生于北京，上海帮会出身，30岁任纽约Hip Sings帮会司库，20年代末帮会战争中盗走100万美元黄金，遭酷刑、断手、枪击心脏，因心脏长在右侧而幸存，靠珍邮变卖黄金并改容，在密尔沃基读医后以医生身份环游世界，1943年购下蟹礁岛经营鸟粪14年；为驱赶玳瑁琵鹭保护区，他用沼泽车烧毁看守员营地并制造飞机坠毁事故；他承认斯特兰威斯夫妇沉尸莫纳水库，并透露岛上真正的生意是为俄国人干扰特克斯岛美军导弹试验。",
+      "summary_en": "Over dinner Dr No tells his life: the illegitimate son of a German missionary and a Chinese girl of good family, born in Peking and raised by an aunt; a Shanghai tong boy who became treasurer of New York's Hip Sings at thirty, stole a million dollars in gold during the tong wars of the late 1920s, and was tortured, had his hands cut off and was shot through the heart - surviving because his heart is on the right side. He smuggled the gold out by dealing in rare stamps, rebuilt his face, studied medicine in Milwaukee, and bought Crab Key in 1943. To protect his privacy he burned the wardens' camp with the marsh buggy and arranged the Beechcraft crash, and he admits that Strangways and Trueblood lie at the bottom of the Mona Reservoir."
     },
     {
       "no": "XVI",
       "title": "HORIZONS OF AGONY",
       "start_line": 1031,
-      "summary": "晚餐时邦德偷藏一把餐刀与一只打火机；诺博士拒绝邦德以放两人回牙买加换取1周逃亡时间的交易，称其所谓已留后手报告是谎言；他详述导弹干扰行动：岛上有价值100万美元的设备与6名莫斯科培训的技术员，可干扰特克斯岛发射的斯纳克等多型导弹的制导信号，下一步计划捕获导弹样机卖给俄国，开价1000万至2000万美元；随后宣布处刑：哈妮将被裸体绑在蟹群迁徙路上任螃蟹啃食，邦德则要跑一趟死亡障碍赛供其记录人体耐力数据。"
+      "summary": "晚餐时邦德偷藏一把餐刀与一只打火机；诺博士拒绝邦德以放两人回牙买加换取1周逃亡时间的交易，称其所谓已留后手报告是谎言；他详述导弹干扰行动：岛上有价值100万美元的设备与6名莫斯科培训的技术员，可干扰特克斯岛发射的斯纳克等多型导弹的制导信号，下一步计划捕获导弹样机卖给俄国，开价1000万至2000万美元；随后宣布处刑：哈妮将被裸体绑在蟹群迁徙路上任螃蟹啃食，邦德则要跑一趟死亡障碍赛供其记录人体耐力数据。",
+      "summary_en": "At dinner Bond pockets a table knife and a lighter. Dr No rejects Bond's offer - a week to escape in exchange for leaving the island alone - seeing through his bluff that a report is already filed in London. He then explains the island's real business: a million dollars' worth of equipment and six Moscow-trained technicians jamming the guidance signals of American missiles tested from Turks Island - Snark, Zuni, Matador, Petrel, Regulus and Bomarc - with a plan to capture a missile and sell it to the Russians for ten to twenty million dollars. He sentences Honey to be staked naked on the migration path of the black crabs, and Bond to run an endurance obstacle course for his pain experiments."
     },
     {
       "no": "XVII",
       "title": "THE LONG SCREAM",
       "start_line": 1084,
-      "summary": "邦德被押入Q号石室，唯一出口是带电的通风栅，他触电后拆下栅网制成约4英尺长的铁丝矛；爬通风管，先在约50码垂直金属管中以肩脚撑壁攀爬，再穿越高温管段，全身多处烫伤与水泡，接着以打火机火光驱赶并击碎一笼约20只巨型狼蛛；最后从斜管高速滑落，坠入山脚海湾，险些溺水。"
+      "summary": "邦德被押入Q号石室，唯一出口是带电的通风栅，他触电后拆下栅网制成约4英尺长的铁丝矛；爬通风管，先在约50码垂直金属管中以肩脚撑壁攀爬，再穿越高温管段，全身多处烫伤与水泡，接着以打火机火光驱赶并击碎一笼约20只巨型狼蛛；最后从斜管高速滑落，坠入山脚海湾，险些溺水。",
+      "summary_en": "Bond is locked in a bare stone cell whose only exit is an electrified ventilation grille. He tears the grille down and fashions a wire spear about four feet long, then climbs some fifty yards up a vertical metal shaft, crawls through a scorching hot section that blisters him, and fights his way with the lighter through a cage of about twenty giant tarantulas. Finally the shaft slopes and he slides helplessly down it, shooting out a hundred feet above the sea."
     },
     {
       "no": "XVIII",
       "title": "KILLING GROUND",
       "start_line": 1146,
-      "summary": "邦德坠入被铁丝网围住的深水湾，网内饲养着巨型鱿鱼；他攀上铁丝网，鱿鱼以触手缠住其腿部与腹部，他以餐刀割断触手，又以铁丝矛刺瞎其一只眼睛，鱿鱼喷出墨汁遁走；邦德沿铁丝网爬上岸，洗去血污与墨汁，沿工人小径绕过悬崖，望见码头、起重机与安特卫普油轮布兰奇号，诺博士正在监装鸟粪。"
+      "summary": "邦德坠入被铁丝网围住的深水湾，网内饲养着巨型鱿鱼；他攀上铁丝网，鱿鱼以触手缠住其腿部与腹部，他以餐刀割断触手，又以铁丝矛刺瞎其一只眼睛，鱿鱼喷出墨汁遁走；邦德沿铁丝网爬上岸，洗去血污与墨汁，沿工人小径绕过悬崖，望见码头、起重机与安特卫普油轮布兰奇号，诺博士正在监装鸟粪。",
+      "summary_en": "Bond plunges into a deep inlet fenced off with wire netting, where a giant squid is kept. He climbs the fence and, lashed to the wire, slashes a seizing tentacle with his table knife and drives the wire spear into one of the squid's great eyes; the squid jets ink and vanishes. Bond climbs ashore, washes off the blood and ink, and follows a workers' track round the cliff to the jetty, where a crane is loading the Antwerp tanker SS Blanche with guano and Dr No stands watching."
     },
     {
       "no": "XIX",
       "title": "A SHOWER OF DEATH",
       "start_line": 1189,
-      "summary": "邦德潜入起重机驾驶室，一刀割断沼泽车司机的颈部动脉夺取起重机，将传送带鸟粪出口对准诺博士，用每分钟数吨的鸟粪将其活埋；随后沿传送带隧道逃入山体，途中与以为他已死的哈妮相撞——哈妮并未被螃蟹吃掉，因螃蟹不吃活人肉且她全身无伤口，她挣脱木桩后潜入机修间换上工装，正要去刺杀诺博士；两人又在隧道内枪杀3名持枪守卫，夺取沼泽车逃出，邦德在湖中开枪射杀追来的杜宾犬群，驾车驶向河口。"
+      "summary": "邦德潜入起重机驾驶室，一刀割断沼泽车司机的颈部动脉夺取起重机，将传送带鸟粪出口对准诺博士，用每分钟数吨的鸟粪将其活埋；随后沿传送带隧道逃入山体，途中与以为他已死的哈妮相撞——哈妮并未被螃蟹吃掉，因螃蟹不吃活人肉且她全身无伤口，她挣脱木桩后潜入机修间换上工装，正要去刺杀诺博士；两人又在隧道内枪杀3名持枪守卫，夺取沼泽车逃出，邦德在湖中开枪射杀追来的杜宾犬群，驾车驶向河口。",
+      "summary_en": "Bond slips into the crane cabin and cuts the driver's throat, then swings the conveyor so that its mouth pours tons of guano a minute onto Dr No, burying him alive under a twenty-foot yellow mountain. Escaping up the conveyor tunnel he collides with Honey - alive, because the black crabs do not eat living human flesh and she had no wounds: she slipped her stakes, changed into a workman's dungarees in the machine shop, and was on her way to kill Dr No herself. Together they shoot three armed guards in the tunnel, seize the marsh buggy, and drive to the river, Bond shooting the pursuing Dobermans from the lake."
     },
     {
       "no": "XX",
       "title": "SLAVE-TIME",
       "start_line": 1290,
-      "summary": "两人乘独木舟夜航返回摩根港，邦德在医院处理烧伤与咬伤后向总督汇报，总督起初想压下消息，准将与警长坚持立即行动，决定派纳维克号军舰与一排士兵清岛并打捞莫纳水库；邦德发密电给M请病假并讽刺史密斯-韦森转轮枪对付不了火焰喷射器；邦德回博德泽特，哈妮在地窖旧居设烛光晚餐，两人履行奴隶时间的约定，共度一夜，全书结束。"
+      "summary": "两人乘独木舟夜航返回摩根港，邦德在医院处理烧伤与咬伤后向总督汇报，总督起初想压下消息，准将与警长坚持立即行动，决定派纳维克号军舰与一排士兵清岛并打捞莫纳水库；邦德发密电给M请病假并讽刺史密斯-韦森转轮枪对付不了火焰喷射器；邦德回博德泽特，哈妮在地窖旧居设烛光晚餐，两人履行奴隶时间的约定，共度一夜，全书结束。",
+      "summary_en": "Bond and Honey sail the canoe back to Morgan's Harbour by night. After hospital treatment for his burns and bites, Bond reports to the Governor, who wants the affair hushed up but is overruled by the Brigadier and the Police Superintendent: HMS Narvik will carry a platoon to clear Crab Key, and divers will search the Mona Reservoir. Bond signals M asking for sick leave and adding that the Smith & Wesson is ineffective against a flamethrower. Back at Beau Desert, Honey serves a candlelit supper in her cellar, and Bond keeps his promise of slave-time."
     }
   ],
   "characters": [
@@ -183,7 +204,13 @@
           "type": "朋友与前任",
           "change": "5年前共事的朋友；邦德不相信其私奔，坚持调查其失踪真相，最终证实其被诺博士谋杀"
         }
-      ]
+      ],
+      "role_en": "Major character",
+      "appearance_en": "Dark, sunburned skin and grey-blue eyes; the book gives few details of his face. Examining him, Dr No calls his face cold and cruel, his body hard-muscled, his stomach flat and powerful.",
+      "age_clues_en": "No age is given. He has carried the Beretta for fifteen years, was already in service before the war, and Molony says he has been spending his courage since before the war.",
+      "personality_en": "Calm, stubborn and competitive; resents authority but obeys orders. He feels deep guilt over Quarrel's death, and towards Honey he is protective and desiring at once.",
+      "habits_en": "Smokes Royal Blend cigarettes and drinks gin and tonic and vodka dry Martinis, shaken not stirred. He always carries a gun and sleeps with it under his pillow.",
+      "background_en": "A 00 agent of the Secret Service, licensed to kill. In the previous case, at the end of From Russia with Love, he was poisoned with fugu toxin by a Russian woman agent and spent about three months in hospital before returning to duty. Five years earlier he worked a treasure hunt in Jamaica and met Quarrel there."
     },
     {
       "id": "honeychile-rider",
@@ -217,7 +244,13 @@
           "type": "仇人",
           "change": "曼德强暴她并打断其鼻梁，她以黑寡妇蜘蛛将其毒死，耗时1周"
         }
-      ]
+      ],
+      "role_en": "Major character",
+      "appearance_en": "Long ash-blonde hair, large deep-blue eyes, skin an even light cafe-au-lait, and a strong, almost boyish build. Her nose was broken and sits crooked, her greatest shame. Her trademark is the broad leather belt at her right hip carrying a hunting knife.",
+      "age_clues_en": "About twenty: her nanny died when she was fifteen, and she has lived alone for five years since.",
+      "personality_en": "Independent, stubborn and wary; she knows animals and plants but little of people. She loves and hates fiercely and acts decisively - she killed her rapist herself.",
+      "habits_en": "Lives alone in the cellar with snakes, spiders, a mongoose and other animals for company; collects shells to sell to a Miami dealer; an excellent swimmer and diver.",
+      "background_en": "A descendant of the old Jamaican Rider family, whose ancestor was given land by Cromwell for signing Charles I's death warrant. Her parents died in the fire at the Beau Desert Great House when she was five, and she was raised by her black nanny in the cellar of the ruin. She saves from selling shells, aiming to raise 500 pounds for a nose operation in New York, and afterwards means to work as a call girl to earn enough to buy back Beau Desert."
     },
     {
       "id": "dr-no",
@@ -251,7 +284,13 @@
           "type": "敌对",
           "change": "斯特兰威斯调查鸟粪岛后被其派人谋杀沉尸莫纳水库"
         }
-      ]
+      ],
+      "role_en": "Major character",
+      "appearance_en": "About six feet six inches tall, at least six inches taller than Bond; extremely thin, bald, with deep yellow skin that looks almost transparent. He has no hands - articulated steel pincers end his arms. His eyes are black, expressionless sockets under contact lenses that ring like metal when tapped. His chin recedes, his head barely moves, and he wears a gunmetal-grey kimono with a metallic sheen, moving as if gliding.",
+      "age_clues_en": "He was thirty when he became treasurer of the tong, the tong wars fell in the late 1920s, and he has been on the island for fourteen years, which puts him at about sixty; the book never gives his exact age.",
+      "personality_en": "A megalomaniac who regards himself as genius and madman in one; calm, arrogant, obsessed with order and privacy; fascinated by pain and by experiments on human endurance; supremely confident in his plans.",
+      "habits_en": "Eats with his steel pincers and summons his bodyguard on a walkie-talkie; likes to lecture his prisoners at length on his life and his plans.",
+      "background_en": "The illegitimate son of a German missionary and a Chinese girl of good family, born in Peking and raised by an aunt. He rose in the Shanghai tongs, then became treasurer of New York's Hip Sings, stole a million dollars in gold, and was tortured, had his hands cut off and was shot through the heart - surviving because his heart is on the right side. He moved the gold by dealing in rare stamps, remade his face, studied medicine in Milwaukee, and bought Crab Key in 1943. Behind the guano business he jams American missile tests for the Russians."
     },
     {
       "id": "m",
@@ -277,7 +316,13 @@
           "type": "上下级",
           "change": "斯特兰威斯失踪后M倾向于接受私奔说法，派邦德去只是为给其休假借口并了结人事问题"
         }
-      ]
+      ],
+      "role_en": "Major character",
+      "appearance_en": "Elderly, upright, with sharp grey eyes. He rides in a black Silver Wraith Rolls-Royce driven by Smith, a retired sailor.",
+      "age_clues_en": "Not stated; he served through the convoy years of the Second World War.",
+      "personality_en": "Cold, hard and unapproachable; severe with his subordinates and treats agents as expendable; quick to anger at any waste of the Service's resources.",
+      "habits_en": "Smokes a pipe kept in a stand made from the base of a 14-pound shell; wipes his face with a large blue silk handkerchief.",
+      "background_en": "Chief of the Secret Service, with his office on the eighth floor of the headquarters at Regent's Park; Bond's superior."
     },
     {
       "id": "moneypenny",
@@ -292,7 +337,9 @@
       "background": "M的秘书，第II章中仅以对讲机应答出现，M命其取信号文件并约见莫洛尼与军械官",
       "first_appearance_chapter": "II",
       "last_appearance_chapter": "II",
-      "relationships": []
+      "relationships": [],
+      "role_en": "Minor character",
+      "background_en": "M's secretary. In Chapter II she appears only as a voice on the intercom; M tells her to fetch the signals file and to arrange meetings with Molony and the Armourer."
     },
     {
       "id": "boothroyd",
@@ -316,7 +363,11 @@
           "type": "同事",
           "change": "初见即否定邦德的贝雷塔为女士枪，两人互无好感；邦德结尾在密电中讽刺其配枪对付不了火焰喷射器"
         }
-      ]
+      ],
+      "role_en": "Minor character",
+      "appearance_en": "Small and thin, with sandy hair and clear grey eyes set wide apart that never blink.",
+      "personality_en": "Flat, impassive and clinical in manner; authoritative and sure of himself.",
+      "background_en": "The Secret Service Armourer, described by M as the world's greatest expert on small arms. He recommends the Walther PPK after test-firing each type of small automatic 5,000 rounds. In this book he is never called Q."
     },
     {
       "id": "molony",
@@ -331,7 +382,10 @@
       "background": "著名神经科医生，圣玛丽医院任职；治疗邦德约3个月，查明毒物为河豚毒素Tetrodotoxin；引用莫兰关于勇气是资本的论述警告M",
       "first_appearance_chapter": "II",
       "last_appearance_chapter": "II",
-      "relationships": []
+      "relationships": [],
+      "role_en": "Minor character",
+      "personality_en": "Professional and cautious; willing to speak plainly and warn M against wearing his agents out.",
+      "background_en": "A distinguished neurologist at St Mary's Hospital. He treated Bond for about three months, identified the poison as tetrodotoxin, and warned M by quoting Moran on courage as a capital sum."
     },
     {
       "id": "chief-of-staff",
@@ -352,7 +406,12 @@
           "type": "朋友",
           "change": "始终是邦德在总部的密友，本书中无变化"
         }
-      ]
+      ],
+      "role_en": "Minor character",
+      "appearance_en": "About Bond's age; a colonel in the Royal Engineers, his hair prematurely grey at the temples.",
+      "age_clues_en": "About the same age as Bond.",
+      "personality_en": "Humorous and tough; Bond's best friend at headquarters.",
+      "background_en": "M's Chief of Staff, a colonel in the Royal Engineers. He doubts the elopement theory, pointing out that the broken radio contact cannot be explained."
     },
     {
       "id": "strangways",
@@ -380,7 +439,12 @@
           "type": "朋友",
           "change": "5年前共事的朋友；邦德为其复仇"
         }
-      ]
+      ],
+      "role_en": "Minor character",
+      "appearance_en": "Tall and thin, with a black patch over his right eye and a hooked nose; good-looking in the manner of a destroyer captain on his bridge.",
+      "personality_en": "Rigid in his routine, highly strung, and strict about procedure.",
+      "habits_en": "Every evening he left the Queen's Club bridge game at 6:15 p.m. to make his 6:30 p.m. radio contact with London; he had never once missed a contact or needed a Blue Call.",
+      "background_en": "A retired Royal Navy commander, Regional Control Officer for the Caribbean and Jamaica's Passport Control Officer. He worked with Bond on the treasure hunt five years earlier and had held the station for five years; he was murdered on Dr No's orders while investigating the Crab Key guano affair."
     },
     {
       "id": "trueblood",
@@ -395,7 +459,11 @@
       "background": "前皇家海军女子服务队首席军官，后加入秘密情报局任斯特兰威斯的二号助手，在牙买加工作5年；与斯特兰威斯同日被杀，尸体沉入莫纳水库",
       "first_appearance_chapter": "I",
       "last_appearance_chapter": "XV",
-      "relationships": []
+      "relationships": [],
+      "role_en": "Minor character",
+      "appearance_en": "Blonde, and good-looking to judge from her photographs.",
+      "personality_en": "Not described in detail; her service record is good.",
+      "background_en": "Formerly a Chief Officer in the WRNS, then a member of the Secret Service and Strangways's second-in-command, five years in Jamaica. She was murdered on the same day as Strangways, and her body was sunk in the Mona Reservoir."
     },
     {
       "id": "quarrel",
@@ -421,7 +489,13 @@
           "type": "同伴",
           "change": "初见想甩掉她，后认可其本领并承诺邦德会赔她新独木舟"
         }
-      ]
+      ],
+      "role_en": "Major character",
+      "appearance_en": "A Cayman Islander, brown-skinned, with deep grey eyes and a powerful build. His left cheek carries a cross of sticking plaster after Honey smashed a flashbulb into it.",
+      "age_clues_en": "Not stated; he has a family back home in the Cayman Islands.",
+      "personality_en": "Loyal, brave and superstitious, but true to his word; he obeys Bond absolutely and is afraid of Crab Key and of Dr No.",
+      "habits_en": "Calls Bond 'cap'n'. His breakfast is salt fish and ackee with a tot of rum. He is expert at sailing, turtle-fishing and living off the land.",
+      "background_en": "A Cayman Island fisherman and turtle hunter who helped Bond on the treasure hunt five years earlier. Bond hired him at ten pounds a week to help with the investigation and took out a 5,000-pound life-insurance policy on him. He was burned alive by Dr No's flamethrower on Crab Key."
     },
     {
       "id": "pleydell-smith",
@@ -442,7 +516,13 @@
           "type": "盟友",
           "change": "初见即成为邦德的盟友，全程协助调查与收尾"
         }
-      ]
+      ],
+      "role_en": "Minor character",
+      "appearance_en": "Young, with untidy hair and bright, boyish eyes; a nervous pipe smoker.",
+      "age_clues_en": "Young.",
+      "personality_en": "Enthusiastic, talkative and clever; Bond's ally in Jamaica.",
+      "habits_en": "Constantly fiddling with his pipe, hunting for matches and knocking out the ash.",
+      "background_en": "Colonial Secretary of Jamaica, formerly at the consulate in Peru, where he learned the guano trade. He gives Bond all the background on Crab Key and the guano business, and at the end helps Bond arrange the clearing of the island and a job for Honey."
     },
     {
       "id": "governor",
@@ -457,7 +537,12 @@
       "background": "牙买加代理总督，前任休·富特爵士升任后临时接任；坚持斯特兰威斯私奔说并试图压下此案；结尾被准将与警长说服，批准派纳维克号清岛",
       "first_appearance_chapter": "V",
       "last_appearance_chapter": "XX",
-      "relationships": []
+      "relationships": [],
+      "role_en": "Minor character",
+      "appearance_en": "About sixty, with a red, irritable face and bright, bitter blue eyes; he wears a cream tussore suit with a wing collar and a spotted bow tie.",
+      "age_clues_en": "About sixty, and close to retirement.",
+      "personality_en": "A cautious bureaucrat who wants only a quiet run to retirement and a London directorship, and is in a hurry to close the case.",
+      "background_en": "Acting Governor of Jamaica, appointed at short notice after Sir Hugh Foot was promoted. He insists on the elopement theory and tries to bury the case; at the end the Brigadier and the Police Superintendent persuade him to authorise HMS Narvik to clear the island."
     },
     {
       "id": "miss-taro",
@@ -478,7 +563,11 @@
           "type": "上下级",
           "change": "诺博士的特工，全程未暴露，邦德仅向诺博士点破其身份"
         }
-      ]
+      ],
+      "role_en": "Minor character",
+      "appearance_en": "Of Chinese descent, wearing horn-rimmed glasses; neat and efficient in appearance.",
+      "personality_en": "Efficient, calm and expressionless.",
+      "background_en": "Secretary to the Colonial Secretary for about six months. In fact she is Dr No's agent inside King's House, stealing the Crab Key file and Bond's file and passing on information."
     },
     {
       "id": "annabel-chung",
@@ -499,7 +588,12 @@
           "type": "上下级",
           "change": "诺博士的眼线，任务完成后未再出现"
         }
-      ]
+      ],
+      "role_en": "Minor character",
+      "appearance_en": "A pretty Chinese girl with an almond-shaped, pale face and black eyes.",
+      "personality_en": "Tough and loyal; she would rather have her arm broken than betray her employer.",
+      "habits_en": "Uses a Leica camera with a flash.",
+      "background_en": "A freelance press photographer for the Daily Gleaner, in fact one of Dr No's agents, ordered to photograph Bond and confirm his hotel. When Quarrel seized her she smashed a flashbulb into his cheek."
     },
     {
       "id": "pus-feller",
@@ -520,7 +614,11 @@
           "type": "朋友",
           "change": "老友，无变化"
         }
-      ]
+      ],
+      "role_en": "Minor character",
+      "appearance_en": "An enormously fat Black man in a white dinner jacket.",
+      "personality_en": "Warm and hospitable.",
+      "background_en": "Owner of the Joy Boat nightclub on the Kingston waterfront, an old friend of Quarrel's from the Cayman Islands. Before the war he collected birds' eggs on Crab Key and fought a giant octopus there, bursting a lung; he sold his boat and came to Kingston to run the nightclub."
     },
     {
       "id": "sister-rose",
@@ -535,7 +633,11 @@
       "background": "诺博士山体疗养院的接待员，负责登记俘虏资料；对俘虏的真实处境似乎并不知情",
       "first_appearance_chapter": "XIII",
       "last_appearance_chapter": "XIII",
-      "relationships": []
+      "relationships": [],
+      "role_en": "Minor character",
+      "appearance_en": "A Chinese girl with horn-rimmed glasses and a black fringe, her hair cut short.",
+      "personality_en": "Efficient, polite and professional.",
+      "background_en": "Receptionist at Dr No's mountain sanatorium, responsible for registering the prisoners. She seems unaware of what really happens to them."
     },
     {
       "id": "sister-lily",
@@ -550,7 +652,12 @@
       "background": "诺博士山体疗养院的女管家式人物，负责接待俘虏并安排住宿与晚餐",
       "first_appearance_chapter": "XIII",
       "last_appearance_chapter": "XIII",
-      "relationships": []
+      "relationships": [],
+      "role_en": "Minor character",
+      "appearance_en": "About forty-five, plump and motherly, wearing square pince-nez glasses.",
+      "age_clues_en": "About forty-five.",
+      "personality_en": "Over-attentive, garrulous and maternal.",
+      "background_en": "The housekeeper figure of Dr No's mountain sanatorium, responsible for receiving the prisoners and arranging their rooms and dinner."
     },
     {
       "id": "may",
@@ -565,7 +672,11 @@
       "background": "诺博士山体疗养院的女仆，负责照料邦德与哈妮的套房",
       "first_appearance_chapter": "XIII",
       "last_appearance_chapter": "XIV",
-      "relationships": []
+      "relationships": [],
+      "role_en": "Minor character",
+      "appearance_en": "A pretty Chinese girl in a mauve-and-white flowered kimono.",
+      "personality_en": "Gentle and attentive.",
+      "background_en": "A maid at Dr No's mountain sanatorium who looks after Bond and Honey's suite."
     },
     {
       "id": "sam-sam",
@@ -580,7 +691,11 @@
       "background": "诺博士的保镖，精通多种技能，诺博士以对讲机召唤他；晚餐时与另一名保镖共同侍候",
       "first_appearance_chapter": "XIV",
       "last_appearance_chapter": "XVI",
-      "relationships": []
+      "relationships": [],
+      "role_en": "Minor character",
+      "appearance_en": "Short and powerfully built like a wrestler; a Chinese Negro with a broad moon face and black almond eyes.",
+      "personality_en": "Silent and impassive.",
+      "background_en": "Dr No's bodyguard, expert in many things; Dr No summons him on the walkie-talkie. He and another bodyguard wait on them at dinner."
     },
     {
       "id": "agent-258",
@@ -595,7 +710,9 @@
       "background": "第三处特工，斯特兰威斯失踪次日由华盛顿派往牙买加调查1周，未发现反证后返回华盛顿",
       "first_appearance_chapter": "III",
       "last_appearance_chapter": "III",
-      "relationships": []
+      "relationships": [],
+      "role_en": "Minor character",
+      "background_en": "An agent of Section III, sent from Washington the day after Strangways disappeared to investigate in Jamaica for a week; finding no evidence to contradict the elopement theory, he returned to Washington."
     },
     {
       "id": "bill-templar",
@@ -610,7 +727,9 @@
       "background": "加勒比防卫军准将，女王俱乐部桥牌局成员之一；结尾另有一位35岁的现代派准将主张立即派兵清岛，两人是否为同一人原文未明示",
       "first_appearance_chapter": "I",
       "last_appearance_chapter": "XX",
-      "relationships": []
+      "relationships": [],
+      "role_en": "Minor character",
+      "background_en": "Brigadier in command of the Caribbean Defence Force and a member of the Queen's Club bridge game. At the end, a different-looking Brigadier of thirty-five argues for sending troops to clear the island at once; the book never says whether the two are the same man."
     },
     {
       "id": "mander",
@@ -625,7 +744,10 @@
       "background": "博德泽特种植园的白人监工，强暴哈妮并打断其鼻梁，后被哈妮以黑寡妇蜘蛛毒死，死时耗时1周",
       "first_appearance_chapter": "XI",
       "last_appearance_chapter": "XI",
-      "relationships": []
+      "relationships": [],
+      "role_en": "Minor character",
+      "personality_en": "Brutal and lecherous.",
+      "background_en": "The white overseer at the Beau Desert plantation. He raped Honey and broke her nose, and she killed him with a black widow spider; he took a week to die."
     },
     {
       "id": "solitaire",
@@ -646,7 +768,9 @@
           "type": "旧识",
           "change": "仅为回忆，无变化"
         }
-      ]
+      ],
+      "role_en": "Minor character",
+      "background_en": "She appears only once, in Bond's memory in Chapter VII: the girl he pulled bleeding from the sea in the treasure hunt five years earlier. She does not actually appear in this book."
     }
   ],
   "organizations": [
@@ -655,56 +779,64 @@
       "name_en": "Secret Intelligence Service",
       "name_zh": "英国秘密情报局",
       "role": "邦德所属机构，总部在摄政公园；加勒比站站长斯特兰威斯失踪后派邦德调查；第三处为斯特兰威斯的主管部门",
-      "first_chapter": "I"
+      "first_chapter": "I",
+      "description_en": "The Secret Service, Bond's employer, headquartered at Regent's Park. After its Caribbean Head of Station, Strangways, disappears, it sends Bond to investigate; Section III was Strangways's controlling section."
     },
     {
       "id": "audubon-society",
       "name_en": "Audubon Society",
       "name_zh": "奥杜邦协会",
       "role": "美国鸟类保护组织，租赁蟹礁岛一角作玫瑰琵鹭保护区，派两名看守员驻岛；因看守员遇害与调查员坠机而不断向美国大使与殖民地部施压，最终把案子推给秘密情报局",
-      "first_chapter": "III"
+      "first_chapter": "III",
+      "description_en": "An American bird-protection organisation that leases a corner of Crab Key as a roseate spoonbill sanctuary and keeps two wardens on the island. After one warden is killed and its investigators die in a plane crash, it presses the American ambassador and the Colonial Office until the case is passed to the Secret Service."
     },
     {
       "id": "colonial-office",
       "name_en": "Colonial Office",
       "name_zh": "英国殖民地部",
       "role": "将奥杜邦协会的投诉转交给秘密情报局；邦德赴牙买加的安排经其与总督协调",
-      "first_chapter": "III"
+      "first_chapter": "III",
+      "description_en": "The Colonial Office passes the Audubon Society's complaint to the Secret Service; Bond's posting to Jamaica is arranged through it and the Governor."
     },
     {
       "id": "hip-sings",
       "name_en": "Hip Sings",
       "name_zh": "协胜堂",
       "role": "纽约两大帮会之一，诺博士青年时任其司库并盗走100万美元黄金，后遭其追杀断手",
-      "first_chapter": "XV"
+      "first_chapter": "XV",
+      "description_en": "One of the two great New York tongs. Dr No was its treasurer in his youth and stole a million dollars in gold from it, after which it hunted him down and cut off his hands."
     },
     {
       "id": "on-lee-ongs",
       "name_en": "On Lee Ongs",
       "name_zh": "安良堂",
       "role": "纽约另一大帮会，20世纪20年代末与协胜堂爆发帮会战争，双方数百人被杀",
-      "first_chapter": "XV"
+      "first_chapter": "XV",
+      "description_en": "The other great New York tong. In the late 1920s it went to war with the Hip Sings, and hundreds were killed on both sides."
     },
     {
       "id": "universal-export",
       "name_en": "Universal Export",
       "name_zh": "环球出口公司",
       "role": "秘密情报局的掩护公司；邦德护照职业为进出口商人，供职于此；邦德登记时称M为该公司董事总经理",
-      "first_chapter": "IV"
+      "first_chapter": "IV",
+      "description_en": "The Secret Service's cover company. Bond's passport gives his occupation as import and export merchant employed by Universal Export, and when registering he describes M as the company's managing director."
     },
     {
       "id": "royal-zoological-society",
       "name_en": "Royal Zoological Society",
       "name_zh": "皇家动物学会",
       "role": "邦德在蟹礁岛被俘后虚构的供职单位与永久地址，化名约翰·布莱斯自称鸟类学家",
-      "first_chapter": "XIII"
+      "first_chapter": "XIII",
+      "description_en": "The organisation Bond invents as his employer and permanent address when captured on Crab Key, posing as the ornithologist John Bryce."
     },
     {
       "id": "jamaica-constabulary",
       "name_en": "Jamaica Constabulary",
       "name_zh": "牙买加警察",
       "role": "调查斯特兰威斯失踪案，采信私奔说；结尾警长主张立即逮捕涉案的牙买加人并打捞莫纳水库",
-      "first_chapter": "III"
+      "first_chapter": "III",
+      "description_en": "The Jamaican police, who investigated Strangways's disappearance and accepted the elopement theory. At the end the Superintendent insists on immediate arrests of the Jamaicans involved and on searching the Mona Reservoir."
     }
   ],
   "locations": [
@@ -714,7 +846,8 @@
       "name_zh": "蟹礁岛",
       "country": "牙买加",
       "fictional": true,
-      "role": "全书核心舞台：英国属地、牙买加附属岛，约50平方英里，东四分之三为沼泽浅湖，西端500英尺鸟粪山；诺博士的鸟粪矿、山体堡垒与导弹干扰站所在地；距牙买加北岸加利纳角约30英里、距古巴约60英里"
+      "role": "全书核心舞台：英国属地、牙买加附属岛，约50平方英里，东四分之三为沼泽浅湖，西端500英尺鸟粪山；诺博士的鸟粪矿、山体堡垒与导弹干扰站所在地；距牙买加北岸加利纳角约30英里、距古巴约60英里",
+      "description_en": "The book's central stage: a British dependency of Jamaica, about fifty square miles, three-quarters swamp and shallow lake to the east, with a 500-foot guano mountain at the western end. It holds Dr No's guano workings, his mountain fortress and his missile-jamming station, about thirty miles north of Galina Point and about sixty miles south of Cuba."
     },
     {
       "id": "kingston",
@@ -722,7 +855,8 @@
       "name_zh": "金斯顿",
       "country": "牙买加",
       "fictional": false,
-      "role": "牙买加首府，斯特兰威斯遇害地与邦德调查的起点；女王俱乐部、总督府、蓝山酒店与欢乐船夜总会均在此"
+      "role": "牙买加首府，斯特兰威斯遇害地与邦德调查的起点；女王俱乐部、总督府、蓝山酒店与欢乐船夜总会均在此",
+      "description_en": "The capital of Jamaica, where Strangways was murdered and where Bond's investigation begins; the Queen's Club, King's House, the Blue Hills Hotel and the Joy Boat nightclub are all here."
     },
     {
       "id": "richmond-road",
@@ -730,7 +864,8 @@
       "name_zh": "里士满路",
       "country": "牙买加",
       "fictional": false,
-      "role": "金斯顿最高档住宅区，女王俱乐部所在地，斯特兰威斯在此街头被枪杀"
+      "role": "金斯顿最高档住宅区，女王俱乐部所在地，斯特兰威斯在此街头被枪杀",
+      "description_en": "Kingston's most exclusive residential street, home of the Queen's Club; Strangways was shot dead in the street here."
     },
     {
       "id": "queens-club",
@@ -738,7 +873,8 @@
       "name_zh": "女王俱乐部",
       "country": "牙买加",
       "fictional": false,
-      "role": "金斯顿上流社交俱乐部，斯特兰威斯每晚在此打桥牌并于18时15分离席做无线电联络"
+      "role": "金斯顿上流社交俱乐部，斯特兰威斯每晚在此打桥牌并于18时15分离席做无线电联络",
+      "description_en": "Kingston's leading social club, where Strangways played bridge every evening and left at 6:15 p.m. to make his radio contact."
     },
     {
       "id": "kings-house",
@@ -746,7 +882,8 @@
       "name_zh": "总督府",
       "country": "牙买加",
       "fictional": false,
-      "role": "牙买加总督官邸，邦德两次拜会代理总督与殖民地秘书之地；塔罗小姐在此窃取档案"
+      "role": "牙买加总督官邸，邦德两次拜会代理总督与殖民地秘书之地；塔罗小姐在此窃取档案",
+      "description_en": "The Governor's residence in Jamaica, where Bond twice calls on the Acting Governor and the Colonial Secretary; Miss Taro steals files here."
     },
     {
       "id": "blue-hills-hotel",
@@ -754,7 +891,8 @@
       "name_zh": "蓝山酒店",
       "country": "牙买加",
       "fictional": false,
-      "role": "邦德在金斯顿的下榻酒店，毒水果篮与蜈蚣暗杀均发生于此"
+      "role": "邦德在金斯顿的下榻酒店，毒水果篮与蜈蚣暗杀均发生于此",
+      "description_en": "Bond's hotel in Kingston, where the poisoned fruit basket was delivered and the centipede was put in his bed."
     },
     {
       "id": "beau-desert",
@@ -762,7 +900,8 @@
       "name_zh": "博德泽特",
       "country": "牙买加",
       "fictional": true,
-      "role": "摩根港附近的种植园与海滩别墅，邦德训练与藏身的基地；哈妮家族旧宅废墟亦在此，她住在地窖中"
+      "role": "摩根港附近的种植园与海滩别墅，邦德训练与藏身的基地；哈妮家族旧宅废墟亦在此，她住在地窖中",
+      "description_en": "A plantation and beach bungalow near Morgan's Harbour, Bond's training base and hiding place; the ruined Great House of Honey's family stands here, and she lives in its cellar."
     },
     {
       "id": "morgans-harbour",
@@ -770,7 +909,8 @@
       "name_zh": "摩根港",
       "country": "牙买加",
       "fictional": false,
-      "role": "牙买加北岸港口，博德泽特所在地，邦德与哈妮乘独木舟往返蟹礁岛的出发与返回点"
+      "role": "牙买加北岸港口，博德泽特所在地，邦德与哈妮乘独木舟往返蟹礁岛的出发与返回点",
+      "description_en": "A harbour on Jamaica's north coast and the site of Beau Desert; Bond and Honey sail to and from Crab Key from here."
     },
     {
       "id": "mona-reservoir",
@@ -778,7 +918,8 @@
       "name_zh": "莫纳水库",
       "country": "牙买加",
       "fictional": false,
-      "role": "斯特兰威斯与特鲁布拉德的沉尸地，棺材沉入50英寻深处；结尾警方派潜水员打捞"
+      "role": "斯特兰威斯与特鲁布拉德的沉尸地，棺材沉入50英寻深处；结尾警方派潜水员打捞",
+      "description_en": "Where the bodies of Strangways and Trueblood were sunk, in a coffin in fifty fathoms of water; at the end the police send divers to recover them."
     },
     {
       "id": "london-hq",
@@ -786,7 +927,8 @@
       "name_zh": "摄政公园秘密情报局总部",
       "country": "英国",
       "fictional": false,
-      "role": "M办公室所在地，第II章换枪与交代任务之地；无线电呼号WWW"
+      "role": "M办公室所在地，第II章换枪与交代任务之地；无线电呼号WWW",
+      "description_en": "The Secret Service headquarters at Regent's Park, where M's office stands; the radio call-sign is WWW. The gun change and the briefing take place here in Chapter II."
     },
     {
       "id": "turks-island",
@@ -794,7 +936,8 @@
       "name_zh": "特克斯岛",
       "country": "特克斯和凯科斯群岛",
       "fictional": false,
-      "role": "美军导弹试验中心，距蟹礁岛约300英里，是诺博士干扰行动的目标"
+      "role": "美军导弹试验中心，距蟹礁岛约300英里，是诺博士干扰行动的目标",
+      "description_en": "The American missile-testing centre about three hundred miles from Crab Key, and the target of Dr No's jamming operation."
     },
     {
       "id": "milwaukee",
@@ -802,7 +945,8 @@
       "name_zh": "密尔沃基",
       "country": "美国",
       "fictional": false,
-      "role": "诺博士改容后藏身读医之地，自称当地没有中国人"
+      "role": "诺博士改容后藏身读医之地，自称当地没有中国人",
+      "description_en": "Where Dr No hid and studied medicine after remaking his face; he says there were no Chinese there."
     },
     {
       "id": "peking",
@@ -810,7 +954,8 @@
       "name_zh": "北京",
       "country": "中国",
       "fictional": false,
-      "role": "诺博士出生地"
+      "role": "诺博士出生地",
+      "description_en": "Dr No's birthplace."
     },
     {
       "id": "shanghai",
@@ -818,7 +963,8 @@
       "name_zh": "上海",
       "country": "中国",
       "fictional": false,
-      "role": "诺博士青年时混迹帮会之地"
+      "role": "诺博士青年时混迹帮会之地",
+      "description_en": "Where Dr No spent his youth among the tongs."
     },
     {
       "id": "new-york",
@@ -826,7 +972,8 @@
       "name_zh": "纽约",
       "country": "美国",
       "fictional": false,
-      "role": "诺博士任帮会司库、盗金、遭断手枪击与改容之地；哈妮梦想去纽约整鼻与当应召女郎"
+      "role": "诺博士任帮会司库、盗金、遭断手枪击与改容之地；哈妮梦想去纽约整鼻与当应召女郎",
+      "description_en": "Where Dr No was treasurer of the Hip Sings, stole the gold, lost his hands and was shot, and remade his face; Honey dreams of going there for her nose operation and to work as a call girl."
     }
   ],
   "equipment": [
@@ -835,168 +982,203 @@
       "name_en": "Walther PPK",
       "name_zh": "瓦尔特PPK手枪",
       "kind": "武器",
-      "note": "本部起成为邦德配枪：第II章布思罗伊德推荐，7.65毫米口径，在25码试射5000发中综合排名第四，因扳机轻、弹匣延伸底座握感好且弹药易得而胜出；配伯恩斯-马丁三联快拔枪套，邦德携其赴牙买加"
+      "note": "本部起成为邦德配枪：第II章布思罗伊德推荐，7.65毫米口径，在25码试射5000发中综合排名第四，因扳机轻、弹匣延伸底座握感好且弹药易得而胜出；配伯恩斯-马丁三联快拔枪套，邦德携其赴牙买加",
+      "description_en": "Bond's gun from this book on. In Chapter II Boothroyd recommends it: a 7.65 mm pistol that came fourth overall in his 5,000-round tests at 25 yards, chosen for its light trigger, the comfortable extended magazine base and the ready supply of ammunition. It is worn in a Berns Martin triple-draw holster, and Bond carries it to Jamaica."
     },
     {
       "id": "beretta-25",
       "name_en": "Beretta .25 with silencer",
       "name_zh": "贝雷塔0.25口径消音手枪",
       "kind": "武器",
-      "note": "邦德用了15年的旧配枪，枪管锯短、缠胶带；上一案中消音器导致卡壳，调查委员会裁定更换；第II章被M收缴留在办公桌上，布思罗伊德称其为女士枪、制止力不足"
+      "note": "邦德用了15年的旧配枪，枪管锯短、缠胶带；上一案中消音器导致卡壳，调查委员会裁定更换；第II章被M收缴留在办公桌上，布思罗伊德称其为女士枪、制止力不足",
+      "description_en": "Bond's old gun of fifteen years, its barrel sawn short and bound with tape. Its silencer caused a jam in the previous case, and a court of inquiry ordered it replaced. In Chapter II M confiscates it and leaves it on his desk; Boothroyd calls it a lady's gun with inadequate stopping power."
     },
     {
       "id": "smith-wesson-centennial",
       "name_en": "Smith & Wesson Centennial Airweight",
       "name_zh": "史密斯-韦森Centennial Airweight转轮手枪",
       "kind": "武器",
-      "note": "第II章布思罗伊德推荐的重型配枪，0.38口径无击锤转轮手枪，全长6.5英寸、重13盎司、弹仓5发，发射0.38史密斯-韦森特种弹；邦德登岛时携带此枪，在红树林近距离击毙一名守卫，后在第XII章被迫交出"
+      "note": "第II章布思罗伊德推荐的重型配枪，0.38口径无击锤转轮手枪，全长6.5英寸、重13盎司、弹仓5发，发射0.38史密斯-韦森特种弹；邦德登岛时携带此枪，在红树林近距离击毙一名守卫，后在第XII章被迫交出",
+      "description_en": "The heavy gun Boothroyd issues with the Walther in Chapter II: a .38 calibre hammerless revolver, six and a half inches long, weighing thirteen ounces, with a five-shot cylinder firing .38 Smith & Wesson Special. Bond carries it to the island, shoots a guard with it at close range in the mangroves, and is forced to give it up in Chapter XII."
     },
     {
       "id": "berns-martin-holster",
       "name_en": "Berns Martin Triple-draw holster",
       "name_zh": "伯恩斯-马丁三联快拔枪套",
       "kind": "装备",
-      "note": "布思罗伊德指定配瓦尔特PPK的硬鞍皮弹簧枪套，可20英尺外0.6秒出枪命中"
+      "note": "布思罗伊德指定配瓦尔特PPK的硬鞍皮弹簧枪套，可20英尺外0.6秒出枪命中",
+      "description_en": "The hard saddle-leather spring holster Boothroyd prescribes for the Walther PPK, from which a man can draw and hit at twenty feet in 0.6 seconds."
     },
     {
       "id": "remington-carbine",
       "name_en": "U.S. Army Remington Carbine .300",
       "name_zh": "雷明顿0.300口径卡宾枪",
       "kind": "武器",
-      "note": "第X章邦德击毙守卫后由夸雷尔缴获；第XII章夸雷尔以其射击巨龙的装甲驾驶舱无效；第XIX章邦德在车库武器架上又取一支射杀追来的杜宾犬群"
+      "note": "第X章邦德击毙守卫后由夸雷尔缴获；第XII章夸雷尔以其射击巨龙的装甲驾驶舱无效；第XIX章邦德在车库武器架上又取一支射杀追来的杜宾犬群",
+      "description_en": "In Chapter X Quarrel takes this rifle from the guard Bond kills; in Chapter XII he fires it at the dragon's armoured cabin without effect. In Chapter XIX Bond takes another from the rack in the garage and uses it to shoot the Dobermans in the lake."
     },
     {
       "id": "spandau",
       "name_en": "Spandau machine gun",
       "name_zh": "斯潘道机枪",
       "kind": "武器",
-      "note": "第IX章诺博士搜捕艇上的三脚架机枪，向海滩与红树林扫射"
+      "note": "第IX章诺博士搜捕艇上的三脚架机枪，向海滩与红树林扫射",
+      "description_en": "The tripod-mounted machine gun on Dr No's search launch, which rakes the beach and the mangroves in Chapter IX."
     },
     {
       "id": "dragon-marsh-buggy",
       "name_en": "Marsh buggy disguised as a dragon",
       "name_zh": "伪装成巨龙的沼泽车",
       "kind": "载具与武器",
-      "note": "诺博士从佛罗里达购入的沼泽车改装：装甲圆顶驾驶舱、巨大实心橡胶轮、黑金涂装龙头、短翼与尖尾，配火焰喷射器；可穿越沼泽、红树林与浅湖；第XII章烧死夸雷尔，第XIX章被邦德夺取用作逃生工具"
+      "note": "诺博士从佛罗里达购入的沼泽车改装：装甲圆顶驾驶舱、巨大实心橡胶轮、黑金涂装龙头、短翼与尖尾，配火焰喷射器；可穿越沼泽、红树林与浅湖；第XII章烧死夸雷尔，第XIX章被邦德夺取用作逃生工具",
+      "description_en": "A marsh buggy bought by Dr No in Florida and disguised: an armoured domed cabin, huge solid rubber tyres, black-and-gold paint with a dragon's head, short wings and a pointed tail, fitted with a flamethrower. It crosses swamp, mangrove and shallow lake; in Chapter XII it burns Quarrel alive, and in Chapter XIX Bond seizes it to escape."
     },
     {
       "id": "radar",
       "name_en": "Radar",
       "name_zh": "雷达",
       "kind": "装备",
-      "note": "诺博士岛上的雷达发现了哈妮独木舟的帆，邦德一行登岛时降帆划桨以避开雷达探测"
+      "note": "诺博士岛上的雷达发现了哈妮独木舟的帆，邦德一行登岛时降帆划桨以避开雷达探测",
+      "description_en": "Dr No's radar on the island, which picked up the sail of Honey's canoe; Bond and Quarrel lowered their own sail and paddled to avoid it."
     },
     {
       "id": "russian-cipher-machine",
       "name_en": "Russian cipher machine",
       "name_zh": "俄国密码机",
       "kind": "装备",
-      "note": "莫斯科提供给诺博士的密码机与专用频率，诺博士另设一名秘密监听员持有副本监视其余6名技术员"
+      "note": "莫斯科提供给诺博士的密码机与专用频率，诺博士另设一名秘密监听员持有副本监视其余6名技术员",
+      "description_en": "A cipher machine with its own frequency supplied by Moscow for Dr No's missile-jamming operation; he also keeps a secret monitor with a duplicate machine to watch his six technicians."
     },
     {
       "id": "walkie-talkie",
       "name_en": "Walkie-talkie",
       "name_zh": "步话机",
       "kind": "装备",
-      "note": "诺博士藏于和服胸前，用以召唤保镖萨姆-萨姆"
+      "note": "诺博士藏于和服胸前，用以召唤保镖萨姆-萨姆",
+      "description_en": "The walkie-talkie Dr No carries inside his kimono to summon his bodyguard Sam-sam."
     },
     {
       "id": "steel-pincers",
       "name_en": "Articulated steel pincers",
       "name_zh": "钢钳义肢",
       "kind": "装备",
-      "note": "诺博士失去双手后安装的机械手，金属杆末端为可开合钢钳，藏于黑色丝绸袖中；第XIII章夜里他以钢钳掀开熟睡者的被单检查身体"
+      "note": "诺博士失去双手后安装的机械手，金属杆末端为可开合钢钳，藏于黑色丝绸袖中；第XIII章夜里他以钢钳掀开熟睡者的被单检查身体",
+      "description_en": "The mechanical hands fitted after Dr No lost his: metal stalks ending in articulated steel pincers, hidden in black silk sleeves. In Chapter XIII he uses them at night to lift the sheets from the sleeping Bond and Honey."
     },
     {
       "id": "wire-spear",
       "name_en": "Wire spear",
       "name_zh": "铁丝矛",
       "kind": "武器",
-      "note": "第XVII章邦德拆下带电通风栅的铁丝网制成的约4英尺长矛，一端弯成钩；第XVIII章以其刺瞎巨型鱿鱼的眼睛"
+      "note": "第XVII章邦德拆下带电通风栅的铁丝网制成的约4英尺长矛，一端弯成钩；第XVIII章以其刺瞎巨型鱿鱼的眼睛",
+      "description_en": "In Chapter XVII Bond makes this spear, about four feet long with a hooked end, from the wire mesh of the electrified ventilation grille; in Chapter XVIII he uses it to blind the giant squid."
     }
   ],
   "vehicles": [
     {
       "name_en": "Super-Constellation",
       "name_zh": "超级星座号客机",
-      "note": "邦德乘其由伦敦经古巴上空抵达金斯顿；68吨级，单条南北跑道降落"
+      "note": "邦德乘其由伦敦经古巴上空抵达金斯顿；68吨级，单条南北跑道降落",
+      "description_en": "The airliner Bond takes from London, over Cuba, to Kingston; a 68-ton aircraft landing on a single north-south runway."
     },
     {
       "name_en": "Black Sunbeam Alpine",
       "name_zh": "黑色太阳光Alpine跑车",
-      "note": "斯特兰威斯的座车，邦德抵达后被误配此车，暴露身份；替身驾驶此车前往蒙特哥贝途中被卡车撞下深谷，两名替身死亡"
+      "note": "斯特兰威斯的座车，邦德抵达后被误配此车，暴露身份；替身驾驶此车前往蒙特哥贝途中被卡车撞下深谷，两名替身死亡",
+      "description_en": "Strangways's car, mistakenly assigned to Bond on arrival, which gives away his identity. The decoys drive it to Montego Bay and are run off the Devil's Racecourse by a lorry into a ravine, both men killed."
     },
     {
       "name_en": "Austin A30",
       "name_zh": "奥斯汀A30小轿车",
-      "note": "夸雷尔租来的替换车，邦德驾其由金斯顿经Junction Road前往北岸"
+      "note": "夸雷尔租来的替换车，邦德驾其由金斯顿经Junction Road前往北岸",
+      "description_en": "The small saloon Quarrel hires as a replacement; Bond drives it from Kingston over the Junction Road to the north coast."
     },
     {
       "name_en": "Hillman Minx",
       "name_zh": "希尔曼Minx轿车",
-      "note": "第XX章邦德在总督府会议后驾驶离开的汽车"
+      "note": "第XX章邦德在总督府会议后驾驶离开的汽车",
+      "description_en": "The car Bond drives away from King's House after the conference in Chapter XX."
     },
     {
       "name_en": "Dugout canoe",
       "name_zh": "独木舟",
-      "note": "整根巨棉木挖成的独木舟，邦德与夸雷尔乘其夜渡约30英里登岛；哈妮亦独自乘轻型独木舟往返蟹礁岛采贝，其舟在第IX章被机枪打断"
+      "note": "整根巨棉木挖成的独木舟，邦德与夸雷尔乘其夜渡约30英里登岛；哈妮亦独自乘轻型独木舟往返蟹礁岛采贝，其舟在第IX章被机枪打断",
+      "description_en": "A canoe hollowed from a single giant cotton tree, in which Bond and Quarrel cross about thirty miles of sea to the island by night; Honey also sails a light canoe of her own to Crab Key to collect shells, and hers is cut in two by machine-gun fire in Chapter IX."
     },
     {
       "name_en": "Converted MTB launch",
       "name_zh": "改装鱼雷艇搜捕船",
-      "note": "诺博士的双柴油机搜捕艇，配斯潘道机枪与扩音器，第IX章沿海岸搜捕邦德一行"
+      "note": "诺博士的双柴油机搜捕艇，配斯潘道机枪与扩音器，第IX章沿海岸搜捕邦德一行",
+      "description_en": "Dr No's twin-diesel search launch, fitted with a Spandau machine gun and a loud-hailer, which searches the coast for Bond in Chapter IX."
     },
     {
       "name_en": "Grumman Amphibian",
       "name_zh": "格鲁曼水陆两栖飞机",
-      "note": "诺博士用于向岛上运送补给的飞机，停于岛上简易机场"
+      "note": "诺博士用于向岛上运送补给的飞机，停于岛上简易机场",
+      "description_en": "The amphibious aircraft Dr No uses to bring supplies to the island, kept at the rough airstrip there."
     },
     {
       "name_en": "Beechcraft",
       "name_zh": "比奇飞机",
-      "note": "奥杜邦协会两名调查员由迈阿密乘此机赴岛，降落时坠毁，3人死亡；诺博士称系其安排卡车失控所致"
+      "note": "奥杜邦协会两名调查员由迈阿密乘此机赴岛，降落时坠毁，3人死亡；诺博士称系其安排卡车失控所致",
+      "description_en": "The aircraft in which two Audubon investigators flew from Miami to the island; it crashed on landing, killing three people. Dr No says he arranged for a lorry to run out of control into it."
     },
     {
       "name_en": "SS Blanche",
       "name_zh": "布兰奇号油轮",
-      "note": "安特卫普籍约1万吨老油轮，每月来岛装运鸟粪；第XIX章邦德在其装货时杀死诺博士"
+      "note": "安特卫普籍约1万吨老油轮，每月来岛装运鸟粪；第XIX章邦德在其装货时杀死诺博士",
+      "description_en": "An ageing Antwerp tanker of about 10,000 tons that calls monthly to load guano; in Chapter XIX Bond kills Dr No while it is being loaded."
     },
     {
       "name_en": "HMS Narvik",
       "name_zh": "纳维克号军舰",
       "country": "英国",
-      "note": "第XX章停泊金斯顿的英国军舰，总督批准派其运载一排士兵清剿蟹礁岛"
+      "note": "第XX章停泊金斯顿的英国军舰，总督批准派其运载一排士兵清剿蟹礁岛",
+      "description_en": "The British warship lying at Kingston in Chapter XX; the Governor authorises it to carry a platoon of soldiers to clear Crab Key."
     },
     {
       "name_en": "Motor hearse",
       "name_zh": "灵车",
-      "note": "第I章杀手用其运走斯特兰威斯的尸体，车顶四角插黑色羽饰"
+      "note": "第I章杀手用其运走斯特兰威斯的尸体，车顶四角插黑色羽饰",
+      "description_en": "The hearse used in Chapter I to carry away Strangways's body, with black plumes at the four corners of its roof."
     }
   ],
   "communications": [
     {
       "name": "无线电定时联络",
-      "note": "斯特兰威斯每晚18时30分牙买加时间以呼号WXN在14兆赫联络伦敦WWW，错过则19时蓝色呼叫、19时30分红色呼叫，之后为紧急状态；无线电安全部门可凭发报手法识别操作员身份"
+      "note": "斯特兰威斯每晚18时30分牙买加时间以呼号WXN在14兆赫联络伦敦WWW，错过则19时蓝色呼叫、19时30分红色呼叫，之后为紧急状态；无线电安全部门可凭发报手法识别操作员身份",
+      "name_en": "Scheduled radio contact",
+      "description_en": "Every evening at 6:30 p.m. Jamaican time, Strangways contacted London as WXN on 14 megacycles to WWW; a missed contact brought a Blue Call at 7 p.m. and a Red Call at 7:30 p.m., after which an emergency was declared. Radio Security could identify an operator by his Morse style."
     },
     {
       "name": "电报",
-      "note": "普莱德尔-史密斯发电报告诉邦德每件水果含氰化物足可毒死一匹马；邦德结尾发密电给M请病假"
+      "note": "普莱德尔-史密斯发电报告诉邦德每件水果含氰化物足可毒死一匹马；邦德结尾发密电给M请病假",
+      "name_en": "Telegram",
+      "description_en": "Pleydell-Smith telegraphed Bond that every piece of fruit contained enough cyanide to kill a horse; at the end Bond sent an urgent signal to M asking for sick leave."
     },
     {
       "name": "电话",
-      "note": "M与莫洛尼通话；邦德致电总督府请化验水果；诺博士在码头用电话向山体另一侧求援"
+      "note": "M与莫洛尼通话；邦德致电总督府请化验水果；诺博士在码头用电话向山体另一侧求援",
+      "name_en": "Telephone",
+      "description_en": "M telephoned Molony; Bond telephoned King's House to have the fruit analysed; Dr No used a telephone on the jetty to call for help from the other side of the mountain."
     },
     {
       "name": "对讲机",
-      "note": "诺博士藏于和服内的步话机，用以召唤保镖"
+      "note": "诺博士藏于和服内的步话机，用以召唤保镖",
+      "name_en": "Walkie-talkie",
+      "description_en": "The walkie-talkie hidden in Dr No's kimono, used to summon his bodyguard."
     },
     {
       "name": "扩音器",
-      "note": "搜捕艇与沼泽车均用扩音器喊话劝降"
+      "note": "搜捕艇与沼泽车均用扩音器喊话劝降",
+      "name_en": "Loud-hailer",
+      "description_en": "Used by the search launch and by the marsh buggy to call on Bond to surrender."
     },
     {
       "name": "密码机",
-      "note": "莫斯科提供给诺博士的密码机与专用频率，用于导弹干扰行动的联络"
+      "note": "莫斯科提供给诺博士的密码机与专用频率，用于导弹干扰行动的联络",
+      "name_en": "Cipher machine",
+      "description_en": "The cipher machine and special frequency supplied by Moscow for Dr No's missile-jamming operation."
     }
   ],
   "mission": {
@@ -1016,125 +1198,193 @@
     ],
     "outcome": "诺博士被邦德以鸟粪活埋致死；邦德与哈妮夺取沼泽车逃出并乘独木舟返回牙买加；总督批准派纳维克号军舰与一排士兵清剿蟹礁岛，警方打捞莫纳水库并追捕诺博士在牙买加的同伙；邦德与哈妮生还，夸雷尔死亡"
   },
+  "mission_en": {
+    "objective_en": "To investigate the disappearance of Commander Strangways, Head of Station in the Caribbean, and his assistant Mary Trueblood, with Bond acting as Head of Station. M's intention was to give the newly discharged Bond a restful holiday posting; Bond himself was convinced the two had been murdered and set out to find the killer.",
+    "investigation_en": "Bond first heard the case in London and fixed on Strangways's last file, the Crab Key guano affair. In Jamaica he called on the Governor and the Colonial Secretary to learn about the guano trade and the stolen Crab Key file, and studied the 1910 survey map. After the poisoned fruit and the centipede in his bed he was sure Dr No was the murderer. He sent decoys in the Sunbeam to fake his movements, trained for a week with Quarrel, and crossed to the island by night canoe, meeting Honey on the way and examining the wardens' camp and the dragon's tracks on foot. Captured, he drew the whole truth out of Dr No himself.",
+    "key_clues_en": [
+      "The scheduled radio contact broke off with no answer to the Blue Call or the Red Call, which does not fit an elopement.",
+      "Strangways left a bridge game in the middle of a hand and ordered drinks, behaviour inconsistent with a planned escape.",
+      "The Audubon Society's complaint was the last case Strangways handled; the file was passed on 20 January and then went unanswered.",
+      "The Crab Key file still had its covers but nothing inside; the last man to handle it was Strangways.",
+      "Miss Taro was Chinese, and Bond's old file had just been taken out - there was an agent of Dr No inside King's House.",
+      "Every piece of fruit had a pinhole; analysis showed enough cyanide in each piece to kill a horse.",
+      "A centipede would not appear in a clean modern bedroom unless put there on purpose.",
+      "The decoys' Sunbeam was run off the Devil's Racecourse by a lorry, killing both men - proof that someone wanted Bond dead.",
+      "The dragon's wheel tracks and the scorched birds' nests proved the dragon was a man-made machine.",
+      "Dr No himself admitted that Strangways and Trueblood lie at the bottom of the Mona Reservoir."
+    ],
+    "outcome_en": "Dr No was buried alive under guano by Bond. Bond and Honey escaped in the marsh buggy and sailed the canoe back to Jamaica. The Governor authorised HMS Narvik with a platoon of soldiers to clear Crab Key, the police searched the Mona Reservoir and moved against Dr No's Jamaican associates. Bond and Honey survived; Quarrel was killed."
+  },
   "events": [
     {
       "id": "strangways-murder",
       "chapter": "I",
       "title": "斯特兰威斯与特鲁布拉德被杀",
       "cause": "斯特兰威斯调查蟹礁岛鸟粪案并掌握诺博士的秘密，诺博士派3名杀手按其每日作息定时行刺",
-      "effect": "加勒比站人员与档案被毁，尸体沉入莫纳水库；伦敦派邦德调查，官方误认两人私奔"
+      "effect": "加勒比站人员与档案被毁，尸体沉入莫纳水库；伦敦派邦德调查，官方误认两人私奔",
+      "title_en": "Murder of Strangways and Trueblood",
+      "cause_en": "Strangways was investigating the Crab Key guano affair and had learned Dr No's secrets, so Dr No sent three killers to strike on his daily routine.",
+      "effect_en": "The station's staff and files were destroyed and the bodies sunk in the Mona Reservoir; London sent Bond to investigate, while the authorities believed the two had eloped."
     },
     {
       "id": "gun-change",
       "chapter": "II",
       "title": "换枪",
       "cause": "邦德上一案中贝雷塔消音手枪卡壳，险些丧命，调查委员会裁定更换配枪",
-      "effect": "M收缴贝雷塔，布思罗伊德改配瓦尔特PPK与史密斯-韦森Centennial Airweight转轮手枪，瓦尔特PPK自此成为邦德配枪"
+      "effect": "M收缴贝雷塔，布思罗伊德改配瓦尔特PPK与史密斯-韦森Centennial Airweight转轮手枪，瓦尔特PPK自此成为邦德配枪",
+      "title_en": "Change of Guns",
+      "cause_en": "Bond's Beretta jammed in his previous case and nearly cost him his life, and a court of inquiry ruled that it be replaced.",
+      "effect_en": "M confiscated the Beretta and Boothroyd issued the Walther PPK and the Smith & Wesson Centennial Airweight revolver; the Walther PPK became Bond's gun from this book on."
     },
     {
       "id": "poisoned-fruit",
       "chapter": "VI",
       "title": "毒水果暗杀",
       "cause": "塔罗小姐泄露邦德行踪，诺博士以总督名义送来水果篮",
-      "effect": "邦德以放大镜发现针孔，化验确认每件水果含氰化物足可毒死一匹马，邦德确认诺博士为凶手并决定暂不向M汇报"
+      "effect": "邦德以放大镜发现针孔，化验确认每件水果含氰化物足可毒死一匹马，邦德确认诺博士为凶手并决定暂不向M汇报",
+      "title_en": "Poisoned Fruit",
+      "cause_en": "Miss Taro passed on Bond's movements, and Dr No sent a fruit basket in the Governor's name.",
+      "effect_en": "Bond found the pinhole in every piece with a magnifying glass; analysis showed enough cyanide in each piece to kill a horse. He was now sure Dr No was the murderer and decided not to report to M yet."
     },
     {
       "id": "centipede",
       "chapter": "VI",
       "title": "蜈蚣夜袭",
       "cause": "诺博士派人将约5至6英寸长的剧毒蜈蚣放入邦德床上",
-      "effect": "邦德屏息不动直至蜈蚣爬离才将其打死，未受伤；进一步确认暗杀仍在继续"
+      "effect": "邦德屏息不动直至蜈蚣爬离才将其打死，未受伤；进一步确认暗杀仍在继续",
+      "title_en": "The Centipede",
+      "cause_en": "Dr No's men put a centipede about five to six inches long into Bond's bed.",
+      "effect_en": "Bond lay motionless until the centipede crawled away, then killed it, unhurt; the attempt confirmed that the murder campaign against him was continuing."
     },
     {
       "id": "decoy-crash",
       "chapter": "VII",
       "title": "替身车祸",
       "cause": "邦德安排两名替身驾驶斯特兰威斯的太阳光车前往蒙特哥贝制造假行踪",
-      "effect": "替身车在魔鬼跑道遭失控卡车撞下深谷，本·吉本斯与约西亚·史密斯死亡，证明诺博士在追杀邦德"
+      "effect": "替身车在魔鬼跑道遭失控卡车撞下深谷，本·吉本斯与约西亚·史密斯死亡，证明诺博士在追杀邦德",
+      "title_en": "The Decoys' Crash",
+      "cause_en": "Bond sent two doubles in Strangways's Sunbeam to Montego Bay to fake his movements.",
+      "effect_en": "On the Devil's Racecourse a runaway lorry drove the Sunbeam into a ravine, killing Ben Gibbons and Josiah Smith - proof that Dr No was hunting Bond."
     },
     {
       "id": "landing-crab-key",
       "chapter": "VII",
       "title": "夜渡登岛",
       "cause": "邦德要实地勘查蟹礁岛看守员营地，确认诺博士的罪行",
-      "effect": "邦德与夸雷尔乘独木舟横渡约30英里，在南海岸河口黑沙滩登陆；次日遇见哈妮"
+      "effect": "邦德与夸雷尔乘独木舟横渡约30英里，在南海岸河口黑沙滩登陆；次日遇见哈妮",
+      "title_en": "Night Landing on Crab Key",
+      "cause_en": "Bond wanted to examine the wardens' camp on Crab Key at first hand and confirm Dr No's crimes.",
+      "effect_en": "Bond and Quarrel crossed about thirty miles of sea by dugout canoe and landed on the black-sand beach on the south coast near the river mouth; the next day they met Honey."
     },
     {
       "id": "meeting-honey",
       "chapter": "VIII",
       "title": "遇见哈妮",
       "cause": "哈妮独自乘独木舟来岛采集优雅维纳斯蛤贝壳",
-      "effect": "哈妮成为邦德的向导与同伴，提供巨龙目击证词；她的独木舟帆被雷达发现，招来搜捕"
+      "effect": "哈妮成为邦德的向导与同伴，提供巨龙目击证词；她的独木舟帆被雷达发现，招来搜捕",
+      "title_en": "Meeting Honey",
+      "cause_en": "Honey came alone by canoe to collect Venus Elegans shells.",
+      "effect_en": "Honey became Bond's guide and companion and gave him her eyewitness account of the dragon; her canoe's sail was picked up by radar, bringing the search parties down on them."
     },
     {
       "id": "launch-strafing",
       "chapter": "IX",
       "title": "搜捕艇扫射",
       "cause": "诺博士的雷达发现哈妮独木舟，派搜捕艇沿海岸搜索",
-      "effect": "哈妮独木舟被机枪打断，三人被迫带哈妮同行并沿河向上游躲避搜捕队与杜宾犬群"
+      "effect": "哈妮独木舟被机枪打断，三人被迫带哈妮同行并沿河向上游躲避搜捕队与杜宾犬群",
+      "title_en": "The Launch Opens Fire",
+      "cause_en": "Dr No's radar had found Honey's canoe, and he sent the search launch along the coast.",
+      "effect_en": "The machine gun cut Honey's canoe in two; the three were forced to take Honey with them and flee up the river from the search party and its Dobermans."
     },
     {
       "id": "guard-killed",
       "chapter": "X",
       "title": "邦德击毙守卫",
       "cause": "一名守卫悄悄折返搜查红树林，靴子踩到潜伏的邦德",
-      "effect": "邦德近距离开枪击毙守卫，缴获雷明顿卡宾枪；守卫失踪使搜捕方次日必会再派人，时间紧迫"
+      "effect": "邦德近距离开枪击毙守卫，缴获雷明顿卡宾枪；守卫失踪使搜捕方次日必会再派人，时间紧迫",
+      "title_en": "Bond Kills a Guard",
+      "cause_en": "A guard crept back to search the mangroves and stepped on Bond where he lay hidden.",
+      "effect_en": "Bond shot him dead at close range and took his Remington carbine; the missing guard meant the searchers would certainly return the next day, so time was short."
     },
     {
       "id": "quarrel-death",
       "chapter": "XII",
       "title": "夸雷尔之死",
       "cause": "诺博士派伪装成巨龙的装甲沼泽车携火焰喷射器夜袭湖边营地",
-      "effect": "夸雷尔被火焰喷射器活活烧死，邦德与哈妮被迫投降被俘，邦德失去配枪"
+      "effect": "夸雷尔被火焰喷射器活活烧死，邦德与哈妮被迫投降被俘，邦德失去配枪",
+      "title_en": "Death of Quarrel",
+      "cause_en": "Dr No sent the armoured marsh buggy disguised as a dragon, with its flamethrower, to attack the camp by the lake at night.",
+      "effect_en": "Quarrel was burned alive by the flamethrower; Bond and Honey were forced to surrender and were captured, and Bond lost his gun."
     },
     {
       "id": "capture",
       "chapter": "XIII",
       "title": "被俘与疗养院囚禁",
       "cause": "邦德与哈妮无力对抗装甲沼泽车，投降后被押入山体内部",
-      "effect": "两人被当作病人登记入住豪华套房，早餐中被下药昏睡，诺博士夜里检查两人身体；邦德化名约翰·布莱斯"
+      "effect": "两人被当作病人登记入住豪华套房，早餐中被下药昏睡，诺博士夜里检查两人身体；邦德化名约翰·布莱斯",
+      "title_en": "Capture and Imprisonment",
+      "cause_en": "Bond and Honey could not fight the armoured marsh buggy and surrendered, and were taken into the mountain.",
+      "effect_en": "They were registered as patients and given luxurious suites, drugged into sleep at breakfast, and examined in the night by Dr No; Bond registered under the name John Bryce."
     },
     {
       "id": "dr-no-confession",
       "chapter": "XV",
       "title": "诺博士自述生平与罪行",
       "cause": "诺博士确信邦德与哈妮必死，首次向外人讲述自己的生平与计划",
-      "effect": "邦德获知诺博士全部背景、斯特兰威斯沉尸莫纳水库的真相与导弹干扰行动的存在"
+      "effect": "邦德获知诺博士全部背景、斯特兰威斯沉尸莫纳水库的真相与导弹干扰行动的存在",
+      "title_en": "Dr No Tells His Life",
+      "cause_en": "Certain that Bond and Honey would die, Dr No told an outsider his life story and his plans for the first time.",
+      "effect_en": "Bond learned Dr No's whole background, the truth that Strangways lies in the Mona Reservoir, and the existence of the missile-jamming operation."
     },
     {
       "id": "death-sentence",
       "chapter": "XVI",
       "title": "死刑宣判",
       "cause": "诺博士拒绝邦德的交易，决定以两人做人体耐力实验",
-      "effect": "哈妮被定为螃蟹啃食之刑，邦德被定为死亡障碍赛；邦德偷藏餐刀与打火机为逃生做准备"
+      "effect": "哈妮被定为螃蟹啃食之刑，邦德被定为死亡障碍赛；邦德偷藏餐刀与打火机为逃生做准备",
+      "title_en": "Sentence of Death",
+      "cause_en": "Dr No refused Bond's bargain and decided to use the two as subjects for his experiments in human endurance.",
+      "effect_en": "Honey was condemned to the crabs and Bond to the endurance course; Bond had already stolen a table knife and a lighter for his escape."
     },
     {
       "id": "obstacle-course",
       "chapter": "XVII",
       "title": "死亡障碍赛",
       "cause": "诺博士要以邦德为首个实验对象，记录人体耐力数据",
-      "effect": "邦德闯过带电栅网、50码垂直攀爬、高温管道与狼蛛笼，从高空坠入海湾"
+      "effect": "邦德闯过带电栅网、50码垂直攀爬、高温管道与狼蛛笼，从高空坠入海湾",
+      "title_en": "The Endurance Course",
+      "cause_en": "Dr No wanted Bond as his first test subject, to record data on human endurance.",
+      "effect_en": "Bond survived the electrified grille, the fifty-yard vertical climb, the hot pipe and the tarantula cage, and fell from the shaft into the sea."
     },
     {
       "id": "squid-fight",
       "chapter": "XVIII",
       "title": "巨型鱿鱼之战",
       "cause": "海湾铁丝网内饲养巨型鱿鱼作为障碍赛最后一关",
-      "effect": "邦德割断鱿鱼触手并以铁丝矛刺瞎其眼，鱿鱼喷墨遁走，邦德逃上岸抵达码头"
+      "effect": "邦德割断鱿鱼触手并以铁丝矛刺瞎其眼，鱿鱼喷墨遁走，邦德逃上岸抵达码头",
+      "title_en": "The Giant Squid",
+      "cause_en": "The wire-fenced bay held a giant squid as the last stage of the course.",
+      "effect_en": "Bond cut the squid's tentacles and blinded one eye with the wire spear; the squid jetted ink and fled, and Bond reached the shore and the jetty."
     },
     {
       "id": "dr-no-death",
       "chapter": "XIX",
       "title": "诺博士之死",
       "cause": "邦德夺取起重机，将传送带鸟粪出口对准正在监装的诺博士",
-      "effect": "诺博士被每分钟数吨的鸟粪活埋致死；邦德与逃生的哈妮会合，枪杀3名守卫后夺取沼泽车逃离"
+      "effect": "诺博士被每分钟数吨的鸟粪活埋致死；邦德与逃生的哈妮会合，枪杀3名守卫后夺取沼泽车逃离",
+      "title_en": "Death of Dr No",
+      "cause_en": "Bond seized the crane and turned the conveyor mouth on Dr No, who was supervising the loading of the tanker.",
+      "effect_en": "Dr No was buried alive under tons of guano a minute; Bond met the escaped Honey, shot three guards dead, and drove the marsh buggy away."
     },
     {
       "id": "escape-and-report",
       "chapter": "XX",
       "title": "逃回牙买加与清岛",
       "cause": "诺博士已死，岛上守卫群龙无首，邦德与哈妮乘独木舟夜航返回摩根港",
-      "effect": "总督批准派纳维克号与一排士兵清剿蟹礁岛，警方打捞莫纳水库并追捕诺博士同伙；邦德请病假，哈妮获安排赴纽约整鼻"
+      "effect": "总督批准派纳维克号与一排士兵清剿蟹礁岛，警方打捞莫纳水库并追捕诺博士同伙；邦德请病假，哈妮获安排赴纽约整鼻",
+      "title_en": "Escape and Report",
+      "cause_en": "Dr No was dead and his guards leaderless, so Bond and Honey sailed the canoe back to Morgan's Harbour by night.",
+      "effect_en": "The Governor authorised HMS Narvik with a platoon to clear Crab Key, the police searched the Mona Reservoir and moved against Dr No's associates; Bond asked for sick leave, and Honey was to go to New York for her nose operation."
     }
   ],
   "facts": [
@@ -1147,7 +1397,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Regional Control Officer for the Caribbean",
-      "quote_source": "第I章"
+      "quote_source": "第I章",
+      "fact_en": "Commander John Strangways, RN (retired), was the Secret Service's Regional Control Officer for the Caribbean and Jamaica's Passport Control Officer, making a scheduled radio contact with London at 6:30 p.m. every evening under the call-sign WXN."
     },
     {
       "source_novel": "dr-no",
@@ -1158,7 +1409,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Three revolvers, ungainly with their sausage-shaped silencers",
-      "quote_source": "第I章"
+      "quote_source": "第I章",
+      "fact_en": "Strangways was shot dead outside the Queen's Club on Richmond Road, Kingston, by three killers disguised as blind beggars using revolvers fitted with silencers; his body was carried away in a coffin."
     },
     {
       "source_novel": "dr-no",
@@ -1169,7 +1421,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "shot her three times in and around the left breast",
-      "quote_source": "第I章"
+      "quote_source": "第I章",
+      "fact_en": "Mary Trueblood, formerly a Chief Officer in the WRNS and Strangways's second-in-command, was shot three times in and around the left breast at the radio set, and her house was set on fire and burned out."
     },
     {
       "source_novel": "dr-no",
@@ -1180,7 +1433,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "the weighted coffin would slip down into its fifty-fathom grave",
-      "quote_source": "第I章"
+      "quote_source": "第I章",
+      "fact_en": "The bodies of Strangways and Trueblood were put into a single coffin and sunk in the Mona Reservoir in fifty fathoms of water; the whole murder operation took only forty-five minutes."
     },
     {
       "source_novel": "dr-no",
@@ -1191,7 +1445,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "The drug was fugu poison",
-      "quote_source": "第II章"
+      "quote_source": "第II章",
+      "fact_en": "Bond was poisoned in his previous case by a Russian woman agent with fugu poison, tetrodotoxin; he spent about three months in hospital before Molony pronounced him recovered, and at the moment of the poisoning a Frenchman saved his life with artificial respiration."
     },
     {
       "source_novel": "dr-no",
@@ -1202,7 +1457,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Your gun got stuck, if I recall. This Beretta of yours",
-      "quote_source": "第II章"
+      "quote_source": "第II章",
+      "fact_en": "On the findings of a court of inquiry, M confiscated the Beretta .25 with silencer that Bond had carried for fifteen years, because the gun had jammed in his previous case."
     },
     {
       "source_novel": "dr-no",
@@ -1213,7 +1469,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Ladies' gun, sir",
-      "quote_source": "第II章"
+      "quote_source": "第II章",
+      "fact_en": "Major Boothroyd, the Armourer, dismissed the Beretta .25 as a lady's gun with inadequate stopping power, its silencer bulky and liable to catch on clothing."
     },
     {
       "source_novel": "dr-no",
@@ -1224,7 +1481,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "I'd choose the Walther PPK 7.65 mm",
-      "quote_source": "第II章"
+      "quote_source": "第II章",
+      "fact_en": "Bond was issued a Walther PPK 7.65 mm, chosen by Boothroyd after test-firing each candidate 5,000 rounds at 25 yards, together with a Berns Martin triple-draw holster."
     },
     {
       "source_novel": "dr-no",
@@ -1235,7 +1493,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Smith & Wesson Centennial Airweight. Revolver. .38 calibre",
-      "quote_source": "第II章"
+      "quote_source": "第II章",
+      "fact_en": "Bond was also issued a Smith & Wesson Centennial Airweight .38 calibre hammerless revolver, six and a half inches long, weighing thirteen ounces, with a five-shot cylinder."
     },
     {
       "source_novel": "dr-no",
@@ -1246,7 +1505,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "courage is a capital sum reduced by expenditure",
-      "quote_source": "第II章"
+      "quote_source": "第II章",
+      "fact_en": "Sir James Molony warned M, quoting Moran, that courage is a capital sum reduced by expenditure, and that Bond had been drawing on his since before the war and was close to its limit, though not yet overdrawn."
     },
     {
       "source_novel": "dr-no",
@@ -1257,7 +1517,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "They've gone, vanished into thin air",
-      "quote_source": "第III章"
+      "quote_source": "第III章",
+      "fact_en": "Strangways and Trueblood had been missing for about three weeks; the Governor and the authorities accepted that they had eloped, and Agent 258, sent from Washington, spent a week in Jamaica without finding evidence to the contrary."
     },
     {
       "source_novel": "dr-no",
@@ -1268,7 +1529,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "bought the place for ten thousand pounds",
-      "quote_source": "第III章"
+      "quote_source": "第III章",
+      "fact_en": "Dr No, a German-Chinese whose full name is Julius No, bought Crab Key from the Jamaican Government in 1943 for ten thousand pounds, on condition that he left the bird sanctuary lease undisturbed."
     },
     {
       "source_novel": "dr-no",
@@ -1279,7 +1541,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "there were about five thousand of them on the island",
-      "quote_source": "第III章"
+      "quote_source": "第III章",
+      "fact_en": "Crab Key is a British dependency of Jamaica, uninhabited for about fifty years before the war; the Audubon Society leases a corner of it as a roseate spoonbill sanctuary with two wardens resident, and at their peak there were about five thousand spoonbills on the island."
     },
     {
       "source_novel": "dr-no",
@@ -1290,7 +1553,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "attacked by a dragon with flames coming out of its mouth",
-      "quote_source": "第III章"
+      "quote_source": "第III章",
+      "fact_en": "Shortly before Christmas an Audubon warden escaped to the Jamaican north coast with severe burns and died, saying the camp had been attacked by a dragon breathing flames; the other warden was killed, and two Audubon investigators then died when their Beechcraft crashed on the island."
     },
     {
       "source_novel": "dr-no",
@@ -1301,7 +1565,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "007 can be acting Head of Station in the meantime",
-      "quote_source": "第III章"
+      "quote_source": "第III章",
+      "fact_en": "Bond was ordered to Jamaica as acting Head of Station, to leave within a week; officially a holiday posting, in fact to find out what had happened to Strangways."
     },
     {
       "source_novel": "dr-no",
@@ -1312,7 +1577,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Quarrel had been with Bond on his last adventure in Jamaica",
-      "quote_source": "第IV章"
+      "quote_source": "第IV章",
+      "fact_en": "Quarrel, a Cayman Island fisherman and turtle hunter, had worked with Bond on the treasure hunt five years earlier; Bond hired him at ten pounds a week to help with the investigation."
     },
     {
       "source_novel": "dr-no",
@@ -1323,7 +1589,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Annabel Chung. One of their freelance girls",
-      "quote_source": "第IV章"
+      "quote_source": "第IV章",
+      "fact_en": "Annabel Chung, who called herself a freelance photographer for the Daily Gleaner, was in fact one of Dr No's agents, photographing Bond at the airport and again at the Joy Boat nightclub to confirm his identity and his hotel."
     },
     {
       "source_novel": "dr-no",
@@ -1334,7 +1601,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Bond's passport described him as 'Import and Export Merchant'",
-      "quote_source": "第IV章"
+      "quote_source": "第IV章",
+      "fact_en": "Bond's passport described him as an import and export merchant employed by Universal Export; on arrival he said he was on holiday and booked into the Blue Hills Hotel."
     },
     {
       "source_novel": "dr-no",
@@ -1345,7 +1613,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "about thirty-eight to forty dollars a ton c.i.f. Antwerp",
-      "quote_source": "第V章"
+      "quote_source": "第V章",
+      "fact_en": "Pleydell-Smith said Crab Key guano sold at about fifty dollars a ton, lately down to thirty-eight to forty dollars a ton c.i.f. Antwerp; the island's hundred thousand guanays were worth about a million and a half dollars, and the plant about another million."
     },
     {
       "source_novel": "dr-no",
@@ -1356,7 +1625,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "The covers are there but there's nothing inside them",
-      "quote_source": "第V章"
+      "quote_source": "第V章",
+      "fact_en": "The Crab Key file still had its covers but nothing inside them; the last man to handle it was Strangways, and Miss Taro, the Colonial Secretary's Chinese secretary, was Dr No's agent inside King's House."
     },
     {
       "source_novel": "dr-no",
@@ -1367,7 +1637,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "about thirty miles due north of Galina Point",
-      "quote_source": "第VI章"
+      "quote_source": "第VI章",
+      "fact_en": "The 1910 survey map shows Crab Key as about fifty square miles, three-quarters swamp and shallow lake to the east, with a 500-foot mountain to the west; the guano was last worked in 1880, and the island lies about thirty miles due north of Galina Point and about sixty miles south of Cuba."
     },
     {
       "source_novel": "dr-no",
@@ -1378,7 +1649,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "EACH OBJECT CONTAINED ENOUGH CYANIDE TO KILL A HORSE",
-      "quote_source": "第VII章"
+      "quote_source": "第VII章",
+      "fact_en": "Bond found a pinhole in every piece of fruit in the basket sent from King's House; analysis showed that each piece contained enough cyanide to kill a horse."
     },
     {
       "source_novel": "dr-no",
@@ -1389,7 +1661,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Not hunless dem put dere a purpose",
-      "quote_source": "第VII章"
+      "quote_source": "第VII章",
+      "fact_en": "A centipede about five to six inches long climbed onto Bond's body in the middle of the night; he lay motionless, holding his breath, until it crawled away, and only then killed it. Quarrel said a centipede would never appear in a clean modern house unless put there on purpose."
     },
     {
       "source_novel": "dr-no",
@@ -1400,7 +1673,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "A runaway lorry, whose driver was being traced, had crashed into the Sunbeam",
-      "quote_source": "第VII章"
+      "quote_source": "第VII章",
+      "fact_en": "Bond sent two doubles in the Sunbeam to Montego Bay; on the Devil's Racecourse the car was hit by a runaway lorry and forced over the edge into a ravine, killing Ben Gibbons and Josiah Smith."
     },
     {
       "source_novel": "dr-no",
@@ -1411,7 +1685,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "We'll make it big, say five thousand pounds",
-      "quote_source": "第VII章"
+      "quote_source": "第VII章",
+      "fact_en": "Bond took out a 5,000-pound life-insurance policy on Quarrel, who expected to die on the expedition to Crab Key."
     },
     {
       "source_novel": "dr-no",
@@ -1422,7 +1697,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Seven, eight hours, cap'n",
-      "quote_source": "第VII章"
+      "quote_source": "第VII章",
+      "fact_en": "Bond and Quarrel crossed about thirty miles of sea by dugout canoe at night and landed before dawn on the black-sand beach near the river mouth on Crab Key's south coast, hiding the canoe."
     },
     {
       "source_novel": "dr-no",
@@ -1433,7 +1709,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "You can get five dollars for a perfect specimen. In Miami",
-      "quote_source": "第VIII章"
+      "quote_source": "第VIII章",
+      "fact_en": "The mauve-pink shells Honeychile Rider collected are Venus Elegans, the Elegant Venus; a perfect specimen fetches five dollars in Miami. She had been coming to the island for about a year and had found the shell bed about a month earlier."
     },
     {
       "source_novel": "dr-no",
@@ -1444,7 +1721,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "It had two great glaring eyes and a long snout",
-      "quote_source": "第VIII章"
+      "quote_source": "第VIII章",
+      "fact_en": "On Christmas Eve, near the wardens' camp, Honey saw the dragon with her own eyes: black and gold, with two great glaring eyes, a long snout, short wings and a pointed tail, breathing fire that burned the birds' nests and the trees."
     },
     {
       "source_novel": "dr-no",
@@ -1455,7 +1733,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Converted MTB, British Government surplus?",
-      "quote_source": "第IX章"
+      "quote_source": "第IX章",
+      "fact_en": "Dr No's search launch was a converted MTB fitted with a Spandau machine gun and a loud-hailer; having found Honey's canoe, it raked the beach and cut her canoe in two."
     },
     {
       "source_novel": "dr-no",
@@ -1466,7 +1745,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Dose is police-houns—Pinschers dey's called",
-      "quote_source": "第IX章"
+      "quote_source": "第IX章",
+      "fact_en": "The three hid underwater, breathing through bamboo tubes, from a search party of two armed Chinese Negro guards with Doberman pinschers, said to number twenty or more."
     },
     {
       "source_novel": "dr-no",
@@ -1477,7 +1757,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "It was a U.S. Army Remington Carbine, .300",
-      "quote_source": "第X章"
+      "quote_source": "第X章",
+      "fact_en": "Bond shot dead at close range a guard who crept back to search the mangroves and stepped on him as he lay hidden, and took the man's U.S. Army Remington .300 carbine."
     },
     {
       "source_novel": "dr-no",
@@ -1488,7 +1769,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "at least two feet across",
-      "quote_source": "第X章"
+      "quote_source": "第X章",
+      "fact_en": "The dragon's tracks were two smooth wheel ruts about two feet wide with a centre track about three inches wide, running in a straight line across the marsh and into the lake, with scorched bushes along the way."
     },
     {
       "source_novel": "dr-no",
@@ -1499,7 +1781,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "five one-dollar notes, three Jamaica pounds and some silver",
-      "quote_source": "第X章"
+      "quote_source": "第X章",
+      "fact_en": "The ruined wardens' camp held unopened tins, sleeping bags and a small wallet containing five one-dollar notes, three Jamaican pounds and some silver - signs that the wardens had fled in a hurry or been killed."
     },
     {
       "source_novel": "dr-no",
@@ -1510,7 +1793,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "I've lived there since I was five",
-      "quote_source": "第XI章"
+      "quote_source": "第XI章",
+      "fact_en": "Honey's parents died in the fire that burned the Beau Desert Great House when she was five; she then lived in the cellar of the ruin with her black nanny, who died when she was fifteen, after which she lived alone for five years."
     },
     {
       "source_novel": "dr-no",
@@ -1521,7 +1805,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "He took a week to die",
-      "quote_source": "第XI章"
+      "quote_source": "第XI章",
+      "fact_en": "The white overseer Mander raped Honey and broke her nose; she killed him with a black widow spider, and he took a week to die."
     },
     {
       "source_novel": "dr-no",
@@ -1532,7 +1817,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "I've got about fifteen pounds under a stone in my cellar",
-      "quote_source": "第XI章"
+      "quote_source": "第XI章",
+      "fact_en": "Honey taught herself by reading an old encyclopedia, reaching the letter T; she had saved about fifteen pounds from selling shells and aimed to save five hundred pounds to have her nose operated on in New York."
     },
     {
       "source_novel": "dr-no",
@@ -1543,7 +1829,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Some sort of tractor affair dressed up to frighten",
-      "quote_source": "第XII章"
+      "quote_source": "第XII章",
+      "fact_en": "The supposed dragon is a marsh buggy bought by Dr No in Florida and disguised: an armoured domed cabin, huge solid rubber tyres, black-and-gold paint, a diesel engine and a flamethrower."
     },
     {
       "source_novel": "dr-no",
@@ -1554,7 +1841,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "one unearthly scream, immediately choked",
-      "quote_source": "第XII章"
+      "quote_source": "第XII章",
+      "fact_en": "Quarrel was burned alive by the marsh buggy's flamethrower; Bond saw his body and covered its eyes with sand."
     },
     {
       "source_novel": "dr-no",
@@ -1565,7 +1853,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Bryce, John Bryce",
-      "quote_source": "第XIII章"
+      "quote_source": "第XIII章",
+      "fact_en": "After capture, Bond registered as John Bryce, an ornithologist representing the Audubon Society, with Honey as his wife, giving M's real name as their next of kin and describing him as their uncle."
     },
     {
       "source_novel": "dr-no",
@@ -1576,7 +1865,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "He must have been six feet six tall",
-      "quote_source": "第XIII章"
+      "quote_source": "第XIII章",
+      "fact_en": "Dr No is about six feet six inches tall; at ten o'clock at night he slipped into the suite and examined the sleeping Bond and Honey by torchlight, lifting the sheets with his steel pincers."
     },
     {
       "source_novel": "dr-no",
@@ -1587,7 +1877,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "One million dollars",
-      "quote_source": "第XIV章"
+      "quote_source": "第XIV章",
+      "fact_en": "The whole wall of Dr No's study is an armoured-glass aquarium window running twenty feet down into the sea, which cost a million dollars and offers a view of sharks, rays and Portuguese men-of-war."
     },
     {
       "source_novel": "dr-no",
@@ -1598,7 +1889,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "I have no hands",
-      "quote_source": "第XIV章"
+      "quote_source": "第XIV章",
+      "fact_en": "Dr No has lost both hands and wears articulated steel pincers in their place; his eyes are black, expressionless sockets under contact lenses, and he claims to see through lies. Bond tells him the steel eyes are only contact lenses."
     },
     {
       "source_novel": "dr-no",
@@ -1609,7 +1901,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Shaken-and not stirred, please",
-      "quote_source": "第XIV章"
+      "quote_source": "第XIV章",
+      "fact_en": "In Dr No's study Bond ordered a vodka dry Martini with a slice of lemon peel, shaken and not stirred, preferring Russian or Polish vodka."
     },
     {
       "source_novel": "dr-no",
@@ -1620,7 +1913,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "I was born in Pekin, but on what is known as 'the wrong side of the blanket'",
-      "quote_source": "第XV章"
+      "quote_source": "第XV章",
+      "fact_en": "Dr No was the illegitimate son of a German Methodist missionary and a Chinese girl of good family, born in Peking and brought up by an aunt of his mother, before drifting into the Shanghai tongs."
     },
     {
       "source_novel": "dr-no",
@@ -1631,7 +1925,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "I am the one man in a million who has his heart on the right side",
-      "quote_source": "第XV章"
+      "quote_source": "第XV章",
+      "fact_en": "At thirty Dr No was treasurer of New York's Hip Sings tong; in the tong wars of the late 1920s he stole a million dollars in gold, was tortured, had his hands cut off and was shot through the heart, surviving because his heart is on the right side of his body."
     },
     {
       "source_novel": "dr-no",
@@ -1642,7 +1937,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "I changed my name to Julius No",
-      "quote_source": "第XV章"
+      "quote_source": "第XV章",
+      "fact_en": "Dr No moved the gold by dealing in rare stamps and remade his face - removing his hair, thinning his nose, widening his lips, wearing built-up shoes and stretching his spine - studied medicine in Milwaukee, and took the name Julius No."
     },
     {
       "source_novel": "dr-no",
@@ -1653,7 +1949,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "They are at the bottom of the Mona Reservoir",
-      "quote_source": "第XV章"
+      "quote_source": "第XV章",
+      "fact_en": "Dr No admitted that Strangways and Trueblood lie at the bottom of the Mona Reservoir, murdered by three of his men who struck on his daily routine."
     },
     {
       "source_novel": "dr-no",
@@ -1664,7 +1961,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "An accident is arranged. A lorry goes out of control",
-      "quote_source": "第XV章"
+      "quote_source": "第XV章",
+      "fact_en": "Dr No burned the wardens' camp with the marsh buggy and arranged for a lorry to run out of control into the Beechcraft as it landed, killing three people, to stop the investigation."
     },
     {
       "source_novel": "dr-no",
@@ -1675,7 +1973,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "the vast majority of those failures have been caused from Crab Key",
-      "quote_source": "第XVI章"
+      "quote_source": "第XVI章",
+      "fact_en": "Dr No was jamming American missile tests from Turks Island for the Russians, with a million dollars' worth of equipment and six Moscow-trained technicians, interfering with the guidance signals of the Snark, Zuni, Matador, Petrel, Regulus and Bomarc, among others."
     },
     {
       "source_novel": "dr-no",
@@ -1686,7 +1985,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Shall we say ten million dollars for the whole operation?",
-      "quote_source": "第XVI章"
+      "quote_source": "第XVI章",
+      "fact_en": "Dr No's next step was to capture an American missile intact and sell it to the Russians, asking ten to twenty million dollars, and he threatened to turn a captured missile on Havana, Kingston or Miami."
     },
     {
       "source_novel": "dr-no",
@@ -1697,7 +1997,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "She lasted three hours. She died of terror",
-      "quote_source": "第XVI章"
+      "quote_source": "第XVI章",
+      "fact_en": "Dr No sentenced Honey to be staked naked on the migration path of the black crabs, saying a Black woman put through it before had lasted three hours and died of terror, and he wanted a white woman as a comparison."
     },
     {
       "source_novel": "dr-no",
@@ -1708,7 +2009,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "his left hand flicked the knife into the deep sleeve of his kimono",
-      "quote_source": "第XVI章"
+      "quote_source": "第XVI章",
+      "fact_en": "At dinner Bond stole a table knife and a lighter; he later sharpened the knife to a point, and the lighter lit his way through the obstacle course and drove back the tarantulas."
     },
     {
       "source_novel": "dr-no",
@@ -1719,7 +2021,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "They were spiders, giant tarantulas, three or four inches long",
-      "quote_source": "第XVII章"
+      "quote_source": "第XVII章",
+      "fact_en": "Bond survived the endurance course: the electrified grille, a climb of about fifty yards up a vertical metal shaft, a scorching hot pipe that blistered him, and a cage of about twenty giant tarantulas, before sliding down a shaft and falling into the sea."
     },
     {
       "source_novel": "dr-no",
@@ -1730,7 +2033,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "the tip of his spear lancing into the centre of a black eyeball",
-      "quote_source": "第XVIII章"
+      "quote_source": "第XVIII章",
+      "fact_en": "In the wire-fenced bay Bond fought a giant squid, cutting through its tentacles with the table knife and blinding one of its eyes with the wire spear; the squid jetted ink and disappeared."
     },
     {
       "source_novel": "dr-no",
@@ -1741,7 +2045,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Now the yellow mountain was twenty feet high",
-      "quote_source": "第XIX章"
+      "quote_source": "第XIX章",
+      "fact_en": "While Dr No supervised the loading of the Antwerp tanker Blanche, Bond seized the crane and turned the conveyor mouth on him, burying him alive under tons of guano a minute until the yellow mountain stood twenty feet high."
     },
     {
       "source_novel": "dr-no",
@@ -1752,7 +2057,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "those crabs wouldn't think of even nipping someone",
-      "quote_source": "第XIX章"
+      "quote_source": "第XIX章",
+      "fact_en": "Honey was not eaten by the crabs: black crabs do not eat living human flesh, and she had no wounds, so after the migration passed she slipped her stakes, changed into a workman's dungarees in the machine shop, and was on her way through the conveyor tunnel to kill Dr No when she met Bond."
     },
     {
       "source_novel": "dr-no",
@@ -1763,7 +2069,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "Bond shot the rear man in the head",
-      "quote_source": "第XIX章"
+      "quote_source": "第XIX章",
+      "fact_en": "In the conveyor tunnel Bond shot three armed guards dead, seized the marsh buggy, and in the lake shot the pack of Dobermans that came after them."
     },
     {
       "source_novel": "dr-no",
@@ -1774,7 +2081,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "I can provide a platoon ready to embark by this evening",
-      "quote_source": "第XX章"
+      "quote_source": "第XX章",
+      "fact_en": "Bond and Honey sailed the canoe back to Morgan's Harbour by night; the Governor authorised HMS Narvik to carry a platoon to clear Crab Key, and the police were to search the Mona Reservoir with divers and arrest Dr No's Jamaican associates."
     },
     {
       "source_novel": "dr-no",
@@ -1785,7 +2093,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": "KINDLY INFORM ARMOURER SMITH AND WESSON INEFFECTIVE AGAINST FLAME-THROWER",
-      "quote_source": "第XX章"
+      "quote_source": "第XX章",
+      "fact_en": "Bond signalled M asking for sick leave, adding that the Smith & Wesson was ineffective against a flamethrower; he promised to take Honey to New York for her nose operation and to find her work at the Jamaica Institute."
     },
     {
       "source_novel": "dr-no",
@@ -1796,7 +2105,8 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": null,
-      "quote_source": null
+      "quote_source": null,
+      "fact_en": "A search of the whole novel for the word SPECTRE returns no occurrences: in the book Dr No has nothing to do with any organisation of that name, and his partners in the missile-jamming operation are the Russians."
     },
     {
       "source_novel": "dr-no",
@@ -1807,67 +2117,82 @@
       "confidence": "high",
       "canon_or_inference": "canon",
       "quote": null,
-      "quote_source": null
+      "quote_source": null,
+      "fact_en": "A search of the whole novel finds the Armourer never called Q - he is always the Armourer or Major Boothroyd - and Felix Leiter does not appear in the book at all."
     }
   ],
   "canon_vs_inference": [
     {
       "topic": "故事年份",
       "status": "inference",
-      "note": "原文只写3月1日等月份日期，未明示年份；本书事实条目的1958年按出版年份标注，事件月份与相对顺序均为原文canon"
+      "note": "原文只写3月1日等月份日期，未明示年份；本书事实条目的1958年按出版年份标注，事件月份与相对顺序均为原文canon",
+      "note_en": "The book gives only months and dates, such as 1 March, and never states the year; the year 1958 used in the fact entries follows the year of publication, while the months and the relative order of events are canon."
     },
     {
       "topic": "诺博士购岛年份",
       "status": "canon",
-      "note": "第III章殖民地部档案称1943年以1万英镑购岛；第XV章诺博士自述称1942年已开始雇工并称在岛上14年，两处表述不一致，原文如此，未做调和"
+      "note": "第III章殖民地部档案称1943年以1万英镑购岛；第XV章诺博士自述称1942年已开始雇工并称在岛上14年，两处表述不一致，原文如此，未做调和",
+      "note_en": "The Colonial Office file in Chapter III says the island was bought in 1943 for 10,000 pounds; in Chapter XV Dr No says he was already hiring labour in 1942 and had been on the island for fourteen years. The two statements do not agree; the book is left as written, with no attempt to reconcile them."
     },
     {
       "topic": "哈妮年龄约20岁",
       "status": "inference",
-      "note": "原文只写保姆在她15岁时去世、此后独居5年，推算约20岁；原文未直接给出年龄"
+      "note": "原文只写保姆在她15岁时去世、此后独居5年，推算约20岁；原文未直接给出年龄",
+      "note_en": "The book only says that her nanny died when she was fifteen and that she has lived alone for five years since, which puts her at about twenty; her age is never stated directly."
     },
     {
       "topic": "诺博士约60岁",
       "status": "inference",
-      "note": "原文只写其30岁任帮会司库、帮会战争在20世纪20年代末、在岛上14年，推算约60岁上下；原文未直接给出年龄"
+      "note": "原文只写其30岁任帮会司库、帮会战争在20世纪20年代末、在岛上14年，推算约60岁上下；原文未直接给出年龄",
+      "note_en": "The book only says that he was thirty when he became treasurer of the tong, that the tong wars fell in the late 1920s, and that he has been on the island for fourteen years, which puts him at about sixty; his age is never stated directly."
     },
     {
       "topic": "邦德年龄",
       "status": "inference",
-      "note": "原文未明示邦德年龄，只写贝雷塔用了15年、战前已服役、参谋长与其年纪相仿；未写具体数字"
+      "note": "原文未明示邦德年龄，只写贝雷塔用了15年、战前已服役、参谋长与其年纪相仿；未写具体数字",
+      "note_en": "The book never states Bond's age, only that he has carried the Beretta for fifteen years, was already in service before the war, and is about the same age as the Chief of Staff; no figure is given."
     },
     {
       "topic": "看守员遇害年份为1957年12月",
       "status": "inference",
-      "note": "原文只写圣诞节前，按故事当年3月推算为上一年12月；月份为canon，年份为推算"
+      "note": "原文只写圣诞节前，按故事当年3月推算为上一年12月；月份为canon，年份为推算",
+      "note_en": "The book only says 'just before Christmas'; reckoned from the story's March, that is the previous December. The month is canon; the year is inferred."
     },
     {
       "topic": "结尾准将是否为比尔·坦普勒",
       "status": "inference",
-      "note": "第I章桥牌局成员为准将比尔·坦普勒，第XX章主张派兵的为准将，未写姓名；原文未明示两人是否为同一人"
+      "note": "第I章桥牌局成员为准将比尔·坦普勒，第XX章主张派兵的为准将，未写姓名；原文未明示两人是否为同一人",
+      "note_en": "The bridge player in Chapter I is Brigadier Bill Templar; the Brigadier who argues for sending troops in Chapter XX is not named. The book never says whether they are the same man."
     },
     {
       "topic": "SPECTRE一词全文0次",
       "status": "canon",
-      "note": "以grep对原文全文检索SPECTRE与spectre均为0次；诺博士的合作方为俄国人，与幽灵党无关，电影将其归入幽灵党是改编"
+      "note": "以grep对原文全文检索SPECTRE与spectre均为0次；诺博士的合作方为俄国人，与幽灵党无关，电影将其归入幽灵党是改编",
+      "note_en": "A grep search of the whole text for SPECTRE and spectre returns no occurrences. Dr No's partners are the Russians and he has nothing to do with SPECTRE; the film's placing of him in SPECTRE is an adaptation."
     },
     {
       "topic": "费利克斯·莱特未登场",
       "status": "canon",
-      "note": "以grep检索leiter与felix均为0次；任务简报中提到的费利克斯·莱特并未在本部出现，不得写入本部人物关系"
+      "note": "以grep检索leiter与felix均为0次；任务简报中提到的费利克斯·莱特并未在本部出现，不得写入本部人物关系",
+      "note_en": "A grep search for leiter and felix returns no occurrences. Felix Leiter does not appear in this book and must not be written into its cast or relationships."
     },
     {
       "topic": "邦德所谓已留后手报告",
       "status": "canon",
-      "note": "第XV章邦德向诺博士声称已留报告、3日内未归即公开，诺博士当场识破为谎言；第XVI章诺博士明确拒绝交易，邦德的说法是虚张声势，非事实"
+      "note": "第XV章邦德向诺博士声称已留报告、3日内未归即公开，诺博士当场识破为谎言；第XVI章诺博士明确拒绝交易，邦德的说法是虚张声势，非事实",
+      "note_en": "In Chapter XV Bond tells Dr No that a report has already been filed and will be published if he does not return within three days; Dr No sees through it at once as a bluff. In Chapter XVI he refuses the bargain outright. Bond's claim was bravado, not fact."
     },
     {
       "topic": "M的真名",
       "status": "canon",
-      "note": "第XIII章邦德登记时称以M的真名作紧急联系人，但原文未写出该名字，故本JSON不写M的真名"
+      "note": "第XIII章邦德登记时称以M的真名作紧急联系人，但原文未写出该名字，故本JSON不写M的真名",
+      "note_en": "In Chapter XIII Bond registers M's real name as next of kin, but the book never prints the name, so this file does not give M's real name."
     }
   ],
   "adaptation_differences": [
     "本部未核对电影差异：本次任务只读原文，未逐项对照电影，故不写具体电影差异；仅确认一点：原著全文无SPECTRE一词，诺博士的合作方为俄国人，电影把诺博士归入幽灵党是改编，原著无此设定"
+  ],
+  "adaptation_differences_en": [
+    "The film differences were not checked item by item against the film in this pass, which worked from the novel alone, so no specific film differences are listed. One point is confirmed: the word SPECTRE never occurs in the novel, Dr No's partners are the Russians, and the film's placing of Dr No in SPECTRE is an adaptation with no basis in the book."
   ]
 }

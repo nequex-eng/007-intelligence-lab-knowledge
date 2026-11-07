@@ -6,32 +6,44 @@
     {
       "note": "原文第21章由501提出、邦德附和的推测：Captain Boris是出资人或监督者、幕后势力可能是俄国人；原文未给出确证",
       "status": "inference",
-      "topic": "Captain Boris与俄国人是生物战幕后主使"
+      "topic": "Captain Boris与俄国人是生物战幕后主使",
+      "topic_en": "Captain Boris and the Russians as the power behind the biological warfare",
+      "note_en": "In Chapter 21, 501 suggests, and Bond agrees, that Captain Boris was the paymaster or supervisor, and that the power behind the scheme may have been the Russians; the novel never proves it."
     },
     {
       "note": "原文第22章富兰克林的推断：宝莉·塔斯克携带气雾剂在奥林匹亚禽展传播禽瘟；原文中这是会议上的推理，未见宝莉本人供认",
       "status": "inference",
-      "topic": "宝莉·塔斯克在奥林匹亚传播禽瘟病毒"
+      "topic": "宝莉·塔斯克在奥林匹亚传播禽瘟病毒",
+      "topic_en": "Polly Tasker spreading fowl pest at Olympia",
+      "note_en": "In Chapter 22, Franklin argues that Polly Tasker carried an aerosol to the Olympia poultry show and sprayed fowl pest there; in the novel this is reasoning at the conference, and Polly herself never confesses."
     },
     {
       "note": "原文未明写突袭当晚的具体日期，只写圣诞节后、元旦婚礼前；按行程推断为12月28日前后",
       "status": "inference",
-      "topic": "突袭雪山诊所的具体日期"
+      "topic": "突袭雪山诊所的具体日期",
+      "topic_en": "The exact date of the raid on Piz Gloria",
+      "note_en": "The novel never states the date of the raid itself, only that it falls after Christmas and before the New Year's Day wedding; the order of events puts it around 28 December."
     },
     {
       "note": "原文第17章邦德认定自己走上黑道（封闭的雪崩危险道），并推断爆炸与枪声引发雪崩；雪崩成因未获官方证实",
       "status": "inference",
-      "topic": "雪崩由爆炸与枪声引发"
+      "topic": "雪崩由爆炸与枪声引发",
+      "topic_en": "The avalanche caused by explosions and gunfire",
+      "note_en": "In Chapter 17 Bond decides he is on the closed Black Run and concludes that the explosions and gunfire brought the avalanche down; no official cause is ever confirmed."
     },
     {
       "note": "原文第27章只写红色玛莎拉蒂上男子有梅毒侵蚀的鼻子、女子同车；结合第25章布洛菲尔德逃脱与第26章艾玛·布朗特下落不明，认定车上两人即布洛菲尔德与艾玛·布朗特",
       "status": "inference",
-      "topic": "红色玛莎拉蒂上的枪手是布洛菲尔德与艾玛·布朗特"
+      "topic": "红色玛莎拉蒂上的枪手是布洛菲尔德与艾玛·布朗特",
+      "topic_en": "The gunmen in the red Maserati were Blofeld and Irma Bunt",
+      "note_en": "Chapter 27 describes only a man with a nose eaten away by syphilis and a woman beside him in the car; taken with Blofeld's escape in Chapter 25 and Irma Bunt's disappearance in Chapter 26, the two are identified as Blofeld and Irma Bunt."
     },
     {
       "note": "原文第1章邦德凭直觉认为崔西要自杀；第5章德拉科证实她确有自杀计划并出示遗书",
       "status": "canon",
-      "topic": "崔西在海滩确有自杀意图"
+      "topic": "崔西在海滩确有自杀意图",
+      "topic_en": "Tracy's suicidal intent on the beach",
+      "note_en": "In Chapter 1 Bond senses by instinct that Tracy means to kill herself; in Chapter 5 Draco confirms that she did plan suicide and shows him her farewell note."
     }
   ],
   "chapters": [
@@ -39,163 +51,190 @@
       "no": 1,
       "start_line": 6,
       "summary": "9月，法国滨海鲁瓦亚勒。邦德在海滩监视一名女子（崔西），她走向大海似要自杀；两名持枪男子出现，将两人押上救生艇带走。",
-      "title": "Seascape with Figures"
+      "title": "Seascape with Figures",
+      "summary_en": "In September at Royale-les-Eaux, Bond watches a young woman, Tracy, walk out towards the sea as if to drown herself; as he follows her, two armed men appear and march them both aboard a rescue boat."
     },
     {
       "no": 2,
       "start_line": 40,
       "summary": "倒叙24小时前：邦德驾宾利追逐崔西的白色蓝旗亚跑车至鲁瓦亚勒；他正起草辞职信，因追查布洛菲尔德与幽灵党一年无果、巴勒莫假线索令他落入黑手党之手而心灰意冷；酒店经理称崔西为迪·维琴佐伯爵夫人。",
-      "title": "Gran Turismo"
+      "title": "Gran Turismo",
+      "summary_en": "Twenty-four hours earlier: Bond, driving his Bentley after Tracy's white Lancia, is drafting his resignation from the Service after a year of fruitless hunting for Blofeld, including a false lead in Palermo that landed him in the hands of the Mafia; the hotel manager identifies Tracy as the Comtesse di Vicenzo."
     },
     {
       "no": 3,
       "start_line": 82,
       "summary": "赌场之夜：邦德玩百家乐赢得460万法郎；崔西叫Banco输掉2万新法郎却无钱支付，面临“耻辱一击”黑名单；邦德谎称两人合伙替她付账，随后又输光赢款；两人在酒吧相识，崔西约他去45号房。",
-      "title": "The Gambit of Shame"
+      "title": "The Gambit of Shame",
+      "summary_en": "Casino night: Bond wins 4,600,000 francs at chemin de fer; Tracy calls banco, loses 20,000 new francs she cannot pay, and faces the blacklisting 'coup du deshonneur' until Bond pretends they were playing in partnership and pays; they meet in the bar and she invites him to room 45."
     },
     {
       "no": 4,
       "start_line": 129,
       "summary": "邦德与崔西在45号房过夜；次日清晨崔西将他赶走；邦德租车跟踪她到海滩，目睹第1章的绑架；绑匪将两人带到一辆货车，车主是科西嘉联盟首领马克-安吉·德拉科，崔西的父亲。",
-      "title": "All Cats are Grey"
+      "title": "All Cats are Grey",
+      "summary_en": "Bond spends the night with Tracy in room 45; next morning she throws him out; he hires a car and follows her to the beach, where the kidnapping of Chapter 1 takes place, and the two are brought to a lorry belonging to Marc-Ange Draco, head of the Union Corse and Tracy's father."
     },
     {
       "no": 5,
       "start_line": 172,
       "summary": "德拉科讲述崔西身世：母亲为英国女家庭教师，10年前去世；崔西嫁给意大利人朱利奥·迪·维琴佐伯爵后被抛弃，女婴6个月前死于脊髓脑膜炎；崔西留下遗书准备自杀；德拉科愿以100万英镑黄金为嫁妆求邦德娶她，邦德拒绝，但答应共进晚餐；德拉科透露布洛菲尔德活着，在瑞士。",
-      "title": "The Capu"
+      "title": "The Capu",
+      "summary_en": "Draco tells Tracy's story: her English governess mother died ten years ago; she married the Italian Count Giulio di Vicenzo, who deserted her, and her baby daughter died of spinal meningitis six months ago; she left a suicide note; Draco offers Bond a dowry of a million pounds in gold to marry her -- Bond refuses but agrees to dinner -- and reveals that Blofeld is alive in Switzerland."
     },
     {
       "no": 6,
       "start_line": 220,
       "summary": "两个月后伦敦：Z站查不到布洛菲尔德在瑞士的踪迹，瑞士拒绝查银行户头；邦德接到纹章院格里芬·奥尔的传唤；纹章院称邦德家族纹章为“银底黑Chevron上三枚金币”，箴言为“世界还不够”。",
-      "title": "Bond of Bond Street?"
+      "title": "Bond of Bond Street?",
+      "summary_en": "Two months later in London: Station Z can find no trace of Blofeld in Switzerland and the Swiss refuse to search numbered bank accounts; Bond is summoned to the College of Arms, where Griffon Or tells him the Bond arms are 'Argent on a chevron sable three bezants' with the motto 'The World is not Enough'."
     },
     {
       "no": 7,
       "start_line": 254,
       "summary": "纹章官黑貂·蛇怪（希拉里·布雷）告知：苏黎世律师来信称布洛菲尔德自称布勒维尔伯爵巴尔塔扎，要求确认爵位；布洛菲尔德称1908年5月28日生于格丁尼亚，出生记录页被裁掉；德·布勒维尔家族特征为无耳垂，而布洛菲尔德有耳垂；两人策划派邦德冒充使者面见布洛菲尔德。",
-      "title": "The Hairy Heel of Achilles"
+      "title": "The Hairy Heel of Achilles",
+      "summary_en": "Sable Basilisk, the herald, explains that Blofeld, through Zurich solicitors, claims to be the Comte Balthazar de Bleuville, born in Gdynia on 28 May 1908, though the page recording his birth has been cut out; the de Bleuvilles have no ear lobes, while Blofeld has pronounced ones; Bond and Bray plan to send Bond to meet Blofeld disguised as an envoy."
     },
     {
       "no": 8,
       "start_line": 293,
       "summary": "M勉强批准计划：邦德化名纹章官希拉里·布雷爵士，持假护照赴瑞士，设法诱布洛菲尔德出境后绑架；行动代号CORONA；邦德须“干净”前往，不带武器、不受监视；崔西在达沃斯黎明诊所接受科默教授治疗。",
-      "title": "Fancy Cover"
+      "title": "Fancy Cover",
+      "summary_en": "M reluctantly approves the plan: Bond, as Sir Hilary Bray, will go to Switzerland unarmed and unwatched to lure Blofeld out of the country for a kidnapping; the operation is codenamed CORONA; Tracy is meanwhile being treated at the Clinique de l'Aube in Davos."
     },
     {
       "no": 9,
       "start_line": 325,
       "summary": "12月22日苏黎世机场：布洛菲尔德的秘书艾玛·布朗特接机，持联邦警察通行证；黑奔驰与橙色云雀直升机将邦德送上雪山诊所Piz Gloria（3605米）；诊所称研究过敏症，住着十名英国女病人，房门无内侧把手，疑有闭路电视与窃听。",
-      "title": "Irma La Not So Douce"
+      "title": "Irma La Not So Douce",
+      "summary_en": "On 22 December, Irma Bunt, Blofeld's secretary, meets Bond at Zurich airport with a Federal Police pass; a black Mercedes and an orange Alouette helicopter carry him up to the Piz Gloria clinic at 3,605 metres, an allergy research institute housing ten English girls, whose doors have no handles on the inside and which Bond suspects of closed-circuit television and microphones."
     },
     {
       "no": 10,
       "start_line": 382,
       "summary": "酒吧初见十名女孩：鲁比、薇奥莱特、珍珠、安妮、伊丽莎白、贝丽尔等，均为英国人，只用名字；女孩们对鸡、土豆等食物异常热衷；侍者12人分属科西嘉、德国、巴尔干、斯拉夫四组，疑似幽灵党旧制。",
-      "title": "Ten Gorgeous Girls"
+      "title": "Ten Gorgeous Girls",
+      "summary_en": "In the bar Bond meets the ten girls -- Ruby, Violet, Pearl, Anne, Elizabeth, Beryl and the rest -- all English, all known by first names only, and all oddly passionate about the foods they once hated, chicken and potatoes among them; the twelve waiters fall into four national groups, Corsican, German, Balkan and Slav, like the old SPECTRE cell pattern."
     },
     {
       "no": 11,
       "start_line": 431,
       "summary": "清晨惨叫：一名南斯拉夫向导贝尔蒂尔因骚扰女孩莎拉被推下雪橇道摔死；邦德上午11点面见“布勒维尔伯爵”：银发、无耳垂、约12英石、戴深绿隐形眼镜，与档案中的布洛菲尔德判若两人；邦德以耳垂特征取信于他，获邀留住一周，并提议同去奥格斯堡查档。",
-      "title": "Death for Breakfast"
+      "title": "Death for Breakfast",
+      "summary_en": "At breakfast Bond learns that Bertil, a Yugoslav guide who molested a girl named Sarah, was sent down the bob-run to his death; at eleven Bond meets the 'Comte de Bleuville' -- silver-haired, lobeless, about twelve stone, with an aquiline nose and dark-green contact lenses, nothing like the Blofeld on file -- and, by confirming the missing ear lobes, wins an invitation to stay for a week, proposing a trip to Augsburg to check the archives."
     },
     {
       "no": 12,
       "start_line": 515,
       "summary": "邦德发现行李被搜查；从滑雪车间偷一条塑料片作开锁工具，以“借尺子”为由掩饰；险些被一名认识真正希拉里·布雷（洛瓦特侦察兵战友）的人识破，谎称对方是已故堂兄；摸清雪山诊所红、黄、黑三条滑道与雪橇道地形。",
-      "title": "Two Near Misses"
+      "title": "Two Near Misses",
+      "summary_en": "Bond finds his luggage has been searched; he steals a plastic strip from the ski workshop to use as a lock-pick, covering himself with a story about borrowing a ruler; he narrowly escapes exposure when a Lovat Scouts veteran mistakes him for the real Hilary Bray, whom Bond claims is a cousin who died six months ago; he memorises the red, yellow and black runs and the bob-run."
     },
     {
       "no": 13,
       "start_line": 567,
       "summary": "邦德用纹章暗语给黑貂·蛇怪写信汇报；鲁比深夜来访，透露房间有窃听、女孩们在浴室更衣；鲁比·温莎来自莫克姆湾家禽农场，原对鸡过敏，现被“治愈”且热爱鸡；邦德给她塑料片开锁，并套出薇奥莱特·奥尼尔（爱尔兰，土豆过敏）等女孩信息；诊所禁止乘缆车下山。",
-      "title": "Princess Ruby?"
+      "title": "Princess Ruby?",
+      "summary_en": "Bond writes to Sable Basilisk in heraldic code; Ruby visits him at night and reveals that the rooms are bugged, that she comes from a poultry farm at Morecambe Bay, was allergic to chickens and has now been 'cured' into loving them; Bond gives her a plastic strip to open her door and learns about Violet O'Neill of Shannon, once a hater of potatoes."
     },
     {
       "no": 14,
       "start_line": 645,
       "summary": "邦德夜访鲁比房间，午夜听到催眠录音：布洛菲尔德的声音配合节拍器与鸡鸣，灌输“爱鸡、改良鸡种、保守秘密”的指令；次日布洛菲尔德自报父母为恩斯特·乔治·布洛菲尔德与玛丽亚·斯塔夫罗·米凯洛普洛斯，祖父母为恩斯特·斯特凡·布洛菲尔德与伊丽莎白·卢博米尔斯卡娅，并以每周500英镑贿赂邦德伪造文件；Z站二号人物肖恩·坎贝尔被殴打着拖进来。",
-      "title": "Sweet Dreams-Sweet Nightmare!"
+      "title": "Sweet Dreams-Sweet Nightmare!",
+      "summary_en": "Bond spends the night in Ruby's room and at midnight hears the hypnosis tape: Blofeld's voice, a metronome and the clucking of hens, instructing her to love chickens, improve the breed and keep the secret; next day Blofeld names his parents and grandparents and offers Bond 500 pounds a week to endorse forged documents, before Shaun Campbell, Number 2 of Station Z, is dragged in beaten."
     },
     {
       "no": 15,
       "start_line": 713,
       "summary": "坎贝尔跟踪一名俄国人“鲍里斯上尉”采购物资时被捕，认出邦德求救，邦德否认认识他，坎贝尔被带往审讯室；邦德偷看实验室：红光下成排试管装浑浊液体；鲁比交出全部十名女孩名单（含已离开的宝莉·塔斯克）；邦德偷手套与雪橇、索要雪镜与烧酒，准备逃亡。",
-      "title": "The Heat Increases"
+      "title": "The Heat Increases",
+      "summary_en": "Campbell was caught trailing a Russian, 'Captain Boris', buying supplies; he appeals to Bond, who denies knowing him, and Campbell is taken to the interrogation cell; Bond glimpses a laboratory lit in red, its racks of test tubes full of cloudy liquid; Ruby gives him the full list of the ten girls, including Polly Tasker, who left in November; Bond steals gloves and a pair of Head skis and asks for goggles and schnapps in preparation for escape."
     },
     {
       "no": 16,
       "start_line": 778,
       "summary": "邦德推断坎贝尔撑不过几小时；将女孩名单用尿液作隐形墨水写进护照第21页；夜间用砍刀手与劳力士表打死守卫，电话中得知“十分钟后来抓英国人”；偷走向导的Head牌雪橇，趁夜滑下雪山诊所滑道，缆车与照明弹、榴弹追击。",
-      "title": "Downhill Only"
+      "title": "Downhill Only",
+      "summary_en": "Bond writes the girls' names in urine as invisible ink on page 21 of his passport; at night he kills the guard with a karate chop and his Rolex, learns from a telephone call that men are coming for 'the Englishman' in ten minutes, and escapes on the stolen skis down the Gloria run under flares and grenades from the cable car."
     },
     {
       "no": 17,
       "start_line": 812,
       "summary": "邦德误入封闭的黑道，雪崩爆发，他冲进林间缺口脱险；一名向导追击时开枪，邦德跃过铁路路堤，追击者被火车除雪扇绞死；邦德滑行两英里到萨马登，混入圣诞夜溜冰舞会，崔西在午夜认出他。",
-      "title": "Bloody Snow"
+      "title": "Bloody Snow",
+      "summary_en": "Bond strays onto the closed Black Run, where gunfire and explosions bring down an avalanche; he escapes through a gap in the trees, jumps the railway embankment ahead of an express, and the pursuing guide is killed by the train's snow-fan; he skis two miles to Samaden, where Tracy finds him at the Christmas Eve skating ball at midnight."
     },
     {
       "no": 18,
       "start_line": 845,
       "summary": "崔西驾白色蓝旗亚带邦德逃亡；邦德调转路边红色箭头标志，追击的黑色奔驰冲下断桥坠入峡谷，三人死亡；两人驶往苏黎世；崔西称父亲来电告知布洛菲尔德地址在雪山诊所，命她来找邦德。",
-      "title": "Fork Left for Hell!"
+      "title": "Fork Left for Hell!",
+      "summary_en": "Tracy drives Bond away in her white Lancia; Bond turns a red road arrow so that the pursuing black Mercedes plunges off a collapsed bridge into the gorge, killing all three men; they drive on to Zurich, and Tracy explains that her father sent her to find him at Piz Gloria."
     },
     {
       "no": 19,
       "start_line": 902,
       "summary": "圣诞节清晨苏黎世机场：邦德致电Z站站长亚历山大·缪尔，报告坎贝尔已死、十名女孩将飞往英国；早餐时邦德向崔西求婚，她答应去慕尼黑四季酒店等他，约定在慕尼黑领事馆结婚；邦德乘瑞士航空110号航班回伦敦。",
-      "title": "Love for Breakfast"
+      "title": "Love for Breakfast",
+      "summary_en": "On Christmas morning at Zurich airport, Bond telephones Alexander Muir, Head of Station Z, reports Campbell dead and warns that ten girls will soon fly to England; over breakfast he proposes to Tracy, who accepts and agrees to wait for him at the Vier Jahreszeiten in Munich, where they will marry at the Consulate; Bond flies to London on Swissair Flight 110."
     },
     {
       "no": 20,
       "start_line": 934,
       "summary": "圣诞节伦敦：邦德向M汇报，护照上的隐形墨水名单被实验室显影；M在温莎Quarterdeck家中午餐；庞特雷西纳死者被确认为保加利亚塑胶炸药专家、前克格勃人员；邦德梦见与崔西出席上流晚宴的噩梦。",
-      "title": "Men Pantoufles"
+      "title": "Men Pantoufles",
+      "summary_en": "On Christmas Day in London, Bond dictates his report and the laboratory develops the invisible-ink list from his passport; at M's house, Quarterdeck, he learns the man killed at Pontresina was a Bulgarian plastic-explosives expert and former KGB man; that night he dreams of a grand dinner with Tracy as his wife."
     },
     {
       "no": 21,
       "start_line": 988,
       "summary": "M召集501号莱瑟斯与农业渔业部富兰克林会商：女孩们的家乡对应英国与爱尔兰农业重镇（阿伯丁安格斯牛、德文红波尔牛、兰开夏家禽、肯特水果、香农土豆、东安格利亚火鸡）；过去四周300万只火鸡因禽瘟被宰杀，首发病禽曾参展奥林匹亚全国禽展；501推测幕后是俄国人，鲍里斯上尉为出资或监督者。",
-      "title": "The Man from Ag, and Fish."
+      "title": "The Man from Ag, and Fish.",
+      "summary_en": "At Quarterdeck, 501 (Leathers) explains the hypnosis, and speculates that the Russians, behind Captain Boris, may be paying for Blofeld's scheme; Franklin of the Ministry of Agriculture and Fisheries shows that the girls' home towns match Britain and Ireland's farming centres, and that three million turkeys have been slaughtered for fowl pest in the past four weeks, the first sick birds having been shown at Olympia."
     },
     {
       "no": 22,
       "start_line": 1027,
       "summary": "富兰克林引述美国参议院1960年第58991号文件论证生物战：女孩们是无意识的病毒携带者，宝莉·塔斯克疑似用气雾剂在禽展传播禽瘟；M下令苏格兰场扣留宝莉并拦截其余十名女孩，邦德获准两周假期执行非官方清算。",
-      "title": "Something Called 'BW'"
+      "title": "Something Called 'BW'",
+      "summary_en": "Franklin reads from a United States Senate paper on biological warfare (No. 58991, 29 August 1960) and argues that Polly Tasker was given an aerosol of fowl pest virus to spray at the Olympia poultry show; M orders Scotland Yard to detain Polly and intercept the other ten girls, and grants Bond two weeks' leave for an unofficial reckoning with Blofeld."
     },
     {
       "no": 23,
       "start_line": 1070,
       "summary": "邦德飞往马赛见德拉科：以突袭雪山诊所为“结婚礼物”，德拉科召集切-切（说服者）与图桑（爆破专家）等五名手下，加上邦德与德拉科共七人；邦德与崔西通话，约定婚后去基茨比厄尔度蜜月；德拉科拒绝再谈100万英镑嫁妆一事。",
-      "title": "Gauloises and Garlic"
+      "title": "Gauloises and Garlic",
+      "summary_en": "Bond flies to Marseilles and asks Draco for a wedding present -- a raid on Piz Gloria; Draco assembles five of his best men, including Che-Che the persuader and Toussaint the explosives expert, making seven with Bond and himself; Bond speaks to Tracy by telephone and promises to honeymoon in Kitzbuhel; Draco refuses to discuss the million-pound dowry again."
     },
     {
       "no": 24,
       "start_line": 1130,
       "summary": "斯特拉斯堡：突袭队乘秘密军组织提供的军用直升机（涂红十字标志、假注册号FL-BGS），谎称运送血浆赴贝林佐纳，骗过瑞士空管与一架幻影战机拦截；队员佩戴假“联邦阿尔卑斯警察”臂章，携施迈瑟冲锋枪与塑胶炸药飞往雪山诊所。",
-      "title": "Blood-Lift"
+      "title": "Blood-Lift",
+      "summary_en": "At Strasbourg the raiding party boards a military helicopter lent by the OAS, painted with Red Cross markings and the false registration FL-BGS, and, posing as a blood-plasma mercy flight to Bellinzona, talks its way past Swiss air control and a Mirage interceptor on its way to Piz Gloria."
     },
     {
       "no": 25,
       "start_line": 1153,
       "summary": "突袭：布洛菲尔德戴雪橇头盔乘单人骨架雪橇逃下雪橇道，邦德追击至“死人之跃”“威兹-班直道”“血战S弯”“地狱之乐”“碎骨坡”，布洛菲尔德投掷手榴弹炸翻邦德；诊所、实验室与缆车站被炸毁；布洛菲尔德驾车逃往意大利；邦德扮受伤游客获消防队送往萨马登，乘火车到苏黎世向缪尔发密电报告。",
-      "title": "Hell's Delight, etc."
+      "title": "Hell's Delight, etc.",
+      "summary_en": "The raid: Blofeld, wearing a bob-sleigh helmet, escapes down the bob-run on a skeleton; Bond chases him through Dead Man's Leap, Whizz-Bang Straight, Battling S, Hell's Delight and the Bone-shaker, and is blown off the track by a grenade Blofeld throws; the clinic, laboratory and cable station are blown up; Blofeld drives away towards Italy; Bond, posing as an injured tourist, is taken by the fire brigade to Samaden and signals M from Zurich."
     },
     {
       "no": 26,
       "start_line": 1187,
       "summary": "慕尼黑：崔西接机；报纸称雪山诊所爆炸，九名女孩以“小儿麻痹疑似接触者”名义在英国机场被扣留隔离，第十名薇奥莱特·奥尼尔在香农医院观察；德拉科来电：切-切死于文件柜诡雷，另一人死亡，艾玛·布朗特下落不明；邦德拒绝德拉科100万英镑嫁妆，买下白金双手相握钻石订婚戒指。",
-      "title": "Happiness Without a Shadow?"
+      "title": "Happiness Without a Shadow?",
+      "summary_en": "In Munich, Tracy meets Bond at the airport; the papers report the Piz Gloria explosions and the detention of nine girls in Britain as suspected polio contacts, with Violet O'Neill under observation at Shannon Hospital; Draco telephones that Che-Che died on a booby-trapped filing cabinet, another man is dead, and Irma Bunt is missing; Bond refuses the million-pound dowry and buys a white-gold engagement ring of two clasped diamond hands."
     },
     {
       "no": 27,
       "start_line": 1242,
       "summary": "元旦上午10点半，邦德与崔西在慕尼黑英国总领事客厅成婚，M站站长萨维奇任伴郎，德拉科出席；蜜月驱车前往基茨比厄尔途中，一辆红色玛莎拉蒂超车开枪，崔西中弹身亡；邦德对赶来的公路巡警说她只是在休息，“我们有的是时间”。",
-      "title": "All the Time in the World"
+      "title": "All the Time in the World",
+      "summary_en": "On New Year's morning at half past ten, Bond and Tracy are married in the British Consul General's drawing room in Munich, with Savage of Station M as best man and Draco present; driving to Kitzbuhel for their honeymoon, a red Maserati overtakes them and fires; Tracy is killed; Bond tells the patrolman she is only resting -- 'We've got all the time in the world.'"
     }
   ],
   "characters": [
@@ -231,7 +270,13 @@
           "with": "blofeld"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Major character",
+      "appearance_en": "Described in Chapter 1 as a young man; in Chapter 8 he wears old-fashioned ski trousers, a black windcheater and a white sea-island cotton shirt; in Chapter 20 he is unshaven and looks like a pirate.",
+      "age_clues_en": "Chapter 7 gives Blofeld's age as 54; Bond is about the same age as Hilary Bray, but no exact age is stated.",
+      "personality_en": "In Chapter 5 he calls himself ruthless and without the patience to nurse anyone; in Chapter 19 he decides Tracy is the woman he has been looking for all his life and is ready to settle down; he respects and trusts Draco.",
+      "habits_en": "Smokes, drinks whisky and martinis, drives fast and plays baccarat; in Chapter 2, being overtaken at speed by a pretty girl is one of the things that most stirs him to action.",
+      "background_en": "His father was a Scotsman from near Glencoe and his mother Swiss; a lieutenant-commander in the Navy, holder of the CMG, and an agent of the Double-O Section of the Secret Service under the number 007; in Chapter 6 the College of Arms gives his family arms as 'Argent on a chevron sable three bezants', with the motto 'The World is not Enough'."
     },
     {
       "age_clues": "约25岁（第4章邦德估计）",
@@ -261,7 +306,13 @@
           "with": "draco"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Major character",
+      "appearance_en": "Shoulder-length fair hair, blue eyes and golden skin; in Chapter 3 she wears a white dress and pink lipstick; in Chapter 18 a short black skating skirt and a pink fur-trimmed parka.",
+      "age_clues_en": "About 25, by Bond's estimate in Chapter 4.",
+      "personality_en": "Outwardly cold and strong-willed, in Chapter 4; in Chapter 5 self-loathing and self-destructive; after her treatment at Davos she recovers her spirits and proves brave, quick-witted and loyal.",
+      "habits_en": "Drives very fast in her white Lancia Flaminia Zagato Spyder, gambles and swims; wears Guerlain's 'Ode' perfume.",
+      "background_en": "Her father is Marc-Ange Draco, head of the Union Corse, and her mother an English governess who died ten years ago; educated at a Swiss boarding school; married the Italian Count Giulio di Vicenzo, whose baby daughter died of spinal meningitis before they divorced; her father bought her a small chateau in the Dordogne."
     },
     {
       "age_clues": "中年；第5章称“中年小个子男人”",
@@ -290,7 +341,13 @@
           "with": "tracy"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Major character",
+      "appearance_en": "A brown, wrinkled face, a solid chest and arms, and a dark suit; in Chapter 23 he smiles with gold teeth.",
+      "age_clues_en": "Middle-aged; Chapter 5 calls him a 'middle-aged little man'.",
+      "personality_en": "Humorous, charming and decisive; in Chapter 5 he is called one of the great professional criminals of the world; he loves his daughter deeply and speaks to Bond with complete frankness.",
+      "habits_en": "Smokes Gauloises and drinks whisky; telephones in Corsican dialect and uses his electrical business as a code for messages.",
+      "background_en": "A Corsican, born around Calenzana; married an English governess; head of the Union Corse, controlling organised crime in France, with an electrical company in Marseilles as a front; decorated for his service in the French Resistance."
     },
     {
       "age_clues": "1908年5月28日生于格丁尼亚，第7章称54岁",
@@ -321,7 +378,13 @@
           "with": "draco"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Major character",
+      "appearance_en": "On file: about twenty stone, tall, pale, with short black hair and black eyes. As he now appears, in Chapter 11: long silver hair, no ear lobes, about twelve stone, an aquiline nose, the right nostril eaten away as if by tertiary syphilis, and dark-green contact lenses, his skin tanned brown.",
+      "age_clues_en": "Born in Gdynia on 28 May 1908; Chapter 7 gives his age as 54.",
+      "personality_en": "Cold, cruel and suspicious; in Chapter 7 his longing to change his name and become a respectable Count is his fatal weakness; in Chapter 22 he is shown planning biological warfare against British agriculture.",
+      "habits_en": "A sun-worshipper who calls himself a heliotrope; in Chapter 14 he offers Bond 500 pounds a week to endorse forged documents.",
+      "background_en": "Claims to have been born in Gdynia, of a Polish father and a Greek mother; his parents are named as Ernst George Blofeld and Maria Stavro Michelopoulos; head of SPECTRE, rebuilding the organisation after Operation Thunderball; claims descent from the de Bleuville family and seeks confirmation of the title of Count."
     },
     {
       "age_clues": "未明写",
@@ -345,7 +408,13 @@
           "with": "blofeld"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Major character",
+      "appearance_en": "A square, brutal face, hard yellow eyes, a sunburnt and blistered mouth, and grey-brown hair in a bun; she wears tight ski trousers and a grey windcheater bearing a red G and coronet over the left breast.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Cold, rigid and suspicious; after the raid, in Chapter 26, her whereabouts are unknown.",
+      "habits_en": "Licks the blisters at the corners of her mouth with her tongue from time to time; keeps the girls under strict discipline and forbids them to discuss their treatment or their surnames.",
+      "background_en": "Claims to come from Munich; Blofeld's private secretary and the housekeeper of Piz Gloria, in charge of the ten girls."
     },
     {
       "age_clues": "未明写",
@@ -368,7 +437,13 @@
           "with": "bond"
         }
       ],
-      "role": "主要人物"
+      "role": "主要人物",
+      "role_en": "Major character",
+      "appearance_en": "In Chapter 8, a lined sailor's face covered in wrinkles.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Suspicious, impatient but just; he reluctantly approves the Hilary Bray plan and the unofficial raid.",
+      "habits_en": "Paints English wild orchids in watercolour; smokes only two black cheroots a day; hates Christmas crackers.",
+      "background_en": "Head of the Secret Service, a retired vice-admiral on a salary of 5,000 pounds a year, holder of the KCMG, living at Quarterdeck, a Regency manor on the edge of Windsor Forest."
     },
     {
       "age_clues": "未明写",
@@ -391,7 +466,11 @@
           "with": "m"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "In Chapter 8 she is described as M's desirable secretary.",
+      "age_clues_en": "Not stated in the novel.",
+      "background_en": "M's secretary; in Chapter 8 she tells Bond that after M received the KCMG he threw every letter of congratulation into the waste-paper basket."
     },
     {
       "age_clues": "未明写",
@@ -414,7 +493,12 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Blue-black hair, blue eyes, and measurements of 37-22-35; a former Wren.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Lively, loyal and capable.",
+      "background_en": "Bond's new secretary, succeeding Loelia Ponsonby, who left to marry; in Chapter 20 she meets Bond at the airport on Christmas Day."
     },
     {
       "age_clues": "比邦德年轻几岁",
@@ -438,7 +522,13 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Slim, with a fine, studious face, wry lines at the corners of the mouth.",
+      "age_clues_en": "A few years younger than Bond.",
+      "personality_en": "Witty, learned and a shrewd judge of men; he identifies Blofeld's fatal weakness as vanity.",
+      "habits_en": "Smokes Turkish cigarettes.",
+      "background_en": "Sable Basilisk Pursuivant of the College of Arms, formerly with British Intelligence in the British Army of the Rhine; his friend, the real Sir Hilary Bray, lives in the Scottish Highlands, and Bond impersonates him."
     },
     {
       "age_clues": "年长；第6章称“上了年纪”",
@@ -461,7 +551,13 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "A bald, round pink face fringed with grizzled curls, pince-nez spectacles and a purple flowered silk waistcoat.",
+      "age_clues_en": "Elderly; Chapter 6 calls him 'getting on'.",
+      "personality_en": "Enthusiastic, pedantic and devoted to genealogy.",
+      "habits_en": "Takes snuff.",
+      "background_en": "Griffon Or Pursuivant of the College of Arms, keen on family history; he mistakes Bond for a client seeking his ancestry and lectures him at length on the Bonds of Bond Street."
     },
     {
       "age_clues": "约25岁",
@@ -484,7 +580,13 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Fair hair, blue eyes and a full figure; in Chapter 10 she wears a violet camel-hair sweater.",
+      "age_clues_en": "About 25.",
+      "personality_en": "Naive, warm-hearted and easily led.",
+      "habits_en": "Loves eating chicken; dreams of being a distant relation of the Windsor family.",
+      "background_en": "Daughter of George Albert Windsor and Mary Potts, poultry farmers at Morecambe Bay in Lancashire; failed her GCE twice; once allergic to chickens, she has been 'cured' at Piz Gloria and now loves them."
     },
     {
       "age_clues": "未明写",
@@ -507,7 +609,13 @@
           "with": "ruby"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Dark hair, quiet and self-effacing, with a slight Irish accent.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Cautious and kind.",
+      "habits_en": "Loves eating potatoes.",
+      "background_en": "From near Shannon in the south of Ireland; once hated potatoes, now longs to improve the potato crop; in Chapter 26 she is named as the supposed source of the polio scare and is under observation at Shannon Hospital."
     },
     {
       "age_clues": "未明写",
@@ -522,7 +630,12 @@
       "name_zh": "伊丽莎白·麦金农",
       "personality": null,
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Not described in detail in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "habits_en": "Loves eating steak.",
+      "background_en": "From Aberdeen; once hated cattle, now loves steak."
     },
     {
       "age_clues": "未明写",
@@ -537,7 +650,11 @@
       "name_zh": "贝丽尔·摩根",
       "personality": null,
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Not described in detail in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "background_en": "From Herefordshire."
     },
     {
       "age_clues": "未明写",
@@ -552,7 +669,11 @@
       "name_zh": "珀尔·坦皮恩",
       "personality": null,
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Not described in detail in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "background_en": "From Devonshire; once hated cattle, now loves eating steak."
     },
     {
       "age_clues": "未明写",
@@ -567,7 +688,11 @@
       "name_zh": "安妮·查特",
       "personality": null,
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Not described in detail in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "background_en": "From Canterbury."
     },
     {
       "age_clues": "未明写",
@@ -582,7 +707,12 @@
       "name_zh": "卡雷斯·文特诺",
       "personality": null,
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Not described in detail in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "habits_en": "Obsessed with riding books.",
+      "background_en": "Works at the National Stud; once broke out in a rash at the sight of a horse, now dreams of a pony club."
     },
     {
       "age_clues": "未明写",
@@ -597,7 +727,11 @@
       "name_zh": "丹尼斯·罗伯逊",
       "personality": null,
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Not described in detail in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "background_en": "Her name appears in the list in Chapter 15; the novel gives neither her home town nor her allergy."
     },
     {
       "age_clues": "未明写",
@@ -612,7 +746,11 @@
       "name_zh": "莎拉",
       "personality": null,
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Not described in detail in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "background_en": "Her name appears only in the girls' talk in Chapter 11, where she is said to have reported Bertil's advances; the novel never gives her surname."
     },
     {
       "age_clues": "约25岁（第22章M称）",
@@ -627,7 +765,11 @@
       "name_zh": "宝莉·塔斯克",
       "personality": null,
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Not described in detail in the novel.",
+      "age_clues_en": "About 25, as M says in Chapter 22.",
+      "background_en": "From a turkey-farming family in East Anglia; once allergic to turkeys, she left Piz Gloria in November; in Chapter 22 she is suspected of spreading fowl pest at the Olympia poultry show."
     },
     {
       "age_clues": "未明写",
@@ -650,7 +792,12 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Fair hair and a nose broken by boxing.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Brave and professional.",
+      "background_en": "Number 2 of Station Z; caught while trailing the Russian Captain Boris on his purchases, he is arrested at Piz Gloria, and, after Bond denies knowing him, is taken to the interrogation cell; Bond reports him dead in Chapter 19."
     },
     {
       "age_clues": "未明写",
@@ -674,7 +821,12 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Not described in detail in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Cautious and reliable.",
+      "background_en": "Head of Station Z, a Zurich man living in a flat in the Bahnhofstrasse, married to Phyllis; he takes Bond's telephone call in Chapter 19 and helps him send a cipher telegram in Chapter 25."
     },
     {
       "age_clues": "未明写",
@@ -692,7 +844,12 @@
       "name_zh": "莱瑟斯",
       "personality": "博学、爱猜测",
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "A big-boned, stooping man with thick spectacles and shaggy tweeds.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Learned and fond of speculation.",
+      "background_en": "Chief of the Scientific Research Section of the Secret Service, known as 501; in Chapter 21 he explains the hypnosis and suggests the Russians may be behind Blofeld."
     },
     {
       "age_clues": "未明写",
@@ -709,7 +866,13 @@
       "name_zh": "富兰克林",
       "personality": "敏锐、坚持己见",
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Small, brisk and keen-eyed.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Sharp-eyed and stubborn in his opinions.",
+      "habits_en": "Smokes a small pipe.",
+      "background_en": "A pest-control expert from the Ministry of Agriculture and Fisheries; in Chapters 21 and 22 he matches the girls' home towns to the farming centres and puts forward the biological-warfare theory."
     },
     {
       "age_clues": "未明写",
@@ -732,7 +895,12 @@
           "with": "draco"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "A huge, ox-like man with splayed ears and a broken nose.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Fierce.",
+      "background_en": "One of Draco's men, 'Che-Che le Persuadeur'; in Chapter 26 he is killed by a booby trap in Blofeld's filing cabinet."
     },
     {
       "age_clues": "未明写",
@@ -756,7 +924,13 @@
           "with": "draco"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Thin, grey-skinned, with an almost Phoenician profile pitted with smallpox.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Quick-witted.",
+      "habits_en": "Apparently a heroin user, though not by injection.",
+      "background_en": "Draco's explosives expert, also known as 'Le Pouff'; in Chapter 23 he says a large quantity of plastic explosive will be needed."
     },
     {
       "age_clues": "未明写",
@@ -771,7 +945,12 @@
       "name_zh": "乔治",
       "personality": "冷静、能干",
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Not described in detail in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Calm and capable.",
+      "background_en": "Pilot of the OAS helicopter, named Georges; in Chapter 24 he flies FL-BGS to Piz Gloria."
     },
     {
       "age_clues": "未明写",
@@ -786,7 +965,12 @@
       "name_zh": "马里于斯",
       "personality": "幽默、机警",
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Not described in detail in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Humorous and quick-witted.",
+      "background_en": "A Marseilles taxi driver who collects Bond from the airport and takes him to Draco, using music-hall patter to cover Bond's arrival."
     },
     {
       "age_clues": "未明写",
@@ -810,7 +994,11 @@
           "with": "bond"
         }
       ],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Not described in detail in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "background_en": "Head of Station M; in Chapter 27 he acts as best man at Bond's wedding."
     },
     {
       "age_clues": "未明写",
@@ -827,7 +1015,12 @@
       "name_zh": "梅",
       "personality": "忠诚能干",
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Not described in detail in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "personality_en": "Loyal and capable.",
+      "background_en": "Bond's Scottish housekeeper at his Chelsea flat; in Chapter 20 she makes him coffee."
     },
     {
       "age_clues": "未明写",
@@ -844,7 +1037,11 @@
       "name_zh": "贝尔蒂尔",
       "personality": null,
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Not described in detail in the novel.",
+      "age_clues_en": "Not stated in the novel.",
+      "background_en": "A Yugoslav guide at Piz Gloria who sprinkled the bob-run; in Chapter 11 he is killed on the run after molesting Sarah, and is buried at Pontresina."
     },
     {
       "age_clues": "未明写",
@@ -861,29 +1058,38 @@
       "name_zh": "鲍里斯上尉",
       "personality": null,
       "relationships": [],
-      "role": "次要人物"
+      "role": "次要人物",
+      "role_en": "Minor character",
+      "appearance_en": "Not described in the novel; Bond never sets eyes on him.",
+      "age_clues_en": "Not stated in the novel.",
+      "background_en": "A Russian buying supplies in Zurich; in Chapter 15 Campbell is arrested while trailing him; in Chapter 21, 501 suggests he may be the paymaster or supervisor of the biological-warfare scheme."
     }
   ],
   "communications": [
     {
       "name": "同步电话（Syncraphone）",
-      "note": "第6章：总部十英里内可呼叫军官的口袋无线电接收器，形如怀表"
+      "note": "第6章：总部十英里内可呼叫军官的口袋无线电接收器，形如怀表",
+      "description_en": "In Chapter 6: a pocket radio receiver like a pocket watch, by which officers within ten miles of headquarters can be called."
     },
     {
       "name": "电话与长途电话",
-      "note": "德拉科在货车内用高功率电台与阿雅克肖总部通话；邦德在苏黎世机场致电缪尔，在慕尼黑致电德拉科与崔西"
+      "note": "德拉科在货车内用高功率电台与阿雅克肖总部通话；邦德在苏黎世机场致电缪尔，在慕尼黑致电德拉科与崔西",
+      "description_en": "Draco telephones his Ajaccio headquarters from the lorry on a high-powered radio set; Bond telephones Muir from Zurich airport, and Draco and Tracy from Munich."
     },
     {
       "name": "电传打字机（teleprinter）",
-      "note": "邦德经Z站向M发三重X密码密电；M致电苏格兰场瓦兰斯爵士"
+      "note": "邦德经Z站向M发三重X密码密电；M致电苏格兰场瓦兰斯爵士",
+      "description_en": "Bond sends a triple-X cipher telegram to M through Station Z; M telephones Sir Ronald Vallance of Scotland Yard."
     },
     {
       "name": "信件与电报",
-      "note": "邦德用纹章暗语致信黑貂·蛇怪；崔西留给父亲的遗书；德拉科收到署名Universal的电报称女孩们已集结苏黎世"
+      "note": "邦德用纹章暗语致信黑貂·蛇怪；崔西留给父亲的遗书；德拉科收到署名Universal的电报称女孩们已集结苏黎世",
+      "description_en": "Bond writes to Sable Basilisk in heraldic code; Tracy leaves a suicide note for her father; Draco receives a telegram signed 'Universal' saying the girls have assembled in Zurich."
     },
     {
       "name": "无线电对讲",
-      "note": "突袭直升机与瑞士空管通话；雪山诊所实验室与缆车站有电话联络"
+      "note": "突袭直升机与瑞士空管通话；雪山诊所实验室与缆车站有电话联络",
+      "description_en": "The raiding helicopter talks to Swiss air control; the Piz Gloria laboratory and cable station are linked by telephone."
     }
   ],
   "equipment": [
@@ -892,70 +1098,80 @@
       "kind": "武器",
       "name_en": "Walther PPK",
       "name_zh": "瓦尔特PPK手枪",
-      "note": "邦德配枪；第1章在海滩被搜走；第23章起重新佩戴，突袭时用以射击布洛菲尔德"
+      "note": "邦德配枪；第1章在海滩被搜走；第23章起重新佩戴，突袭时用以射击布洛菲尔德",
+      "description_en": "Bond's service pistol; taken from him on the beach in Chapter 1, and worn again from Chapter 23, when he fires it at Blofeld in the raid."
     },
     {
       "id": "heel-knife",
       "kind": "武器",
       "name_en": "Heel knife",
       "name_zh": "鞋跟刀",
-      "note": "第1章邦德藏在鞋跟，登船时转移到裤袋，在德拉科面前掷向日历"
+      "note": "第1章邦德藏在鞋跟，登船时转移到裤袋，在德拉科面前掷向日历",
+      "description_en": "Hidden in Bond's heel in Chapter 1; moved to his trouser pocket on the boat, and thrown at the calendar in front of Draco."
     },
     {
       "id": "gillette-razor",
       "kind": "武器",
       "name_en": "Gillette razor",
       "name_zh": "吉列剃须刀片",
-      "note": "第15章邦德将刀片夹于左手指间作指节武器；第16章打死守卫时改用砍刀手与劳力士表"
+      "note": "第15章邦德将刀片夹于左手指间作指节武器；第16章打死守卫时改用砍刀手与劳力士表",
+      "description_en": "In Chapter 15 Bond holds the blade between the fingers of his left hand as a knuckle weapon; in Chapter 16 he kills the guard with a karate chop and his Rolex instead."
     },
     {
       "id": "rolex-oyster",
       "kind": "装备",
       "name_en": "Rolex Oyster Perpetual",
       "name_zh": "劳力士蚝式恒动表",
-      "note": "邦德的手表；第16章用作指节铜套打死守卫，表盘碎裂；第23章从Q部门领到新表"
+      "note": "邦德的手表；第16章用作指节铜套打死守卫，表盘碎裂；第23章从Q部门领到新表",
+      "description_en": "Bond's watch; in Chapter 16 it serves as a knuckle-duster to kill the guard, and its face is shattered; in Chapter 23 Q Branch issues him a new one."
     },
     {
       "id": "plastic-strip",
       "kind": "工具",
       "name_en": "Plastic strip",
       "name_zh": "塑料片",
-      "note": "第12章邦德从滑雪车间偷来作开锁片，谎称借作尺子；第13章分给鲁比一片"
+      "note": "第12章邦德从滑雪车间偷来作开锁片，谎称借作尺子；第13章分给鲁比一片",
+      "description_en": "In Chapter 12 Bond steals a strip from the ski workshop to use as a lock-pick, pretending he borrowed it as a ruler; in Chapter 13 he gives one to Ruby."
     },
     {
       "id": "schmeisser",
       "kind": "武器",
       "name_en": "Schmeisser sub-machine gun",
       "name_zh": "施迈瑟冲锋枪",
-      "note": "第24章突袭队装备"
+      "note": "第24章突袭队装备",
+      "description_en": "The sub-machine guns carried by the raiding party in Chapter 24."
     },
     {
       "id": "plastique",
       "kind": "武器",
       "name_en": "Plastique explosive",
       "name_zh": "塑胶炸药",
-      "note": "第23至24章图桑负责，炸毁诊所、实验室与缆车站"
+      "note": "第23至24章图桑负责，炸毁诊所、实验室与缆车站",
+      "description_en": "The plastic explosive handled by Toussaint in Chapters 23 and 24, used to blow up the clinic, the laboratory and the cable station."
     },
     {
       "id": "grenade",
       "kind": "武器",
       "name_en": "Grenade",
       "name_zh": "手榴弹",
-      "note": "第16章缆车上向邦德投掷；第25章布洛菲尔德在雪橇道上投掷，炸翻邦德"
+      "note": "第16章缆车上向邦德投掷；第25章布洛菲尔德在雪橇道上投掷，炸翻邦德",
+      "description_en": "Thrown at Bond from the cable car in Chapter 16, and thrown by Blofeld on the bob-run in Chapter 25, blowing Bond off the track."
     },
     {
       "id": "hypnosis-tape",
       "kind": "装备",
       "name_en": "Hypnosis apparatus",
       "name_zh": "催眠装置",
-      "note": "第14章：午夜电铃、节拍器、嗡鸣声与布洛菲尔德录音，实施深度催眠"
+      "note": "第14章：午夜电铃、节拍器、嗡鸣声与布洛菲尔德录音，实施深度催眠",
+      "description_en": "In Chapter 14: a midnight bell, a metronome, a humming sound and a recording of Blofeld's voice, producing deep hypnosis."
     },
     {
       "id": "heraldic-books",
       "kind": "文件",
       "name_en": "Heraldic reference books",
       "name_zh": "纹章学参考书",
-      "note": "第8章邦德携带的掩护道具，包括伯克纹章总录、已绝嗣从男爵名录等"
+      "note": "第8章邦德携带的掩护道具，包括伯克纹章总录、已绝嗣从男爵名录等",
+      "description_en": "The cover props Bond carries in Chapter 8, including Burke's General Armory and the printed lists of extinct and dormant baronetcies."
     }
   ],
   "events": [
@@ -964,98 +1180,140 @@
       "chapter": 1,
       "effect": "邦德跟踪保护她，德拉科派人将两人一并“请”到货车，父女身世揭开",
       "id": "beach-kidnapping",
-      "title": "海滩绑架"
+      "title": "海滩绑架",
+      "title_en": "The Beach Kidnapping",
+      "cause_en": "Bond pays Tracy's 20,000-new-franc gambling debt at the casino, and the two spend the night together; the next day Tracy means to swim out to sea to drown herself, as she vowed as a child.",
+      "effect_en": "Bond follows to protect her, and Draco's men take them both to the lorry, where the story of father and daughter comes out."
     },
     {
       "cause": "邦德在百家乐桌上赢得460万法郎，崔西叫Banco输掉2万新法郎却无钱支付",
       "chapter": 3,
       "effect": "崔西面临赌场黑名单的“耻辱一击”，邦德谎称合伙替她付账，两人结识",
       "id": "coup-du-deshonneur",
-      "title": "耻辱一击"
+      "title": "耻辱一击",
+      "title_en": "The Coup du Deshonneur",
+      "cause_en": "Bond wins 4,600,000 francs at baccarat, while Tracy calls banco, loses 20,000 new francs, and has no money to pay.",
+      "effect_en": "Tracy faces the blacklisting 'coup du deshonneur' of the French casinos, until Bond pretends they were playing in partnership and pays her debt, and the two become acquainted."
     },
     {
       "cause": "崔西女婴死于脊髓脑膜炎，万念俱灰，留下遗书准备在鲁瓦亚勒投海",
       "chapter": 5,
       "effect": "德拉科绑架邦德求他拯救崔西，开出100万英镑黄金嫁妆，邦德拒绝婚事但答应约会；德拉科提供布洛菲尔德在瑞士的情报",
       "id": "draco-proposal",
-      "title": "德拉科的求婚提议"
+      "title": "德拉科的求婚提议",
+      "title_en": "Draco's Proposal",
+      "cause_en": "Tracy's baby daughter died of spinal meningitis, and, in despair, she left a suicide note and prepared to drown herself at Royale.",
+      "effect_en": "Draco kidnaps Bond and begs him to save Tracy, offering a dowry of a million pounds in gold; Bond refuses the marriage but agrees to dinner, and Draco gives him the news that Blofeld is in Switzerland."
     },
     {
       "cause": "布洛菲尔德通过苏黎世律师向纹章院申请确认布勒维尔伯爵爵位，留下线索",
       "chapter": 7,
       "effect": "邦德化名希拉里·布雷爵士，以纹章使者身份获准面见布洛菲尔德，行动代号CORONA",
       "id": "heraldic-trap",
-      "title": "纹章陷阱"
+      "title": "纹章陷阱",
+      "title_en": "The Heraldic Trap",
+      "cause_en": "Blofeld applies through Zurich solicitors to the College of Arms to have his title as Comte de Bleuville confirmed, leaving a trail.",
+      "effect_en": "Bond, as Sir Hilary Bray, is received by Blofeld as an envoy of the College, under the operation codenamed CORONA."
     },
     {
       "cause": "邦德以耳垂特征取信布洛菲尔德，获邀留住一周",
       "chapter": 11,
       "effect": "邦德得以深入诊所，发现十名女孩、催眠治疗与实验室，为揭开生物战计划奠基",
       "id": "bond-meets-blofeld",
-      "title": "邦德面见布洛菲尔德"
+      "title": "邦德面见布洛菲尔德",
+      "title_en": "Bond Meets Blofeld",
+      "cause_en": "Bond wins Blofeld's confidence with the ear-lobe evidence and is invited to stay for a week.",
+      "effect_en": "Bond works his way deep into the clinic, discovering the ten girls, the hypnosis treatment and the laboratory, laying the groundwork for exposing the biological-warfare plan."
     },
     {
       "cause": "贝尔蒂尔夜间骚扰女孩莎拉",
       "chapter": 11,
       "effect": "贝尔蒂尔被推下雪橇道摔死，邦德认定这是布洛菲尔德维持纪律的处决",
       "id": "bertil-death",
-      "title": "贝尔蒂尔之死"
+      "title": "贝尔蒂尔之死",
+      "title_en": "The Death of Bertil",
+      "cause_en": "Bertil molests the girl Sarah in the night.",
+      "effect_en": "Bertil is pushed down the bob-run to his death, which Bond reads as Blofeld's way of keeping discipline."
     },
     {
       "cause": "邦德夜访鲁比房间，午夜催眠录音响起",
       "chapter": 14,
       "effect": "邦德发现催眠真相：女孩们被灌输热爱过敏原、改良品种、保守秘密的指令",
       "id": "hypnosis-revealed",
-      "title": "催眠真相揭露"
+      "title": "催眠真相揭露",
+      "title_en": "The Hypnosis Revealed",
+      "cause_en": "Bond visits Ruby's room at night, and the midnight hypnosis tape begins to play.",
+      "effect_en": "Bond discovers the truth of the hypnosis: the girls are instructed to love the things they were allergic to, to improve the breed, and to keep the secret."
     },
     {
       "cause": "坎贝尔跟踪俄国人鲍里斯上尉采购物资，藏身缆车被发现",
       "chapter": 14,
       "effect": "坎贝尔被殴打审讯，邦德为保身份否认认识他，坎贝尔最终死亡；邦德决定当夜逃亡",
       "id": "campbell-captured",
-      "title": "坎贝尔被捕"
+      "title": "坎贝尔被捕",
+      "title_en": "Campbell Captured",
+      "cause_en": "Campbell, trailing the Russian Captain Boris on his purchases, hides in a cable car and is found.",
+      "effect_en": "Campbell is beaten and taken for interrogation; to protect his cover, Bond denies knowing him, and Campbell dies; Bond decides to escape that night."
     },
     {
       "cause": "坎贝尔被捕后邦德身份危在旦夕，守卫电话称十分钟后来抓英国人",
       "chapter": 16,
       "effect": "邦德打死守卫，偷雪橇滑下雪山诊所，经历照明弹、榴弹与雪崩脱险",
       "id": "ski-escape",
-      "title": "雪夜滑雪逃亡"
+      "title": "雪夜滑雪逃亡",
+      "title_en": "The Night Ski Escape",
+      "cause_en": "With Campbell captured, Bond's cover is in danger, and a guard telephones that men are coming for the Englishman in ten minutes.",
+      "effect_en": "Bond kills the guard, steals a pair of skis and skis down from Piz Gloria, escaping flares, grenades and an avalanche."
     },
     {
       "cause": "崔西受父亲之命到萨马登寻找邦德，恰在溜冰舞会认出他",
       "chapter": 18,
       "effect": "两人驾车逃亡，邦德调转路标使追击奔驰坠入峡谷，三名追兵死亡",
       "id": "mercedes-gorge",
-      "title": "奔驰坠谷"
+      "title": "奔驰坠谷",
+      "title_en": "The Mercedes in the Gorge",
+      "cause_en": "Tracy, sent by her father to find Bond, recognises him at the skating ball in Samaden.",
+      "effect_en": "The two drive away together, and Bond turns a road sign so that the pursuing black Mercedes plunges into the gorge, killing all three men."
     },
     {
       "cause": "邦德在苏黎世机场早餐时认定崔西是他一直在寻找的女人",
       "chapter": 19,
       "effect": "崔西答应求婚，约定在慕尼黑领事馆结婚，婚后去基茨比厄尔度蜜月",
       "id": "proposal",
-      "title": "机场求婚"
+      "title": "机场求婚",
+      "title_en": "The Proposal at the Airport",
+      "cause_en": "Over breakfast at Zurich airport, Bond realises Tracy is the woman he has been looking for all his life.",
+      "effect_en": "Tracy accepts his proposal, agreeing to wait at the Vier Jahreszeiten in Munich and to marry him at the Consulate, honeymooning afterwards in Kitzbuhel."
     },
     {
       "cause": "邦德带回女孩名单与实验室所见，501与富兰克林会商",
       "chapter": 21,
       "effect": "识破生物战计划：女孩们是无意识的病毒携带者，宝莉·塔斯克疑似已传播禽瘟，300万只火鸡被宰杀",
       "id": "bw-theory",
-      "title": "生物战理论确立"
+      "title": "生物战理论确立",
+      "title_en": "The Biological Warfare Theory",
+      "cause_en": "Bond brings home the list of the girls and what he saw in the laboratory, and 501 and Franklin confer.",
+      "effect_en": "The biological-warfare plan is uncovered: the girls are unwitting virus carriers, Polly Tasker is suspected of having already spread fowl pest, and three million turkeys have been slaughtered."
     },
     {
       "cause": "M批准非官方清算，邦德请德拉科出动科西嘉联盟",
       "chapter": 25,
       "effect": "七人突袭队乘秘密军组织直升机夜袭雪山诊所，炸毁诊所、实验室与缆车站，但布洛菲尔德逃往意大利",
       "id": "piz-gloria-raid",
-      "title": "突袭雪山诊所"
+      "title": "突袭雪山诊所",
+      "title_en": "The Raid on Piz Gloria",
+      "cause_en": "M approves an unofficial reckoning, and Bond asks Draco to lend the Union Corse.",
+      "effect_en": "Seven men fly in by an OAS helicopter and raid Piz Gloria at night, blowing up the clinic, the laboratory and the cable station, but Blofeld escapes to Italy."
     },
     {
       "cause": "邦德与崔西元旦在慕尼黑英国总领事客厅成婚，驾车前往基茨比厄尔度蜜月",
       "chapter": 27,
       "effect": "红色玛莎拉蒂超车开枪，崔西中弹身亡；邦德抱着她说“我们有的是时间”",
       "id": "tracy-death",
-      "title": "崔西遇害"
+      "title": "崔西遇害",
+      "title_en": "The Death of Tracy",
+      "cause_en": "Bond and Tracy are married at the British Consulate General in Munich on New Year's Day and drive towards Kitzbuhel for their honeymoon.",
+      "effect_en": "A red Maserati overtakes them and fires; Tracy is shot dead, and Bond, holding her, says 'We've got all the time in the world.'"
     }
   ],
   "facts": [
@@ -1068,7 +1326,8 @@
       "quote": "I was worried about you.",
       "quote_source": "第1章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "9月15日"
+      "timeline_position": "9月15日",
+      "fact_en": "In September, Bond watches Tracy on the beach at Royale-les-Eaux, judges her in danger of suicide, and follows to protect her."
     },
     {
       "canon_or_inference": "canon",
@@ -1079,7 +1338,8 @@
       "quote": "I have found no trace of this man",
       "quote_source": "第2章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "9月14日"
+      "timeline_position": "9月14日",
+      "fact_en": "Bond drafts a letter of resignation: since Operation Thunderball he has spent nearly a year hunting Blofeld and SPECTRE without result, and a false lead in Palermo delivered him into the hands of the Mafia."
     },
     {
       "canon_or_inference": "canon",
@@ -1090,7 +1350,8 @@
       "quote": "if that organization had been re-created",
       "quote_source": "第2章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "9月14日"
+      "timeline_position": "9月14日",
+      "fact_en": "SPECTRE stands for the Special Executive for Counter-Intelligence, Revenge and Extortion, and was destroyed at the climax of Operation Thunderball."
     },
     {
       "canon_or_inference": "canon",
@@ -1101,7 +1362,8 @@
       "quote": "a low, white two-seater, a Lancia Flaminia Zagato Spyder",
       "quote_source": "第2章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "9月14日"
+      "timeline_position": "9月14日",
+      "fact_en": "Tracy drives a white Lancia Flaminia Zagato Spyder, and overtakes Bond's Bentley on the road between Abbeville and Montreuil."
     },
     {
       "canon_or_inference": "canon",
@@ -1112,7 +1374,8 @@
       "quote": "She is La Comtesse Teresa di Vicenzo.",
       "quote_source": "第2章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "9月14日"
+      "timeline_position": "9月14日",
+      "fact_en": "The hotel manager calls Tracy the Comtesse Teresa di Vicenzo, daughter of a great southern industrialist, staying at the Hotel Splendide."
     },
     {
       "canon_or_inference": "canon",
@@ -1123,7 +1386,8 @@
       "quote": "the old Continental Bentley - the 'R' type chassis",
       "quote_source": "第2章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "9月14日"
+      "timeline_position": "9月14日",
+      "fact_en": "Bond's car is a Continental Bentley on the 'R' type chassis with a big six-cylinder engine, fitted with an Arnott supercharger and capable of 125 miles an hour."
     },
     {
       "canon_or_inference": "canon",
@@ -1134,7 +1398,8 @@
       "quote": "four million, six hundred thousand francs' worth",
       "quote_source": "第3章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "9月14日夜"
+      "timeline_position": "9月14日夜",
+      "fact_en": "Bond wins 4,600,000 francs (old francs) at baccarat, worth a little over 3,000 pounds."
     },
     {
       "canon_or_inference": "canon",
@@ -1145,7 +1410,8 @@
       "quote": "Forgive me. Madame has forgotten that we agreed to play in partnership",
       "quote_source": "第3章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "9月14日夜"
+      "timeline_position": "9月14日夜",
+      "fact_en": "Tracy calls banco and loses 20,000 new francs she cannot pay, facing the blacklisting 'coup du deshonneur'; Bond pretends they were playing in partnership and pays for her."
     },
     {
       "canon_or_inference": "canon",
@@ -1156,7 +1422,8 @@
       "quote": "The number is 45.",
       "quote_source": "第3章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "9月14日夜"
+      "timeline_position": "9月14日夜",
+      "fact_en": "Tracy is staying in room 45 of the Hotel Splendide; she spends the night with Bond and turns him out the next morning."
     },
     {
       "canon_or_inference": "canon",
@@ -1167,7 +1434,8 @@
       "quote": "I am the head of the Union Corse.",
       "quote_source": "第4章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "9月15日"
+      "timeline_position": "9月15日",
+      "fact_en": "Marc-Ange Draco is the head of the Union Corse, which controls organised crime in metropolitan France and her colonies."
     },
     {
       "canon_or_inference": "canon",
@@ -1178,7 +1446,8 @@
       "quote": "My wife died ten years ago",
       "quote_source": "第5章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "9月15日"
+      "timeline_position": "9月15日",
+      "fact_en": "Tracy's mother was an English governess who died ten years ago; Tracy finished her education in Switzerland."
     },
     {
       "canon_or_inference": "canon",
@@ -1189,7 +1458,8 @@
       "quote": "died of that most terrible of all children's ailments, spinal meningitis",
       "quote_source": "第5章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "9月15日"
+      "timeline_position": "9月15日",
+      "fact_en": "Tracy married an Italian, Count Giulio di Vicenzo, who took her money and deserted her, leaving her with a baby girl; the baby died of spinal meningitis six months ago."
     },
     {
       "canon_or_inference": "canon",
@@ -1200,7 +1470,8 @@
       "quote": "Please find him and pay him 20,000 New Francs which I owe him.",
       "quote_source": "第5章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "9月15日"
+      "timeline_position": "9月15日",
+      "fact_en": "Tracy's suicide note to her father says she is tired of life and asks him to find Bond and repay the 20,000 new francs she owes him."
     },
     {
       "canon_or_inference": "canon",
@@ -1211,7 +1482,8 @@
       "quote": "I will give you a personal dowry of one million pounds in gold.",
       "quote_source": "第5章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "9月15日"
+      "timeline_position": "9月15日",
+      "fact_en": "Draco offers a personal dowry of one million pounds in gold if Bond will marry Tracy; Bond refuses the marriage and the money but agrees to take her to dinner."
     },
     {
       "canon_or_inference": "canon",
@@ -1222,7 +1494,8 @@
       "quote": "The Blofeld. Yes, he is certainly alive.",
       "quote_source": "第5章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "9月15日"
+      "timeline_position": "9月15日",
+      "fact_en": "Draco confirms that Blofeld is alive, in Switzerland, and has bribed three of the Union Corse's men away from him."
     },
     {
       "canon_or_inference": "canon",
@@ -1233,7 +1506,8 @@
       "quote": "There was no trace of any man, either tourist or resident, called Blofeld",
       "quote_source": "第6章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "11月"
+      "timeline_position": "11月",
+      "fact_en": "Two months later in London, Station Z can find no man called Blofeld in Switzerland, tourist or resident, and the Swiss authorities refuse to search anonymous numbered bank accounts."
     },
     {
       "canon_or_inference": "canon",
@@ -1244,7 +1518,8 @@
       "quote": "My father came from the Highlands, from near Glencoe.",
       "quote_source": "第6章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "11月"
+      "timeline_position": "11月",
+      "fact_en": "Bond's father was a Scotsman from near Glencoe; his mother was Swiss."
     },
     {
       "canon_or_inference": "canon",
@@ -1255,7 +1530,8 @@
       "quote": "Argent on a chevron sable three bezants",
       "quote_source": "第6章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "11月"
+      "timeline_position": "11月",
+      "fact_en": "The College of Arms gives the Bond arms as 'Argent on a chevron sable three bezants', with the motto 'The World is not Enough'."
     },
     {
       "canon_or_inference": "canon",
@@ -1266,7 +1542,8 @@
       "quote": "styles himself Monsieur le Comte Balthazar de Bleuville",
       "quote_source": "第7章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "11月"
+      "timeline_position": "11月",
+      "fact_en": "Blofeld, through Zurich solicitors, styles himself the Comte Balthazar de Bleuville, claiming his family fled France during the Revolution and settled in Germany as Blofeld."
     },
     {
       "canon_or_inference": "canon",
@@ -1277,7 +1554,8 @@
       "quote": "born in Gdynia of a Polish father and a Greek mother",
       "quote_source": "第7章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "11月"
+      "timeline_position": "11月",
+      "fact_en": "Blofeld claims to have been born in Gdynia on 28 May 1908, of a Polish father and a Greek mother; the page recording his birth in the Gdynia register has been neatly cut out."
     },
     {
       "canon_or_inference": "canon",
@@ -1288,7 +1566,8 @@
       "quote": "Argent four fusils in fesse gules",
       "quote_source": "第7章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "11月"
+      "timeline_position": "11月",
+      "fact_en": "The de Bleuville arms are 'Argent four fusils in fesse gules' with the motto 'For Hearth and Home'; members of the family have no ear lobes, whereas Blofeld has pronounced ones."
     },
     {
       "canon_or_inference": "canon",
@@ -1299,7 +1578,8 @@
       "quote": "Sir Hilary Bray, eh?",
       "quote_source": "第8章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "11月至12月"
+      "timeline_position": "11月至12月",
+      "fact_en": "M reluctantly approves the plan: Bond will go to Switzerland as Sir Hilary Bray, under the codename CORONA, carrying no weapons and under no surveillance."
     },
     {
       "canon_or_inference": "canon",
@@ -1310,7 +1590,8 @@
       "quote": "Clinique de l'Aube at Davos",
       "quote_source": "第8章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月"
+      "timeline_position": "12月",
+      "fact_en": "Tracy is being treated at the Clinique de l'Aube at Davos under Professor Auguste Kommer, president of the Swiss Society of Psychiatry and Psychology."
     },
     {
       "canon_or_inference": "canon",
@@ -1321,7 +1602,8 @@
       "quote": "I am Fraulein Irma Bunt. Personal secretary to the Count.",
       "quote_source": "第9章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月22日"
+      "timeline_position": "12月22日",
+      "fact_en": "On 22 December, Irma Bunt meets Bond at Zurich airport and, with a Federal Police pass, gets him quickly through passport control."
     },
     {
       "canon_or_inference": "canon",
@@ -1332,7 +1614,8 @@
       "quote": "GLORIA KLUB. 3605 METRES. PRIVAT!",
       "quote_source": "第9章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月22日"
+      "timeline_position": "12月22日",
+      "fact_en": "The Piz Gloria clinic stands at 3,605 metres, signed as the private Gloria Klub with an Institute of Physiological Research, ostensibly studying allergies."
     },
     {
       "canon_or_inference": "canon",
@@ -1343,7 +1626,8 @@
       "quote": "No surnames here, Sair Hilary. It is a rule of the house.",
       "quote_source": "第10章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月22日"
+      "timeline_position": "12月22日",
+      "fact_en": "The clinic houses ten English girl patients, known by first names only, whose bedroom doors have no handles on the inside; Bond suspects closed-circuit television and microphones."
     },
     {
       "canon_or_inference": "canon",
@@ -1354,7 +1638,8 @@
       "quote": "He just went off down the run like a sort of human bob-sleigh.",
       "quote_source": "第11章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月23日晨"
+      "timeline_position": "12月23日晨",
+      "fact_en": "Bertil, a Yugoslav guide, is pushed down the bob-run to his death after molesting a girl named Sarah in the night; the run is over a mile long."
     },
     {
       "canon_or_inference": "canon",
@@ -1365,7 +1650,8 @@
       "quote": "there were no signs of the sagging flesh",
       "quote_source": "第11章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月23日"
+      "timeline_position": "12月23日",
+      "fact_en": "Blofeld as he now appears has long silver hair, no ear lobes, weighs about twelve stone, has an aquiline nose and wears dark-green contact lenses -- utterly unlike the twenty-stone man on file."
     },
     {
       "canon_or_inference": "canon",
@@ -1376,7 +1662,8 @@
       "quote": "The hairs were all gone.",
       "quote_source": "第12章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月23日"
+      "timeline_position": "12月23日",
+      "fact_en": "Bond finds his luggage has been searched -- the hairs he planted are all gone; he steals a plastic strip from the ski workshop to use as a lock-pick, pretending he borrowed it as a ruler."
     },
     {
       "canon_or_inference": "canon",
@@ -1387,7 +1674,8 @@
       "quote": "You're thinking of my first cousin. From Ben Trilleachan.",
       "quote_source": "第12章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月23日"
+      "timeline_position": "12月23日",
+      "fact_en": "A Lovat Scouts veteran mistakes Bond for the real Hilary Bray; Bond claims the man means his first cousin of the same name, who died six months ago falling from a mountain."
     },
     {
       "canon_or_inference": "canon",
@@ -1398,7 +1686,8 @@
       "quote": "I was allergic to chickens. I simply couldn't bear them",
       "quote_source": "第13章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月23日"
+      "timeline_position": "12月23日",
+      "fact_en": "Ruby Windsor comes from a poultry farm at Morecambe Bay in Lancashire; her parents are George Albert Windsor and Mary Potts; she was allergic to chickens and has now been 'cured' into loving them."
     },
     {
       "canon_or_inference": "canon",
@@ -1409,7 +1698,8 @@
       "quote": "I used to hate them. Nothing but potatoes to eat",
       "quote_source": "第13章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月23日"
+      "timeline_position": "12月23日",
+      "fact_en": "Violet O'Neill comes from near Shannon in Ireland; she used to hate potatoes and now longs to improve the potato crop."
     },
     {
       "canon_or_inference": "canon",
@@ -1420,7 +1710,8 @@
       "quote": "You love all chickens. You would like to make pets of them all.",
       "quote_source": "第14章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月23日夜"
+      "timeline_position": "12月23日夜",
+      "fact_en": "The midnight hypnosis tape plays Blofeld's voice with a metronome and the clucking of hens, instructing the girls to love chickens, improve the breed and keep the secret."
     },
     {
       "canon_or_inference": "canon",
@@ -1431,7 +1722,8 @@
       "quote": "Ernst George Blofeld and Maria Stavro Michelopoulos.",
       "quote_source": "第14章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月24日"
+      "timeline_position": "12月24日",
+      "fact_en": "Blofeld gives his parents as Ernst George Blofeld and Maria Stavro Michelopoulos, and his grandparents as Ernst Stefan Blofeld and Elizabeth Lubomirskaya."
     },
     {
       "canon_or_inference": "canon",
@@ -1442,7 +1734,8 @@
       "quote": "Let us say five hundred pounds a week.",
       "quote_source": "第14章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月24日"
+      "timeline_position": "12月24日",
+      "fact_en": "Blofeld offers Bond 500 pounds a week to endorse forged family documents for him."
     },
     {
       "canon_or_inference": "canon",
@@ -1453,7 +1746,8 @@
       "quote": "Thank God, James. Tell 'em it's me!",
       "quote_source": "第15章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月24日"
+      "timeline_position": "12月24日",
+      "fact_en": "Shaun Campbell, Number 2 of Station Z, is caught while trailing the Russian Captain Boris on his purchases; he appeals to Bond, who denies knowing him, and Campbell is taken to the interrogation cell."
     },
     {
       "canon_or_inference": "canon",
@@ -1464,7 +1758,8 @@
       "quote": "Polly Tasker. She was from East Anglia.",
       "quote_source": "第15章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月24日"
+      "timeline_position": "12月24日",
+      "fact_en": "Polly Tasker came from East Anglia and left Piz Gloria in November; Ruby supplies the list of the other ten girls, which Bond copies in urine as invisible ink onto page 21 of his passport."
     },
     {
       "canon_or_inference": "canon",
@@ -1475,7 +1770,8 @@
       "quote": "They were sending the cable car down after him!",
       "quote_source": "第16章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月24日夜"
+      "timeline_position": "12月24日夜",
+      "fact_en": "On Christmas Eve, Bond kills the guard and escapes down the mountain on a stolen pair of Head skis, pursued by the cable car with flares and grenades."
     },
     {
       "canon_or_inference": "canon",
@@ -1486,7 +1782,8 @@
       "quote": "caught by the murderous blades of the snow-fan!",
       "quote_source": "第17章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月24日夜"
+      "timeline_position": "12月24日夜",
+      "fact_en": "Bond strays onto the closed Black Run and is caught in an avalanche, escaping through a gap in the trees; the pursuing guide jumps the railway embankment too late and is killed by the blades of the train's snow-fan."
     },
     {
       "canon_or_inference": "canon",
@@ -1497,7 +1794,8 @@
       "quote": "the car seemed almost to stop, but its front wheels must have been over the edge",
       "quote_source": "第18章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月24日夜"
+      "timeline_position": "12月24日夜",
+      "fact_en": "Tracy finds Bond at the skating ball in Samaden and drives him away; Bond turns a road sign so that the pursuing black Mercedes plunges into the gorge, killing all three men."
     },
     {
       "canon_or_inference": "canon",
@@ -1508,7 +1806,8 @@
       "quote": "Tracy. I love you. Will you marry me?",
       "quote_source": "第19章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月25日晨"
+      "timeline_position": "12月25日晨",
+      "fact_en": "Over breakfast at Zurich airport on Christmas morning, Bond proposes to Tracy; she accepts, agrees to wait at the Vier Jahreszeiten in Munich, and to marry him at the Consulate."
     },
     {
       "canon_or_inference": "canon",
@@ -1519,7 +1818,8 @@
       "quote": "The ink showed traces of an excess of uric acid.",
       "quote_source": "第20章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月25日"
+      "timeline_position": "12月25日",
+      "fact_en": "On Christmas Day Bond reports to M; the laboratory develops the invisible-ink list on page 21 of his passport, the ink showing an excess of uric acid; the man killed at Pontresina was a Bulgarian plastic-explosives expert and former KGB man."
     },
     {
       "canon_or_inference": "canon",
@@ -1530,7 +1830,8 @@
       "quote": "Within the past four weeks or so we have slaughtered three million turkeys.",
       "quote_source": "第21章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月25日"
+      "timeline_position": "12月25日",
+      "fact_en": "In the past four weeks about three million turkeys have been slaughtered for fowl pest, the first sick birds having been exhibited at the National Poultry Show at Olympia; the girls' home towns correspond to the farming centres of Britain and Ireland."
     },
     {
       "canon_or_inference": "inference",
@@ -1541,7 +1842,8 @@
       "quote": "this Captain Boris was either the paymaster or supervisor of the scheme",
       "quote_source": "第21章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月25日"
+      "timeline_position": "12月25日",
+      "fact_en": "501 suggests that Captain Boris was either the paymaster or the supervisor of the biological-warfare scheme, with the Russians behind it; the novel offers no proof."
     },
     {
       "canon_or_inference": "inference",
@@ -1552,7 +1854,8 @@
       "quote": "she was given an aerosol spray of the right stuff",
       "quote_source": "第22章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月25日"
+      "timeline_position": "12月25日",
+      "fact_en": "Franklin argues that Polly Tasker was given an aerosol spray to spread fowl pest at the Olympia show, after which the exhibited birds carried the virus all over the country; in the novel this is reasoning at the conference, and Polly herself never confesses."
     },
     {
       "canon_or_inference": "canon",
@@ -1563,7 +1866,8 @@
       "quote": "I am taking five of the best. With you and me that is seven.",
       "quote_source": "第23章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月26日"
+      "timeline_position": "12月26日",
+      "fact_en": "Draco agrees to attack Piz Gloria as a wedding present, taking five of his best men, making seven with Bond and himself."
     },
     {
       "canon_or_inference": "canon",
@@ -1574,7 +1878,8 @@
       "quote": "Helicopter of the Red Cross flying blood plasma to Italy.",
       "quote_source": "第24章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月27日"
+      "timeline_position": "12月27日",
+      "fact_en": "The raiding party flies in a military helicopter supplied by the OAS, painted with Red Cross markings and the false registration FL-BGS, claiming to carry blood plasma to Bellinzona, and deceives Swiss air control and a Mirage interceptor."
     },
     {
       "canon_or_inference": "canon",
@@ -1585,7 +1890,8 @@
       "quote": "He had flung himself down on his skeleton",
       "quote_source": "第25章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月27日夜"
+      "timeline_position": "12月27日夜",
+      "fact_en": "Blofeld, wearing a bob-sleigh helmet, escapes down the bob-run on a skeleton; Bond chases him but is blown off the track by a grenade Blofeld throws; the clinic, laboratory and cable station are destroyed, and Blofeld drives away towards Italy."
     },
     {
       "canon_or_inference": "canon",
@@ -1596,7 +1902,8 @@
       "quote": "REDOUBT PROPERLY FIXED STOP DETAILS LACKING",
       "quote_source": "第25章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月28日凌晨"
+      "timeline_position": "12月28日凌晨",
+      "fact_en": "Bond signals M that the redoubt has been destroyed and the owner has escaped, probably to Italy, and gratefully accepts ten days' leave."
     },
     {
       "canon_or_inference": "canon",
@@ -1607,7 +1914,8 @@
       "quote": "There was no sign of her.",
       "quote_source": "第26章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月28日"
+      "timeline_position": "12月28日",
+      "fact_en": "In the raid Che-Che is killed by a booby trap in Blofeld's filing cabinet, another man dies, and Irma Bunt is nowhere to be found; nine girls are detained at British airports as suspected polio contacts, and Violet O'Neill is under observation at Shannon Hospital."
     },
     {
       "canon_or_inference": "canon",
@@ -1618,7 +1926,8 @@
       "quote": "What I am giving you is only a fifth of my fortune.",
       "quote_source": "第26章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "12月29日"
+      "timeline_position": "12月29日",
+      "fact_en": "Bond refuses Draco's million-pound dowry, saying it is a fifth of Draco's fortune; he buys a white-gold engagement ring of two clasped diamond hands for Tracy."
     },
     {
       "canon_or_inference": "canon",
@@ -1629,7 +1938,8 @@
       "quote": "James Bond said the words at ten-thirty in the morning",
       "quote_source": "第27章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "1月1日"
+      "timeline_position": "1月1日",
+      "fact_en": "At half past ten on New Year's morning, Bond and Tracy are married in the drawing room of the British Consul General in Munich, with Savage, Head of Station M, as best man, and Draco present."
     },
     {
       "canon_or_inference": "canon",
@@ -1640,7 +1950,8 @@
       "quote": "We've got all the time in the world.",
       "quote_source": "第27章",
       "source_novel": "on-her-majestys-secret-service",
-      "timeline_position": "1月1日"
+      "timeline_position": "1月1日",
+      "fact_en": "On the drive to Kitzbuhel for their honeymoon, a red Maserati overtakes them and fires; Tracy is shot dead; Bond tells the patrolman she is only resting -- 'We've got all the time in the world.'"
     }
   ],
   "kind": "长篇",
@@ -1652,7 +1963,8 @@
       "id": "royale-les-eaux",
       "name_en": "Royale-les-Eaux",
       "name_zh": "滨海鲁瓦亚勒",
-      "role": "开篇地：邦德与崔西相遇、赌场与绑架发生地"
+      "role": "开篇地：邦德与崔西相遇、赌场与绑架发生地",
+      "description_en": "Where the novel opens: Bond meets Tracy, and the casino and the kidnapping take place."
     },
     {
       "country": "法国",
@@ -1660,7 +1972,8 @@
       "id": "casino-royale",
       "name_en": "Casino Royale",
       "name_zh": "鲁瓦亚勒赌场",
-      "role": "邦德赢得460万法郎、崔西“耻辱一击”发生地"
+      "role": "邦德赢得460万法郎、崔西“耻辱一击”发生地",
+      "description_en": "Where Bond wins 4,600,000 francs and Tracy suffers the 'coup du deshonneur'."
     },
     {
       "country": "法国",
@@ -1668,7 +1981,8 @@
       "id": "hotel-splendide",
       "name_en": "Hotel Splendide",
       "name_zh": "光辉酒店",
-      "role": "邦德与崔西下榻处，45号房；崔西遗书交到此处前台"
+      "role": "邦德与崔西下榻处，45号房；崔西遗书交到此处前台",
+      "description_en": "Where Bond and Tracy stay, in room 45; Tracy's suicide note is left at its reception desk."
     },
     {
       "country": "英国",
@@ -1676,7 +1990,8 @@
       "id": "london",
       "name_en": "London",
       "name_zh": "伦敦",
-      "role": "邦德切尔西公寓与总部所在地；纹章院、M汇报地"
+      "role": "邦德切尔西公寓与总部所在地；纹章院、M汇报地",
+      "description_en": "Bond's Chelsea flat and the headquarters of the Service; the College of Arms and M's report."
     },
     {
       "country": "英国",
@@ -1684,7 +1999,8 @@
       "id": "college-of-arms",
       "name_en": "College of Arms",
       "name_zh": "纹章院",
-      "role": "位于维多利亚女王街；布洛菲尔德爵位申请的受理机构，化名行动策划地"
+      "role": "位于维多利亚女王街；布洛菲尔德爵位申请的受理机构，化名行动策划地",
+      "description_en": "In Queen Victoria Street; the body that receives Blofeld's application for a title, and where the undercover operation is planned."
     },
     {
       "country": "英国",
@@ -1692,7 +2008,8 @@
       "id": "quarterdeck",
       "name_en": "Quarterdeck",
       "name_zh": "Quarterdeck",
-      "role": "M在温莎森林边缘的庄园，圣诞节汇报与生物战会商地"
+      "role": "M在温莎森林边缘的庄园，圣诞节汇报与生物战会商地",
+      "description_en": "M's manor on the edge of Windsor Forest, where Bond reports on Christmas Day and the biological-warfare conference is held."
     },
     {
       "country": "瑞士",
@@ -1700,7 +2017,8 @@
       "id": "zurich",
       "name_en": "Zurich",
       "name_zh": "苏黎世",
-      "role": "邦德入境地；Z站驻地；女孩们飞往英国的出发地"
+      "role": "邦德入境地；Z站驻地；女孩们飞往英国的出发地",
+      "description_en": "Where Bond enters Switzerland; the home of Station Z, and the departure point of the girls' flights to England."
     },
     {
       "country": "瑞士",
@@ -1708,7 +2026,8 @@
       "id": "piz-gloria",
       "name_en": "Piz Gloria",
       "name_zh": "雪山诊所",
-      "role": "布洛菲尔德的过敏症研究所与诊所，海拔3605米；催眠、实验室与突袭发生地"
+      "role": "布洛菲尔德的过敏症研究所与诊所，海拔3605米；催眠、实验室与突袭发生地",
+      "description_en": "Blofeld's allergy clinic and research institute at 3,605 metres; the scene of the hypnosis, the laboratory and the raid."
     },
     {
       "country": "瑞士",
@@ -1716,7 +2035,8 @@
       "id": "davos",
       "name_en": "Davos",
       "name_zh": "达沃斯",
-      "role": "崔西接受治疗的黎明诊所所在地"
+      "role": "崔西接受治疗的黎明诊所所在地",
+      "description_en": "Where Tracy is treated at the Clinique de l'Aube."
     },
     {
       "country": "瑞士",
@@ -1724,7 +2044,8 @@
       "id": "samaden",
       "name_en": "Samaden",
       "name_zh": "萨马登",
-      "role": "邦德逃亡终点，圣诞夜溜冰舞会与崔西重逢地"
+      "role": "邦德逃亡终点，圣诞夜溜冰舞会与崔西重逢地",
+      "description_en": "The end of Bond's escape, and the scene of the Christmas Eve skating ball where Tracy finds him."
     },
     {
       "country": "瑞士",
@@ -1732,7 +2053,8 @@
       "id": "pontresina",
       "name_en": "Pontresina",
       "name_zh": "蓬特雷西纳",
-      "role": "雪山诊所缆车下站；贝尔蒂尔葬于此地"
+      "role": "雪山诊所缆车下站；贝尔蒂尔葬于此地",
+      "description_en": "The lower station of the Piz Gloria cable car; Bertil is buried there."
     },
     {
       "country": "法国",
@@ -1740,7 +2062,8 @@
       "id": "marseilles",
       "name_en": "Marseilles",
       "name_zh": "马赛",
-      "role": "德拉科总部（电器公司）所在地；突袭策划地"
+      "role": "德拉科总部（电器公司）所在地；突袭策划地",
+      "description_en": "The home of Draco's headquarters, the electrical company; where the raid is planned."
     },
     {
       "country": "法国",
@@ -1748,7 +2071,8 @@
       "id": "strasbourg",
       "name_en": "Strasbourg",
       "name_zh": "斯特拉斯堡",
-      "role": "突袭队集结地，秘密军组织直升机藏于附近城堡谷仓"
+      "role": "突袭队集结地，秘密军组织直升机藏于附近城堡谷仓",
+      "description_en": "Where the raiding party assembles, the OAS helicopter hidden in a barn at a chateau nearby."
     },
     {
       "country": "德国",
@@ -1756,7 +2080,8 @@
       "id": "munich",
       "name_en": "Munich",
       "name_zh": "慕尼黑",
-      "role": "崔西等候地（四季酒店）；元旦婚礼与崔西遇害前的出发地"
+      "role": "崔西等候地（四季酒店）；元旦婚礼与崔西遇害前的出发地",
+      "description_en": "Where Tracy waits at the Vier Jahreszeiten; the scene of the New Year's Day wedding and of Tracy's death on the road out of the city."
     },
     {
       "country": "奥地利",
@@ -1764,7 +2089,8 @@
       "id": "kitzbuhel",
       "name_en": "Kitzbühel",
       "name_zh": "基茨比厄尔",
-      "role": "蜜月目的地，未抵达"
+      "role": "蜜月目的地，未抵达",
+      "description_en": "The honeymoon destination, never reached."
     },
     {
       "country": "波兰",
@@ -1772,7 +2098,8 @@
       "id": "gdynia",
       "name_en": "Gdynia",
       "name_zh": "格丁尼亚",
-      "role": "布洛菲尔德自称的出生地，出生记录页被裁掉"
+      "role": "布洛菲尔德自称的出生地，出生记录页被裁掉",
+      "description_en": "The birthplace Blofeld claims, whose register page recording his birth has been cut out."
     },
     {
       "country": "德国",
@@ -1780,7 +2107,8 @@
       "id": "augsburg",
       "name_en": "Augsburg",
       "name_zh": "奥格斯堡",
-      "role": "布洛菲尔德家族档案所在地，邦德提议同去查档诱其出境"
+      "role": "布洛菲尔德家族档案所在地，邦德提议同去查档诱其出境",
+      "description_en": "Where the Blofeld family archives are kept; Bond proposes going there with Blofeld to check the records, as a way of luring him out of Switzerland."
     },
     {
       "country": "法国",
@@ -1788,7 +2116,8 @@
       "id": "blonville-sur-mer",
       "name_en": "Blonville-sur-Mer",
       "name_zh": "滨海布隆维尔",
-      "role": "德·布勒维尔家族故地，纹章官在此发现无耳垂家族特征"
+      "role": "德·布勒维尔家族故地，纹章官在此发现无耳垂家族特征",
+      "description_en": "The old home of the de Bleuville family, where the herald finds that the family has no ear lobes."
     }
   ],
   "mission": {
@@ -1813,56 +2142,64 @@
       "id": "spectre",
       "name_en": "SPECTRE",
       "name_zh": "幽灵党",
-      "role": "布洛菲尔德领导的犯罪组织，霹雳弹行动后重建；雪山诊所职员多为其旧部"
+      "role": "布洛菲尔德领导的犯罪组织，霹雳弹行动后重建；雪山诊所职员多为其旧部",
+      "description_en": "The criminal organisation led by Blofeld, rebuilt after Operation Thunderball; many of the Piz Gloria staff are its former members."
     },
     {
       "first_chapter": 2,
       "id": "secret-service",
       "name_en": "Secret Service",
       "name_zh": "秘密情报局",
-      "role": "邦德所属机构，对外掩护为Universal Export；行动代号先为Bedlam，后为CORONA"
+      "role": "邦德所属机构，对外掩护为Universal Export；行动代号先为Bedlam，后为CORONA",
+      "description_en": "The organisation Bond belongs to, covered as Universal Export; the hunt for Blofeld is first codenamed Bedlam, then CORONA."
     },
     {
       "first_chapter": 4,
       "id": "union-corse",
       "name_en": "Union Corse",
       "name_zh": "科西嘉联盟",
-      "role": "德拉科领导的科西嘉犯罪组织；绑架邦德父女相见，后出动七人突袭雪山诊所"
+      "role": "德拉科领导的科西嘉犯罪组织；绑架邦德父女相见，后出动七人突袭雪山诊所",
+      "description_en": "The Corsican criminal organisation led by Draco; it kidnaps Bond so that father and daughter can meet, and later sends seven men to raid Piz Gloria."
     },
     {
       "first_chapter": 6,
       "id": "college-of-arms",
       "name_en": "College of Arms",
       "name_zh": "纹章院",
-      "role": "受理布洛菲尔德爵位申请的机构；黑貂·蛇怪策划化名行动，邦德冒充其纹章官"
+      "role": "受理布洛菲尔德爵位申请的机构；黑貂·蛇怪策划化名行动，邦德冒充其纹章官",
+      "description_en": "The body that handles Blofeld's application for the title of Count; Sable Basilisk plans the undercover operation, and Bond impersonates one of its heralds."
     },
     {
       "first_chapter": 6,
       "id": "station-z",
       "name_en": "Station Z",
       "name_zh": "Z站",
-      "role": "苏黎世站，站长亚历山大·缪尔；二号人物坎贝尔在雪山诊所被捕身亡"
+      "role": "苏黎世站，站长亚历山大·缪尔；二号人物坎贝尔在雪山诊所被捕身亡",
+      "description_en": "The Zurich station, headed by Alexander Muir; its Number 2, Campbell, is caught and killed at Piz Gloria."
     },
     {
       "first_chapter": 21,
       "id": "ministry-agriculture",
       "name_en": "Ministry of Agriculture and Fisheries",
       "name_zh": "农业渔业部",
-      "role": "富兰克林所在部门，提供禽瘟疫情与生物战分析，协调扣留女孩"
+      "role": "富兰克林所在部门，提供禽瘟疫情与生物战分析，协调扣留女孩",
+      "description_en": "Franklin's department, which supplies the fowl-pest figures and the biological-warfare analysis, and co-ordinates the detention of the girls."
     },
     {
       "first_chapter": 24,
       "id": "oas",
       "name_en": "OAS",
       "name_zh": "秘密军组织",
-      "role": "向德拉科出借军用直升机与飞行员"
+      "role": "向德拉科出借军用直升机与飞行员",
+      "description_en": "The Organisation de l'armee secrete, which lends Draco a military helicopter and a pilot."
     },
     {
       "first_chapter": 6,
       "id": "swiss-securite",
       "name_en": "Swiss Securite",
       "name_zh": "瑞士安全局",
-      "role": "拒绝向英国提供布洛菲尔德行踪与银行户头信息；艾玛·布朗特持其通行证通关"
+      "role": "拒绝向英国提供布洛菲尔德行踪与银行户头信息；艾玛·布朗特持其通行证通关",
+      "description_en": "The Swiss security service, which refuses Britain any information on Blofeld's movements or bank accounts; Irma Bunt carries its pass through passport control."
     }
   ],
   "publication_year": 1963,
@@ -1881,63 +2218,93 @@
     {
       "name_en": "Continental Bentley R-type",
       "name_zh": "大陆宾利R型",
-      "note": "邦德座驾，装Arnott增压器"
+      "note": "邦德座驾，装Arnott增压器",
+      "description_en": "Bond's car, fitted with an Arnott supercharger."
     },
     {
       "name_en": "Lancia Flaminia Zagato Spyder",
       "name_zh": "蓝旗亚Flaminia Zagato Spyder",
-      "note": "崔西的白色双座跑车，婚后仍驾驶"
+      "note": "崔西的白色双座跑车，婚后仍驾驶",
+      "description_en": "Tracy's white two-seater sports car, which she still drives after the wedding."
     },
     {
       "name_en": "Simca Aronde",
       "name_zh": "辛卡Aronde",
-      "note": "邦德在鲁瓦亚勒租用的跟踪用车"
+      "note": "邦德在鲁瓦亚勒租用的跟踪用车",
+      "description_en": "The hire car Bond uses to follow Tracy at Royale."
     },
     {
       "name_en": "Citroen 2CV",
       "name_zh": "雪铁龙2CV",
-      "note": "跟踪邦德的匿名小车"
+      "note": "跟踪邦德的匿名小车",
+      "description_en": "The anonymous little car that follows Bond."
     },
     {
       "name_en": "Bombard rescue boat",
       "name_zh": "Bombard救生艇",
-      "note": "绑匪用充气救生艇将两人带往货车"
+      "note": "绑匪用充气救生艇将两人带往货车",
+      "description_en": "The inflatable rescue boat the kidnappers use to carry Bond and Tracy to the lorry."
     },
     {
       "name_en": "Mercedes 300 SE",
       "name_zh": "奔驰300SE",
-      "note": "艾玛·布朗特在苏黎世机场接邦德的黑色轿车；追击邦德的同型车坠入峡谷"
+      "note": "艾玛·布朗特在苏黎世机场接邦德的黑色轿车；追击邦德的同型车坠入峡谷",
+      "description_en": "The black saloon in which Irma Bunt collects Bond at Zurich airport; a car of the same type, chasing Bond, plunges into the gorge."
     },
     {
       "name_en": "Sud Aviation Alouette helicopter",
       "name_zh": "南方航空云雀直升机",
-      "note": "橙色救援型直升机，送邦德上雪山诊所"
+      "note": "橙色救援型直升机，送邦德上雪山诊所",
+      "description_en": "The orange mountain-rescue helicopter that carries Bond up to Piz Gloria."
     },
     {
       "name_en": "OAS military helicopter FL-BGS",
       "name_zh": "秘密军组织军用直升机FL-BGS",
-      "note": "涂红十字标志的突袭运输机"
+      "note": "涂红十字标志的突袭运输机",
+      "description_en": "The raiding party's transport, painted with Red Cross markings."
     },
     {
       "name_en": "Cable car",
       "name_zh": "缆车",
-      "note": "雪山诊所与蓬特雷西纳之间的交通工具；突袭时被炸毁"
+      "note": "雪山诊所与蓬特雷西纳之间的交通工具；突袭时被炸毁",
+      "description_en": "The transport between Piz Gloria and Pontresina; destroyed in the raid."
     },
     {
       "name_en": "Red Maserati",
       "name_zh": "红色玛莎拉蒂",
-      "note": "婚礼当天超车开枪的车辆，车上有布洛菲尔德与艾玛·布朗特（推断）"
+      "note": "婚礼当天超车开枪的车辆，车上有布洛菲尔德与艾玛·布朗特（推断）",
+      "description_en": "The car that overtakes and fires on the newly married couple on their wedding day; the novel implies it carries Blofeld and Irma Bunt, but never names them."
     },
     {
       "name_en": "Skeleton bob",
       "name_zh": "单人骨架雪橇",
-      "note": "布洛菲尔德逃亡工具，邦德追击时亦乘此物"
+      "note": "布洛菲尔德逃亡工具，邦德追击时亦乘此物",
+      "description_en": "The one-man bob on which Blofeld escapes, and on which Bond chases him."
     },
     {
       "name_en": "Head metal skis",
       "name_zh": "Head牌金属雪橇",
-      "note": "邦德偷来逃亡用的向导雪橇"
+      "note": "邦德偷来逃亡用的向导雪橇",
+      "description_en": "The guide's skis Bond steals for his escape."
     }
   ],
-  "words": 80727
+  "words": 80727,
+  "synopsis_en": "After a year of fruitless hunting for Ernst Stavro Blofeld, James Bond is on the verge of resigning when a chance encounter on a French beach changes everything. He saves Tracy di Vicenzo, the suicidal daughter of Marc-Ange Draco, head of the Union Corse, from drowning herself -- and Draco, in gratitude, tells him Blofeld is alive in Switzerland. A fresh lead follows: Blofeld, desperate to be recognised as the Comte de Bleuville, has applied to the College of Arms in London to have the title confirmed. Bond goes undercover as Sir Hilary Bray, a herald from the College, and is flown to Blofeld's allergy clinic high on Piz Gloria, where ten English girls are being 'cured' of their allergies. Behind the clinic lies a nightmare: the girls are being hypnotised into unwitting carriers of animal and crop viruses, a biological-warfare attack on British agriculture. Bond escapes down the mountain on skis, is rescued by Tracy, and, with Draco's men, raids Piz Gloria -- but Blofeld gets away. Bond marries Tracy in Munich on New Year's Day. On the drive to their honeymoon, a red Maserati overtakes them and Tracy is shot dead.",
+  "mission_en": {
+    "objective_en": "To track down and capture Ernst Stavro Blofeld, head of SPECTRE; later, to expose and destroy his biological-warfare scheme, in which hypnotised girls spread animal and crop viruses to cripple British agriculture.",
+    "investigation_en": "Bond, disguised as the herald Sir Hilary Bray, calls on Blofeld on the pretext of confirming his title as Comte de Bleuville; having won his trust with the ear-lobe evidence, he stays a week, learns the layout of the clinic, the list of the girls and the truth of the hypnosis; after his escape he reports to M, and 501 and Franklin uncover the biological-warfare plan; Bond then asks Draco to lend the Union Corse for a raid on Piz Gloria.",
+    "key_clues_en": [
+      "Blofeld applies to the College of Arms to have his title as Comte de Bleuville confirmed.",
+      "The de Bleuville family have no ear lobes, and neither does Blofeld in his new appearance.",
+      "The ten girls are known by first names only, their doors have no handles on the inside, and the rooms seem to be bugged.",
+      "The midnight hypnosis tape instructs the girls to love the things they were allergic to and to keep the secret.",
+      "In the laboratory, under red light, stand rows of test tubes filled with a cloudy liquid.",
+      "The girls' home towns match the farming centres of Britain and Ireland, and Polly Tasker comes from the turkey country of East Anglia.",
+      "In the past four weeks three million turkeys have been slaughtered for fowl pest, the first sick birds having been shown at the Olympia poultry show."
+    ],
+    "outcome_en": "The Piz Gloria clinic, the laboratory and the cable station are blown up, but Blofeld escapes to Italy; the ten girls are detained and isolated on entering Britain, and Polly Tasker is arrested; on the day of Bond's wedding, Blofeld and Irma Bunt shoot Tracy dead."
+  },
+  "adaptation_differences_en": [
+    "Film differences have not been checked for this novel."
+  ]
 }

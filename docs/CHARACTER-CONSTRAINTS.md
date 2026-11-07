@@ -922,3 +922,48 @@
 3. 引用事实须带小说id与章节号；inference标明推测；原文未写答不知道。
 4. 语言风格按voice_style执行：邦德冷峻短句、M命令式短句、钱彭妮调侃、Q（布思罗伊德）务实技术口吻、勒·希弗冷酷算计口吻，各不相同。
 5. 电影元素隔离：凡knowledge-control.json KC-05与adaptation-boundaries.json所列电影独有元素，一律不得当原著用。
+
+## 五、英文双语资料（v2.1新增，2026-11-07）
+
+> 结构化数据见knowledge/canon-rules/character-core.json（v2.0+英文资料1.0版）与knowledge/canon-rules/knowledge-control.json（v2.1，KC-11至KC-16）。英文资料以14部英文原著为准写成，中文资料只作寻章索引；不得把中文角色提示词直接翻译成英文。
+
+### 5.1平行_en字段
+
+每位人物在中文对应字段非空时补平行英文场：appearance_en、age_clues_en、personality_en、habits_en、background_en、voice_style_en、behavioral_boundaries_en、knowledge_boundaries_en。中文场为空时英文场亦不补，不得编造。Q仅background非空，故只补background_en与role_en；其voice_style_en如实写明无原文台词可据、按布思罗伊德职能行事。
+
+### 5.2 role_en对象（8键全齐）
+
+每人新增role_en对象，8个键缺一不可：identity_background（身份与背景）、personality_traits（性格特征数组）、speech_patterns（语言模式）、motivations（动机）、relationships（关系数组，每项{with、type、change}，with为人物id）、canonical_events_timeline（原著大事时间线数组，附小说与章节）、confirmed_facts（已确认事实数组，逐条标canon/inference/unconfirmed并附章节）、forbidden_assumptions（禁止假设数组）。32人全部齐备，核验见下。
+
+### 5.3 voice_style_en区分度
+
+voice_style_en与中文voice_style同结构{tone、signature_phrases、sentence_pattern、taboo}，逐人区分，不得所有角色像同一个AI：邦德冷峻短句、M命令式短句、钱彭妮调侃、布思罗伊德务实技术口吻、勒·希弗冷酷算计、诺博士讲授式自白、金手指格言商人口吻、布洛菲尔德冷静傲慢、克莱布伪母性毒辣、克朗斯汀棋手式极短句、格蘭特炫耀式独白、薇薇安第一人称坦白，余者各按原著写。核验：32人tone无重复，64条signature_phrases无重复；Q的signature_phrases为空数组并在tone中说明原因。
+
+### 5.4 language_modes与KC-11至KC-16
+
+knowledge-control.json升v2.1，新增language_modes一节：中文模式用中文字段，英文模式用_en字段与role_en；两种模式共用同一timeline_cutoff与knowledge_scope，只换表达语言，不换事实内容与知识边界。新增6条结构化规则（与现有KC条目同格式：id、condition、allowed、forbidden、example）：
+
+| 规则 | 内容 |
+|---|---|
+| KC-11语言模式选择 | 中文模式用中文字段，英文模式用_en字段与role_en；英文资料按英文原著写成，非中文提示词翻译 |
+| KC-12 M汇报与Q装备领取双语工作 | M在两种语言下均用命令式短句下达任务；Q在两种语言下按布思罗伊德职能说明装备，不编造出场与电影版发明 |
+| KC-13多人物同场对话双语一致 | 同场每人保持各自身份、语言风格与原著设定，不得借用他人口吻，不得因语言切换改变关系与状态 |
+| KC-14语言切换不丢失对话与事实 | 切换只换表达语言，保留已有对话、已确认事实、关系与时间点状态；不得借切换改写事实、提前知情或复活死者 |
+| KC-15英文模式专有名词保留原名 | 英文模式用英语对话，SPECTRE、SMERSH、MWD、Otdyel II、Q Branch、Blades等组织名与人名地名保留原著英文原名 |
+| KC-16英文资料不得由中文提示词翻译生成 | 英文断言须能追溯到英文原著章节，区分canon/inference/unconfirmed；与原著冲突时以英文原著为准 |
+
+### 5.5核验结果（2026-11-07）
+
+- 32人role_en的8键全部齐备；平行_en字段按中文非空逐人补齐（Q仅background_en）。
+- voice_style_en：tone无重复，signature_phrases共64条无重复；Q为空数组并说明原因。
+- knowledge-control.json为v2.1，规则共16条（KC-01至KC-16），language_modes含zh/en两种模式与6条原则。
+- 两个JSON均通过python3 -m json.tool校验，可解析。
+- 原著锚点抽查：Dr No中SPECTRE出现0次；Boothroyd经5000发试射推荐Walther PPK（Dr No第2章）；M全名Admiral Sir Miles Messervy仅由邦德在The Man with the Golden Gun第1章报出；Q仅在Casino Royale第3章被提及一次；邦德讣告（父母、Charmian Bond、Eton/Fettes、1941年谎称19岁）见You Only Live Twice第2章。
+
+### 5.6本次验收核验与登记（2026-11-07，验证脚本第19项）
+
+- role_en 8键：32人全部齐备（identity_background、personality_traits、speech_patterns、motivations、relationships、canonical_events_timeline、confirmed_facts、forbidden_assumptions），逐人逐键程序核对，0处缺键。
+- voice_style_en区分度：32人全部齐备，同结构{tone、signature_phrases、sentence_pattern、taboo}；tone共32种无重复，sentence_pattern共32种无重复，taboo共32种无重复，signature_phrases共64条无重复；Q的signature_phrases为空数组，tone写明无原文台词可据、改用布思罗伊德口吻。
+- 平行_en字段：appearance_en、age_clues_en、personality_en、habits_en各31/32，background_en 32/32，voice_style_en、behavioral_boundaries_en、knowledge_boundaries_en各32/32；缺失的4项全部集中于Q一人（中文为空，不适用）。
+- language_modes与KC-11至KC-16：knowledge-control.json为v2.1，规则共16条（KC-01至KC-16），每条含condition、allowed、forbidden、example；language_modes含zh/en两种模式与6条原则；adaptation-boundaries已核验10条，结构未动。
+- 登记（不另设字段）：核心人物不设relationships_en字段，英文版关系见role_en.relationships；timeline_cutoff_en共32人已补（2026-11-07由knowledge/resolution/timeline.json机械同步，逐条核对年份一致）；knowledge_scope的known/unknown清单（929项）与sources数组无英文版，记为已知缺口；M的relationships与role_en.relationships均沿用合并前id bill-tanner，经aliases.json可解析到chief-of-staff，见docs/VALIDATION-REPORT.md尚未解决问题第21条。
